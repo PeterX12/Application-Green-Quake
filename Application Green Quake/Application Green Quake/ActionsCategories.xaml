@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Application_Green_Quake.ActionsCategories">
+    <ContentPage.Content>
+        <ScrollView>
+            <StackLayout>
+                <Button Text="Recent"
+                    Clicked="NavigateToRecent" />
+                <Button Text="Habits"
+                    Clicked="NavigateToHabits" />
+                <Button Text="Food and Drink"
+                    Clicked="NavigateToFoodAndDrink" />
+                <Button Text="Energy"
+                    Clicked="NavigateToEnergy" />
+                <Button Text="Travel"
+                    Clicked="NavigateToTravel" />
+                <Button Text="Shopping"
+                    Clicked="NavigateToShopping" />
+                <Button Text="Water"
+                    Clicked="NavigateToWater" />
+                <Button Text="Home"
+                    Clicked="NavigateToHome" />
+                <Button Text="Outdoors"
+                    Clicked="NavigateToOutdoors" />
+                <Button Text="Community"
+                    Clicked="NavigateToCommunity" />
+                <Button Text="Waste"
+                    Clicked="NavigateToWaste" />
+                <Button Text="Work"
+                    Clicked="NavigateToWork" />
+                <Button Text="Advanced"
+                    Clicked="NavigateToAdvanced" />
+            </StackLayout>
+        </ScrollView>
+    </ContentPage.Content>
+</ContentPage>

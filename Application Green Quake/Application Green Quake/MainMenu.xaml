@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Application_Green_Quake.MainMenu">
+    <ContentPage.Content>
+        <StackLayout>
+            <Button Text="Log Eco Action"
+                    Clicked="NavigateToEcoActionButton" />
+            <Button Text="Refill Station"
+                    Clicked="NavigateToRefillStation" />
+            <Button Text="Food Inverntory"
+                    Clicked="NavigateToFoodInventory" />
+            <Button Text="Sing Out"
+                    Clicked="SignOutButton" />
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

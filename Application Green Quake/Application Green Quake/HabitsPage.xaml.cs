@@ -19,7 +19,7 @@ namespace Application_Green_Quake
 
         private async void NavigateToBrushingPage(object sender, EventArgs e)
         {
-            Application.Current.MainPage = new BrushingTeeth();
+            await Navigation.PushAsync(new BrushingTeeth());
         }
     }
 }

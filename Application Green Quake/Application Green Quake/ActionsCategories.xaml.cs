@@ -23,7 +23,7 @@ namespace Application_Green_Quake
 
         private async void NavigateToHabits(object sender, EventArgs e)
         {
-            Application.Current.MainPage = new HabitsPage();
+            await Navigation.PushAsync(new HabitsPage());
         }
 
         private async void NavigateToFoodAndDrink(object sender, EventArgs e)

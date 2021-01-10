@@ -31,7 +31,7 @@ namespace Application_Green_Quake
 
                 if (signOut)
                 {
-                    Application.Current.MainPage = new MainPage();
+                    await Navigation.PushAsync(new MainPage());
                 }
                 else
                 {

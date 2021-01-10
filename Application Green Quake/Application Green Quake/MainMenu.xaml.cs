@@ -1,4 +1,5 @@
-﻿using System;
+﻿using Android.Content;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -21,7 +22,7 @@ namespace Application_Green_Quake
 
         private async void NavigateToEcoActionButton(object sender, EventArgs e)
         {
-            Application.Current.MainPage = new ActionsCategories();
+            await Navigation.PushAsync(new ActionsCategories());
         }
 
         private async void NavigateToRefillStation(object sender, EventArgs e)
@@ -38,13 +39,13 @@ namespace Application_Green_Quake
             await Navigation.PushAsync(new FoodInventoryMenu());
         }
 
-        void SignOutButton(object sender, EventArgs e)
+        async void SignOutButton(object sender, EventArgs e)
         {
             var signOut = auth.SignOut();
 
             if (signOut)
             {
-                Application.Current.MainPage = new MainPage();
+                await Navigation.PushAsync(new MainPage());
             }
         }
     }

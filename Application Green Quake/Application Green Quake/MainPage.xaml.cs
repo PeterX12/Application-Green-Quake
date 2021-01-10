@@ -24,20 +24,20 @@ namespace Application_Green_Quake
             string token = await auth.LoginWithEmailAndPassword(EmailInput.Text, PasswordInput.Text);
             if (token != string.Empty)
             {
-                Application.Current.MainPage = new MainMenu();
+                await Navigation.PushAsync(new MainMenu());
             }
             else
             {
                await DisplayAlert("Authentication Failed", "Email or Password are incorrect", "Ok");
             }
         }
-        void SignUpClicked(object sender, EventArgs e)
+        async void SignUpClicked(object sender, EventArgs e)
         {
             var signOut = auth.SignOut();
 
             if (signOut)
             {
-                Application.Current.MainPage = new SignUpPage();
+                await Navigation.PushAsync(new SignUpPage());
             }
         }
     }

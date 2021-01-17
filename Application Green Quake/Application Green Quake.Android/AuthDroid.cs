@@ -10,8 +10,8 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using Xamarin.Forms;
-using Firebase.Auth;
 using Application_Green_Quake.Droid;
+using Firebase.Auth;
 
 [assembly : Dependency(typeof(AuthDroid))]
 namespace Application_Green_Quake.Droid

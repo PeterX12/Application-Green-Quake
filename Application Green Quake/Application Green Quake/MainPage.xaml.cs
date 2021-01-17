@@ -13,6 +13,7 @@ namespace Application_Green_Quake
     public partial class MainPage : ContentPage
     {
         IAuth auth;
+        public static string token;
         public MainPage()
         {
             InitializeComponent();
@@ -21,7 +22,7 @@ namespace Application_Green_Quake
 
         async void LoginClicked(object sender, EventArgs e)
         {
-            string token = await auth.LoginWithEmailAndPassword(EmailInput.Text, PasswordInput.Text);
+            token = await auth.LoginWithEmailAndPassword(EmailInput.Text, PasswordInput.Text);
             if (token != string.Empty)
             {
                 await Navigation.PushAsync(new MainMenu());

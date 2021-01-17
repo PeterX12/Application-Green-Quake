@@ -23,11 +23,13 @@ namespace Application_Green_Quake
         private async void Button_OnClicked(object sender, EventArgs e)
         {
             FirebaseClient firebaseClient = new FirebaseClient("https://application-green-quake-default-rtdb.firebaseio.com/");
-
+            
             await firebaseClient
-                .Child("User")
-                .PostAsync(new User() { UserName = "Bob", Points="1" });
+                .Child("Points")
+                .Child(MainPage.token)
+                .PutAsync(new Points() {points = 12});
 
+               
             await DisplayAlert("Alert", "1 Point Have been added", "OK");
         }
     }

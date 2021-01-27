@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Application_Green_Quake.TimedShower">
+    <ContentPage.Content>
+        <StackLayout>
+            <Label Text="Time you shower and shower for Max 5 - 10 Mins!" />
+            <Label Text="Points: 1"
+                   TextColor="Green"/>
+            <Button Text="Completed"
+                    Clicked="AddPointsClicked"/>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

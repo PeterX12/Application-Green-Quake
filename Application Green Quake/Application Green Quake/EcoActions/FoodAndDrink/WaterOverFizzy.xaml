@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Application_Green_Quake.WaterOverFizzy">
+    <ContentPage.Content>
+        <StackLayout>
+            <Label Text="Purchas Water over other drinks as the production of other drinks negatively impacts the environemnt and to reduce your carbon footprint from the drink itself. " />
+            <Label Text="Points: 3"
+                   TextColor="Green"/>
+            <Button Text="Completed"
+                    Clicked="AddPointsClicked"/>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

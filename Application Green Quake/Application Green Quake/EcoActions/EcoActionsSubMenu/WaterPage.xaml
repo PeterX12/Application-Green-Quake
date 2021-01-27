@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Application_Green_Quake.WaterPage">
+    <ContentPage.Content>
+        <StackLayout>
+            <Button Text="Brushing Teeth"
+                    Clicked="NavigateToBrushingPage"/>
+            <Button Text="Timed Shower"
+                    Clicked="NavigateToTimedShowerPage"/>
+            <Button Text="Shower Instead of Bathing"
+                    Clicked="NavigateToShoweredInsteadOfBath"/>
+            <Button Text="Use Dishwasher Only When Full"
+                    Clicked="NavigateToDishwasherFull"/>
+            <Button Text="Use Reusable Water Bottle"
+                    Clicked="NavigateToReusableWater"/>
+            <Button Text=""
+                    Clicked="NavigateTo"/>
+            <Button Text=""
+                    Clicked="NavigateTo"/>
+            <Button Text=""
+                    Clicked="NavigateTo"/>
+            <Button Text=""
+                    Clicked="NavigateTo"/>
+            <Button Text=""
+                    Clicked="NavigateTo"/>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

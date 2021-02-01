@@ -44,31 +44,31 @@ namespace Application_Green_Quake
             await Navigation.PushAsync(new ReusableWater());
         }
 
-        private async void NavigateToTimedShowerPage(object sender, EventArgs e)
+        private async void NavigateToWSShowerhead(object sender, EventArgs e)
         {
-            await Navigation.PushAsync(new TimedShower());
+            await Navigation.PushAsync(new WSShowerHead());
         }
 
-        private async void NavigateToShoweredInsteadOfBath(object sender, EventArgs e)
+        private async void NavigateToCisternDisplacement(object sender, EventArgs e)
         {
-            await Navigation.PushAsync(new ShowerInstead());
+            await Navigation.PushAsync(new CisternDisplacement());
         }
 
-        private async void NavigateToDishwasherFull(object sender, EventArgs e)
+        private async void NavigateToShowerBucket(object sender, EventArgs e)
         {
-            await Navigation.PushAsync(new DishwasherFull());
-
-        }
-
-        private async void NavigateToDishwasherFull(object sender, EventArgs e)
-        {
-            await Navigation.PushAsync(new DishwasherFull());
+            await Navigation.PushAsync(new ShowerBucket());
 
         }
 
-        private async void NavigateToDishwasherFull(object sender, EventArgs e)
+        private async void NavigateToRainBarrel(object sender, EventArgs e)
         {
-            await Navigation.PushAsync(new DishwasherFull());
+            await Navigation.PushAsync(new RainBarrel());
+
+        }
+
+        private async void NavigateToToiletFlushes(object sender, EventArgs e)
+        {
+            await Navigation.PushAsync(new ToiletFlushes());
 
         }
     }

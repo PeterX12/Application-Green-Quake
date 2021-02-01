@@ -4,9 +4,18 @@
              x:Class="Application_Green_Quake.AdvancedPage">
     <ContentPage.Content>
         <StackLayout>
-            <Label Text="Welcome to Xamarin.Forms!"
-                VerticalOptions="CenterAndExpand" 
-                HorizontalOptions="CenterAndExpand" />
+            <Button Text="Create a Herb Garden"
+                    Clicked="NavigateToSetUpHerbGarden"/>
+            <Button Text="Create a Vegetable Garden"
+                    Clicked="NavigateToSetUpVegetableGarden"/>
+            <Button Text="Create a Fruit Garden"
+                    Clicked="NavigateToSetUpFruitGarden"/>
+            <Button Text="Set Up a RainWater Colector"
+                    Clicked="NavigateToSetUpRainWaterColector"/>
+            <Button Text="Set Up a Birdfeeder"
+                    Clicked="NavigateToSetUpBirdfeeder"/>
+            <Button Text="Fix an Item Instead of Throwing it Away"
+                    Clicked="NavigateToFixInsteadOfThrowAway"/>
         </StackLayout>
     </ContentPage.Content>
 </ContentPage>

@@ -21,7 +21,14 @@ namespace Application_Green_Quake.Droid
         public bool IsSignIn()
         {
             var user = Firebase.Auth.FirebaseAuth.Instance.CurrentUser;
-            return user != null;
+            if (user == null)
+            {
+                return true;
+            }
+            else
+            {
+                return false;
+            }
         }
 
         public async Task<string> LoginWithEmailAndPassword(string email, string password)

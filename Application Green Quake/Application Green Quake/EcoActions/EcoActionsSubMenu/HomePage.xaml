@@ -4,9 +4,18 @@
              x:Class="Application_Green_Quake.HomePage">
     <ContentPage.Content>
         <StackLayout>
-            <Label Text="Welcome to Xamarin.Forms!"
-                VerticalOptions="CenterAndExpand" 
-                HorizontalOptions="CenterAndExpand" />
+            <Button Text="Air Out Your Home"
+                    Clicked="NavigateToAirOutHome"/>
+            <Button Text="Go Outside Once a Day"
+                    Clicked="NavigateToOutsideOnce"/>
+            <Button Text="Bring a Plant Into the Home"
+                    Clicked="NavigateToPlantIntoHome"/>
+            <Button Text="Clean With Non Harmful Products"
+                    Clicked="NavigateToNonHarmfulProducts"/>
+            <Button Text="Use Cloth Napkin Instead of Paper"
+                    Clicked="NavigateToClothNapkins"/>
+            <Button Text="Use Cloth Towels Instead of Paper"
+                    Clicked="NavigateToClothTowels"/>
         </StackLayout>
     </ContentPage.Content>
 </ContentPage>

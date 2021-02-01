@@ -4,9 +4,24 @@
              x:Class="Application_Green_Quake.WorkPage">
     <ContentPage.Content>
         <StackLayout>
-            <Label Text="Welcome to Xamarin.Forms!"
-                VerticalOptions="CenterAndExpand" 
-                HorizontalOptions="CenterAndExpand" />
+            <Button Text="Carpool to Work"
+                    Clicked="NavigateToCarpool"/>
+            <Button Text="Public Transport To Work"
+                    Clicked="NavigateToPublicTransport"/>
+            <Button Text="Cycle to Work"
+                    Clicked="NavigateToCycle"/>
+            <Button Text="Walk to Work"
+                    Clicked="NavigateToWalk"/>
+            <Button Text="Travel to Work in an Eco-Freindly Car"
+                    Clicked="NavigateToEcoFreindlyCar"/>
+            <Button Text="Turn off the Lights"
+                    Clicked="NavigateToOffLights"/>
+            <Button Text="Turn of Electronics"
+                    Clicked="NavigateToOffElectronics"/>
+            <Button Text="Try Working Remotely"
+                    Clicked="NavigateToWorkingRemotely"/>
+            <Button Text="Use Both Sides of The Paper"
+                    Clicked="NavigateToBothSidesPaper"/>
         </StackLayout>
     </ContentPage.Content>
 </ContentPage>

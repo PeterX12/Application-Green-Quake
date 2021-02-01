@@ -4,9 +4,11 @@
              x:Class="Application_Green_Quake.EcoActions.Shopping.EthicalClothes">
     <ContentPage.Content>
         <StackLayout>
-            <Label Text="Welcome to Xamarin.Forms!"
-                VerticalOptions="CenterAndExpand" 
-                HorizontalOptions="CenterAndExpand" />
+            <Label Text="" />
+            <Label Text="Points: 3"
+                   TextColor="Green"/>
+            <Button Text="Completed"
+                    Clicked="AddPointsClicked"/>
         </StackLayout>
     </ContentPage.Content>
 </ContentPage>

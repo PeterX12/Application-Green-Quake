@@ -1,4 +1,5 @@
-﻿using System;
+﻿using Application_Green_Quake.EcoActions.Waste;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -15,6 +16,36 @@ namespace Application_Green_Quake
         public WastePage()
         {
             InitializeComponent();
+        }
+
+        private async void NavigateToUseRecyclingBin(object sender, EventArgs e)
+        {
+            await Navigation.PushAsync(new UseRecyclingBin());
+        }
+
+        private async void NavigateToSetUpRecyclingBin(object sender, EventArgs e)
+        {
+            await Navigation.PushAsync(new SetUpRecyclingBin());
+        }
+
+        private async void NavigateToSetUpCompostBin(object sender, EventArgs e)
+        {
+            await Navigation.PushAsync(new SpreadAwareness());
+        }
+
+        private async void NavigateToCompostWaste(object sender, EventArgs e)
+        {
+            await Navigation.PushAsync(new CompostWaste());
+        }
+
+        private async void NavigateToUseBiogradableBinBags(object sender, EventArgs e)
+        {
+            await Navigation.PushAsync(new UseBiogradableBinBags());
+        }
+
+        private async void NavigateToPayBillsOnline(object sender, EventArgs e)
+        {
+            await Navigation.PushAsync(new BillsOnline());
         }
     }
 }

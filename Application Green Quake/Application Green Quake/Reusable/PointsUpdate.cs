@@ -7,15 +7,21 @@ namespace Application_Green_Quake.Reusable
 {
     class PointsUpdate
     {
-
         int points2 = 0;
+        string username = "";
         public async void UpdatePoints(int addPoints)
         {
 
             FirebaseClient firebaseClient = new FirebaseClient("https://application-green-quake-default-rtdb.firebaseio.com/");
+            
 
             try
             {
+                username = (await firebaseClient
+                     .Child("users")
+                     .Child(MainPage.token)
+                     .OnceSingleAsync<Users>()).username;
+
                 points2 = (await firebaseClient
                      .Child("Points")
                      .Child(MainPage.token)
@@ -26,7 +32,7 @@ namespace Application_Green_Quake.Reusable
                 await firebaseClient
                 .Child("Points")
                 .Child(MainPage.token)
-                .PutAsync(new Points() { points = points2 });
+                .PutAsync(new Points() { points = points2, username = username});
             }
             catch (FirebaseException)
             {

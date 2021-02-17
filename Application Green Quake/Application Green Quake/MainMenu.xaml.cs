@@ -1,4 +1,5 @@
 ﻿using Android.Content;
+using Application_Green_Quake.Reusable;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -11,7 +12,7 @@ using Xamarin.Forms.Xaml;
 namespace Application_Green_Quake
 {
     [XamlCompilation(XamlCompilationOptions.Compile)]
-    public partial class MainMenu : ContentPage
+    public partial class MainMenu : TabbedPage
     {
         IAuth auth;
         public MainMenu()

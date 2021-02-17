@@ -1,9 +1,12 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
-<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
-             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
-             x:Class="Application_Green_Quake.MainMenu"
-             NavigationPage.HasBackButton="False">
-    <ContentPage.Content>
+﻿<?xml version="1.0" encoding="utf-8" ?>    
+    
+<TabbedPage xmlns="http://xamarin.com/schemas/2014/forms"
+            xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" xmlns:reusable="clr-namespace:Application_Green_Quake.Reusable" xmlns:application_green_quake="clr-namespace:Application_Green_Quake"
+            x:Class="Application_Green_Quake.MainMenu"
+            NavigationPage.HasBackButton="False"
+            NavigationPage.HasNavigationBar="False">
+
+    <ContentPage Title="Main Menu">
         <StackLayout>
             <Button Text="Log Eco Action"
                     Clicked="NavigateToEcoActionButton" />
@@ -11,8 +14,11 @@
                     Clicked="NavigateToRefillStation" />
             <Button Text="Food Inverntory"
                     Clicked="NavigateToFoodInventory" />
-            <Button Text="Sing Out"
+            <Button Text="Sign Out"
                     Clicked="SignOutButton" />
         </StackLayout>
-    </ContentPage.Content>
-</ContentPage>
+    </ContentPage>
+
+    <reusable:TopTabLeaderBoard Title="Leaderboard"></reusable:TopTabLeaderBoard>
+    <reusable:TopTabProfile Title="Profile"></reusable:TopTabProfile>
+</TabbedPage>

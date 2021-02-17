@@ -14,5 +14,7 @@ namespace Application_Green_Quake
         bool SignOut();
 
         bool IsSignIn();
+
+        string GetUid();
     }
 }

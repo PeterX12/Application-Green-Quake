@@ -1,4 +1,5 @@
-﻿using System;
+﻿using Application_Green_Quake.Reusable;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -26,6 +27,7 @@ namespace Application_Green_Quake
             if (token != string.Empty)
             {
                 await Navigation.PushAsync(new MainMenu());
+                
             }
             else
             {

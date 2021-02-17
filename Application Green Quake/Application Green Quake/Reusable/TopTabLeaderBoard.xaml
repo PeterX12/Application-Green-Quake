@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Application_Green_Quake.Reusable.TopTabLeaderBoard">
+    <ContentPage.Content>
+        <StackLayout>
+            <Label Text="Leader Board" FontSize="22" HorizontalTextAlignment="Center"></Label>
+            <Entry x:Name="name">
+            </Entry>
+            <ListView x:Name="lstPersons">
+                <ListView.ItemTemplate>
+                    <DataTemplate>
+                        <ViewCell>
+                            <Grid>
+                                <Label Text="{Binding username, StringFormat='Username: {0}'}" FontAttributes="Bold" />
+                                <Label Grid.Column="1" Text="{Binding points, StringFormat='Points: {0}'}" FontAttributes="Bold"/>
+                            </Grid>
+                        </ViewCell>
+                    </DataTemplate>
+                </ListView.ItemTemplate>
+            </ListView>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

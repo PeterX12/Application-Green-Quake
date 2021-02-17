@@ -16,5 +16,15 @@ namespace Application_Green_Quake
         {
             InitializeComponent();
         }
+
+        private async void NavigateToNearMe(object sender, EventArgs e)
+        {
+            await Navigation.PushAsync(new NearMe());
+        }
+
+        private async void NavigateToPinOne(object sender, EventArgs e)
+        {
+            await Navigation.PushAsync(new PinOne());
+        }
     }
 }

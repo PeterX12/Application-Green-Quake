@@ -4,9 +4,9 @@ using System.Text;
 
 namespace Application_Green_Quake.Table
 {
-    class Points
+    class Users
     {
-        public int points { get; set; }
         public string username { get; set; }
+
     }
 }

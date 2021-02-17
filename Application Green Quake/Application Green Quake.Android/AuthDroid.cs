@@ -20,7 +20,7 @@ namespace Application_Green_Quake.Droid
     {
         public bool IsSignIn()
         {
-            var user = Firebase.Auth.FirebaseAuth.Instance.CurrentUser;
+            var user = FirebaseAuth.Instance.CurrentUser;
             if (user == null)
             {
                 return true;
@@ -35,7 +35,7 @@ namespace Application_Green_Quake.Droid
         {
             try
             {
-                var user = await Firebase.Auth.FirebaseAuth.Instance.SignInWithEmailAndPasswordAsync(email, password);
+                var user = await FirebaseAuth.Instance.SignInWithEmailAndPasswordAsync(email, password);
                 var token = user.User.Uid;
                 return token;
             }
@@ -55,9 +55,10 @@ namespace Application_Green_Quake.Droid
         {
             try
             {
-                Firebase.Auth.FirebaseAuth.Instance.SignOut();
+                FirebaseAuth.Instance.SignOut();
                 return true;
-            }catch (Exception e)
+            }
+            catch (Exception e)
             {
                 return false;
             }
@@ -67,10 +68,11 @@ namespace Application_Green_Quake.Droid
         {
             try
             {
-                var newUser = await Firebase.Auth.FirebaseAuth.Instance.CreateUserWithEmailAndPasswordAsync(email, password);
+                var newUser = await FirebaseAuth.Instance.CreateUserWithEmailAndPasswordAsync(email, password);
                 var token = newUser.User.Uid;
                 return token;
-            }catch (FirebaseAuthInvalidUserException e)
+            }
+            catch (FirebaseAuthInvalidUserException e)
             {
                 e.PrintStackTrace();
                 return string.Empty;
@@ -79,6 +81,33 @@ namespace Application_Green_Quake.Droid
             {
                 e.PrintStackTrace();
                 return string.Empty;
+            }
+
+        }
+        public string GetUid()
+        {
+            var user = FirebaseAuth.Instance.CurrentUser;
+            if (user != null)
+            {
+                try
+                {
+                    var uid = user.Uid;
+                    return uid;
+                }
+                catch (FirebaseAuthInvalidUserException e)
+                {
+                    e.PrintStackTrace();
+                    return string.Empty;
+                }
+                catch (FirebaseAuthInvalidCredentialsException e)
+                {
+                    e.PrintStackTrace();
+                    return string.Empty;
+                }
+            }
+            else
+            {
+                return "";
             }
         }
     }

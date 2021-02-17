@@ -1,4 +1,5 @@
-﻿using System;
+﻿using Application_Green_Quake.Reusable;
+using System;
 using Xamarin.Forms;
 using Xamarin.Forms.Xaml;
 
@@ -20,7 +21,6 @@ namespace Application_Green_Quake
             {
                 MainPage = new NavigationPage(new MainPage());
             }
-            
         }
 
         protected override void OnStart()

@@ -1,10 +1,6 @@
 ﻿using Application_Green_Quake.EcoActions.Home;
 using Application_Green_Quake.EcoActions.Shopping;
 using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 using Xamarin.Forms;
 using Xamarin.Forms.Xaml;

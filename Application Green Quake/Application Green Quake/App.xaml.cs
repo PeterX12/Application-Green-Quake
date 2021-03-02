@@ -1,7 +1,4 @@
-﻿using Application_Green_Quake.Reusable;
-using System;
-using Xamarin.Forms;
-using Xamarin.Forms.Xaml;
+﻿using Xamarin.Forms;
 
 namespace Application_Green_Quake
 {

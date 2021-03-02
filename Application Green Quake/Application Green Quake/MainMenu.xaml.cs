@@ -1,10 +1,4 @@
-﻿using Android.Content;
-using Application_Green_Quake.Reusable;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿using System;
 
 using Xamarin.Forms;
 using Xamarin.Forms.Xaml;
@@ -28,7 +22,7 @@ namespace Application_Green_Quake
 
         private async void NavigateToRefillStation(object sender, EventArgs e)
         {
-            await Navigation.PushAsync(new RefillStationMenu());
+            await Navigation.PushAsync(new RefillStation());
         }
 
         private async void NavigateToFoodInventory(object sender, EventArgs e)

@@ -1,8 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
-
-namespace Application_Green_Quake.Constants
+﻿namespace Application_Green_Quake.Constants
 {
     public class AppConstants
     {

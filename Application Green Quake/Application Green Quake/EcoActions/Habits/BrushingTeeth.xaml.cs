@@ -1,12 +1,5 @@
 ﻿using Application_Green_Quake.Reusable;
-using Application_Green_Quake.Table;
-using Firebase.Database;
-using Firebase.Database.Query;
 using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 using Xamarin.Forms;
 using Xamarin.Forms.Xaml;

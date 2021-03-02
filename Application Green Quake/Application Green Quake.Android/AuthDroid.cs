@@ -1,19 +1,10 @@
-﻿using Android.App;
-using Android.Content;
-using Android.OS;
-using Android.Runtime;
-using Android.Views;
-using Android.Widget;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
+﻿using System;
 using System.Threading.Tasks;
 using Xamarin.Forms;
 using Application_Green_Quake.Droid;
 using Firebase.Auth;
 
-[assembly : Dependency(typeof(AuthDroid))]
+[assembly: Dependency(typeof(AuthDroid))]
 namespace Application_Green_Quake.Droid
 {
     public class AuthDroid : IAuth

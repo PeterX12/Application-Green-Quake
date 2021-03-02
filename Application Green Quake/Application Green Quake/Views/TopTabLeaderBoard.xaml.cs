@@ -1,11 +1,11 @@
-﻿using Application_Green_Quake.Table;
+﻿using Application_Green_Quake.Models;
 using Firebase.Database;
 using System.Linq;
 
 using Xamarin.Forms;
 using Xamarin.Forms.Xaml;
 
-namespace Application_Green_Quake.Reusable
+namespace Application_Green_Quake.Views
 {
     [XamlCompilation(XamlCompilationOptions.Compile)]
     public partial class TopTabLeaderBoard : ContentPage

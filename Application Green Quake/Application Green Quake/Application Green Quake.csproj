@@ -12,7 +12,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <PackageReference Include="FirebaseDatabase.net" Version="4.0.5" />
+    <PackageReference Include="FirebaseDatabase.net" Version="4.0.6" />
     <PackageReference Include="Xamarin.Forms" Version="5.0.0.2012" />
     <PackageReference Include="Xamarin.Essentials" Version="1.6.1" />
     <PackageReference Include="Xamarin.Forms.GoogleMaps" Version="3.3.0" />
@@ -25,13 +25,13 @@
   </ItemGroup>
 
   <ItemGroup>
-    <Compile Update="Reusable\TopTabLeaderBoard.xaml.cs">
+    <Compile Update="Views\TopTabLeaderBoard.xaml.cs">
       <DependentUpon>TopTabLeaderBoard.xaml</DependentUpon>
     </Compile>
   </ItemGroup>
 
   <ItemGroup>
-    <EmbeddedResource Update="Views\EcoActions\AdvancedPage\FixInsteadOfThrowAway.xaml">
+    <EmbeddedResource Update="Views\EcoActions\AdvancedPageItems\FixInsteadOfThrowAway.xaml">
       <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
     </EmbeddedResource>
     <EmbeddedResource Update="Views\EcoActions\Community\CreateEnvironmentalGroup.xaml">
@@ -316,10 +316,10 @@
     <EmbeddedResource Update="Views\RefillStation.xaml">
       <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
     </EmbeddedResource>
-    <EmbeddedResource Update="Reusable\TopTabLeaderBoard.xaml">
+    <EmbeddedResource Update="Views\TopTabLeaderBoard.xaml">
       <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
     </EmbeddedResource>
-    <EmbeddedResource Update="Reusable\TopTabProfile.xaml">
+    <EmbeddedResource Update="Views\TopTabProfile.xaml">
       <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
     </EmbeddedResource>
     <EmbeddedResource Update="Views\SignUpPage.xaml">
@@ -352,9 +352,5 @@
     <EmbeddedResource Update="Views\EcoActions\EcoActionsSubMenu\WorkPage.xaml">
       <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
     </EmbeddedResource>
-  </ItemGroup>
-
-  <ItemGroup>
-    <Folder Include="ViewModels\" />
   </ItemGroup>
 </Project>

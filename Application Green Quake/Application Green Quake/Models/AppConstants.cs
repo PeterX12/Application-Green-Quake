@@ -1,4 +1,4 @@
-﻿namespace Application_Green_Quake.Constants
+﻿namespace Application_Green_Quake.Models
 {
     public class AppConstants
     {

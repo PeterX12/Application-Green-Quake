@@ -1,8 +1,8 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>    
     
 <TabbedPage xmlns="http://xamarin.com/schemas/2014/forms"
-            xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" xmlns:reusable="clr-namespace:Application_Green_Quake.Reusable" xmlns:application_green_quake="clr-namespace:Application_Green_Quake"
-            x:Class="Application_Green_Quake.MainMenu"
+            xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" xmlns:views="clr-namespace:Application_Green_Quake.Views"
+            x:Class="Application_Green_Quake.Views.MainMenu"
             NavigationPage.HasBackButton="False"
             NavigationPage.HasNavigationBar="False">
 
@@ -19,6 +19,6 @@
         </StackLayout>
     </ContentPage>
 
-    <reusable:TopTabLeaderBoard Title="Leaderboard"></reusable:TopTabLeaderBoard>
-    <reusable:TopTabProfile Title="Profile"></reusable:TopTabProfile>
+    <views:TopTabLeaderBoard Title="Leaderboard"></views:TopTabLeaderBoard>
+    <views:TopTabProfile Title="Profile"></views:TopTabProfile>
 </TabbedPage>

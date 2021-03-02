@@ -1,9 +1,10 @@
-﻿using System;
+﻿using Application_Green_Quake.Views.EcoActions.EcoActionsSubMenu;
+using System;
 
 using Xamarin.Forms;
 using Xamarin.Forms.Xaml;
 
-namespace Application_Green_Quake
+namespace Application_Green_Quake.Views.EcoActions.EcoActionsMenu
 {
     [XamlCompilation(XamlCompilationOptions.Compile)]
     public partial class ActionsCategories : ContentPage

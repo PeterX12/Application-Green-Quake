@@ -1,4 +1,4 @@
-﻿using Application_Green_Quake.Reusable;
+﻿using Application_Green_Quake.ViewModels;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -8,7 +8,7 @@ using System.Threading.Tasks;
 using Xamarin.Forms;
 using Xamarin.Forms.Xaml;
 
-namespace Application_Green_Quake
+namespace Application_Green_Quake.Views.EcoActions.FoodAndDrink
 {
     [XamlCompilation(XamlCompilationOptions.Compile)]
     public partial class BuyOrganicFood : ContentPage

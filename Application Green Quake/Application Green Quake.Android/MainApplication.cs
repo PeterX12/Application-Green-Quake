@@ -2,7 +2,7 @@
 using System;
 using Android.App;
 using Android.Runtime;
-using Application_Green_Quake.Constants;
+using Application_Green_Quake.Models;
 using Plugin.CurrentActivity;
 
 [Application(Debuggable = true)]

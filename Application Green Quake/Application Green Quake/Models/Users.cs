@@ -1,4 +1,4 @@
-﻿namespace Application_Green_Quake.Table
+﻿namespace Application_Green_Quake.Models
 {
     class Users
     {

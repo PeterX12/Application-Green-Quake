@@ -1,10 +1,10 @@
-﻿using Application_Green_Quake.EcoActions.Community;
+﻿using Application_Green_Quake.Views.EcoActions.Community;
 using System;
 
 using Xamarin.Forms;
 using Xamarin.Forms.Xaml;
 
-namespace Application_Green_Quake
+namespace Application_Green_Quake.Views.EcoActions.EcoActionsSubMenu
 {
     [XamlCompilation(XamlCompilationOptions.Compile)]
     public partial class CommunityPage : ContentPage

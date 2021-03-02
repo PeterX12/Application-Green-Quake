@@ -1,9 +1,11 @@
-﻿using System;
+﻿using Application_Green_Quake.Views;
+using Application_Green_Quake.Views.EcoActions.EcoActionsMenu;
+using System;
 
 using Xamarin.Forms;
 using Xamarin.Forms.Xaml;
 
-namespace Application_Green_Quake
+namespace Application_Green_Quake.Views
 {
     [XamlCompilation(XamlCompilationOptions.Compile)]
     public partial class MainMenu : TabbedPage

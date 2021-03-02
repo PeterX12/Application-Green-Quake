@@ -1,4 +1,4 @@
-﻿using Application_Green_Quake.Table;
+﻿using Application_Green_Quake.Models;
 using Firebase.Database;
 using Firebase.Database.Query;
 using System;
@@ -6,7 +6,7 @@ using System;
 using Xamarin.Forms;
 using Xamarin.Forms.Xaml;
 
-namespace Application_Green_Quake
+namespace Application_Green_Quake.Views
 {
     [XamlCompilation(XamlCompilationOptions.Compile)]
     public partial class SignUpPage : ContentPage

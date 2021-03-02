@@ -1,10 +1,11 @@
-﻿using Application_Green_Quake.EcoActions.Energy;
+﻿using Application_Green_Quake.Views.EcoActions.Energy;
+using Application_Green_Quake.Views.EcoActions.Habits;
 using System;
 
 using Xamarin.Forms;
 using Xamarin.Forms.Xaml;
 
-namespace Application_Green_Quake
+namespace Application_Green_Quake.Views.EcoActions.EcoActionsSubMenu
 {
     [XamlCompilation(XamlCompilationOptions.Compile)]
     public partial class EnergyPage : ContentPage

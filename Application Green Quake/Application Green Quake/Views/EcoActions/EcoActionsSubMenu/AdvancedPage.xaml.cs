@@ -1,11 +1,11 @@
-﻿using Application_Green_Quake.EcoActions.Outdoors;
-using Application_Green_Quake.EcoActions.AdvancedPage;
+﻿using Application_Green_Quake.Views.EcoActions.AdvancedPageItems;
+using Application_Green_Quake.Views.EcoActions.Outdoors;
 using System;
 
 using Xamarin.Forms;
 using Xamarin.Forms.Xaml;
 
-namespace Application_Green_Quake
+namespace Application_Green_Quake.Views.EcoActions.EcoActionsSubMenu
 {
     [XamlCompilation(XamlCompilationOptions.Compile)]
     public partial class AdvancedPage : ContentPage

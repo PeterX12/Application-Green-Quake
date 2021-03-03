@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Application_Green_Quake.Views.EcoActions.EcoActionsSubMenu.WastePage"
+             Title="Waste Subcategories">
+    <ContentPage.Content>
+        <StackLayout>
+            <Button Text="Use Recycling Bin"
+                    Clicked="NavigateToUseRecyclingBin"/>
+            <Button Text="Set Up Recycling Bin"
+                    Clicked="NavigateToSetUpRecyclingBin"/>
+            <Button Text="Set Up Compost Bin"
+                    Clicked="NavigateToSetUpCompostBin"/>
+            <Button Text="Compost Organic Waste"
+                    Clicked="NavigateToCompostWaste"/>
+            <Button Text="Use Biogradable Bin Bags"
+                    Clicked="NavigateToUseBiogradableBinBags"/>
+            <Button Text="Pay Bills Online"
+                    Clicked="NavigateToPayBillsOnline"/>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

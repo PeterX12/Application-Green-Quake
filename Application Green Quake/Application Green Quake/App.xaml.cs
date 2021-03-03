@@ -1,4 +1,5 @@
-﻿using Xamarin.Forms;
+﻿using Application_Green_Quake.Views;
+using Xamarin.Forms;
 
 namespace Application_Green_Quake
 {

@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Application_Green_Quake.Views.EcoActions.EcoActionsSubMenu.WaterPage"
+             Title="Water Subcategories">
+    <ContentPage.Content>
+        <StackLayout>
+            <Button Text="Brushing Teeth"
+                    Clicked="NavigateToBrushingPage"/>
+            <Button Text="Timed Shower"
+                    Clicked="NavigateToTimedShowerPage"/>
+            <Button Text="Shower Instead of Bathing"
+                    Clicked="NavigateToShoweredInsteadOfBath"/>
+            <Button Text="Use Dishwasher Only When Full"
+                    Clicked="NavigateToDishwasherFull"/>
+            <Button Text="Use Reusable Water Bottle"
+                    Clicked="NavigateToReusableWater"/>
+            <Button Text="Install Water Saving Showerhead"
+                    Clicked="NavigateToWSShowerhead"/>
+            <Button Text="Install a cistern-displacement device in your toilet tank"
+                    Clicked="NavigateToCisternDisplacement"/>
+            <Button Text="Collect Water in a Shower Bucket"
+                    Clicked="NavigateToShowerBucket"/>
+            <Button Text="Collect Water in a Rain Barrel"
+                    Clicked="NavigateToRainBarrel"/>
+            <Button Text="Save Toilet Flushes"
+                    Clicked="NavigateToToiletFlushes"/>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

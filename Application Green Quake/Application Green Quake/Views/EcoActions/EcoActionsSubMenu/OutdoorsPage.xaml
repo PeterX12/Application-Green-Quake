@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Application_Green_Quake.Views.EcoActions.EcoActionsSubMenu.OutdoorsPage"
+             Title="Outdoors Subcategories">
+    <ContentPage.Content>
+        <StackLayout>
+            <Button Text="Plant a Tree"
+                    Clicked="NavigateToPlantATree"/>
+            <Button Text="Plant a Flower"
+                    Clicked="NavigateToPlantAFlower"/>
+            <Button Text="Plant a Bush"
+                    Clicked="NavigateToPlantABush"/>
+            <Button Text="Have a Picnic with Reusable Plates and Cutlery"
+                    Clicked="NavigateToPicnic"/>
+            <Button Text="Go Camping"
+                    Clicked="NavigateToGoCamping"/>
+            <Button Text="Scoop the Poop"
+                    Clicked="NavigateToScoop"/>
+            <Button Text="Create a Herb Garden"
+                    Clicked="NavigateToSetUpHerbGarden"/>
+            <Button Text="Create a Vegetable Garden"
+                    Clicked="NavigateToSetUpVegetableGarden"/>
+            <Button Text="Create a Fruit Garden"
+                    Clicked="NavigateToSetUpFruitGarden"/>
+            <Button Text="Set Up a RainWater Colector"
+                    Clicked="NavigateToSetUpRainWaterColector"/>
+            <Button Text="Set Up a Birdfeeder"
+                    Clicked="NavigateToSetUpBirdfeeder"/>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

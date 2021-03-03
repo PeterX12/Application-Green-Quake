@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Application_Green_Quake.Views.EcoActions.EcoActionsSubMenu.AdvancedPage"
+             Title="Advanced Subcategories">
+    <ContentPage.Content>
+        <StackLayout>
+            <Button Text="Create a Herb Garden"
+                    Clicked="NavigateToSetUpHerbGarden"/>
+            <Button Text="Create a Vegetable Garden"
+                    Clicked="NavigateToSetUpVegetableGarden"/>
+            <Button Text="Create a Fruit Garden"
+                    Clicked="NavigateToSetUpFruitGarden"/>
+            <Button Text="Set Up a RainWater Colector"
+                    Clicked="NavigateToSetUpRainWaterColector"/>
+            <Button Text="Set Up a Birdfeeder"
+                    Clicked="NavigateToSetUpBirdfeeder"/>
+            <Button Text="Fix an Item Instead of Throwing it Away"
+                    Clicked="NavigateToFixInsteadOfThrowAway"/>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

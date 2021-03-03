@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Application_Green_Quake.Views.EcoActions.EcoActionsSubMenu.TravelPage"
+             Title="Travel Subcategories">
+    <ContentPage.Content>
+        <StackLayout>
+            <Button Text="Carpool"
+                    Clicked="NavigateToCarpool"/>
+            <Button Text="Use Public Transport"
+                    Clicked="NavigateToPublicTransport"/>
+            <Button Text="Walk Instead"
+                    Clicked="NavigateToWalk"/>
+            <Button Text="Cycle Instead"
+                    Clicked="NavigateToCycle"/>
+            <Button Text="Purchase an Eco-Freindly Car"
+                    Clicked="NavigateToEcoFreindlyCar"/>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

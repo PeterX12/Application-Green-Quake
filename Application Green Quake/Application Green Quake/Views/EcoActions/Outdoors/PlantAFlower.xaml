@@ -4,8 +4,8 @@
              x:Class="Application_Green_Quake.Views.EcoActions.Outdoors.PlantAFlower">
     <ContentPage.Content>
         <StackLayout>
-            <Label Text="" />
-            <Label Text="Points: 3"
+            <Label Text="Planted a flower!" />
+            <Label Text="Points: 8"
                    TextColor="Green"/>
             <Button Text="Completed"
                     Clicked="AddPointsClicked"/>

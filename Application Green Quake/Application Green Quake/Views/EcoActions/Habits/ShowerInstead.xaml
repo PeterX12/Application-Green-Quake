@@ -4,8 +4,8 @@
              x:Class="Application_Green_Quake.Views.EcoActions.Habits.ShowerInstead">
     <ContentPage.Content>
         <StackLayout>
-            <Label Text="Showering isntead of taking a Bath can reduce water consumption by a third! A shower uses about 30 to 80 litres, while a bath uses 150 to 200 litres of precious water." />
-            <Label Text="Points: 1"
+            <Label Text="Showerd over taking a bath!" />
+            <Label Text="Points: 6"
                    TextColor="Green"/>
             <Button Text="Completed"
                     Clicked="AddPointsClicked"/>

@@ -1,4 +1,5 @@
 ﻿using Application_Green_Quake.Views.EcoActions.Shopping;
+using Application_Green_Quake.Views.EcoActions.Water;
 using System;
 
 using Xamarin.Forms;
@@ -14,14 +15,14 @@ namespace Application_Green_Quake.Views.EcoActions.EcoActionsSubMenu
             InitializeComponent();
         }
 
-        private async void NavigateToPurchaseReusableWater(object sender, EventArgs e)
+        private async void NavigateToReusableWater(object sender, EventArgs e)
         {
-            await Navigation.PushAsync(new PurchaseReusableWater());
+            await Navigation.PushAsync(new ReusableWater());
         }
 
         private async void NavigateToPurchaseReusableBag(object sender, EventArgs e)
         {
-            await Navigation.PushAsync(new PurchaseReusableBag());
+            await Navigation.PushAsync(new ReusableBag());
         }
 
         private async void NavigateToLocalProduct(object sender, EventArgs e)
@@ -42,12 +43,7 @@ namespace Application_Green_Quake.Views.EcoActions.EcoActionsSubMenu
         }
         private async void NavigateToEcoFriendlyPorduct(object sender, EventArgs e)
         {
-            await Navigation.PushAsync(new EcoFriendlyPorduct());
-        }
-
-        private async void NavigateToReusableBag(object sender, EventArgs e)
-        {
-            await Navigation.PushAsync(new ReusableBag());
+            await Navigation.PushAsync(new EcoFriendlyProduct());
         }
 
         private async void NavigateToEthicalClothes(object sender, EventArgs e)

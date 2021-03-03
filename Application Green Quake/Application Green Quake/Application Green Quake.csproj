@@ -25,6 +25,9 @@
   </ItemGroup>
 
   <ItemGroup>
+    <Compile Update="Views\EcoActions\Shopping\EcoFriendlyProduct.xaml.cs">
+      <DependentUpon>EcoFriendlyProduct.xaml</DependentUpon>
+    </Compile>
     <Compile Update="Views\TopTabLeaderBoard.xaml.cs">
       <DependentUpon>TopTabLeaderBoard.xaml</DependentUpon>
     </Compile>
@@ -154,7 +157,7 @@
     <EmbeddedResource Update="Views\EcoActions\Shopping\EcoFreidnlyApplicance.xaml">
       <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
     </EmbeddedResource>
-    <EmbeddedResource Update="Views\EcoActions\Shopping\EcoFriendlyPorduct.xaml">
+    <EmbeddedResource Update="Views\EcoActions\Shopping\EcoFriendlyProduct.xaml">
       <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
     </EmbeddedResource>
     <EmbeddedResource Update="Views\EcoActions\Shopping\EcoFriendlyToothbrush.xaml">
@@ -173,9 +176,6 @@
       <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
     </EmbeddedResource>
     <EmbeddedResource Update="Views\EcoActions\Shopping\OrganicFood.xaml">
-      <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
-    </EmbeddedResource>
-    <EmbeddedResource Update="Views\EcoActions\Shopping\PurchaseReusableBag.xaml">
       <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
     </EmbeddedResource>
     <EmbeddedResource Update="Views\EcoActions\Shopping\PurchaseReusableWater.xaml">
@@ -232,9 +232,6 @@
     <EmbeddedResource Update="Views\EcoActions\Water\ShowerBucket.xaml">
       <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
     </EmbeddedResource>
-    <EmbeddedResource Update="Views\EcoActions\Water\ToiletFlushes.xaml">
-      <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
-    </EmbeddedResource>
     <EmbeddedResource Update="Views\EcoActions\Water\WSShowerHead.xaml">
       <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
     </EmbeddedResource>
@@ -242,9 +239,6 @@
       <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
     </EmbeddedResource>
     <EmbeddedResource Update="Views\EcoActions\Work\OffElectronics.xaml">
-      <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
-    </EmbeddedResource>
-    <EmbeddedResource Update="Views\EcoActions\Work\OffLights.xaml">
       <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
     </EmbeddedResource>
     <EmbeddedResource Update="Views\EcoActions\Work\WorkingRemotely.xaml">

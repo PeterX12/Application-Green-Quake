@@ -1,11 +1,11 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
-             x:Class="Application_Green_Quake.Views.EcoActions.Work.OffLights">
+             x:Class="Application_Green_Quake.Views.EcoActions.Shopping.EcoFriendlyProduct">
     <ContentPage.Content>
         <StackLayout>
-            <Label Text="" />
-            <Label Text="Points: 3"
+            <Label Text="Used an eco-friendly product!" />
+            <Label Text="Points: 4"
                    TextColor="Green"/>
             <Button Text="Completed"
                     Clicked="AddPointsClicked"/>

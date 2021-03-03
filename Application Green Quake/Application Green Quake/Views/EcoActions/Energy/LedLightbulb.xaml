@@ -4,8 +4,8 @@
              x:Class="Application_Green_Quake.Views.EcoActions.Energy.LedLightbulb">
     <ContentPage.Content>
         <StackLayout>
-            <Label Text="Water used while brushing your teeth can really add up. Everytime when brushing your teeth turn off the water while brushing to earn some points." />
-            <Label Text="Points: 1"
+            <Label Text="Changed to a LED lightbulb!" />
+            <Label Text="Points: 10"
                    TextColor="Green"/>
             <Button Text="Completed"
                     Clicked="AddPointsClicked"/>

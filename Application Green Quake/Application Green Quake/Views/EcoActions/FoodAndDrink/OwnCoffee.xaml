@@ -4,8 +4,8 @@
              x:Class="Application_Green_Quake.Views.EcoActions.FoodAndDrink.OwnCoffee">
     <ContentPage.Content>
         <StackLayout>
-            <Label Text="" />
-            <Label Text="Points: 3"
+            <Label Text="Made your own coffee!" />
+            <Label Text="Points: 2"
                    TextColor="Green"/>
             <Button Text="Completed"
                     Clicked="AddPointsClicked"/>

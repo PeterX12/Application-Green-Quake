@@ -1,4 +1,5 @@
-﻿using Application_Green_Quake.ViewModels;
+﻿using Application_Green_Quake.Models;
+using Application_Green_Quake.ViewModels;
 using System;
 
 using Xamarin.Forms;
@@ -9,7 +10,6 @@ namespace Application_Green_Quake.Views.EcoActions.Shopping
     [XamlCompilation(XamlCompilationOptions.Compile)]
     public partial class ReBatteries : ContentPage
     {
-        int addPoints = 3;
         public ReBatteries()
         {
             InitializeComponent();
@@ -18,8 +18,8 @@ namespace Application_Green_Quake.Views.EcoActions.Shopping
         private async void AddPointsClicked(object sender, EventArgs e)
         {
             PointsUpdate helper = new PointsUpdate();
-            helper.UpdatePoints(addPoints);
-            await DisplayAlert("Alert", addPoints + " Point Have been added", "OK");
+            helper.UpdateBySixPoints();
+            await DisplayAlert("Alert", AppConstants.sixPointsMsg, "OK");
         }
     }
 }

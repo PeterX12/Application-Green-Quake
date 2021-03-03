@@ -5,9 +5,9 @@
              Title="Shopping Subcategories">
     <ContentPage.Content>
         <StackLayout>
-            <Button Text="Purchase Reusable Water Bottle"
-                    Clicked="NavigateToPurchaseReusableWater"/>
-            <Button Text="Purchase Reusable Bag"
+            <Button Text="Used Reusable Water Bottle"
+                    Clicked="NavigateToReusableWater"/>
+            <Button Text="Used Reusable Bag"
                     Clicked="NavigateToPurchaseReusableBag"/>
             <Button Text="Purchase a Local Product"
                     Clicked="NavigateToLocalProduct"/>
@@ -17,21 +17,19 @@
                     Clicked="NavigateToFoodInBulk"/>
             <Button Text="Purchase Eco Friendly Porduct"
                     Clicked="NavigateToEcoFriendlyPorduct"/>
-            <Button Text="Use Reusable Bag"
-                    Clicked="NavigateToReusableBag"/>
             <Button Text="Purchase Ethical Clothes"
                     Clicked="NavigateToEthicalClothes"/>
             <Button Text="Purchase an Eco Friendly Toothbrush"
                     Clicked="NavigateToEcoFriendlyToothbrush"/>
             <Button Text="Purchase an Eco-Freidnly Applicance"
                     Clicked="NavigateToEcoFreidnlyApplicance"/>
-            <Button Text="Purchase LooseLeaf Tea Over Bags"
+            <Button Text="Had LooseLeaf Tea Over Bags"
                     Clicked="NavigateToLooseLeafTea"/>
-            <Button Text="Purchase Rechargable Batteries"
+            <Button Text="Used Rechargable Batteries"
                     Clicked="NavigateToReBatteries"/>
-            <Button Text="Purchase Cloth Napkins"
+            <Button Text="Used Cloth Napkins"
                     Clicked="NavigateToClothNapkins"/>
-            <Button Text="Purchase Cloth Towels"
+            <Button Text="Used Cloth Towels"
                     Clicked="NavigateToClothTowels"/>
         </StackLayout>
     </ContentPage.Content>

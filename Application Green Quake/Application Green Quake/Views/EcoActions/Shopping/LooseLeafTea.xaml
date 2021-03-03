@@ -4,8 +4,8 @@
              x:Class="Application_Green_Quake.Views.EcoActions.Shopping.LooseLeafTea">
     <ContentPage.Content>
         <StackLayout>
-            <Label Text="" />
-            <Label Text="Points: 3"
+            <Label Text="Used loose leaf tea over bagged tea!" />
+            <Label Text="Points: 4"
                    TextColor="Green"/>
             <Button Text="Completed"
                     Clicked="AddPointsClicked"/>

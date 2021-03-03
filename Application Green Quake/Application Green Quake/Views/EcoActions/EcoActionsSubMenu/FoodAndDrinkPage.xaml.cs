@@ -1,4 +1,5 @@
 ﻿using Application_Green_Quake.Views.EcoActions.FoodAndDrink;
+using Application_Green_Quake.Views.EcoActions.Water;
 using System;
 
 using Xamarin.Forms;
@@ -9,7 +10,6 @@ namespace Application_Green_Quake.Views.EcoActions.EcoActionsSubMenu
     [XamlCompilation(XamlCompilationOptions.Compile)]
     public partial class FoodAndDrinkPage : ContentPage
     {
-        int addPoints = 3;
         public FoodAndDrinkPage()
         {
             InitializeComponent();
@@ -57,6 +57,11 @@ namespace Application_Green_Quake.Views.EcoActions.EcoActionsSubMenu
         private async void NavigateToSteelStraw(object sender, EventArgs e)
         {
             await Navigation.PushAsync(new SteelStraw());
+        }
+
+        private async void NavigateToReusableWater(object sender, EventArgs e)
+        {
+            await Navigation.PushAsync(new ReusableWater());
         }
     }
 }

@@ -4,8 +4,8 @@
              x:Class="Application_Green_Quake.Views.EcoActions.Waste.SpreadAwareness">
     <ContentPage.Content>
         <StackLayout>
-            <Label Text="" />
-            <Label Text="Points: 3"
+            <Label Text="Spreaded awerenss about the environment!" />
+            <Label Text="Points: 10"
                    TextColor="Green"/>
             <Button Text="Completed"
                     Clicked="AddPointsClicked"/>

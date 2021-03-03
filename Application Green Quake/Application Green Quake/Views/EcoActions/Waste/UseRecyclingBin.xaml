@@ -4,8 +4,8 @@
              x:Class="Application_Green_Quake.Views.EcoActions.Waste.UseRecyclingBin">
     <ContentPage.Content>
         <StackLayout>
-            <Label Text="" />
-            <Label Text="Points: 3"
+            <Label Text="Recycled Waste!" />
+            <Label Text="Points: 6"
                    TextColor="Green"/>
             <Button Text="Completed"
                     Clicked="AddPointsClicked"/>

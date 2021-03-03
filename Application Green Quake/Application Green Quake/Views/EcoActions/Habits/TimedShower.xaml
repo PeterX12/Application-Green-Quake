@@ -4,8 +4,8 @@
              x:Class="Application_Green_Quake.Views.EcoActions.Habits.TimedShower">
     <ContentPage.Content>
         <StackLayout>
-            <Label Text="Time you shower and shower for Max 5 - 10 Mins!" />
-            <Label Text="Points: 1"
+            <Label Text="Timed your shower and showered for Max 5 - 10 Mins!" />
+            <Label Text="Points: 4"
                    TextColor="Green"/>
             <Button Text="Completed"
                     Clicked="AddPointsClicked"/>

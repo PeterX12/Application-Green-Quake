@@ -4,8 +4,8 @@
              x:Class="Application_Green_Quake.Views.EcoActions.Outdoors.Scoop">
     <ContentPage.Content>
         <StackLayout>
-            <Label Text="" />
-            <Label Text="Points: 3"
+            <Label Text="Scooped up the poop after your dog!" />
+            <Label Text="Points: 4"
                    TextColor="Green"/>
             <Button Text="Completed"
                     Clicked="AddPointsClicked"/>

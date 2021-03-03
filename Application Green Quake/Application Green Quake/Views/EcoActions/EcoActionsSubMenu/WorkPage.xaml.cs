@@ -1,4 +1,5 @@
-﻿using Application_Green_Quake.Views.EcoActions.Travel;
+﻿using Application_Green_Quake.Views.EcoActions.Habits;
+using Application_Green_Quake.Views.EcoActions.Travel;
 using Application_Green_Quake.Views.EcoActions.Work;
 using System;
 
@@ -42,7 +43,7 @@ namespace Application_Green_Quake.Views.EcoActions.EcoActionsSubMenu
 
         private async void NavigateToOffLights(object sender, EventArgs e)
         {
-            await Navigation.PushAsync(new OffLights());
+            await Navigation.PushAsync(new TurnOffLights());
         }
 
         private async void NavigateToOffElectronics(object sender, EventArgs e)

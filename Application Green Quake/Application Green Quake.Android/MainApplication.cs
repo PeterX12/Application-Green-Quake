@@ -10,7 +10,7 @@ using Plugin.CurrentActivity;
 	[Application(Debuggable = false)]
 #endif
 [MetaData("com.google.android.maps.v2.API_KEY",
-			  Value = AppConstants.GoogleMapsApiKey)]
+			  Value = AppConstants.googleMapsApiKey)]
 public class MainApplication : Application
 {
 	public MainApplication(IntPtr handle, JniHandleOwnership transer)

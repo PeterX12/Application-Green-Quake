@@ -1,4 +1,5 @@
-﻿using Application_Green_Quake.ViewModels;
+﻿using Application_Green_Quake.Models;
+using Application_Green_Quake.ViewModels;
 using System;
 
 using Xamarin.Forms;
@@ -9,7 +10,6 @@ namespace Application_Green_Quake.Views.EcoActions.Habits
     [XamlCompilation(XamlCompilationOptions.Compile)]
     public partial class TurnOffLights : ContentPage
     {
-        int addPoints = 5;
         public TurnOffLights()
         {
             InitializeComponent();
@@ -18,8 +18,8 @@ namespace Application_Green_Quake.Views.EcoActions.Habits
         private async void AddPointsClicked(object sender, EventArgs e)
         {
             PointsUpdate helper = new PointsUpdate();
-            helper.UpdatePoints(addPoints);
-            await DisplayAlert("Alert", addPoints + " Point Have been added", "OK");
+            helper.UpdateByTwoPoints();
+            await DisplayAlert("Alert", AppConstants.twoPointsMsg, "OK");
         }
     }
 }

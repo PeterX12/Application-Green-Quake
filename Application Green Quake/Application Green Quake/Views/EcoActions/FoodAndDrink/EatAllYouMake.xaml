@@ -4,8 +4,8 @@
              x:Class="Application_Green_Quake.Views.EcoActions.FoodAndDrink.EatAllYouMake">
     <ContentPage.Content>
         <StackLayout>
-            <Label Text="" />
-            <Label Text="Points: 3"
+            <Label Text="Ate all you made!" />
+            <Label Text="Points: 4"
                    TextColor="Green"/>
             <Button Text="Completed"
                     Clicked="AddPointsClicked"/>

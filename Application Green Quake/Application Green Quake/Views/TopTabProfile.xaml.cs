@@ -1,5 +1,6 @@
-﻿
-using Application_Green_Quake.ViewModels;
+﻿using Application_Green_Quake.ViewModels;
+using Rg.Plugins.Popup.Services;
+using System;
 using System.Threading.Tasks;
 using Xamarin.Forms;
 using Xamarin.Forms.Xaml;
@@ -21,6 +22,11 @@ namespace Application_Green_Quake.Views
             Task<string> myTask = username.GetUsername();
             await myTask;
             Username.Text = myTask.Result;
+        }
+
+        private async void ImageClicked(object sender, EventArgs e)
+        {
+            await PopupNavigation.Instance.PushAsync(new UploadImagePopUp());
         }
     }
 }

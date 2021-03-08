@@ -1,7 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using Application_Green_Quake.Constants;
+﻿using Application_Green_Quake.Models;
 using Foundation;
 using UIKit;
 
@@ -22,6 +19,8 @@ namespace Application_Green_Quake.iOS
         //
         public override bool FinishedLaunching(UIApplication app, NSDictionary options)
         {
+
+            Rg.Plugins.Popup.Popup.Init();
             global::Xamarin.Forms.Forms.Init();
             Firebase.Core.App.Configure();
             Xamarin.FormsGoogleMaps.Init(AppConstants.GoogleMapsApiKey); // initialize for Xamarin.Forms.GoogleMaps

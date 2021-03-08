@@ -5,7 +5,10 @@
 	<uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
 	<uses-permission android:name="android.permission.ACCESS_MOCK_LOCATION" />
 	<uses-permission android:name="android.permission.INTERNET" />
-	<application android:label="Application_Green_Quake.Android" android:theme="@style/MainTheme">
+  <uses-permission android:name="android.permission.CAMERA" />
+  <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+  <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+  <application android:label="Application_Green_Quake.Android" android:theme="@style/MainTheme">
 		<uses-library android:name="org.apache.http.legacy" android:required="false" />
 	</application>
 </manifest>

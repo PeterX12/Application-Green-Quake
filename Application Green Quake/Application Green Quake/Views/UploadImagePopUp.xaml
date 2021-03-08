@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<pages:PopupPage x:Class="Application_Green_Quake.Views.UploadImagePopUp"
+                 xmlns="http://xamarin.com/schemas/2014/forms"
+                 xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+                 xmlns:animations="clr-namespace:Rg.Plugins.Popup.Animations;assembly=Rg.Plugins.Popup"
+                 xmlns:pages="clr-namespace:Rg.Plugins.Popup.Pages;assembly=Rg.Plugins.Popup">
+
+    <StackLayout HorizontalOptions="CenterAndExpand" VerticalOptions="StartAndExpand">
+        <Image x:Name="ChosenImage" HeightRequest="200"></Image>
+        <Button x:Name="Take" Text="Take Photo" Clicked="CapturePhotoClicked"></Button>
+        <Button x:Name="Pick" Text="Pick From Storage" Clicked="UplaodPhotoClicked"></Button>
+        <Button x:Name="Save" Text="Save" Clicked="storeImageClicked"></Button>
+    </StackLayout>
+
+</pages:PopupPage>

@@ -147,9 +147,7 @@
     <AndroidResource Include="Resources\drawable\AppLogo.png" />
   </ItemGroup>
   <ItemGroup>
-    <AndroidResourceAnalysisConfig Include="file_paths.xml">
-      <SubType>Designer</SubType>
-    </AndroidResourceAnalysisConfig>
+    <AndroidResource Include="Resources\xml\file_paths.xml" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath)\Xamarin\Android\Xamarin.Android.CSharp.targets" />
   <ProjectExtensions>

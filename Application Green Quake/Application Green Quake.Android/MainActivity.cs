@@ -6,6 +6,7 @@ using Android.OS;
 using Firebase;
 using Plugin.CurrentActivity;
 using Android.Widget;
+using Plugin.Media;
 
 namespace Application_Green_Quake.Droid
 {
@@ -24,6 +25,7 @@ namespace Application_Green_Quake.Droid
             base.OnCreate(savedInstanceState);
 
             Rg.Plugins.Popup.Popup.Init(this);
+
 
             CrossCurrentActivity.Current.Init(this, savedInstanceState);
             FirebaseApp.InitializeApp(Application.Context);

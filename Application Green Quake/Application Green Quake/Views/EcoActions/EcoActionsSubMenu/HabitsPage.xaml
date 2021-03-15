@@ -2,21 +2,72 @@
 <ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              x:Class="Application_Green_Quake.Views.EcoActions.EcoActionsSubMenu.HabitsPage"
+             xmlns:local="clr-namespace:Application_Green_Quake.Models"
              Title="Habits Subcategories">
     <ContentPage.Content>
-        <StackLayout>
-            <Button Text="Brushing Teeth"
-                    Clicked="NavigateToBrushingPage"/>
-            <Button Text="Timed Shower"
-                    Clicked="NavigateToTimedShowerPage"/>
-            <Button Text="Shower Instead of Bathing"
-                    Clicked="NavigateToShoweredInsteadOfBath"/>
-            <Button Text="Use Dishwasher Only When Full"
-                    Clicked="NavigateToDishwasherFull"/>
-            <Button Text="Turn of the Lights When Reaving Room"
-                    Clicked="NavigateToTurnOffLights"/>
-            <Button Text="Use Matches instead of a Lighter"
-                    Clicked="NavigateToUseMatches"/>
-        </StackLayout>
+        <ScrollView>
+            <Grid>
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="200" />
+                    <RowDefinition Height="200"/>
+                    <RowDefinition Height="200" />
+                    <RowDefinition Height="200" />
+                    <RowDefinition Height="200" />
+                    <RowDefinition Height="200" />
+                </Grid.RowDefinitions>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition />
+                </Grid.ColumnDefinitions>
+
+                <ImageButton Grid.Column="0"
+                    Grid.Row="0"
+                    Clicked="NavigateToBrushingPage" 
+                    HorizontalOptions="FillAndExpand"
+                    VerticalOptions="FillAndExpand"
+                    Aspect="AspectFill"
+                    Source="{local:ImageResource Application_Green_Quake.Images.Habits.jpg}"
+                    />
+                <ImageButton Grid.Column="0"
+                    Grid.Row="1"
+                    Clicked="NavigateToTimedShowerPage" 
+                    HorizontalOptions="FillAndExpand"
+                    VerticalOptions="FillAndExpand"
+                    Aspect="AspectFill"
+                    Source="{local:ImageResource Application_Green_Quake.Images.FoodAndDrink.jpg}"
+                    />
+                <ImageButton Grid.Column="0"
+                    Grid.Row="2"
+                    Clicked="NavigateToShoweredInsteadOfBath" 
+                    HorizontalOptions="FillAndExpand"
+                    VerticalOptions="FillAndExpand"
+                    Aspect="AspectFill"
+                    Source="{local:ImageResource Application_Green_Quake.Images.Energy.jpg}"
+                    />
+                <ImageButton Grid.Column="0"
+                    Grid.Row="3"
+                    Clicked="NavigateToDishwasherFull" 
+                    HorizontalOptions="FillAndExpand"
+                    VerticalOptions="FillAndExpand"
+                    Aspect="AspectFill"
+                    Source="{local:ImageResource Application_Green_Quake.Images.Travel.jpg}"
+                    />
+                <ImageButton Grid.Column="0"
+                    Grid.Row="4"
+                    Clicked="NavigateToTurnOffLights" 
+                    HorizontalOptions="FillAndExpand"
+                    VerticalOptions="FillAndExpand"
+                    Aspect="AspectFill"
+                    Source="{local:ImageResource Application_Green_Quake.Images.Shopping.jpg}"
+                    />
+                <ImageButton Grid.Column="0"
+                    Grid.Row="5"
+                    Clicked="NavigateToUseMatches" 
+                    HorizontalOptions="FillAndExpand"
+                    VerticalOptions="FillAndExpand"
+                    Aspect="AspectFill"
+                    Source="{local:ImageResource Application_Green_Quake.Images.Water.jpg}"
+                    />
+            </Grid>
+        </ScrollView>
     </ContentPage.Content>
 </ContentPage>

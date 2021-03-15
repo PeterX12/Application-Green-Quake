@@ -10,11 +10,9 @@ namespace Application_Green_Quake.Views
     [XamlCompilation(XamlCompilationOptions.Compile)]
     public partial class TopTabLeaderBoard : ContentPage
     {
-        IAuth auth;
         public TopTabLeaderBoard()
         {
             InitializeComponent();
-            auth = DependencyService.Get<IAuth>();
             OnAppearing();
         }
 
@@ -22,8 +20,6 @@ namespace Application_Green_Quake.Views
         protected async override void OnAppearing()
         {
             FirebaseClient firebaseClient = new FirebaseClient("https://application-green-quake-default-rtdb.firebaseio.com/");
-
-            name.Text = auth.GetUid();
 
             lstPersons.ItemsSource = (await firebaseClient
                   .Child("Points")

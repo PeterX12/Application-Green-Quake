@@ -16,7 +16,7 @@ namespace Application_Green_Quake
             }
             else
             {
-                MainPage = new NavigationPage(new Views.MainPage());
+                MainPage = new NavigationPage(new Views.MainMenu());
             }
         }
 

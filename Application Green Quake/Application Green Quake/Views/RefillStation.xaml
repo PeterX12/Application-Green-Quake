@@ -2,8 +2,11 @@
 <ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              xmlns:maps="clr-namespace:Xamarin.Forms.GoogleMaps;assembly=Xamarin.Forms.GoogleMaps"
-             x:Class="Application_Green_Quake.Views.RefillStation">
+             x:Class="Application_Green_Quake.Views.RefillStation"
+             NavigationPage.HasNavigationBar="False">
     <ContentPage.Content>
+
         <maps:Map x:Name ="map"/>
+
     </ContentPage.Content>
 </ContentPage>

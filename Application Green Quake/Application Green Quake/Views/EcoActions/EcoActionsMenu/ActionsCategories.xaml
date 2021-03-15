@@ -2,37 +2,126 @@
 <ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              x:Class="Application_Green_Quake.Views.EcoActions.EcoActionsMenu.ActionsCategories"
+             xmlns:local="clr-namespace:Application_Green_Quake.Models"
              Title="Eco Actions Categories">
     <ContentPage.Content>
         <ScrollView>
-            <StackLayout>
-                <Button Text="Recent"
-                    Clicked="NavigateToRecent" />
-                <Button Text="Habits"
-                    Clicked="NavigateToHabits" />
-                <Button Text="Food and Drink"
-                    Clicked="NavigateToFoodAndDrink" />
-                <Button Text="Energy"
-                    Clicked="NavigateToEnergy" />
-                <Button Text="Travel"
-                    Clicked="NavigateToTravel" />
-                <Button Text="Shopping"
-                    Clicked="NavigateToShopping" />
-                <Button Text="Water"
-                    Clicked="NavigateToWater" />
-                <Button Text="Home"
-                    Clicked="NavigateToHome" />
-                <Button Text="Outdoors"
-                    Clicked="NavigateToOutdoors" />
-                <Button Text="Community"
-                    Clicked="NavigateToCommunity" />
-                <Button Text="Waste"
-                    Clicked="NavigateToWaste" />
-                <Button Text="Work"
-                    Clicked="NavigateToWork" />
-                <Button Text="Advanced"
-                    Clicked="NavigateToAdvanced" />
-            </StackLayout>
+            <Grid>
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="200" />
+                    <RowDefinition Height="200"/>
+                    <RowDefinition Height="200" />
+                    <RowDefinition Height="200" />
+                    <RowDefinition Height="200" />
+                    <RowDefinition Height="200" />
+                    <RowDefinition Height="200" />
+                    <RowDefinition Height="200" />
+                    <RowDefinition Height="200" />
+                    <RowDefinition Height="200" />
+                    <RowDefinition Height="200" />
+                    <RowDefinition Height="200" />
+                </Grid.RowDefinitions>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition />
+                </Grid.ColumnDefinitions>
+
+                <ImageButton Grid.Column="0"
+                    Grid.Row="0"
+                    Clicked="NavigateToHabits" 
+                    HorizontalOptions="FillAndExpand"
+                    VerticalOptions="FillAndExpand"
+                    Aspect="AspectFill"
+                    Source="{local:ImageResource Application_Green_Quake.Images.Habits.jpg}"
+                    />
+                <ImageButton Grid.Column="0"
+                    Grid.Row="1"
+                    Clicked="NavigateToFoodAndDrink" 
+                    HorizontalOptions="FillAndExpand"
+                    VerticalOptions="FillAndExpand"
+                    Aspect="AspectFill"
+                    Source="{local:ImageResource Application_Green_Quake.Images.FoodAndDrink.jpg}"
+                    />
+                <ImageButton Grid.Column="0"
+                    Grid.Row="2"
+                    Clicked="NavigateToEnergy" 
+                    HorizontalOptions="FillAndExpand"
+                    VerticalOptions="FillAndExpand"
+                    Aspect="AspectFill"
+                    Source="{local:ImageResource Application_Green_Quake.Images.Energy.jpg}"
+                    />
+                <ImageButton Grid.Column="0"
+                    Grid.Row="3"
+                    Clicked="NavigateToTravel" 
+                    HorizontalOptions="FillAndExpand"
+                    VerticalOptions="FillAndExpand"
+                    Aspect="AspectFill"
+                    Source="{local:ImageResource Application_Green_Quake.Images.Travel.jpg}"
+                    />
+                <ImageButton Grid.Column="0"
+                    Grid.Row="4"
+                    Clicked="NavigateToShopping" 
+                    HorizontalOptions="FillAndExpand"
+                    VerticalOptions="FillAndExpand"
+                    Aspect="AspectFill"
+                    Source="{local:ImageResource Application_Green_Quake.Images.Shopping.jpg}"
+                    />
+                <ImageButton Grid.Column="0"
+                    Grid.Row="5"
+                    Clicked="NavigateToWater" 
+                    HorizontalOptions="FillAndExpand"
+                    VerticalOptions="FillAndExpand"
+                    Aspect="AspectFill"
+                    Source="{local:ImageResource Application_Green_Quake.Images.Water.jpg}"
+                    />
+                <ImageButton Grid.Column="0"
+                    Grid.Row="6"
+                    Clicked="NavigateToHome" 
+                    HorizontalOptions="FillAndExpand"
+                    VerticalOptions="FillAndExpand"
+                    Aspect="AspectFill"
+                    Source="{local:ImageResource Application_Green_Quake.Images.Home.jpg}"
+                    />
+                <ImageButton Grid.Column="0"
+                    Grid.Row="7"
+                    Clicked="NavigateToOutdoors" 
+                    HorizontalOptions="FillAndExpand"
+                    VerticalOptions="FillAndExpand"
+                    Aspect="AspectFill"
+                    Source="{local:ImageResource Application_Green_Quake.Images.Outdoors.jpg}"
+                    />
+                <ImageButton Grid.Column="0"
+                    Grid.Row="8"
+                    Clicked="NavigateToCommunity" 
+                    HorizontalOptions="FillAndExpand"
+                    VerticalOptions="FillAndExpand"
+                    Aspect="AspectFill"
+                    Source="{local:ImageResource Application_Green_Quake.Images.Community.jpg}"
+                    />
+                <ImageButton Grid.Column="0"
+                    Grid.Row="9"
+                    Clicked="NavigateToWaste" 
+                    HorizontalOptions="FillAndExpand"
+                    VerticalOptions="FillAndExpand"
+                    Aspect="AspectFill"
+                    Source="{local:ImageResource Application_Green_Quake.Images.Waste.jpg}"
+                    />
+                <ImageButton Grid.Column="0"
+                    Grid.Row="10"
+                    Clicked="NavigateToWork" 
+                    HorizontalOptions="FillAndExpand"
+                    VerticalOptions="FillAndExpand"
+                    Aspect="AspectFill"
+                    Source="{local:ImageResource Application_Green_Quake.Images.Work.jpg}"
+                    />
+                <ImageButton Grid.Column="0"
+                    Grid.Row="11"
+                    Clicked="NavigateToAdvanced" 
+                    HorizontalOptions="FillAndExpand"
+                    VerticalOptions="FillAndExpand"
+                    Aspect="AspectFill"
+                    Source="{local:ImageResource Application_Green_Quake.Images.Advanced.jpg}"
+                    />
+            </Grid>
         </ScrollView>
     </ContentPage.Content>
 </ContentPage>

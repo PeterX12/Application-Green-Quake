@@ -41,20 +41,30 @@ namespace Application_Green_Quake.ViewModels
             }
             catch (FirebaseException)
             {
-                points2 = 1;
+                username = (await firebaseClient
+                .Child("users")
+                .Child(auth.GetUid())
+                .OnceSingleAsync<Users>()).username;
+
+                points2 = AppConstants.tenPoints;
                 await firebaseClient
                 .Child("Points")
                 .Child(auth.GetUid())
-                .PutAsync(new Points() { points = points2 });
+                .PutAsync(new Points() { points = points2, username = username });
 
             }
             catch (NullReferenceException)
             {
-                points2 = 1;
+                username = (await firebaseClient
+                .Child("users")
+                .Child(auth.GetUid())
+                .OnceSingleAsync<Users>()).username;
+
+                points2 = AppConstants.tenPoints;
                 await firebaseClient
                 .Child("Points")
                 .Child(auth.GetUid())
-                .PutAsync(new Points() { points = points2 });
+                .PutAsync(new Points() { points = points2, username = username });
             }
         }
 
@@ -85,20 +95,30 @@ namespace Application_Green_Quake.ViewModels
             }
             catch (FirebaseException)
             {
-                points2 = 1;
+                username = (await firebaseClient
+                .Child("users")
+                .Child(auth.GetUid())
+                .OnceSingleAsync<Users>()).username;
+
+                points2 = AppConstants.eightPoints;
                 await firebaseClient
                 .Child("Points")
                 .Child(auth.GetUid())
-                .PutAsync(new Points() { points = points2 });
+                .PutAsync(new Points() { points = points2, username = username });
 
             }
             catch (NullReferenceException)
             {
-                points2 = 1;
+                username = (await firebaseClient
+                .Child("users")
+                .Child(auth.GetUid())
+                .OnceSingleAsync<Users>()).username;
+
+                points2 = AppConstants.eightPoints;
                 await firebaseClient
                 .Child("Points")
                 .Child(auth.GetUid())
-                .PutAsync(new Points() { points = points2 });
+                .PutAsync(new Points() { points = points2, username = username });
             }
         }
 
@@ -129,20 +149,30 @@ namespace Application_Green_Quake.ViewModels
             }
             catch (FirebaseException)
             {
-                points2 = 1;
+                username = (await firebaseClient
+                .Child("users")
+                .Child(auth.GetUid())
+                .OnceSingleAsync<Users>()).username;
+
+                points2 = AppConstants.sixPoints;
                 await firebaseClient
                 .Child("Points")
                 .Child(auth.GetUid())
-                .PutAsync(new Points() { points = points2 });
+                .PutAsync(new Points() { points = points2, username = username });
 
             }
             catch (NullReferenceException)
             {
-                points2 = 1;
+                username = (await firebaseClient
+                .Child("users")
+                .Child(auth.GetUid())
+                .OnceSingleAsync<Users>()).username;
+
+                points2 = AppConstants.sixPoints;
                 await firebaseClient
                 .Child("Points")
                 .Child(auth.GetUid())
-                .PutAsync(new Points() { points = points2 });
+                .PutAsync(new Points() { points = points2, username = username });
             }
         }
 
@@ -173,20 +203,30 @@ namespace Application_Green_Quake.ViewModels
             }
             catch (FirebaseException)
             {
-                points2 = 1;
+                username = (await firebaseClient
+                .Child("users")
+                .Child(auth.GetUid())
+                .OnceSingleAsync<Users>()).username;
+
+                points2 = AppConstants.fourPoints;
                 await firebaseClient
                 .Child("Points")
                 .Child(auth.GetUid())
-                .PutAsync(new Points() { points = points2 });
+                .PutAsync(new Points() { points = points2, username = username });
 
             }
             catch (NullReferenceException)
             {
-                points2 = 1;
+                username = (await firebaseClient
+                .Child("users")
+                .Child(auth.GetUid())
+                .OnceSingleAsync<Users>()).username;
+
+                points2 = AppConstants.fourPoints;
                 await firebaseClient
                 .Child("Points")
                 .Child(auth.GetUid())
-                .PutAsync(new Points() { points = points2 });
+                .PutAsync(new Points() { points = points2, username = username });
             }
         }
 
@@ -217,20 +257,30 @@ namespace Application_Green_Quake.ViewModels
             }
             catch (FirebaseException)
             {
-                points2 = 1;
+                username = (await firebaseClient
+                .Child("users")
+                .Child(auth.GetUid())
+                .OnceSingleAsync<Users>()).username;
+
+                points2 = AppConstants.twoPoints;
                 await firebaseClient
                 .Child("Points")
                 .Child(auth.GetUid())
-                .PutAsync(new Points() { points = points2 });
+                .PutAsync(new Points() { points = points2, username = username });
 
             }
             catch (NullReferenceException)
             {
-                points2 = 1;
+                username = (await firebaseClient
+                .Child("users")
+                .Child(auth.GetUid())
+                .OnceSingleAsync<Users>()).username;
+
+                points2 = AppConstants.twoPoints;
                 await firebaseClient
                 .Child("Points")
                 .Child(auth.GetUid())
-                .PutAsync(new Points() { points = points2 });
+                .PutAsync(new Points() { points = points2, username = username });
             }
         }
     }

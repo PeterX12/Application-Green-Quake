@@ -1,12 +1,10 @@
 ﻿using System;
-using System.Collections.Generic;
 using System.Reflection;
-using System.Text;
 using Xamarin.Forms;
 using Xamarin.Forms.Xaml;
 
 namespace Application_Green_Quake.Models
-{ 
+{
     [ContentProperty (nameof(Source))]
     class ImageResourceExtension : IMarkupExtension
     {

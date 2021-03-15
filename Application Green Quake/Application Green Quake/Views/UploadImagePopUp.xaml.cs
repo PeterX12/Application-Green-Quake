@@ -99,6 +99,7 @@ namespace Application_Green_Quake.Views
 
             }
 
+            await Navigation.PushAsync(new MainMenu(2));
             await PopupNavigation.Instance.PopAsync(true);
         }
     }

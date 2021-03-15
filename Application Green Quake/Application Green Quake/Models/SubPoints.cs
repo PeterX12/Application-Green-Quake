@@ -1,12 +1,13 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Text;
-using Xamarin.Forms;
 
 namespace Application_Green_Quake.Models
 {
-    class Images
+    class SubPoints
     {
-        public string image { get; set; }
+        public int count { get; set; }
+        public string username { get; set; }
+
     }
 }

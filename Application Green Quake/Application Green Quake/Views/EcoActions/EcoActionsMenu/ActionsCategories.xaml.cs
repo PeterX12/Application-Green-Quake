@@ -13,11 +13,6 @@ namespace Application_Green_Quake.Views.EcoActions.EcoActionsMenu
         {
             InitializeComponent();
         }
-        private async void NavigateToRecent(object sender, EventArgs e)
-        {
-            await Navigation.PushAsync(new RecentPage());
-        }
-
         private async void NavigateToHabits(object sender, EventArgs e)
         {
             await Navigation.PushAsync(new HabitsPage());

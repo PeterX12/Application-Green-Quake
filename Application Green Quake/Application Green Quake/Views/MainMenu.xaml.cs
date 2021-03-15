@@ -17,6 +17,13 @@ namespace Application_Green_Quake.Views
             auth = DependencyService.Get<IAuth>();
         }
 
+        public MainMenu(int tab)
+        {
+            InitializeComponent();
+            auth = DependencyService.Get<IAuth>();
+            CurrentPage = Children[tab];
+        }
+
         private async void NavigateToEcoActionButton(object sender, EventArgs e)
         {
             await Navigation.PushAsync(new ActionsCategories());
@@ -25,15 +32,6 @@ namespace Application_Green_Quake.Views
         private async void NavigateToRefillStation(object sender, EventArgs e)
         {
             await Navigation.PushAsync(new RefillStation());
-        }
-
-        private async void NavigateToFoodInventory(object sender, EventArgs e)
-        {
-            await Navigation.PushAsync(new FoodInventoryMenu());
-        }
-        private async void NavigateToDatabaseTest(object sender, EventArgs e)
-        {
-            await Navigation.PushAsync(new FoodInventoryMenu());
         }
 
         async void SignOutButton(object sender, EventArgs e)

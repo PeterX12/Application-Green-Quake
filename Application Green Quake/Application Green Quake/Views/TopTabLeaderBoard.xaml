@@ -5,8 +5,7 @@
     <ContentPage.Content>
         <StackLayout>
             <Label Text="Leader Board" FontSize="22" HorizontalTextAlignment="Center"></Label>
-            <Entry x:Name="name">
-            </Entry>
+
             <ListView x:Name="lstPersons">
                 <ListView.ItemTemplate>
                     <DataTemplate>

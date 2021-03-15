@@ -3,6 +3,32 @@
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              x:Class="Application_Green_Quake.App">
     <Application.Resources>
+        <!-- Colors -->
+        <Color x:Key="AppPrimaryColor">Red</Color>
+        <Color x:Key="AppBackgroundColor">White</Color>
+        <Color x:Key="PrimaryColor">Black</Color>
+        <Color x:Key="SecondaryColor">#3CB371</Color>
+        <Color x:Key="TertiaryColor">Yellow</Color>
+
+        <!-- Implicit styles -->
+        <Style TargetType="ContentPage"
+               ApplyToDerivedTypes="True">
+            <Setter Property="BackgroundColor"
+                    Value="{StaticResource AppBackgroundColor}" />
+
+        </Style>
+
+        <Style TargetType="TabbedPage"
+               ApplyToDerivedTypes="True">
+            <Setter Property="BarBackgroundColor"
+                    Value="{StaticResource SecondaryColor}" />
+        </Style>
+
+        <Style TargetType="NavigationPage"
+               ApplyToDerivedTypes="True">
+            <Setter Property="BarBackgroundColor" 
+                    Value="{StaticResource SecondaryColor}"/>
+        </Style>
 
     </Application.Resources>
 </Application>

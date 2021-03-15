@@ -12,11 +12,47 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <None Remove="Images\Achievements.png" />
+    <None Remove="Images\Advanced.jpg" />
+    <None Remove="Images\Badges.png" />
+    <None Remove="Images\Community.jpg" />
+    <None Remove="Images\EcoActions.jpg" />
+    <None Remove="Images\Energy.jpg" />
+    <None Remove="Images\FoodAndDrink.jpg" />
+    <None Remove="Images\Habits.jpg" />
+    <None Remove="Images\Home.jpg" />
+    <None Remove="Images\Outdoors.jpg" />
+    <None Remove="Images\Refill.jpg" />
+    <None Remove="Images\Shopping.jpg" />
+    <None Remove="Images\SignOut.jpg" />
+    <None Remove="Images\Travel.jpg" />
+    <None Remove="Images\TrophyCase.png" />
     <None Remove="Images\user.png" />
+    <None Remove="Images\Waste.jpg" />
+    <None Remove="Images\Water.jpg" />
+    <None Remove="Images\Work.jpg" />
   </ItemGroup>
 
   <ItemGroup>
+    <EmbeddedResource Include="Images\Achievements.png" />
+    <EmbeddedResource Include="Images\Advanced.jpg" />
+    <EmbeddedResource Include="Images\Badges.png" />
+    <EmbeddedResource Include="Images\Community.jpg" />
+    <EmbeddedResource Include="Images\EcoActions.jpg" />
+    <EmbeddedResource Include="Images\Energy.jpg" />
+    <EmbeddedResource Include="Images\FoodAndDrink.jpg" />
+    <EmbeddedResource Include="Images\Habits.jpg" />
+    <EmbeddedResource Include="Images\Home.jpg" />
+    <EmbeddedResource Include="Images\Outdoors.jpg" />
+    <EmbeddedResource Include="Images\Refill.jpg" />
+    <EmbeddedResource Include="Images\Shopping.jpg" />
+    <EmbeddedResource Include="Images\SignOut.jpg" />
+    <EmbeddedResource Include="Images\Travel.jpg" />
+    <EmbeddedResource Include="Images\TrophyCase.png" />
     <EmbeddedResource Include="Images\user.png" />
+    <EmbeddedResource Include="Images\Waste.jpg" />
+    <EmbeddedResource Include="Images\Water.jpg" />
+    <EmbeddedResource Include="Images\Work.jpg" />
   </ItemGroup>
 
   <ItemGroup>
@@ -45,6 +81,15 @@
   </ItemGroup>
 
   <ItemGroup>
+    <EmbeddedResource Update="Views\Achievements.xaml">
+      <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
+    </EmbeddedResource>
+    <EmbeddedResource Update="Views\Badges.xaml">
+      <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
+    </EmbeddedResource>
+    <EmbeddedResource Update="Views\TrophyCase.xaml">
+      <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
+    </EmbeddedResource>
     <EmbeddedResource Update="Views\UploadImagePopUp.xaml">
       <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
     </EmbeddedResource>
@@ -288,9 +333,6 @@
     <EmbeddedResource Update="Views\EcoActions\EcoActionsSubMenu\HabitsPage.xaml">
       <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
     </EmbeddedResource>
-    <EmbeddedResource Update="Views\LeaderBoard.xaml">
-      <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
-    </EmbeddedResource>
     <EmbeddedResource Update="Views\MainMenu.xaml">
       <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
     </EmbeddedResource>
@@ -304,9 +346,6 @@
       <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
     </EmbeddedResource>
     <EmbeddedResource Update="Views\EcoActions\FoodAndDrink\OwnCoffee.xaml">
-      <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
-    </EmbeddedResource>
-    <EmbeddedResource Update="Views\EcoActions\EcoActionsSubMenu\RecentPage.xaml">
       <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
     </EmbeddedResource>
     <EmbeddedResource Update="Views\EcoActions\FoodAndDrink\ReCoffeMug.xaml">

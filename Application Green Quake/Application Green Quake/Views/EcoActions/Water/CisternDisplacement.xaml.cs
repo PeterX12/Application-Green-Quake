@@ -18,6 +18,8 @@ namespace Application_Green_Quake.Views.EcoActions.Water
         {
             PointsUpdate helper = new PointsUpdate();
             helper.UpdateByTenPoints();
+            WaterPointsUpdate helper2 = new WaterPointsUpdate();
+            helper2.CisternPoints();
             await DisplayAlert("Alert", AppConstants.tenPointsMsg, "OK");
         }
     }

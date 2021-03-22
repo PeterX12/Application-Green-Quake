@@ -19,6 +19,8 @@ namespace Application_Green_Quake.Views.EcoActions.Home
         {
             PointsUpdate helper = new PointsUpdate();
             helper.UpdateByFourPoints();
+            HomePointsUpdate helper2 = new HomePointsUpdate();
+            helper2.PlantsInsidePoints();
             await DisplayAlert("Alert", AppConstants.fourPointsMsg, "OK");
         }
     }

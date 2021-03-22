@@ -19,6 +19,8 @@ namespace Application_Green_Quake.Views.EcoActions.Home
         {
             PointsUpdate helper = new PointsUpdate();
             helper.UpdateByTwoPoints();
+            HomePointsUpdate helper2 = new HomePointsUpdate();
+            helper2.AirOutPoints();
             await DisplayAlert("Alert", AppConstants.twoPointsMsg, "OK");
         }
     }

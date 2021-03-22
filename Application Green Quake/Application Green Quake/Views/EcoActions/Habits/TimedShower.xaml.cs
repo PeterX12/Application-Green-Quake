@@ -19,6 +19,8 @@ namespace Application_Green_Quake.Views.EcoActions.Habits
         {
             PointsUpdate helper = new PointsUpdate();
             helper.UpdateByFourPoints();
+            HabitsPointsUpdate helper2 = new HabitsPointsUpdate();
+            helper2.TimedShowerInsteadPoints();
             await DisplayAlert("Alert", AppConstants.fourPointsMsg, "OK");
         }
     }

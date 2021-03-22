@@ -19,6 +19,8 @@ namespace Application_Green_Quake.Views.EcoActions.Waste
         {
             PointsUpdate helper = new PointsUpdate();
             helper.UpdateBySixPoints();
+            WastePointsUpdate helper2 = WastePointsUpdate();
+            helper2.CompostPoints();
             await DisplayAlert("Alert", AppConstants.sixPointsMsg, "OK");
         }
     }

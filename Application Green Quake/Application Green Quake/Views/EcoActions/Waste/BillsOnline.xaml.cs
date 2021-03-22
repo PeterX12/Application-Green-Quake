@@ -19,6 +19,8 @@ namespace Application_Green_Quake.Views.EcoActions.Waste
         {
             PointsUpdate helper = new PointsUpdate();
             helper.UpdateByFourPoints();
+            WastePointsUpdate helper2 = WastePointsUpdate();
+            helper2.BillsPoints();
             await DisplayAlert("Alert", AppConstants.fourPointsMsg, "OK");
         }
     }

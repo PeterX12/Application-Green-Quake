@@ -19,6 +19,8 @@ namespace Application_Green_Quake.Views.EcoActions.Travel
         {
             PointsUpdate helper = new PointsUpdate();
             helper.UpdateBySixPoints();
+            TravelPointsUpdate helper2 = new TravelPointsUpdate();
+            helper2.CarpoolPoints();
             await DisplayAlert("Alert", AppConstants.sixPointsMsg, "OK");
         }
     }

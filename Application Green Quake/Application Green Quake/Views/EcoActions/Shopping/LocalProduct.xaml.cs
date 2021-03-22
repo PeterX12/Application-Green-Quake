@@ -23,6 +23,8 @@ namespace Application_Green_Quake.Views.EcoActions.Shopping
         {
             PointsUpdate helper = new PointsUpdate();
             helper.UpdateByEightPoints();
+            ShoppingPointsUpdate helper2 = new ShoppingPointsUpdate();
+            helper2.ProductPoints();
             await DisplayAlert("Alert", AppConstants.sixPointsMsg, "OK");
         }
     }

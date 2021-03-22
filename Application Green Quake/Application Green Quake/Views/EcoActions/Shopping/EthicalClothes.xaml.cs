@@ -19,6 +19,8 @@ namespace Application_Green_Quake.Views.EcoActions.Shopping
         {
             PointsUpdate helper = new PointsUpdate();
             helper.UpdateByTenPoints();
+            ShoppingPointsUpdate helper2 = new ShoppingPointsUpdate();
+            helper2.ClothesPoints();
             await DisplayAlert("Alert", AppConstants.tenPointsMsg, "OK");
         }
     }

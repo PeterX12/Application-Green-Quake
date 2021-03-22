@@ -19,6 +19,8 @@ namespace Application_Green_Quake.Views.EcoActions.Outdoors
         {
             PointsUpdate helper = new PointsUpdate();
             helper.UpdateByTenPoints();
+            OutdoorsPointsUpdate helper2 = new OutdoorsPointsUpdate();
+            helper2.BirdFeederPoints();
             await DisplayAlert("Alert", AppConstants.tenPointsMsg, "OK");
         }
     }

@@ -19,6 +19,8 @@ namespace Application_Green_Quake.Views.EcoActions.Energy
         {
             PointsUpdate helper = new PointsUpdate();
             helper.UpdateByEightPoints();
+            EnergyPointsUpdate helper2 = new EnergyPointsUpdate();
+            helper2.EfficientThermostatPoints();
             await DisplayAlert("Alert", AppConstants.eightPointsMsg, "OK");
         }
     }

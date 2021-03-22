@@ -72,6 +72,15 @@
   </ItemGroup>
 
   <ItemGroup>
+    <Compile Update="Views\EcoActions\Community\ShareThisApp.xaml.cs">
+      <DependentUpon>ShareThisApp.xaml</DependentUpon>
+    </Compile>
+    <Compile Update="Views\EcoActions\Energy\LedLightbulb.xaml.cs">
+      <DependentUpon>LedLightBulb.xaml</DependentUpon>
+    </Compile>
+    <Compile Update="Views\EcoActions\FoodAndDrink\ReCoffeeMug.xaml.cs">
+      <DependentUpon>ReCoffeeMug.xaml</DependentUpon>
+    </Compile>
     <Compile Update="Views\EcoActions\Shopping\EcoFriendlyProduct.xaml.cs">
       <DependentUpon>EcoFriendlyProduct.xaml</DependentUpon>
     </Compile>
@@ -108,7 +117,7 @@
     <EmbeddedResource Update="Views\EcoActions\Community\EnvironmentalGroups.xaml">
       <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
     </EmbeddedResource>
-    <EmbeddedResource Update="Views\EcoActions\Community\ShareThisaApp.xaml">
+    <EmbeddedResource Update="Views\EcoActions\Community\ShareThisApp.xaml">
       <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
     </EmbeddedResource>
     <EmbeddedResource Update="Views\EcoActions\Community\SpreadAwareness.xaml">
@@ -135,7 +144,7 @@
     <EmbeddedResource Update="Views\EcoActions\Energy\IsolateHome.xaml">
       <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
     </EmbeddedResource>
-    <EmbeddedResource Update="Views\EcoActions\Energy\LedLightbulb.xaml">
+    <EmbeddedResource Update="Views\EcoActions\Energy\LedLightBulb.xaml">
       <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
     </EmbeddedResource>
     <EmbeddedResource Update="Views\EcoActions\Energy\MachineFull.xaml">
@@ -348,7 +357,7 @@
     <EmbeddedResource Update="Views\EcoActions\FoodAndDrink\OwnCoffee.xaml">
       <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
     </EmbeddedResource>
-    <EmbeddedResource Update="Views\EcoActions\FoodAndDrink\ReCoffeMug.xaml">
+    <EmbeddedResource Update="Views\EcoActions\FoodAndDrink\ReCoffeeMug.xaml">
       <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
     </EmbeddedResource>
     <EmbeddedResource Update="Views\EcoActions\FoodAndDrink\SaveLeftOvers.xaml">

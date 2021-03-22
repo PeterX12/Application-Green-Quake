@@ -23,6 +23,8 @@ namespace Application_Green_Quake.Views.EcoActions.FoodAndDrink
         {
             PointsUpdate helper = new PointsUpdate();
             helper.UpdateByFourPoints();
+            FoodAndDrinkPointsUpdate helper2 = new FoodAndDrinkPointsUpdate();
+            helper2.EatAllPoints();
             await DisplayAlert("Alert", AppConstants.fourPointsMsg, "OK");
         }
     }

@@ -8,9 +8,9 @@ using Xamarin.Forms.Xaml;
 namespace Application_Green_Quake.Views.EcoActions.FoodAndDrink
 {
     [XamlCompilation(XamlCompilationOptions.Compile)]
-    public partial class ReCoffeMug : ContentPage
+    public partial class ReCoffeeMug : ContentPage
     {
-        public ReCoffeMug()
+        public ReCoffeeMug()
         {
             InitializeComponent();
         }
@@ -19,6 +19,8 @@ namespace Application_Green_Quake.Views.EcoActions.FoodAndDrink
         {
             PointsUpdate helper = new PointsUpdate();
             helper.UpdateByFourPoints();
+            FoodAndDrinkPointsUpdate helper2 = new FoodAndDrinkPointsUpdate();
+            helper2.ReCoffeeMugPoints();
             await DisplayAlert("Alert", AppConstants.fourPointsMsg, "OK");
         }
     }

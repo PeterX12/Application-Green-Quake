@@ -37,7 +37,7 @@ namespace Application_Green_Quake.ViewModels
                 await firebaseClient
                 .Child("Points")
                 .Child(auth.GetUid())
-                .PutAsync(new Points() { points = points2, username = username });
+                .PutAsync(new Points() { username = username, points = points2 });
             }
             catch (FirebaseException)
             {
@@ -50,7 +50,7 @@ namespace Application_Green_Quake.ViewModels
                 await firebaseClient
                 .Child("Points")
                 .Child(auth.GetUid())
-                .PutAsync(new Points() { points = points2, username = username });
+                .PutAsync(new Points() { username = username, points = points2 });
 
             }
             catch (NullReferenceException)
@@ -64,7 +64,7 @@ namespace Application_Green_Quake.ViewModels
                 await firebaseClient
                 .Child("Points")
                 .Child(auth.GetUid())
-                .PutAsync(new Points() { points = points2, username = username });
+                .PutAsync(new Points() { username = username, points = points2 });
             }
         }
 
@@ -91,7 +91,7 @@ namespace Application_Green_Quake.ViewModels
                 await firebaseClient
                 .Child("Points")
                 .Child(auth.GetUid())
-                .PutAsync(new Points() { points = points2, username = username });
+                .PutAsync(new Points() { username = username, points = points2 });
             }
             catch (FirebaseException)
             {
@@ -104,7 +104,7 @@ namespace Application_Green_Quake.ViewModels
                 await firebaseClient
                 .Child("Points")
                 .Child(auth.GetUid())
-                .PutAsync(new Points() { points = points2, username = username });
+                .PutAsync(new Points() { username = username, points = points2 });
 
             }
             catch (NullReferenceException)
@@ -118,7 +118,7 @@ namespace Application_Green_Quake.ViewModels
                 await firebaseClient
                 .Child("Points")
                 .Child(auth.GetUid())
-                .PutAsync(new Points() { points = points2, username = username });
+                .PutAsync(new Points() { username = username, points = points2});
             }
         }
 
@@ -145,7 +145,7 @@ namespace Application_Green_Quake.ViewModels
                 await firebaseClient
                 .Child("Points")
                 .Child(auth.GetUid())
-                .PutAsync(new Points() { points = points2, username = username });
+                .PutAsync(new Points() { username = username, points = points2 });
             }
             catch (FirebaseException)
             {
@@ -158,7 +158,7 @@ namespace Application_Green_Quake.ViewModels
                 await firebaseClient
                 .Child("Points")
                 .Child(auth.GetUid())
-                .PutAsync(new Points() { points = points2, username = username });
+                .PutAsync(new Points() { username = username, points = points2});
 
             }
             catch (NullReferenceException)
@@ -172,7 +172,7 @@ namespace Application_Green_Quake.ViewModels
                 await firebaseClient
                 .Child("Points")
                 .Child(auth.GetUid())
-                .PutAsync(new Points() { points = points2, username = username });
+                .PutAsync(new Points() { username = username, points = points2 });
             }
         }
 
@@ -199,7 +199,7 @@ namespace Application_Green_Quake.ViewModels
                 await firebaseClient
                 .Child("Points")
                 .Child(auth.GetUid())
-                .PutAsync(new Points() { points = points2, username = username });
+                .PutAsync(new Points() { username = username, points = points2 });
             }
             catch (FirebaseException)
             {
@@ -212,7 +212,7 @@ namespace Application_Green_Quake.ViewModels
                 await firebaseClient
                 .Child("Points")
                 .Child(auth.GetUid())
-                .PutAsync(new Points() { points = points2, username = username });
+                .PutAsync(new Points() { username = username, points = points2 });
 
             }
             catch (NullReferenceException)
@@ -226,7 +226,7 @@ namespace Application_Green_Quake.ViewModels
                 await firebaseClient
                 .Child("Points")
                 .Child(auth.GetUid())
-                .PutAsync(new Points() { points = points2, username = username });
+                .PutAsync(new Points() { username = username, points = points2 });
             }
         }
 
@@ -253,7 +253,7 @@ namespace Application_Green_Quake.ViewModels
                 await firebaseClient
                 .Child("Points")
                 .Child(auth.GetUid())
-                .PutAsync(new Points() { points = points2, username = username });
+                .PutAsync(new Points() { username = username, points = points2 });
             }
             catch (FirebaseException)
             {
@@ -266,7 +266,7 @@ namespace Application_Green_Quake.ViewModels
                 await firebaseClient
                 .Child("Points")
                 .Child(auth.GetUid())
-                .PutAsync(new Points() { points = points2, username = username });
+                .PutAsync(new Points() { username = username, points = points2 });
 
             }
             catch (NullReferenceException)
@@ -280,7 +280,7 @@ namespace Application_Green_Quake.ViewModels
                 await firebaseClient
                 .Child("Points")
                 .Child(auth.GetUid())
-                .PutAsync(new Points() { points = points2, username = username });
+                .PutAsync(new Points() { username = username, points = points2});
             }
         }
     }

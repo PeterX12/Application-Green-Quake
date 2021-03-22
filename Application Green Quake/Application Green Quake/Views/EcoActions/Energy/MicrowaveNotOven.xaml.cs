@@ -19,6 +19,8 @@ namespace Application_Green_Quake.Views.EcoActions.Energy
         {
             PointsUpdate helper = new PointsUpdate();
             helper.UpdateByFourPoints();
+            EnergyPointsUpdate helper2 = new EnergyPointsUpdate();
+            helper2.MicrowavePoints();
             await DisplayAlert("Alert", AppConstants.fourPointsMsg, "OK");
         }
     }

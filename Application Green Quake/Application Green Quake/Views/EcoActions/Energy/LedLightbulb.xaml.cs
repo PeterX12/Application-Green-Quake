@@ -8,9 +8,9 @@ using Xamarin.Forms.Xaml;
 namespace Application_Green_Quake.Views.EcoActions.Energy
 {
     [XamlCompilation(XamlCompilationOptions.Compile)]
-    public partial class LedLightbulb : ContentPage
+    public partial class LedLightBulb : ContentPage
     {
-        public LedLightbulb()
+        public LedLightBulb()
         {
             InitializeComponent();
         }
@@ -19,6 +19,8 @@ namespace Application_Green_Quake.Views.EcoActions.Energy
         {
             PointsUpdate helper = new PointsUpdate();
             helper.UpdateByTenPoints();
+            EnergyPointsUpdate helper2 = new EnergyPointsUpdate();
+            helper2.LedLightsPoints();
             await DisplayAlert("Alert", AppConstants.tenPointsMsg, "OK");
         }
     }

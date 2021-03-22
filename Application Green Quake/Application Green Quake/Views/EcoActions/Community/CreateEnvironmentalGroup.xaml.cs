@@ -19,6 +19,8 @@ namespace Application_Green_Quake.Views.EcoActions.Community
         {
             PointsUpdate helper = new PointsUpdate();
             helper.UpdateByTenPoints();
+            CommunityPointsUpdate helper2 = new CommunityPointsUpdate();
+            helper2.CreateGroupPoints();
             await DisplayAlert("Alert",  AppConstants.tenPointsMsg, "OK");
         }
     }

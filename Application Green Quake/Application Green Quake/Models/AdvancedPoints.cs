@@ -4,10 +4,11 @@ using System.Text;
 
 namespace Application_Green_Quake.Models
 {
-    class SubPoints
+    class AdvancedPoints
     {
-        public int count { get; set; }
         public string username { get; set; }
-
+        public int points { get; set; }
+        public int numberOfLogs { get; set; }
+        public int fixCount { get; set; }
     }
 }

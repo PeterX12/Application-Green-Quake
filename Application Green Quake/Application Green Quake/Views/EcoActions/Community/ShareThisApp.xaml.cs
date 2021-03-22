@@ -8,9 +8,9 @@ using Xamarin.Forms.Xaml;
 namespace Application_Green_Quake.Views.EcoActions.Community
 {
     [XamlCompilation(XamlCompilationOptions.Compile)]
-    public partial class ShareThisaApp : ContentPage
+    public partial class ShareThisApp : ContentPage
     {
-        public ShareThisaApp()
+        public ShareThisApp()
         {
             InitializeComponent();
         }
@@ -19,6 +19,8 @@ namespace Application_Green_Quake.Views.EcoActions.Community
         {
             PointsUpdate helper = new PointsUpdate();
             helper.UpdateByTenPoints();
+            CommunityPointsUpdate helper2 = new CommunityPointsUpdate();
+            helper2.SharePoints();
             await DisplayAlert("Alert", AppConstants.tenPointsMsg, "OK");
         }
     }

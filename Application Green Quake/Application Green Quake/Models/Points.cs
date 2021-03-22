@@ -2,7 +2,8 @@
 {
     class Points
     {
-        public int points { get; set; }
         public string username { get; set; }
+        public int points { get; set; }
+        
     }
 }

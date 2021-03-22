@@ -19,6 +19,8 @@ namespace Application_Green_Quake.Views.EcoActions.FoodAndDrink
         {
             PointsUpdate helper = new PointsUpdate();
             helper.UpdateBySixPoints();
+            FoodAndDrinkPointsUpdate helper2 = new FoodAndDrinkPointsUpdate();
+            helper2.SaveLeftOversPoints();
             await DisplayAlert("Alert", AppConstants.sixPointsMsg, "OK");
         }
     }

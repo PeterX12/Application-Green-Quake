@@ -41,7 +41,7 @@ namespace Application_Green_Quake.Views.EcoActions.EcoActionsSubMenu
 
         private async void NavigateToShareThisaApp(object sender, EventArgs e)
         {
-            await Navigation.PushAsync(new ShareThisaApp());
+            await Navigation.PushAsync(new ShareThisApp());
         }
     }
 }

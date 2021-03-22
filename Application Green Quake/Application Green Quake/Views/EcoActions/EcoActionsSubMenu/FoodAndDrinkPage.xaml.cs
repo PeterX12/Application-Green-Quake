@@ -41,7 +41,7 @@ namespace Application_Green_Quake.Views.EcoActions.EcoActionsSubMenu
         }
         private async void NavigateToReCoffeMug(object sender, EventArgs e)
         {
-            await Navigation.PushAsync(new ReCoffeMug());
+            await Navigation.PushAsync(new ReCoffeeMug());
         }
 
         private async void NavigateToFoodDelivered(object sender, EventArgs e)

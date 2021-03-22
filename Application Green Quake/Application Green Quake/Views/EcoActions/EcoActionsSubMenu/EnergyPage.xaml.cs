@@ -49,7 +49,7 @@ namespace Application_Green_Quake.Views.EcoActions.EcoActionsSubMenu
 
         private async void NavigateToLedLightbulb(object sender, EventArgs e)
         {
-            await Navigation.PushAsync(new LedLightbulb());
+            await Navigation.PushAsync(new LedLightBulb());
         }
 
         private async void NavigateToOffSocketSwitch(object sender, EventArgs e)

@@ -19,6 +19,8 @@ namespace Application_Green_Quake.Views.EcoActions.AdvancedPageItems
         {
             PointsUpdate helper = new PointsUpdate();
             helper.UpdateByTenPoints();
+            AdvancedPointsUpdate helper2 = new AdvancedPointsUpdate();
+            helper2.FixPoints();
             await DisplayAlert("Alert", AppConstants.tenPointsMsg, "OK");
         }
     }

@@ -19,6 +19,8 @@ namespace Application_Green_Quake.Views.EcoActions.Energy
         {
             PointsUpdate helper = new PointsUpdate();
             helper.UpdateByTenPoints();
+            EnergyPointsUpdate helper2 = new EnergyPointsUpdate();
+            helper2.InsulateWaterPoints();
             await DisplayAlert("Alert", AppConstants.tenPointsMsg, "OK");
         }
     }

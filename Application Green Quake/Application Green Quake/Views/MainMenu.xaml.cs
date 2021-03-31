@@ -1,5 +1,5 @@
-﻿using Application_Green_Quake.Views;
-using Application_Green_Quake.Views.EcoActions.EcoActionsMenu;
+﻿using Application_Green_Quake.Views.EcoActions.EcoActionsMenu;
+using Application_Green_Quake.Views.RefillPage;
 using System;
 
 using Xamarin.Forms;

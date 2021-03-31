@@ -1,5 +1,4 @@
-﻿using Application_Green_Quake.Views;
-using System;
+﻿using System;
 
 using Xamarin.Forms;
 using Xamarin.Forms.Xaml;

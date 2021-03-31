@@ -2,7 +2,7 @@
     
 <TabbedPage xmlns="http://xamarin.com/schemas/2014/forms"
             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" xmlns:views="clr-namespace:Application_Green_Quake.Views" 
-            xmlns:local="clr-namespace:Application_Green_Quake.Models"
+            xmlns:local="clr-namespace:Application_Green_Quake.Models" xmlns:views1="clr-namespace:Application_Green_Quake.Views.ProfilePage" xmlns:views2="clr-namespace:Application_Green_Quake.Views.LeaderboardPage"
             x:Class="Application_Green_Quake.Views.MainMenu"
             NavigationPage.HasBackButton="False"
             Title="Green Quake">
@@ -45,6 +45,6 @@
         </Grid>
     </ContentPage>
 
-    <views:TopTabLeaderBoard Title="Leaderboard"></views:TopTabLeaderBoard>
-    <views:TopTabProfile Title="Profile"></views:TopTabProfile>
+    <views2:TopTabLeaderBoard Title="Leaderboard"></views2:TopTabLeaderBoard>
+    <views1:TopTabProfile Title="Profile"></views1:TopTabProfile>
 </TabbedPage>

@@ -5,7 +5,7 @@ using System.Linq;
 using Xamarin.Forms;
 using Xamarin.Forms.Xaml;
 
-namespace Application_Green_Quake.Views
+namespace Application_Green_Quake.Views.LeaderboardPage
 {
     [XamlCompilation(XamlCompilationOptions.Compile)]
     public partial class TopTabLeaderBoard : ContentPage

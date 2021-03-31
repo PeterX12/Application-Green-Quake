@@ -1,5 +1,4 @@
-﻿using Application_Green_Quake.ViewModels;
-using Plugin.Media;
+﻿using Plugin.Media;
 using System;
 using System.Diagnostics;
 using Xamarin.Forms;
@@ -10,7 +9,7 @@ using Firebase.Storage;
 using Plugin.Media.Abstractions;
 using Rg.Plugins.Popup.Services;
 
-namespace Application_Green_Quake.Views
+namespace Application_Green_Quake.Views.ProfilePage
 {
     [XamlCompilation(XamlCompilationOptions.Compile)]
     public partial class UploadImagePopUp

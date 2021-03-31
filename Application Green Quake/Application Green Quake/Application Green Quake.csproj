@@ -84,22 +84,22 @@
     <Compile Update="Views\EcoActions\Shopping\EcoFriendlyProduct.xaml.cs">
       <DependentUpon>EcoFriendlyProduct.xaml</DependentUpon>
     </Compile>
-    <Compile Update="Views\TopTabLeaderBoard.xaml.cs">
+    <Compile Update="Views\LeaderboardPage\TopTabLeaderBoard.xaml.cs">
       <DependentUpon>TopTabLeaderBoard.xaml</DependentUpon>
     </Compile>
   </ItemGroup>
 
   <ItemGroup>
-    <EmbeddedResource Update="Views\Achievements.xaml">
+    <EmbeddedResource Update="Views\ProfilePage\Achievements.xaml">
       <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
     </EmbeddedResource>
-    <EmbeddedResource Update="Views\Badges.xaml">
+    <EmbeddedResource Update="Views\ProfilePage\Badges.xaml">
       <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
     </EmbeddedResource>
-    <EmbeddedResource Update="Views\TrophyCase.xaml">
+    <EmbeddedResource Update="Views\ProfilePage\TrophyCase.xaml">
       <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
     </EmbeddedResource>
-    <EmbeddedResource Update="Views\UploadImagePopUp.xaml">
+    <EmbeddedResource Update="Views\ProfilePage\UploadImagePopUp.xaml">
       <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
     </EmbeddedResource>
     <EmbeddedResource Update="Views\EcoActions\AdvancedPageItems\FixInsteadOfThrowAway.xaml">
@@ -309,9 +309,6 @@
     <EmbeddedResource Update="Views\EcoActions\Work\WorkingRemotely.xaml">
       <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
     </EmbeddedResource>
-    <EmbeddedResource Update="Views\FoodInventoryMenu.xaml">
-      <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
-    </EmbeddedResource>
     <EmbeddedResource Update="Views\EcoActions\Habits\BrushingTeeth.xaml">
       <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
     </EmbeddedResource>
@@ -366,13 +363,13 @@
     <EmbeddedResource Update="Views\EcoActions\Habits\ShowerInstead.xaml">
       <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
     </EmbeddedResource>
-    <EmbeddedResource Update="Views\RefillStation.xaml">
+    <EmbeddedResource Update="Views\RefillPage\RefillStation.xaml">
       <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
     </EmbeddedResource>
-    <EmbeddedResource Update="Views\TopTabLeaderBoard.xaml">
+    <EmbeddedResource Update="Views\LeaderboardPage\TopTabLeaderBoard.xaml">
       <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
     </EmbeddedResource>
-    <EmbeddedResource Update="Views\TopTabProfile.xaml">
+    <EmbeddedResource Update="Views\ProfilePage\TopTabProfile.xaml">
       <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
     </EmbeddedResource>
     <EmbeddedResource Update="Views\SignUpPage.xaml">

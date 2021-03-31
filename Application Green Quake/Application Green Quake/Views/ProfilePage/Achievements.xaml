@@ -1,12 +1,55 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
-             x:Class="Application_Green_Quake.Views.ProfilePage.Achievements">
+             x:Class="Application_Green_Quake.Views.ProfilePage.Achievements"
+             xmlns:local="clr-namespace:Application_Green_Quake.Models">
     <ContentPage.Content>
-        <StackLayout>
-            <Label Text="Achievements!"
-                VerticalOptions="CenterAndExpand" 
-                HorizontalOptions="CenterAndExpand" />
-        </StackLayout>
+        <ScrollView>
+            <Grid>
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="Auto"/>
+                    <RowDefinition Height="Auto"/>
+                </Grid.RowDefinitions>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="*"/>
+                    <ColumnDefinition Width="Auto"/>
+                    <ColumnDefinition Width="Auto"/>
+                    <ColumnDefinition Width="*"/>
+                </Grid.ColumnDefinitions>
+
+                <Image Grid.Column="0"
+                       Grid.Row="0"
+                       x:Name="ProfilePic1" Source="{local:ImageResource Application_Green_Quake.Images.user.png}" HeightRequest="90" WidthRequest="90" HorizontalOptions="CenterAndExpand"  >
+                </Image>
+                <Image Grid.Column="1"
+                       Grid.Row="0"
+                       x:Name="ProfilePic2" Source="{local:ImageResource Application_Green_Quake.Images.user.png}" HeightRequest="90" WidthRequest="90" HorizontalOptions="CenterAndExpand" >
+                </Image>
+                <Image Grid.Column="2"
+                       Grid.Row="0"
+                       x:Name="ProfilePic3" Source="{local:ImageResource Application_Green_Quake.Images.user.png}" HeightRequest="90" WidthRequest="90" HorizontalOptions="CenterAndExpand" >
+                </Image>
+                <Image Grid.Column="3"
+                       Grid.Row="0"
+                       x:Name="ProfilePic4" Source="{local:ImageResource Application_Green_Quake.Images.user.png}" HeightRequest="90" WidthRequest="90" HorizontalOptions="CenterAndExpand" >
+                </Image>
+                <Image Grid.Column="0"
+                       Grid.Row="1"
+                       x:Name="ProfilePic5" Source="{local:ImageResource Application_Green_Quake.Images.user.png}" HeightRequest="90" WidthRequest="90" HorizontalOptions="CenterAndExpand"  >
+                </Image>
+                <Image Grid.Column="1"
+                       Grid.Row="1"
+                       x:Name="ProfilePic6" Source="{local:ImageResource Application_Green_Quake.Images.user.png}" HeightRequest="90" WidthRequest="90" HorizontalOptions="CenterAndExpand" >
+                </Image>
+                <Image Grid.Column="2"
+                       Grid.Row="1"
+                       x:Name="ProfilePic7" Source="{local:ImageResource Application_Green_Quake.Images.user.png}" HeightRequest="90" WidthRequest="90" HorizontalOptions="CenterAndExpand" >
+                </Image>
+                <Image Grid.Column="3"
+                       Grid.Row="1"
+                       x:Name="ProfilePic8" Source="{local:ImageResource Application_Green_Quake.Images.user.png}" HeightRequest="90" WidthRequest="90" HorizontalOptions="CenterAndExpand" >
+                </Image>
+            </Grid>
+        </ScrollView>
     </ContentPage.Content>
 </ContentPage>

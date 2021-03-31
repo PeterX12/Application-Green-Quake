@@ -19,7 +19,7 @@ namespace Application_Green_Quake.Views.EcoActions.Waste
         {
             PointsUpdate helper = new PointsUpdate();
             helper.UpdateByTenPoints();
-            WastePointsUpdate helper2 = WastePointsUpdate();
+            WastePointsUpdate helper2 = new WastePointsUpdate();
             helper2.SetUpRecyclingBinPoints();
             await DisplayAlert("Alert", AppConstants.tenPointsMsg, "OK");
         }

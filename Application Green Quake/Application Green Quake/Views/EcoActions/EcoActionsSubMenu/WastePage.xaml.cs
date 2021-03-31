@@ -1,4 +1,5 @@
-﻿using Application_Green_Quake.Views.EcoActions.Waste;
+﻿using Application_Green_Quake.Views.EcoActions.Community;
+using Application_Green_Quake.Views.EcoActions.Waste;
 using System;
 
 using Xamarin.Forms;

@@ -21,6 +21,8 @@
     <None Remove="Images\FoodAndDrink.jpg" />
     <None Remove="Images\Habits.jpg" />
     <None Remove="Images\Home.jpg" />
+    <None Remove="Images\lockOne.png" />
+    <None Remove="Images\lockTwo.png" />
     <None Remove="Images\Outdoors.jpg" />
     <None Remove="Images\Refill.jpg" />
     <None Remove="Images\Shopping.jpg" />
@@ -43,6 +45,8 @@
     <EmbeddedResource Include="Images\FoodAndDrink.jpg" />
     <EmbeddedResource Include="Images\Habits.jpg" />
     <EmbeddedResource Include="Images\Home.jpg" />
+    <EmbeddedResource Include="Images\lockOne.png" />
+    <EmbeddedResource Include="Images\lockTwo.png" />
     <EmbeddedResource Include="Images\Outdoors.jpg" />
     <EmbeddedResource Include="Images\Refill.jpg" />
     <EmbeddedResource Include="Images\Shopping.jpg" />
@@ -91,6 +95,9 @@
 
   <ItemGroup>
     <EmbeddedResource Update="Views\ProfilePage\Achievements.xaml">
+      <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
+    </EmbeddedResource>
+    <EmbeddedResource Update="Views\ProfilePage\BadgePopUp.xaml">
       <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
     </EmbeddedResource>
     <EmbeddedResource Update="Views\ProfilePage\Badges.xaml">

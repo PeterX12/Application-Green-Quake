@@ -12,11 +12,11 @@ namespace Application_Green_Quake
            
             if (auth.IsSignIn())
             {
-                MainPage = new NavigationPage(new Views.MainMenu());
+                MainPage = new NavigationPage(new Views.MainPage());
             }
             else
             {
-                MainPage = new NavigationPage(new Views.MainMenu());
+                MainPage = new NavigationPage(new Views.MainPage());
             }
         }
 

@@ -19,53 +19,44 @@
                     <ColumnDefinition />
                 </Grid.ColumnDefinitions>
 
-                <ImageButton Grid.Column="0"
+                <Button Grid.Column="0"
                     Grid.Row="0"
                     Clicked="NavigateToBrushingPage" 
                     HorizontalOptions="FillAndExpand"
                     VerticalOptions="FillAndExpand"
-                    Aspect="AspectFill"
-                    Source="{local:ImageResource Application_Green_Quake.Images.Habits.jpg}"
+                    
                     />
-                <ImageButton Grid.Column="0"
+                <Button Grid.Column="0"
                     Grid.Row="1"
                     Clicked="NavigateToTimedShowerPage" 
                     HorizontalOptions="FillAndExpand"
                     VerticalOptions="FillAndExpand"
-                    Aspect="AspectFill"
-                    Source="{local:ImageResource Application_Green_Quake.Images.FoodAndDrink.jpg}"
+                
                     />
-                <ImageButton Grid.Column="0"
+                <Button Grid.Column="0"
                     Grid.Row="2"
                     Clicked="NavigateToShoweredInsteadOfBath" 
                     HorizontalOptions="FillAndExpand"
                     VerticalOptions="FillAndExpand"
-                    Aspect="AspectFill"
-                    Source="{local:ImageResource Application_Green_Quake.Images.Energy.jpg}"
+  
                     />
-                <ImageButton Grid.Column="0"
+                <Button Grid.Column="0"
                     Grid.Row="3"
                     Clicked="NavigateToDishwasherFull" 
                     HorizontalOptions="FillAndExpand"
                     VerticalOptions="FillAndExpand"
-                    Aspect="AspectFill"
-                    Source="{local:ImageResource Application_Green_Quake.Images.Travel.jpg}"
                     />
-                <ImageButton Grid.Column="0"
+                <Button Grid.Column="0"
                     Grid.Row="4"
                     Clicked="NavigateToTurnOffLights" 
                     HorizontalOptions="FillAndExpand"
                     VerticalOptions="FillAndExpand"
-                    Aspect="AspectFill"
-                    Source="{local:ImageResource Application_Green_Quake.Images.Shopping.jpg}"
                     />
-                <ImageButton Grid.Column="0"
+                <Button Grid.Column="0"
                     Grid.Row="5"
                     Clicked="NavigateToUseMatches" 
                     HorizontalOptions="FillAndExpand"
                     VerticalOptions="FillAndExpand"
-                    Aspect="AspectFill"
-                    Source="{local:ImageResource Application_Green_Quake.Images.Water.jpg}"
                     />
             </Grid>
         </ScrollView>

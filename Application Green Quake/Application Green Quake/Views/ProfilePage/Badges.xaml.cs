@@ -44,29 +44,6 @@ namespace Application_Green_Quake.Views.ProfilePage
             .Child("HabitsPoints")
             .Child(auth.GetUid())
             .OnceSingleAsync<HabitsPoints>()).numberOfLogs;
-
-             
-
-             
-
-             
-
-             
-
-             
-
-             
-
-             
-
-             
-
-             
-
-             
-
-             
-
             }
             catch (Exception e)
             {
@@ -202,6 +179,8 @@ namespace Application_Green_Quake.Views.ProfilePage
                 .Child("Habits")
                 .Child("habitsOne.png")
                 .GetDownloadUrlAsync();
+
+                a1Txt.Text = "Starter";
             }
             else if (habitsLog >= 5 && habitsLog < 10)
             {
@@ -300,6 +279,8 @@ namespace Application_Green_Quake.Views.ProfilePage
                 .Child("Energy")
                 .Child("energyOne.png")
                 .GetDownloadUrlAsync();
+
+                a3Txt.Text = "Starter";
             }
             else if (energyLog >= 5 && energyLog < 10)
             {
@@ -308,6 +289,8 @@ namespace Application_Green_Quake.Views.ProfilePage
                 .Child("Energy")
                 .Child("energyTwo.png")
                 .GetDownloadUrlAsync();
+
+                a3Txt.Text = "Novice";
             }
             else if (energyLog >= 10 && energyLog < 25)
             {
@@ -316,6 +299,8 @@ namespace Application_Green_Quake.Views.ProfilePage
                 .Child("Energy")
                 .Child("energyThree.png")
                 .GetDownloadUrlAsync();
+
+                a3Txt.Text = "Apprentice";
             }
             else if (energyLog >= 25 && energyLog < 50)
             {
@@ -324,6 +309,8 @@ namespace Application_Green_Quake.Views.ProfilePage
                 .Child("Energy")
                 .Child("energyFour.png")
                 .GetDownloadUrlAsync();
+
+                a3Txt.Text = "Adept";
             }
             else if (energyLog >= 50 && energyLog < 100)
             {
@@ -332,6 +319,8 @@ namespace Application_Green_Quake.Views.ProfilePage
                 .Child("Energy")
                 .Child("energyFive.png")
                 .GetDownloadUrlAsync();
+
+                a3Txt.Text = "Expert";
             }
             else if (energyLog >= 100)
             {
@@ -340,6 +329,8 @@ namespace Application_Green_Quake.Views.ProfilePage
                 .Child("Energy")
                 .Child("energySix.png")
                 .GetDownloadUrlAsync();
+
+                a3Txt.Text = "Master";
             }
 
             if (travelLog > 0 && travelLog < 5)

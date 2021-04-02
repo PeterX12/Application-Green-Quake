@@ -9,6 +9,7 @@ namespace Application_Green_Quake
         {
             InitializeComponent();
             auth = DependencyService.Get<IAuth>();
+            
            
             if (auth.IsSignIn())
             {

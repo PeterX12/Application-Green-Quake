@@ -21,15 +21,21 @@
                 </Grid.ColumnDefinitions>
 
 
+                
                 <StackLayout Grid.Column="0" Grid.Row="0">
-                    <Image
+                    <Frame CornerRadius="20" HorizontalOptions="Start" VerticalOptions="Start" Margin="0" Padding="0" BackgroundColor="Maroon">
+                        <Image
                     x:Name="a1" Source="{local:ImageResource Application_Green_Quake.Images.lockTwo.png}" HorizontalOptions="CenterAndExpand">
-                        <Image.GestureRecognizers>
-                            <TapGestureRecognizer Tapped="NavigateToBadgePopUp"/>
-                        </Image.GestureRecognizers>
-                    </Image>
-                    <Label x:Name="a1Txt" Text="Hi " TextColor="White" HorizontalTextAlignment="Center"/>
+                            <Image.GestureRecognizers>
+                                <TapGestureRecognizer Tapped="NavigateToBadgePopUp"/>
+                            </Image.GestureRecognizers>
+                        </Image>
+                    </Frame>
+                    
+                    <Label x:Name="a1Txt" Text="Locked " TextColor="White" HorizontalTextAlignment="Center"/>
                 </StackLayout>
+                
+                
                 <StackLayout Grid.Column="1" Grid.Row="0">
                     <Image
                     x:Name="a2" Source="{local:ImageResource Application_Green_Quake.Images.lockTwo.png}" HorizontalOptions="CenterAndExpand">
@@ -37,7 +43,7 @@
                             <TapGestureRecognizer Tapped="NavigateToBadgePopUp"/>
                         </Image.GestureRecognizers>
                     </Image>
-                    <Label x:Name="a2Txt" Text="Hi" TextColor="White" HorizontalTextAlignment="Center"/>
+                    <Label x:Name="a2Txt" Text="Locked" TextColor="White" HorizontalTextAlignment="Center"/>
                 </StackLayout>
                 <StackLayout Grid.Column="2" Grid.Row="0">
                     <Image
@@ -46,7 +52,7 @@
                             <TapGestureRecognizer Tapped="NavigateToBadgePopUp"/>
                         </Image.GestureRecognizers>
                     </Image>
-                        <Label x:Name="a3Txt" Text="Hi" TextColor="White" HorizontalTextAlignment="Center" />
+                    <Label x:Name="a3Txt" Text="Locked" TextColor="White" HorizontalTextAlignment="Center" />
                 </StackLayout>
                 <StackLayout Grid.Column="3" Grid.Row="0">
                     <Image
@@ -55,7 +61,7 @@
                             <TapGestureRecognizer Tapped="NavigateToBadgePopUp"/>
                         </Image.GestureRecognizers>
                     </Image>
-                    <Label x:Name="a4Txt" Text="Hi" TextColor="White" HorizontalTextAlignment="Center" />
+                    <Label x:Name="a4Txt" Text="Locked" TextColor="White" HorizontalTextAlignment="Center" />
                 </StackLayout>
 
                 <StackLayout Grid.Column="0" Grid.Row="1">
@@ -65,7 +71,7 @@
                             <TapGestureRecognizer Tapped="NavigateToBadgePopUp"/>
                         </Image.GestureRecognizers>
                     </Image>
-                    <Label x:Name="a5Txt" Text="Hi " TextColor="White" HorizontalTextAlignment="Center"/>
+                    <Label x:Name="a5Txt" Text="Locked " TextColor="White" HorizontalTextAlignment="Center"/>
                 </StackLayout>
                 <StackLayout Grid.Column="1" Grid.Row="1">
                     <Image
@@ -74,7 +80,7 @@
                             <TapGestureRecognizer Tapped="NavigateToBadgePopUp"/>
                         </Image.GestureRecognizers>
                     </Image>
-                    <Label x:Name="a6Txt" Text="Hi" TextColor="White" HorizontalTextAlignment="Center"/>
+                    <Label x:Name="a6Txt" Text="Locked" TextColor="White" HorizontalTextAlignment="Center"/>
                 </StackLayout>
                 <StackLayout Grid.Column="2" Grid.Row="1">
                     <Image
@@ -83,7 +89,7 @@
                             <TapGestureRecognizer Tapped="NavigateToBadgePopUp"/>
                         </Image.GestureRecognizers>
                     </Image>
-                    <Label x:Name="a7Txt" Text="Hi" TextColor="White" HorizontalTextAlignment="Center" />
+                    <Label x:Name="a7Txt" Text="Locked" TextColor="White" HorizontalTextAlignment="Center" />
                 </StackLayout>
                 <StackLayout Grid.Column="3" Grid.Row="1">
                     <Image
@@ -92,7 +98,7 @@
                             <TapGestureRecognizer Tapped="NavigateToBadgePopUp"/>
                         </Image.GestureRecognizers>
                     </Image>
-                    <Label x:Name="a8Txt" Text="Hi" TextColor="White" HorizontalTextAlignment="Center" />
+                    <Label x:Name="a8Txt" Text="Locked" TextColor="White" HorizontalTextAlignment="Center" />
                 </StackLayout>
 
                 <StackLayout Grid.Column="0" Grid.Row="2">
@@ -102,7 +108,7 @@
                             <TapGestureRecognizer Tapped="NavigateToBadgePopUp"/>
                         </Image.GestureRecognizers>
                     </Image>
-                    <Label x:Name="a9Txt" Text="Hi " TextColor="White" HorizontalTextAlignment="Center"/>
+                    <Label x:Name="a9Txt" Text="Locked " TextColor="White" HorizontalTextAlignment="Center"/>
                 </StackLayout>
                 <StackLayout Grid.Column="1" Grid.Row="2">
                     <Image
@@ -111,7 +117,7 @@
                             <TapGestureRecognizer Tapped="NavigateToBadgePopUp"/>
                         </Image.GestureRecognizers>
                     </Image>
-                    <Label x:Name="a10Txt" Text="Hi" TextColor="White" HorizontalTextAlignment="Center"/>
+                    <Label x:Name="a10Txt" Text="Locked" TextColor="White" HorizontalTextAlignment="Center"/>
                 </StackLayout>
                 <StackLayout Grid.Column="2" Grid.Row="2">
                     <Image
@@ -120,7 +126,7 @@
                             <TapGestureRecognizer Tapped="NavigateToBadgePopUp"/>
                         </Image.GestureRecognizers>
                     </Image>
-                    <Label x:Name="a11Txt" Text="Hi" TextColor="White" HorizontalTextAlignment="Center" />
+                    <Label x:Name="a11Txt" Text="Locked" TextColor="White" HorizontalTextAlignment="Center" />
                 </StackLayout>
                 <StackLayout Grid.Column="3" Grid.Row="2">
                     <Image
@@ -129,7 +135,7 @@
                             <TapGestureRecognizer Tapped="NavigateToBadgePopUp"/>
                         </Image.GestureRecognizers>
                     </Image>
-                    <Label x:Name="a12Txt" Text="Hi" TextColor="White" HorizontalTextAlignment="Center" />
+                    <Label x:Name="a12Txt" Text="Locked" TextColor="White" HorizontalTextAlignment="Center" />
                 </StackLayout>
 
                 <StackLayout Grid.Column="0" Grid.Row="3">
@@ -139,7 +145,7 @@
                             <TapGestureRecognizer Tapped="NavigateToBadgePopUp"/>
                         </Image.GestureRecognizers>
                     </Image>
-                    <Label x:Name="a13Txt" Text="Hi " TextColor="White" HorizontalTextAlignment="Center"/>
+                    <Label x:Name="a13Txt" Text="Locked " TextColor="White" HorizontalTextAlignment="Center"/>
                 </StackLayout>
                 <StackLayout Grid.Column="1" Grid.Row="3">
                     <Image
@@ -148,7 +154,7 @@
                             <TapGestureRecognizer Tapped="NavigateToBadgePopUp"/>
                         </Image.GestureRecognizers>
                     </Image>
-                    <Label x:Name="a14Txt" Text="Hi" TextColor="White" HorizontalTextAlignment="Center"/>
+                    <Label x:Name="a14Txt" Text="Locked" TextColor="White" HorizontalTextAlignment="Center"/>
                 </StackLayout>
                 <StackLayout Grid.Column="2" Grid.Row="3">
                     <Image
@@ -157,7 +163,7 @@
                             <TapGestureRecognizer Tapped="NavigateToBadgePopUp"/>
                         </Image.GestureRecognizers>
                     </Image>
-                    <Label x:Name="a15Txt" Text="Hi" TextColor="White" HorizontalTextAlignment="Center" />
+                    <Label x:Name="a15Txt" Text="Locked" TextColor="White" HorizontalTextAlignment="Center" />
                 </StackLayout>
                 <StackLayout Grid.Column="3" Grid.Row="3">
                     <Image
@@ -166,7 +172,7 @@
                             <TapGestureRecognizer Tapped="NavigateToBadgePopUp"/>
                         </Image.GestureRecognizers>
                     </Image>
-                    <Label x:Name="a16Txt" Text="Hi" TextColor="White" HorizontalTextAlignment="Center" />
+                    <Label x:Name="a16Txt" Text="Locked" TextColor="White" HorizontalTextAlignment="Center" />
                 </StackLayout>
             </Grid>
         </ScrollView>

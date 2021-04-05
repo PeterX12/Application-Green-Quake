@@ -1,8 +1,5 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿using Rg.Plugins.Popup.Services;
+using System;
 
 using Xamarin.Forms;
 using Xamarin.Forms.Xaml;
@@ -15,6 +12,11 @@ namespace Application_Green_Quake.Views.ProfilePage
         public Achievements()
         {
             InitializeComponent();
+        }
+
+        private async void NavigateToBadgePopUp(object sender, EventArgs e)
+        {
+            await PopupNavigation.Instance.PushAsync(new BadgePopUp());
         }
     }
 }

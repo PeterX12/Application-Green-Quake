@@ -25,7 +25,7 @@
                 <StackLayout Grid.Column="0" Grid.Row="0">
                     <Frame CornerRadius="20" HorizontalOptions="Start" VerticalOptions="Start" Margin="0" Padding="0" BackgroundColor="White">
                         <Image
-                    x:Name="a1" Source="{local:ImageResource Application_Green_Quake.Images.HabitsAchievements.brushingBronze.png}" HorizontalOptions="CenterAndExpand">
+                        x:Name="a1" Source="{local:ImageResource Application_Green_Quake.Images.lockTwo.png}" HorizontalOptions="CenterAndExpand">
                             <Image.GestureRecognizers>
                                 <TapGestureRecognizer Tapped="NavigateToBadgePopUp"/>
                             </Image.GestureRecognizers>

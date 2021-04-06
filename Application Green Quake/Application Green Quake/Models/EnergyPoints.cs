@@ -17,7 +17,7 @@ namespace Application_Green_Quake.Models
         public int ledLightBulbCount { get; set; }
         public int fullMachineCount { get; set; }
         public int microwaveCount { get; set; }
-        public int offSwitchCount { get; set; }
+        public int offSocketCount { get; set; }
         public int reBatteriesCount { get; set; }
         public int fridgeCount { get; set; }
         public int draftSealCount { get; set; }

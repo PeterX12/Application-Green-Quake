@@ -20,7 +20,7 @@ namespace Application_Green_Quake.Models
         public int looseLeafCount { get; set; }
         public int organicFoodCount { get; set; }
         public int reusableCount { get; set; }
-        public int reBatteriesCount { get; set; }
+        public int reBatCount { get; set; }
         public int reBagCount { get; set; }
     }
 }

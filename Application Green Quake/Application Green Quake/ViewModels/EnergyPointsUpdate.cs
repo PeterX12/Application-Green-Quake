@@ -22,7 +22,7 @@ namespace Application_Green_Quake.ViewModels
         int ledLightBulbCount2 = 0;
         int microwaveCount2 = 0;
         int solarPanelCount2 = 0;
-        int offSwitchCount2 = 0;
+        int offSocketCount2 = 0;
         int reBatteriesCount2 = 0;
 
 
@@ -108,10 +108,10 @@ namespace Application_Green_Quake.ViewModels
                 .Child(auth.GetUid())
                 .OnceSingleAsync<EnergyPoints>()).microwaveCount;
 
-                offSwitchCount2 = (await firebaseClient
+                offSocketCount2 = (await firebaseClient
                 .Child("EnergyPoints")
                 .Child(auth.GetUid())
-                .OnceSingleAsync<EnergyPoints>()).offSwitchCount;
+                .OnceSingleAsync<EnergyPoints>()).offSocketCount;
 
                 reBatteriesCount2 = (await firebaseClient
                 .Child("EnergyPoints")
@@ -146,7 +146,7 @@ namespace Application_Green_Quake.ViewModels
                      isolateHomeCount = isolateHomeCount2, 
                      ledLightBulbCount =ledLightBulbCount2,
                      microwaveCount = microwaveCount2, 
-                     offSwitchCount = offSwitchCount2, 
+                     offSocketCount = offSocketCount2, 
                      reBatteriesCount = reBatteriesCount2,
                      solarPanelCount = solarPanelCount2,
                      fullMachineCount = fullMachineCount2
@@ -260,10 +260,10 @@ namespace Application_Green_Quake.ViewModels
                 .Child(auth.GetUid())
                 .OnceSingleAsync<EnergyPoints>()).microwaveCount;
 
-                offSwitchCount2 = (await firebaseClient
+                offSocketCount2 = (await firebaseClient
                 .Child("EnergyPoints")
                 .Child(auth.GetUid())
-                .OnceSingleAsync<EnergyPoints>()).offSwitchCount;
+                .OnceSingleAsync<EnergyPoints>()).offSocketCount;
 
                 reBatteriesCount2 = (await firebaseClient
                 .Child("EnergyPoints")
@@ -298,7 +298,7 @@ namespace Application_Green_Quake.ViewModels
                     isolateHomeCount = isolateHomeCount2,
                     ledLightBulbCount = ledLightBulbCount2,
                     microwaveCount = microwaveCount2,
-                    offSwitchCount = offSwitchCount2,
+                    offSocketCount = offSocketCount2,
                     reBatteriesCount = reBatteriesCount2,
                     solarPanelCount = solarPanelCount2,
                     fullMachineCount = fullMachineCount2
@@ -412,10 +412,10 @@ namespace Application_Green_Quake.ViewModels
                 .Child(auth.GetUid())
                 .OnceSingleAsync<EnergyPoints>()).microwaveCount;
 
-                offSwitchCount2 = (await firebaseClient
+                offSocketCount2 = (await firebaseClient
                 .Child("EnergyPoints")
                 .Child(auth.GetUid())
-                .OnceSingleAsync<EnergyPoints>()).offSwitchCount;
+                .OnceSingleAsync<EnergyPoints>()).offSocketCount;
 
                 reBatteriesCount2 = (await firebaseClient
                 .Child("EnergyPoints")
@@ -450,7 +450,7 @@ namespace Application_Green_Quake.ViewModels
                     isolateHomeCount = isolateHomeCount2,
                     ledLightBulbCount = ledLightBulbCount2,
                     microwaveCount = microwaveCount2,
-                    offSwitchCount = offSwitchCount2,
+                    offSocketCount = offSocketCount2,
                     reBatteriesCount = reBatteriesCount2,
                     solarPanelCount = solarPanelCount2,
                     fullMachineCount = fullMachineCount2
@@ -564,10 +564,10 @@ namespace Application_Green_Quake.ViewModels
                 .Child(auth.GetUid())
                 .OnceSingleAsync<EnergyPoints>()).microwaveCount;
 
-                offSwitchCount2 = (await firebaseClient
+                offSocketCount2 = (await firebaseClient
                 .Child("EnergyPoints")
                 .Child(auth.GetUid())
-                .OnceSingleAsync<EnergyPoints>()).offSwitchCount;
+                .OnceSingleAsync<EnergyPoints>()).offSocketCount;
 
                 reBatteriesCount2 = (await firebaseClient
                 .Child("EnergyPoints")
@@ -602,7 +602,7 @@ namespace Application_Green_Quake.ViewModels
                     isolateHomeCount = isolateHomeCount2,
                     ledLightBulbCount = ledLightBulbCount2,
                     microwaveCount = microwaveCount2,
-                    offSwitchCount = offSwitchCount2,
+                    offSocketCount = offSocketCount2,
                     reBatteriesCount = reBatteriesCount2,
                     solarPanelCount = solarPanelCount2,
                     fullMachineCount = fullMachineCount2
@@ -714,10 +714,10 @@ namespace Application_Green_Quake.ViewModels
                 .Child(auth.GetUid())
                 .OnceSingleAsync<EnergyPoints>()).microwaveCount;
 
-                offSwitchCount2 = (await firebaseClient
+                offSocketCount2 = (await firebaseClient
                 .Child("EnergyPoints")
                 .Child(auth.GetUid())
-                .OnceSingleAsync<EnergyPoints>()).offSwitchCount;
+                .OnceSingleAsync<EnergyPoints>()).offSocketCount;
 
                 reBatteriesCount2 = (await firebaseClient
                 .Child("EnergyPoints")
@@ -754,7 +754,7 @@ namespace Application_Green_Quake.ViewModels
                     isolateHomeCount = isolateHomeCount2,
                     ledLightBulbCount = ledLightBulbCount2,
                     microwaveCount = microwaveCount2,
-                    offSwitchCount = offSwitchCount2,
+                    offSocketCount = offSocketCount2,
                     reBatteriesCount = reBatteriesCount2,
                     solarPanelCount = solarPanelCount2,
                     fullMachineCount = fullMachineCount2
@@ -868,10 +868,10 @@ namespace Application_Green_Quake.ViewModels
                 .Child(auth.GetUid())
                 .OnceSingleAsync<EnergyPoints>()).microwaveCount;
 
-                offSwitchCount2 = (await firebaseClient
+                offSocketCount2 = (await firebaseClient
                 .Child("EnergyPoints")
                 .Child(auth.GetUid())
-                .OnceSingleAsync<EnergyPoints>()).offSwitchCount;
+                .OnceSingleAsync<EnergyPoints>()).offSocketCount;
 
                 reBatteriesCount2 = (await firebaseClient
                 .Child("EnergyPoints")
@@ -906,7 +906,7 @@ namespace Application_Green_Quake.ViewModels
                     isolateHomeCount = isolateHomeCount2,
                     ledLightBulbCount = ledLightBulbCount2,
                     microwaveCount = microwaveCount2,
-                    offSwitchCount = offSwitchCount2,
+                    offSocketCount = offSocketCount2,
                     reBatteriesCount = reBatteriesCount2,
                     solarPanelCount = solarPanelCount2,
                     fullMachineCount = fullMachineCount2
@@ -1020,10 +1020,10 @@ namespace Application_Green_Quake.ViewModels
                 .Child(auth.GetUid())
                 .OnceSingleAsync<EnergyPoints>()).microwaveCount;
 
-                offSwitchCount2 = (await firebaseClient
+                offSocketCount2 = (await firebaseClient
                 .Child("EnergyPoints")
                 .Child(auth.GetUid())
-                .OnceSingleAsync<EnergyPoints>()).offSwitchCount;
+                .OnceSingleAsync<EnergyPoints>()).offSocketCount;
 
                 reBatteriesCount2 = (await firebaseClient
                 .Child("EnergyPoints")
@@ -1058,7 +1058,7 @@ namespace Application_Green_Quake.ViewModels
                     isolateHomeCount = isolateHomeCount2,
                     ledLightBulbCount = ledLightBulbCount2,
                     microwaveCount = microwaveCount2,
-                    offSwitchCount = offSwitchCount2,
+                    offSocketCount = offSocketCount2,
                     reBatteriesCount = reBatteriesCount2,
                     solarPanelCount = solarPanelCount2,
                     fullMachineCount = fullMachineCount2
@@ -1172,10 +1172,10 @@ namespace Application_Green_Quake.ViewModels
 
                 microwaveCount2++;
 
-                offSwitchCount2 = (await firebaseClient
+                offSocketCount2 = (await firebaseClient
                 .Child("EnergyPoints")
                 .Child(auth.GetUid())
-                .OnceSingleAsync<EnergyPoints>()).offSwitchCount;
+                .OnceSingleAsync<EnergyPoints>()).offSocketCount;
 
                 reBatteriesCount2 = (await firebaseClient
                 .Child("EnergyPoints")
@@ -1210,7 +1210,7 @@ namespace Application_Green_Quake.ViewModels
                     isolateHomeCount = isolateHomeCount2,
                     ledLightBulbCount = ledLightBulbCount2,
                     microwaveCount = microwaveCount2,
-                    offSwitchCount = offSwitchCount2,
+                    offSocketCount = offSocketCount2,
                     reBatteriesCount = reBatteriesCount2,
                     solarPanelCount = solarPanelCount2,
                     fullMachineCount = fullMachineCount2
@@ -1322,12 +1322,12 @@ namespace Application_Green_Quake.ViewModels
                 .Child(auth.GetUid())
                 .OnceSingleAsync<EnergyPoints>()).microwaveCount;
 
-                offSwitchCount2 = (await firebaseClient
+                offSocketCount2 = (await firebaseClient
                 .Child("EnergyPoints")
                 .Child(auth.GetUid())
-                .OnceSingleAsync<EnergyPoints>()).offSwitchCount;
+                .OnceSingleAsync<EnergyPoints>()).offSocketCount;
 
-                offSwitchCount2++;
+                offSocketCount2++;
 
                 reBatteriesCount2 = (await firebaseClient
                 .Child("EnergyPoints")
@@ -1362,7 +1362,7 @@ namespace Application_Green_Quake.ViewModels
                     isolateHomeCount = isolateHomeCount2,
                     ledLightBulbCount = ledLightBulbCount2,
                     microwaveCount = microwaveCount2,
-                    offSwitchCount = offSwitchCount2,
+                    offSocketCount = offSocketCount2,
                     reBatteriesCount = reBatteriesCount2,
                     solarPanelCount = solarPanelCount2,
                     fullMachineCount = fullMachineCount2
@@ -1379,7 +1379,7 @@ namespace Application_Green_Quake.ViewModels
                 await firebaseClient
                 .Child("EnergyPoints")
                 .Child(auth.GetUid())
-                .PutAsync(new EnergyPoints() { username = username, points = points2, numberOfLogs = 1, offSwitchCount = 1 }); ;
+                .PutAsync(new EnergyPoints() { username = username, points = points2, numberOfLogs = 1, offSocketCount = 1 }); ;
 
             }
             catch (NullReferenceException)
@@ -1393,7 +1393,7 @@ namespace Application_Green_Quake.ViewModels
                 await firebaseClient
                 .Child("EnergyPoints")
                 .Child(auth.GetUid())
-                .PutAsync(new EnergyPoints() { username = username, points = points2, numberOfLogs = 1, offSwitchCount = 1 });
+                .PutAsync(new EnergyPoints() { username = username, points = points2, numberOfLogs = 1, offSocketCount = 1 });
             }
         }
 
@@ -1474,10 +1474,10 @@ namespace Application_Green_Quake.ViewModels
                 .Child(auth.GetUid())
                 .OnceSingleAsync<EnergyPoints>()).microwaveCount;
 
-                offSwitchCount2 = (await firebaseClient
+                offSocketCount2 = (await firebaseClient
                 .Child("EnergyPoints")
                 .Child(auth.GetUid())
-                .OnceSingleAsync<EnergyPoints>()).offSwitchCount;
+                .OnceSingleAsync<EnergyPoints>()).offSocketCount;
 
                 reBatteriesCount2 = (await firebaseClient
                 .Child("EnergyPoints")
@@ -1514,7 +1514,7 @@ namespace Application_Green_Quake.ViewModels
                     isolateHomeCount = isolateHomeCount2,
                     ledLightBulbCount = ledLightBulbCount2,
                     microwaveCount = microwaveCount2,
-                    offSwitchCount = offSwitchCount2,
+                    offSocketCount = offSocketCount2,
                     reBatteriesCount = reBatteriesCount2,
                     solarPanelCount = solarPanelCount2,
                     fullMachineCount = fullMachineCount2
@@ -1628,10 +1628,10 @@ namespace Application_Green_Quake.ViewModels
                 .Child(auth.GetUid())
                 .OnceSingleAsync<EnergyPoints>()).microwaveCount;
 
-                offSwitchCount2 = (await firebaseClient
+                offSocketCount2 = (await firebaseClient
                 .Child("EnergyPoints")
                 .Child(auth.GetUid())
-                .OnceSingleAsync<EnergyPoints>()).offSwitchCount;
+                .OnceSingleAsync<EnergyPoints>()).offSocketCount;
 
                 reBatteriesCount2 = (await firebaseClient
                 .Child("EnergyPoints")
@@ -1666,7 +1666,7 @@ namespace Application_Green_Quake.ViewModels
                     isolateHomeCount = isolateHomeCount2,
                     ledLightBulbCount = ledLightBulbCount2,
                     microwaveCount = microwaveCount2,
-                    offSwitchCount = offSwitchCount2,
+                    offSocketCount = offSocketCount2,
                     reBatteriesCount = reBatteriesCount2,
                     solarPanelCount = solarPanelCount2,
                     fullMachineCount = fullMachineCount2
@@ -1780,10 +1780,10 @@ namespace Application_Green_Quake.ViewModels
                 .Child(auth.GetUid())
                 .OnceSingleAsync<EnergyPoints>()).microwaveCount;
 
-                offSwitchCount2 = (await firebaseClient
+                offSocketCount2 = (await firebaseClient
                 .Child("EnergyPoints")
                 .Child(auth.GetUid())
-                .OnceSingleAsync<EnergyPoints>()).offSwitchCount;
+                .OnceSingleAsync<EnergyPoints>()).offSocketCount;
 
                 reBatteriesCount2 = (await firebaseClient
                 .Child("EnergyPoints")
@@ -1818,7 +1818,7 @@ namespace Application_Green_Quake.ViewModels
                     isolateHomeCount = isolateHomeCount2,
                     ledLightBulbCount = ledLightBulbCount2,
                     microwaveCount = microwaveCount2,
-                    offSwitchCount = offSwitchCount2,
+                    offSocketCount = offSocketCount2,
                     reBatteriesCount = reBatteriesCount2,
                     solarPanelCount = solarPanelCount2,
                     fullMachineCount = fullMachineCount2
@@ -1932,10 +1932,10 @@ namespace Application_Green_Quake.ViewModels
                 .Child(auth.GetUid())
                 .OnceSingleAsync<EnergyPoints>()).microwaveCount;
 
-                offSwitchCount2 = (await firebaseClient
+                offSocketCount2 = (await firebaseClient
                 .Child("EnergyPoints")
                 .Child(auth.GetUid())
-                .OnceSingleAsync<EnergyPoints>()).offSwitchCount;
+                .OnceSingleAsync<EnergyPoints>()).offSocketCount;
 
                 reBatteriesCount2 = (await firebaseClient
                 .Child("EnergyPoints")
@@ -1970,7 +1970,7 @@ namespace Application_Green_Quake.ViewModels
                     isolateHomeCount = isolateHomeCount2,
                     ledLightBulbCount = ledLightBulbCount2,
                     microwaveCount = microwaveCount2,
-                    offSwitchCount = offSwitchCount2,
+                    offSocketCount = offSocketCount2,
                     reBatteriesCount = reBatteriesCount2,
                     solarPanelCount = solarPanelCount2,
                     fullMachineCount = fullMachineCount2
@@ -2082,10 +2082,10 @@ namespace Application_Green_Quake.ViewModels
                 .Child(auth.GetUid())
                 .OnceSingleAsync<EnergyPoints>()).microwaveCount;
 
-                offSwitchCount2 = (await firebaseClient
+                offSocketCount2 = (await firebaseClient
                 .Child("EnergyPoints")
                 .Child(auth.GetUid())
-                .OnceSingleAsync<EnergyPoints>()).offSwitchCount;
+                .OnceSingleAsync<EnergyPoints>()).offSocketCount;
 
                 reBatteriesCount2 = (await firebaseClient
                 .Child("EnergyPoints")
@@ -2122,7 +2122,7 @@ namespace Application_Green_Quake.ViewModels
                     isolateHomeCount = isolateHomeCount2,
                     ledLightBulbCount = ledLightBulbCount2,
                     microwaveCount = microwaveCount2,
-                    offSwitchCount = offSwitchCount2,
+                    offSocketCount = offSocketCount2,
                     reBatteriesCount = reBatteriesCount2,
                     solarPanelCount = solarPanelCount2,
                     fullMachineCount = fullMachineCount2

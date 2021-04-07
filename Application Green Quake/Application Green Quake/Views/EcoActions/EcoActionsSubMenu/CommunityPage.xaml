@@ -4,19 +4,21 @@
              x:Class="Application_Green_Quake.Views.EcoActions.EcoActionsSubMenu.CommunityPage"
              Title="Community Subcategories">
     <ContentPage.Content>
-        <StackLayout>
-            <Button Text="Join Environmental Groups"
+        <ScrollView>
+            <StackLayout>
+                <Button Text="Join Environmental Groups"
                     Clicked="NavigateToEnvironmentalGroups"/>
-            <Button Text="Create an Environmental Group"
+                <Button Text="Create an Environmental Group"
                     Clicked="NavigateToCreateEnvironmentalGroup"/>
-            <Button Text="Spread Awarennes on Environmental Issues"
+                <Button Text="Spread Awarennes on Environmental Issues"
                     Clicked="NavigateToSpreadAwareness"/>
-            <Button Text="Do Something for the Community"
+                <Button Text="Do Something for the Community"
                     Clicked="NavigateToDoCommunity"/>
-            <Button Text="Donate Unused Items"
+                <Button Text="Donate Unused Items"
                     Clicked="NavigateToDonateItems"/>
-            <Button Text="Share This App"
+                <Button Text="Share This App"
                     Clicked="NavigateToShareThisaApp"/>
-        </StackLayout>
+            </StackLayout>
+        </ScrollView>
     </ContentPage.Content>
 </ContentPage>

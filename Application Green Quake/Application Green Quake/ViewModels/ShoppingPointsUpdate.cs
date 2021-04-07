@@ -23,7 +23,7 @@ namespace Application_Green_Quake.ViewModels
         int looseLeafCount2 = 0;
         int organicFoodCount2 = 0;
         int reusableCount2 = 0;
-        int reBatteriesCount2 = 0;
+        int reBatCount2 = 0;
         int reBagCount2 = 0;
 
         string username = "";
@@ -61,12 +61,12 @@ namespace Application_Green_Quake.ViewModels
                 .Child(auth.GetUid())
                 .OnceSingleAsync<ShoppingPoints>()).clothNapkinCount;
 
+                clothNapkinCount2++;
+
                 clothTowelCount2 = (await firebaseClient
                 .Child("ShoppingPoints")
                 .Child(auth.GetUid())
                 .OnceSingleAsync<ShoppingPoints>()).clothTowelCount;
-
-                clothTowelCount2++;
 
                 applianceCount2 = (await firebaseClient
                 .Child("ShoppingPoints")
@@ -113,10 +113,10 @@ namespace Application_Green_Quake.ViewModels
                 .Child(auth.GetUid())
                 .OnceSingleAsync<ShoppingPoints>()).reusableCount;
 
-                reBatteriesCount2 = (await firebaseClient
+                reBatCount2 = (await firebaseClient
                 .Child("ShoppingPoints")
                 .Child(auth.GetUid())
-                .OnceSingleAsync<ShoppingPoints>()).reBatteriesCount;
+                .OnceSingleAsync<ShoppingPoints>()).reBatCount;
 
                 reBagCount2 = (await firebaseClient
                 .Child("ShoppingPoints")
@@ -142,7 +142,7 @@ namespace Application_Green_Quake.ViewModels
                     looseLeafCount = looseLeafCount2,
                     organicFoodCount = organicFoodCount2,
                     reusableCount = reusableCount2,
-                    reBatteriesCount = reBatteriesCount2,
+                    reBatCount = reBatCount2,
                     reBagCount = reBagCount2,
                 });
             }
@@ -259,10 +259,10 @@ namespace Application_Green_Quake.ViewModels
                 .Child(auth.GetUid())
                 .OnceSingleAsync<ShoppingPoints>()).reusableCount;
 
-                reBatteriesCount2 = (await firebaseClient
+                reBatCount2 = (await firebaseClient
                 .Child("ShoppingPoints")
                 .Child(auth.GetUid())
-                .OnceSingleAsync<ShoppingPoints>()).reBatteriesCount;
+                .OnceSingleAsync<ShoppingPoints>()).reBatCount;
 
                 reBagCount2 = (await firebaseClient
                 .Child("ShoppingPoints")
@@ -288,7 +288,7 @@ namespace Application_Green_Quake.ViewModels
                     looseLeafCount = looseLeafCount2,
                     organicFoodCount = organicFoodCount2,
                     reusableCount = reusableCount2,
-                    reBatteriesCount = reBatteriesCount2,
+                    reBatCount = reBatCount2,
                     reBagCount = reBagCount2,
                 });
             }
@@ -405,10 +405,10 @@ namespace Application_Green_Quake.ViewModels
                 .Child(auth.GetUid())
                 .OnceSingleAsync<ShoppingPoints>()).reusableCount;
 
-                reBatteriesCount2 = (await firebaseClient
+                reBatCount2 = (await firebaseClient
                 .Child("ShoppingPoints")
                 .Child(auth.GetUid())
-                .OnceSingleAsync<ShoppingPoints>()).reBatteriesCount;
+                .OnceSingleAsync<ShoppingPoints>()).reBatCount;
 
                 reBagCount2 = (await firebaseClient
                 .Child("ShoppingPoints")
@@ -434,7 +434,7 @@ namespace Application_Green_Quake.ViewModels
                     looseLeafCount = looseLeafCount2,
                     organicFoodCount = organicFoodCount2,
                     reusableCount = reusableCount2,
-                    reBatteriesCount = reBatteriesCount2,
+                    reBatCount = reBatCount2,
                     reBagCount = reBagCount2,
                 });
             }
@@ -551,10 +551,10 @@ namespace Application_Green_Quake.ViewModels
                 .Child(auth.GetUid())
                 .OnceSingleAsync<ShoppingPoints>()).reusableCount;
 
-                reBatteriesCount2 = (await firebaseClient
+                reBatCount2 = (await firebaseClient
                 .Child("ShoppingPoints")
                 .Child(auth.GetUid())
-                .OnceSingleAsync<ShoppingPoints>()).reBatteriesCount;
+                .OnceSingleAsync<ShoppingPoints>()).reBatCount;
 
                 reBagCount2 = (await firebaseClient
                 .Child("ShoppingPoints")
@@ -580,7 +580,7 @@ namespace Application_Green_Quake.ViewModels
                     looseLeafCount = looseLeafCount2,
                     organicFoodCount = organicFoodCount2,
                     reusableCount = reusableCount2,
-                    reBatteriesCount = reBatteriesCount2,
+                    reBatCount = reBatCount2,
                     reBagCount = reBagCount2,
                 });
             }
@@ -697,10 +697,10 @@ namespace Application_Green_Quake.ViewModels
                 .Child(auth.GetUid())
                 .OnceSingleAsync<ShoppingPoints>()).reusableCount;
 
-                reBatteriesCount2 = (await firebaseClient
+                reBatCount2 = (await firebaseClient
                 .Child("ShoppingPoints")
                 .Child(auth.GetUid())
-                .OnceSingleAsync<ShoppingPoints>()).reBatteriesCount;
+                .OnceSingleAsync<ShoppingPoints>()).reBatCount;
 
                 reBagCount2 = (await firebaseClient
                 .Child("ShoppingPoints")
@@ -726,7 +726,7 @@ namespace Application_Green_Quake.ViewModels
                     looseLeafCount = looseLeafCount2,
                     organicFoodCount = organicFoodCount2,
                     reusableCount = reusableCount2,
-                    reBatteriesCount = reBatteriesCount2,
+                    reBatCount = reBatCount2,
                     reBagCount = reBagCount2,
                 });
             }
@@ -843,10 +843,10 @@ namespace Application_Green_Quake.ViewModels
                 .Child(auth.GetUid())
                 .OnceSingleAsync<ShoppingPoints>()).reusableCount;
 
-                reBatteriesCount2 = (await firebaseClient
+                reBatCount2 = (await firebaseClient
                 .Child("ShoppingPoints")
                 .Child(auth.GetUid())
-                .OnceSingleAsync<ShoppingPoints>()).reBatteriesCount;
+                .OnceSingleAsync<ShoppingPoints>()).reBatCount;
 
                 reBagCount2 = (await firebaseClient
                 .Child("ShoppingPoints")
@@ -872,7 +872,7 @@ namespace Application_Green_Quake.ViewModels
                     looseLeafCount = looseLeafCount2,
                     organicFoodCount = organicFoodCount2,
                     reusableCount = reusableCount2,
-                    reBatteriesCount = reBatteriesCount2,
+                    reBatCount = reBatCount2,
                     reBagCount = reBagCount2,
                 });
             }
@@ -989,10 +989,10 @@ namespace Application_Green_Quake.ViewModels
                 .Child(auth.GetUid())
                 .OnceSingleAsync<ShoppingPoints>()).reusableCount;
 
-                reBatteriesCount2 = (await firebaseClient
+                reBatCount2 = (await firebaseClient
                 .Child("ShoppingPoints")
                 .Child(auth.GetUid())
-                .OnceSingleAsync<ShoppingPoints>()).reBatteriesCount;
+                .OnceSingleAsync<ShoppingPoints>()).reBatCount;
 
                 reBagCount2 = (await firebaseClient
                 .Child("ShoppingPoints")
@@ -1018,7 +1018,7 @@ namespace Application_Green_Quake.ViewModels
                     looseLeafCount = looseLeafCount2,
                     organicFoodCount = organicFoodCount2,
                     reusableCount = reusableCount2,
-                    reBatteriesCount = reBatteriesCount2,
+                    reBatCount = reBatCount2,
                     reBagCount = reBagCount2,
                 });
             }
@@ -1135,10 +1135,10 @@ namespace Application_Green_Quake.ViewModels
                 .Child(auth.GetUid())
                 .OnceSingleAsync<ShoppingPoints>()).reusableCount;
 
-                reBatteriesCount2 = (await firebaseClient
+                reBatCount2 = (await firebaseClient
                 .Child("ShoppingPoints")
                 .Child(auth.GetUid())
-                .OnceSingleAsync<ShoppingPoints>()).reBatteriesCount;
+                .OnceSingleAsync<ShoppingPoints>()).reBatCount;
 
                 reBagCount2 = (await firebaseClient
                 .Child("ShoppingPoints")
@@ -1164,7 +1164,7 @@ namespace Application_Green_Quake.ViewModels
                     looseLeafCount = looseLeafCount2,
                     organicFoodCount = organicFoodCount2,
                     reusableCount = reusableCount2,
-                    reBatteriesCount = reBatteriesCount2,
+                    reBatCount = reBatCount2,
                     reBagCount = reBagCount2,
                 });
             }
@@ -1281,10 +1281,10 @@ namespace Application_Green_Quake.ViewModels
                 .Child(auth.GetUid())
                 .OnceSingleAsync<ShoppingPoints>()).reusableCount;
 
-                reBatteriesCount2 = (await firebaseClient
+                reBatCount2 = (await firebaseClient
                 .Child("ShoppingPoints")
                 .Child(auth.GetUid())
-                .OnceSingleAsync<ShoppingPoints>()).reBatteriesCount;
+                .OnceSingleAsync<ShoppingPoints>()).reBatCount;
 
                 reBagCount2 = (await firebaseClient
                 .Child("ShoppingPoints")
@@ -1310,7 +1310,7 @@ namespace Application_Green_Quake.ViewModels
                     looseLeafCount = looseLeafCount2,
                     organicFoodCount = organicFoodCount2,
                     reusableCount = reusableCount2,
-                    reBatteriesCount = reBatteriesCount2,
+                    reBatCount = reBatCount2,
                     reBagCount = reBagCount2,
                 });
             }
@@ -1427,10 +1427,10 @@ namespace Application_Green_Quake.ViewModels
                 .Child(auth.GetUid())
                 .OnceSingleAsync<ShoppingPoints>()).reusableCount;
 
-                reBatteriesCount2 = (await firebaseClient
+                reBatCount2 = (await firebaseClient
                 .Child("ShoppingPoints")
                 .Child(auth.GetUid())
-                .OnceSingleAsync<ShoppingPoints>()).reBatteriesCount;
+                .OnceSingleAsync<ShoppingPoints>()).reBatCount;
 
                 reBagCount2 = (await firebaseClient
                 .Child("ShoppingPoints")
@@ -1456,7 +1456,7 @@ namespace Application_Green_Quake.ViewModels
                     looseLeafCount = looseLeafCount2,
                     organicFoodCount = organicFoodCount2,
                     reusableCount = reusableCount2,
-                    reBatteriesCount = reBatteriesCount2,
+                    reBatCount = reBatCount2,
                     reBagCount = reBagCount2,
                 });
             }
@@ -1573,10 +1573,10 @@ namespace Application_Green_Quake.ViewModels
 
                 reusableCount2++;
 
-                reBatteriesCount2 = (await firebaseClient
+                reBatCount2 = (await firebaseClient
                 .Child("ShoppingPoints")
                 .Child(auth.GetUid())
-                .OnceSingleAsync<ShoppingPoints>()).reBatteriesCount;
+                .OnceSingleAsync<ShoppingPoints>()).reBatCount;
 
                 reBagCount2 = (await firebaseClient
                 .Child("ShoppingPoints")
@@ -1602,7 +1602,7 @@ namespace Application_Green_Quake.ViewModels
                     looseLeafCount = looseLeafCount2,
                     organicFoodCount = organicFoodCount2,
                     reusableCount = reusableCount2,
-                    reBatteriesCount = reBatteriesCount2,
+                    reBatCount = reBatCount2,
                     reBagCount = reBagCount2,
                 });
             }
@@ -1717,12 +1717,12 @@ namespace Application_Green_Quake.ViewModels
                 .Child(auth.GetUid())
                 .OnceSingleAsync<ShoppingPoints>()).reusableCount;
 
-                reBatteriesCount2 = (await firebaseClient
+                reBatCount2 = (await firebaseClient
                 .Child("ShoppingPoints")
                 .Child(auth.GetUid())
-                .OnceSingleAsync<ShoppingPoints>()).reBatteriesCount;
+                .OnceSingleAsync<ShoppingPoints>()).reBatCount;
 
-                reBatteriesCount2++;
+                reBatCount2++;
 
                 reBagCount2 = (await firebaseClient
                 .Child("ShoppingPoints")
@@ -1748,7 +1748,7 @@ namespace Application_Green_Quake.ViewModels
                     looseLeafCount = looseLeafCount2,
                     organicFoodCount = organicFoodCount2,
                     reusableCount = reusableCount2,
-                    reBatteriesCount = reBatteriesCount2,
+                    reBatCount = reBatCount2,
                     reBagCount = reBagCount2,
                 });
             }
@@ -1763,7 +1763,7 @@ namespace Application_Green_Quake.ViewModels
                 await firebaseClient
                 .Child("ShoppingPoints")
                 .Child(auth.GetUid())
-                .PutAsync(new ShoppingPoints() { username = username, points = points2, numberOfLogs = 1, reBatteriesCount = 1 }); ;
+                .PutAsync(new ShoppingPoints() { username = username, points = points2, numberOfLogs = 1, reBatCount = 1 }); ;
 
             }
             catch (NullReferenceException)
@@ -1777,7 +1777,7 @@ namespace Application_Green_Quake.ViewModels
                 await firebaseClient
                 .Child("ShoppingPoints")
                 .Child(auth.GetUid())
-                .PutAsync(new ShoppingPoints() { username = username, points = points2, numberOfLogs = 1, reBatteriesCount = 1 });
+                .PutAsync(new ShoppingPoints() { username = username, points = points2, numberOfLogs = 1, reBatCount = 1 });
             }
         }
 
@@ -1863,10 +1863,10 @@ namespace Application_Green_Quake.ViewModels
                 .Child(auth.GetUid())
                 .OnceSingleAsync<ShoppingPoints>()).reusableCount;
 
-                reBatteriesCount2 = (await firebaseClient
+                reBatCount2 = (await firebaseClient
                 .Child("ShoppingPoints")
                 .Child(auth.GetUid())
-                .OnceSingleAsync<ShoppingPoints>()).reBatteriesCount;
+                .OnceSingleAsync<ShoppingPoints>()).reBatCount;
 
                 reBagCount2 = (await firebaseClient
                 .Child("ShoppingPoints")
@@ -1894,7 +1894,7 @@ namespace Application_Green_Quake.ViewModels
                     looseLeafCount = looseLeafCount2,
                     organicFoodCount = organicFoodCount2,
                     reusableCount = reusableCount2,
-                    reBatteriesCount = reBatteriesCount2,
+                    reBatCount = reBatCount2,
                     reBagCount = reBagCount2,
                 });
             }

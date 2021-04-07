@@ -4,25 +4,27 @@
              x:Class="Application_Green_Quake.Views.EcoActions.EcoActionsSubMenu.WorkPage"
              Title="Work Subcategories">
     <ContentPage.Content>
-        <StackLayout>
-            <Button Text="Carpool to Work"
+        <ScrollView>
+            <StackLayout>
+                <Button Text="Carpool to Work"
                     Clicked="NavigateToCarpool"/>
-            <Button Text="Public Transport To Work"
+                <Button Text="Public Transport To Work"
                     Clicked="NavigateToPublicTransport"/>
-            <Button Text="Cycle to Work"
+                <Button Text="Cycle to Work"
                     Clicked="NavigateToCycle"/>
-            <Button Text="Walk to Work"
+                <Button Text="Walk to Work"
                     Clicked="NavigateToWalk"/>
-            <Button Text="Travel to Work in an Eco-Freindly Car"
+                <Button Text="Travel to Work in an Eco-Freindly Car"
                     Clicked="NavigateToEcoFreindlyCar"/>
-            <Button Text="Turn off the Lights"
+                <Button Text="Turn off the Lights"
                     Clicked="NavigateToOffLights"/>
-            <Button Text="Turn of Electronics"
+                <Button Text="Turn of Electronics"
                     Clicked="NavigateToOffElectronics"/>
-            <Button Text="Try Working Remotely"
+                <Button Text="Try Working Remotely"
                     Clicked="NavigateToWorkingRemotely"/>
-            <Button Text="Use Both Sides of The Paper"
+                <Button Text="Use Both Sides of The Paper"
                     Clicked="NavigateToBothSidesPaper"/>
-        </StackLayout>
+            </StackLayout>
+        </ScrollView>
     </ContentPage.Content>
 </ContentPage>

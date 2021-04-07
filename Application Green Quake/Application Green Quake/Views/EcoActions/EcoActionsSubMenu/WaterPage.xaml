@@ -4,27 +4,29 @@
              x:Class="Application_Green_Quake.Views.EcoActions.EcoActionsSubMenu.WaterPage"
              Title="Water Subcategories">
     <ContentPage.Content>
-        <StackLayout>
-            <Button Text="Brushing Teeth"
+        <ScrollView>
+            <StackLayout>
+                <Button Text="Brushing Teeth"
                     Clicked="NavigateToBrushingPage"/>
-            <Button Text="Timed Shower"
+                <Button Text="Timed Shower"
                     Clicked="NavigateToTimedShowerPage"/>
-            <Button Text="Shower Instead of Bathing"
+                <Button Text="Shower Instead of Bathing"
                     Clicked="NavigateToShoweredInsteadOfBath"/>
-            <Button Text="Use Dishwasher Only When Full"
+                <Button Text="Use Dishwasher Only When Full"
                     Clicked="NavigateToDishwasherFull"/>
-            <Button Text="Use Reusable Water Bottle"
+                <Button Text="Use Reusable Water Bottle"
                     Clicked="NavigateToReusableWater"/>
-            <Button Text="Install Water Saving Showerhead"
+                <Button Text="Install Water Saving Showerhead"
                     Clicked="NavigateToWSShowerhead"/>
-            <Button Text="Install a cistern-displacement device in your toilet tank"
+                <Button Text="Install a cistern-displacement device in your toilet tank"
                     Clicked="NavigateToCisternDisplacement"/>
-            <Button Text="Collect Water in a Shower Bucket"
+                <Button Text="Collect Water in a Shower Bucket"
                     Clicked="NavigateToShowerBucket"/>
-            <Button Text="Collect Water in a Rain Barrel"
+                <Button Text="Collect Water in a Rain Barrel"
                     Clicked="NavigateToRainBarrel"/>
-            <Button Text="Save Toilet Flushes"
+                <Button Text="Save Toilet Flushes"
                     Clicked="NavigateToToiletFlushes"/>
-        </StackLayout>
+            </StackLayout>
+        </ScrollView>
     </ContentPage.Content>
 </ContentPage>

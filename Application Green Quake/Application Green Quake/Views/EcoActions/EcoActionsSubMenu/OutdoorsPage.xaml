@@ -4,29 +4,31 @@
              x:Class="Application_Green_Quake.Views.EcoActions.EcoActionsSubMenu.OutdoorsPage"
              Title="Outdoors Subcategories">
     <ContentPage.Content>
-        <StackLayout>
-            <Button Text="Plant a Tree"
+        <ScrollView>
+            <StackLayout>
+                <Button Text="Plant a Tree"
                     Clicked="NavigateToPlantATree"/>
-            <Button Text="Plant a Flower"
+                <Button Text="Plant a Flower"
                     Clicked="NavigateToPlantAFlower"/>
-            <Button Text="Plant a Bush"
+                <Button Text="Plant a Bush"
                     Clicked="NavigateToPlantABush"/>
-            <Button Text="Have a Picnic with Reusable Plates and Cutlery"
+                <Button Text="Have a Picnic with Reusable Plates and Cutlery"
                     Clicked="NavigateToPicnic"/>
-            <Button Text="Go Camping"
+                <Button Text="Go Camping"
                     Clicked="NavigateToGoCamping"/>
-            <Button Text="Scoop the Poop"
+                <Button Text="Scoop the Poop"
                     Clicked="NavigateToScoop"/>
-            <Button Text="Create a Herb Garden"
+                <Button Text="Create a Herb Garden"
                     Clicked="NavigateToSetUpHerbGarden"/>
-            <Button Text="Create a Vegetable Garden"
+                <Button Text="Create a Vegetable Garden"
                     Clicked="NavigateToSetUpVegetableGarden"/>
-            <Button Text="Create a Fruit Garden"
+                <Button Text="Create a Fruit Garden"
                     Clicked="NavigateToSetUpFruitGarden"/>
-            <Button Text="Set Up a RainWater Colector"
+                <Button Text="Set Up a RainWater Colector"
                     Clicked="NavigateToSetUpRainWaterColector"/>
-            <Button Text="Set Up a Birdfeeder"
+                <Button Text="Set Up a Birdfeeder"
                     Clicked="NavigateToSetUpBirdfeeder"/>
-        </StackLayout>
+            </StackLayout>
+        </ScrollView>
     </ContentPage.Content>
 </ContentPage>

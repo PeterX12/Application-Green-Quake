@@ -1125,12 +1125,12 @@ namespace Application_Green_Quake.ViewModels
                 .Child(auth.GetUid())
                 .OnceSingleAsync<OutdoorsPoints>()).herbGardenCount;
 
-                herbGardenCount2++;
-
                 vegetableGardenCount2 = (await firebaseClient
                 .Child("OutdoorsPoints")
                 .Child(auth.GetUid())
                 .OnceSingleAsync<OutdoorsPoints>()).vegetableGardenCount;
+
+                vegetableGardenCount2++;
 
                 birdFeederCount2 = (await firebaseClient
                 .Child("OutdoorsPoints")
@@ -1254,8 +1254,6 @@ namespace Application_Green_Quake.ViewModels
                 .Child(auth.GetUid())
                 .OnceSingleAsync<OutdoorsPoints>()).herbGardenCount;
 
-                herbGardenCount2++;
-
                 vegetableGardenCount2 = (await firebaseClient
                 .Child("OutdoorsPoints")
                 .Child(auth.GetUid())
@@ -1265,6 +1263,8 @@ namespace Application_Green_Quake.ViewModels
                 .Child("OutdoorsPoints")
                 .Child(auth.GetUid())
                 .OnceSingleAsync<OutdoorsPoints>()).birdFeederCount;
+
+                birdFeederCount2++;
 
                 await firebaseClient
                 .Child("OutdoorsPoints")

@@ -451,8 +451,6 @@ namespace Application_Green_Quake.ViewModels
                 .Child(auth.GetUid())
                 .OnceSingleAsync<WastePoints>()).compostCount;
 
-                compostCount2++;
-
                 setUpRecyclingBinCount2 = (await firebaseClient
                 .Child("WastePoints")
                 .Child(auth.GetUid())
@@ -467,6 +465,8 @@ namespace Application_Green_Quake.ViewModels
                 .Child("WastePoints")
                 .Child(auth.GetUid())
                 .OnceSingleAsync<WastePoints>()).recyclingBinCount;
+
+                recyclingBinCount2++;
 
                 await firebaseClient
                 .Child("WastePoints")

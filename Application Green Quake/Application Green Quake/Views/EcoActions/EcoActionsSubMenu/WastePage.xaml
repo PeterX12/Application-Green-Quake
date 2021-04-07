@@ -4,19 +4,19 @@
              x:Class="Application_Green_Quake.Views.EcoActions.EcoActionsSubMenu.WastePage"
              Title="Waste Subcategories">
     <ContentPage.Content>
-        <StackLayout>
-            <Button Text="Use Recycling Bin"
+        <ScrollView>
+            <StackLayout>
+                <Button Text="Use Recycling Bin"
                     Clicked="NavigateToUseRecyclingBin"/>
-            <Button Text="Set Up Recycling Bin"
+                <Button Text="Set Up Recycling Bin"
                     Clicked="NavigateToSetUpRecyclingBin"/>
-            <Button Text="Set Up Compost Bin"
-                    Clicked="NavigateToSetUpCompostBin"/>
-            <Button Text="Compost Organic Waste"
+                <Button Text="Compost Organic Waste"
                     Clicked="NavigateToCompostWaste"/>
-            <Button Text="Use Biogradable Bin Bags"
+                <Button Text="Use Biogradable Bin Bags"
                     Clicked="NavigateToUseBiogradableBinBags"/>
-            <Button Text="Pay Bills Online"
+                <Button Text="Pay Bills Online"
                     Clicked="NavigateToPayBillsOnline"/>
-        </StackLayout>
+            </StackLayout>
+        </ScrollView>
     </ContentPage.Content>
 </ContentPage>

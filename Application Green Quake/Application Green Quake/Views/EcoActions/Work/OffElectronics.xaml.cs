@@ -19,6 +19,8 @@ namespace Application_Green_Quake.Views.EcoActions.Work
         {
             PointsUpdate helper = new PointsUpdate();
             helper.UpdateBySixPoints();
+            WorkPointsUpdate helper2 = new WorkPointsUpdate();
+            helper2.ElectonicsOffPoints();
             await DisplayAlert("Alert", AppConstants.sixPointsMsg, "OK");
         }
     }

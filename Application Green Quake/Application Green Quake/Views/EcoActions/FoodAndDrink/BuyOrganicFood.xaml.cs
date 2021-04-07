@@ -23,8 +23,10 @@ namespace Application_Green_Quake.Views.EcoActions.FoodAndDrink
         {
             PointsUpdate helper = new PointsUpdate();
             helper.UpdateByEightPoints();
-            FoodAndDrinkPointsUpdate helper2 = new FoodAndDrinkPointsUpdate();
+            ShoppingPointsUpdate helper2 = new ShoppingPointsUpdate();
             helper2.OrganicPoints();
+            FoodAndDrinkPointsUpdate helper3 = new FoodAndDrinkPointsUpdate();
+            helper3.OrganicPoints();
             await DisplayAlert("Alert", AppConstants.eightPointsMsg, "OK");
         }
     }

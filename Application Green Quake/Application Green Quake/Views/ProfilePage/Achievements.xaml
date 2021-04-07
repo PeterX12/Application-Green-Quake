@@ -5,27 +5,44 @@
              xmlns:local="clr-namespace:Application_Green_Quake.Models">
     <ContentPage.Content>
         <ScrollView>
-            <Grid BackgroundColor="#002a1e" HorizontalOptions="Fill" VerticalOptions="Fill" Padding="0,0,0,0">
-                <Grid.RowDefinitions>
-                    <RowDefinition Height="Auto"/>
-                    <RowDefinition Height="Auto"/>
-                    <RowDefinition Height="Auto"/>
-                    <RowDefinition Height="Auto"/>
-
-                </Grid.RowDefinitions>
+            <Grid BackgroundColor="#002a1e" Padding="0,0,0,0">
                 <Grid.ColumnDefinitions>
                     <ColumnDefinition Width="*"/>
                     <ColumnDefinition Width="*"/>
                     <ColumnDefinition Width="*"/>
                     <ColumnDefinition Width="*"/>
                 </Grid.ColumnDefinitions>
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="Auto"/>
+                    <RowDefinition Height="Auto"/>
+                    <RowDefinition Height="Auto"/>
+                    <RowDefinition Height="Auto"/>
+                    <RowDefinition Height="Auto"/>
+                    <RowDefinition Height="Auto"/>
+                    <RowDefinition Height="Auto"/>
+                    <RowDefinition Height="Auto"/>
+                    <RowDefinition Height="Auto"/>
+                    <RowDefinition Height="Auto"/>
+                    <RowDefinition Height="Auto"/>
+                    <RowDefinition Height="Auto"/>
+                    <RowDefinition Height="Auto"/>
+                    <RowDefinition Height="Auto"/>
+                    <RowDefinition Height="Auto"/>
+                    <RowDefinition Height="Auto"/>
+                    <RowDefinition Height="Auto"/>
+                    <RowDefinition Height="Auto"/>
+                    <RowDefinition Height="Auto"/>
+                    <RowDefinition Height="Auto"/>
+                    <RowDefinition Height="Auto"/>
+                </Grid.RowDefinitions>
 
 
 
-                <StackLayout Grid.Column="0" Grid.Row="0">
-                    <Frame CornerRadius="20" HorizontalOptions="Start" VerticalOptions="Start" Margin="0" Padding="0" BackgroundColor="White">
+
+                <StackLayout Grid.Column="0" Grid.Row="0" BackgroundColor="Orange">
+                    <Frame CornerRadius="20" HorizontalOptions="Start" VerticalOptions="Start" Margin="0" Padding="0" BackgroundColor="Maroon" >
                         <Image
-                        x:Name="a1" Source="{local:ImageResource Application_Green_Quake.Images.lockTwo.png}" HorizontalOptions="CenterAndExpand">
+                        x:Name="a1" Source="{local:ImageResource Application_Green_Quake.Images.lockTwo.png}" Aspect="AspectFill">
                             <Image.GestureRecognizers>
                                 <TapGestureRecognizer Tapped="NavigateToBadgePopUp"/>
                             </Image.GestureRecognizers>
@@ -34,145 +51,985 @@
 
                     <Label x:Name="a1Txt" Text="Locked " TextColor="White" HorizontalTextAlignment="Center"/>
                 </StackLayout>
-
-
                 <StackLayout Grid.Column="1" Grid.Row="0">
-                    <Image
-                    x:Name="a2" Source="{local:ImageResource Application_Green_Quake.Images.lockTwo.png}" HorizontalOptions="CenterAndExpand">
-                        <Image.GestureRecognizers>
-                            <TapGestureRecognizer Tapped="NavigateToBadgePopUp"/>
-                        </Image.GestureRecognizers>
-                    </Image>
-                    <Label x:Name="a2Txt" Text="Locked" TextColor="White" HorizontalTextAlignment="Center"/>
+                    <Frame CornerRadius="20" HorizontalOptions="Start" VerticalOptions="Start" Margin="0" Padding="0" BackgroundColor="Maroon" >
+                        <Image
+                        x:Name="a2" Source="{local:ImageResource Application_Green_Quake.Images.lockTwo.png}" HorizontalOptions="CenterAndExpand">
+                            <Image.GestureRecognizers>
+                                <TapGestureRecognizer Tapped="NavigateToBadgePopUp"/>
+                            </Image.GestureRecognizers>
+                        </Image>
+                    </Frame>
+
+                    <Label x:Name="a2Txt" Text="Locked " TextColor="White" HorizontalTextAlignment="Center"/>
                 </StackLayout>
                 <StackLayout Grid.Column="2" Grid.Row="0">
-                    <Image
-                    x:Name="a3" Source="{local:ImageResource Application_Green_Quake.Images.lockTwo.png}" HorizontalOptions="CenterAndExpand">
-                        <Image.GestureRecognizers>
-                            <TapGestureRecognizer Tapped="NavigateToBadgePopUp"/>
-                        </Image.GestureRecognizers>
-                    </Image>
-                    <Label x:Name="a3Txt" Text="Locked" TextColor="White" HorizontalTextAlignment="Center" />
+                    <Frame CornerRadius="20" HorizontalOptions="Start" VerticalOptions="Start" Margin="0" Padding="0" BackgroundColor="Maroon">
+                        <Image
+                        x:Name="a3" Source="{local:ImageResource Application_Green_Quake.Images.lockTwo.png}" HorizontalOptions="CenterAndExpand">
+                            <Image.GestureRecognizers>
+                                <TapGestureRecognizer Tapped="NavigateToBadgePopUp"/>
+                            </Image.GestureRecognizers>
+                        </Image>
+                    </Frame>
+
+                    <Label x:Name="a3Txt" Text="Locked " TextColor="White" HorizontalTextAlignment="Center"/>
                 </StackLayout>
                 <StackLayout Grid.Column="3" Grid.Row="0">
-                    <Image
-                    x:Name="a4" Source="{local:ImageResource Application_Green_Quake.Images.lockTwo.png}" HorizontalOptions="CenterAndExpand">
-                        <Image.GestureRecognizers>
-                            <TapGestureRecognizer Tapped="NavigateToBadgePopUp"/>
-                        </Image.GestureRecognizers>
-                    </Image>
-                    <Label x:Name="a4Txt" Text="Locked" TextColor="White" HorizontalTextAlignment="Center" />
+                    <Frame CornerRadius="20" HorizontalOptions="Start" VerticalOptions="Start" Margin="0" Padding="0" BackgroundColor="Maroon">
+                        <Image
+                        x:Name="a4" Source="{local:ImageResource Application_Green_Quake.Images.lockTwo.png}" HorizontalOptions="CenterAndExpand">
+                            <Image.GestureRecognizers>
+                                <TapGestureRecognizer Tapped="NavigateToBadgePopUp"/>
+                            </Image.GestureRecognizers>
+                        </Image>
+                    </Frame>
+
+                    <Label x:Name="a4Txt" Text="Locked " TextColor="White" HorizontalTextAlignment="Center"/>
                 </StackLayout>
 
                 <StackLayout Grid.Column="0" Grid.Row="1">
-                    <Image
-                    x:Name="a5" Source="{local:ImageResource Application_Green_Quake.Images.lockTwo.png}" HorizontalOptions="CenterAndExpand">
-                        <Image.GestureRecognizers>
-                            <TapGestureRecognizer Tapped="NavigateToBadgePopUp"/>
-                        </Image.GestureRecognizers>
-                    </Image>
+                    <Frame CornerRadius="20" HorizontalOptions="Start" VerticalOptions="Start" Margin="0" Padding="0" BackgroundColor="Maroon">
+                        <Image
+                        x:Name="a5" Source="{local:ImageResource Application_Green_Quake.Images.lockTwo.png}" HorizontalOptions="CenterAndExpand">
+                            <Image.GestureRecognizers>
+                                <TapGestureRecognizer Tapped="NavigateToBadgePopUp"/>
+                            </Image.GestureRecognizers>
+                        </Image>
+                    </Frame>
+
                     <Label x:Name="a5Txt" Text="Locked " TextColor="White" HorizontalTextAlignment="Center"/>
                 </StackLayout>
                 <StackLayout Grid.Column="1" Grid.Row="1">
-                    <Image
-                    x:Name="a6" Source="{local:ImageResource Application_Green_Quake.Images.lockTwo.png}" HorizontalOptions="CenterAndExpand">
-                        <Image.GestureRecognizers>
-                            <TapGestureRecognizer Tapped="NavigateToBadgePopUp"/>
-                        </Image.GestureRecognizers>
-                    </Image>
-                    <Label x:Name="a6Txt" Text="Locked" TextColor="White" HorizontalTextAlignment="Center"/>
+                    <Frame CornerRadius="20" HorizontalOptions="Start" VerticalOptions="Start" Margin="0" Padding="0" BackgroundColor="Maroon">
+                        <Image
+                        x:Name="a6" Source="{local:ImageResource Application_Green_Quake.Images.lockTwo.png}" HorizontalOptions="CenterAndExpand">
+                            <Image.GestureRecognizers>
+                                <TapGestureRecognizer Tapped="NavigateToBadgePopUp"/>
+                            </Image.GestureRecognizers>
+                        </Image>
+                    </Frame>
+
+                    <Label x:Name="a6Txt" Text="Locked " TextColor="White" HorizontalTextAlignment="Center"/>
                 </StackLayout>
                 <StackLayout Grid.Column="2" Grid.Row="1">
-                    <Image
-                    x:Name="a7" Source="{local:ImageResource Application_Green_Quake.Images.lockTwo.png}" HorizontalOptions="CenterAndExpand">
-                        <Image.GestureRecognizers>
-                            <TapGestureRecognizer Tapped="NavigateToBadgePopUp"/>
-                        </Image.GestureRecognizers>
-                    </Image>
-                    <Label x:Name="a7Txt" Text="Locked" TextColor="White" HorizontalTextAlignment="Center" />
+                    <Frame CornerRadius="20" HorizontalOptions="Start" VerticalOptions="Start" Margin="0" Padding="0" BackgroundColor="Maroon">
+                        <Image
+                        x:Name="a7" Source="{local:ImageResource Application_Green_Quake.Images.lockTwo.png}" HorizontalOptions="CenterAndExpand">
+                            <Image.GestureRecognizers>
+                                <TapGestureRecognizer Tapped="NavigateToBadgePopUp"/>
+                            </Image.GestureRecognizers>
+                        </Image>
+                    </Frame>
+
+                    <Label x:Name="a7Txt" Text="Locked " TextColor="White" HorizontalTextAlignment="Center"/>
                 </StackLayout>
                 <StackLayout Grid.Column="3" Grid.Row="1">
-                    <Image
-                    x:Name="a8" Source="{local:ImageResource Application_Green_Quake.Images.lockTwo.png}" HorizontalOptions="CenterAndExpand">
-                        <Image.GestureRecognizers>
-                            <TapGestureRecognizer Tapped="NavigateToBadgePopUp"/>
-                        </Image.GestureRecognizers>
-                    </Image>
-                    <Label x:Name="a8Txt" Text="Locked" TextColor="White" HorizontalTextAlignment="Center" />
+                    <Frame CornerRadius="20" HorizontalOptions="Start" VerticalOptions="Start" Margin="0" Padding="0" BackgroundColor="Maroon">
+                        <Image
+                        x:Name="a8" Source="{local:ImageResource Application_Green_Quake.Images.lockTwo.png}" HorizontalOptions="CenterAndExpand">
+                            <Image.GestureRecognizers>
+                                <TapGestureRecognizer Tapped="NavigateToBadgePopUp"/>
+                            </Image.GestureRecognizers>
+                        </Image>
+                    </Frame>
+
+                    <Label x:Name="a8Txt" Text="Locked " TextColor="White" HorizontalTextAlignment="Center"/>
                 </StackLayout>
 
                 <StackLayout Grid.Column="0" Grid.Row="2">
-                    <Image
-                    x:Name="a9" Source="{local:ImageResource Application_Green_Quake.Images.lockTwo.png}" HorizontalOptions="CenterAndExpand">
-                        <Image.GestureRecognizers>
-                            <TapGestureRecognizer Tapped="NavigateToBadgePopUp"/>
-                        </Image.GestureRecognizers>
-                    </Image>
+                    <Frame CornerRadius="20" HorizontalOptions="Start" VerticalOptions="Start" Margin="0" Padding="0" BackgroundColor="Maroon">
+                        <Image
+                        x:Name="a9" Source="{local:ImageResource Application_Green_Quake.Images.lockTwo.png}" HorizontalOptions="CenterAndExpand">
+                            <Image.GestureRecognizers>
+                                <TapGestureRecognizer Tapped="NavigateToBadgePopUp"/>
+                            </Image.GestureRecognizers>
+                        </Image>
+                    </Frame>
+
                     <Label x:Name="a9Txt" Text="Locked " TextColor="White" HorizontalTextAlignment="Center"/>
                 </StackLayout>
                 <StackLayout Grid.Column="1" Grid.Row="2">
-                    <Image
-                    x:Name="a10" Source="{local:ImageResource Application_Green_Quake.Images.lockTwo.png}" HorizontalOptions="CenterAndExpand">
-                        <Image.GestureRecognizers>
-                            <TapGestureRecognizer Tapped="NavigateToBadgePopUp"/>
-                        </Image.GestureRecognizers>
-                    </Image>
-                    <Label x:Name="a10Txt" Text="Locked" TextColor="White" HorizontalTextAlignment="Center"/>
+                    <Frame CornerRadius="20" HorizontalOptions="Start" VerticalOptions="Start" Margin="0" Padding="0" BackgroundColor="Maroon">
+                        <Image
+                        x:Name="a10" Source="{local:ImageResource Application_Green_Quake.Images.lockTwo.png}" HorizontalOptions="CenterAndExpand">
+                            <Image.GestureRecognizers>
+                                <TapGestureRecognizer Tapped="NavigateToBadgePopUp"/>
+                            </Image.GestureRecognizers>
+                        </Image>
+                    </Frame>
+
+                    <Label x:Name="a10Txt" Text="Locked " TextColor="White" HorizontalTextAlignment="Center"/>
                 </StackLayout>
                 <StackLayout Grid.Column="2" Grid.Row="2">
-                    <Image
-                    x:Name="a11" Source="{local:ImageResource Application_Green_Quake.Images.lockTwo.png}" HorizontalOptions="CenterAndExpand">
-                        <Image.GestureRecognizers>
-                            <TapGestureRecognizer Tapped="NavigateToBadgePopUp"/>
-                        </Image.GestureRecognizers>
-                    </Image>
-                    <Label x:Name="a11Txt" Text="Locked" TextColor="White" HorizontalTextAlignment="Center" />
+                    <Frame CornerRadius="20" HorizontalOptions="Start" VerticalOptions="Start" Margin="0" Padding="0" BackgroundColor="Maroon">
+                        <Image
+                        x:Name="a11" Source="{local:ImageResource Application_Green_Quake.Images.lockTwo.png}" HorizontalOptions="CenterAndExpand">
+                            <Image.GestureRecognizers>
+                                <TapGestureRecognizer Tapped="NavigateToBadgePopUp"/>
+                            </Image.GestureRecognizers>
+                        </Image>
+                    </Frame>
+
+                    <Label x:Name="a11Txt" Text="Locked " TextColor="White" HorizontalTextAlignment="Center"/>
                 </StackLayout>
                 <StackLayout Grid.Column="3" Grid.Row="2">
-                    <Image
-                    x:Name="a12" Source="{local:ImageResource Application_Green_Quake.Images.lockTwo.png}" HorizontalOptions="CenterAndExpand">
-                        <Image.GestureRecognizers>
-                            <TapGestureRecognizer Tapped="NavigateToBadgePopUp"/>
-                        </Image.GestureRecognizers>
-                    </Image>
-                    <Label x:Name="a12Txt" Text="Locked" TextColor="White" HorizontalTextAlignment="Center" />
+                    <Frame CornerRadius="20" HorizontalOptions="Start" VerticalOptions="Start" Margin="0" Padding="0" BackgroundColor="Maroon">
+                        <Image
+                        x:Name="a12" Source="{local:ImageResource Application_Green_Quake.Images.lockTwo.png}" HorizontalOptions="CenterAndExpand">
+                            <Image.GestureRecognizers>
+                                <TapGestureRecognizer Tapped="NavigateToBadgePopUp"/>
+                            </Image.GestureRecognizers>
+                        </Image>
+                    </Frame>
+
+                    <Label x:Name="a12Txt" Text="Locked " TextColor="White" HorizontalTextAlignment="Center"/>
                 </StackLayout>
 
                 <StackLayout Grid.Column="0" Grid.Row="3">
-                    <Image
-                    x:Name="a13" Source="{local:ImageResource Application_Green_Quake.Images.lockTwo.png}" HorizontalOptions="CenterAndExpand">
-                        <Image.GestureRecognizers>
-                            <TapGestureRecognizer Tapped="NavigateToBadgePopUp"/>
-                        </Image.GestureRecognizers>
-                    </Image>
+                    <Frame CornerRadius="20" HorizontalOptions="Start" VerticalOptions="Start" Margin="0" Padding="0" BackgroundColor="Maroon">
+                        <Image
+                        x:Name="a13" Source="{local:ImageResource Application_Green_Quake.Images.lockTwo.png}" HorizontalOptions="CenterAndExpand">
+                            <Image.GestureRecognizers>
+                                <TapGestureRecognizer Tapped="NavigateToBadgePopUp"/>
+                            </Image.GestureRecognizers>
+                        </Image>
+                    </Frame>
+
                     <Label x:Name="a13Txt" Text="Locked " TextColor="White" HorizontalTextAlignment="Center"/>
                 </StackLayout>
                 <StackLayout Grid.Column="1" Grid.Row="3">
-                    <Image
-                    x:Name="a14" Source="{local:ImageResource Application_Green_Quake.Images.lockTwo.png}" HorizontalOptions="CenterAndExpand">
-                        <Image.GestureRecognizers>
-                            <TapGestureRecognizer Tapped="NavigateToBadgePopUp"/>
-                        </Image.GestureRecognizers>
-                    </Image>
-                    <Label x:Name="a14Txt" Text="Locked" TextColor="White" HorizontalTextAlignment="Center"/>
+                    <Frame CornerRadius="20" HorizontalOptions="Start" VerticalOptions="Start" Margin="0" Padding="0" BackgroundColor="Maroon" >
+                        <Image
+                        x:Name="a14" Source="{local:ImageResource Application_Green_Quake.Images.lockTwo.png}" HorizontalOptions="CenterAndExpand">
+                            <Image.GestureRecognizers>
+                                <TapGestureRecognizer Tapped="NavigateToBadgePopUp"/>
+                            </Image.GestureRecognizers>
+                        </Image>
+                    </Frame>
+
+                    <Label x:Name="a14Txt" Text="Locked " TextColor="White" HorizontalTextAlignment="Center"/>
                 </StackLayout>
                 <StackLayout Grid.Column="2" Grid.Row="3">
-                    <Image
-                    x:Name="a15" Source="{local:ImageResource Application_Green_Quake.Images.lockTwo.png}" HorizontalOptions="CenterAndExpand">
-                        <Image.GestureRecognizers>
-                            <TapGestureRecognizer Tapped="NavigateToBadgePopUp"/>
-                        </Image.GestureRecognizers>
-                    </Image>
-                    <Label x:Name="a15Txt" Text="Locked" TextColor="White" HorizontalTextAlignment="Center" />
+                    <Frame CornerRadius="20" HorizontalOptions="Start" VerticalOptions="Start" Margin="0" Padding="0" BackgroundColor="Maroon">
+                        <Image
+                        x:Name="a15" Source="{local:ImageResource Application_Green_Quake.Images.lockTwo.png}" HorizontalOptions="CenterAndExpand">
+                            <Image.GestureRecognizers>
+                                <TapGestureRecognizer Tapped="NavigateToBadgePopUp"/>
+                            </Image.GestureRecognizers>
+                        </Image>
+                    </Frame>
+
+                    <Label x:Name="a15Txt" Text="Locked " TextColor="White" HorizontalTextAlignment="Center"/>
                 </StackLayout>
                 <StackLayout Grid.Column="3" Grid.Row="3">
-                    <Image
-                    x:Name="a16" Source="{local:ImageResource Application_Green_Quake.Images.lockTwo.png}" HorizontalOptions="CenterAndExpand">
-                        <Image.GestureRecognizers>
-                            <TapGestureRecognizer Tapped="NavigateToBadgePopUp"/>
-                        </Image.GestureRecognizers>
-                    </Image>
-                    <Label x:Name="a16Txt" Text="Locked" TextColor="White" HorizontalTextAlignment="Center" />
+                    <Frame CornerRadius="20" HorizontalOptions="Start" VerticalOptions="Start" Margin="0" Padding="0" BackgroundColor="Maroon">
+                        <Image
+                        x:Name="a16" Source="{local:ImageResource Application_Green_Quake.Images.lockTwo.png}" HorizontalOptions="CenterAndExpand">
+                            <Image.GestureRecognizers>
+                                <TapGestureRecognizer Tapped="NavigateToBadgePopUp"/>
+                            </Image.GestureRecognizers>
+                        </Image>
+                    </Frame>
+
+                    <Label x:Name="a16Txt" Text="Locked " TextColor="White" HorizontalTextAlignment="Center"/>
+                </StackLayout>
+
+                <StackLayout Grid.Column="0" Grid.Row="4">
+                    <Frame CornerRadius="20" HorizontalOptions="Start" VerticalOptions="Start" Margin="0" Padding="0" BackgroundColor="Maroon">
+                        <Image
+                        x:Name="a17" Source="{local:ImageResource Application_Green_Quake.Images.lockTwo.png}" HorizontalOptions="CenterAndExpand">
+                            <Image.GestureRecognizers>
+                                <TapGestureRecognizer Tapped="NavigateToBadgePopUp"/>
+                            </Image.GestureRecognizers>
+                        </Image>
+                    </Frame>
+
+                    <Label x:Name="a17Txt" Text="Locked " TextColor="White" HorizontalTextAlignment="Center"/>
+                </StackLayout>
+                <StackLayout Grid.Column="1" Grid.Row="4">
+                    <Frame CornerRadius="20" HorizontalOptions="Start" VerticalOptions="Start" Margin="0" Padding="0" BackgroundColor="Maroon">
+                        <Image
+                        x:Name="a18" Source="{local:ImageResource Application_Green_Quake.Images.lockTwo.png}" HorizontalOptions="CenterAndExpand">
+                            <Image.GestureRecognizers>
+                                <TapGestureRecognizer Tapped="NavigateToBadgePopUp"/>
+                            </Image.GestureRecognizers>
+                        </Image>
+                    </Frame>
+
+                    <Label x:Name="a18Txt" Text="Locked " TextColor="White" HorizontalTextAlignment="Center"/>
+                </StackLayout>
+                <StackLayout Grid.Column="2" Grid.Row="4">
+                    <Frame CornerRadius="20" HorizontalOptions="Start" VerticalOptions="Start" Margin="0" Padding="0" BackgroundColor="Maroon">
+                        <Image
+                        x:Name="a19" Source="{local:ImageResource Application_Green_Quake.Images.lockTwo.png}" HorizontalOptions="CenterAndExpand">
+                            <Image.GestureRecognizers>
+                                <TapGestureRecognizer Tapped="NavigateToBadgePopUp"/>
+                            </Image.GestureRecognizers>
+                        </Image>
+                    </Frame>
+
+                    <Label x:Name="a19Txt" Text="Locked " TextColor="White" HorizontalTextAlignment="Center"/>
+                </StackLayout>
+                <StackLayout Grid.Column="3" Grid.Row="4">
+                    <Frame CornerRadius="20" HorizontalOptions="Start" VerticalOptions="Start" Margin="0" Padding="0" BackgroundColor="Maroon">
+                        <Image
+                        x:Name="a20" Source="{local:ImageResource Application_Green_Quake.Images.lockTwo.png}" HorizontalOptions="CenterAndExpand">
+                            <Image.GestureRecognizers>
+                                <TapGestureRecognizer Tapped="NavigateToBadgePopUp"/>
+                            </Image.GestureRecognizers>
+                        </Image>
+                    </Frame>
+
+                    <Label x:Name="a20Txt" Text="Locked " TextColor="White" HorizontalTextAlignment="Center"/>
+                </StackLayout>
+
+                <StackLayout Grid.Column="0" Grid.Row="5">
+                    <Frame CornerRadius="20" HorizontalOptions="Start" VerticalOptions="Start" Margin="0" Padding="0" BackgroundColor="Maroon">
+                        <Image 
+                        x:Name="a21" Source="{local:ImageResource Application_Green_Quake.Images.lockTwo.png}" HorizontalOptions="CenterAndExpand">
+                            <Image.GestureRecognizers>
+                                <TapGestureRecognizer Tapped="NavigateToBadgePopUp"/>
+                            </Image.GestureRecognizers>
+                        </Image>
+                    </Frame>
+
+                    <Label x:Name="a21Txt" Text="Locked " TextColor="White" HorizontalTextAlignment="Center"/>
+                </StackLayout>
+                <StackLayout Grid.Column="1" Grid.Row="5">
+                    <Frame CornerRadius="20" HorizontalOptions="Start" VerticalOptions="Start" Margin="0" Padding="0" BackgroundColor="Maroon">
+                        <Image
+                        x:Name="a22" Source="{local:ImageResource Application_Green_Quake.Images.lockTwo.png}" HorizontalOptions="CenterAndExpand">
+                            <Image.GestureRecognizers>
+                                <TapGestureRecognizer Tapped="NavigateToBadgePopUp"/>
+                            </Image.GestureRecognizers>
+                        </Image>
+                    </Frame>
+
+                    <Label x:Name="a22Txt" Text="Locked " TextColor="White" HorizontalTextAlignment="Center"/>
+                </StackLayout>
+                <StackLayout Grid.Column="2" Grid.Row="5">
+                    <Frame CornerRadius="20" HorizontalOptions="Start" VerticalOptions="Start" Margin="0" Padding="0" BackgroundColor="Maroon">
+                        <Image
+                        x:Name="a23" Source="{local:ImageResource Application_Green_Quake.Images.lockTwo.png}" HorizontalOptions="CenterAndExpand">
+                            <Image.GestureRecognizers>
+                                <TapGestureRecognizer Tapped="NavigateToBadgePopUp"/>
+                            </Image.GestureRecognizers>
+                        </Image>
+                    </Frame>
+
+                    <Label x:Name="a23Txt" Text="Locked " TextColor="White" HorizontalTextAlignment="Center"/>
+                </StackLayout>
+                <StackLayout Grid.Column="3" Grid.Row="5">
+                    <Frame CornerRadius="20" HorizontalOptions="Start" VerticalOptions="Start" Margin="0" Padding="0" BackgroundColor="Maroon">
+                        <Image
+                        x:Name="a24" Source="{local:ImageResource Application_Green_Quake.Images.lockTwo.png}" HorizontalOptions="CenterAndExpand">
+                            <Image.GestureRecognizers>
+                                <TapGestureRecognizer Tapped="NavigateToBadgePopUp"/>
+                            </Image.GestureRecognizers>
+                        </Image>
+                    </Frame>
+
+                    <Label x:Name="a24Txt" Text="Locked " TextColor="White" HorizontalTextAlignment="Center"/>
+                </StackLayout>
+
+                <StackLayout Grid.Column="0" Grid.Row="6">
+                    <Frame CornerRadius="20" HorizontalOptions="Start" VerticalOptions="Start" Margin="0" Padding="0" BackgroundColor="Maroon">
+                        <Image
+                        x:Name="a25" Source="{local:ImageResource Application_Green_Quake.Images.lockTwo.png}" HorizontalOptions="CenterAndExpand">
+                            <Image.GestureRecognizers>
+                                <TapGestureRecognizer Tapped="NavigateToBadgePopUp"/>
+                            </Image.GestureRecognizers>
+                        </Image>
+                    </Frame>
+
+                    <Label x:Name="a25Txt" Text="Locked " TextColor="White" HorizontalTextAlignment="Center"/>
+                </StackLayout>
+                <StackLayout Grid.Column="1" Grid.Row="6">
+                    <Frame CornerRadius="20" HorizontalOptions="Start" VerticalOptions="Start" Margin="0" Padding="0" BackgroundColor="Maroon">
+                        <Image
+                        x:Name="a26" Source="{local:ImageResource Application_Green_Quake.Images.lockTwo.png}" HorizontalOptions="CenterAndExpand">
+                            <Image.GestureRecognizers>
+                                <TapGestureRecognizer Tapped="NavigateToBadgePopUp"/>
+                            </Image.GestureRecognizers>
+                        </Image>
+                    </Frame>
+
+                    <Label x:Name="a26Txt" Text="Locked " TextColor="White" HorizontalTextAlignment="Center"/>
+                </StackLayout>
+                <StackLayout Grid.Column="2" Grid.Row="6">
+                    <Frame CornerRadius="20" HorizontalOptions="Start" VerticalOptions="Start" Margin="0" Padding="0" BackgroundColor="Maroon">
+                        <Image
+                        x:Name="a27" Source="{local:ImageResource Application_Green_Quake.Images.lockTwo.png}" HorizontalOptions="CenterAndExpand">
+                            <Image.GestureRecognizers>
+                                <TapGestureRecognizer Tapped="NavigateToBadgePopUp"/>
+                            </Image.GestureRecognizers>
+                        </Image>
+                    </Frame>
+
+                    <Label x:Name="a27Txt" Text="Locked " TextColor="White" HorizontalTextAlignment="Center"/>
+                </StackLayout>
+                <StackLayout Grid.Column="3" Grid.Row="6">
+                    <Frame CornerRadius="20" HorizontalOptions="Start" VerticalOptions="Start" Margin="0" Padding="0" BackgroundColor="Maroon">
+                        <Image
+                        x:Name="a28" Source="{local:ImageResource Application_Green_Quake.Images.lockTwo.png}" HorizontalOptions="CenterAndExpand">
+                            <Image.GestureRecognizers>
+                                <TapGestureRecognizer Tapped="NavigateToBadgePopUp"/>
+                            </Image.GestureRecognizers>
+                        </Image>
+                    </Frame>
+
+                    <Label x:Name="a28Txt" Text="Locked " TextColor="White" HorizontalTextAlignment="Center"/>
+                </StackLayout>
+
+                <StackLayout Grid.Column="0" Grid.Row="7">
+                    <Frame CornerRadius="20" HorizontalOptions="Start" VerticalOptions="Start" Margin="0" Padding="0" BackgroundColor="Maroon">
+                        <Image
+                        x:Name="a29" Source="{local:ImageResource Application_Green_Quake.Images.lockTwo.png}" HorizontalOptions="CenterAndExpand">
+                            <Image.GestureRecognizers>
+                                <TapGestureRecognizer Tapped="NavigateToBadgePopUp"/>
+                            </Image.GestureRecognizers>
+                        </Image>
+                    </Frame>
+
+                    <Label x:Name="a29Txt" Text="Locked " TextColor="White" HorizontalTextAlignment="Center"/>
+                </StackLayout>
+                <StackLayout Grid.Column="1" Grid.Row="7">
+                    <Frame CornerRadius="20" HorizontalOptions="Start" VerticalOptions="Start" Margin="0" Padding="0" BackgroundColor="Maroon">
+                        <Image
+                        x:Name="a30" Source="{local:ImageResource Application_Green_Quake.Images.lockTwo.png}" HorizontalOptions="CenterAndExpand">
+                            <Image.GestureRecognizers>
+                                <TapGestureRecognizer Tapped="NavigateToBadgePopUp"/>
+                            </Image.GestureRecognizers>
+                        </Image>
+                    </Frame>
+
+                    <Label x:Name="a30Txt" Text="Locked " TextColor="White" HorizontalTextAlignment="Center"/>
+                </StackLayout>
+                <StackLayout Grid.Column="2" Grid.Row="7">
+                    <Frame CornerRadius="20" HorizontalOptions="Start" VerticalOptions="Start" Margin="0" Padding="0" BackgroundColor="Maroon">
+                        <Image
+                        x:Name="a31" Source="{local:ImageResource Application_Green_Quake.Images.lockTwo.png}" HorizontalOptions="CenterAndExpand">
+                            <Image.GestureRecognizers>
+                                <TapGestureRecognizer Tapped="NavigateToBadgePopUp"/>
+                            </Image.GestureRecognizers>
+                        </Image>
+                    </Frame>
+
+                    <Label x:Name="a31Txt" Text="Locked " TextColor="White" HorizontalTextAlignment="Center"/>
+                </StackLayout>
+                <StackLayout Grid.Column="3" Grid.Row="7">
+                    <Frame CornerRadius="20" HorizontalOptions="Start" VerticalOptions="Start" Margin="0" Padding="0" BackgroundColor="Maroon">
+                        <Image
+                        x:Name="a32" Source="{local:ImageResource Application_Green_Quake.Images.lockTwo.png}" HorizontalOptions="CenterAndExpand">
+                            <Image.GestureRecognizers>
+                                <TapGestureRecognizer Tapped="NavigateToBadgePopUp"/>
+                            </Image.GestureRecognizers>
+                        </Image>
+                    </Frame>
+
+                    <Label x:Name="a32Txt" Text="Locked " TextColor="White" HorizontalTextAlignment="Center"/>
+                </StackLayout>
+
+                <StackLayout Grid.Column="0" Grid.Row="8">
+                    <Frame CornerRadius="20" HorizontalOptions="Start" VerticalOptions="Start" Margin="0" Padding="0" BackgroundColor="Maroon">
+                        <Image
+                        x:Name="a33" Source="{local:ImageResource Application_Green_Quake.Images.lockTwo.png}" HorizontalOptions="CenterAndExpand">
+                            <Image.GestureRecognizers>
+                                <TapGestureRecognizer Tapped="NavigateToBadgePopUp"/>
+                            </Image.GestureRecognizers>
+                        </Image>
+                    </Frame>
+
+                    <Label x:Name="a33Txt" Text="Locked " TextColor="White" HorizontalTextAlignment="Center"/>
+                </StackLayout>
+                <StackLayout Grid.Column="1" Grid.Row="8">
+                    <Frame CornerRadius="20" HorizontalOptions="Start" VerticalOptions="Start" Margin="0" Padding="0" BackgroundColor="Maroon">
+                        <Image
+                        x:Name="a34" Source="{local:ImageResource Application_Green_Quake.Images.lockTwo.png}" HorizontalOptions="CenterAndExpand">
+                            <Image.GestureRecognizers>
+                                <TapGestureRecognizer Tapped="NavigateToBadgePopUp"/>
+                            </Image.GestureRecognizers>
+                        </Image>
+                    </Frame>
+
+                    <Label x:Name="a34Txt" Text="Locked " TextColor="White" HorizontalTextAlignment="Center"/>
+                </StackLayout>
+                <StackLayout Grid.Column="2" Grid.Row="8">
+                    <Frame CornerRadius="20" HorizontalOptions="Start" VerticalOptions="Start" Margin="0" Padding="0" BackgroundColor="Maroon">
+                        <Image
+                        x:Name="a35" Source="{local:ImageResource Application_Green_Quake.Images.lockTwo.png}" HorizontalOptions="CenterAndExpand">
+                            <Image.GestureRecognizers>
+                                <TapGestureRecognizer Tapped="NavigateToBadgePopUp"/>
+                            </Image.GestureRecognizers>
+                        </Image>
+                    </Frame>
+
+                    <Label x:Name="a35Txt" Text="Locked " TextColor="White" HorizontalTextAlignment="Center"/>
+                </StackLayout>
+                <StackLayout Grid.Column="3" Grid.Row="8">
+                    <Frame CornerRadius="20" HorizontalOptions="Start" VerticalOptions="Start" Margin="0" Padding="0" BackgroundColor="Maroon">
+                        <Image
+                        x:Name="a36" Source="{local:ImageResource Application_Green_Quake.Images.lockTwo.png}" HorizontalOptions="CenterAndExpand">
+                            <Image.GestureRecognizers>
+                                <TapGestureRecognizer Tapped="NavigateToBadgePopUp"/>
+                            </Image.GestureRecognizers>
+                        </Image>
+                    </Frame>
+
+                    <Label x:Name="a36Txt" Text="Locked " TextColor="White" HorizontalTextAlignment="Center"/>
+                </StackLayout>
+
+                <StackLayout Grid.Column="0" Grid.Row="9">
+                    <Frame CornerRadius="20" HorizontalOptions="Start" VerticalOptions="Start" Margin="0" Padding="0" BackgroundColor="Maroon">
+                        <Image
+                        x:Name="a37" Source="{local:ImageResource Application_Green_Quake.Images.lockTwo.png}" HorizontalOptions="CenterAndExpand">
+                            <Image.GestureRecognizers>
+                                <TapGestureRecognizer Tapped="NavigateToBadgePopUp"/>
+                            </Image.GestureRecognizers>
+                        </Image>
+                    </Frame>
+
+                    <Label x:Name="a37Txt" Text="Locked " TextColor="White" HorizontalTextAlignment="Center"/>
+                </StackLayout>
+                <StackLayout Grid.Column="1" Grid.Row="9">
+                    <Frame CornerRadius="20" HorizontalOptions="Start" VerticalOptions="Start" Margin="0" Padding="0" BackgroundColor="Maroon">
+                        <Image
+                        x:Name="a38" Source="{local:ImageResource Application_Green_Quake.Images.lockTwo.png}" HorizontalOptions="CenterAndExpand">
+                            <Image.GestureRecognizers>
+                                <TapGestureRecognizer Tapped="NavigateToBadgePopUp"/>
+                            </Image.GestureRecognizers>
+                        </Image>
+                    </Frame>
+
+                    <Label x:Name="a38Txt" Text="Locked " TextColor="White" HorizontalTextAlignment="Center"/>
+                </StackLayout>
+                <StackLayout Grid.Column="2" Grid.Row="9">
+                    <Frame CornerRadius="20" HorizontalOptions="Start" VerticalOptions="Start" Margin="0" Padding="0" BackgroundColor="Maroon">
+                        <Image
+                        x:Name="a39" Source="{local:ImageResource Application_Green_Quake.Images.lockTwo.png}" HorizontalOptions="CenterAndExpand">
+                            <Image.GestureRecognizers>
+                                <TapGestureRecognizer Tapped="NavigateToBadgePopUp"/>
+                            </Image.GestureRecognizers>
+                        </Image>
+                    </Frame>
+
+                    <Label x:Name="a39Txt" Text="Locked " TextColor="White" HorizontalTextAlignment="Center"/>
+                </StackLayout>
+                <StackLayout Grid.Column="3" Grid.Row="9">
+                    <Frame CornerRadius="20" HorizontalOptions="Start" VerticalOptions="Start" Margin="0" Padding="0" BackgroundColor="Maroon">
+                        <Image
+                        x:Name="a40" Source="{local:ImageResource Application_Green_Quake.Images.lockTwo.png}" HorizontalOptions="CenterAndExpand">
+                            <Image.GestureRecognizers>
+                                <TapGestureRecognizer Tapped="NavigateToBadgePopUp"/>
+                            </Image.GestureRecognizers>
+                        </Image>
+                    </Frame>
+
+                    <Label x:Name="a40Txt" Text="Locked " TextColor="White" HorizontalTextAlignment="Center"/>
+                </StackLayout>
+
+                <StackLayout Grid.Column="0" Grid.Row="10">
+                    <Frame CornerRadius="20" HorizontalOptions="Start" VerticalOptions="Start" Margin="0" Padding="0" BackgroundColor="Maroon">
+                        <Image
+                        x:Name="a41" Source="{local:ImageResource Application_Green_Quake.Images.lockTwo.png}" HorizontalOptions="CenterAndExpand">
+                            <Image.GestureRecognizers>
+                                <TapGestureRecognizer Tapped="NavigateToBadgePopUp"/>
+                            </Image.GestureRecognizers>
+                        </Image>
+                    </Frame>
+
+                    <Label x:Name="a41Txt" Text="Locked " TextColor="White" HorizontalTextAlignment="Center"/>
+                </StackLayout>
+                <StackLayout Grid.Column="1" Grid.Row="10">
+                    <Frame CornerRadius="20" HorizontalOptions="Start" VerticalOptions="Start" Margin="0" Padding="0" BackgroundColor="Maroon">
+                        <Image
+                        x:Name="a42" Source="{local:ImageResource Application_Green_Quake.Images.lockTwo.png}" HorizontalOptions="CenterAndExpand">
+                            <Image.GestureRecognizers>
+                                <TapGestureRecognizer Tapped="NavigateToBadgePopUp"/>
+                            </Image.GestureRecognizers>
+                        </Image>
+                    </Frame>
+
+                    <Label x:Name="a42Txt" Text="Locked " TextColor="White" HorizontalTextAlignment="Center"/>
+                </StackLayout>
+                <StackLayout Grid.Column="2" Grid.Row="10">
+                    <Frame CornerRadius="20" HorizontalOptions="Start" VerticalOptions="Start" Margin="0" Padding="0" BackgroundColor="Maroon">
+                        <Image
+                        x:Name="a43" Source="{local:ImageResource Application_Green_Quake.Images.lockTwo.png}" HorizontalOptions="CenterAndExpand">
+                            <Image.GestureRecognizers>
+                                <TapGestureRecognizer Tapped="NavigateToBadgePopUp"/>
+                            </Image.GestureRecognizers>
+                        </Image>
+                    </Frame>
+
+                    <Label x:Name="a43Txt" Text="Locked " TextColor="White" HorizontalTextAlignment="Center"/>
+                </StackLayout>
+                <StackLayout Grid.Column="3" Grid.Row="10">
+                    <Frame CornerRadius="20" HorizontalOptions="Start" VerticalOptions="Start" Margin="0" Padding="0" BackgroundColor="Maroon">
+                        <Image
+                        x:Name="a44" Source="{local:ImageResource Application_Green_Quake.Images.lockTwo.png}" HorizontalOptions="CenterAndExpand">
+                            <Image.GestureRecognizers>
+                                <TapGestureRecognizer Tapped="NavigateToBadgePopUp"/>
+                            </Image.GestureRecognizers>
+                        </Image>
+                    </Frame>
+
+                    <Label x:Name="a44Txt" Text="Locked " TextColor="White" HorizontalTextAlignment="Center"/>
+                </StackLayout>
+
+                <StackLayout Grid.Column="0" Grid.Row="11">
+                    <Frame CornerRadius="20" HorizontalOptions="Start" VerticalOptions="Start" Margin="0" Padding="0" BackgroundColor="Maroon">
+                        <Image
+                        x:Name="a45" Source="{local:ImageResource Application_Green_Quake.Images.lockTwo.png}" HorizontalOptions="CenterAndExpand">
+                            <Image.GestureRecognizers>
+                                <TapGestureRecognizer Tapped="NavigateToBadgePopUp"/>
+                            </Image.GestureRecognizers>
+                        </Image>
+                    </Frame>
+
+                    <Label x:Name="a45Txt" Text="Locked " TextColor="White" HorizontalTextAlignment="Center"/>
+                </StackLayout>
+                <StackLayout Grid.Column="1" Grid.Row="11">
+                    <Frame CornerRadius="20" HorizontalOptions="Start" VerticalOptions="Start" Margin="0" Padding="0" BackgroundColor="Maroon">
+                        <Image
+                        x:Name="a46" Source="{local:ImageResource Application_Green_Quake.Images.lockTwo.png}" HorizontalOptions="CenterAndExpand">
+                            <Image.GestureRecognizers>
+                                <TapGestureRecognizer Tapped="NavigateToBadgePopUp"/>
+                            </Image.GestureRecognizers>
+                        </Image>
+                    </Frame>
+
+                    <Label x:Name="a46Txt" Text="Locked " TextColor="White" HorizontalTextAlignment="Center"/>
+                </StackLayout>
+                <StackLayout Grid.Column="2" Grid.Row="11">
+                    <Frame CornerRadius="20" HorizontalOptions="Start" VerticalOptions="Start" Margin="0" Padding="0" BackgroundColor="Maroon">
+                        <Image
+                        x:Name="a47" Source="{local:ImageResource Application_Green_Quake.Images.lockTwo.png}" HorizontalOptions="CenterAndExpand">
+                            <Image.GestureRecognizers>
+                                <TapGestureRecognizer Tapped="NavigateToBadgePopUp"/>
+                            </Image.GestureRecognizers>
+                        </Image>
+                    </Frame>
+
+                    <Label x:Name="a47Txt" Text="Locked " TextColor="White" HorizontalTextAlignment="Center"/>
+                </StackLayout>
+                <StackLayout Grid.Column="3" Grid.Row="11">
+                    <Frame CornerRadius="20" HorizontalOptions="Start" VerticalOptions="Start" Margin="0" Padding="0" BackgroundColor="Maroon">
+                        <Image
+                        x:Name="a48" Source="{local:ImageResource Application_Green_Quake.Images.lockTwo.png}" HorizontalOptions="CenterAndExpand">
+                            <Image.GestureRecognizers>
+                                <TapGestureRecognizer Tapped="NavigateToBadgePopUp"/>
+                            </Image.GestureRecognizers>
+                        </Image>
+                    </Frame>
+
+                    <Label x:Name="a48Txt" Text="Locked " TextColor="White" HorizontalTextAlignment="Center"/>
+                </StackLayout>
+
+                <StackLayout Grid.Column="0" Grid.Row="12">
+                    <Frame CornerRadius="20" HorizontalOptions="Start" VerticalOptions="Start" Margin="0" Padding="0" BackgroundColor="Maroon">
+                        <Image
+                        x:Name="a49" Source="{local:ImageResource Application_Green_Quake.Images.lockTwo.png}" HorizontalOptions="CenterAndExpand">
+                            <Image.GestureRecognizers>
+                                <TapGestureRecognizer Tapped="NavigateToBadgePopUp"/>
+                            </Image.GestureRecognizers>
+                        </Image>
+                    </Frame>
+
+                    <Label x:Name="a49Txt" Text="Locked " TextColor="White" HorizontalTextAlignment="Center"/>
+                </StackLayout>
+                <StackLayout Grid.Column="1" Grid.Row="12">
+                    <Frame CornerRadius="20" HorizontalOptions="Start" VerticalOptions="Start" Margin="0" Padding="0" BackgroundColor="Maroon">
+                        <Image
+                        x:Name="a50" Source="{local:ImageResource Application_Green_Quake.Images.lockTwo.png}" HorizontalOptions="CenterAndExpand">
+                            <Image.GestureRecognizers>
+                                <TapGestureRecognizer Tapped="NavigateToBadgePopUp"/>
+                            </Image.GestureRecognizers>
+                        </Image>
+                    </Frame>
+
+                    <Label x:Name="a50Txt" Text="Locked " TextColor="White" HorizontalTextAlignment="Center"/>
+                </StackLayout>
+                <StackLayout Grid.Column="2" Grid.Row="12">
+                    <Frame CornerRadius="20" HorizontalOptions="Start" VerticalOptions="Start" Margin="0" Padding="0" BackgroundColor="Maroon">
+                        <Image
+                        x:Name="a51" Source="{local:ImageResource Application_Green_Quake.Images.lockTwo.png}" HorizontalOptions="CenterAndExpand">
+                            <Image.GestureRecognizers>
+                                <TapGestureRecognizer Tapped="NavigateToBadgePopUp"/>
+                            </Image.GestureRecognizers>
+                        </Image>
+                    </Frame>
+
+                    <Label x:Name="a51Txt" Text="Locked " TextColor="White" HorizontalTextAlignment="Center"/>
+                </StackLayout>
+                <StackLayout Grid.Column="3" Grid.Row="12">
+                    <Frame CornerRadius="20" HorizontalOptions="Start" VerticalOptions="Start" Margin="0" Padding="0" BackgroundColor="Maroon">
+                        <Image
+                        x:Name="a52" Source="{local:ImageResource Application_Green_Quake.Images.lockTwo.png}" HorizontalOptions="CenterAndExpand">
+                            <Image.GestureRecognizers>
+                                <TapGestureRecognizer Tapped="NavigateToBadgePopUp"/>
+                            </Image.GestureRecognizers>
+                        </Image>
+                    </Frame>
+
+                    <Label x:Name="a52Txt" Text="Locked " TextColor="White" HorizontalTextAlignment="Center"/>
+                </StackLayout>
+
+                <StackLayout Grid.Column="0" Grid.Row="13">
+                    <Frame CornerRadius="20" HorizontalOptions="Start" VerticalOptions="Start" Margin="0" Padding="0" BackgroundColor="Maroon">
+                        <Image
+                        x:Name="a53" Source="{local:ImageResource Application_Green_Quake.Images.lockTwo.png}" HorizontalOptions="CenterAndExpand">
+                            <Image.GestureRecognizers>
+                                <TapGestureRecognizer Tapped="NavigateToBadgePopUp"/>
+                            </Image.GestureRecognizers>
+                        </Image>
+                    </Frame>
+
+                    <Label x:Name="a53Txt" Text="Locked " TextColor="White" HorizontalTextAlignment="Center"/>
+                </StackLayout>
+                <StackLayout Grid.Column="1" Grid.Row="13">
+                    <Frame CornerRadius="20" HorizontalOptions="Start" VerticalOptions="Start" Margin="0" Padding="0" BackgroundColor="Maroon">
+                        <Image
+                        x:Name="a54" Source="{local:ImageResource Application_Green_Quake.Images.lockTwo.png}" HorizontalOptions="CenterAndExpand">
+                            <Image.GestureRecognizers>
+                                <TapGestureRecognizer Tapped="NavigateToBadgePopUp"/>
+                            </Image.GestureRecognizers>
+                        </Image>
+                    </Frame>
+
+                    <Label x:Name="a54Txt" Text="Locked " TextColor="White" HorizontalTextAlignment="Center"/>
+                </StackLayout>
+                <StackLayout Grid.Column="2" Grid.Row="13">
+                    <Frame CornerRadius="20" HorizontalOptions="Start" VerticalOptions="Start" Margin="0" Padding="0" BackgroundColor="Maroon">
+                        <Image
+                        x:Name="a55" Source="{local:ImageResource Application_Green_Quake.Images.lockTwo.png}" HorizontalOptions="CenterAndExpand">
+                            <Image.GestureRecognizers>
+                                <TapGestureRecognizer Tapped="NavigateToBadgePopUp"/>
+                            </Image.GestureRecognizers>
+                        </Image>
+                    </Frame>
+
+                    <Label x:Name="a55Txt" Text="Locked " TextColor="White" HorizontalTextAlignment="Center"/>
+                </StackLayout>
+                <StackLayout Grid.Column="3" Grid.Row="13">
+                    <Frame CornerRadius="20" HorizontalOptions="Start" VerticalOptions="Start" Margin="0" Padding="0" BackgroundColor="Maroon">
+                        <Image
+                        x:Name="a56" Source="{local:ImageResource Application_Green_Quake.Images.lockTwo.png}" HorizontalOptions="CenterAndExpand">
+                            <Image.GestureRecognizers>
+                                <TapGestureRecognizer Tapped="NavigateToBadgePopUp"/>
+                            </Image.GestureRecognizers>
+                        </Image>
+                    </Frame>
+
+                    <Label x:Name="a56Txt" Text="Locked " TextColor="White" HorizontalTextAlignment="Center"/>
+                </StackLayout>
+
+                <StackLayout Grid.Column="0" Grid.Row="14">
+                    <Frame CornerRadius="20" HorizontalOptions="Start" VerticalOptions="Start" Margin="0" Padding="0" BackgroundColor="Maroon">
+                        <Image
+                        x:Name="a57" Source="{local:ImageResource Application_Green_Quake.Images.lockTwo.png}" HorizontalOptions="CenterAndExpand">
+                            <Image.GestureRecognizers>
+                                <TapGestureRecognizer Tapped="NavigateToBadgePopUp"/>
+                            </Image.GestureRecognizers>
+                        </Image>
+                    </Frame>
+
+                    <Label x:Name="a57Txt" Text="Locked " TextColor="White" HorizontalTextAlignment="Center"/>
+                </StackLayout>
+                <StackLayout Grid.Column="1" Grid.Row="14">
+                    <Frame CornerRadius="20" HorizontalOptions="Start" VerticalOptions="Start" Margin="0" Padding="0" BackgroundColor="Maroon">
+                        <Image
+                        x:Name="a58" Source="{local:ImageResource Application_Green_Quake.Images.lockTwo.png}" HorizontalOptions="CenterAndExpand">
+                            <Image.GestureRecognizers>
+                                <TapGestureRecognizer Tapped="NavigateToBadgePopUp"/>
+                            </Image.GestureRecognizers>
+                        </Image>
+                    </Frame>
+
+                    <Label x:Name="a58Txt" Text="Locked " TextColor="White" HorizontalTextAlignment="Center"/>
+                </StackLayout>
+                <StackLayout Grid.Column="2" Grid.Row="14">
+                    <Frame CornerRadius="20" HorizontalOptions="Start" VerticalOptions="Start" Margin="0" Padding="0" BackgroundColor="Maroon">
+                        <Image
+                        x:Name="a59" Source="{local:ImageResource Application_Green_Quake.Images.lockTwo.png}" HorizontalOptions="CenterAndExpand">
+                            <Image.GestureRecognizers>
+                                <TapGestureRecognizer Tapped="NavigateToBadgePopUp"/>
+                            </Image.GestureRecognizers>
+                        </Image>
+                    </Frame>
+
+                    <Label x:Name="a59Txt" Text="Locked " TextColor="White" HorizontalTextAlignment="Center"/>
+                </StackLayout>
+                <StackLayout Grid.Column="3" Grid.Row="14">
+                    <Frame CornerRadius="20" HorizontalOptions="Start" VerticalOptions="Start" Margin="0" Padding="0" BackgroundColor="Maroon">
+                        <Image
+                        x:Name="a60" Source="{local:ImageResource Application_Green_Quake.Images.lockTwo.png}" HorizontalOptions="CenterAndExpand">
+                            <Image.GestureRecognizers>
+                                <TapGestureRecognizer Tapped="NavigateToBadgePopUp"/>
+                            </Image.GestureRecognizers>
+                        </Image>
+                    </Frame>
+
+                    <Label x:Name="a60Txt" Text="Locked " TextColor="White" HorizontalTextAlignment="Center"/>
+                </StackLayout>
+
+                <StackLayout Grid.Column="0" Grid.Row="15">
+                    <Frame CornerRadius="20" HorizontalOptions="Start" VerticalOptions="Start" Margin="0" Padding="0" BackgroundColor="Maroon">
+                        <Image
+                        x:Name="a61" Source="{local:ImageResource Application_Green_Quake.Images.lockTwo.png}" HorizontalOptions="CenterAndExpand">
+                            <Image.GestureRecognizers>
+                                <TapGestureRecognizer Tapped="NavigateToBadgePopUp"/>
+                            </Image.GestureRecognizers>
+                        </Image>
+                    </Frame>
+
+                    <Label x:Name="a61Txt" Text="Locked " TextColor="White" HorizontalTextAlignment="Center"/>
+                </StackLayout>
+                <StackLayout Grid.Column="1" Grid.Row="15">
+                    <Frame CornerRadius="20" HorizontalOptions="Start" VerticalOptions="Start" Margin="0" Padding="0" BackgroundColor="Maroon">
+                        <Image
+                        x:Name="a62" Source="{local:ImageResource Application_Green_Quake.Images.lockTwo.png}" HorizontalOptions="CenterAndExpand">
+                            <Image.GestureRecognizers>
+                                <TapGestureRecognizer Tapped="NavigateToBadgePopUp"/>
+                            </Image.GestureRecognizers>
+                        </Image>
+                    </Frame>
+
+                    <Label x:Name="a62Txt" Text="Locked " TextColor="White" HorizontalTextAlignment="Center"/>
+                </StackLayout>
+                <StackLayout Grid.Column="2" Grid.Row="15">
+                    <Frame CornerRadius="20" HorizontalOptions="Start" VerticalOptions="Start" Margin="0" Padding="0" BackgroundColor="Maroon">
+                        <Image
+                        x:Name="a63" Source="{local:ImageResource Application_Green_Quake.Images.lockTwo.png}" HorizontalOptions="CenterAndExpand">
+                            <Image.GestureRecognizers>
+                                <TapGestureRecognizer Tapped="NavigateToBadgePopUp"/>
+                            </Image.GestureRecognizers>
+                        </Image>
+                    </Frame>
+
+                    <Label x:Name="a63Txt" Text="Locked " TextColor="White" HorizontalTextAlignment="Center"/>
+                </StackLayout>
+                <StackLayout Grid.Column="3" Grid.Row="15">
+                    <Frame CornerRadius="20" HorizontalOptions="Start" VerticalOptions="Start" Margin="0" Padding="0" BackgroundColor="Maroon">
+                        <Image
+                        x:Name="a64" Source="{local:ImageResource Application_Green_Quake.Images.lockTwo.png}" HorizontalOptions="CenterAndExpand">
+                            <Image.GestureRecognizers>
+                                <TapGestureRecognizer Tapped="NavigateToBadgePopUp"/>
+                            </Image.GestureRecognizers>
+                        </Image>
+                    </Frame>
+
+                    <Label x:Name="a64Txt" Text="Locked " TextColor="White" HorizontalTextAlignment="Center"/>
+                </StackLayout>
+
+                <StackLayout Grid.Column="0" Grid.Row="16">
+                    <Frame CornerRadius="20" HorizontalOptions="Start" VerticalOptions="Start" Margin="0" Padding="0" BackgroundColor="Maroon">
+                        <Image
+                        x:Name="a65" Source="{local:ImageResource Application_Green_Quake.Images.lockTwo.png}" HorizontalOptions="CenterAndExpand">
+                            <Image.GestureRecognizers>
+                                <TapGestureRecognizer Tapped="NavigateToBadgePopUp"/>
+                            </Image.GestureRecognizers>
+                        </Image>
+                    </Frame>
+
+                    <Label x:Name="a65Txt" Text="Locked " TextColor="White" HorizontalTextAlignment="Center"/>
+                </StackLayout>
+                <StackLayout Grid.Column="1" Grid.Row="16">
+                    <Frame CornerRadius="20" HorizontalOptions="Start" VerticalOptions="Start" Margin="0" Padding="0" BackgroundColor="Maroon">
+                        <Image
+                        x:Name="a66" Source="{local:ImageResource Application_Green_Quake.Images.lockTwo.png}" HorizontalOptions="CenterAndExpand">
+                            <Image.GestureRecognizers>
+                                <TapGestureRecognizer Tapped="NavigateToBadgePopUp"/>
+                            </Image.GestureRecognizers>
+                        </Image>
+                    </Frame>
+
+                    <Label x:Name="a66Txt" Text="Locked " TextColor="White" HorizontalTextAlignment="Center"/>
+                </StackLayout>
+                <StackLayout Grid.Column="2" Grid.Row="16">
+                    <Frame CornerRadius="20" HorizontalOptions="Start" VerticalOptions="Start" Margin="0" Padding="0" BackgroundColor="Maroon">
+                        <Image
+                        x:Name="a67" Source="{local:ImageResource Application_Green_Quake.Images.lockTwo.png}" HorizontalOptions="CenterAndExpand">
+                            <Image.GestureRecognizers>
+                                <TapGestureRecognizer Tapped="NavigateToBadgePopUp"/>
+                            </Image.GestureRecognizers>
+                        </Image>
+                    </Frame>
+
+                    <Label x:Name="a67Txt" Text="Locked " TextColor="White" HorizontalTextAlignment="Center"/>
+                </StackLayout>
+                <StackLayout Grid.Column="3" Grid.Row="16">
+                    <Frame CornerRadius="20" HorizontalOptions="Start" VerticalOptions="Start" Margin="0" Padding="0" BackgroundColor="Maroon">
+                        <Image
+                        x:Name="a68" Source="{local:ImageResource Application_Green_Quake.Images.lockTwo.png}" HorizontalOptions="CenterAndExpand">
+                            <Image.GestureRecognizers>
+                                <TapGestureRecognizer Tapped="NavigateToBadgePopUp"/>
+                            </Image.GestureRecognizers>
+                        </Image>
+                    </Frame>
+
+                    <Label x:Name="a68Txt" Text="Locked " TextColor="White" HorizontalTextAlignment="Center"/>
+                </StackLayout>
+
+                <StackLayout Grid.Column="0" Grid.Row="17">
+                    <Frame CornerRadius="20" HorizontalOptions="Start" VerticalOptions="Start" Margin="0" Padding="0" BackgroundColor="Maroon">
+                        <Image
+                        x:Name="a69" Source="{local:ImageResource Application_Green_Quake.Images.lockTwo.png}" HorizontalOptions="CenterAndExpand">
+                            <Image.GestureRecognizers>
+                                <TapGestureRecognizer Tapped="NavigateToBadgePopUp"/>
+                            </Image.GestureRecognizers>
+                        </Image>
+                    </Frame>
+
+                    <Label x:Name="a69Txt" Text="Locked " TextColor="White" HorizontalTextAlignment="Center"/>
+                </StackLayout>
+                <StackLayout Grid.Column="1" Grid.Row="17">
+                    <Frame CornerRadius="20" HorizontalOptions="Start" VerticalOptions="Start" Margin="0" Padding="0" BackgroundColor="Maroon">
+                        <Image
+                        x:Name="a70" Source="{local:ImageResource Application_Green_Quake.Images.lockTwo.png}" HorizontalOptions="CenterAndExpand">
+                            <Image.GestureRecognizers>
+                                <TapGestureRecognizer Tapped="NavigateToBadgePopUp"/>
+                            </Image.GestureRecognizers>
+                        </Image>
+                    </Frame>
+
+                    <Label x:Name="a70Txt" Text="Locked " TextColor="White" HorizontalTextAlignment="Center"/>
+                </StackLayout>
+                <StackLayout Grid.Column="2" Grid.Row="17">
+                    <Frame CornerRadius="20" HorizontalOptions="Start" VerticalOptions="Start" Margin="0" Padding="0" BackgroundColor="Maroon">
+                        <Image
+                        x:Name="a71" Source="{local:ImageResource Application_Green_Quake.Images.lockTwo.png}" HorizontalOptions="CenterAndExpand">
+                            <Image.GestureRecognizers>
+                                <TapGestureRecognizer Tapped="NavigateToBadgePopUp"/>
+                            </Image.GestureRecognizers>
+                        </Image>
+                    </Frame>
+
+                    <Label x:Name="a71Txt" Text="Locked " TextColor="White" HorizontalTextAlignment="Center"/>
+                </StackLayout>
+                <StackLayout Grid.Column="3" Grid.Row="17">
+                    <Frame CornerRadius="20" HorizontalOptions="Start" VerticalOptions="Start" Margin="0" Padding="0" BackgroundColor="Maroon">
+                        <Image
+                        x:Name="a72" Source="{local:ImageResource Application_Green_Quake.Images.lockTwo.png}" HorizontalOptions="CenterAndExpand">
+                            <Image.GestureRecognizers>
+                                <TapGestureRecognizer Tapped="NavigateToBadgePopUp"/>
+                            </Image.GestureRecognizers>
+                        </Image>
+                    </Frame>
+
+                    <Label x:Name="a72Txt" Text="Locked " TextColor="White" HorizontalTextAlignment="Center"/>
+                </StackLayout>
+
+                <StackLayout Grid.Column="0" Grid.Row="18">
+                    <Frame CornerRadius="20" HorizontalOptions="Start" VerticalOptions="Start" Margin="0" Padding="0" BackgroundColor="Maroon">
+                        <Image
+                        x:Name="a73" Source="{local:ImageResource Application_Green_Quake.Images.lockTwo.png}" HorizontalOptions="CenterAndExpand">
+                            <Image.GestureRecognizers>
+                                <TapGestureRecognizer Tapped="NavigateToBadgePopUp"/>
+                            </Image.GestureRecognizers>
+                        </Image>
+                    </Frame>
+
+                    <Label x:Name="a73Txt" Text="Locked " TextColor="White" HorizontalTextAlignment="Center"/>
+                </StackLayout>
+                <StackLayout Grid.Column="1" Grid.Row="18">
+                    <Frame CornerRadius="20" HorizontalOptions="Start" VerticalOptions="Start" Margin="0" Padding="0" BackgroundColor="Maroon">
+                        <Image
+                        x:Name="a74" Source="{local:ImageResource Application_Green_Quake.Images.lockTwo.png}" HorizontalOptions="CenterAndExpand">
+                            <Image.GestureRecognizers>
+                                <TapGestureRecognizer Tapped="NavigateToBadgePopUp"/>
+                            </Image.GestureRecognizers>
+                        </Image>
+                    </Frame>
+
+                    <Label x:Name="a74Txt" Text="Locked " TextColor="White" HorizontalTextAlignment="Center"/>
+                </StackLayout>
+                <StackLayout Grid.Column="2" Grid.Row="18">
+                    <Frame CornerRadius="20" HorizontalOptions="Start" VerticalOptions="Start" Margin="0" Padding="0" BackgroundColor="Maroon">
+                        <Image
+                        x:Name="a75" Source="{local:ImageResource Application_Green_Quake.Images.lockTwo.png}" HorizontalOptions="CenterAndExpand">
+                            <Image.GestureRecognizers>
+                                <TapGestureRecognizer Tapped="NavigateToBadgePopUp"/>
+                            </Image.GestureRecognizers>
+                        </Image>
+                    </Frame>
+
+                    <Label x:Name="a75Txt" Text="Locked " TextColor="White" HorizontalTextAlignment="Center"/>
+                </StackLayout>
+                <StackLayout Grid.Column="3" Grid.Row="18">
+                    <Frame CornerRadius="20" HorizontalOptions="Start" VerticalOptions="Start" Margin="0" Padding="0" BackgroundColor="Maroon">
+                        <Image
+                        x:Name="a76" Source="{local:ImageResource Application_Green_Quake.Images.lockTwo.png}" HorizontalOptions="CenterAndExpand">
+                            <Image.GestureRecognizers>
+                                <TapGestureRecognizer Tapped="NavigateToBadgePopUp"/>
+                            </Image.GestureRecognizers>
+                        </Image>
+                    </Frame>
+
+                    <Label x:Name="a76Txt" Text="Locked " TextColor="White" HorizontalTextAlignment="Center"/>
+                </StackLayout>
+
+                <StackLayout Grid.Column="0" Grid.Row="19">
+                    <Frame CornerRadius="20" HorizontalOptions="Start" VerticalOptions="Start" Margin="0" Padding="0" BackgroundColor="Maroon">
+                        <Image
+                        x:Name="a77" Source="{local:ImageResource Application_Green_Quake.Images.lockTwo.png}" HorizontalOptions="CenterAndExpand">
+                            <Image.GestureRecognizers>
+                                <TapGestureRecognizer Tapped="NavigateToBadgePopUp"/>
+                            </Image.GestureRecognizers>
+                        </Image>
+                    </Frame>
+
+                    <Label x:Name="a77Txt" Text="Locked " TextColor="White" HorizontalTextAlignment="Center"/>
+                </StackLayout>
+                <StackLayout Grid.Column="1" Grid.Row="19">
+                    <Frame CornerRadius="20" HorizontalOptions="Start" VerticalOptions="Start" Margin="0" Padding="0" BackgroundColor="Maroon">
+                        <Image
+                        x:Name="a78" Source="{local:ImageResource Application_Green_Quake.Images.lockTwo.png}" HorizontalOptions="CenterAndExpand">
+                            <Image.GestureRecognizers>
+                                <TapGestureRecognizer Tapped="NavigateToBadgePopUp"/>
+                            </Image.GestureRecognizers>
+                        </Image>
+                    </Frame>
+
+                    <Label x:Name="a78Txt" Text="Locked " TextColor="White" HorizontalTextAlignment="Center"/>
+                </StackLayout>
+                <StackLayout Grid.Column="2" Grid.Row="19">
+                    <Frame CornerRadius="20" HorizontalOptions="Start" VerticalOptions="Start" Margin="0" Padding="0" BackgroundColor="Maroon">
+                        <Image
+                        x:Name="a79" Source="{local:ImageResource Application_Green_Quake.Images.lockTwo.png}" HorizontalOptions="CenterAndExpand">
+                            <Image.GestureRecognizers>
+                                <TapGestureRecognizer Tapped="NavigateToBadgePopUp"/>
+                            </Image.GestureRecognizers>
+                        </Image>
+                    </Frame>
+
+                    <Label x:Name="a79Txt" Text="Locked " TextColor="White" HorizontalTextAlignment="Center"/>
+                </StackLayout>
+                <StackLayout Grid.Column="3" Grid.Row="19">
+                    <Frame CornerRadius="20" HorizontalOptions="Start" VerticalOptions="Start" Margin="0" Padding="0" BackgroundColor="Maroon">
+                        <Image
+                        x:Name="a80" Source="{local:ImageResource Application_Green_Quake.Images.lockTwo.png}" HorizontalOptions="CenterAndExpand">
+                            <Image.GestureRecognizers>
+                                <TapGestureRecognizer Tapped="NavigateToBadgePopUp"/>
+                            </Image.GestureRecognizers>
+                        </Image>
+                    </Frame>
+
+                    <Label x:Name="a80Txt" Text="Locked " TextColor="White" HorizontalTextAlignment="Center"/>
+                </StackLayout>
+
+                <StackLayout Grid.Column="0" Grid.Row="20">
+                    <Frame CornerRadius="20" HorizontalOptions="Start" VerticalOptions="Start" Margin="0" Padding="0" BackgroundColor="Maroon">
+                        <Image
+                        x:Name="a81" Source="{local:ImageResource Application_Green_Quake.Images.lockTwo.png}" HorizontalOptions="CenterAndExpand">
+                            <Image.GestureRecognizers>
+                                <TapGestureRecognizer Tapped="NavigateToBadgePopUp"/>
+                            </Image.GestureRecognizers>
+                        </Image>
+                    </Frame>
+
+                    <Label x:Name="a81Txt" Text="Locked " TextColor="White" HorizontalTextAlignment="Center"/>
                 </StackLayout>
             </Grid>
         </ScrollView>

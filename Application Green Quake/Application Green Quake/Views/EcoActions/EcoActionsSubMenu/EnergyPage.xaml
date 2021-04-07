@@ -4,39 +4,41 @@
              x:Class="Application_Green_Quake.Views.EcoActions.EcoActionsSubMenu.EnergyPage"
              Title="Energy Subcategories">
     <ContentPage.Content>
-        <StackLayout>
-            <Button Text="Use Dryer When Full"
+        <ScrollView>
+            <StackLayout>
+                <Button Text="Use Dryer When Full"
                     Clicked="NavigateToDryerFull"/>
-            <Button Text="Use Washing Machine When Full"
+                <Button Text="Use Washing Machine When Full"
                     Clicked="NavigateToMachineFull"/>
-            <Button Text="Use Dishwasher When Full"
+                <Button Text="Use Dishwasher When Full"
                     Clicked="NavigateToDishwasherFull"/>
-            <Button Text="Hang Dry Your Clothes Instead"
+                <Button Text="Hang Dry Your Clothes Instead"
                     Clicked="NavigateToHangDry"/>
-            <Button Text="Effieciently Porgramme Thermostat"
+                <Button Text="Effieciently Porgramme Thermostat"
                     Clicked="NavigateToEfficientThermostat"/>
-            <Button Text="Install a Solar Panel"
+                <Button Text="Install a Solar Panel"
                     Clicked="NavigateToSolarPanel"/>
-            <Button Text="Change to LED Lighbulb"
+                <Button Text="Change to LED Lighbulb"
                     Clicked="NavigateToLedLightbulb"/>
-            <Button Text="Turn Off the Socket Switches"
+                <Button Text="Turn Off the Socket Switches"
                     Clicked="NavigateToOffSocketSwitch"/>
-            <Button Text="Turn Off the Lights When Leaving Room"
+                <Button Text="Turn Off the Lights When Leaving Room"
                     Clicked="NavigateToOffLights"/>
-            <Button Text="Isolate Your Home"
+                <Button Text="Isolate Your Home"
                     Clicked="NavigateToIsolateHome"/>
-            <Button Text="Used Microwave Instead of the Oven"
+                <Button Text="Used Microwave Instead of the Oven"
                     Clicked="NavigateToMicrowaveNotOven"/>
-            <Button Text="Use Rechargabe Batteries"
+                <Button Text="Use Rechargabe Batteries"
                     Clicked="NavigateToReBatteries"/>
-            <Button Text="Turn Refrigirator Down"
+                <Button Text="Turn Refrigirator Down"
                     Clicked="NavigateToRefrigiratorDown"/>
-            <Button Text="Insulate Water Heater"
+                <Button Text="Insulate Water Heater"
                     Clicked="NavigateToInsulateWater"/>
-            <Button Text="Seal Drafts"
+                <Button Text="Seal Drafts"
                     Clicked="NavigateToSealDrafts"/>
-            <Button Text="SealDucts"
+                <Button Text="SealDucts"
                     Clicked="NavigateToSealDucts"/>
-        </StackLayout>
+            </StackLayout>
+        </ScrollView>
     </ContentPage.Content>
 </ContentPage>

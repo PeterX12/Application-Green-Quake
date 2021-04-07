@@ -181,7 +181,7 @@ namespace Application_Green_Quake.Views.ProfilePage
             }
             else if (habitsLog >= 10 && habitsLog < 25)
             {
-                a1.Source = ImageSource.FromResource("Applica  tion_Green_Quake.Images.Badges.Habits.habitsThree.png");
+                a1.Source = ImageSource.FromResource("Application_Green_Quake.Images.Badges.Habits.habitsThree.png");
             }
             else if (habitsLog >= 25 && habitsLog < 50)
             {
@@ -207,7 +207,7 @@ namespace Application_Green_Quake.Views.ProfilePage
             }
             else if (advancedLog >= 10 && advancedLog < 25)
             {
-                a2.Source = ImageSource.FromResource("Applica  tion_Green_Quake.Images.Badges.Advanced.advancedThree.png");
+                a2.Source = ImageSource.FromResource("Application_Green_Quake.Images.Badges.Advanced.advancedThree.png");
             }
             else if (advancedLog >= 25 && advancedLog < 50)
             {
@@ -232,7 +232,7 @@ namespace Application_Green_Quake.Views.ProfilePage
             }
             else if (communityLog >= 10 && communityLog < 25)
             {
-                a3.Source = ImageSource.FromResource("Applica  tion_Green_Quake.Images.Badges.Community.communityThree.png");
+                a3.Source = ImageSource.FromResource("Application_Green_Quake.Images.Badges.Community.communityThree.png");
             }
             else if (communityLog >= 25 && communityLog < 50)
             {
@@ -257,7 +257,7 @@ namespace Application_Green_Quake.Views.ProfilePage
             }
             else if (energyLog >= 10 && energyLog < 25)
             {
-                a4.Source = ImageSource.FromResource("Applica  tion_Green_Quake.Images.Badges.Energy.energyThree.png");
+                a4.Source = ImageSource.FromResource("Application_Green_Quake.Images.Badges.Energy.energyThree.png");
             }
             else if (energyLog >= 25 && energyLog < 50)
             {
@@ -282,7 +282,7 @@ namespace Application_Green_Quake.Views.ProfilePage
             }
             else if (foodDrinkLog >= 10 && foodDrinkLog < 25)
             {
-                a5.Source = ImageSource.FromResource("Applica  tion_Green_Quake.Images.Badges.FD.fDThree.png");
+                a5.Source = ImageSource.FromResource("Application_Green_Quake.Images.Badges.FD.fDThree.png");
             }
             else if (foodDrinkLog >= 25 && foodDrinkLog < 50)
             {
@@ -307,7 +307,7 @@ namespace Application_Green_Quake.Views.ProfilePage
             }
             else if (homeLog >= 10 && homeLog < 25)
             {
-                a6.Source = ImageSource.FromResource("Applica  tion_Green_Quake.Images.Badges.Home.homeThree.png");
+                a6.Source = ImageSource.FromResource("Application_Green_Quake.Images.Badges.Home.homeThree.png");
             }
             else if (homeLog >= 25 && homeLog < 50)
             {
@@ -357,7 +357,7 @@ namespace Application_Green_Quake.Views.ProfilePage
             }
             else if (shoppingLog >= 10 && shoppingLog < 25)
             {
-                a8.Source = ImageSource.FromResource("Applica  tion_Green_Quake.Images.Badges.Shopping.shoppingThree.png");
+                a8.Source = ImageSource.FromResource("Application_Green_Quake.Images.Badges.Shopping.shoppingThree.png");
             }
             else if (shoppingLog >= 25 && shoppingLog < 50)
             {
@@ -407,7 +407,7 @@ namespace Application_Green_Quake.Views.ProfilePage
             }
             else if (wasteLog >= 10 && wasteLog < 25)
             {
-                a10.Source = ImageSource.FromResource("Applica  tion_Green_Quake.Images.Badges.Waste.wasteThree.png");
+                a10.Source = ImageSource.FromResource("Application_Green_Quake.Images.Badges.Waste.wasteThree.png");
             }
             else if (wasteLog >= 25 && wasteLog < 50)
             {
@@ -432,7 +432,7 @@ namespace Application_Green_Quake.Views.ProfilePage
             }
             else if (waterLog >= 10 && waterLog < 25)
             {
-                a11.Source = ImageSource.FromResource("Applica  tion_Green_Quake.Images.Badges.Water.waterThree.png");
+                a11.Source = ImageSource.FromResource("Application_Green_Quake.Images.Badges.Water.waterThree.png");
             }
             else if (waterLog >= 25 && waterLog < 50)
             {
@@ -457,7 +457,7 @@ namespace Application_Green_Quake.Views.ProfilePage
             }
             else if (workLog >= 10 && workLog < 25)
             {
-                a12.Source = ImageSource.FromResource("Applica  tion_Green_Quake.Images.Badges.Work.workThree.png");
+                a12.Source = ImageSource.FromResource("Application_Green_Quake.Images.Badges.Work.workThree.png");
             }
             else if (workLog >= 25 && workLog < 50)
             {

@@ -4,19 +4,11 @@
              x:Class="Application_Green_Quake.Views.EcoActions.EcoActionsSubMenu.AdvancedPage"
              Title="Advanced Subcategories">
     <ContentPage.Content>
-        <StackLayout>
-            <Button Text="Create a Herb Garden"
-                    Clicked="NavigateToSetUpHerbGarden"/>
-            <Button Text="Create a Vegetable Garden"
-                    Clicked="NavigateToSetUpVegetableGarden"/>
-            <Button Text="Create a Fruit Garden"
-                    Clicked="NavigateToSetUpFruitGarden"/>
-            <Button Text="Set Up a RainWater Colector"
-                    Clicked="NavigateToSetUpRainWaterColector"/>
-            <Button Text="Set Up a Birdfeeder"
-                    Clicked="NavigateToSetUpBirdfeeder"/>
-            <Button Text="Fix an Item Instead of Throwing it Away"
-                    Clicked="NavigateToFixInsteadOfThrowAway"/>
-        </StackLayout>
+        <ScrollView>
+            <StackLayout>
+                <Button Text="Fix instead of throwing away"
+                    Clicked="NavigateToFix"/>
+            </StackLayout>
+        </ScrollView>
     </ContentPage.Content>
 </ContentPage>

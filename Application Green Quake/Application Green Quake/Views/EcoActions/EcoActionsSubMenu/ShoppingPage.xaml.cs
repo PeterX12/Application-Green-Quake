@@ -17,7 +17,7 @@ namespace Application_Green_Quake.Views.EcoActions.EcoActionsSubMenu
 
         private async void NavigateToReusableWater(object sender, EventArgs e)
         {
-            await Navigation.PushAsync(new ReusableWater());
+            await Navigation.PushAsync(new PurchaseReusableWater());
         }
 
         private async void NavigateToPurchaseReusableBag(object sender, EventArgs e)

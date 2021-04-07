@@ -16,86 +16,84 @@ namespace Application_Green_Quake.Views.ProfilePage
         IAuth auth;
         private int fixCount = 0;
         private int wSShowerHeadCount = 0;
-        private int waterOverFizzyCount;
-        private int createGroupCount;
-        private int communityCount;
-        private int donateCount;
-        private int groupCount;
-        private int shareCount;
-        private int awarenessCount;
-        private int fullDryerCount;
-        private int insulateWaterCount;
-        private int efficientThermostatCount;
-        private int isolateHomeCount;
-        private int ledLightBulbCount;
-        private int fullMachineCount;
-        private int microwaveCount;
-        private int offSocketCount;
-        private int reBatteriesCount;
-        private int reBatCount;
-        private int fridgeCount;
-        private int draftSealCount;
-        private int ductSealCount;
-        private int solarPanelCount;
-        private int organicCount;
-        private int eatAllCount;
-        private int foodDeliverCount;
-        private int noMeatCount;
-        private int ownCoffeeCount;
-        private int reCoffeeMugCount;
-        private int saveLeftOversCount;
-        private int steelStrawCount;
-        private int brushingCount;
-        private int fullWasherCount;
-        private int showerCount;
-        private int timedShowerCount;
-        private int offLigtsCount;
-        private int matchesCount;
-        private int airOutCount;
-        private int nonHarmCount;
-        private int outsideCount;
-        private int plantIntoHomeCount;
-        private int toiletFlushCount;
-        private int campingCount;
-        private int picnicCount;
-        private int plantBushCount;
-        private int plantFlowerCount;
-        private int plantTreeCount;
-        private int scoopCount;
-        private int fruitGardenCount;
-        private int herbGardenCount;
-        private int vegetableGardenCount;
-        private int birdFeederCount;
-        private int clothNapkinCount;
-        private int clothTowelCount;
-        private int applianceCount;
-        private int productCount;
-        private int toothbrushCount;
-        private int clothesCount;
-        private int foodCount;
-        private int localCount;
-        private int looseLeafCount;
-        private int organicFoodCount;
-        private int reusableCount;
-        private int reBagCount;
-        private int carpoolCount;
-        private int cycleCount;
-        private int ecoCarCount;
-        private int transportCount;
-        private int walkCount;
-        private int billsCount;
-        private int compostCount;
-        private int setUpRecyclingBinCount;
-        private int bioBinBagsCount;
-        private int recyclingBinCount;
-        private int cisternCount;
-        private int rainBarrelCount;
-        private int reWaterCount;
-        private int showerBucketCount;
-        private int paperCount;
-        private int offElectronicsCount;
-        private int remoteWorkCount;
-        private int hangDryCount;
+        private int waterOverFizzyCount = 0;
+        private int createGroupCount = 0;
+        private int communityCount = 0;
+        private int donateCount = 0 ;
+        private int groupCount = 0 ;
+        private int shareCount = 0;
+        private int awarenessCount = 0;
+        private int fullDryerCount = 0;
+        private int insulateWaterCount = 0;
+        private int efficientThermostatCount = 0;
+        private int isolateHomeCount = 0;
+        private int ledLightBulbCount = 0;
+        private int microwaveCount = 0;
+        private int offSocketCount = 0;
+        private int reBatteriesCount = 0;
+        private int reBatCount = 0;
+        private int fridgeCount = 0;
+        private int draftSealCount = 0;
+        private int ductSealCount = 0;
+        private int solarPanelCount = 0;
+        private int eatAllCount = 0;
+        private int foodDeliverCount = 0;
+        private int noMeatCount = 0;
+        private int ownCoffeeCount = 0;
+        private int reCoffeeMugCount = 0;
+        private int saveLeftOversCount = 0;
+        private int steelStrawCount = 0;
+        private int brushingCount = 0;
+        private int fullWasherCount = 0;
+        private int showerCount = 0;
+        private int timedShowerCount = 0;
+        private int offLigtsCount = 0;
+        private int matchesCount = 0;
+        private int airOutCount = 0;
+        private int nonHarmCount = 0;
+        private int outsideCount = 0;
+        private int plantIntoHomeCount = 0;
+        private int toiletFlushCount = 0;
+        private int campingCount = 0;
+        private int picnicCount = 0;
+        private int plantBushCount = 0;
+        private int plantFlowerCount = 0;
+        private int plantTreeCount = 0;
+        private int scoopCount = 0;
+        private int fruitGardenCount = 0;
+        private int herbGardenCount = 0;
+        private int vegetableGardenCount = 0;
+        private int birdFeederCount = 0;
+        private int clothNapkinCount = 0;
+        private int clothTowelCount = 0;
+        private int applianceCount = 0;
+        private int productCount = 0;
+        private int toothbrushCount = 0;
+        private int clothesCount = 0;
+        private int localCount = 0;
+        private int looseLeafCount = 0;
+        private int organicFoodCount = 0;
+        private int reusableCount = 0;
+        private int reBagCount = 0;
+        private int carpoolCount = 0;
+        private int cycleCount = 0;
+        private int ecoCarCount = 0;
+        private int transportCount = 0;
+        private int walkCount = 0;
+        private int billsCount = 0;
+        private int compostCount = 0;
+        private int setUpRecyclingBinCount = 0;
+        private int bioBinBagsCount = 0;
+        private int recyclingBinCount = 0;
+        private int cisternCount = 0;
+        private int rainBarrelCount = 0;
+        private int reWaterCount = 0;
+        private int showerBucketCount = 0;
+        private int paperCount = 0;
+        private int offElectronicsCount = 0;
+        private int remoteWorkCount = 0;
+        private int hangDryCount = 0;
+        private int foodCount = 0;
 
         public Achievements()
         {
@@ -254,17 +252,6 @@ namespace Application_Green_Quake.Views.ProfilePage
             }
             try
             {
-                fullMachineCount = (await firebaseClient
-               .Child("EnergyPoints")
-               .Child(auth.GetUid())
-               .OnceSingleAsync<EnergyPoints>()).fullMachineCount;
-            }
-            catch (Exception e)
-            {
-
-            }
-            try
-            {
                 microwaveCount = (await firebaseClient
                .Child("EnergyPoints")
                .Child(auth.GetUid())
@@ -347,17 +334,6 @@ namespace Application_Green_Quake.Views.ProfilePage
                .Child("EnergyPoints")
                .Child(auth.GetUid())
                .OnceSingleAsync<EnergyPoints>()).solarPanelCount;
-            }
-            catch (Exception e)
-            {
-
-            }
-            try
-            {
-                organicCount = (await firebaseClient
-               .Child("FoodAndDrinkPoints")
-               .Child(auth.GetUid())
-               .OnceSingleAsync<FoodAndDrinkPoints>()).organicCount;
             }
             catch (Exception e)
             {
@@ -696,7 +672,7 @@ namespace Application_Green_Quake.Views.ProfilePage
             try
             {
                 clothTowelCount = (await firebaseClient
-               .Child("clothTowelCount")
+               .Child("ShoppingPoints")
                .Child(auth.GetUid())
                .OnceSingleAsync<ShoppingPoints>()).clothTowelCount;
             }
@@ -718,7 +694,7 @@ namespace Application_Green_Quake.Views.ProfilePage
             try
             {
                 productCount = (await firebaseClient
-               .Child("clothTowelCount")
+               .Child("ShoppingPoints")
                .Child(auth.GetUid())
                .OnceSingleAsync<ShoppingPoints>()).productCount;
             }
@@ -740,7 +716,7 @@ namespace Application_Green_Quake.Views.ProfilePage
             try
             {
                 clothesCount = (await firebaseClient
-               .Child("clothTowelCount")
+               .Child("ShoppingPoints")
                .Child(auth.GetUid())
                .OnceSingleAsync<ShoppingPoints>()).clothesCount;
             }
@@ -750,19 +726,8 @@ namespace Application_Green_Quake.Views.ProfilePage
             }
             try
             {
-                foodCount = (await firebaseClient
-               .Child("ShoppingPoints")
-               .Child(auth.GetUid())
-               .OnceSingleAsync<ShoppingPoints>()).foodCount;
-            }
-            catch (Exception e)
-            {
-
-            }
-            try
-            {
                 localCount = (await firebaseClient
-               .Child("clothTowelCount")
+               .Child("ShoppingPoints")
                .Child(auth.GetUid())
                .OnceSingleAsync<ShoppingPoints>()).localCount;
             }
@@ -784,7 +749,7 @@ namespace Application_Green_Quake.Views.ProfilePage
             try
             {
                 organicFoodCount = (await firebaseClient
-               .Child("clothTowelCount")
+               .Child("ShoppingPoints")
                .Child(auth.GetUid())
                .OnceSingleAsync<ShoppingPoints>()).organicFoodCount;
             }
@@ -795,7 +760,7 @@ namespace Application_Green_Quake.Views.ProfilePage
             try
             {
                 reusableCount = (await firebaseClient
-               .Child("clothTowelCount")
+               .Child("ShoppingPoints")
                .Child(auth.GetUid())
                .OnceSingleAsync<ShoppingPoints>()).reusableCount;
             }
@@ -805,10 +770,10 @@ namespace Application_Green_Quake.Views.ProfilePage
             }
             try
             {
-                reBatteriesCount = (await firebaseClient
+                reBagCount = (await firebaseClient
                .Child("ShoppingPoints")
                .Child(auth.GetUid())
-               .OnceSingleAsync<ShoppingPoints>()).reBatteriesCount;
+               .OnceSingleAsync<ShoppingPoints>()).reBagCount;
             }
             catch (Exception e)
             {
@@ -816,10 +781,10 @@ namespace Application_Green_Quake.Views.ProfilePage
             }
             try
             {
-                reBagCount = (await firebaseClient
-               .Child("clothTowelCount")
+                foodCount = (await firebaseClient
+               .Child("ShoppingPoints")
                .Child(auth.GetUid())
-               .OnceSingleAsync<ShoppingPoints>()).reBagCount;
+               .OnceSingleAsync<ShoppingPoints>()).foodCount;
             }
             catch (Exception e)
             {
@@ -1078,15 +1043,15 @@ namespace Application_Green_Quake.Views.ProfilePage
 
             if (offLigtsCount >= 5 && offLigtsCount < 15)
             {
-                a5.Source = ImageSource.FromResource("Application_Green_Quake.Images.Achievements.Habits.lightsBronze.png");
+                a5.Source = ImageSource.FromResource("Application_Green_Quake.Images.Achievements.Habits.lightBronze.png");
             }
             else if (offLigtsCount >= 15 && offLigtsCount < 25)
             {
-                a5.Source = ImageSource.FromResource("Application_Green_Quake.Images.Achievements.Habits.lightsSilver.png");
+                a5.Source = ImageSource.FromResource("Application_Green_Quake.Images.Achievements.Habits.lightSilver.png");
             }
             else if (offLigtsCount >= 25)
             {
-                a5.Source = ImageSource.FromResource("Applica  tion_Green_Quake.Images.Achievements.Habits.lightsGold.png");
+                a5.Source = ImageSource.FromResource("Applica  tion_Green_Quake.Images.Achievements.Habits.lightGold.png");
             }
 
             if (matchesCount >= 5 && matchesCount < 15)
@@ -1260,15 +1225,15 @@ namespace Application_Green_Quake.Views.ProfilePage
 
             if (reBatteriesCount >= 5 && reBatteriesCount < 15)
             {
-                a19.Source = ImageSource.FromResource("Application_Green_Quake.Images.Achievements.Energy.reBetteriesBronze.png");
+                a19.Source = ImageSource.FromResource("Application_Green_Quake.Images.Achievements.Energy.reBatteriesBronze.png");
             }
             else if (reBatteriesCount >= 15 && reBatteriesCount < 25)
             {
-                a19.Source = ImageSource.FromResource("Application_Green_Quake.Images.Achievements.Energy.reBetteriesSilver.png");
+                a19.Source = ImageSource.FromResource("Application_Green_Quake.Images.Achievements.Energy.reBatteriesSilver.png");
             }
             else if (reBatteriesCount >= 25)
             {
-                a19.Source = ImageSource.FromResource("Application_Green_Quake.Images.Achievements.Energy.reBetteriesGold.png");
+                a19.Source = ImageSource.FromResource("Application_Green_Quake.Images.Achievements.Energy.reBatteriesGold.png");
             }
 
             if (offSocketCount >= 5 && offSocketCount < 15)
@@ -1310,525 +1275,507 @@ namespace Application_Green_Quake.Views.ProfilePage
                 a22.Source = ImageSource.FromResource("Application_Green_Quake.Images.Achievements.Travel.carpoolGold.png");
             }
 
-            if (carpoolCount >= 5 && carpoolCount < 15)
-            {
-                a23.Source = ImageSource.FromResource("Application_Green_Quake.Images.Achievements.Travel.carpoolBronze.png");
-            }
-            else if (carpoolCount >= 15 && carpoolCount < 25)
-            {
-                a23.Source = ImageSource.FromResource("Application_Green_Quake.Images.Achievements.Travel.carpoolSilver.png");
-            }
-            else if (carpoolCount >= 25)
-            {
-                a23.Source = ImageSource.FromResource("Application_Green_Quake.Images.Achievements.Travel.carpoolGold.png");
-            }
-
             if (cycleCount >= 5 && cycleCount < 15)
             {
-                a24.Source = ImageSource.FromResource("Application_Green_Quake.Images.Achievements.Travel.cycleBronze.png");
+                a23.Source = ImageSource.FromResource("Application_Green_Quake.Images.Achievements.Travel.cycleBronze.png");
             }
             else if (cycleCount >= 15 && cycleCount < 25)
             {
-                a24.Source = ImageSource.FromResource("Application_Green_Quake.Images.Achievements.Travel.cycleSilver.png");
+                a23.Source = ImageSource.FromResource("Application_Green_Quake.Images.Achievements.Travel.cycleSilver.png");
             }
             else if (cycleCount >= 25)
             {
-                a24.Source = ImageSource.FromResource("Application_Green_Quake.Images.Achievements.Travel.cycleGold.png");
+                a23.Source = ImageSource.FromResource("Application_Green_Quake.Images.Achievements.Travel.cycleGold.png");
             }
 
             if (ecoCarCount >= 5 && ecoCarCount < 15)
             {
-                a25.Source = ImageSource.FromResource("Application_Green_Quake.Images.Achievements.Travel.eCarBronze.png");
+                a24.Source = ImageSource.FromResource("Application_Green_Quake.Images.Achievements.Travel.eCarBronze.png");
             }
             else if (ecoCarCount >= 15 && ecoCarCount < 25)
             {
-                a25.Source = ImageSource.FromResource("Application_Green_Quake.Images.Achievements.Travel.eCarSilver.png");
+                a24.Source = ImageSource.FromResource("Application_Green_Quake.Images.Achievements.Travel.eCarSilver.png");
             }
             else if (ecoCarCount >= 25)
             {
-                a25.Source = ImageSource.FromResource("Application_Green_Quake.Images.Achievements.Travel.eCarGold.png");
+                a24.Source = ImageSource.FromResource("Application_Green_Quake.Images.Achievements.Travel.eCarGold.png");
             }
 
             if (transportCount >= 5 && transportCount < 15)
             {
-                a26.Source = ImageSource.FromResource("Application_Green_Quake.Images.Achievements.Travel.pbBronze.png");
+                a25.Source = ImageSource.FromResource("Application_Green_Quake.Images.Achievements.Travel.pbBronze.png");
             }
             else if (transportCount >= 15 && transportCount < 25)
             {
-                a26.Source = ImageSource.FromResource("Application_Green_Quake.Images.Achievements.Travel.pbSilver.png");
+                a25.Source = ImageSource.FromResource("Application_Green_Quake.Images.Achievements.Travel.pbSilver.png");
             }
             else if (transportCount >= 25)
             {
-                a26.Source = ImageSource.FromResource("Application_Green_Quake.Images.Achievements.Travel.pbGold.png");
+                a25.Source = ImageSource.FromResource("Application_Green_Quake.Images.Achievements.Travel.pbGold.png");
             }
 
             if (walkCount >= 5 && walkCount < 15)
             {
-                a27.Source = ImageSource.FromResource("Application_Green_Quake.Images.Achievements.Travel.walkBronze.png");
+                a26.Source = ImageSource.FromResource("Application_Green_Quake.Images.Achievements.Travel.walkBronze.png");
             }
             else if (walkCount >= 15 && walkCount < 25)
             {
-                a27.Source = ImageSource.FromResource("Application_Green_Quake.Images.Achievements.Travel.walkSilver.png");
+                a26.Source = ImageSource.FromResource("Application_Green_Quake.Images.Achievements.Travel.walkSilver.png");
             }
             else if (walkCount >= 25)
             {
-                a27.Source = ImageSource.FromResource("Application_Green_Quake.Images.Achievements.Travel.walkGold.png");
+                a26.Source = ImageSource.FromResource("Application_Green_Quake.Images.Achievements.Travel.walkGold.png");
             }
 
             if (applianceCount >= 5 && applianceCount < 15)
             {
-                a28.Source = ImageSource.FromResource("Application_Green_Quake.Images.Achievements.Shopping.applianceBronze.png");
+                a27.Source = ImageSource.FromResource("Application_Green_Quake.Images.Achievements.Shopping.applianceBronze.png");
             }
             else if (applianceCount >= 15 && applianceCount < 25)
             {
-                a28.Source = ImageSource.FromResource("Application_Green_Quake.Images.Achievements.Shopping.applianceSilver.png");
+                a27.Source = ImageSource.FromResource("Application_Green_Quake.Images.Achievements.Shopping.applianceSilver.png");
             }
             else if (applianceCount >= 25)
             {
-                a28.Source = ImageSource.FromResource("Application_Green_Quake.Images.Achievements.Shopping.applianceGold.png");
+                a27.Source = ImageSource.FromResource("Application_Green_Quake.Images.Achievements.Shopping.applianceGold.png");
             }
 
-            if (ledLightBulbCount >= 5 && ledLightBulbCount < 15)
+            if (foodCount>= 5 && foodCount < 15)
             {
-                a29.Source = ImageSource.FromResource("Application_Green_Quake.Images.Achievements.Shopping.bulkBronze.png");
+                a28.Source = ImageSource.FromResource("Application_Green_Quake.Images.Achievements.Shopping.bulkBronze.png");
             }
-            else if (ledLightBulbCount >= 15 && ledLightBulbCount < 25)
+            else if (foodCount >= 15 && foodCount < 25)
             {
-                a29.Source = ImageSource.FromResource("Application_Green_Quake.Images.Achievements.Shopping.bulkSilver.png");
+                a28.Source = ImageSource.FromResource("Application_Green_Quake.Images.Achievements.Shopping.bulkSilver.png");
             }
-            else if (ledLightBulbCount >= 25)
+            else if (foodCount >= 25)
             {
-                a29.Source = ImageSource.FromResource("Application_Green_Quake.Images.Achievements.Shopping.bulkGold.png");
+                a28.Source = ImageSource.FromResource("Application_Green_Quake.Images.Achievements.Shopping.bulkGold.png");
             }
 
             if (clothesCount >= 5 && clothesCount < 15)
             {
-                a30.Source = ImageSource.FromResource("Application_Green_Quake.Images.Achievements.Shopping.ethicalBronze.png");
+                a29.Source = ImageSource.FromResource("Application_Green_Quake.Images.Achievements.Shopping.ethicalBronze.png");
             }
             else if (clothesCount >= 15 && clothesCount < 25)
             {
-                a30.Source = ImageSource.FromResource("Application_Green_Quake.Images.Achievements.Shopping.ethicalSilver.png");
+                a29.Source = ImageSource.FromResource("Application_Green_Quake.Images.Achievements.Shopping.ethicalSilver.png");
             }
             else if (clothesCount >= 25)
             {
-                a30.Source = ImageSource.FromResource("Application_Green_Quake.Images.Achievements.Shopping.ethicalGold.png");
+                a29.Source = ImageSource.FromResource("Application_Green_Quake.Images.Achievements.Shopping.ethicalGold.png");
             }
 
             if (localCount >= 5 && localCount < 15)
             {
-                a31.Source = ImageSource.FromResource("Application_Green_Quake.Images.Achievements.Shopping.localBronze.png");
+                a30.Source = ImageSource.FromResource("Application_Green_Quake.Images.Achievements.Shopping.localBronze.png");
             }
             else if (localCount >= 15 && localCount < 25)
             {
-                a31.Source = ImageSource.FromResource("Application_Green_Quake.Images.Achievements.Shopping.localSilver.png");
+                a30.Source = ImageSource.FromResource("Application_Green_Quake.Images.Achievements.Shopping.localSilver.png");
             }
             else if (localCount >= 25)
             {
-                a31.Source = ImageSource.FromResource("Application_Green_Quake.Images.Achievements.Shopping.localGold.png");
+                a30.Source = ImageSource.FromResource("Application_Green_Quake.Images.Achievements.Shopping.localGold.png");
             }
 
             if (clothNapkinCount >= 5 && clothNapkinCount < 15)
             {
-                a32.Source = ImageSource.FromResource("Application_Green_Quake.Images.Achievements.Shopping.napkinBronze.png");
+                a31.Source = ImageSource.FromResource("Application_Green_Quake.Images.Achievements.Shopping.napkinBronze.png");
             }
             else if (clothNapkinCount >= 15 && clothNapkinCount < 25)
             {
-                a32.Source = ImageSource.FromResource("Application_Green_Quake.Images.Achievements.Shopping.napkinSilver.png");
+                a31.Source = ImageSource.FromResource("Application_Green_Quake.Images.Achievements.Shopping.napkinSilver.png");
             }
             else if (clothNapkinCount >= 25)
             {
-                a32.Source = ImageSource.FromResource("Application_Green_Quake.Images.Achievements.Shopping.napkinGold.png");
+                a31.Source = ImageSource.FromResource("Application_Green_Quake.Images.Achievements.Shopping.napkinGold.png");
             }
 
             if (productCount >= 5 && productCount < 15)
             {
-                a33.Source = ImageSource.FromResource("Application_Green_Quake.Images.Achievements.Shopping.productBronze.png");
+                a32.Source = ImageSource.FromResource("Application_Green_Quake.Images.Achievements.Shopping.productBronze.png");
             }
             else if (productCount >= 15 && productCount < 25)
             {
-                a33.Source = ImageSource.FromResource("Application_Green_Quake.Images.Achievements.Shopping.productSilver.png");
+                a32.Source = ImageSource.FromResource("Application_Green_Quake.Images.Achievements.Shopping.productSilver.png");
             }
             else if (productCount >= 25)
             {
-                a33.Source = ImageSource.FromResource("Application_Green_Quake.Images.Achievements.Shopping.productGold.png");
+                a32.Source = ImageSource.FromResource("Application_Green_Quake.Images.Achievements.Shopping.productGold.png");
             }
 
             if (reBagCount >= 5 && reBagCount < 15)
             {
-                a34.Source = ImageSource.FromResource("Application_Green_Quake.Images.Achievements.Shopping.reBagBronze.png");
+                a33.Source = ImageSource.FromResource("Application_Green_Quake.Images.Achievements.Shopping.reBagBronze.png");
             }
             else if (reBagCount >= 15 && reBagCount < 25)
             {
-                a34.Source = ImageSource.FromResource("Application_Green_Quake.Images.Achievements.Shopping.reBagSilver.png");
+                a33.Source = ImageSource.FromResource("Application_Green_Quake.Images.Achievements.Shopping.reBagSilver.png");
             }
             else if (reBagCount >= 25)
             {
-                a34.Source = ImageSource.FromResource("Application_Green_Quake.Images.Achievements.Shopping.reBagGold.png");
+                a33.Source = ImageSource.FromResource("Application_Green_Quake.Images.Achievements.Shopping.reBagGold.png");
             }
 
             if (looseLeafCount >= 5 && looseLeafCount < 15)
             {
-                a35.Source = ImageSource.FromResource("Application_Green_Quake.Images.Achievements.Shopping.teaBronze.png");
+                a34.Source = ImageSource.FromResource("Application_Green_Quake.Images.Achievements.Shopping.teaBronze.png");
             }
             else if (looseLeafCount >= 15 && looseLeafCount < 25)
             {
-                a35.Source = ImageSource.FromResource("Application_Green_Quake.Images.Achievements.Shopping.teaSilver.png");
+                a34.Source = ImageSource.FromResource("Application_Green_Quake.Images.Achievements.Shopping.teaSilver.png");
             }
             else if (looseLeafCount >= 25)
             {
-                a35.Source = ImageSource.FromResource("Application_Green_Quake.Images.Achievements.Shopping.teaGold.png");
+                a34.Source = ImageSource.FromResource("Application_Green_Quake.Images.Achievements.Shopping.teaGold.png");
             }
 
             if (toothbrushCount >= 5 && toothbrushCount < 15)
             {
-                a36.Source = ImageSource.FromResource("Application_Green_Quake.Images.Achievements.Shopping.toothbrushBronze.png");
+                a35.Source = ImageSource.FromResource("Application_Green_Quake.Images.Achievements.Shopping.toothbrushBronze.png");
             }
             else if (toothbrushCount >= 15 && toothbrushCount < 25)
             {
-                a36.Source = ImageSource.FromResource("Application_Green_Quake.Images.Achievements.Shopping.toothbrushSilver.png");
+                a35.Source = ImageSource.FromResource("Application_Green_Quake.Images.Achievements.Shopping.toothbrushSilver.png");
             }
             else if (toothbrushCount >= 25)
             {
-                a36.Source = ImageSource.FromResource("Application_Green_Quake.Images.Achievements.Shopping.toothbrushGold.png");
+                a35.Source = ImageSource.FromResource("Application_Green_Quake.Images.Achievements.Shopping.toothbrushGold.png");
             }
 
             if (clothTowelCount >= 5 && clothTowelCount < 15)
             {
-                a37.Source = ImageSource.FromResource("Application_Green_Quake.Images.Achievements.Shopping.towelBronze.png");
+                a36.Source = ImageSource.FromResource("Application_Green_Quake.Images.Achievements.Shopping.towelBronze.png");
             }
             else if (clothTowelCount >= 15 && clothTowelCount < 25)
             {
-                a37.Source = ImageSource.FromResource("Application_Green_Quake.Images.Achievements.Shopping.towelSilver.png");
+                a36.Source = ImageSource.FromResource("Application_Green_Quake.Images.Achievements.Shopping.towelSilver.png");
             }
             else if (clothTowelCount >= 25)
             {
-                a37.Source = ImageSource.FromResource("Application_Green_Quake.Images.Achievements.Shopping.towelGold.png");
+                a36.Source = ImageSource.FromResource("Application_Green_Quake.Images.Achievements.Shopping.towelGold.png");
             }
 
             if (reWaterCount >= 5 && reWaterCount < 15)
             {
-                a38.Source = ImageSource.FromResource("Application_Green_Quake.Images.Achievements.Water.bottleBronze.png");
+                a37.Source = ImageSource.FromResource("Application_Green_Quake.Images.Achievements.Water.bottleBronze.png");
             }
             else if (reWaterCount >= 15 && reWaterCount < 25)
             {
-                a38.Source = ImageSource.FromResource("Application_Green_Quake.Images.Achievements.Water.bottleSilver.png");
+                a37.Source = ImageSource.FromResource("Application_Green_Quake.Images.Achievements.Water.bottleSilver.png");
             }
             else if (reWaterCount >= 25)
             {
-                a38.Source = ImageSource.FromResource("Application_Green_Quake.Images.Achievements.Water.bottleGold.png");
+                a37.Source = ImageSource.FromResource("Application_Green_Quake.Images.Achievements.Water.bottleGold.png");
             }
 
             if (showerBucketCount >= 5 && showerBucketCount < 15)
             {
-                a39.Source = ImageSource.FromResource("Application_Green_Quake.Images.Achievements.Water.bucketBronze.png");
+                a38.Source = ImageSource.FromResource("Application_Green_Quake.Images.Achievements.Water.bucketBronze.png");
             }
             else if (showerBucketCount >= 15 && showerBucketCount < 25)
             {
-                a39.Source = ImageSource.FromResource("Application_Green_Quake.Images.Achievements.Water.bucketSilver.png");
+                a38.Source = ImageSource.FromResource("Application_Green_Quake.Images.Achievements.Water.bucketSilver.png");
             }
             else if (showerBucketCount >= 25)
             {
-                a39.Source = ImageSource.FromResource("Application_Green_Quake.Images.Achievements.Water.bucketGold.png");
+                a38.Source = ImageSource.FromResource("Application_Green_Quake.Images.Achievements.Water.bucketGold.png");
             }
 
             if (airOutCount >= 5 && airOutCount < 15)
             {
-                a40.Source = ImageSource.FromResource("Application_Green_Quake.Images.Achievements.Home.airBronze.png");
+                a39.Source = ImageSource.FromResource("Application_Green_Quake.Images.Achievements.Home.airBronze.png");
             }
             else if (airOutCount >= 15 && airOutCount < 25)
             {
-                a40.Source = ImageSource.FromResource("Application_Green_Quake.Images.Achievements.Home.airSilver.png");
+                a39.Source = ImageSource.FromResource("Application_Green_Quake.Images.Achievements.Home.airSilver.png");
             }
             else if (airOutCount >= 25)
             {
-                a40.Source = ImageSource.FromResource("Application_Green_Quake.Images.Achievements.Home.airGold.png");
+                a39.Source = ImageSource.FromResource("Application_Green_Quake.Images.Achievements.Home.airGold.png");
             }
 
             if (toiletFlushCount >= 5 && toiletFlushCount < 15)
             {
-                a41.Source = ImageSource.FromResource("Application_Green_Quake.Images.Achievements.Home.flushBronze.png");
+                a40.Source = ImageSource.FromResource("Application_Green_Quake.Images.Achievements.Home.flushBronze.png");
             }
             else if (toiletFlushCount >= 15 && toiletFlushCount < 25)
             {
-                a41.Source = ImageSource.FromResource("Application_Green_Quake.Images.Achievements.Home.flushSilver.png");
+                a40.Source = ImageSource.FromResource("Application_Green_Quake.Images.Achievements.Home.flushSilver.png");
             }
             else if (toiletFlushCount >= 25)
             {
-                a41.Source = ImageSource.FromResource("Application_Green_Quake.Images.Achievements.Home.flushGold.png");
+                a40.Source = ImageSource.FromResource("Application_Green_Quake.Images.Achievements.Home.flushGold.png");
             }
 
             if (nonHarmCount >= 5 && nonHarmCount < 15)
             {
-                a42.Source = ImageSource.FromResource("Application_Green_Quake.Images.Achievements.Home.nonHarmfulBronze.png");
+                a41.Source = ImageSource.FromResource("Application_Green_Quake.Images.Achievements.Home.nonHarmfulBronze.png");
             }
             else if (nonHarmCount >= 15 && nonHarmCount < 25)
             {
-                a42.Source = ImageSource.FromResource("Application_Green_Quake.Images.Achievements.Home.nonHarmfulSilver.png");
+                a41.Source = ImageSource.FromResource("Application_Green_Quake.Images.Achievements.Home.nonHarmfulSilver.png");
             }
             else if (nonHarmCount >= 25)
             {
-                a42.Source = ImageSource.FromResource("Application_Green_Quake.Images.Achievements.Home.nonHarmfulGold.png");
+                a41.Source = ImageSource.FromResource("Application_Green_Quake.Images.Achievements.Home.nonHarmfulGold.png");
             }
 
             if (outsideCount >= 5 && outsideCount < 15)
             {
-                a43.Source = ImageSource.FromResource("Application_Green_Quake.Images.Achievements.Home.outsideBronze.png");
+                a42.Source = ImageSource.FromResource("Application_Green_Quake.Images.Achievements.Home.outsideBronze.png");
             }
             else if (outsideCount >= 15 && outsideCount < 25)
             {
-                a43.Source = ImageSource.FromResource("Application_Green_Quake.Images.Achievements.Home.outsideSilver.png");
+                a42.Source = ImageSource.FromResource("Application_Green_Quake.Images.Achievements.Home.outsideSilver.png");
             }
             else if (outsideCount >= 25)
             {
-                a43.Source = ImageSource.FromResource("Application_Green_Quake.Images.Achievements.Home.outsideGold.png");
+                a42.Source = ImageSource.FromResource("Application_Green_Quake.Images.Achievements.Home.outsideGold.png");
             }
 
             if (plantIntoHomeCount >= 5 && plantIntoHomeCount < 15)
             {
-                a44.Source = ImageSource.FromResource("Application_Green_Quake.Images.Achievements.Home.plantBronze.png");
+                a43.Source = ImageSource.FromResource("Application_Green_Quake.Images.Achievements.Home.plantBronze.png");
             }
             else if (plantIntoHomeCount >= 15 && plantIntoHomeCount < 25)
             {
-                a44.Source = ImageSource.FromResource("Application_Green_Quake.Images.Achievements.Home.plantSilver.png");
+                a43.Source = ImageSource.FromResource("Application_Green_Quake.Images.Achievements.Home.plantSilver.png");
             }
             else if (plantIntoHomeCount >= 25)
             {
-                a44.Source = ImageSource.FromResource("Application_Green_Quake.Images.Achievements.Home.plantGold.png");
+                a43.Source = ImageSource.FromResource("Application_Green_Quake.Images.Achievements.Home.plantGold.png");
             }
 
             if (plantBushCount >= 5 && plantBushCount < 15)
             {
-                a45.Source = ImageSource.FromResource("Application_Green_Quake.Images.Achievements.Outdoors.bushBronze.png");
+                a44.Source = ImageSource.FromResource("Application_Green_Quake.Images.Achievements.Outdoors.bushBronze.png");
             }
             else if (plantBushCount >= 15 && plantBushCount < 25)
             {
-                a45.Source = ImageSource.FromResource("Application_Green_Quake.Images.Achievements.Outdoors.bushSilver.png");
+                a44.Source = ImageSource.FromResource("Application_Green_Quake.Images.Achievements.Outdoors.bushSilver.png");
             }
             else if (plantBushCount >= 25)
             {
-                a45.Source = ImageSource.FromResource("Application_Green_Quake.Images.Achievements.Outdoors.bushGold.png");
+                a44.Source = ImageSource.FromResource("Application_Green_Quake.Images.Achievements.Outdoors.bushGold.png");
             }
 
             if (campingCount >= 5 && campingCount < 15)
             {
-                a46.Source = ImageSource.FromResource("Application_Green_Quake.Images.Achievements.Outdoors.campingBronze.png");
+                a45.Source = ImageSource.FromResource("Application_Green_Quake.Images.Achievements.Outdoors.campingBronze.png");
             }
             else if (campingCount >= 15 && campingCount < 25)
             {
-                a46.Source = ImageSource.FromResource("Application_Green_Quake.Images.Achievements.Outdoors.campingSilver.png");
+                a45.Source = ImageSource.FromResource("Application_Green_Quake.Images.Achievements.Outdoors.campingSilver.png");
             }
             else if (campingCount >= 25)
             {
-                a46.Source = ImageSource.FromResource("Application_Green_Quake.Images.Achievements.Outdoors.campingGold.png");
+                a45.Source = ImageSource.FromResource("Application_Green_Quake.Images.Achievements.Outdoors.campingGold.png");
             }
 
             if (plantFlowerCount >= 5 && plantFlowerCount < 15)
             {
-                a47.Source = ImageSource.FromResource("Application_Green_Quake.Images.Achievements.Outdoors.flowerBronze.png");
+                a46.Source = ImageSource.FromResource("Application_Green_Quake.Images.Achievements.Outdoors.flowerBronze.png");
             }
             else if (plantFlowerCount >= 15 && plantFlowerCount < 25)
             {
-                a47.Source = ImageSource.FromResource("Application_Green_Quake.Images.Achievements.Outdoors.flowerSilver.png");
+                a46.Source = ImageSource.FromResource("Application_Green_Quake.Images.Achievements.Outdoors.flowerSilver.png");
             }
             else if (plantFlowerCount >= 25)
             {
-                a47.Source = ImageSource.FromResource("Application_Green_Quake.Images.Achievements.Outdoors.flowerGold.png");
+                a46.Source = ImageSource.FromResource("Application_Green_Quake.Images.Achievements.Outdoors.flowerGold.png");
             }
 
             if (picnicCount >= 5 && picnicCount < 15)
             {
-                a48.Source = ImageSource.FromResource("Application_Green_Quake.Images.Achievements.Outdoors.picnicBronze.png");
+                a47.Source = ImageSource.FromResource("Application_Green_Quake.Images.Achievements.Outdoors.picnicBronze.png");
             }
             else if (picnicCount >= 15 && picnicCount < 25)
             {
-                a48.Source = ImageSource.FromResource("Application_Green_Quake.Images.Achievements.Outdoors.picnicSilver.png");
+                a47.Source = ImageSource.FromResource("Application_Green_Quake.Images.Achievements.Outdoors.picnicSilver.png");
             }
             else if (picnicCount >= 25)
             {
-                a48.Source = ImageSource.FromResource("Application_Green_Quake.Images.Achievements.Outdoors.picnicGold.png");
+                a47.Source = ImageSource.FromResource("Application_Green_Quake.Images.Achievements.Outdoors.picnicGold.png");
             }
 
             if (scoopCount >= 5 && scoopCount < 15)
             {
-                a49.Source = ImageSource.FromResource("Application_Green_Quake.Images.Achievements.Outdoors.scoopBronze.png");
+                a48.Source = ImageSource.FromResource("Application_Green_Quake.Images.Achievements.Outdoors.scoopBronze.png");
             }
             else if (scoopCount >= 15 && scoopCount < 25)
             {
-                a49.Source = ImageSource.FromResource("Application_Green_Quake.Images.Achievements.Outdoors.scoopSilver.png");
+                a48.Source = ImageSource.FromResource("Application_Green_Quake.Images.Achievements.Outdoors.scoopSilver.png");
             }
             else if (scoopCount >= 25)
             {
-                a49.Source = ImageSource.FromResource("Application_Green_Quake.Images.Achievements.Outdoors.scoopGold.png");
+                a48.Source = ImageSource.FromResource("Application_Green_Quake.Images.Achievements.Outdoors.scoopGold.png");
             }
 
             if (plantTreeCount >= 5 && plantTreeCount < 15)
             {
-                a50.Source = ImageSource.FromResource("Application_Green_Quake.Images.Achievements.Outdoors.treeBronze.png");
+                a49.Source = ImageSource.FromResource("Application_Green_Quake.Images.Achievements.Outdoors.treeBronze.png");
             }
             else if (plantTreeCount >= 15 && plantTreeCount < 25)
             {
-                a50.Source = ImageSource.FromResource("Application_Green_Quake.Images.Achievements.Outdoors.treeSilver.png");
+                a49.Source = ImageSource.FromResource("Application_Green_Quake.Images.Achievements.Outdoors.treeSilver.png");
             }
             else if (plantTreeCount >= 25)
             {
-                a50.Source = ImageSource.FromResource("Application_Green_Quake.Images.Achievements.Outdoors.treeGold.png");
+                a49.Source = ImageSource.FromResource("Application_Green_Quake.Images.Achievements.Outdoors.treeGold.png");
             }
 
             if (communityCount >= 5 && communityCount < 15)
             {
-                a51.Source = ImageSource.FromResource("Application_Green_Quake.Images.Achievements.Community.communityBronze.png");
+                a50.Source = ImageSource.FromResource("Application_Green_Quake.Images.Achievements.Community.communityBronze.png");
             }
             else if (communityCount >= 15 && communityCount < 25)
             {
-                a51.Source = ImageSource.FromResource("Application_Green_Quake.Images.Achievements.Community.communitySilver.png");
+                a50.Source = ImageSource.FromResource("Application_Green_Quake.Images.Achievements.Community.communitySilver.png");
             }
             else if (communityCount >= 25)
             {
-                a51.Source = ImageSource.FromResource("Application_Green_Quake.Images.Achievements.Community.communityGold.png");
+                a50.Source = ImageSource.FromResource("Application_Green_Quake.Images.Achievements.Community.communityGold.png");
             }
 
             if (donateCount >= 5 && donateCount < 15)
             {
-                a52.Source = ImageSource.FromResource("Application_Green_Quake.Images.Achievements.Community.donateBronze.png");
+                a51.Source = ImageSource.FromResource("Application_Green_Quake.Images.Achievements.Community.donateBronze.png");
             }
             else if (donateCount >= 15 && donateCount < 25)
             {
-                a52.Source = ImageSource.FromResource("Application_Green_Quake.Images.Achievements.Community.donateSilver.png");
+                a51.Source = ImageSource.FromResource("Application_Green_Quake.Images.Achievements.Community.donateSilver.png");
             }
             else if (donateCount >= 25)
             {
-                a52.Source = ImageSource.FromResource("Application_Green_Quake.Images.Achievements.Community.donateGold.png");
+                a51.Source = ImageSource.FromResource("Application_Green_Quake.Images.Achievements.Community.donateGold.png");
             }
 
             if (bioBinBagsCount >= 5 && bioBinBagsCount < 15)
             {
-                a53.Source = ImageSource.FromResource("Application_Green_Quake.Images.Achievements.Waste.bagsBronze.png");
+                a52.Source = ImageSource.FromResource("Application_Green_Quake.Images.Achievements.Waste.bagsBronze.png");
             }
             else if (bioBinBagsCount >= 15 && bioBinBagsCount < 25)
             {
-                a53.Source = ImageSource.FromResource("Application_Green_Quake.Images.Achievements.Waste.bagsSilver.png");
+                a52.Source = ImageSource.FromResource("Application_Green_Quake.Images.Achievements.Waste.bagsSilver.png");
             }
             else if (bioBinBagsCount >= 25)
             {
-                a53.Source = ImageSource.FromResource("Application_Green_Quake.Images.Achievements.Waste.bagsGold.png");
+                a52.Source = ImageSource.FromResource("Application_Green_Quake.Images.Achievements.Waste.bagsGold.png");
             }
 
             if (billsCount >= 5 && billsCount < 15)
             {
-                a54.Source = ImageSource.FromResource("Application_Green_Quake.Images.Achievements.Waste.billsBronze.png");
+                a53.Source = ImageSource.FromResource("Application_Green_Quake.Images.Achievements.Waste.billsBronze.png");
             }
             else if (billsCount >= 15 && billsCount < 25)
             {
-                a54.Source = ImageSource.FromResource("Application_Green_Quake.Images.Achievements.Waste.billsSilver.png");
+                a53.Source = ImageSource.FromResource("Application_Green_Quake.Images.Achievements.Waste.billsSilver.png");
             }
             else if (billsCount >= 25)
             {
-                a54.Source = ImageSource.FromResource("Application_Green_Quake.Images.Achievements.Waste.billsGold.png");
+                a53.Source = ImageSource.FromResource("Application_Green_Quake.Images.Achievements.Waste.billsGold.png");
             }
 
             if (recyclingBinCount >= 5 && recyclingBinCount < 15)
             {
-                a55.Source = ImageSource.FromResource("Application_Green_Quake.Images.Achievements.Waste.binBronze.png");
+                a54.Source = ImageSource.FromResource("Application_Green_Quake.Images.Achievements.Waste.binBronze.png");
             }
             else if (recyclingBinCount >= 15 && recyclingBinCount < 25)
             {
-                a55.Source = ImageSource.FromResource("Application_Green_Quake.Images.Achievements.Waste.binSilver.png");
+                a54.Source = ImageSource.FromResource("Application_Green_Quake.Images.Achievements.Waste.binSilver.png");
             }
             else if (recyclingBinCount >= 25)
             {
-                a55.Source = ImageSource.FromResource("Application_Green_Quake.Images.Achievements.Waste.binGold.png");
+                a54.Source = ImageSource.FromResource("Application_Green_Quake.Images.Achievements.Waste.binGold.png");
             }
 
             if (compostCount >= 5 && compostCount < 15)
             {
-                a56.Source = ImageSource.FromResource("Application_Green_Quake.Images.Achievements.Waste.compostBronze.png");
+                a55.Source = ImageSource.FromResource("Application_Green_Quake.Images.Achievements.Waste.compostBronze.png");
             }
             else if (compostCount >= 15 && compostCount < 25)
             {
-                a56.Source = ImageSource.FromResource("Application_Green_Quake.Images.Achievements.Waste.compostSilver.png");
+                a55.Source = ImageSource.FromResource("Application_Green_Quake.Images.Achievements.Waste.compostSilver.png");
             }
             else if (compostCount >= 25)
             {
-                a56.Source = ImageSource.FromResource("Application_Green_Quake.Images.Achievements.Waste.compostGold.png");
+                a55.Source = ImageSource.FromResource("Application_Green_Quake.Images.Achievements.Waste.compostGold.png");
             }
 
             if (offElectronicsCount >= 5 && offElectronicsCount < 15)
             {
-                a57.Source = ImageSource.FromResource("Application_Green_Quake.Images.Achievements.Work.offBronze.png");
+                a56.Source = ImageSource.FromResource("Application_Green_Quake.Images.Achievements.Work.offBronze.png");
             }
             else if (offElectronicsCount >= 15 && offElectronicsCount < 25)
             {
-                a57.Source = ImageSource.FromResource("Application_Green_Quake.Images.Achievements.Work.offSilver.png");
+                a56.Source = ImageSource.FromResource("Application_Green_Quake.Images.Achievements.Work.offSilver.png");
             }
             else if (offElectronicsCount >= 25)
             {
-                a57.Source = ImageSource.FromResource("Application_Green_Quake.Images.Achievements.Work.offGold.png");
+                a56.Source = ImageSource.FromResource("Application_Green_Quake.Images.Achievements.Work.offGold.png");
             }
 
             if (paperCount >= 5 && paperCount < 15)
             {
-                a58.Source = ImageSource.FromResource("Application_Green_Quake.Images.Achievements.Work.paperBronze.png");
+                a57.Source = ImageSource.FromResource("Application_Green_Quake.Images.Achievements.Work.paperBronze.png");
             }
             else if (paperCount >= 15 && paperCount < 25)
             {
-                a58.Source = ImageSource.FromResource("Application_Green_Quake.Images.Achievements.Work.paperSilver.png");
+                a57.Source = ImageSource.FromResource("Application_Green_Quake.Images.Achievements.Work.paperSilver.png");
             }
             else if (paperCount >= 25)
             {
-                a58.Source = ImageSource.FromResource("Application_Green_Quake.Images.Achievements.Work.paperGold.png");
+                a57.Source = ImageSource.FromResource("Application_Green_Quake.Images.Achievements.Work.paperGold.png");
             }
 
             if (fixCount >= 5 && fixCount < 15)
             {
-                a59.Source = ImageSource.FromResource("Application_Green_Quake.Images.Achievements.Advanced.fixBronze.png");
+                a58.Source = ImageSource.FromResource("Application_Green_Quake.Images.Achievements.Advanced.fixBronze.png");
             }
             else if (fixCount >= 15 && fixCount < 25)
             {
-                a59.Source = ImageSource.FromResource("Application_Green_Quake.Images.Achievements.Advanced.fixSilver.png");
+                a58.Source = ImageSource.FromResource("Application_Green_Quake.Images.Achievements.Advanced.fixSilver.png");
             }
             else if (fixCount >= 25)
             {
-                a59.Source = ImageSource.FromResource("Application_Green_Quake.Images.Achievements.Advanced.fixGold.png");
+                a58.Source = ImageSource.FromResource("Application_Green_Quake.Images.Achievements.Advanced.fixGold.png");
             }
 
             if (efficientThermostatCount >= 1)
             {
-                a60.Source = ImageSource.FromResource("Application_Green_Quake.Images.Achievements.OnceOff.Energy.thermostat.png");
+                a59.Source = ImageSource.FromResource("Application_Green_Quake.Images.Achievements.OnceOff.Energy.thermostat.png");
             }
 
             if (insulateWaterCount >= 1)
             {
-                a61.Source = ImageSource.FromResource("Application_Green_Quake.Images.Achievements.OnceOff.Energy.waterTank.png");
+                a60.Source = ImageSource.FromResource("Application_Green_Quake.Images.Achievements.OnceOff.Energy.waterTank.png");
             }
 
             if (isolateHomeCount >= 1)
             {
-                a62.Source = ImageSource.FromResource("Application_Green_Quake.Images.Achievements.OnceOff.Energy.isolateHome.png");
+                a61.Source = ImageSource.FromResource("Application_Green_Quake.Images.Achievements.OnceOff.Energy.isolateHome.png");
             }
 
             if (ledLightBulbCount >= 1)
             {
-                a63.Source = ImageSource.FromResource("Application_Green_Quake.Images.Achievements.OnceOff.Energy.ledBulb.png");
+                a62.Source = ImageSource.FromResource("Application_Green_Quake.Images.Achievements.OnceOff.Energy.ledBulb.png");
             }
 
             if (fridgeCount >= 1)
             {
-                a64.Source = ImageSource.FromResource("Application_Green_Quake.Images.Achievements.OnceOff.Energy.turnDownFridge.png");
+                a63.Source = ImageSource.FromResource("Application_Green_Quake.Images.Achievements.OnceOff.Energy.turnDownFridge.png");
             }
 
             if (draftSealCount >= 1)
             {
-                a65.Source = ImageSource.FromResource("Application_Green_Quake.Images.Achievements.OnceOff.Energy.sealDraft.png");
+                a64.Source = ImageSource.FromResource("Application_Green_Quake.Images.Achievements.OnceOff.Energy.sealDraft.png");
             }
 
             if (ductSealCount >= 1)
             {
-                a65.Source = ImageSource.FromResource("Application_Green_Quake.Images.Achievements.OnceOff.Energy.sealDucts.png");
-            }
-
-            if (ductSealCount >= 1)
-            {
-                a65.Source = ImageSource.FromResource("Application_Green_Quake.Images.Achievements.OnceOff.Energy.sealDucts.png");
+                a65.Source = ImageSource.FromResource("Application_Green_Quake.Images.Achievements.OnceOff.Energy.sealDuct.png");
             }
 
             if (solarPanelCount >= 1)
@@ -1903,13 +1850,15 @@ namespace Application_Green_Quake.Views.ProfilePage
 
             if (setUpRecyclingBinCount >= 1)
             {
-                a80.Source = ImageSource.FromResource("Application_Green_Quake.Images.Achievements.OnceOff.Community.bins.png");
+                a80.Source = ImageSource.FromResource("Application_Green_Quake.Images.Achievements.OnceOff.Waste.bins.png");
             }
 
             if (remoteWorkCount >= 1)
             {
-                a81.Source = ImageSource.FromResource("Application_Green_Quake.Images.Achievements.OnceOff.Community.remote.png");
+                a81.Source = ImageSource.FromResource("Application_Green_Quake.Images.Achievements.OnceOff.Work.remote.png");
             }
+
+
         }
 
 

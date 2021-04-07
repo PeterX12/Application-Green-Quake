@@ -39,6 +39,12 @@ namespace Application_Green_Quake.Views.EcoActions.EcoActionsSubMenu
 
         }
 
+        private async void NavigateToPlantSaveFlush(object sender, EventArgs e)
+        {
+            await Navigation.PushAsync(new ToiletFlushes());
+
+        }
+
         private async void NavigateToClothNapkins(object sender, EventArgs e)
         {
             await Navigation.PushAsync(new ClothNapkins());

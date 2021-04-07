@@ -1,4 +1,7 @@
-﻿using Application_Green_Quake.ViewModels;
+﻿using Application_Green_Quake.Models;
+using Application_Green_Quake.ViewModels;
+using Firebase.Database;
+using Firebase.Database.Query;
 using Firebase.Storage;
 using Rg.Plugins.Popup.Services;
 using System;
@@ -22,11 +25,6 @@ namespace Application_Green_Quake.Views.ProfilePage
 
         protected async override void OnAppearing()
         {
-            GetData username = new GetData();
-            Task<string> myTask = username.GetUsername();
-            await myTask;
-            Username.Text = myTask.Result;
-
             try
             {
                 ProfilePic.Source = await new FirebaseStorage("application-green-quake.appspot.com")
@@ -38,7 +36,28 @@ namespace Application_Green_Quake.Views.ProfilePage
             {
 
             }
-            
+            try
+            {
+                GetData username = new GetData();
+                Task<string> myTask = username.GetUsername();
+                await myTask;
+                Username.Text = myTask.Result;
+            }
+            catch (Exception e)
+            {
+
+            }
+            try
+            {
+                GetData bio = new GetData();
+                Task<string> myTask2 = bio.GetBio();
+                await myTask2;
+                Bio.Text = myTask2.Result;
+            }
+            catch (Exception e)
+            {
+
+            }
         }
 
         private async void ImageClicked(object sender, EventArgs e)
@@ -60,5 +79,20 @@ namespace Application_Green_Quake.Views.ProfilePage
         {
             await Navigation.PushAsync(new TrophyCase(2));
         }
+
+        private async void SaveText(object sender, EventArgs e)
+        {
+            FirebaseClient firebaseClient = new FirebaseClient("https://application-green-quake-default-rtdb.firebaseio.com/");
+
+            string bioInput = Bio.Text;
+            string username = Username.Text;
+
+            await firebaseClient
+                    .Child("users")
+                    .Child(auth.GetUid())
+                    .PutAsync(new Users() {username = username ,bio = bioInput });
+        }
+
+
     }
 }

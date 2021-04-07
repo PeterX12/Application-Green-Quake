@@ -12,11 +12,11 @@
                     </Image.GestureRecognizers>
                 </Image>
                 
-                <StackLayout HeightRequest="100" VerticalOptions="Start" HorizontalOptions="FillAndExpand" Spacing="20" BackgroundColor="White">
+                <StackLayout HeightRequest="100" VerticalOptions="Start" HorizontalOptions="FillAndExpand" Spacing="10" BackgroundColor="White">
                     <Label x:Name="Username" FontSize="28" HorizontalOptions="Center" VerticalOptions="Center" FontAttributes="Bold" />
-                    <Entry Text="Bio" TextColor="Black" BackgroundColor="White" HorizontalOptions="FillAndExpand" VerticalOptions="CenterAndExpand" />
+                    <Editor x:Name="Bio" Text="Bio" Completed="SaveText" TextColor="Black" BackgroundColor="White" HorizontalOptions="FillAndExpand" VerticalOptions="CenterAndExpand"/>
                 </StackLayout>
-                
+
                 <StackLayout Orientation="Horizontal" HeightRequest="50" BackgroundColor="White" Padding="5">
                     <StackLayout Spacing="0" BackgroundColor="White" Orientation="Horizontal" HorizontalOptions="Start">
                         <Image Source="{local:ImageResource Application_Green_Quake.Images.TrophyCase.png}" WidthRequest="40" HeightRequest="40"  HorizontalOptions="StartAndExpand" VerticalOptions="Center" Aspect="AspectFill">
@@ -24,25 +24,41 @@
                                 <TapGestureRecognizer Tapped="NavigateToTrophyCase"/>
                             </Image.GestureRecognizers>
                         </Image>
-                        <Label FontSize="14" TextColor="Black" Text="Trophy Case" HorizontalOptions="StartAndExpand" VerticalOptions="Center" />
+                        <Label FontSize="14" TextColor="Black" Text="Trophy Case" HorizontalOptions="StartAndExpand" VerticalOptions="Center">
+                            <Label.GestureRecognizers>
+                                <TapGestureRecognizer Tapped="NavigateToTrophyCase"/>
+                            </Label.GestureRecognizers>
+                        </Label>
                     </StackLayout>
-                    
+
                     <StackLayout Spacing="0" BackgroundColor="White" Orientation="Horizontal" HorizontalOptions="EndAndExpand">
                         <Image Source="{local:ImageResource Application_Green_Quake.Images.Achievements.png}" WidthRequest="40" HeightRequest="40"  HorizontalOptions="StartAndExpand" VerticalOptions="Center" Aspect="AspectFill">
                             <Image.GestureRecognizers>
                                 <TapGestureRecognizer Tapped="NavigateToAchievements"/>
                             </Image.GestureRecognizers>
                         </Image>
-                        <Label FontSize="14" TextColor="Black" Text="Achievements" HorizontalOptions="StartAndExpand" VerticalOptions="Center" />
+                        <Label FontSize="14" TextColor="Black" Text="Achievements" HorizontalOptions="StartAndExpand" VerticalOptions="Center">
+                            <Label.GestureRecognizers>
+                                <TapGestureRecognizer Tapped="NavigateToAchievements"/>
+                            </Label.GestureRecognizers>
+                        </Label>
                     </StackLayout>
+
                     <StackLayout Spacing="0" BackgroundColor="White" Orientation="Horizontal" HorizontalOptions="EndAndExpand">
                         <Image Source="{local:ImageResource Application_Green_Quake.Images.Badges.png}" WidthRequest="40" HeightRequest="40"  HorizontalOptions="StartAndExpand" VerticalOptions="Center" Aspect="AspectFill">
                             <Image.GestureRecognizers>
                                 <TapGestureRecognizer Tapped="NavigateToBadges"/>
                             </Image.GestureRecognizers>
                         </Image>
-                        <Label FontSize="14" TextColor="Black" Text="Badges" HorizontalOptions="StartAndExpand" VerticalOptions="Center" />
+                        <Label FontSize="14" TextColor="Black" Text="Badges" HorizontalOptions="StartAndExpand" VerticalOptions="Center" >
+                            <Label.GestureRecognizers>
+                                <TapGestureRecognizer Tapped="NavigateToBadges"/>
+                            </Label.GestureRecognizers>
+                        </Label>
                     </StackLayout>
+                </StackLayout>
+                <StackLayout>
+                    
                 </StackLayout>
             </StackLayout>
         </ScrollView>

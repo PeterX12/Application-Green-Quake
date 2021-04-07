@@ -9,6 +9,7 @@ namespace Application_Green_Quake.ViewModels
     class GetData
     {
         public string username = "";
+        public string bio = "";
         IAuth auth;
         
         public async Task<string> GetUsername()
@@ -23,6 +24,21 @@ namespace Application_Green_Quake.ViewModels
             .OnceSingleAsync<Users>()).username;
 
             return username;
+
+        }
+
+        public async Task<string> GetBio()
+        {
+
+            FirebaseClient firebaseClient = new FirebaseClient("https://application-green-quake-default-rtdb.firebaseio.com/");
+            auth = DependencyService.Get<IAuth>();
+
+            bio = (await firebaseClient
+            .Child("users")
+            .Child(auth.GetUid())
+            .OnceSingleAsync<Users>()).bio;
+
+            return bio;
 
         }
 

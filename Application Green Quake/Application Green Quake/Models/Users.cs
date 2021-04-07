@@ -3,6 +3,6 @@
     class Users
     {
         public string username { get; set; }
-
+        public string bio { get; set; }
     }
 }

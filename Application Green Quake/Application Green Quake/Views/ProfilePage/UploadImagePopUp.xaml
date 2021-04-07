@@ -6,7 +6,7 @@
                  xmlns:pages="clr-namespace:Rg.Plugins.Popup.Pages;assembly=Rg.Plugins.Popup"
                  BackgroundColor="White">
 
-    <StackLayout HorizontalOptions="CenterAndExpand" VerticalOptions="StartAndExpand" >
+    <StackLayout HorizontalOptions="CenterAndExpand" VerticalOptions="CenterAndExpand" >
         <Image x:Name="ChosenImage" HeightRequest="200"></Image>
         <Button x:Name="Take" Text="Take Photo" Clicked="CapturePhotoClicked"></Button>
         <Button x:Name="Pick" Text="Pick From Storage" Clicked="UplaodPhotoClicked"></Button>

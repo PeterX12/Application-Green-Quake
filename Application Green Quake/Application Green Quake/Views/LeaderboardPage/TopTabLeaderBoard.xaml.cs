@@ -1,5 +1,7 @@
 ﻿using Application_Green_Quake.Models;
 using Firebase.Database;
+using Firebase.Database.Query;
+using Firebase.Storage;
 using Rg.Plugins.Popup.Services;
 using System;
 using System.Linq;
@@ -45,6 +47,23 @@ namespace Application_Green_Quake.Views.LeaderboardPage
             {
                 index++;
                 i.rank = index;
+
+                try
+                {
+                    var uid = (await firebaseClient
+                    .Child("usernames")
+                    .Child(i.username)
+                    .OnceSingleAsync<Usernames>()).Uid;
+
+                    i.image = await new FirebaseStorage("application-green-quake.appspot.com")
+                    .Child(uid)
+                    .Child("Profile.jpg")
+                    .GetDownloadUrlAsync();
+                }
+                catch (Exception e)
+                {
+
+                }
             }
 
             LeaderBoard.ItemsSource = list2;

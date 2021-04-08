@@ -13,6 +13,7 @@
                         <ViewCell>
                             <StackLayout Orientation="Vertical">
                                 <StackLayout Orientation="Horizontal">
+                                    <Image WidthRequest="50" Source="{Binding image}" />
                                     <StackLayout Orientation="Vertical">
                                         <Label Text="{Binding username}"
                                                TextColor="Green"

@@ -6,14 +6,23 @@
         <StackLayout>
             <Label Text="Leader Board" FontSize="22" HorizontalTextAlignment="Center"></Label>
 
-            <ListView x:Name="lstPersons">
+            <ListView x:Name="LeaderBoard"
+                      ItemTapped="OnItemTapped">
                 <ListView.ItemTemplate>
                     <DataTemplate>
                         <ViewCell>
-                            <Grid>
-                                <Label Text="{Binding username, StringFormat='Username: {0}'}" FontAttributes="Bold" />
-                                <Label Grid.Column="1" Text="{Binding points, StringFormat='Points: {0}'}" FontAttributes="Bold"/>
-                            </Grid>
+                            <StackLayout Orientation="Vertical">
+                                <StackLayout Orientation="Horizontal">
+                                    <StackLayout Orientation="Vertical">
+                                        <Label Text="{Binding username}"
+                                               TextColor="Green"
+                                              />
+                                        <Label Text="{Binding points}"
+                                               TextColor="#503026" />
+                                    </StackLayout>
+                                    <Label Text="{Binding rank}"></Label>
+                                </StackLayout>
+                            </StackLayout>
                         </ViewCell>
                     </DataTemplate>
                 </ListView.ItemTemplate>

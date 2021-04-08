@@ -999,7 +999,7 @@ namespace Application_Green_Quake.Views.ProfilePage
             }
             else if (brushingCount >= 25)
             {
-                a1.Source = ImageSource.FromResource("Applica  tion_Green_Quake.Images.Achievements.Habits.brushingGold.png");
+                a1.Source = ImageSource.FromResource("Application_Green_Quake.Images.Achievements.Habits.brushingGold.png");
             }
 
             if (fullWasherCount >= 5 && fullWasherCount < 15)
@@ -1012,7 +1012,7 @@ namespace Application_Green_Quake.Views.ProfilePage
             }
             else if (fullWasherCount >= 25)
             {
-                a2.Source = ImageSource.FromResource("Applica  tion_Green_Quake.Images.Achievements.Habits.dishwasterGold.png");
+                a2.Source = ImageSource.FromResource("Application_Green_Quake.Images.Achievements.Habits.dishwasterGold.png");
             }
 
             if (showerCount >= 5 && showerCount < 15)
@@ -1025,7 +1025,7 @@ namespace Application_Green_Quake.Views.ProfilePage
             }
             else if (showerCount >= 25)
             {
-                a3.Source = ImageSource.FromResource("Applica  tion_Green_Quake.Images.Achievements.Habits.showerGold.png");
+                a3.Source = ImageSource.FromResource("Application_Green_Quake.Images.Achievements.Habits.showerGold.png");
             }
 
             if (timedShowerCount >= 5 && timedShowerCount < 15)
@@ -1038,7 +1038,7 @@ namespace Application_Green_Quake.Views.ProfilePage
             }
             else if (timedShowerCount >= 25)
             {
-                a4.Source = ImageSource.FromResource("Applica  tion_Green_Quake.Images.Achievements.Habits.timeShowerGold.png");
+                a4.Source = ImageSource.FromResource("Application_Green_Quake.Images.Achievements.Habits.timeShowerGold.png");
             }
 
             if (offLigtsCount >= 5 && offLigtsCount < 15)
@@ -1051,7 +1051,7 @@ namespace Application_Green_Quake.Views.ProfilePage
             }
             else if (offLigtsCount >= 25)
             {
-                a5.Source = ImageSource.FromResource("Applica  tion_Green_Quake.Images.Achievements.Habits.lightGold.png");
+                a5.Source = ImageSource.FromResource("Application_Green_Quake.Images.Achievements.Habits.lightGold.png");
             }
 
             if (matchesCount >= 5 && matchesCount < 15)
@@ -1064,7 +1064,7 @@ namespace Application_Green_Quake.Views.ProfilePage
             }
             else if (matchesCount >= 25)
             {
-                a6.Source = ImageSource.FromResource("Applica  tion_Green_Quake.Images.Achievements.Habits.matchGold.png");
+                a6.Source = ImageSource.FromResource("Application_Green_Quake.Images.Achievements.Habits.matchGold.png");
             }
 
             if (foodDeliverCount >= 5 && foodDeliverCount < 15)

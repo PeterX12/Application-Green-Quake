@@ -74,7 +74,6 @@ namespace Application_Green_Quake.Views.LeaderboardPage
         {
            
             var dataItem = e.Item as LeaderBoard;
-
             PopupNavigation.Instance.PushAsync(new LeaderBoardPopUp(dataItem.username));
         }
     }

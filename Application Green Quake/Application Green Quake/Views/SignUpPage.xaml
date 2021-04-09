@@ -1,27 +1,48 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:local="clr-namespace:Application_Green_Quake.Models"
              x:Class="Application_Green_Quake.Views.SignUpPage"
              NavigationPage.HasNavigationBar="False">
     <ContentPage.Content>
-        <StackLayout>
-            <Label Text="Create your Account"
-                HorizontalOptions="Center" />
-            <Entry
-                Placeholder="Username"
-                x:Name="UsernameInput" />
-            <Entry
-                Placeholder="Email"
-                Keyboard="Email"
-                x:Name="EmailInput" />
-            <Entry
-                Placeholder="Password"
-                IsPassword="True"
-                x:Name="PasswordInput" />
-            <Button
-                Text="Sign Up"
-                Clicked="SignUpClicked"
-               />
-        </StackLayout>
+        <Grid VerticalOptions="FillAndExpand" RowSpacing="0">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="2*"/>
+                <RowDefinition Height="*"/>
+                <RowDefinition Height="*"/>
+            </Grid.RowDefinitions>
+
+            <Image
+                    Grid.Row="0"
+                    Source="{local:ImageResource Application_Green_Quake.Images.Logo.PNG}" 
+                    Aspect="AspectFit"/>
+
+            <StackLayout Grid.Row="1" BackgroundColor="White">
+                <Entry Placeholder="Username"
+                       x:Name="UsernameInput"
+                       HorizontalTextAlignment="Center"
+                       Margin="60,0,60,0"/>
+                <Entry Placeholder="Email"
+                       Keyboard="Email"
+                       x:Name="EmailInput"
+                       HorizontalTextAlignment="Center"
+                       Margin="60,0,60,0"/>
+                <Entry Grid.Row="1"
+                       Placeholder="Password"
+                       HorizontalTextAlignment="Center"
+                       IsPassword="true"
+                       x:Name="PasswordInput"
+                       Margin="60,0,60,0"/>
+            </StackLayout>
+            <StackLayout Grid.Row="2" BackgroundColor="White" VerticalOptions="Center">
+                <Button Text="Sign Up"
+                            Clicked="SignUpClicked"
+                            CornerRadius="30"
+                            BackgroundColor="#50C878"
+                            TextColor="White"
+                            Margin="60,0,60,0"/>
+            </StackLayout>
+        </Grid>
+  
     </ContentPage.Content>
 </ContentPage>

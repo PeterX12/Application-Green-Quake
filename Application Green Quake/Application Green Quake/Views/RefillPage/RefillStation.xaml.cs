@@ -1,11 +1,8 @@
 ﻿using Application_Green_Quake.Models;
-using Application_Green_Quake.ViewModels;
 using Firebase.Database;
-using Newtonsoft.Json;
 using System;
 using System.Diagnostics;
 using System.Linq;
-using System.Net.Http;
 using Xamarin.Essentials;
 using Xamarin.Forms;
 using Xamarin.Forms.GoogleMaps;

@@ -42,11 +42,12 @@ namespace Application_Green_Quake.Views.LeaderboardPage
             }).ToList();
 
             int index = 0;
-
+            string rankIndex = "";
             foreach (var i in list2)
             {
                 index++;
-                i.rank = index;
+                rankIndex = "Rank: " + index.ToString();
+                i.rank = rankIndex;
 
                 try
                 {
@@ -62,7 +63,7 @@ namespace Application_Green_Quake.Views.LeaderboardPage
                 }
                 catch (Exception e)
                 {
-
+                    i.image = ImageSource.FromResource("Application_Green_Quake.Images.user.png");
                 }
             }
 

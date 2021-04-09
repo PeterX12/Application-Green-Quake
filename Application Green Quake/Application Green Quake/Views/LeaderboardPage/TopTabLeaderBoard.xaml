@@ -4,25 +4,36 @@
              x:Class="Application_Green_Quake.Views.LeaderboardPage.TopTabLeaderBoard">
     <ContentPage.Content>
         <StackLayout>
-            <Label Text="Leader Board" FontSize="22" HorizontalTextAlignment="Center"></Label>
-
+            <Label Text="Leader Board" FontSize="22" HorizontalTextAlignment="Center" FontFamily="Proxima Nova"></Label>
             <ListView x:Name="LeaderBoard"
-                      ItemTapped="OnItemTapped">
+                      ItemTapped="OnItemTapped"
+                      RowHeight="70">
                 <ListView.ItemTemplate>
                     <DataTemplate>
                         <ViewCell>
-                            <StackLayout Orientation="Vertical">
-                                <StackLayout Orientation="Horizontal">
-                                    <Image WidthRequest="50" Source="{Binding image}" />
-                                    <StackLayout Orientation="Vertical">
-                                        <Label Text="{Binding username}"
-                                               TextColor="Green"
-                                              />
-                                        <Label Text="{Binding points}"
-                                               TextColor="#503026" />
+                            <StackLayout>
+                                <Grid Margin="20,0,20,0">
+                                    <Grid.ColumnDefinitions>
+                                        <ColumnDefinition Width="*"/>
+                                        <ColumnDefinition Width="2*"/>
+                                        <ColumnDefinition Width="2*"/>
+                                    </Grid.ColumnDefinitions>
+                                    <Grid.RowDefinitions>
+                                        <RowDefinition Height="*"/>
+                                    </Grid.RowDefinitions>
+
+                                    <Frame Padding="0" Margin="0,5,0,5" CornerRadius="80">
+                                        <Image Source="{Binding image}" Aspect="AspectFill"/>
+                                    </Frame>
+                                     
+                                     <StackLayout Grid.Column="1" Margin="10,5,0,0" Spacing="0">
+                                        <Label Text="{Binding username}"  TextColor="Black" FontAttributes="Bold" FontSize="15" FontFamily="Roboto"/>
+                                        <Label Text="{Binding points, StringFormat='Score: {0}'}" FontSize="12" FontFamily="Roboto"/>
                                     </StackLayout>
-                                    <Label Text="{Binding rank}"></Label>
-                                </StackLayout>
+                                    <StackLayout Grid.Column="2">
+                                        <Label Text="{Binding rank}" Margin="0,5,0,0" HorizontalOptions="End" FontFamily="Roboto"/>
+                                    </StackLayout>
+                                </Grid>
                             </StackLayout>
                         </ViewCell>
                     </DataTemplate>

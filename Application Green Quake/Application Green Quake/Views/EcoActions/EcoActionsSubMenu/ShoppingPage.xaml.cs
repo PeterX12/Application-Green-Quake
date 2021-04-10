@@ -41,7 +41,7 @@ namespace Application_Green_Quake.Views.EcoActions.EcoActionsSubMenu
             await Navigation.PushAsync(new FoodInBulk());
 
         }
-        private async void NavigateToEcoFriendlyPorduct(object sender, EventArgs e)
+        private async void NavigateToEcoFriendlyProduct(object sender, EventArgs e)
         {
             await Navigation.PushAsync(new EcoFriendlyProduct());
         }

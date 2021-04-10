@@ -5,9 +5,14 @@
             xmlns:local="clr-namespace:Application_Green_Quake.Models" xmlns:views1="clr-namespace:Application_Green_Quake.Views.ProfilePage" xmlns:views2="clr-namespace:Application_Green_Quake.Views.LeaderboardPage"
             x:Class="Application_Green_Quake.Views.MainMenu"
             NavigationPage.HasBackButton="False"
-            Title="Green Quake">
+            xmlns:android="clr-namespace:Xamarin.Forms.PlatformConfiguration.AndroidSpecific;assembly=Xamarin.Forms.Core"
+            android:TabbedPage.ToolbarPlacement="Bottom"
+            Title="Green Quake"
+            UnselectedTabColor="Black"
+            SelectedTabColor="White" 
+            >
 
-    <ContentPage Title="Main Menu">
+    <ContentPage Title="Home" IconImageSource="{local:ImageResource Application_Green_Quake.Images.Tabbed.Home.png}">
         <Grid>
             <Grid.RowDefinitions>
                 <RowDefinition Height="2*" />
@@ -45,6 +50,6 @@
         </Grid>
     </ContentPage>
 
-    <views2:TopTabLeaderBoard Title="Leaderboard"></views2:TopTabLeaderBoard>
-    <views1:TopTabProfile Title="Profile"></views1:TopTabProfile>
+    <views2:TopTabLeaderBoard Title="Leaderboard" IconImageSource="{local:ImageResource Application_Green_Quake.Images.Tabbed.Leaderboard.png}"></views2:TopTabLeaderBoard>
+    <views1:TopTabProfile Title="Profile" IconImageSource="{local:ImageResource Application_Green_Quake.Images.Tabbed.Profile.png}"></views1:TopTabProfile>
 </TabbedPage>

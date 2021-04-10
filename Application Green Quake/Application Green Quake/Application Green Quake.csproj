@@ -297,6 +297,25 @@
     <None Remove="Images\Refill.jpg" />
     <None Remove="Images\Shopping.jpg" />
     <None Remove="Images\SignOut.jpg" />
+    <None Remove="Images\SubCategories\FD\EatAllYouMake.jpg" />
+    <None Remove="Images\SubCategories\FD\FoodDelivered.jpg" />
+    <None Remove="Images\SubCategories\FD\NoMeat.jpg" />
+    <None Remove="Images\SubCategories\FD\OrganicFood.jpg" />
+    <None Remove="Images\SubCategories\FD\OwnCoffee.jpg" />
+    <None Remove="Images\SubCategories\FD\ReBottle.jpg" />
+    <None Remove="Images\SubCategories\FD\ReCoffeeMug.jpg" />
+    <None Remove="Images\SubCategories\FD\SaveLeftovers.jpg" />
+    <None Remove="Images\SubCategories\FD\SteeStraw.jpg" />
+    <None Remove="Images\SubCategories\FD\WaterOverFiz.jpg" />
+    <None Remove="Images\SubCategories\Habits\FullDishwasher.jpg" />
+    <None Remove="Images\SubCategories\Habits\MatchOverLighter.jpg" />
+    <None Remove="Images\SubCategories\Habits\OffLights.jpg" />
+    <None Remove="Images\SubCategories\Habits\ShowerNoBath.jpg" />
+    <None Remove="Images\SubCategories\Habits\TimedBrushing.jpg" />
+    <None Remove="Images\SubCategories\Habits\TimedShower.jpg" />
+    <None Remove="Images\Tabbed\Home.png" />
+    <None Remove="Images\Tabbed\Leaderboard.png" />
+    <None Remove="Images\Tabbed\Profile.png" />
     <None Remove="Images\Travel.jpg" />
     <None Remove="Images\TrophyCase.png" />
     <None Remove="Images\user.png" />
@@ -602,6 +621,25 @@
     <EmbeddedResource Include="Images\Refill.jpg" />
     <EmbeddedResource Include="Images\Shopping.jpg" />
     <EmbeddedResource Include="Images\SignOut.jpg" />
+    <EmbeddedResource Include="Images\SubCategories\FD\EatAllYouMake.jpg" />
+    <EmbeddedResource Include="Images\SubCategories\FD\FoodDelivered.jpg" />
+    <EmbeddedResource Include="Images\SubCategories\FD\NoMeat.jpg" />
+    <EmbeddedResource Include="Images\SubCategories\FD\OrganicFood.jpg" />
+    <EmbeddedResource Include="Images\SubCategories\FD\OwnCoffee.jpg" />
+    <EmbeddedResource Include="Images\SubCategories\FD\ReBottle.jpg" />
+    <EmbeddedResource Include="Images\SubCategories\FD\ReCoffeeMug.jpg" />
+    <EmbeddedResource Include="Images\SubCategories\FD\SaveLeftovers.jpg" />
+    <EmbeddedResource Include="Images\SubCategories\FD\SteeStraw.jpg" />
+    <EmbeddedResource Include="Images\SubCategories\FD\WaterOverFiz.jpg" />
+    <EmbeddedResource Include="Images\SubCategories\Habits\FullDishwasher.jpg" />
+    <EmbeddedResource Include="Images\SubCategories\Habits\MatchOverLighter.jpg" />
+    <EmbeddedResource Include="Images\SubCategories\Habits\OffLights.jpg" />
+    <EmbeddedResource Include="Images\SubCategories\Habits\ShowerNoBath.jpg" />
+    <EmbeddedResource Include="Images\SubCategories\Habits\TimedBrushing.jpg" />
+    <EmbeddedResource Include="Images\SubCategories\Habits\TimedShower.jpg" />
+    <EmbeddedResource Include="Images\Tabbed\Home.png" />
+    <EmbeddedResource Include="Images\Tabbed\Leaderboard.png" />
+    <EmbeddedResource Include="Images\Tabbed\Profile.png" />
     <EmbeddedResource Include="Images\Travel.jpg" />
     <EmbeddedResource Include="Images\TrophyCase.png" />
     <EmbeddedResource Include="Images\user.png" />
@@ -967,5 +1005,9 @@
 
   <ItemGroup>
     <Resource Include="Images\Badges\Home\homeOne.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="Images\SubCategories\Energy\" />
   </ItemGroup>
 </Project>

@@ -20,7 +20,7 @@ namespace Application_Green_Quake.Views.EcoActions.EcoActionsSubMenu
             await Navigation.PushAsync(new BuyOrganicFood());
         }
 
-        private async void NavigateToWaterOverOrganicFood(object sender, EventArgs e)
+        private async void NavigateToWaterOverFizzy(object sender, EventArgs e)
         {
             await Navigation.PushAsync(new WaterOverFizzy());
         }

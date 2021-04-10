@@ -7,7 +7,7 @@
         <Color x:Key="AppPrimaryColor">Red</Color>
         <Color x:Key="AppBackgroundColor">White</Color>
         <Color x:Key="PrimaryColor">Black</Color>
-        <Color x:Key="SecondaryColor">#3CB371</Color>
+        <Color x:Key="SecondaryColor">#50C878</Color>
         <Color x:Key="TertiaryColor">Yellow</Color>
 
         <!-- Implicit styles -->
@@ -22,6 +22,10 @@
                ApplyToDerivedTypes="True">
             <Setter Property="BarBackgroundColor"
                     Value="{StaticResource SecondaryColor}" />
+            <Setter Property="UnselectedTabColor"
+                    Value="{StaticResource PrimaryColor}" />
+            <Setter Property="SelectedTabColor"
+                    Value="{StaticResource AppBackgroundColor}" />
         </Style>
 
         <Style TargetType="NavigationPage"
@@ -29,6 +33,5 @@
             <Setter Property="BarBackgroundColor" 
                     Value="{StaticResource SecondaryColor}"/>
         </Style>
-
     </Application.Resources>
 </Application>

@@ -14,7 +14,7 @@
                 
                 <StackLayout HeightRequest="100" VerticalOptions="Start" HorizontalOptions="FillAndExpand" Spacing="10" BackgroundColor="White">
                     <Label x:Name="Username" FontSize="28" HorizontalOptions="Center" VerticalOptions="Center" FontAttributes="Bold" />
-                    <Editor x:Name="Bio" Text="Bio" Completed="SaveText" TextColor="Black" BackgroundColor="White" HorizontalOptions="FillAndExpand" VerticalOptions="CenterAndExpand"/>
+                    <Entry x:Name="Bio" Text="Bio" Completed="SaveText" TextColor="Black" BackgroundColor="White" HorizontalOptions="FillAndExpand" VerticalOptions="CenterAndExpand" Margin="40,0,40,0" HorizontalTextAlignment="Center"/>
                 </StackLayout>
 
                 <StackLayout Orientation="Horizontal" HeightRequest="50" BackgroundColor="White" Padding="5">

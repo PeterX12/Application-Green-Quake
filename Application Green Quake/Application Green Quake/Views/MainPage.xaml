@@ -22,6 +22,9 @@
                            Keyboard="Email"
                            x:Name="EmailInput"
                            HorizontalTextAlignment="Center"
+                           PlaceholderColor="White"
+                           TextColor="Black"
+                           BackgroundColor="#50C878"
                            Margin="60,0,60,0"
                            />
                     <Entry Grid.Row="1"
@@ -29,6 +32,9 @@
                            HorizontalTextAlignment="Center"
                            IsPassword="true"
                            x:Name="PasswordInput"
+                           PlaceholderColor="White"
+                           TextColor="Black"
+                           BackgroundColor="#50C878"
                            Margin="60,0,60,0"/>
                 </StackLayout>
                 <StackLayout Grid.Row="2" BackgroundColor="White">
@@ -47,7 +53,8 @@
                             HorizontalOptions="Center"
                             BackgroundColor="Transparent"
                             Clicked="SignUpClicked" 
-                            Padding="0,0,0,30"/>
+                            Padding="0,0,0,30"
+                            TextColor="Black"/>
                 </StackLayout>
             </Grid>
     </ContentPage.Content>

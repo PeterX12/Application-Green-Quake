@@ -39,12 +39,13 @@
                     <StackLayout.GestureRecognizers>
                         <TapGestureRecognizer Tapped="NavigateToEnvironmentalGroups"/>
                     </StackLayout.GestureRecognizers>
-                    <Label Text="Join an Environmental Group" 
+                    <Label Text="Join An Environmental Group" 
                            TextColor="White" 
                            HorizontalOptions="Center" 
                            FontSize="24" 
                            FontAttributes="Bold" 
-                           FontFamily="Proxima Nova"/>
+                           FontFamily="Proxima Nova"
+                           HorizontalTextAlignment="Center"/>
                     <Label Text="Join an environmental group and do your part." 
                            TextColor="White" 
                            HorizontalOptions="Center" 
@@ -73,12 +74,13 @@
                     <StackLayout.GestureRecognizers>
                         <TapGestureRecognizer Tapped="NavigateToCreateEnvironmentalGroup"/>
                     </StackLayout.GestureRecognizers>
-                    <Label Text="Create an Environmental Group" 
+                    <Label Text="Create An Environmental Group" 
                            TextColor="White" 
                            HorizontalOptions="Center" 
                            FontSize="24" 
                            FontAttributes="Bold" 
-                           FontFamily="Proxima Nova"/>
+                           FontFamily="Proxima Nova"
+                           HorizontalTextAlignment="Center"/>
                     <Label Text="No environmental group to join? No problem!" 
                            TextColor="White" 
                            HorizontalOptions="Center" 
@@ -141,9 +143,10 @@
                     <StackLayout.GestureRecognizers>
                         <TapGestureRecognizer Tapped="NavigateToDoCommunity"/>
                     </StackLayout.GestureRecognizers>
-                    <Label Text="Do something for the Community" 
+                    <Label Text="Do Something For The Community" 
                            TextColor="White" 
                            HorizontalOptions="Center" 
+                           HorizontalTextAlignment="Center"
                            FontSize="24" 
                            FontAttributes="Bold" 
                            FontFamily="Proxima Nova"/>
@@ -211,7 +214,7 @@
                     <StackLayout.GestureRecognizers>
                         <TapGestureRecognizer Tapped="NavigateToShareThisaApp"/>
                     </StackLayout.GestureRecognizers>
-                    <Label Text="Share this App" 
+                    <Label Text="Share This App" 
                            TextColor="White" 
                            HorizontalOptions="Center" 
                            FontSize="24" 

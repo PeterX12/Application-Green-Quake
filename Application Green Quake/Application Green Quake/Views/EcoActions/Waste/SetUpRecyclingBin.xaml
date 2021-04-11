@@ -1,14 +1,37 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
-             x:Class="Application_Green_Quake.Views.EcoActions.Waste.SetUpRecyclingBin">
+             x:Class="Application_Green_Quake.Views.EcoActions.Waste.SetUpRecyclingBin"
+             xmlns:local="clr-namespace:Application_Green_Quake.Models"
+             Title="Set Up Recycling Bins">
     <ContentPage.Content>
-        <StackLayout>
-            <Label Text="Set up recycling bins!" />
-            <Label Text="Points: 10"
-                   TextColor="Green"/>
-            <Button Text="Completed"
-                    Clicked="AddPointsClicked"/>
-        </StackLayout>
+        <Grid VerticalOptions="FillAndExpand" RowSpacing="0">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="2*"/>
+                <RowDefinition Height="2*"/>
+                <RowDefinition Height="*"/>
+            </Grid.RowDefinitions>
+
+            <Image Aspect="AspectFill"
+                   Source="{local:ImageResource Application_Green_Quake.Images.SubCategories.Waste.SetUpBins.jpg}"/>
+            <StackLayout Grid.Row="1" 
+                         VerticalOptions="Center"
+                         HorizontalOptions="Center">
+                <Label Text="Instead of throwing an item away you can fix it."
+                       TextColor="Black"/>
+            </StackLayout>
+            <StackLayout Grid.Row="2"
+                         Spacing="10">
+                <Label Text="10 POINTS!"
+                       TextColor="Black"
+                       FontAttributes="Bold"
+                       FontSize="20"
+                       HorizontalOptions="Center"/>
+                <Button Text="Completed"
+                        BackgroundColor="#50C878"
+                        TextColor="White"
+                        Margin="60,0,60,0"/>
+            </StackLayout>
+        </Grid>
     </ContentPage.Content>
 </ContentPage>

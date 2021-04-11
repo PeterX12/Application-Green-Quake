@@ -117,13 +117,13 @@
                     <StackLayout.GestureRecognizers>
                         <TapGestureRecognizer Tapped="NavigateToDishwasherFull"/>
                     </StackLayout.GestureRecognizers>
-                    <Label Text="Shower No Bath" 
+                    <Label Text="Full Dishwasher" 
                            TextColor="White" 
                            HorizontalOptions="Center" 
                            FontSize="24" 
                            FontAttributes="Bold" 
                            FontFamily="Proxima Nova"/>
-                    <Label Text="Shower instead of taking a bath." 
+                    <Label Text="Only use the dishwasher when it is full." 
                            TextColor="White" 
                            HorizontalOptions="Center" 
                            FontSize="15"  

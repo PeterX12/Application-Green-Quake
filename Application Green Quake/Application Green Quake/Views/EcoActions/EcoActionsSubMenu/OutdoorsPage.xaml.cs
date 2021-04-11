@@ -1,4 +1,5 @@
 ﻿using Application_Green_Quake.Views.EcoActions.Outdoors;
+using Application_Green_Quake.Views.EcoActions.Water;
 using System;
 
 using Xamarin.Forms;
@@ -70,7 +71,7 @@ namespace Application_Green_Quake.Views.EcoActions.EcoActionsSubMenu
 
         private async void NavigateToSetUpRainWaterColector(object sender, EventArgs e)
         {
-            await Navigation.PushAsync(new GoCamping());
+            await Navigation.PushAsync(new RainBarrel());
 
         }
 

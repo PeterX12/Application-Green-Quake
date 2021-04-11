@@ -1,14 +1,38 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
-             x:Class="Application_Green_Quake.Views.EcoActions.FoodAndDrink.FoodDelivered">
+             x:Class="Application_Green_Quake.Views.EcoActions.FoodAndDrink.FoodDelivered"
+             xmlns:local="clr-namespace:Application_Green_Quake.Models"
+             Title="Have All Food Delivered">
     <ContentPage.Content>
-        <StackLayout>
-            <Label Text="Had you food delivered!" />
-            <Label Text="Points: 6"
-                   TextColor="Green"/>
-            <Button Text="Completed"
-                    Clicked="AddPointsClicked"/>
-        </StackLayout>
+        <Grid VerticalOptions="FillAndExpand" RowSpacing="0">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="2*"/>
+                <RowDefinition Height="2*"/>
+                <RowDefinition Height="*"/>
+            </Grid.RowDefinitions>
+
+            <Image Aspect="AspectFill"
+                   Source="{local:ImageResource Application_Green_Quake.Images.SubCategories.FD.FoodDelivered.jpg}"/>
+            <StackLayout Grid.Row="1" 
+                         VerticalOptions="Center"
+                         HorizontalOptions="Center">
+                <Label Text="Instead of throwing an item away you can fix it."
+                       TextColor="Black"/>
+            </StackLayout>
+            <StackLayout Grid.Row="2"
+                         Spacing="10">
+                <Label Text="6 POINTS!"
+                       TextColor="Black"
+                       FontAttributes="Bold"
+                       FontSize="20"
+                       HorizontalOptions="Center"/>
+                <Button Text="Completed"
+                        BackgroundColor="#50C878"
+                        TextColor="White"
+                        Margin="60,0,60,0"
+                        Clicked="AddPointsClicked"/>
+            </StackLayout>
+        </Grid>
     </ContentPage.Content>
 </ContentPage>

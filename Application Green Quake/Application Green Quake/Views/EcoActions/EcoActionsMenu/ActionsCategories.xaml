@@ -6,10 +6,10 @@
              Title="Eco Actions Categories">
     <ContentPage.Content>
         <ScrollView>
-            <Grid>
+            <Grid Margin="5,5,5,5">
                 <Grid.RowDefinitions>
                     <RowDefinition Height="200" />
-                    <RowDefinition Height="200"/>
+                    <RowDefinition Height="200" />
                     <RowDefinition Height="200" />
                     <RowDefinition Height="200" />
                     <RowDefinition Height="200" />
@@ -25,102 +25,343 @@
                     <ColumnDefinition />
                 </Grid.ColumnDefinitions>
 
-                <ImageButton Grid.Column="0"
-                    Grid.Row="0"
-                    Clicked="NavigateToHabits" 
-                    HorizontalOptions="FillAndExpand"
-                    VerticalOptions="FillAndExpand"
-                    Aspect="AspectFill"
-                    Source="{local:ImageResource Application_Green_Quake.Images.Habits.jpg}"
-                    />
-                <ImageButton Grid.Column="0"
-                    Grid.Row="1"
-                    Clicked="NavigateToFoodAndDrink" 
-                    HorizontalOptions="FillAndExpand"
-                    VerticalOptions="FillAndExpand"
-                    Aspect="AspectFill"
-                    Source="{local:ImageResource Application_Green_Quake.Images.FoodAndDrink.jpg}"
-                    />
-                <ImageButton Grid.Column="0"
-                    Grid.Row="2"
-                    Clicked="NavigateToEnergy" 
-                    HorizontalOptions="FillAndExpand"
-                    VerticalOptions="FillAndExpand"
-                    Aspect="AspectFill"
-                    Source="{local:ImageResource Application_Green_Quake.Images.Energy.jpg}"
-                    />
-                <ImageButton Grid.Column="0"
-                    Grid.Row="3"
-                    Clicked="NavigateToTravel" 
-                    HorizontalOptions="FillAndExpand"
-                    VerticalOptions="FillAndExpand"
-                    Aspect="AspectFill"
-                    Source="{local:ImageResource Application_Green_Quake.Images.Travel.jpg}"
-                    />
-                <ImageButton Grid.Column="0"
-                    Grid.Row="4"
-                    Clicked="NavigateToShopping" 
-                    HorizontalOptions="FillAndExpand"
-                    VerticalOptions="FillAndExpand"
-                    Aspect="AspectFill"
-                    Source="{local:ImageResource Application_Green_Quake.Images.Shopping.jpg}"
-                    />
-                <ImageButton Grid.Column="0"
-                    Grid.Row="5"
-                    Clicked="NavigateToWater" 
-                    HorizontalOptions="FillAndExpand"
-                    VerticalOptions="FillAndExpand"
-                    Aspect="AspectFill"
-                    Source="{local:ImageResource Application_Green_Quake.Images.Water.jpg}"
-                    />
-                <ImageButton Grid.Column="0"
-                    Grid.Row="6"
-                    Clicked="NavigateToHome" 
-                    HorizontalOptions="FillAndExpand"
-                    VerticalOptions="FillAndExpand"
-                    Aspect="AspectFill"
-                    Source="{local:ImageResource Application_Green_Quake.Images.Home.jpg}"
-                    />
-                <ImageButton Grid.Column="0"
-                    Grid.Row="7"
-                    Clicked="NavigateToOutdoors" 
-                    HorizontalOptions="FillAndExpand"
-                    VerticalOptions="FillAndExpand"
-                    Aspect="AspectFill"
-                    Source="{local:ImageResource Application_Green_Quake.Images.Outdoors.jpg}"
-                    />
-                <ImageButton Grid.Column="0"
-                    Grid.Row="8"
-                    Clicked="NavigateToCommunity" 
-                    HorizontalOptions="FillAndExpand"
-                    VerticalOptions="FillAndExpand"
-                    Aspect="AspectFill"
-                    Source="{local:ImageResource Application_Green_Quake.Images.Community.jpg}"
-                    />
-                <ImageButton Grid.Column="0"
-                    Grid.Row="9"
-                    Clicked="NavigateToWaste" 
-                    HorizontalOptions="FillAndExpand"
-                    VerticalOptions="FillAndExpand"
-                    Aspect="AspectFill"
-                    Source="{local:ImageResource Application_Green_Quake.Images.Waste.jpg}"
-                    />
-                <ImageButton Grid.Column="0"
-                    Grid.Row="10"
-                    Clicked="NavigateToWork" 
-                    HorizontalOptions="FillAndExpand"
-                    VerticalOptions="FillAndExpand"
-                    Aspect="AspectFill"
-                    Source="{local:ImageResource Application_Green_Quake.Images.Work.jpg}"
-                    />
-                <ImageButton Grid.Column="0"
-                    Grid.Row="11"
-                    Clicked="NavigateToAdvanced" 
-                    HorizontalOptions="FillAndExpand"
-                    VerticalOptions="FillAndExpand"
-                    Aspect="AspectFill"
-                    Source="{local:ImageResource Application_Green_Quake.Images.Advanced.jpg}"
-                    />
+                <Image Grid.Column="0"
+                       Grid.Row="0" 
+                       Aspect="AspectFill"
+                       Source="{local:ImageResource Application_Green_Quake.Images.ActionMenu.Habits.jpg}"/>
+                <StackLayout Grid.Column="0"
+                             Grid.Row="0"
+                             BackgroundColor="Black"
+                             Opacity=".5">
+                    <StackLayout.GestureRecognizers>
+                        <TapGestureRecognizer Tapped="NavigateToHabits"/>
+                    </StackLayout.GestureRecognizers>
+                </StackLayout>
+                <StackLayout Grid.Column="0"
+                             Grid.Row="0" 
+                             VerticalOptions="Center"
+                             Spacing="5"
+                             Margin="40,0,40,15">
+                    <StackLayout.GestureRecognizers>
+                        <TapGestureRecognizer Tapped="NavigateToHabits"/>
+                    </StackLayout.GestureRecognizers>
+                    <Label Text="Habits" 
+                           TextColor="White" 
+                           HorizontalOptions="Center" 
+                           FontSize="24" 
+                           FontAttributes="Bold"
+                           FontFamily="Proxima Nova"/>
+                </StackLayout>
+
+                <Image Grid.Column="0"
+                       Grid.Row="1"
+                       Aspect="AspectFill"
+                       Source="{local:ImageResource Application_Green_Quake.Images.ActionMenu.Food.jpg}"/>
+                <StackLayout Grid.Column="0"
+                             Grid.Row="1"
+                             BackgroundColor="Black"
+                             Opacity=".5">
+                    <StackLayout.GestureRecognizers>
+                        <TapGestureRecognizer Tapped="NavigateToFoodAndDrink"/>
+                    </StackLayout.GestureRecognizers>
+                </StackLayout>
+                <StackLayout Grid.Column="0"
+                             Grid.Row="1"
+                             VerticalOptions="Center"
+                             Spacing="5"
+                             Margin="40,0,40,15">
+                    <StackLayout.GestureRecognizers>
+                        <TapGestureRecognizer Tapped="NavigateToFoodAndDrink"/>
+                    </StackLayout.GestureRecognizers>
+                    <Label Text="Food And Drink" 
+                           TextColor="White" 
+                           HorizontalOptions="Center" 
+                           FontSize="24" 
+                           FontAttributes="Bold" 
+                           FontFamily="Proxima Nova"/>
+                </StackLayout>
+
+                <Image Grid.Column="0"
+                       Grid.Row="2"
+                       Aspect="AspectFill"
+                       Source="{local:ImageResource Application_Green_Quake.Images.ActionMenu.Energy.jpg}"/>
+                <StackLayout Grid.Column="0"
+                             Grid.Row="2"
+                             BackgroundColor="Black"
+                             Opacity=".5">
+                    <StackLayout.GestureRecognizers>
+                        <TapGestureRecognizer Tapped="NavigateToEnergy"/>
+                    </StackLayout.GestureRecognizers>
+                </StackLayout>
+                <StackLayout Grid.Column="0"
+                             Grid.Row="2"
+                             VerticalOptions="Center"
+                             Spacing="5"
+                             Margin="40,0,40,15">
+                    <StackLayout.GestureRecognizers>
+                        <TapGestureRecognizer Tapped="NavigateToEnergy"/>
+                    </StackLayout.GestureRecognizers>
+                    <Label Text="Energy" 
+                           TextColor="White" 
+                           HorizontalOptions="Center" 
+                           FontSize="24" 
+                           FontAttributes="Bold" 
+                           FontFamily="Proxima Nova"/>
+                </StackLayout>
+
+                <Image Grid.Column="0"
+                       Grid.Row="3"
+                       Aspect="AspectFill"
+                       Source="{local:ImageResource Application_Green_Quake.Images.ActionMenu.Travel.jpg}"/>
+                <StackLayout Grid.Column="0"
+                             Grid.Row="3"
+                             BackgroundColor="Black"
+                             Opacity=".5">
+                    <StackLayout.GestureRecognizers>
+                        <TapGestureRecognizer Tapped="NavigateToTravel"/>
+                    </StackLayout.GestureRecognizers>
+                </StackLayout>
+                <StackLayout Grid.Column="0"
+                             Grid.Row="3"
+                             VerticalOptions="Center"
+                             Spacing="5"
+                             Margin="40,0,40,15">
+                    <StackLayout.GestureRecognizers>
+                        <TapGestureRecognizer Tapped="NavigateToTravel"/>
+                    </StackLayout.GestureRecognizers>
+                    <Label Text="Travel" 
+                           TextColor="White" 
+                           HorizontalOptions="Center" 
+                           FontSize="24" 
+                           FontAttributes="Bold" 
+                           FontFamily="Proxima Nova"/>
+                </StackLayout>
+
+                <Image Grid.Column="0"
+                       Grid.Row="4"
+                       Aspect="AspectFill"
+                       Source="{local:ImageResource Application_Green_Quake.Images.ActionMenu.Shopping.jpg}"/>
+                <StackLayout Grid.Column="0"
+                             Grid.Row="4"
+                             BackgroundColor="Black"
+                             Opacity=".5">
+                    <StackLayout.GestureRecognizers>
+                        <TapGestureRecognizer Tapped="NavigateToShopping"/>
+                    </StackLayout.GestureRecognizers>
+                </StackLayout>
+                <StackLayout Grid.Column="0"
+                             Grid.Row="4"
+                             VerticalOptions="Center"
+                             Spacing="5"
+                             Margin="40,0,40,15">
+                    <StackLayout.GestureRecognizers>
+                        <TapGestureRecognizer Tapped="NavigateToShopping"/>
+                    </StackLayout.GestureRecognizers>
+                    <Label Text="Shopping" 
+                           TextColor="White" 
+                           HorizontalOptions="Center" 
+                           FontSize="24" 
+                           FontAttributes="Bold" 
+                           FontFamily="Proxima Nova"/>
+                </StackLayout>
+
+                <Image Grid.Column="0"
+                       Grid.Row="5"
+                       Aspect="AspectFill"
+                       Source="{local:ImageResource Application_Green_Quake.Images.ActionMenu.Water.jpg}"/>
+                <StackLayout Grid.Column="0"
+                             Grid.Row="5"
+                             BackgroundColor="Black"
+                             Opacity=".5">
+                    <StackLayout.GestureRecognizers>
+                        <TapGestureRecognizer Tapped="NavigateToWater"/>
+                    </StackLayout.GestureRecognizers>
+                </StackLayout>
+                <StackLayout Grid.Column="0"
+                             Grid.Row="5"
+                             VerticalOptions="Center"
+                             Spacing="5"
+                             Margin="40,0,40,15">
+                    <StackLayout.GestureRecognizers>
+                        <TapGestureRecognizer Tapped="NavigateToWater"/>
+                    </StackLayout.GestureRecognizers>
+                    <Label Text="Water" 
+                           TextColor="White" 
+                           HorizontalOptions="Center" 
+                           FontSize="24" 
+                           FontAttributes="Bold" 
+                           FontFamily="Proxima Nova"/>
+                </StackLayout>
+
+                <Image Grid.Column="0"
+                       Grid.Row="6"
+                       Aspect="AspectFill"
+                       Source="{local:ImageResource Application_Green_Quake.Images.ActionMenu.Home.jpg}"/>
+                <StackLayout Grid.Column="0"
+                             Grid.Row="6"
+                             BackgroundColor="Black"
+                             Opacity=".5">
+                    <StackLayout.GestureRecognizers>
+                        <TapGestureRecognizer Tapped="NavigateToHome"/>
+                    </StackLayout.GestureRecognizers>
+                </StackLayout>
+                <StackLayout Grid.Column="0"
+                             Grid.Row="6"
+                             VerticalOptions="Center"
+                             Spacing="5"
+                             Margin="40,0,40,15">
+                    <StackLayout.GestureRecognizers>
+                        <TapGestureRecognizer Tapped="NavigateToHome"/>
+                    </StackLayout.GestureRecognizers>
+                    <Label Text="Home" 
+                           TextColor="White" 
+                           HorizontalOptions="Center" 
+                           FontSize="24" 
+                           FontAttributes="Bold" 
+                           FontFamily="Proxima Nova"/>
+                </StackLayout>
+
+                <Image Grid.Column="0"
+                       Grid.Row="7"
+                       Aspect="AspectFill"
+                       Source="{local:ImageResource Application_Green_Quake.Images.ActionMenu.Outdoors.jpg}"/>
+                <StackLayout Grid.Column="0"
+                             Grid.Row="7"
+                             BackgroundColor="Black"
+                             Opacity=".5">
+                    <StackLayout.GestureRecognizers>
+                        <TapGestureRecognizer Tapped="NavigateToOutdoors"/>
+                    </StackLayout.GestureRecognizers>
+                </StackLayout>
+                <StackLayout Grid.Column="0"
+                             Grid.Row="7"
+                             VerticalOptions="Center"
+                             Spacing="5"
+                             Margin="40,0,40,15">
+                    <StackLayout.GestureRecognizers>
+                        <TapGestureRecognizer Tapped="NavigateToOutdoors"/>
+                    </StackLayout.GestureRecognizers>
+                    <Label Text="Outdoors" 
+                           TextColor="White" 
+                           HorizontalOptions="Center" 
+                           FontSize="24" 
+                           FontAttributes="Bold" 
+                           FontFamily="Proxima Nova"/>
+                </StackLayout>
+
+                <Image Grid.Column="0"
+                       Grid.Row="8"
+                       Aspect="AspectFill"
+                       Source="{local:ImageResource Application_Green_Quake.Images.ActionMenu.Community.jpg}"/>
+                <StackLayout Grid.Column="0"
+                             Grid.Row="8"
+                             BackgroundColor="Black"
+                             Opacity=".5">
+                    <StackLayout.GestureRecognizers>
+                        <TapGestureRecognizer Tapped="NavigateToCommunity"/>
+                    </StackLayout.GestureRecognizers>
+                </StackLayout>
+                <StackLayout Grid.Column="0"
+                             Grid.Row="8"
+                             VerticalOptions="Center"
+                             Spacing="5"
+                             Margin="40,0,40,15">
+                    <StackLayout.GestureRecognizers>
+                        <TapGestureRecognizer Tapped="NavigateToCommunity"/>
+                    </StackLayout.GestureRecognizers>
+                    <Label Text="Community" 
+                           TextColor="White" 
+                           HorizontalOptions="Center" 
+                           FontSize="24" 
+                           FontAttributes="Bold" 
+                           FontFamily="Proxima Nova"/>
+                </StackLayout>
+
+                <Image Grid.Column="0"
+                       Grid.Row="9"
+                       Aspect="AspectFill"
+                       Source="{local:ImageResource Application_Green_Quake.Images.ActionMenu.Waste.jpg}"/>
+                <StackLayout Grid.Column="0"
+                             Grid.Row="9"
+                             BackgroundColor="Black"
+                             Opacity=".5">
+                    <StackLayout.GestureRecognizers>
+                        <TapGestureRecognizer Tapped="NavigateToWaste"/>
+                    </StackLayout.GestureRecognizers>
+                </StackLayout>
+                <StackLayout Grid.Column="0"
+                             Grid.Row="9"
+                             VerticalOptions="Center"
+                             Spacing="5"
+                             Margin="40,0,40,15">
+                    <StackLayout.GestureRecognizers>
+                        <TapGestureRecognizer Tapped="NavigateToWaste"/>
+                    </StackLayout.GestureRecognizers>
+                    <Label Text="Waste" 
+                           TextColor="White" 
+                           HorizontalOptions="Center" 
+                           FontSize="24" 
+                           FontAttributes="Bold" 
+                           FontFamily="Proxima Nova"/>
+                </StackLayout>
+
+                <Image Grid.Column="0"
+                       Grid.Row="10"
+                       Aspect="AspectFill"
+                       Source="{local:ImageResource Application_Green_Quake.Images.ActionMenu.Work.jpg}"/>
+                <StackLayout Grid.Column="0"
+                             Grid.Row="10"
+                             BackgroundColor="Black"
+                             Opacity=".5">
+                    <StackLayout.GestureRecognizers>
+                        <TapGestureRecognizer Tapped="NavigateToWork"/>
+                    </StackLayout.GestureRecognizers>
+                </StackLayout>
+                <StackLayout Grid.Column="0"
+                             Grid.Row="10"
+                             VerticalOptions="Center"
+                             Spacing="5"
+                             Margin="40,0,40,15">
+                    <StackLayout.GestureRecognizers>
+                        <TapGestureRecognizer Tapped="NavigateToWork"/>
+                    </StackLayout.GestureRecognizers>
+                    <Label Text="Work" 
+                           TextColor="White" 
+                           HorizontalOptions="Center" 
+                           FontSize="24" 
+                           FontAttributes="Bold" 
+                           FontFamily="Proxima Nova"/>
+                </StackLayout>
+
+                <Image Grid.Column="0"
+                       Grid.Row="11"
+                       Aspect="AspectFill"
+                       Source="{local:ImageResource Application_Green_Quake.Images.ActionMenu.Advanced.jpg}"
+                       Margin="0,0,0,5"/>
+                <StackLayout Grid.Column="0"
+                             Grid.Row="11"
+                             BackgroundColor="Black"
+                             Opacity=".5"
+                             Margin="0,0,0,5">
+                    <StackLayout.GestureRecognizers>
+                        <TapGestureRecognizer Tapped="NavigateToAdvanced"/>
+                    </StackLayout.GestureRecognizers>
+                </StackLayout>
+                <StackLayout Grid.Column="0"
+                             Grid.Row="11"
+                             VerticalOptions="Center"
+                             Spacing="5"
+                             Margin="40,0,40,15">
+                    <StackLayout.GestureRecognizers>
+                        <TapGestureRecognizer Tapped="NavigateToAdvanced"/>
+                    </StackLayout.GestureRecognizers>
+                    <Label Text="Advanced" 
+                           TextColor="White" 
+                           HorizontalOptions="Center" 
+                           FontSize="24" 
+                           FontAttributes="Bold" 
+                           FontFamily="Proxima Nova"/>
+                </StackLayout>
             </Grid>
         </ScrollView>
     </ContentPage.Content>

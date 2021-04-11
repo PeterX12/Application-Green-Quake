@@ -27,11 +27,6 @@ namespace Application_Green_Quake.Views.EcoActions.EcoActionsSubMenu
 
         private async void NavigateToSetUpCompostBin(object sender, EventArgs e)
         {
-            await Navigation.PushAsync(new SpreadAwareness());
-        }
-
-        private async void NavigateToCompostWaste(object sender, EventArgs e)
-        {
             await Navigation.PushAsync(new CompostWaste());
         }
 

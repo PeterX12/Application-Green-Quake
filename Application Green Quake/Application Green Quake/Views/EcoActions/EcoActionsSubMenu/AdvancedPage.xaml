@@ -2,13 +2,52 @@
 <ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              x:Class="Application_Green_Quake.Views.EcoActions.EcoActionsSubMenu.AdvancedPage"
+             xmlns:local="clr-namespace:Application_Green_Quake.Models"
              Title="Advanced Subcategories">
     <ContentPage.Content>
         <ScrollView>
-            <StackLayout>
-                <Button Text="Fix instead of throwing away"
-                    Clicked="NavigateToFix"/>
-            </StackLayout>
+            <Grid Margin="5,5,5,5">
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="200" />
+                </Grid.RowDefinitions>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition />
+                </Grid.ColumnDefinitions>
+
+                <Image Grid.Column="0"
+                       Grid.Row="0"
+                       Aspect="AspectFill"
+                       Source="{local:ImageResource Application_Green_Quake.Images.SubCategories.Advanced.Fix.jpg}"/>
+                <StackLayout Grid.Column="0"
+                             Grid.Row="0"
+                             BackgroundColor="Black"
+                             Opacity=".5">
+                    <StackLayout.GestureRecognizers>
+                        <TapGestureRecognizer Tapped="NavigateToFix"/>
+                    </StackLayout.GestureRecognizers>
+                </StackLayout>
+                <StackLayout Grid.Column="0"
+                             Grid.Row="0"
+                             VerticalOptions="End"
+                             Spacing="5"
+                             Margin="40,0,40,15">
+                    <StackLayout.GestureRecognizers>
+                        <TapGestureRecognizer Tapped="NavigateToFix"/>
+                    </StackLayout.GestureRecognizers>
+                    <Label Text="Timed Shower" 
+                           TextColor="White" 
+                           HorizontalOptions="Center" 
+                           FontSize="24" 
+                           FontAttributes="Bold" 
+                           FontFamily="Proxima Nova"/>
+                    <Label Text="When brushing your teeth it can be easy to leave the water running but this attricutes to major water waste." 
+                           TextColor="White" 
+                           HorizontalOptions="Center" 
+                           FontSize="15"  
+                           FontFamily="Proxima Nova Thin" 
+                           HorizontalTextAlignment="Center"/>
+                </StackLayout>
+            </Grid>
         </ScrollView>
     </ContentPage.Content>
 </ContentPage>

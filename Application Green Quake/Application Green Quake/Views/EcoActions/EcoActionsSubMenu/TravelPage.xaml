@@ -6,192 +6,190 @@
              Title="Travel Subcategories">
     <ContentPage.Content>
         <ScrollView>
-            <StackLayout>
-                <Grid Margin="5,5,5,5">
-                    <Grid.RowDefinitions>
-                        <RowDefinition Height="200" />
-                        <RowDefinition Height="200" />
-                        <RowDefinition Height="200" />
-                        <RowDefinition Height="200" />
-                        <RowDefinition Height="200" />
-                    </Grid.RowDefinitions>
-                    <Grid.ColumnDefinitions>
-                        <ColumnDefinition />
-                    </Grid.ColumnDefinitions>
+            <Grid Margin="5,5,5,5">
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="200" />
+                    <RowDefinition Height="200" />
+                    <RowDefinition Height="200" />
+                    <RowDefinition Height="200" />
+                    <RowDefinition Height="200" />
+                </Grid.RowDefinitions>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition />
+                </Grid.ColumnDefinitions>
 
-                    <Image Grid.Column="0"
+                <Image Grid.Column="0"
                        Grid.Row="0"
                        Aspect="AspectFill"
                        Source="{local:ImageResource Application_Green_Quake.Images.SubCategories.Travel.Carpool.jpg}"/>
-                    <StackLayout Grid.Column="0"
+                <StackLayout Grid.Column="0"
                              Grid.Row="0"
                              BackgroundColor="Black"
                              Opacity=".5">
-                        <StackLayout.GestureRecognizers>
-                            <TapGestureRecognizer Tapped="NavigateToCarpool"/>
-                        </StackLayout.GestureRecognizers>
-                    </StackLayout>
-                    <StackLayout Grid.Column="0"
+                    <StackLayout.GestureRecognizers>
+                        <TapGestureRecognizer Tapped="NavigateToCarpool"/>
+                    </StackLayout.GestureRecognizers>
+                </StackLayout>
+                <StackLayout Grid.Column="0"
                              Grid.Row="0"
                              VerticalOptions="End"
                              Spacing="5"
                              Margin="40,0,40,15">
-                        <StackLayout.GestureRecognizers>
-                            <TapGestureRecognizer Tapped="NavigateToCarpool"/>
-                        </StackLayout.GestureRecognizers>
-                        <Label Text="Timed Shower" 
+                    <StackLayout.GestureRecognizers>
+                        <TapGestureRecognizer Tapped="NavigateToCarpool"/>
+                    </StackLayout.GestureRecognizers>
+                    <Label Text="Timed Shower" 
                            TextColor="White" 
                            HorizontalOptions="Center" 
                            FontSize="24" 
                            FontAttributes="Bold" 
                            FontFamily="Proxima Nova"/>
-                        <Label Text="When brushing your teeth it can be easy to leave the water running but this attricutes to major water waste." 
+                    <Label Text="When brushing your teeth it can be easy to leave the water running but this attricutes to major water waste." 
                            TextColor="White" 
                            HorizontalOptions="Center" 
                            FontSize="15"  
                            FontFamily="Proxima Nova Thin" 
                            HorizontalTextAlignment="Center"/>
-                    </StackLayout>
+                </StackLayout>
 
-                    <Image Grid.Column="0"
+                <Image Grid.Column="0"
                        Grid.Row="1"
                        Aspect="AspectFill"
                        Source="{local:ImageResource Application_Green_Quake.Images.SubCategories.Travel.PublicTransport.jpg}"/>
-                    <StackLayout Grid.Column="0"
+                <StackLayout Grid.Column="0"
                              Grid.Row="1"
                              BackgroundColor="Black"
                              Opacity=".5">
-                        <StackLayout.GestureRecognizers>
-                            <TapGestureRecognizer Tapped="NavigateToPublicTransport"/>
-                        </StackLayout.GestureRecognizers>
-                    </StackLayout>
-                    <StackLayout Grid.Column="0"
+                    <StackLayout.GestureRecognizers>
+                        <TapGestureRecognizer Tapped="NavigateToPublicTransport"/>
+                    </StackLayout.GestureRecognizers>
+                </StackLayout>
+                <StackLayout Grid.Column="0"
                              Grid.Row="1"
                              VerticalOptions="End"
                              Spacing="5"
                              Margin="40,0,40,15">
-                        <StackLayout.GestureRecognizers>
-                            <TapGestureRecognizer Tapped="NavigateToPublicTransport"/>
-                        </StackLayout.GestureRecognizers>
-                        <Label Text="Shower No Bath" 
+                    <StackLayout.GestureRecognizers>
+                        <TapGestureRecognizer Tapped="NavigateToPublicTransport"/>
+                    </StackLayout.GestureRecognizers>
+                    <Label Text="Shower No Bath" 
                            TextColor="White" 
                            HorizontalOptions="Center" 
                            FontSize="24" 
                            FontAttributes="Bold" 
                            FontFamily="Proxima Nova"/>
-                        <Label Text="When brushing your teeth it can be easy to leave the water running but this attricutes to major water waste." 
+                    <Label Text="When brushing your teeth it can be easy to leave the water running but this attricutes to major water waste." 
                            TextColor="White" 
                            HorizontalOptions="Center" 
                            FontSize="15"  
                            FontFamily="Proxima Nova Thin" 
                            HorizontalTextAlignment="Center"/>
-                    </StackLayout>
+                </StackLayout>
 
-                    <Image Grid.Column="0"
+                <Image Grid.Column="0"
                        Grid.Row="2"
                        Aspect="AspectFill"
                        Source="{local:ImageResource Application_Green_Quake.Images.SubCategories.Travel.Walk.jpg}"/>
-                    <StackLayout Grid.Column="0"
+                <StackLayout Grid.Column="0"
                              Grid.Row="2"
                              BackgroundColor="Black"
                              Opacity=".5">
-                        <StackLayout.GestureRecognizers>
-                            <TapGestureRecognizer Tapped="NavigateToWalk"/>
-                        </StackLayout.GestureRecognizers>
-                    </StackLayout>
-                    <StackLayout Grid.Column="0"
+                    <StackLayout.GestureRecognizers>
+                        <TapGestureRecognizer Tapped="NavigateToWalk"/>
+                    </StackLayout.GestureRecognizers>
+                </StackLayout>
+                <StackLayout Grid.Column="0"
                              Grid.Row="2"
                              VerticalOptions="End"
                              Spacing="5"
                              Margin="40,0,40,15">
-                        <StackLayout.GestureRecognizers>
-                            <TapGestureRecognizer Tapped="NavigateToWalk"/>
-                        </StackLayout.GestureRecognizers>
-                        <Label Text="Full Dishwasher" 
+                    <StackLayout.GestureRecognizers>
+                        <TapGestureRecognizer Tapped="NavigateToWalk"/>
+                    </StackLayout.GestureRecognizers>
+                    <Label Text="Full Dishwasher" 
                            TextColor="White" 
                            HorizontalOptions="Center" 
                            FontSize="24" 
                            FontAttributes="Bold" 
                            FontFamily="Proxima Nova"/>
-                        <Label Text="When brushing your teeth it can be easy to leave the water running but this attricutes to major water waste." 
+                    <Label Text="When brushing your teeth it can be easy to leave the water running but this attricutes to major water waste." 
                            TextColor="White" 
                            HorizontalOptions="Center" 
                            FontSize="15"  
                            FontFamily="Proxima Nova Thin" 
                            HorizontalTextAlignment="Center"/>
-                    </StackLayout>
+                </StackLayout>
 
-                    <Image Grid.Column="0"
+                <Image Grid.Column="0"
                        Grid.Row="3"
                        Aspect="AspectFill"
                        Source="{local:ImageResource Application_Green_Quake.Images.SubCategories.Travel.Cycle.jpg}"/>
-                    <StackLayout Grid.Column="0"
+                <StackLayout Grid.Column="0"
                              Grid.Row="3"
                              BackgroundColor="Black"
                              Opacity=".5">
-                        <StackLayout.GestureRecognizers>
-                            <TapGestureRecognizer Tapped="NavigateToCycle"/>
-                        </StackLayout.GestureRecognizers>
-                    </StackLayout>
-                    <StackLayout Grid.Column="0"
+                    <StackLayout.GestureRecognizers>
+                        <TapGestureRecognizer Tapped="NavigateToCycle"/>
+                    </StackLayout.GestureRecognizers>
+                </StackLayout>
+                <StackLayout Grid.Column="0"
                              Grid.Row="3"
                              VerticalOptions="End"
                              Spacing="5"
                              Margin="40,0,40,15">
-                        <StackLayout.GestureRecognizers>
-                            <TapGestureRecognizer Tapped="NavigateToCycle"/>
-                        </StackLayout.GestureRecognizers>
-                        <Label Text="Turn Off The Lights" 
+                    <StackLayout.GestureRecognizers>
+                        <TapGestureRecognizer Tapped="NavigateToCycle"/>
+                    </StackLayout.GestureRecognizers>
+                    <Label Text="Turn Off The Lights" 
                            TextColor="White" 
                            HorizontalOptions="Center" 
                            FontSize="24" 
                            FontAttributes="Bold" 
                            FontFamily="Proxima Nova"/>
-                        <Label Text="When brushing your teeth it can be easy to leave the water running but this attricutes to major water waste." 
+                    <Label Text="When brushing your teeth it can be easy to leave the water running but this attricutes to major water waste." 
                            TextColor="White" 
                            HorizontalOptions="Center" 
                            FontSize="15"  
                            FontFamily="Proxima Nova Thin" 
                            HorizontalTextAlignment="Center"/>
-                    </StackLayout>
+                </StackLayout>
 
-                    <Image Grid.Column="0"
+                <Image Grid.Column="0"
                        Grid.Row="4"
                        Aspect="AspectFill"
                        Source="{local:ImageResource Application_Green_Quake.Images.SubCategories.Travel.EcoCar.jpg}"
                        Margin="0,0,0,5"/>
-                    <StackLayout Grid.Column="0"
+                <StackLayout Grid.Column="0"
                              Grid.Row="4"
                              BackgroundColor="Black"
                              Opacity=".5"
                              Margin="0,0,0,5">
-                        <StackLayout.GestureRecognizers>
-                            <TapGestureRecognizer Tapped="NavigateToEcoFreindlyCar"/>
-                        </StackLayout.GestureRecognizers>
-                    </StackLayout>
-                    <StackLayout Grid.Column="0"
+                    <StackLayout.GestureRecognizers>
+                        <TapGestureRecognizer Tapped="NavigateToEcoFreindlyCar"/>
+                    </StackLayout.GestureRecognizers>
+                </StackLayout>
+                <StackLayout Grid.Column="0"
                              Grid.Row="4"
                              VerticalOptions="End"
                              Spacing="5"
                              Margin="40,0,40,15">
-                        <StackLayout.GestureRecognizers>
-                            <TapGestureRecognizer Tapped="NavigateToEcoFreindlyCar"/>
-                        </StackLayout.GestureRecognizers>
-                        <Label Text="Matches Over Lighters" 
+                    <StackLayout.GestureRecognizers>
+                        <TapGestureRecognizer Tapped="NavigateToEcoFreindlyCar"/>
+                    </StackLayout.GestureRecognizers>
+                    <Label Text="Matches Over Lighters" 
                            TextColor="White" 
                            HorizontalOptions="Center" 
                            FontSize="24" 
                            FontAttributes="Bold" 
                            FontFamily="Proxima Nova"/>
-                        <Label Text="When brushing your teeth it can be easy to leave the water running but this attricutes to major water waste." 
+                    <Label Text="When brushing your teeth it can be easy to leave the water running but this attricutes to major water waste." 
                            TextColor="White" 
                            HorizontalOptions="Center" 
                            FontSize="15"  
                            FontFamily="Proxima Nova Thin" 
                            HorizontalTextAlignment="Center"/>
-                    </StackLayout>
-                </Grid>
-            </StackLayout>
+                </StackLayout>
+            </Grid>
         </ScrollView>
     </ContentPage.Content>
 </ContentPage>

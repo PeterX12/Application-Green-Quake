@@ -2,25 +2,264 @@
 <ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              x:Class="Application_Green_Quake.Views.EcoActions.EcoActionsSubMenu.HomePage"
+             xmlns:local="clr-namespace:Application_Green_Quake.Models"
              Title="Home Subcategories">
     <ContentPage.Content>
         <ScrollView>
-            <StackLayout>
-                <Button Text="Air Out Your Home"
-                    Clicked="NavigateToAirOutHome"/>
-                <Button Text="Go Outside Once a Day"
-                    Clicked="NavigateToOutsideOnce"/>
-                <Button Text="Bring a Plant Into the Home"
-                    Clicked="NavigateToPlantIntoHome"/>
-                <Button Text="Save a Flush"
-                    Clicked="NavigateToPlantSaveFlush"/>
-                <Button Text="Clean With Non Harmful Products"
-                    Clicked="NavigateToNonHarmfulProducts"/>
-                <Button Text="Use Cloth Napkin Instead of Paper"
-                    Clicked="NavigateToClothNapkins"/>
-                <Button Text="Use Cloth Towels Instead of Paper"
-                    Clicked="NavigateToClothTowels"/>
-            </StackLayout>
+            <Grid Margin="5,5,5,5">
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="200" />
+                    <RowDefinition Height="200" />
+                    <RowDefinition Height="200" />
+                    <RowDefinition Height="200" />
+                    <RowDefinition Height="200" />
+                    <RowDefinition Height="200" />
+                    <RowDefinition Height="200" />
+                </Grid.RowDefinitions>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition />
+                </Grid.ColumnDefinitions>
+
+                <Image Grid.Column="0"
+                       Grid.Row="0"
+                       Aspect="AspectFill"
+                       Source="{local:ImageResource Application_Green_Quake.Images.SubCategories.Home.AirOut.jpg}"/>
+                <StackLayout Grid.Column="0"
+                             Grid.Row="0"
+                             BackgroundColor="Black"
+                             Opacity=".5">
+                    <StackLayout.GestureRecognizers>
+                        <TapGestureRecognizer Tapped="NavigateToAirOutHome"/>
+                    </StackLayout.GestureRecognizers>
+                </StackLayout>
+                <StackLayout Grid.Column="0"
+                             Grid.Row="0"
+                             VerticalOptions="End"
+                             Spacing="5"
+                             Margin="40,0,40,15">
+                    <StackLayout.GestureRecognizers>
+                        <TapGestureRecognizer Tapped="NavigateToAirOutHome"/>
+                    </StackLayout.GestureRecognizers>
+                    <Label Text="Timed Shower" 
+                           TextColor="White" 
+                           HorizontalOptions="Center" 
+                           FontSize="24" 
+                           FontAttributes="Bold" 
+                           FontFamily="Proxima Nova"/>
+                    <Label Text="When brushing your teeth it can be easy to leave the water running but this attricutes to major water waste." 
+                           TextColor="White" 
+                           HorizontalOptions="Center" 
+                           FontSize="15"  
+                           FontFamily="Proxima Nova Thin" 
+                           HorizontalTextAlignment="Center"/>
+                </StackLayout>
+
+                <Image Grid.Column="0"
+                       Grid.Row="1"
+                       Aspect="AspectFill"
+                       Source="{local:ImageResource Application_Green_Quake.Images.SubCategories.Home.Outside.jpg}"/>
+                <StackLayout Grid.Column="0"
+                             Grid.Row="1"
+                             BackgroundColor="Black"
+                             Opacity=".5">
+                    <StackLayout.GestureRecognizers>
+                        <TapGestureRecognizer Tapped="NavigateToOutsideOnce"/>
+                    </StackLayout.GestureRecognizers>
+                </StackLayout>
+                <StackLayout Grid.Column="0"
+                             Grid.Row="1"
+                             VerticalOptions="End"
+                             Spacing="5"
+                             Margin="40,0,40,15">
+                    <StackLayout.GestureRecognizers>
+                        <TapGestureRecognizer Tapped="NavigateToOutsideOnce"/>
+                    </StackLayout.GestureRecognizers>
+                    <Label Text="Shower No Bath" 
+                           TextColor="White" 
+                           HorizontalOptions="Center" 
+                           FontSize="24" 
+                           FontAttributes="Bold" 
+                           FontFamily="Proxima Nova"/>
+                    <Label Text="When brushing your teeth it can be easy to leave the water running but this attricutes to major water waste." 
+                           TextColor="White" 
+                           HorizontalOptions="Center" 
+                           FontSize="15"  
+                           FontFamily="Proxima Nova Thin" 
+                           HorizontalTextAlignment="Center"/>
+                </StackLayout>
+
+                <Image Grid.Column="0"
+                       Grid.Row="2"
+                       Aspect="AspectFill"
+                       Source="{local:ImageResource Application_Green_Quake.Images.SubCategories.Home.PlantHome.jpg}"/>
+                <StackLayout Grid.Column="0"
+                             Grid.Row="2"
+                             BackgroundColor="Black"
+                             Opacity=".5">
+                    <StackLayout.GestureRecognizers>
+                        <TapGestureRecognizer Tapped="NavigateToPlantIntoHome"/>
+                    </StackLayout.GestureRecognizers>
+                </StackLayout>
+                <StackLayout Grid.Column="0"
+                             Grid.Row="2"
+                             VerticalOptions="End"
+                             Spacing="5"
+                             Margin="40,0,40,15">
+                    <StackLayout.GestureRecognizers>
+                        <TapGestureRecognizer Tapped="NavigateToPlantIntoHome"/>
+                    </StackLayout.GestureRecognizers>
+                    <Label Text="Full Dishwasher" 
+                           TextColor="White" 
+                           HorizontalOptions="Center" 
+                           FontSize="24" 
+                           FontAttributes="Bold" 
+                           FontFamily="Proxima Nova"/>
+                    <Label Text="When brushing your teeth it can be easy to leave the water running but this attricutes to major water waste." 
+                           TextColor="White" 
+                           HorizontalOptions="Center" 
+                           FontSize="15"  
+                           FontFamily="Proxima Nova Thin" 
+                           HorizontalTextAlignment="Center"/>
+                </StackLayout>
+
+                <Image Grid.Column="0"
+                       Grid.Row="3"
+                       Aspect="AspectFill"
+                       Source="{local:ImageResource Application_Green_Quake.Images.SubCategories.Home.NonHarmful.jpg}"/>
+                <StackLayout Grid.Column="0"
+                             Grid.Row="3"
+                             BackgroundColor="Black"
+                             Opacity=".5">
+                    <StackLayout.GestureRecognizers>
+                        <TapGestureRecognizer Tapped="NavigateToNonHarmfulProducts"/>
+                    </StackLayout.GestureRecognizers>
+                </StackLayout>
+                <StackLayout Grid.Column="0"
+                             Grid.Row="3"
+                             VerticalOptions="End"
+                             Spacing="5"
+                             Margin="40,0,40,15">
+                    <StackLayout.GestureRecognizers>
+                        <TapGestureRecognizer Tapped="NavigateToNonHarmfulProducts"/>
+                    </StackLayout.GestureRecognizers>
+                    <Label Text="Turn Off The Lights" 
+                           TextColor="White" 
+                           HorizontalOptions="Center" 
+                           FontSize="24" 
+                           FontAttributes="Bold" 
+                           FontFamily="Proxima Nova"/>
+                    <Label Text="When brushing your teeth it can be easy to leave the water running but this attricutes to major water waste." 
+                           TextColor="White" 
+                           HorizontalOptions="Center" 
+                           FontSize="15"  
+                           FontFamily="Proxima Nova Thin" 
+                           HorizontalTextAlignment="Center"/>
+                </StackLayout>
+
+                <Image Grid.Column="0"
+                       Grid.Row="4"
+                       Aspect="AspectFill"
+                       Source="{local:ImageResource Application_Green_Quake.Images.SubCategories.Home.Flush.jpg}"/>
+                <StackLayout Grid.Column="0"
+                             Grid.Row="4"
+                             BackgroundColor="Black"
+                             Opacity=".5">
+                    <StackLayout.GestureRecognizers>
+                        <TapGestureRecognizer Tapped="NavigateToSaveFlush"/>
+                    </StackLayout.GestureRecognizers>
+                </StackLayout>
+                <StackLayout Grid.Column="0"
+                             Grid.Row="4"
+                             VerticalOptions="End"
+                             Spacing="5"
+                             Margin="40,0,40,15">
+                    <StackLayout.GestureRecognizers>
+                        <TapGestureRecognizer Tapped="NavigateToSaveFlush"/>
+                    </StackLayout.GestureRecognizers>
+                    <Label Text="Turn Off The Lights" 
+                           TextColor="White" 
+                           HorizontalOptions="Center" 
+                           FontSize="24" 
+                           FontAttributes="Bold" 
+                           FontFamily="Proxima Nova"/>
+                    <Label Text="When brushing your teeth it can be easy to leave the water running but this attricutes to major water waste." 
+                           TextColor="White" 
+                           HorizontalOptions="Center" 
+                           FontSize="15"  
+                           FontFamily="Proxima Nova Thin" 
+                           HorizontalTextAlignment="Center"/>
+                </StackLayout>
+
+                <Image Grid.Column="0"
+                       Grid.Row="5"
+                       Aspect="AspectFill"
+                       Source="{local:ImageResource Application_Green_Quake.Images.SubCategories.Shopping.Napkin.jpg}"/>
+                <StackLayout Grid.Column="0"
+                             Grid.Row="5"
+                             BackgroundColor="Black"
+                             Opacity=".5">
+                    <StackLayout.GestureRecognizers>
+                        <TapGestureRecognizer Tapped="NavigateToClothNapkins"/>
+                    </StackLayout.GestureRecognizers>
+                </StackLayout>
+                <StackLayout Grid.Column="0"
+                             Grid.Row="5"
+                             VerticalOptions="End"
+                             Spacing="5"
+                             Margin="40,0,40,15">
+                    <StackLayout.GestureRecognizers>
+                        <TapGestureRecognizer Tapped="NavigateToClothNapkins"/>
+                    </StackLayout.GestureRecognizers>
+                    <Label Text="Turn Off The Lights" 
+                           TextColor="White" 
+                           HorizontalOptions="Center" 
+                           FontSize="24" 
+                           FontAttributes="Bold" 
+                           FontFamily="Proxima Nova"/>
+                    <Label Text="When brushing your teeth it can be easy to leave the water running but this attricutes to major water waste." 
+                           TextColor="White" 
+                           HorizontalOptions="Center" 
+                           FontSize="15"  
+                           FontFamily="Proxima Nova Thin" 
+                           HorizontalTextAlignment="Center"/>
+                </StackLayout>
+
+                <Image Grid.Column="0"
+                       Grid.Row="6"
+                       Aspect="AspectFill"
+                       Source="{local:ImageResource Application_Green_Quake.Images.SubCategories.Shopping.Towel.jpg}"
+                       Margin="0,0,0,5"/>
+                <StackLayout Grid.Column="0"
+                             Grid.Row="6"
+                             BackgroundColor="Black"
+                             Opacity=".5"
+                             Margin="0,0,0,5">
+                    <StackLayout.GestureRecognizers>
+                        <TapGestureRecognizer Tapped="NavigateToClothTowels"/>
+                    </StackLayout.GestureRecognizers>
+                </StackLayout>
+                <StackLayout Grid.Column="0"
+                             Grid.Row="6"
+                             VerticalOptions="End"
+                             Spacing="5"
+                             Margin="40,0,40,15">
+                    <StackLayout.GestureRecognizers>
+                        <TapGestureRecognizer Tapped="NavigateToClothTowels"/>
+                    </StackLayout.GestureRecognizers>
+                    <Label Text="Matches Over Lighters" 
+                           TextColor="White" 
+                           HorizontalOptions="Center" 
+                           FontSize="24" 
+                           FontAttributes="Bold" 
+                           FontFamily="Proxima Nova"/>
+                    <Label Text="When brushing your teeth it can be easy to leave the water running but this attricutes to major water waste." 
+                           TextColor="White" 
+                           HorizontalOptions="Center" 
+                           FontSize="15"  
+                           FontFamily="Proxima Nova Thin" 
+                           HorizontalTextAlignment="Center"/>
+                </StackLayout>
+            </Grid>
         </ScrollView>
     </ContentPage.Content>
 </ContentPage>

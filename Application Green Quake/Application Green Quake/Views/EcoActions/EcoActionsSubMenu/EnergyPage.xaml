@@ -49,13 +49,13 @@
                     <StackLayout.GestureRecognizers>
                         <TapGestureRecognizer Tapped="NavigateToDryerFull"/>
                     </StackLayout.GestureRecognizers>
-                    <Label Text="Tap Off" 
+                    <Label Text="Full Dryer" 
                            TextColor="White" 
                            HorizontalOptions="Center" 
                            FontSize="24" 
                            FontAttributes="Bold"
                            FontFamily="Proxima Nova"/>
-                    <Label Text="When brushing your teeth it can be easy to leave the water running but this attributes to major water waste." 
+                    <Label Text="Only use the Dryer when it is full." 
                            TextColor="White" 
                            HorizontalOptions="Center" 
                            FontSize="15"  
@@ -83,13 +83,13 @@
                     <StackLayout.GestureRecognizers>
                         <TapGestureRecognizer Tapped="NavigateToMachineFull"/>
                     </StackLayout.GestureRecognizers>
-                    <Label Text="Timed Shower" 
+                    <Label Text="Full Washing Machine" 
                            TextColor="White" 
                            HorizontalOptions="Center" 
                            FontSize="24" 
                            FontAttributes="Bold" 
                            FontFamily="Proxima Nova"/>
-                    <Label Text="When brushing your teeth it can be easy to leave the water running but this attricutes to major water waste." 
+                    <Label Text="Only use the ashing machine when it is full." 
                            TextColor="White" 
                            HorizontalOptions="Center" 
                            FontSize="15"  
@@ -123,7 +123,7 @@
                            FontSize="24" 
                            FontAttributes="Bold" 
                            FontFamily="Proxima Nova"/>
-                    <Label Text="When brushing your teeth it can be easy to leave the water running but this attricutes to major water waste." 
+                    <Label Text="Shower instead of taking a bath." 
                            TextColor="White" 
                            HorizontalOptions="Center" 
                            FontSize="15"  
@@ -151,13 +151,13 @@
                     <StackLayout.GestureRecognizers>
                         <TapGestureRecognizer Tapped="NavigateToHangDry"/>
                     </StackLayout.GestureRecognizers>
-                    <Label Text="Full Dishwasher" 
+                    <Label Text="Hang Dry Clothes" 
                            TextColor="White" 
                            HorizontalOptions="Center" 
                            FontSize="24" 
                            FontAttributes="Bold" 
                            FontFamily="Proxima Nova"/>
-                    <Label Text="When brushing your teeth it can be easy to leave the water running but this attricutes to major water waste." 
+                    <Label Text="Instead of using the washing machine. Hang dry your clothes instead." 
                            TextColor="White" 
                            HorizontalOptions="Center" 
                            FontSize="15"  
@@ -185,13 +185,13 @@
                     <StackLayout.GestureRecognizers>
                         <TapGestureRecognizer Tapped="NavigateToEfficientThermostat"/>
                     </StackLayout.GestureRecognizers>
-                    <Label Text="Turn Off The Lights" 
+                    <Label Text="Efficient Thermostat" 
                            TextColor="White" 
                            HorizontalOptions="Center" 
                            FontSize="24" 
                            FontAttributes="Bold" 
                            FontFamily="Proxima Nova"/>
-                    <Label Text="When brushing your teeth it can be easy to leave the water running but this attricutes to major water waste." 
+                    <Label Text="Efficiently program your thermostat." 
                            TextColor="White" 
                            HorizontalOptions="Center" 
                            FontSize="15"  
@@ -219,13 +219,13 @@
                     <StackLayout.GestureRecognizers>
                         <TapGestureRecognizer Tapped="NavigateToSolarPanel"/>
                     </StackLayout.GestureRecognizers>
-                    <Label Text="Tap Off" 
+                    <Label Text="Solar Energy" 
                            TextColor="White" 
                            HorizontalOptions="Center" 
                            FontSize="24" 
                            FontAttributes="Bold"
                            FontFamily="Proxima Nova"/>
-                    <Label Text="When brushing your teeth it can be easy to leave the water running but this attributes to major water waste." 
+                    <Label Text="Install a solar panel on your home or garden." 
                            TextColor="White" 
                            HorizontalOptions="Center" 
                            FontSize="15"  
@@ -253,13 +253,13 @@
                     <StackLayout.GestureRecognizers>
                         <TapGestureRecognizer Tapped="NavigateToLedLightbulb"/>
                     </StackLayout.GestureRecognizers>
-                    <Label Text="Timed Shower" 
+                    <Label Text="Led Lights" 
                            TextColor="White" 
                            HorizontalOptions="Center" 
                            FontSize="24" 
                            FontAttributes="Bold" 
                            FontFamily="Proxima Nova"/>
-                    <Label Text="When brushing your teeth it can be easy to leave the water running but this attricutes to major water waste." 
+                    <Label Text="Install Led Light Bulbs instead of normal ones." 
                            TextColor="White" 
                            HorizontalOptions="Center" 
                            FontSize="15"  
@@ -287,13 +287,13 @@
                     <StackLayout.GestureRecognizers>
                         <TapGestureRecognizer Tapped="NavigateToOffSocketSwitch"/>
                     </StackLayout.GestureRecognizers>
-                    <Label Text="Shower No Bath" 
+                    <Label Text="Socket Off" 
                            TextColor="White" 
                            HorizontalOptions="Center" 
                            FontSize="24" 
                            FontAttributes="Bold" 
                            FontFamily="Proxima Nova"/>
-                    <Label Text="When brushing your teeth it can be easy to leave the water running but this attricutes to major water waste." 
+                    <Label Text="Turn off or unplug devices not in use from the wall socket." 
                            TextColor="White" 
                            HorizontalOptions="Center" 
                            FontSize="15"  
@@ -321,13 +321,13 @@
                     <StackLayout.GestureRecognizers>
                         <TapGestureRecognizer Tapped="NavigateToOffLights"/>
                     </StackLayout.GestureRecognizers>
-                    <Label Text="Full Dishwasher" 
+                    <Label Text="Lights Off" 
                            TextColor="White" 
                            HorizontalOptions="Center" 
                            FontSize="24" 
                            FontAttributes="Bold" 
                            FontFamily="Proxima Nova"/>
-                    <Label Text="When brushing your teeth it can be easy to leave the water running but this attricutes to major water waste." 
+                    <Label Text="Turn off the lights when leaving the room." 
                            TextColor="White" 
                            HorizontalOptions="Center" 
                            FontSize="15"  
@@ -355,13 +355,13 @@
                     <StackLayout.GestureRecognizers>
                         <TapGestureRecognizer Tapped="NavigateToIsolateHome"/>
                     </StackLayout.GestureRecognizers>
-                    <Label Text="Turn Off The Lights" 
+                    <Label Text="Insulate The Home" 
                            TextColor="White" 
                            HorizontalOptions="Center" 
                            FontSize="24" 
                            FontAttributes="Bold" 
                            FontFamily="Proxima Nova"/>
-                    <Label Text="When brushing your teeth it can be easy to leave the water running but this attricutes to major water waste." 
+                    <Label Text="Insulate your home and stay warm." 
                            TextColor="White" 
                            HorizontalOptions="Center" 
                            FontSize="15"  
@@ -389,13 +389,13 @@
                     <StackLayout.GestureRecognizers>
                         <TapGestureRecognizer Tapped="NavigateToMicrowaveNotOven"/>
                     </StackLayout.GestureRecognizers>
-                    <Label Text="Turn Off The Lights" 
+                    <Label Text="Microwave Don't Oven" 
                            TextColor="White" 
                            HorizontalOptions="Center" 
                            FontSize="24" 
                            FontAttributes="Bold" 
                            FontFamily="Proxima Nova"/>
-                    <Label Text="When brushing your teeth it can be easy to leave the water running but this attricutes to major water waste." 
+                    <Label Text="When possible use the microwave over the oven." 
                            TextColor="White" 
                            HorizontalOptions="Center" 
                            FontSize="15"  
@@ -423,13 +423,13 @@
                     <StackLayout.GestureRecognizers>
                         <TapGestureRecognizer Tapped="NavigateToReBatteries"/>
                     </StackLayout.GestureRecognizers>
-                    <Label Text="Tap Off" 
+                    <Label Text="Reusable Batteries" 
                            TextColor="White" 
                            HorizontalOptions="Center" 
                            FontSize="24" 
                            FontAttributes="Bold"
                            FontFamily="Proxima Nova"/>
-                    <Label Text="When brushing your teeth it can be easy to leave the water running but this attributes to major water waste." 
+                    <Label Text="Use Rechargable Batteries over non rechargable ones." 
                            TextColor="White" 
                            HorizontalOptions="Center" 
                            FontSize="15"  
@@ -457,13 +457,13 @@
                     <StackLayout.GestureRecognizers>
                         <TapGestureRecognizer Tapped="NavigateToRefrigiratorDown"/>
                     </StackLayout.GestureRecognizers>
-                    <Label Text="Timed Shower" 
+                    <Label Text="Turn Down The Fridge" 
                            TextColor="White" 
                            HorizontalOptions="Center" 
                            FontSize="24" 
                            FontAttributes="Bold" 
                            FontFamily="Proxima Nova"/>
-                    <Label Text="When brushing your teeth it can be easy to leave the water running but this attricutes to major water waste." 
+                    <Label Text="Turn down the refrigirator to use less energy." 
                            TextColor="White" 
                            HorizontalOptions="Center" 
                            FontSize="15"  
@@ -491,13 +491,13 @@
                     <StackLayout.GestureRecognizers>
                         <TapGestureRecognizer Tapped="NavigateToInsulateWater"/>
                     </StackLayout.GestureRecognizers>
-                    <Label Text="Shower No Bath" 
+                    <Label Text="Insulate The Water Tank" 
                            TextColor="White" 
                            HorizontalOptions="Center" 
                            FontSize="24" 
                            FontAttributes="Bold" 
                            FontFamily="Proxima Nova"/>
-                    <Label Text="When brushing your teeth it can be easy to leave the water running but this attricutes to major water waste." 
+                    <Label Text="Insulate the water tank and keep the water warm." 
                            TextColor="White" 
                            HorizontalOptions="Center" 
                            FontSize="15"  
@@ -525,13 +525,13 @@
                     <StackLayout.GestureRecognizers>
                         <TapGestureRecognizer Tapped="NavigateToSealDrafts"/>
                     </StackLayout.GestureRecognizers>
-                    <Label Text="Full Dishwasher" 
+                    <Label Text="Seal The Drafts" 
                            TextColor="White" 
                            HorizontalOptions="Center" 
                            FontSize="24" 
                            FontAttributes="Bold" 
                            FontFamily="Proxima Nova"/>
-                    <Label Text="When brushing your teeth it can be easy to leave the water running but this attricutes to major water waste." 
+                    <Label Text="Seal the drafts in your home and keep the cold outside." 
                            TextColor="White" 
                            HorizontalOptions="Center" 
                            FontSize="15"  
@@ -561,13 +561,13 @@
                     <StackLayout.GestureRecognizers>
                         <TapGestureRecognizer Tapped="NavigateToSealDucts"/>
                     </StackLayout.GestureRecognizers>
-                    <Label Text="Matches Over Lighters" 
+                    <Label Text="Seal The Ducts" 
                            TextColor="White" 
                            HorizontalOptions="Center" 
                            FontSize="24" 
                            FontAttributes="Bold" 
                            FontFamily="Proxima Nova"/>
-                    <Label Text="When brushing your teeth it can be easy to leave the water running but this attricutes to major water waste." 
+                    <Label Text="Seal the ducts in your home and keep the cold out." 
                            TextColor="White" 
                            HorizontalOptions="Center" 
                            FontSize="15"  

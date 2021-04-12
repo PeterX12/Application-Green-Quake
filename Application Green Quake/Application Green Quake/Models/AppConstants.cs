@@ -16,6 +16,5 @@
         public const string sixPointsMsg = "6 Points Point Have been added";
         public const string eightPointsMsg = "8 Points Point Have been added";
         public const string tenPointsMsg = "10 Points Point Have been added";
-
     }
 }

@@ -4,7 +4,7 @@
              x:Class="Application_Green_Quake.Views.LeaderboardPage.TopTabLeaderBoard">
     <ContentPage.Content>
         <StackLayout>
-            <Label Text="Leader Board" FontSize="22" HorizontalTextAlignment="Center" FontFamily="Proxima Nova"></Label>
+            <Label Text="Leader Board" FontSize="22" HorizontalTextAlignment="Center" FontFamily="Proxima Nova" TextColor="Black"></Label>
             <ListView x:Name="LeaderBoard"
                       ItemTapped="OnItemTapped"
                       RowHeight="70">

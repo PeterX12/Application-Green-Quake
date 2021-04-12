@@ -16,9 +16,14 @@
                    Source="{local:ImageResource Application_Green_Quake.Images.SubCategories.FD.FoodDelivered.jpg}"/>
             <StackLayout Grid.Row="1" 
                          VerticalOptions="Center"
-                         HorizontalOptions="Center">
+                         HorizontalOptions="Center"
+                         Margin="15,0,15,0"
+                         Padding="0,5,0,5"
+                         BackgroundColor="#D3D3D3">
                 <Label Text="Instead of traveling to the shop have your food deivered at once. This is more efficient and will result in less emissions as only a single delivery vehicle will have to make a trip to all the houses rather than everyone going there and back."
-                       TextColor="Black"/>
+                       TextColor="Black"
+                       HorizontalTextAlignment="Center"
+                       FontSize="20"/>
             </StackLayout>
             <StackLayout Grid.Row="2"
                          Spacing="10">

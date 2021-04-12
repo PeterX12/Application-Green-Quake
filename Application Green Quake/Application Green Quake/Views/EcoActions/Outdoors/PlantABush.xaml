@@ -16,9 +16,14 @@
                    Source="{local:ImageResource Application_Green_Quake.Images.SubCategories.Outdoors.Bush.jpg}"/>
             <StackLayout Grid.Row="1" 
                          VerticalOptions="Center"
-                         HorizontalOptions="Center">
+                         HorizontalOptions="Center"
+                         Margin="15,0,15,0"
+                         Padding="0,5,0,5"
+                         BackgroundColor="#D3D3D3">
                 <Label Text="Plant a bush where you can. As time goes on the planet is loosing more and more of it's greenery. Planting a bush can decrease this loss and it helps the environemnt by producing oxygen."
-                       TextColor="Black"/>
+                       TextColor="Black"
+                       HorizontalTextAlignment="Center"
+                       FontSize="20"/>
             </StackLayout>
             <StackLayout Grid.Row="2"
                          Spacing="10">

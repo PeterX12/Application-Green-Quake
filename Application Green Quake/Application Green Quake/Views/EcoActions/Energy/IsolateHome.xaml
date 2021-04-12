@@ -16,9 +16,14 @@
                    Source="{local:ImageResource Application_Green_Quake.Images.SubCategories.Energy.InsulateHome.jpg}"/>
             <StackLayout Grid.Row="1" 
                          VerticalOptions="Center"
-                         HorizontalOptions="Center">
+                         HorizontalOptions="Center"
+                         Margin="15,0,15,0"
+                         Padding="0,5,0,5"
+                         BackgroundColor="#D3D3D3">
                 <Label Text="Insulate your home and keep the heat it. This will not only make your home feel nice, hot and cozy but will also in turn save you money on heating."
-                       TextColor="Black"/>
+                       TextColor="Black"
+                       HorizontalTextAlignment="Center"
+                       FontSize="20"/>
             </StackLayout>
             <StackLayout Grid.Row="2"
                          Spacing="10">

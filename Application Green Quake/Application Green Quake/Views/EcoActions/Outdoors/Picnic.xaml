@@ -16,9 +16,14 @@
                    Source="{local:ImageResource Application_Green_Quake.Images.SubCategories.Outdoors.Picnic.jpg}"/>
             <StackLayout Grid.Row="1" 
                          VerticalOptions="Center"
-                         HorizontalOptions="Center">
+                         HorizontalOptions="Center"
+                         Margin="15,0,15,0"
+                         Padding="0,5,0,5"
+                         BackgroundColor="#D3D3D3">
                 <Label Text="Go out for a picnic and use reusable cuttlery. This can be very positive for you mood."
-                       TextColor="Black"/>
+                       TextColor="Black"
+                       HorizontalTextAlignment="Center"
+                       FontSize="20"/>
             </StackLayout>
             <StackLayout Grid.Row="2"
                          Spacing="10">

@@ -16,9 +16,14 @@
                    Source="{local:ImageResource Application_Green_Quake.Images.SubCategories.Shopping.EcoBrush.jpg}"/>
             <StackLayout Grid.Row="1" 
                          VerticalOptions="Center"
-                         HorizontalOptions="Center">
+                         HorizontalOptions="Center"
+                         Margin="15,0,15,0"
+                         Padding="0,5,0,5"
+                         BackgroundColor="#D3D3D3">
                 <Label Text="Purchase and use an Eco Friednly toothbrush and toothpaste. This is something we do at least twice a day so it is a good idea to do it in a Eco Friednly Fashion."
-                       TextColor="Black"/>
+                       TextColor="Black"
+                       HorizontalTextAlignment="Center"
+                       FontSize="20"/>
             </StackLayout>
             <StackLayout Grid.Row="2"
                          Spacing="10">

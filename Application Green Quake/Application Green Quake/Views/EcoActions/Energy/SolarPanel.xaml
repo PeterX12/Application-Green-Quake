@@ -16,9 +16,14 @@
                    Source="{local:ImageResource Application_Green_Quake.Images.SubCategories.Energy.SolarPanel.jpg}"/>
             <StackLayout Grid.Row="1" 
                          VerticalOptions="Center"
-                         HorizontalOptions="Center">
-                <Label Text="Install a Solar Panel. Solar energy systems/power plants do not produce air pollution or greenhouse gases. Using solar energy can have a positive, indirect effect on the environment when solar energy replaces or reduces the use of other energy sources that have larger effects on the environment."
-                       TextColor="Black"/>
+                         HorizontalOptions="Center"
+                         Margin="15,0,15,0"
+                         Padding="0,5,0,5"
+                         BackgroundColor="#D3D3D3">
+                <Label Text="Install a Solar Panel. Using solar energy can have a positive, indirect effect on the environment when solar energy replaces or reduces the use of other energy sources that have larger effects on the environment."
+                       TextColor="Black"
+                       HorizontalTextAlignment="Center"
+                       FontSize="20"/>
             </StackLayout>
             <StackLayout Grid.Row="2"
                          Spacing="10">

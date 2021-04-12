@@ -35,7 +35,8 @@
                 <Button Text="Completed"
                         BackgroundColor="#50C878"
                         TextColor="White"
-                        Margin="60,0,60,0"/>
+                        Margin="60,0,60,0"
+                        Clicked="AddPointsClicked"/>
             </StackLayout>
         </Grid>
     </ContentPage.Content>

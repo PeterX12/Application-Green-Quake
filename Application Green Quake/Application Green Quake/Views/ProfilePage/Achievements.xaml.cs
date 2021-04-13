@@ -116,7 +116,7 @@ namespace Application_Green_Quake.Views.ProfilePage
             }
             catch (Exception e)
             {
-
+                Console.Write(e);
             }
             try
             {
@@ -127,7 +127,7 @@ namespace Application_Green_Quake.Views.ProfilePage
             }
             catch (Exception e)
             {
-
+                Console.Write(e);
             }
             try
             {
@@ -138,7 +138,7 @@ namespace Application_Green_Quake.Views.ProfilePage
             }
             catch (Exception e)
             {
-
+                Console.Write(e);
             }
             try
             {
@@ -149,7 +149,7 @@ namespace Application_Green_Quake.Views.ProfilePage
             }
             catch (Exception e)
             {
-
+                Console.Write(e);
             }
             try
             {
@@ -160,7 +160,7 @@ namespace Application_Green_Quake.Views.ProfilePage
             }
             catch (Exception e)
             {
-
+                Console.Write(e);
             }
             try
             {
@@ -171,7 +171,7 @@ namespace Application_Green_Quake.Views.ProfilePage
             }
             catch (Exception e)
             {
-
+                Console.Write(e);
             }
             try
             {
@@ -182,7 +182,7 @@ namespace Application_Green_Quake.Views.ProfilePage
             }
             catch (Exception e)
             {
-
+                Console.Write(e);
             }
             try
             {
@@ -193,7 +193,7 @@ namespace Application_Green_Quake.Views.ProfilePage
             }
             catch (Exception e)
             {
-
+                Console.Write(e);
             }
             try
             {
@@ -204,7 +204,7 @@ namespace Application_Green_Quake.Views.ProfilePage
             }
             catch (Exception e)
             {
-
+                Console.Write(e);
             }
             try
             {
@@ -215,7 +215,7 @@ namespace Application_Green_Quake.Views.ProfilePage
             }
             catch (Exception e)
             {
-
+                Console.Write(e);
             }
             try
             {
@@ -226,7 +226,7 @@ namespace Application_Green_Quake.Views.ProfilePage
             }
             catch (Exception e)
             {
-
+                Console.Write(e);
             }
             try
             {
@@ -237,7 +237,7 @@ namespace Application_Green_Quake.Views.ProfilePage
             }
             catch (Exception e)
             {
-
+                Console.Write(e);
             }
             try
             {
@@ -248,7 +248,7 @@ namespace Application_Green_Quake.Views.ProfilePage
             }
             catch (Exception e)
             {
-
+                Console.Write(e);
             }
             try
             {
@@ -259,7 +259,7 @@ namespace Application_Green_Quake.Views.ProfilePage
             }
             catch (Exception e)
             {
-
+                Console.Write(e);
             }
             try
             {
@@ -270,7 +270,7 @@ namespace Application_Green_Quake.Views.ProfilePage
             }
             catch (Exception e)
             {
-
+                Console.Write(e);
             }
             try
             {
@@ -281,7 +281,7 @@ namespace Application_Green_Quake.Views.ProfilePage
             }
             catch (Exception e)
             {
-
+                Console.Write(e);
             }
             try
             {
@@ -292,7 +292,7 @@ namespace Application_Green_Quake.Views.ProfilePage
             }
             catch (Exception e)
             {
-
+                Console.Write(e);
             }
             try
             {
@@ -303,7 +303,7 @@ namespace Application_Green_Quake.Views.ProfilePage
             }
             catch (Exception e)
             {
-
+                Console.Write(e);
             }
             try
             {
@@ -314,7 +314,7 @@ namespace Application_Green_Quake.Views.ProfilePage
             }
             catch (Exception e)
             {
-
+                Console.Write(e);
             }
 
             try
@@ -326,7 +326,7 @@ namespace Application_Green_Quake.Views.ProfilePage
             }
             catch (Exception e)
             {
-
+                Console.Write(e);
             }
             try
             {
@@ -337,7 +337,7 @@ namespace Application_Green_Quake.Views.ProfilePage
             }
             catch (Exception e)
             {
-
+                Console.Write(e);
             }
             try
             {
@@ -348,7 +348,7 @@ namespace Application_Green_Quake.Views.ProfilePage
             }
             catch (Exception e)
             {
-
+                Console.Write(e);
             }
             try
             {
@@ -359,7 +359,7 @@ namespace Application_Green_Quake.Views.ProfilePage
             }
             catch (Exception e)
             {
-
+                Console.Write(e);
             }
             try
             {
@@ -370,7 +370,7 @@ namespace Application_Green_Quake.Views.ProfilePage
             }
             catch (Exception e)
             {
-
+                Console.Write(e);
             }
             try
             {
@@ -381,7 +381,7 @@ namespace Application_Green_Quake.Views.ProfilePage
             }
             catch (Exception e)
             {
-
+                Console.Write(e);
             }
             try
             {
@@ -392,7 +392,7 @@ namespace Application_Green_Quake.Views.ProfilePage
             }
             catch (Exception e)
             {
-
+                Console.Write(e);
             }
             try
             {
@@ -403,7 +403,7 @@ namespace Application_Green_Quake.Views.ProfilePage
             }
             catch (Exception e)
             {
-
+                Console.Write(e);
             }
             try
             {
@@ -414,7 +414,7 @@ namespace Application_Green_Quake.Views.ProfilePage
             }
             catch (Exception e)
             {
-
+                Console.Write(e);
             }
             try
             {
@@ -425,7 +425,7 @@ namespace Application_Green_Quake.Views.ProfilePage
             }
             catch (Exception e)
             {
-
+                Console.Write(e);
             }
             try
             {
@@ -436,7 +436,7 @@ namespace Application_Green_Quake.Views.ProfilePage
             }
             catch (Exception e)
             {
-
+                Console.Write(e);
             }
             try
             {
@@ -447,7 +447,7 @@ namespace Application_Green_Quake.Views.ProfilePage
             }
             catch (Exception e)
             {
-
+                Console.Write(e);
             }
             try
             {
@@ -458,7 +458,7 @@ namespace Application_Green_Quake.Views.ProfilePage
             }
             catch (Exception e)
             {
-
+                Console.Write(e);
             }
             try
             {
@@ -469,7 +469,7 @@ namespace Application_Green_Quake.Views.ProfilePage
             }
             catch (Exception e)
             {
-
+                Console.Write(e);
             }
             try
             {
@@ -480,7 +480,7 @@ namespace Application_Green_Quake.Views.ProfilePage
             }
             catch (Exception e)
             {
-
+                Console.Write(e);
             }
             try
             {
@@ -491,7 +491,7 @@ namespace Application_Green_Quake.Views.ProfilePage
             }
             catch (Exception e)
             {
-
+                Console.Write(e);
             }
             try
             {
@@ -502,7 +502,7 @@ namespace Application_Green_Quake.Views.ProfilePage
             }
             catch (Exception e)
             {
-
+                Console.Write(e);
             }
             try
             {
@@ -513,7 +513,7 @@ namespace Application_Green_Quake.Views.ProfilePage
             }
             catch (Exception e)
             {
-
+                Console.Write(e);
             }
             try
             {
@@ -524,7 +524,7 @@ namespace Application_Green_Quake.Views.ProfilePage
             }
             catch (Exception e)
             {
-
+                Console.Write(e);
             }
             try
             {
@@ -535,7 +535,7 @@ namespace Application_Green_Quake.Views.ProfilePage
             }
             catch (Exception e)
             {
-
+                Console.Write(e);
             }
             try
             {
@@ -546,7 +546,7 @@ namespace Application_Green_Quake.Views.ProfilePage
             }
             catch (Exception e)
             {
-
+                Console.Write(e);
             }
             try
             {
@@ -557,7 +557,7 @@ namespace Application_Green_Quake.Views.ProfilePage
             }
             catch (Exception e)
             {
-
+                Console.Write(e);
             }
             try
             {
@@ -568,7 +568,7 @@ namespace Application_Green_Quake.Views.ProfilePage
             }
             catch (Exception e)
             {
-
+                Console.Write(e);
             }
             try
             {
@@ -579,7 +579,7 @@ namespace Application_Green_Quake.Views.ProfilePage
             }
             catch (Exception e)
             {
-
+                Console.Write(e);
             }
             try
             {
@@ -590,7 +590,7 @@ namespace Application_Green_Quake.Views.ProfilePage
             }
             catch (Exception e)
             {
-
+                Console.Write(e);
             }
             try
             {
@@ -601,7 +601,7 @@ namespace Application_Green_Quake.Views.ProfilePage
             }
             catch (Exception e)
             {
-
+                Console.Write(e);
             }
             try
             {
@@ -612,7 +612,7 @@ namespace Application_Green_Quake.Views.ProfilePage
             }
             catch (Exception e)
             {
-
+                Console.Write(e);
             }
             try
             {
@@ -623,7 +623,7 @@ namespace Application_Green_Quake.Views.ProfilePage
             }
             catch (Exception e)
             {
-
+                Console.Write(e);
             }
             try
             {
@@ -634,7 +634,7 @@ namespace Application_Green_Quake.Views.ProfilePage
             }
             catch (Exception e)
             {
-
+                Console.Write(e);
             }
             try
             {
@@ -645,7 +645,7 @@ namespace Application_Green_Quake.Views.ProfilePage
             }
             catch (Exception e)
             {
-
+                Console.Write(e);
             }
             try
             {
@@ -656,7 +656,7 @@ namespace Application_Green_Quake.Views.ProfilePage
             }
             catch (Exception e)
             {
-
+                Console.Write(e);
             }
             try
             {
@@ -667,7 +667,7 @@ namespace Application_Green_Quake.Views.ProfilePage
             }
             catch (Exception e)
             {
-
+                Console.Write(e);
             }
             try
             {
@@ -678,7 +678,7 @@ namespace Application_Green_Quake.Views.ProfilePage
             }
             catch (Exception e)
             {
-
+                Console.Write(e);
             }
             try
             {
@@ -689,7 +689,7 @@ namespace Application_Green_Quake.Views.ProfilePage
             }
             catch (Exception e)
             {
-
+                Console.Write(e);
             }
             try
             {
@@ -700,7 +700,7 @@ namespace Application_Green_Quake.Views.ProfilePage
             }
             catch (Exception e)
             {
-
+                Console.Write(e);
             }
             try
             {
@@ -711,7 +711,7 @@ namespace Application_Green_Quake.Views.ProfilePage
             }
             catch (Exception e)
             {
-
+                Console.Write(e);
             }
             try
             {
@@ -722,7 +722,7 @@ namespace Application_Green_Quake.Views.ProfilePage
             }
             catch (Exception e)
             {
-
+                Console.Write(e);
             }
             try
             {
@@ -733,7 +733,7 @@ namespace Application_Green_Quake.Views.ProfilePage
             }
             catch (Exception e)
             {
-
+                Console.Write(e);
             }
             try
             {
@@ -744,7 +744,7 @@ namespace Application_Green_Quake.Views.ProfilePage
             }
             catch (Exception e)
             {
-
+                Console.Write(e);
             }
             try
             {
@@ -755,7 +755,7 @@ namespace Application_Green_Quake.Views.ProfilePage
             }
             catch (Exception e)
             {
-
+                Console.Write(e);
             }
             try
             {
@@ -766,7 +766,7 @@ namespace Application_Green_Quake.Views.ProfilePage
             }
             catch (Exception e)
             {
-
+                Console.Write(e);
             }
             try
             {
@@ -777,7 +777,7 @@ namespace Application_Green_Quake.Views.ProfilePage
             }
             catch (Exception e)
             {
-
+                Console.Write(e);
             }
             try
             {
@@ -788,7 +788,7 @@ namespace Application_Green_Quake.Views.ProfilePage
             }
             catch (Exception e)
             {
-
+                Console.Write(e);
             }
             try
             {
@@ -799,7 +799,7 @@ namespace Application_Green_Quake.Views.ProfilePage
             }
             catch (Exception e)
             {
-
+                Console.Write(e);
             }
             try
             {
@@ -810,7 +810,7 @@ namespace Application_Green_Quake.Views.ProfilePage
             }
             catch (Exception e)
             {
-
+                Console.Write(e);
             }
             try
             {
@@ -821,7 +821,7 @@ namespace Application_Green_Quake.Views.ProfilePage
             }
             catch (Exception e)
             {
-
+                Console.Write(e);
             }
             try
             {
@@ -832,7 +832,7 @@ namespace Application_Green_Quake.Views.ProfilePage
             }
             catch (Exception e)
             {
-
+                Console.Write(e);
             }
             try
             {
@@ -843,7 +843,7 @@ namespace Application_Green_Quake.Views.ProfilePage
             }
             catch (Exception e)
             {
-
+                Console.Write(e);
             }
             try
             {
@@ -854,7 +854,7 @@ namespace Application_Green_Quake.Views.ProfilePage
             }
             catch (Exception e)
             {
-
+                Console.Write(e);
             }
             try
             {
@@ -865,7 +865,7 @@ namespace Application_Green_Quake.Views.ProfilePage
             }
             catch (Exception e)
             {
-
+                Console.Write(e);
             }
             try
             {
@@ -876,7 +876,7 @@ namespace Application_Green_Quake.Views.ProfilePage
             }
             catch (Exception e)
             {
-
+                Console.Write(e);
             }
             try
             {
@@ -887,7 +887,7 @@ namespace Application_Green_Quake.Views.ProfilePage
             }
             catch (Exception e)
             {
-
+                Console.Write(e);
             }
             try
             {
@@ -898,7 +898,7 @@ namespace Application_Green_Quake.Views.ProfilePage
             }
             catch (Exception e)
             {
-
+                Console.Write(e);
             }
             try
             {
@@ -909,7 +909,7 @@ namespace Application_Green_Quake.Views.ProfilePage
             }
             catch (Exception e)
             {
-
+                Console.Write(e);
             }
             try
             {
@@ -920,7 +920,7 @@ namespace Application_Green_Quake.Views.ProfilePage
             }
             catch (Exception e)
             {
-
+                Console.Write(e);
             }
             try
             {
@@ -931,7 +931,7 @@ namespace Application_Green_Quake.Views.ProfilePage
             }
             catch (Exception e)
             {
-
+                Console.Write(e);
             }
             try
             {
@@ -942,7 +942,7 @@ namespace Application_Green_Quake.Views.ProfilePage
             }
             catch (Exception e)
             {
-
+                Console.Write(e);
             }
             try
             {
@@ -953,7 +953,7 @@ namespace Application_Green_Quake.Views.ProfilePage
             }
             catch (Exception e)
             {
-
+                Console.Write(e);
             }
             try
             {
@@ -964,7 +964,7 @@ namespace Application_Green_Quake.Views.ProfilePage
             }
             catch (Exception e)
             {
-
+                Console.Write(e);
             }
             try
             {
@@ -975,7 +975,7 @@ namespace Application_Green_Quake.Views.ProfilePage
             }
             catch (Exception e)
             {
-
+                Console.Write(e);
             }
             try
             {
@@ -986,7 +986,7 @@ namespace Application_Green_Quake.Views.ProfilePage
             }
             catch (Exception e)
             {
-
+                Console.Write(e);
             }
 
             if (brushingCount >= 5 && brushingCount < 15)

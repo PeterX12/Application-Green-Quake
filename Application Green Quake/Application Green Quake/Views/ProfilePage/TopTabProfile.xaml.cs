@@ -92,7 +92,5 @@ namespace Application_Green_Quake.Views.ProfilePage
                     .Child(auth.GetUid())
                     .PutAsync(new Users() {username = username ,bio = bioInput });
         }
-
-
     }
 }

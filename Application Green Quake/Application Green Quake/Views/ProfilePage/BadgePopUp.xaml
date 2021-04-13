@@ -2,12 +2,33 @@
 <pages:PopupPage x:Class="Application_Green_Quake.Views.ProfilePage.BadgePopUp"
                  xmlns="http://xamarin.com/schemas/2014/forms"
                  xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
-                 xmlns:animations="clr-namespace:Rg.Plugins.Popup.Animations;assembly=Rg.Plugins.Popup"
                  xmlns:pages="clr-namespace:Rg.Plugins.Popup.Pages;assembly=Rg.Plugins.Popup"
-                 BackgroundColor="Red">
+                 xmlns:local="clr-namespace:Application_Green_Quake.Models"
+                 BackgroundColor="#002a1e">
 
-    <StackLayout HorizontalOptions="CenterAndExpand" VerticalOptions="StartAndExpand" >
+    <Grid VerticalOptions="FillAndExpand" RowSpacing="0" BackgroundColor="#002a1e">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="2*"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
 
-    </StackLayout>
+        <StackLayout BackgroundColor="#002a1e"
+                     VerticalOptions="End">
+            <Label x:Name="badgeHeading" Text="Unranked" FontSize="25" TextColor="White" HorizontalTextAlignment="Center" />
+            <Label x:Name="badgeSubHeading" Text="" FontSize="15" TextColor="White" HorizontalTextAlignment="Center" />
+        </StackLayout>
 
+         <Image Grid.Row="1"
+                Aspect="AspectFill"
+                BackgroundColor="#002a1e"
+                Source="{local:ImageResource Application_Green_Quake.Images.lockTwo.png}"
+                x:Name="badge"/>
+
+         <StackLayout Grid.Row="2" 
+                      BackgroundColor="#002a1e">
+            <Label x:Name="badgeTxt" Text="Next Rank: After 1 Action Log" FontSize="25" TextColor="White" HorizontalTextAlignment="Center"/>
+         </StackLayout>
+
+    </Grid>
 </pages:PopupPage>

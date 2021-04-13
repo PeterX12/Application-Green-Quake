@@ -1864,7 +1864,7 @@ namespace Application_Green_Quake.Views.ProfilePage
 
         private async void NavigateToBadgePopUp(object sender, EventArgs e)
         {
-            await PopupNavigation.Instance.PushAsync(new BadgePopUp());
+            
         }
 
 

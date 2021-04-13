@@ -3,13 +3,13 @@
                  xmlns="http://xamarin.com/schemas/2014/forms"
                  xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
                  xmlns:pages="clr-namespace:Rg.Plugins.Popup.Pages;assembly=Rg.Plugins.Popup"
-                 BackgroundColor="White">
+                 BackgroundColor="#002a1e">
 
     <StackLayout HorizontalOptions="CenterAndExpand" VerticalOptions="CenterAndExpand" >
         <Image x:Name="ChosenImage" HeightRequest="200"></Image>
-        <Button x:Name="Take" Text="Take Photo" Clicked="CapturePhotoClicked"></Button>
-        <Button x:Name="Pick" Text="Pick From Storage" Clicked="UplaodPhotoClicked"></Button>
-        <Button x:Name="Save" Text="Save" Clicked="storeImageClicked"></Button>
+        <Button x:Name="Take" TextColor="White" BackgroundColor="#50C878" Text="Take Photo" Clicked="CapturePhotoClicked"></Button>
+        <Button x:Name="Pick" TextColor="White" BackgroundColor="#50C878" Text="Pick From Storage" Clicked="UplaodPhotoClicked"></Button>
+        <Button x:Name="Save" TextColor="White" BackgroundColor="#50C878" Text="Save" Clicked="storeImageClicked"></Button>
     </StackLayout>
 
 </pages:PopupPage>

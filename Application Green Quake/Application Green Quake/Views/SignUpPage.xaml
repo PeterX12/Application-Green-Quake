@@ -21,17 +21,26 @@
                 <Entry Placeholder="Username"
                        x:Name="UsernameInput"
                        HorizontalTextAlignment="Center"
+                       PlaceholderColor="White"
+                       TextColor="Black"
+                       BackgroundColor="#50C878"
                        Margin="60,0,60,0"/>
                 <Entry Placeholder="Email"
                        Keyboard="Email"
                        x:Name="EmailInput"
                        HorizontalTextAlignment="Center"
+                       PlaceholderColor="White"
+                       TextColor="Black"
+                       BackgroundColor="#50C878"
                        Margin="60,0,60,0"/>
                 <Entry Grid.Row="1"
                        Placeholder="Password"
                        HorizontalTextAlignment="Center"
                        IsPassword="true"
                        x:Name="PasswordInput"
+                       PlaceholderColor="White"
+                       TextColor="Black"
+                       BackgroundColor="#50C878"
                        Margin="60,0,60,0"/>
             </StackLayout>
             <StackLayout Grid.Row="2" BackgroundColor="White" VerticalOptions="Center">

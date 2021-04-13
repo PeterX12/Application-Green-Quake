@@ -3,15 +3,15 @@
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              x:Class="Application_Green_Quake.Views.LeaderboardPage.TopTabLeaderBoard">
     <ContentPage.Content>
-        <StackLayout>
-            <Label Text="Leader Board" FontSize="22" HorizontalTextAlignment="Center" FontFamily="Proxima Nova" TextColor="Black"></Label>
+        <StackLayout BackgroundColor="#002a1e" >
+            <Label Text="Leader Board" FontSize="22" HorizontalTextAlignment="Center" FontFamily="Proxima Nova" TextColor="White"></Label>
             <ListView x:Name="LeaderBoard"
                       ItemTapped="OnItemTapped"
                       RowHeight="70">
                 <ListView.ItemTemplate>
                     <DataTemplate>
                         <ViewCell>
-                            <StackLayout>
+                            <StackLayout BackgroundColor="White">
                                 <Grid Margin="20,0,20,0">
                                     <Grid.ColumnDefinitions>
                                         <ColumnDefinition Width="*"/>

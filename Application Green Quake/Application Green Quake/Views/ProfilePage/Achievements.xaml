@@ -14,7 +14,7 @@
                         <ColumnDefinition Width="*"/>
                     </Grid.ColumnDefinitions>
                     <Grid.RowDefinitions>
-                        <RowDefinition Height="2450"/>
+                        <RowDefinition Height="3200"/>
                     </Grid.RowDefinitions>
 
                     <StackLayout Grid.Column="0" Grid.Row="0" VerticalOptions="Start">
@@ -27,7 +27,7 @@
                                 </Image>
                             </Frame>
 
-                            <Label x:Name="a1Txt" Text="Locked " TextColor="White" HorizontalTextAlignment="Center"/>
+                            <Label x:Name="a1Txt" Text="Locked " TextColor="White" HorizontalTextAlignment="Center" HeightRequest="60"/>
                         </StackLayout>
                         <StackLayout>
                             <Frame CornerRadius="60" HorizontalOptions="Start" VerticalOptions="Start" Margin="0" Padding="0" BackgroundColor="#33554b">
@@ -38,7 +38,7 @@
                                 </Image>
                             </Frame>
 
-                            <Label x:Name="a5Txt" Text="Locked " TextColor="White" HorizontalTextAlignment="Center"/>
+                            <Label x:Name="a5Txt" Text="Locked " TextColor="White" HorizontalTextAlignment="Center" HeightRequest="60"/>
                         </StackLayout>
                         <StackLayout>
                             <Frame CornerRadius="60" HorizontalOptions="Start" VerticalOptions="Start" Margin="0" Padding="0" BackgroundColor="#33554b">
@@ -49,7 +49,7 @@
                                 </Image>
                             </Frame>
 
-                            <Label x:Name="a9Txt" Text="Locked " TextColor="White" HorizontalTextAlignment="Center"/>
+                            <Label x:Name="a9Txt" Text="Locked " TextColor="White" HorizontalTextAlignment="Center" HeightRequest="60"/>
                         </StackLayout>
                         <StackLayout>
                             <Frame CornerRadius="60" HorizontalOptions="Start" VerticalOptions="Start" Margin="0" Padding="0" BackgroundColor="#33554b">
@@ -60,7 +60,7 @@
                                 </Image>
                             </Frame>
 
-                            <Label x:Name="a13Txt" Text="Locked " TextColor="White" HorizontalTextAlignment="Center"/>
+                            <Label x:Name="a13Txt" Text="Locked " TextColor="White" HorizontalTextAlignment="Center" HeightRequest="60"/>
                         </StackLayout>
                         <StackLayout>
                             <Frame CornerRadius="60" HorizontalOptions="Start" VerticalOptions="Start" Margin="0" Padding="0" BackgroundColor="#33554b">
@@ -71,7 +71,7 @@
                                 </Image>
                             </Frame>
 
-                            <Label x:Name="a17Txt" Text="Locked " TextColor="White" HorizontalTextAlignment="Center"/>
+                            <Label x:Name="a17Txt" Text="Locked " TextColor="White" HorizontalTextAlignment="Center" HeightRequest="60"/>
                         </StackLayout>
                         <StackLayout>
                             <Frame CornerRadius="60" HorizontalOptions="Start" VerticalOptions="Start" Margin="0" Padding="0" BackgroundColor="#33554b">
@@ -82,7 +82,7 @@
                                 </Image>
                             </Frame>
 
-                            <Label x:Name="a21Txt" Text="Locked " TextColor="White" HorizontalTextAlignment="Center"/>
+                            <Label x:Name="a21Txt" Text="Locked " TextColor="White" HorizontalTextAlignment="Center" HeightRequest="60"/>
                         </StackLayout>
                         <StackLayout>
                             <Frame CornerRadius="60" HorizontalOptions="Start" VerticalOptions="Start" Margin="0" Padding="0" BackgroundColor="#33554b">
@@ -93,7 +93,7 @@
                                 </Image>
                             </Frame>
 
-                            <Label x:Name="a25Txt" Text="Locked " TextColor="White" HorizontalTextAlignment="Center"/>
+                            <Label x:Name="a25Txt" Text="Locked " TextColor="White" HorizontalTextAlignment="Center" HeightRequest="60"/>
                         </StackLayout>
                         <StackLayout>
                             <Frame CornerRadius="60" HorizontalOptions="Start" VerticalOptions="Start" Margin="0" Padding="0" BackgroundColor="#33554b">
@@ -104,7 +104,7 @@
                                 </Image>
                             </Frame>
 
-                            <Label x:Name="a29Txt" Text="Locked " TextColor="White" HorizontalTextAlignment="Center"/>
+                            <Label x:Name="a29Txt" Text="Locked " TextColor="White" HorizontalTextAlignment="Center" HeightRequest="60"/>
                         </StackLayout>
                         <StackLayout>
                             <Frame CornerRadius="60" HorizontalOptions="Start" VerticalOptions="Start" Margin="0" Padding="0" BackgroundColor="#33554b">
@@ -115,7 +115,7 @@
                                 </Image>
                             </Frame>
 
-                            <Label x:Name="a33Txt" Text="Locked " TextColor="White" HorizontalTextAlignment="Center"/>
+                            <Label x:Name="a33Txt" Text="Locked " TextColor="White" HorizontalTextAlignment="Center" HeightRequest="60"/>
                         </StackLayout>
                         <StackLayout>
                             <Frame CornerRadius="60" HorizontalOptions="Start" VerticalOptions="Start" Margin="0" Padding="0" BackgroundColor="#33554b">
@@ -126,7 +126,7 @@
                                 </Image>
                             </Frame>
 
-                            <Label x:Name="a37Txt" Text="Locked " TextColor="White" HorizontalTextAlignment="Center"/>
+                            <Label x:Name="a37Txt" Text="Locked " TextColor="White" HorizontalTextAlignment="Center" HeightRequest="60"/>
                         </StackLayout>
                         <StackLayout>
                             <Frame CornerRadius="60" HorizontalOptions="Start" VerticalOptions="Start" Margin="0" Padding="0" BackgroundColor="#33554b">
@@ -137,7 +137,7 @@
                                 </Image>
                             </Frame>
 
-                            <Label x:Name="a41Txt" Text="Locked " TextColor="White" HorizontalTextAlignment="Center"/>
+                            <Label x:Name="a41Txt" Text="Locked " TextColor="White" HorizontalTextAlignment="Center" HeightRequest="60"/>
                         </StackLayout>
                         <StackLayout>
                             <Frame CornerRadius="60" HorizontalOptions="Start" VerticalOptions="Start" Margin="0" Padding="0" BackgroundColor="#33554b">
@@ -148,7 +148,7 @@
                                 </Image>
                             </Frame>
 
-                            <Label x:Name="a45Txt" Text="Locked " TextColor="White" HorizontalTextAlignment="Center"/>
+                            <Label x:Name="a45Txt" Text="Locked " TextColor="White" HorizontalTextAlignment="Center" HeightRequest="60"/>
                         </StackLayout>
                         <StackLayout>
                             <Frame CornerRadius="60" HorizontalOptions="Start" VerticalOptions="Start" Margin="0" Padding="0" BackgroundColor="#33554b">
@@ -159,7 +159,7 @@
                                 </Image>
                             </Frame>
 
-                            <Label x:Name="a49Txt" Text="Locked " TextColor="White" HorizontalTextAlignment="Center"/>
+                            <Label x:Name="a49Txt" Text="Locked " TextColor="White" HorizontalTextAlignment="Center" HeightRequest="60"/>
                         </StackLayout>
                         <StackLayout>
                             <Frame CornerRadius="60" HorizontalOptions="Start" VerticalOptions="Start" Margin="0" Padding="0" BackgroundColor="#33554b">
@@ -170,7 +170,7 @@
                                 </Image>
                             </Frame>
 
-                            <Label x:Name="a53Txt" Text="Locked " TextColor="White" HorizontalTextAlignment="Center"/>
+                            <Label x:Name="a53Txt" Text="Locked " TextColor="White" HorizontalTextAlignment="Center" HeightRequest="60"/>
                         </StackLayout>
                         <StackLayout>
                             <Frame CornerRadius="60" HorizontalOptions="Start" VerticalOptions="Start" Margin="0" Padding="0" BackgroundColor="#33554b">
@@ -181,7 +181,7 @@
                                 </Image>
                             </Frame>
 
-                            <Label x:Name="a57Txt" Text="Locked " TextColor="White" HorizontalTextAlignment="Center"/>
+                            <Label x:Name="a57Txt" Text="Locked " TextColor="White" HorizontalTextAlignment="Center" HeightRequest="60"/>
                         </StackLayout>
                         <StackLayout>
                             <Frame CornerRadius="60" HorizontalOptions="Start" VerticalOptions="Start" Margin="0" Padding="0" BackgroundColor="#33554b">
@@ -192,7 +192,7 @@
                                 </Image>
                             </Frame>
 
-                            <Label x:Name="a61Txt" Text="Locked " TextColor="White" HorizontalTextAlignment="Center"/>
+                            <Label x:Name="a61Txt" Text="Locked " TextColor="White" HorizontalTextAlignment="Center" HeightRequest="60"/>
                         </StackLayout>
                         <StackLayout>
                             <Frame CornerRadius="60" HorizontalOptions="Start" VerticalOptions="Start" Margin="0" Padding="0" BackgroundColor="#33554b">
@@ -203,7 +203,7 @@
                                 </Image>
                             </Frame>
 
-                            <Label x:Name="a65Txt" Text="Locked " TextColor="White" HorizontalTextAlignment="Center"/>
+                            <Label x:Name="a65Txt" Text="Locked " TextColor="White" HorizontalTextAlignment="Center" HeightRequest="60"/>
                         </StackLayout>
                         <StackLayout>
                             <Frame CornerRadius="60" HorizontalOptions="Start" VerticalOptions="Start" Margin="0" Padding="0" BackgroundColor="#33554b">
@@ -214,7 +214,7 @@
                                 </Image>
                             </Frame>
 
-                            <Label x:Name="a69Txt" Text="Locked " TextColor="White" HorizontalTextAlignment="Center"/>
+                            <Label x:Name="a69Txt" Text="Locked " TextColor="White" HorizontalTextAlignment="Center" HeightRequest="60"/>
                         </StackLayout>
                         <StackLayout>
                             <Frame CornerRadius="60" HorizontalOptions="Start" VerticalOptions="Start" Margin="0" Padding="0" BackgroundColor="#33554b">
@@ -225,7 +225,7 @@
                                 </Image>
                             </Frame>
 
-                            <Label x:Name="a73Txt" Text="Locked " TextColor="White" HorizontalTextAlignment="Center"/>
+                            <Label x:Name="a73Txt" Text="Locked " TextColor="White" HorizontalTextAlignment="Center" HeightRequest="60"/>
                         </StackLayout>
                         <StackLayout>
                             <Frame CornerRadius="60" HorizontalOptions="Start" VerticalOptions="Start" Margin="0" Padding="0" BackgroundColor="#33554b">
@@ -236,7 +236,7 @@
                                 </Image>
                             </Frame>
 
-                            <Label x:Name="a77Txt" Text="Locked " TextColor="White" HorizontalTextAlignment="Center"/>
+                            <Label x:Name="a77Txt" Text="Locked " TextColor="White" HorizontalTextAlignment="Center" HeightRequest="60"/>
                         </StackLayout>
                         <StackLayout>
                             <Frame CornerRadius="60" HorizontalOptions="Start" VerticalOptions="Start" Margin="0" Padding="0" BackgroundColor="#33554b">
@@ -247,7 +247,7 @@
                                 </Image>
                             </Frame>
 
-                            <Label x:Name="a81Txt" Text="Locked " TextColor="White" HorizontalTextAlignment="Center"/>
+                            <Label x:Name="a81Txt" Text="Locked " TextColor="White" HorizontalTextAlignment="Center" HeightRequest="60"/>
                         </StackLayout>
                     </StackLayout>
 
@@ -264,7 +264,7 @@
                                 </Image>
                             </Frame>
 
-                            <Label x:Name="a2Txt" Text="Locked " TextColor="White" HorizontalTextAlignment="Center"/>
+                            <Label x:Name="a2Txt" Text="Locked " TextColor="White" HorizontalTextAlignment="Center" HeightRequest="60"/>
                         </StackLayout>
                         <StackLayout>
                             <Frame CornerRadius="60" HorizontalOptions="Start" VerticalOptions="Start" Margin="0" Padding="0" BackgroundColor="#33554b">
@@ -275,7 +275,7 @@
                                 </Image>
                             </Frame>
 
-                            <Label x:Name="a6Txt" Text="Locked " TextColor="White" HorizontalTextAlignment="Center"/>
+                            <Label x:Name="a6Txt" Text="Locked " TextColor="White" HorizontalTextAlignment="Center" HeightRequest="60"/>
                         </StackLayout>
                         <StackLayout>
                             <Frame CornerRadius="60" HorizontalOptions="Start" VerticalOptions="Start" Margin="0" Padding="0" BackgroundColor="#33554b">
@@ -286,7 +286,7 @@
                                 </Image>
                             </Frame>
 
-                            <Label x:Name="a10Txt" Text="Locked " TextColor="White" HorizontalTextAlignment="Center"/>
+                            <Label x:Name="a10Txt" Text="Locked " TextColor="White" HorizontalTextAlignment="Center" HeightRequest="60"/>
                         </StackLayout>
                         <StackLayout>
                             <Frame CornerRadius="60" HorizontalOptions="Start" VerticalOptions="Start" Margin="0" Padding="0" BackgroundColor="#33554b" >
@@ -297,7 +297,7 @@
                                 </Image>
                             </Frame>
 
-                            <Label x:Name="a14Txt" Text="Locked " TextColor="White" HorizontalTextAlignment="Center"/>
+                            <Label x:Name="a14Txt" Text="Locked " TextColor="White" HorizontalTextAlignment="Center" HeightRequest="60"/>
                         </StackLayout>
                         <StackLayout>
                             <Frame CornerRadius="60" HorizontalOptions="Start" VerticalOptions="Start" Margin="0" Padding="0" BackgroundColor="#33554b">
@@ -308,7 +308,7 @@
                                 </Image>
                             </Frame>
 
-                            <Label x:Name="a18Txt" Text="Locked " TextColor="White" HorizontalTextAlignment="Center"/>
+                            <Label x:Name="a18Txt" Text="Locked " TextColor="White" HorizontalTextAlignment="Center" HeightRequest="60"/>
                         </StackLayout>
                         <StackLayout>
                             <Frame CornerRadius="60" HorizontalOptions="Start" VerticalOptions="Start" Margin="0" Padding="0" BackgroundColor="#33554b">
@@ -319,7 +319,7 @@
                                 </Image>
                             </Frame>
 
-                            <Label x:Name="a22Txt" Text="Locked " TextColor="White" HorizontalTextAlignment="Center"/>
+                            <Label x:Name="a22Txt" Text="Locked " TextColor="White" HorizontalTextAlignment="Center" HeightRequest="60"/>
                         </StackLayout>
                         <StackLayout>
                             <Frame CornerRadius="60" HorizontalOptions="Start" VerticalOptions="Start" Margin="0" Padding="0" BackgroundColor="#33554b">
@@ -330,7 +330,7 @@
                                 </Image>
                             </Frame>
 
-                            <Label x:Name="a26Txt" Text="Locked " TextColor="White" HorizontalTextAlignment="Center"/>
+                            <Label x:Name="a26Txt" Text="Locked " TextColor="White" HorizontalTextAlignment="Center" HeightRequest="60"/>
                         </StackLayout>
                         <StackLayout>
                             <Frame CornerRadius="60" HorizontalOptions="Start" VerticalOptions="Start" Margin="0" Padding="0" BackgroundColor="#33554b">
@@ -341,7 +341,7 @@
                                 </Image>
                             </Frame>
 
-                            <Label x:Name="a30Txt" Text="Locked " TextColor="White" HorizontalTextAlignment="Center"/>
+                            <Label x:Name="a30Txt" Text="Locked " TextColor="White" HorizontalTextAlignment="Center" HeightRequest="60"/>
                         </StackLayout>
                         <StackLayout>
                             <Frame CornerRadius="60" HorizontalOptions="Start" VerticalOptions="Start" Margin="0" Padding="0" BackgroundColor="#33554b">
@@ -352,7 +352,7 @@
                                 </Image>
                             </Frame>
 
-                            <Label x:Name="a34Txt" Text="Locked " TextColor="White" HorizontalTextAlignment="Center"/>
+                            <Label x:Name="a34Txt" Text="Locked " TextColor="White" HorizontalTextAlignment="Center" HeightRequest="60"/>
                         </StackLayout>
                         <StackLayout>
                             <Frame CornerRadius="60" HorizontalOptions="Start" VerticalOptions="Start" Margin="0" Padding="0" BackgroundColor="#33554b">
@@ -363,7 +363,7 @@
                                 </Image>
                             </Frame>
 
-                            <Label x:Name="a38Txt" Text="Locked " TextColor="White" HorizontalTextAlignment="Center"/>
+                            <Label x:Name="a38Txt" Text="Locked " TextColor="White" HorizontalTextAlignment="Center" HeightRequest="60"/>
                         </StackLayout>
                         <StackLayout>
                             <Frame CornerRadius="60" HorizontalOptions="Start" VerticalOptions="Start" Margin="0" Padding="0" BackgroundColor="#33554b">
@@ -374,7 +374,7 @@
                                 </Image>
                             </Frame>
 
-                            <Label x:Name="a42Txt" Text="Locked " TextColor="White" HorizontalTextAlignment="Center"/>
+                            <Label x:Name="a42Txt" Text="Locked " TextColor="White" HorizontalTextAlignment="Center" HeightRequest="60"/>
                         </StackLayout>
                         <StackLayout>
                             <Frame CornerRadius="60" HorizontalOptions="Start" VerticalOptions="Start" Margin="0" Padding="0" BackgroundColor="#33554b">
@@ -385,7 +385,7 @@
                                 </Image>
                             </Frame>
 
-                            <Label x:Name="a46Txt" Text="Locked " TextColor="White" HorizontalTextAlignment="Center"/>
+                            <Label x:Name="a46Txt" Text="Locked " TextColor="White" HorizontalTextAlignment="Center" HeightRequest="60"/>
                         </StackLayout>
                         <StackLayout>
                             <Frame CornerRadius="60" HorizontalOptions="Start" VerticalOptions="Start" Margin="0" Padding="0" BackgroundColor="#33554b">
@@ -396,7 +396,7 @@
                                 </Image>
                             </Frame>
 
-                            <Label x:Name="a50Txt" Text="Locked " TextColor="White" HorizontalTextAlignment="Center"/>
+                            <Label x:Name="a50Txt" Text="Locked " TextColor="White" HorizontalTextAlignment="Center" HeightRequest="60"/>
                         </StackLayout>
                         <StackLayout>
                             <Frame CornerRadius="60" HorizontalOptions="Start" VerticalOptions="Start" Margin="0" Padding="0" BackgroundColor="#33554b">
@@ -407,7 +407,7 @@
                                 </Image>
                             </Frame>
 
-                            <Label x:Name="a54Txt" Text="Locked " TextColor="White" HorizontalTextAlignment="Center"/>
+                            <Label x:Name="a54Txt" Text="Locked " TextColor="White" HorizontalTextAlignment="Center" HeightRequest="60"/>
                         </StackLayout>
                         <StackLayout>
                             <Frame CornerRadius="60" HorizontalOptions="Start" VerticalOptions="Start" Margin="0" Padding="0" BackgroundColor="#33554b">
@@ -418,7 +418,7 @@
                                 </Image>
                             </Frame>
 
-                            <Label x:Name="a58Txt" Text="Locked " TextColor="White" HorizontalTextAlignment="Center"/>
+                            <Label x:Name="a58Txt" Text="Locked " TextColor="White" HorizontalTextAlignment="Center" HeightRequest="60"/>
                         </StackLayout>
                         <StackLayout>
                             <Frame CornerRadius="60" HorizontalOptions="Start" VerticalOptions="Start" Margin="0" Padding="0" BackgroundColor="#33554b">
@@ -429,7 +429,7 @@
                                 </Image>
                             </Frame>
 
-                            <Label x:Name="a62Txt" Text="Locked " TextColor="White" HorizontalTextAlignment="Center"/>
+                            <Label x:Name="a62Txt" Text="Locked " TextColor="White" HorizontalTextAlignment="Center" HeightRequest="60"/>
                         </StackLayout>
                         <StackLayout>
                             <Frame CornerRadius="60" HorizontalOptions="Start" VerticalOptions="Start" Margin="0" Padding="0" BackgroundColor="#33554b">
@@ -440,7 +440,7 @@
                                 </Image>
                             </Frame>
 
-                            <Label x:Name="a66Txt" Text="Locked " TextColor="White" HorizontalTextAlignment="Center"/>
+                            <Label x:Name="a66Txt" Text="Locked " TextColor="White" HorizontalTextAlignment="Center" HeightRequest="60"/>
                         </StackLayout>
                         <StackLayout>
                             <Frame CornerRadius="60" HorizontalOptions="Start" VerticalOptions="Start" Margin="0" Padding="0" BackgroundColor="#33554b">
@@ -451,7 +451,7 @@
                                 </Image>
                             </Frame>
 
-                            <Label x:Name="a70Txt" Text="Locked " TextColor="White" HorizontalTextAlignment="Center"/>
+                            <Label x:Name="a70Txt" Text="Locked " TextColor="White" HorizontalTextAlignment="Center" HeightRequest="60"/>
                         </StackLayout>
                         <StackLayout>
                             <Frame CornerRadius="60" HorizontalOptions="Start" VerticalOptions="Start" Margin="0" Padding="0" BackgroundColor="#33554b">
@@ -462,7 +462,7 @@
                                 </Image>
                             </Frame>
 
-                            <Label x:Name="a74Txt" Text="Locked " TextColor="White" HorizontalTextAlignment="Center"/>
+                            <Label x:Name="a74Txt" Text="Locked " TextColor="White" HorizontalTextAlignment="Center" HeightRequest="60"/>
                         </StackLayout>
                         <StackLayout>
                             <Frame CornerRadius="60" HorizontalOptions="Start" VerticalOptions="Start" Margin="0" Padding="0" BackgroundColor="#33554b">
@@ -473,7 +473,7 @@
                                 </Image>
                             </Frame>
 
-                            <Label x:Name="a78Txt" Text="Locked " TextColor="White" HorizontalTextAlignment="Center"/>
+                            <Label x:Name="a78Txt" Text="Locked " TextColor="White" HorizontalTextAlignment="Center" HeightRequest="60"/>
                         </StackLayout>
                     </StackLayout>
 
@@ -490,7 +490,7 @@
                                 </Image>
                             </Frame>
 
-                            <Label x:Name="a3Txt" Text="Locked " TextColor="White" HorizontalTextAlignment="Center"/>
+                            <Label x:Name="a3Txt" Text="Locked " TextColor="White" HorizontalTextAlignment="Center" HeightRequest="60"/>
                         </StackLayout>
                         <StackLayout>
                             <Frame CornerRadius="60" HorizontalOptions="Start" VerticalOptions="Start" Margin="0" Padding="0" BackgroundColor="#33554b">
@@ -501,7 +501,7 @@
                                 </Image>
                             </Frame>
 
-                            <Label x:Name="a7Txt" Text="Locked " TextColor="White" HorizontalTextAlignment="Center"/>
+                            <Label x:Name="a7Txt" Text="Locked " TextColor="White" HorizontalTextAlignment="Center" HeightRequest="60"/>
                         </StackLayout>
                         <StackLayout>
                             <Frame CornerRadius="60" HorizontalOptions="Start" VerticalOptions="Start" Margin="0" Padding="0" BackgroundColor="#33554b">
@@ -512,7 +512,7 @@
                                 </Image>
                             </Frame>
 
-                            <Label x:Name="a11Txt" Text="Locked " TextColor="White" HorizontalTextAlignment="Center"/>
+                            <Label x:Name="a11Txt" Text="Locked " TextColor="White" HorizontalTextAlignment="Center" HeightRequest="60"/>
                         </StackLayout>
                         <StackLayout>
                             <Frame CornerRadius="60" HorizontalOptions="Start" VerticalOptions="Start" Margin="0" Padding="0" BackgroundColor="#33554b">
@@ -523,7 +523,7 @@
                                 </Image>
                             </Frame>
 
-                            <Label x:Name="a15Txt" Text="Locked " TextColor="White" HorizontalTextAlignment="Center"/>
+                            <Label x:Name="a15Txt" Text="Locked " TextColor="White" HorizontalTextAlignment="Center" HeightRequest="60"/>
                         </StackLayout>
                         <StackLayout>
                             <Frame CornerRadius="60" HorizontalOptions="Start" VerticalOptions="Start" Margin="0" Padding="0" BackgroundColor="#33554b">
@@ -534,7 +534,7 @@
                                 </Image>
                             </Frame>
 
-                            <Label x:Name="a19Txt" Text="Locked " TextColor="White" HorizontalTextAlignment="Center"/>
+                            <Label x:Name="a19Txt" Text="Locked " TextColor="White" HorizontalTextAlignment="Center" HeightRequest="60"/>
                         </StackLayout>
                         <StackLayout>
                             <Frame CornerRadius="60" HorizontalOptions="Start" VerticalOptions="Start" Margin="0" Padding="0" BackgroundColor="#33554b">
@@ -545,7 +545,7 @@
                                 </Image>
                             </Frame>
 
-                            <Label x:Name="a23Txt" Text="Locked " TextColor="White" HorizontalTextAlignment="Center"/>
+                            <Label x:Name="a23Txt" Text="Locked " TextColor="White" HorizontalTextAlignment="Center" HeightRequest="60"/>
                         </StackLayout>
                         <StackLayout>
                             <Frame CornerRadius="60" HorizontalOptions="Start" VerticalOptions="Start" Margin="0" Padding="0" BackgroundColor="#33554b">
@@ -556,7 +556,7 @@
                                 </Image>
                             </Frame>
 
-                            <Label x:Name="a27Txt" Text="Locked " TextColor="White" HorizontalTextAlignment="Center"/>
+                            <Label x:Name="a27Txt" Text="Locked " TextColor="White" HorizontalTextAlignment="Center" HeightRequest="60"/>
                         </StackLayout>
                         <StackLayout>
                             <Frame CornerRadius="60" HorizontalOptions="Start" VerticalOptions="Start" Margin="0" Padding="0" BackgroundColor="#33554b">
@@ -567,7 +567,7 @@
                                 </Image>
                             </Frame>
 
-                            <Label x:Name="a31Txt" Text="Locked " TextColor="White" HorizontalTextAlignment="Center"/>
+                            <Label x:Name="a31Txt" Text="Locked " TextColor="White" HorizontalTextAlignment="Center" HeightRequest="60"/>
                         </StackLayout>
                         <StackLayout>
                             <Frame CornerRadius="60" HorizontalOptions="Start" VerticalOptions="Start" Margin="0" Padding="0" BackgroundColor="#33554b">
@@ -578,7 +578,7 @@
                                 </Image>
                             </Frame>
 
-                            <Label x:Name="a35Txt" Text="Locked " TextColor="White" HorizontalTextAlignment="Center"/>
+                            <Label x:Name="a35Txt" Text="Locked " TextColor="White" HorizontalTextAlignment="Center" HeightRequest="60"/>
                         </StackLayout>
                         <StackLayout>
                             <Frame CornerRadius="60" HorizontalOptions="Start" VerticalOptions="Start" Margin="0" Padding="0" BackgroundColor="#33554b">
@@ -589,7 +589,7 @@
                                 </Image>
                             </Frame>
 
-                            <Label x:Name="a39Txt" Text="Locked " TextColor="White" HorizontalTextAlignment="Center"/>
+                            <Label x:Name="a39Txt" Text="Locked " TextColor="White" HorizontalTextAlignment="Center" HeightRequest="60"/>
                         </StackLayout>
                         <StackLayout>
                             <Frame CornerRadius="60" HorizontalOptions="Start" VerticalOptions="Start" Margin="0" Padding="0" BackgroundColor="#33554b">
@@ -600,7 +600,7 @@
                                 </Image>
                             </Frame>
 
-                            <Label x:Name="a43Txt" Text="Locked " TextColor="White" HorizontalTextAlignment="Center"/>
+                            <Label x:Name="a43Txt" Text="Locked " TextColor="White" HorizontalTextAlignment="Center" HeightRequest="60"/>
                         </StackLayout>
                         <StackLayout>
                             <Frame CornerRadius="60" HorizontalOptions="Start" VerticalOptions="Start" Margin="0" Padding="0" BackgroundColor="#33554b">
@@ -611,7 +611,7 @@
                                 </Image>
                             </Frame>
 
-                            <Label x:Name="a47Txt" Text="Locked " TextColor="White" HorizontalTextAlignment="Center"/>
+                            <Label x:Name="a47Txt" Text="Locked " TextColor="White" HorizontalTextAlignment="Center" HeightRequest="60"/>
                         </StackLayout>
                         <StackLayout>
                             <Frame CornerRadius="60" HorizontalOptions="Start" VerticalOptions="Start" Margin="0" Padding="0" BackgroundColor="#33554b">
@@ -622,7 +622,7 @@
                                 </Image>
                             </Frame>
 
-                            <Label x:Name="a51Txt" Text="Locked " TextColor="White" HorizontalTextAlignment="Center"/>
+                            <Label x:Name="a51Txt" Text="Locked " TextColor="White" HorizontalTextAlignment="Center" HeightRequest="60"/>
                         </StackLayout>
                         <StackLayout>
                             <Frame CornerRadius="60" HorizontalOptions="Start" VerticalOptions="Start" Margin="0" Padding="0" BackgroundColor="#33554b">
@@ -633,7 +633,7 @@
                                 </Image>
                             </Frame>
 
-                            <Label x:Name="a55Txt" Text="Locked " TextColor="White" HorizontalTextAlignment="Center"/>
+                            <Label x:Name="a55Txt" Text="Locked " TextColor="White" HorizontalTextAlignment="Center" HeightRequest="60"/>
                         </StackLayout>
                         <StackLayout>
                             <Frame CornerRadius="60" HorizontalOptions="Start" VerticalOptions="Start" Margin="0" Padding="0" BackgroundColor="#33554b">
@@ -644,7 +644,7 @@
                                 </Image>
                             </Frame>
 
-                            <Label x:Name="a59Txt" Text="Locked " TextColor="White" HorizontalTextAlignment="Center"/>
+                            <Label x:Name="a59Txt" Text="Locked " TextColor="White" HorizontalTextAlignment="Center" HeightRequest="60"/>
                         </StackLayout>
                         <StackLayout>
                             <Frame CornerRadius="60" HorizontalOptions="Start" VerticalOptions="Start" Margin="0" Padding="0" BackgroundColor="#33554b">
@@ -655,7 +655,7 @@
                                 </Image>
                             </Frame>
 
-                            <Label x:Name="a63Txt" Text="Locked " TextColor="White" HorizontalTextAlignment="Center"/>
+                            <Label x:Name="a63Txt" Text="Locked " TextColor="White" HorizontalTextAlignment="Center" HeightRequest="60"/>
                         </StackLayout>
                         <StackLayout>
                             <Frame CornerRadius="60" HorizontalOptions="Start" VerticalOptions="Start" Margin="0" Padding="0" BackgroundColor="#33554b">
@@ -666,7 +666,7 @@
                                 </Image>
                             </Frame>
 
-                            <Label x:Name="a67Txt" Text="Locked " TextColor="White" HorizontalTextAlignment="Center"/>
+                            <Label x:Name="a67Txt" Text="Locked " TextColor="White" HorizontalTextAlignment="Center" HeightRequest="60"/>
                         </StackLayout>
                         <StackLayout>
                             <Frame CornerRadius="60" HorizontalOptions="Start" VerticalOptions="Start" Margin="0" Padding="0" BackgroundColor="#33554b">
@@ -677,7 +677,7 @@
                                 </Image>
                             </Frame>
 
-                            <Label x:Name="a71Txt" Text="Locked " TextColor="White" HorizontalTextAlignment="Center"/>
+                            <Label x:Name="a71Txt" Text="Locked " TextColor="White" HorizontalTextAlignment="Center" HeightRequest="60"/>
                         </StackLayout>
                         <StackLayout>
                             <Frame CornerRadius="60" HorizontalOptions="Start" VerticalOptions="Start" Margin="0" Padding="0" BackgroundColor="#33554b">
@@ -688,7 +688,7 @@
                                 </Image>
                             </Frame>
 
-                            <Label x:Name="a75Txt" Text="Locked " TextColor="White" HorizontalTextAlignment="Center"/>
+                            <Label x:Name="a75Txt" Text="Locked " TextColor="White" HorizontalTextAlignment="Center" HeightRequest="60"/>
                         </StackLayout>
                         <StackLayout>
                             <Frame CornerRadius="60" HorizontalOptions="Start" VerticalOptions="Start" Margin="0" Padding="0" BackgroundColor="#33554b">
@@ -699,7 +699,7 @@
                                 </Image>
                             </Frame>
 
-                            <Label x:Name="a79Txt" Text="Locked " TextColor="White" HorizontalTextAlignment="Center"/>
+                            <Label x:Name="a79Txt" Text="Locked " TextColor="White" HorizontalTextAlignment="Center" HeightRequest="60"/>
                         </StackLayout>
                     </StackLayout>
 
@@ -716,7 +716,7 @@
                                 </Image>
                             </Frame>
 
-                            <Label x:Name="a4Txt" Text="Locked " TextColor="White" HorizontalTextAlignment="Center"/>
+                            <Label x:Name="a4Txt" Text="Locked " TextColor="White" HorizontalTextAlignment="Center" HeightRequest="60"/>
                         </StackLayout>
                         <StackLayout>
                             <Frame CornerRadius="60" HorizontalOptions="Start" VerticalOptions="Start" Margin="0" Padding="0" BackgroundColor="#33554b">
@@ -727,7 +727,7 @@
                                 </Image>
                             </Frame>
 
-                            <Label x:Name="a8Txt" Text="Locked " TextColor="White" HorizontalTextAlignment="Center"/>
+                            <Label x:Name="a8Txt" Text="Locked " TextColor="White" HorizontalTextAlignment="Center" HeightRequest="60"/>
                         </StackLayout>
                         <StackLayout>
                             <Frame CornerRadius="60" HorizontalOptions="Start" VerticalOptions="Start" Margin="0" Padding="0" BackgroundColor="#33554b">
@@ -738,7 +738,7 @@
                                 </Image>
                             </Frame>
 
-                            <Label x:Name="a12Txt" Text="Locked " TextColor="White" HorizontalTextAlignment="Center"/>
+                            <Label x:Name="a12Txt" Text="Locked " TextColor="White" HorizontalTextAlignment="Center" HeightRequest="60"/>
                         </StackLayout>
                         <StackLayout>
                             <Frame CornerRadius="60" HorizontalOptions="Start" VerticalOptions="Start" Margin="0" Padding="0" BackgroundColor="#33554b">
@@ -749,7 +749,7 @@
                                 </Image>
                             </Frame>
 
-                            <Label x:Name="a16Txt" Text="Locked " TextColor="White" HorizontalTextAlignment="Center"/>
+                            <Label x:Name="a16Txt" Text="Locked " TextColor="White" HorizontalTextAlignment="Center" HeightRequest="60"/>
                         </StackLayout>
                         <StackLayout>
                             <Frame CornerRadius="60" HorizontalOptions="Start" VerticalOptions="Start" Margin="0" Padding="0" BackgroundColor="#33554b">
@@ -760,7 +760,7 @@
                                 </Image>
                             </Frame>
 
-                            <Label x:Name="a20Txt" Text="Locked " TextColor="White" HorizontalTextAlignment="Center"/>
+                            <Label x:Name="a20Txt" Text="Locked " TextColor="White" HorizontalTextAlignment="Center" HeightRequest="60"/>
                         </StackLayout>
                         <StackLayout>
                             <Frame CornerRadius="60" HorizontalOptions="Start" VerticalOptions="Start" Margin="0" Padding="0" BackgroundColor="#33554b">
@@ -771,7 +771,7 @@
                                 </Image>
                             </Frame>
 
-                            <Label x:Name="a24Txt" Text="Locked " TextColor="White" HorizontalTextAlignment="Center"/>
+                            <Label x:Name="a24Txt" Text="Locked " TextColor="White" HorizontalTextAlignment="Center" HeightRequest="60"/>
                         </StackLayout>
                         <StackLayout>
                             <Frame CornerRadius="60" HorizontalOptions="Start" VerticalOptions="Start" Margin="0" Padding="0" BackgroundColor="#33554b">
@@ -782,7 +782,7 @@
                                 </Image>
                             </Frame>
 
-                            <Label x:Name="a28Txt" Text="Locked " TextColor="White" HorizontalTextAlignment="Center"/>
+                            <Label x:Name="a28Txt" Text="Locked " TextColor="White" HorizontalTextAlignment="Center" HeightRequest="60"/>
                         </StackLayout>
                         <StackLayout>
                             <Frame CornerRadius="60" HorizontalOptions="Start" VerticalOptions="Start" Margin="0" Padding="0" BackgroundColor="#33554b">
@@ -793,7 +793,7 @@
                                 </Image>
                             </Frame>
 
-                            <Label x:Name="a32Txt" Text="Locked " TextColor="White" HorizontalTextAlignment="Center"/>
+                            <Label x:Name="a32Txt" Text="Locked " TextColor="White" HorizontalTextAlignment="Center" HeightRequest="60"/>
                         </StackLayout>
                         <StackLayout>
                             <Frame CornerRadius="60" HorizontalOptions="Start" VerticalOptions="Start" Margin="0" Padding="0" BackgroundColor="#33554b">
@@ -804,7 +804,7 @@
                                 </Image>
                             </Frame>
 
-                            <Label x:Name="a36Txt" Text="Locked " TextColor="White" HorizontalTextAlignment="Center"/>
+                            <Label x:Name="a36Txt" Text="Locked " TextColor="White" HorizontalTextAlignment="Center" HeightRequest="60"/>
                         </StackLayout>
                         <StackLayout>
                             <Frame CornerRadius="60" HorizontalOptions="Start" VerticalOptions="Start" Margin="0" Padding="0" BackgroundColor="#33554b">
@@ -815,7 +815,7 @@
                                 </Image>
                             </Frame>
 
-                            <Label x:Name="a40Txt" Text="Locked " TextColor="White" HorizontalTextAlignment="Center"/>
+                            <Label x:Name="a40Txt" Text="Locked " TextColor="White" HorizontalTextAlignment="Center" HeightRequest="60"/>
                         </StackLayout>
                         <StackLayout>
                             <Frame CornerRadius="60" HorizontalOptions="Start" VerticalOptions="Start" Margin="0" Padding="0" BackgroundColor="#33554b">
@@ -826,7 +826,7 @@
                                 </Image>
                             </Frame>
 
-                            <Label x:Name="a44Txt" Text="Locked " TextColor="White" HorizontalTextAlignment="Center"/>
+                            <Label x:Name="a44Txt" Text="Locked " TextColor="White" HorizontalTextAlignment="Center" HeightRequest="60"/>
                         </StackLayout>
                         <StackLayout>
                             <Frame CornerRadius="60" HorizontalOptions="Start" VerticalOptions="Start" Margin="0" Padding="0" BackgroundColor="#33554b">
@@ -837,7 +837,7 @@
                                 </Image>
                             </Frame>
 
-                            <Label x:Name="a48Txt" Text="Locked " TextColor="White" HorizontalTextAlignment="Center"/>
+                            <Label x:Name="a48Txt" Text="Locked " TextColor="White" HorizontalTextAlignment="Center" HeightRequest="60"/>
                         </StackLayout>
                         <StackLayout>
                             <Frame CornerRadius="60" HorizontalOptions="Start" VerticalOptions="Start" Margin="0" Padding="0" BackgroundColor="#33554b">
@@ -848,7 +848,7 @@
                                 </Image>
                             </Frame>
 
-                            <Label x:Name="a52Txt" Text="Locked " TextColor="White" HorizontalTextAlignment="Center"/>
+                            <Label x:Name="a52Txt" Text="Locked " TextColor="White" HorizontalTextAlignment="Center" HeightRequest="60"/>
                         </StackLayout>
                         <StackLayout>
                             <Frame CornerRadius="60" HorizontalOptions="Start" VerticalOptions="Start" Margin="0" Padding="0" BackgroundColor="#33554b">
@@ -859,7 +859,7 @@
                                 </Image>
                             </Frame>
 
-                            <Label x:Name="a56Txt" Text="Locked " TextColor="White" HorizontalTextAlignment="Center"/>
+                            <Label x:Name="a56Txt" Text="Locked " TextColor="White" HorizontalTextAlignment="Center" HeightRequest="60"/>
                         </StackLayout>
                         <StackLayout>
                             <Frame CornerRadius="60" HorizontalOptions="Start" VerticalOptions="Start" Margin="0" Padding="0" BackgroundColor="#33554b">
@@ -870,7 +870,7 @@
                                 </Image>
                             </Frame>
 
-                            <Label x:Name="a60Txt" Text="Locked " TextColor="White" HorizontalTextAlignment="Center"/>
+                            <Label x:Name="a60Txt" Text="Locked " TextColor="White" HorizontalTextAlignment="Center" HeightRequest="60"/>
                         </StackLayout>
                         <StackLayout>
                             <Frame CornerRadius="60" HorizontalOptions="Start" VerticalOptions="Start" Margin="0" Padding="0" BackgroundColor="#33554b">
@@ -881,7 +881,7 @@
                                 </Image>
                             </Frame>
 
-                            <Label x:Name="a64Txt" Text="Locked " TextColor="White" HorizontalTextAlignment="Center"/>
+                            <Label x:Name="a64Txt" Text="Locked " TextColor="White" HorizontalTextAlignment="Center" HeightRequest="60"/>
                         </StackLayout>
                         <StackLayout>
                             <Frame CornerRadius="60" HorizontalOptions="Start" VerticalOptions="Start" Margin="0" Padding="0" BackgroundColor="#33554b">
@@ -892,7 +892,7 @@
                                 </Image>
                             </Frame>
 
-                            <Label x:Name="a68Txt" Text="Locked " TextColor="White" HorizontalTextAlignment="Center"/>
+                            <Label x:Name="a68Txt" Text="Locked " TextColor="White" HorizontalTextAlignment="Center" HeightRequest="60"/>
                         </StackLayout>
                         <StackLayout>
                             <Frame CornerRadius="60" HorizontalOptions="Start" VerticalOptions="Start" Margin="0" Padding="0" BackgroundColor="#33554b">
@@ -903,7 +903,7 @@
                                 </Image>
                             </Frame>
 
-                            <Label x:Name="a72Txt" Text="Locked " TextColor="White" HorizontalTextAlignment="Center"/>
+                            <Label x:Name="a72Txt" Text="Locked " TextColor="White" HorizontalTextAlignment="Center" HeightRequest="60"/>
                         </StackLayout>
                         <StackLayout>
                             <Frame CornerRadius="60" HorizontalOptions="Start" VerticalOptions="Start" Margin="0" Padding="0" BackgroundColor="#33554b">
@@ -914,7 +914,7 @@
                                 </Image>
                             </Frame>
 
-                            <Label x:Name="a76Txt" Text="Locked " TextColor="White" HorizontalTextAlignment="Center"/>
+                            <Label x:Name="a76Txt" Text="Locked " TextColor="White" HorizontalTextAlignment="Center" HeightRequest="60"/>
                         </StackLayout>
                         <StackLayout>
                             <Frame CornerRadius="60" HorizontalOptions="Start" VerticalOptions="Start" Margin="0" Padding="0" BackgroundColor="#33554b">
@@ -925,7 +925,7 @@
                                 </Image>
                             </Frame>
 
-                            <Label x:Name="a80Txt" Text="Locked " TextColor="White" HorizontalTextAlignment="Center"/>
+                            <Label x:Name="a80Txt" Text="Locked " TextColor="White" HorizontalTextAlignment="Center" HeightRequest="60"/>
                         </StackLayout>
                     </StackLayout>
                 </Grid>

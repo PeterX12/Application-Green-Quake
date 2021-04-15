@@ -51,6 +51,7 @@ namespace Application_Green_Quake.Droid
             }
             catch (Exception e)
             {
+                Console.WriteLine(e);
                 return false;
             }
         }

@@ -2054,16 +2054,6 @@ namespace Application_Green_Quake.Views.ProfilePage
                 a81.Source = ImageSource.FromResource("Application_Green_Quake.Images.Achievements.OnceOff.Work.remote.png");
                 a81Txt.Text = "Working Remotely";
             }
-
-
         }
-
-
-        private async void NavigateToBadgePopUp(object sender, EventArgs e)
-        {
-            
-        }
-
-
     }
 }

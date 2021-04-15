@@ -16,9 +16,9 @@ namespace Application_Green_Quake.Views.ProfilePage
             OnAppearing();
         }
 
-        protected async override void OnAppearing()
+        protected override void OnAppearing()
         {
-
+            
             if (num == 1 && badgeState == 1)
             {
                 badgeHeading.Text = "Habit Novice";

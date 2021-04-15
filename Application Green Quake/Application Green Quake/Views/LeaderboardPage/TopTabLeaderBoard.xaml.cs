@@ -64,6 +64,7 @@ namespace Application_Green_Quake.Views.LeaderboardPage
                 catch (Exception e)
                 {
                     i.image = ImageSource.FromResource("Application_Green_Quake.Images.user.png");
+                    Console.Write(e);
                 }
             }
 

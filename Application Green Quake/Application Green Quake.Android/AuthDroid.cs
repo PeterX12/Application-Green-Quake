@@ -14,11 +14,11 @@ namespace Application_Green_Quake.Droid
             var user = FirebaseAuth.Instance.CurrentUser;
             if (user == null)
             {
-                return true;
+                return false;
             }
             else
             {
-                return false;
+                return true;
             }
         }
 

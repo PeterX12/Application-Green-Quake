@@ -62,7 +62,7 @@
                     </StackLayout>
                 </StackLayout>
                 <StackLayout VerticalOptions="FillAndExpand" HorizontalOptions="FillAndExpand" Spacing="0" BackgroundColor="#002a1e">
-                    <Label x:Name="theLevel" Text="Level" HorizontalOptions="Center" FontAttributes="Bold" FontSize="20"/>
+                    <Label x:Name="theLevel" TextColor="White" Text="Level" HorizontalOptions="Center" FontAttributes="Bold" FontSize="20"/>
                     <ProgressBar Margin="40,0,40,0" ProgressColor="Gold" x:Name="progressbar"/>
                     <Image x:Name="mosiac" Source="{local:ImageResource Application_Green_Quake.Images.Mosaics.lockedMosaics.jpg}" VerticalOptions="FillAndExpand" HorizontalOptions="FillAndExpand" Aspect="AspectFill"/>
                 </StackLayout>

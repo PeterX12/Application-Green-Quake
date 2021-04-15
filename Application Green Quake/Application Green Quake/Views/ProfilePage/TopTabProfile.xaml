@@ -16,7 +16,7 @@
                     </Frame>
                 </Frame>
                 
-                <StackLayout HeightRequest="100" VerticalOptions="Start" HorizontalOptions="FillAndExpand" Spacing="10" BackgroundColor="#002a1e">
+                <StackLayout HeightRequest="100" VerticalOptions="Start" HorizontalOptions="FillAndExpand" Spacing="0" BackgroundColor="#002a1e">
                     <Label x:Name="Username" FontSize="28" HorizontalOptions="Center" VerticalOptions="Center" FontAttributes="Bold" TextColor="White"/>
                     <Entry x:Name="Bio" Text="Bio" Completed="SaveText" TextColor="White" BackgroundColor="#002a1e" HorizontalOptions="FillAndExpand" VerticalOptions="CenterAndExpand" Margin="40,0,40,0" HorizontalTextAlignment="Center" PlaceholderColor="White"/>
                 </StackLayout>
@@ -61,8 +61,10 @@
                         </Label>
                     </StackLayout>
                 </StackLayout>
-                <StackLayout>
-                    
+                <StackLayout VerticalOptions="FillAndExpand" HorizontalOptions="FillAndExpand" Spacing="0" BackgroundColor="#002a1e">
+                    <Label x:Name="theLevel" Text="Level" HorizontalOptions="Center" FontAttributes="Bold" FontSize="20"/>
+                    <ProgressBar Margin="40,0,40,0" ProgressColor="Gold" x:Name="progressbar"/>
+                    <Image x:Name="mosiac" Source="{local:ImageResource Application_Green_Quake.Images.Mosaics.lockedMosaics.jpg}" VerticalOptions="FillAndExpand" HorizontalOptions="FillAndExpand" Aspect="AspectFill"/>
                 </StackLayout>
             </StackLayout>
         </ScrollView>

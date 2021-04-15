@@ -5,39 +5,41 @@
              xmlns:local="clr-namespace:Application_Green_Quake.Models"
              Title="Scoop da Poop">
     <ContentPage.Content>
-        <Grid VerticalOptions="FillAndExpand" RowSpacing="0">
-            <Grid.RowDefinitions>
-                <RowDefinition Height="2*"/>
-                <RowDefinition Height="2*"/>
-                <RowDefinition Height="*"/>
-            </Grid.RowDefinitions>
+        <ScrollView>
+            <Grid VerticalOptions="FillAndExpand" RowSpacing="0">
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="2*"/>
+                    <RowDefinition Height="2*"/>
+                    <RowDefinition Height="*"/>
+                </Grid.RowDefinitions>
 
-            <Image Aspect="AspectFill"
+                <Image Aspect="AspectFill"
                    Source="{local:ImageResource Application_Green_Quake.Images.SubCategories.Outdoors.Scoop.jpg}"/>
-            <StackLayout Grid.Row="1" 
+                <StackLayout Grid.Row="1" 
                          VerticalOptions="Center"
                          HorizontalOptions="Center"
                          Margin="15,0,15,0"
                          Padding="0,5,0,5"
                          BackgroundColor="#D3D3D3">
-                <Label Text="When you doog makes a mess clean it up. It is your duty as a dog owner"
+                    <Label Text="When you doog makes a mess clean it up. It is your duty as a dog owner"
                        TextColor="Black"
                        HorizontalTextAlignment="Center"
                        FontSize="20"/>
-            </StackLayout>
-            <StackLayout Grid.Row="2"
+                </StackLayout>
+                <StackLayout Grid.Row="2"
                          Spacing="10">
-                <Label Text="4 POINTS!"
+                    <Label Text="4 POINTS!"
                        TextColor="Black"
                        FontAttributes="Bold"
                        FontSize="20"
                        HorizontalOptions="Center"/>
-                <Button Text="Completed"
+                    <Button Text="Completed"
                         BackgroundColor="#50C878"
                         TextColor="White"
                         Margin="60,0,60,0"
                         Clicked="AddPointsClicked"/>
-            </StackLayout>
-        </Grid>
+                </StackLayout>
+            </Grid>
+        </ScrollView>
     </ContentPage.Content>
 </ContentPage>

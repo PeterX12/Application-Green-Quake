@@ -13,102 +13,104 @@
             >
 
     <ContentPage Title="Home" IconImageSource="{local:ImageResource Application_Green_Quake.Images.Tabbed.Home.png}">
-        <Grid VerticalOptions="FillAndExpand" RowSpacing="5">
-            <Grid.RowDefinitions>
-                <RowDefinition Height="2*"/>
-                <RowDefinition Height="2*"/>
-                <RowDefinition Height="*"/>
-            </Grid.RowDefinitions>
+        <ScrollView>
+            <Grid VerticalOptions="FillAndExpand" RowSpacing="5">
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="2*"/>
+                    <RowDefinition Height="2*"/>
+                    <RowDefinition Height="*"/>
+                </Grid.RowDefinitions>
 
-            <Image Grid.Column="0"
+                <Image Grid.Column="0"
                    Grid.Row="0"
                    Aspect="AspectFill"
                    Source="{local:ImageResource Application_Green_Quake.Images.EcoActions.jpg}"/>
-            <StackLayout Grid.Column="0"
+                <StackLayout Grid.Column="0"
                          Grid.Row="0"
                          BackgroundColor="Black"
                          Opacity=".4">
-                <StackLayout.GestureRecognizers>
-                    <TapGestureRecognizer Tapped="NavigateToEcoActionButton"/>
-                </StackLayout.GestureRecognizers>
-            </StackLayout>
-            <StackLayout Grid.Column="0"
+                    <StackLayout.GestureRecognizers>
+                        <TapGestureRecognizer Tapped="NavigateToEcoActionButton"/>
+                    </StackLayout.GestureRecognizers>
+                </StackLayout>
+                <StackLayout Grid.Column="0"
                          Grid.Row="0"
                          VerticalOptions="Center"
                          Spacing="5"
                          Margin="15,0,40,15">
-                <StackLayout.GestureRecognizers>
-                    <TapGestureRecognizer Tapped="NavigateToEcoActionButton"/>
-                </StackLayout.GestureRecognizers>
-                <Label Text="Eco Actions" 
+                    <StackLayout.GestureRecognizers>
+                        <TapGestureRecognizer Tapped="NavigateToEcoActionButton"/>
+                    </StackLayout.GestureRecognizers>
+                    <Label Text="Eco Actions" 
                        TextColor="White" 
                        FontSize="24" 
                        FontAttributes="Bold" 
                        FontFamily="Proxima Nova"/>
-                <Label Text="Log your Eco Friendly Activities and earn rewards!" 
+                    <Label Text="Log your Eco Friendly Activities and earn rewards!" 
                        TextColor="White" 
                        FontSize="15"  
                        FontFamily="Proxima Nova Thin"/>
-            </StackLayout>
+                </StackLayout>
 
-            <Image Grid.Column="0"
+                <Image Grid.Column="0"
                    Grid.Row="1"
                    Aspect="AspectFill"
                    Source="{local:ImageResource Application_Green_Quake.Images.Refill.jpg}"/>
-            <StackLayout Grid.Column="0"
+                <StackLayout Grid.Column="0"
                          Grid.Row="1"
                          BackgroundColor="Black"
                          Opacity=".4">
-                <StackLayout.GestureRecognizers>
-                    <TapGestureRecognizer Tapped="NavigateToRefillStation"/>
-                </StackLayout.GestureRecognizers>
-            </StackLayout>
-            <StackLayout Grid.Column="0"
+                    <StackLayout.GestureRecognizers>
+                        <TapGestureRecognizer Tapped="NavigateToRefillStation"/>
+                    </StackLayout.GestureRecognizers>
+                </StackLayout>
+                <StackLayout Grid.Column="0"
                          Grid.Row="1"
                          VerticalOptions="Center"
                          Spacing="5"
                          Margin="15,0,40,15">
-                <StackLayout.GestureRecognizers>
-                    <TapGestureRecognizer Tapped="NavigateToRefillStation"/>
-                </StackLayout.GestureRecognizers>
-                <Label Text="Refill Stations" 
+                    <StackLayout.GestureRecognizers>
+                        <TapGestureRecognizer Tapped="NavigateToRefillStation"/>
+                    </StackLayout.GestureRecognizers>
+                    <Label Text="Refill Stations" 
                        TextColor="White" 
                        FontSize="24" 
                        FontAttributes="Bold" 
                        FontFamily="Proxima Nova"/>
-                <Label Text="Find the closest place where you can get a refill. Use reusable bottles and reduce plastic waste!" 
+                    <Label Text="Find the closest place where you can get a refill. Use reusable bottles and reduce plastic waste!" 
                        TextColor="White" 
                        FontSize="15"  
                        FontFamily="Proxima Nova Thin" />
-            </StackLayout>
+                </StackLayout>
 
-            <Image Grid.Column="0"
+                <Image Grid.Column="0"
                    Grid.Row="2"
                    Aspect="AspectFill"
                    Source="{local:ImageResource Application_Green_Quake.Images.SignOut.jpg}"/>
-            <StackLayout Grid.Column="0"
+                <StackLayout Grid.Column="0"
                          Grid.Row="2"
                          BackgroundColor="Black"
                          Opacity=".4">
-                <StackLayout.GestureRecognizers>
-                    <TapGestureRecognizer Tapped="SignOutButton"/>
-                </StackLayout.GestureRecognizers>
-            </StackLayout>
-            <StackLayout Grid.Column="0"
+                    <StackLayout.GestureRecognizers>
+                        <TapGestureRecognizer Tapped="SignOutButton"/>
+                    </StackLayout.GestureRecognizers>
+                </StackLayout>
+                <StackLayout Grid.Column="0"
                          Grid.Row="2"
                          VerticalOptions="Center"
                          Spacing="5"
                          Margin="15,0,40,15">
-                <StackLayout.GestureRecognizers>
-                    <TapGestureRecognizer Tapped="SignOutButton"/>
-                </StackLayout.GestureRecognizers>
-                <Label Text="Sign Out" 
+                    <StackLayout.GestureRecognizers>
+                        <TapGestureRecognizer Tapped="SignOutButton"/>
+                    </StackLayout.GestureRecognizers>
+                    <Label Text="Sign Out" 
                        TextColor="White" 
                        FontSize="24" 
                        FontAttributes="Bold" 
                        FontFamily="Proxima Nova"/>
-            </StackLayout>
-        </Grid>
+                </StackLayout>
+            </Grid>
+        </ScrollView>
     </ContentPage>
 
     <views2:TopTabLeaderBoard Title="Leaderboard" IconImageSource="{local:ImageResource Application_Green_Quake.Images.Tabbed.Leaderboard.png}"></views2:TopTabLeaderBoard>

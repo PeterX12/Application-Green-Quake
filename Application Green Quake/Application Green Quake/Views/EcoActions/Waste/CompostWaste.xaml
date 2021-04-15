@@ -5,39 +5,41 @@
              xmlns:local="clr-namespace:Application_Green_Quake.Models"
              Title="Set Up Compost Bins">
     <ContentPage.Content>
-        <Grid VerticalOptions="FillAndExpand" RowSpacing="0">
-            <Grid.RowDefinitions>
-                <RowDefinition Height="2*"/>
-                <RowDefinition Height="2*"/>
-                <RowDefinition Height="*"/>
-            </Grid.RowDefinitions>
+        <ScrollView>
+            <Grid VerticalOptions="FillAndExpand" RowSpacing="0">
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="2*"/>
+                    <RowDefinition Height="2*"/>
+                    <RowDefinition Height="*"/>
+                </Grid.RowDefinitions>
 
-            <Image Aspect="AspectFill"
+                <Image Aspect="AspectFill"
                    Source="{local:ImageResource Application_Green_Quake.Images.SubCategories.Waste.Compost.jpg}"/>
-            <StackLayout Grid.Row="1" 
+                <StackLayout Grid.Row="1" 
                          VerticalOptions="Center"
                          HorizontalOptions="Center"
                          Margin="15,0,15,0"
                          Padding="0,5,0,5"
                          BackgroundColor="#D3D3D3">
-                <Label Text="Compost you food waste. Adding compost made from organic materials to your garden improves moisture retention, provides slow-release nutrients and reduce pesticide problem. Healthier plants grown from healthier soil are a huge and visible bonus for all the keen gardeners out there."
+                    <Label Text="Compost you food waste. Adding compost made from organic materials to your garden improves moisture retention, provides slow-release nutrients and reduce pesticide problem. Healthier plants grown from healthier soil are a huge and visible bonus for all the keen gardeners out there."
                        TextColor="Black"
                        HorizontalTextAlignment="Center"
                        FontSize="20"/>
-            </StackLayout>
-            <StackLayout Grid.Row="2"
+                </StackLayout>
+                <StackLayout Grid.Row="2"
                          Spacing="10">
-                <Label Text="6 POINTS!"
+                    <Label Text="6 POINTS!"
                        TextColor="Black"
                        FontAttributes="Bold"
                        FontSize="20"
                        HorizontalOptions="Center"/>
-                <Button Text="Completed"
+                    <Button Text="Completed"
                         BackgroundColor="#50C878"
                         TextColor="White"
                         Margin="60,0,60,0"
                         Clicked="AddPointsClicked"/>
-            </StackLayout>
-        </Grid>
+                </StackLayout>
+            </Grid>
+        </ScrollView>
     </ContentPage.Content>
 </ContentPage>

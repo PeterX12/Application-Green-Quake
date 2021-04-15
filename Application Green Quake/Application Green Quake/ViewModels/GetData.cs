@@ -10,6 +10,8 @@ namespace Application_Green_Quake.ViewModels
     {
         public string username = "";
         public string bio = "";
+        int points = 0;
+        int level = 0;
         IAuth auth;
         
         public async Task<string> GetUsername()
@@ -42,7 +44,33 @@ namespace Application_Green_Quake.ViewModels
 
         }
 
+        public async Task<int> GetPoints()
+        {
+            FirebaseClient firebaseClient = new FirebaseClient("https://application-green-quake-default-rtdb.firebaseio.com/");
+            auth = DependencyService.Get<IAuth>();
 
+
+            points = (await firebaseClient
+                .Child("Points")
+                .Child(auth.GetUid())
+                .OnceSingleAsync<Points>()).points;
+
+            return points;
+        }
+
+        public async Task<int> GetLevel()
+        {
+            FirebaseClient firebaseClient = new FirebaseClient("https://application-green-quake-default-rtdb.firebaseio.com/");
+            auth = DependencyService.Get<IAuth>();
+
+
+            level = (await firebaseClient
+                .Child("users")
+                .Child(auth.GetUid())
+                .OnceSingleAsync<Users>()).level;
+
+            return level;
+        }
 
     }
 }

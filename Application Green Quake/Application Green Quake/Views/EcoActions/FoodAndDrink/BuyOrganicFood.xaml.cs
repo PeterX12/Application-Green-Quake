@@ -14,9 +14,11 @@ namespace Application_Green_Quake.Views.EcoActions.FoodAndDrink
     [XamlCompilation(XamlCompilationOptions.Compile)]
     public partial class BuyOrganicFood : ContentPage
     {
+        int lvl = 0;
         public BuyOrganicFood()
         {
             InitializeComponent();
+            OnAppearing();
         }
 
         private async void AddPointsClicked(object sender, EventArgs e)
@@ -28,6 +30,23 @@ namespace Application_Green_Quake.Views.EcoActions.FoodAndDrink
             FoodAndDrinkPointsUpdate helper3 = new FoodAndDrinkPointsUpdate();
             helper3.OrganicPoints();
             await DisplayAlert("Alert", AppConstants.eightPointsMsg, "OK");
+        }
+
+        protected async override void OnAppearing()
+        {
+            try
+            {
+                GetData theLvl = new GetData();
+                Task<int> myTask4 = theLvl.GetLevel();
+                await myTask4;
+                lvl = myTask4.Result;
+            }
+            catch (Exception e)
+            {
+                Console.Write(e);
+            }
+
+            theLevel.Text = "LVL: " + lvl;
         }
     }
 }

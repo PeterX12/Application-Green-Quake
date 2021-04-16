@@ -103,7 +103,6 @@ namespace Application_Green_Quake.Views.ProfilePage
                 Console.Write(e);
             }
 
-
             progress = (float)points / 10;
             progress = (int)(((decimal)progress % 1) * 10);
 

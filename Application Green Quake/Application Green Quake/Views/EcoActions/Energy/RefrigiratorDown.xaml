@@ -2,12 +2,11 @@
 <ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              x:Class="Application_Green_Quake.Views.EcoActions.Energy.RefrigiratorDown"
-             xmlns:local="clr-namespace:Application_Green_Quake.Models"
-             Title="Turn Down The Fridge">
+             xmlns:local="clr-namespace:Application_Green_Quake.Models">
 
     <NavigationPage.TitleView>
         <StackLayout Orientation="Horizontal" HorizontalOptions="Fill" VerticalOptions="EndAndExpand" Spacing="0">
-            <Label Text="Fix It" TextColor="White" FontSize="20" FontAttributes="Italic" VerticalOptions="CenterAndExpand" HorizontalOptions="StartAndExpand"/>
+            <Label Text="Refrigirator" TextColor="White" FontSize="20" FontAttributes="Italic" VerticalOptions="CenterAndExpand" HorizontalOptions="StartAndExpand"/>
             <Label x:Name="theLevel" TextColor="White" FontSize="20" FontAttributes="Italic" VerticalOptions="CenterAndExpand" HorizontalOptions="EndAndExpand" Margin="0,0,30,0"/>
         </StackLayout>
 

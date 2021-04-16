@@ -7,7 +7,7 @@
 
     <NavigationPage.TitleView>
         <StackLayout Orientation="Horizontal" HorizontalOptions="Fill" VerticalOptions="EndAndExpand" Spacing="0">
-            <Label Text="Outdoors Subcategories" TextColor="White" FontSize="20" FontAttributes="Italic" VerticalOptions="CenterAndExpand" HorizontalOptions="StartAndExpand"/>
+            <Label Text="Outdoors" TextColor="White" FontSize="20" FontAttributes="Italic" VerticalOptions="CenterAndExpand" HorizontalOptions="StartAndExpand"/>
             <Label x:Name="theLevel" TextColor="White" FontSize="20" FontAttributes="Italic" VerticalOptions="CenterAndExpand" HorizontalOptions="EndAndExpand" Margin="0,0,30,0"/>
         </StackLayout>
     </NavigationPage.TitleView>

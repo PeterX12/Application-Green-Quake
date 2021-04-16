@@ -7,11 +7,16 @@
             NavigationPage.HasBackButton="False"
             xmlns:android="clr-namespace:Xamarin.Forms.PlatformConfiguration.AndroidSpecific;assembly=Xamarin.Forms.Core"
             android:TabbedPage.ToolbarPlacement="Bottom"
-            Title="Green Quake"
             UnselectedTabColor="Black"
-            SelectedTabColor="White" 
-            >
-
+            SelectedTabColor="White" >
+    
+    <NavigationPage.TitleView>
+        <StackLayout Orientation="Horizontal">
+            <Label Text="Green Quake"  HorizontalOptions="Start"/>
+            <Label x:Name="theLevel"  HorizontalOptions="End"/>
+        </StackLayout>
+    </NavigationPage.TitleView>
+    
     <ContentPage Title="Home" IconImageSource="{local:ImageResource Application_Green_Quake.Images.Tabbed.Home.png}">
         <ScrollView>
             <Grid VerticalOptions="FillAndExpand" RowSpacing="5">

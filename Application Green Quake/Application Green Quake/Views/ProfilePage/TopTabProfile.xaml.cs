@@ -67,7 +67,6 @@ namespace Application_Green_Quake.Views.ProfilePage
             {
                 Console.Write(e);
             }
-
             try
             {
                 GetData thePoints = new GetData();
@@ -81,8 +80,21 @@ namespace Application_Green_Quake.Views.ProfilePage
             }
             try
             {
-                GetData theLevel = new GetData();
-                Task<int> myTask4 = theLevel.GetLevel();
+                FirebaseClient firebaseClient = new FirebaseClient("https://application-green-quake-default-rtdb.firebaseio.com/");
+
+                await firebaseClient
+                    .Child("users")
+                    .Child(auth.GetUid())
+                    .PutAsync(new Users() { username = username, bio = bioInput});
+            }
+            catch (Exception e)
+            {
+                Console.Write(e);
+            }
+            try
+            {
+                GetData theLvl = new GetData();
+                Task<int> myTask4 = theLvl.GetLevel();
                 await myTask4;
                 lvl = myTask4.Result;
             }
@@ -91,429 +103,16 @@ namespace Application_Green_Quake.Views.ProfilePage
                 Console.Write(e);
             }
 
+
             progress = (float)points / 10;
             progress = (int)(((decimal)progress % 1) * 10);
-            
-            if (points == 10)
-            {
-                lvl = 1;
-            }
-            else if (points == 20)
-            {
-                lvl = 2;
-            }
-            else if (points == 30)
-            {
-                lvl = 3;
-            }
-            else if (points == 40)
-            {
-                lvl = 4;
-            }
-            else if (points == 50)
-            {
-                lvl = 5;
-            }
-            else if (points == 60)
-            {
-                lvl = 6;
-            }
-            else if (points == 70)
-            {
-                lvl = 7;
-            }
-            else if (points == 80)
-            {
-                lvl = 8;
-            }
-            else if (points == 90)
-            {
-                lvl = 9;
-            }
-            else if (points == 100)
-            {
-                lvl = 10;
-            }
-            else if (points == 110)
-            {
-                lvl = 11;
-            }
-            else if (points == 120)
-            {
-                lvl = 12;
-            }
-            else if (points == 130)
-            {
-                lvl = 13;
-            }
-            else if (points == 140)
-            {
-                lvl = 14;
-            }
-            else if (points == 150)
-            {
-                lvl = 15;
-            }
-            else if (points == 160)
-            {
-                lvl = 16;
-            }
-            else if (points == 170)
-            {
-                lvl = 17;
-            }
-            else if (points == 180)
-            {
-                lvl = 18;
-            }
-            else if (points == 190)
-            {
-                lvl = 19;
-            }
-            else if (points == 200)
-            {
-                lvl = 20;
-            }
-            else if (points == 210)
-            {
-                lvl = 21;
-            }
-            else if (points == 220)
-            {
-                lvl = 22;
-            }
-            else if (points == 230)
-            {
-                lvl = 23;
-            }
-            else if (points == 240)
-            {
-                lvl = 24;
-            }
-            else if (points == 250)
-            {
-                lvl = 25;
-            }
-            else if (points == 260)
-            {
-                lvl = 26;
-            }
-            else if (points == 270)
-            {
-                lvl = 27;
-            }
-            else if (points == 280)
-            {
-                lvl = 28;
-            }
-            else if (points == 290)
-            {
-                lvl = 29;
-            }
-            else if (points == 300)
-            {
-                lvl = 30;
-            }
-            else if (points == 310)
-            {
-                lvl = 31;
-            }
-            else if (points == 320)
-            {
-                lvl = 32;
-            }
-            else if (points == 330)
-            {
-                lvl = 33;
-            }
-            else if (points == 340)
-            {
-                lvl = 34;
-            }
-            else if (points == 350)
-            {
-                lvl = 35;
-            }
-            else if (points == 360)
-            {
-                lvl = 36;
-            }
-            else if (points == 370)
-            {
-                lvl = 37;
-            }
-            else if (points == 380)
-            {
-                lvl = 38;
-            }
-            else if (points == 390)
-            {
-                lvl = 39;
-            }
-            else if (points == 400)
-            {
-                lvl = 40;
-            }
-            else if (points == 410)
-            {
-                lvl = 41;
-            }
-            else if (points == 420)
-            {
-                lvl = 42;
-            }
-            else if (points == 430)
-            {
-                lvl = 43;
-            }
-            else if (points == 440)
-            {
-                lvl = 44;
-            }
-            else if (points == 450)
-            {
-                lvl = 45;
-            }
-            else if (points == 460)
-            {
-                lvl = 46;
-            }
-            else if (points == 470)
-            {
-                lvl = 47;
-            }
-            else if (points == 480)
-            {
-                lvl = 48;
-            }
-            else if (points == 490)
-            {
-                lvl = 49;
-            }
-            else if (points == 500)
-            {
-                lvl = 50;
-            }
-            else if (points == 510)
-            {
-                lvl = 51;
-            }
-            else if (points == 520)
-            {
-                lvl = 52;
-            }
-            else if (points == 530)
-            {
-                lvl = 53;
-            }
-            else if (points == 540)
-            {
-                lvl = 54;
-            }
-            else if (points == 550)
-            {
-                lvl = 55;
-            }
-            else if (points == 560)
-            {
-                lvl = 56;
-            }
-            else if (points == 570)
-            {
-                lvl = 57;
-            }
-            else if (points == 580)
-            {
-                lvl = 58;
-            }
-            else if (points == 590)
-            {
-                lvl = 59;
-            }
-            else if (points == 600)
-            {
-                lvl = 60;
-            }
-            else if (points == 610)
-            {
-                lvl = 61;
-            }
-            else if (points == 620)
-            {
-                lvl = 62;
-            }
-            else if (points == 630)
-            {
-                lvl = 63;
-            }
-            else if (points == 640)
-            {
-                lvl = 64;
-            }
-            else if (points == 650)
-            {
-                lvl = 65;
-            }
-            else if (points == 660)
-            {
-                lvl = 66;
-            }
-            else if (points == 670)
-            {
-                lvl = 67;
-            }
-            else if (points == 680)
-            {
-                lvl = 68;
-            }
-            else if (points == 690)
-            {
-                lvl = 69;
-            }
-            else if (points == 700)
-            {
-                lvl = 70;
-            }
-            else if (points == 710)
-            {
-                lvl = 71;
-            }
-            else if (points == 720)
-            {
-                lvl = 72;
-            }
-            else if (points == 730)
-            {
-                lvl = 73;
-            }
-            else if (points == 740)
-            {
-                lvl = 74;
-            }
-            else if (points == 750)
-            {
-                lvl = 75;
-            }
-            else if (points == 760)
-            {
-                lvl = 76;
-            }
-            else if (points == 770)
-            {
-                lvl = 77;
-            }
-            else if (points == 780)
-            {
-                lvl = 78;
-            }
-            else if (points == 790)
-            {
-                lvl = 79;
-            }
-            else if (points == 800)
-            {
-                lvl = 80;
-            }
-            else if (points == 810)
-            {
-                lvl = 81;
-            }
-            else if (points == 820)
-            {
-                lvl = 82;
-            }
-            else if (points == 830)
-            {
-                lvl = 83;
-            }
-            else if (points == 840)
-            {
-                lvl = 84;
-            }
-            else if (points == 850)
-            {
-                lvl = 85;
-            }
-            else if (points == 860)
-            {
-                lvl = 86;
-            }
-            else if (points == 870)
-            {
-                lvl = 87;
-            }
-            else if (points == 880)
-            {
-                lvl = 88;
-            }
-            else if (points == 890)
-            {
-                lvl = 89;
-            }
-            else if (points == 900)
-            {
-                lvl = 90;
-            }
-            else if (points == 910)
-            {
-                lvl = 91;
-            }
-            else if (points == 920)
-            {
-                lvl = 92;
-            }
-            else if (points == 930)
-            {
-                lvl = 93;
-            }
-            else if (points == 940)
-            {
-                lvl = 94;
-            }
-            else if (points == 950)
-            {
-                lvl = 95;
-            }
-            else if (points == 960)
-            {
-                lvl = 96;
-            }
-            else if (points == 970)
-            {
-                lvl = 97;
-            }
-            else if (points == 980)
-            {
-                lvl = 98;
-            }
-            else if (points == 990)
-            {
-                lvl = 99;
-            }
-            else if (points == 1000)
-            {
-                lvl = 100;
-            }
+
             progress = progress / 10;
-
-            try
-            {
-                FirebaseClient firebaseClient = new FirebaseClient("https://application-green-quake-default-rtdb.firebaseio.com/");
-
-                await firebaseClient
-                    .Child("users")
-                    .Child(auth.GetUid())
-                    .PutAsync(new Users() { username = username, bio = bioInput, level = lvl });
-            }
-            catch (Exception e)
-            {
-                Console.Write(e);
-            }
 
             count = progress;
             count = count * 10;
-            theLevel.Text =  "Lvl:  " + lvl.ToString() + " Points: " + count.ToString() + " /10";
 
+            theLevel.Text =  "Lvl:  " + lvl.ToString() + " Points: " + count.ToString() + " /10";
             await progressbar.ProgressTo(progress, 500, Easing.Linear);
 
             if (lvl == 1)
@@ -948,7 +547,7 @@ namespace Application_Green_Quake.Views.ProfilePage
             await firebaseClient
                     .Child("users")
                     .Child(auth.GetUid())
-                    .PutAsync(new Users() {username = username ,bio = bioInput, level = lvl});
+                    .PutAsync(new Users() {username = username ,bio = bioInput});
         }
     }
 }

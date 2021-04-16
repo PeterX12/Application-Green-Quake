@@ -1,6 +1,7 @@
 ﻿using Application_Green_Quake.Models;
 using Firebase.Database;
 using Firebase.Database.Query;
+using System;
 using System.Threading.Tasks;
 using Xamarin.Forms;
 
@@ -11,7 +12,7 @@ namespace Application_Green_Quake.ViewModels
         public string username = "";
         public string bio = "";
         int points = 0;
-        int level = 0;
+        int lvl;
         IAuth auth;
         
         public async Task<string> GetUsername()
@@ -62,15 +63,9 @@ namespace Application_Green_Quake.ViewModels
         {
             FirebaseClient firebaseClient = new FirebaseClient("https://application-green-quake-default-rtdb.firebaseio.com/");
             auth = DependencyService.Get<IAuth>();
-
-
-            level = (await firebaseClient
-                .Child("users")
-                .Child(auth.GetUid())
-                .OnceSingleAsync<Users>()).level;
-
-            return level;
+            await GetPoints();
+            lvl = (int)Math.Floor((float)points / 10);
+            return lvl;
         }
-
     }
 }

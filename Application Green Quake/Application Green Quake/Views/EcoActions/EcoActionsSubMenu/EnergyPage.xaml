@@ -4,6 +4,14 @@
              x:Class="Application_Green_Quake.Views.EcoActions.EcoActionsSubMenu.EnergyPage"
              xmlns:local="clr-namespace:Application_Green_Quake.Models"
              Title="Energy Subcategories">
+
+    <NavigationPage.TitleView>
+        <StackLayout Orientation="Horizontal" HorizontalOptions="Fill" VerticalOptions="EndAndExpand" Spacing="0">
+            <Label Text="Energy Subcategories" TextColor="White" FontSize="20" FontAttributes="Italic" VerticalOptions="CenterAndExpand" HorizontalOptions="StartAndExpand"/>
+            <Label x:Name="theLevel" TextColor="White" FontSize="20" FontAttributes="Italic" VerticalOptions="CenterAndExpand" HorizontalOptions="EndAndExpand" Margin="0,0,30,0"/>
+        </StackLayout>
+    </NavigationPage.TitleView>
+    
     <ContentPage.Content>
         <ScrollView>
             <Grid Margin="5,5,5,5">

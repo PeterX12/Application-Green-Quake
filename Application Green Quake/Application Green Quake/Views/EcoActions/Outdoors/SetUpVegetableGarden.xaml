@@ -4,6 +4,14 @@
              x:Class="Application_Green_Quake.Views.EcoActions.Outdoors.SetUpVegetableGarden"
              xmlns:local="clr-namespace:Application_Green_Quake.Models"
              Title="Set Up A Vegetable Garden">
+
+    <NavigationPage.TitleView>
+        <StackLayout Orientation="Horizontal" HorizontalOptions="Fill" VerticalOptions="EndAndExpand" Spacing="0">
+            <Label Text="Fix It" TextColor="White" FontSize="20" FontAttributes="Italic" VerticalOptions="CenterAndExpand" HorizontalOptions="StartAndExpand"/>
+            <Label x:Name="theLevel" TextColor="White" FontSize="20" FontAttributes="Italic" VerticalOptions="CenterAndExpand" HorizontalOptions="EndAndExpand" Margin="0,0,30,0"/>
+        </StackLayout>
+    </NavigationPage.TitleView>
+    
     <ContentPage.Content>
         <ScrollView>
             <Grid VerticalOptions="FillAndExpand" RowSpacing="0">

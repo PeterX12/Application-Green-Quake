@@ -12,10 +12,10 @@ namespace Application_Green_Quake.Views.LeaderboardPage
     [XamlCompilation(XamlCompilationOptions.Compile)]
     public partial class LeaderBoardPopUp
     {
-        public LeaderBoardPopUp(string username)
+        public LeaderBoardPopUp(string username, int points, string rank, ImageSource image, string bio)
         {
             InitializeComponent();
-            here.Text = username;
+            here.Text = bio;
         }
     }
 }

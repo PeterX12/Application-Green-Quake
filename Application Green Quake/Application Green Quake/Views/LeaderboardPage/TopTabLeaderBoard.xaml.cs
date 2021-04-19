@@ -48,7 +48,6 @@ namespace Application_Green_Quake.Views.LeaderboardPage
                 index++;
                 rankIndex = "Rank: " + index.ToString();
                 i.rank = rankIndex;
-
                 try
                 {
                     var uid = (await firebaseClient
@@ -66,6 +65,22 @@ namespace Application_Green_Quake.Views.LeaderboardPage
                     i.image = ImageSource.FromResource("Application_Green_Quake.Images.user.png");
                     Console.Write(e);
                 }
+                try
+                {
+                    var uid = (await firebaseClient
+                    .Child("usernames")
+                    .Child(i.username)
+                    .OnceSingleAsync<Usernames>()).Uid;
+
+                    i.bio = (await firebaseClient
+                    .Child("users")
+                    .Child(uid)
+                    .OnceSingleAsync<Users>()).bio;
+                }
+                catch (Exception e)
+                {
+                    Console.Write(e);
+                }
             }
 
             LeaderBoard.ItemsSource = list2;
@@ -75,7 +90,7 @@ namespace Application_Green_Quake.Views.LeaderboardPage
         {
            
             var dataItem = e.Item as LeaderBoard;
-            PopupNavigation.Instance.PushAsync(new LeaderBoardPopUp(dataItem.username));
+            PopupNavigation.Instance.PushAsync(new LeaderBoardPopUp(dataItem.username, dataItem.points, dataItem.rank, dataItem.image, dataItem.bio));
         }
     }
 }

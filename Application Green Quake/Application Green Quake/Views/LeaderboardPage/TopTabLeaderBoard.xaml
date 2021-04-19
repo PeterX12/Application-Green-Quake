@@ -3,12 +3,12 @@
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              x:Class="Application_Green_Quake.Views.LeaderboardPage.TopTabLeaderBoard">
     <ContentPage.Content>
-        <ScrollView>
-            <StackLayout BackgroundColor="#002a1e" >
+        <StackLayout BackgroundColor="#002a1e" >
                 <Label Text="Leader Board" FontSize="22" HorizontalTextAlignment="Center" FontFamily="Proxima Nova" TextColor="White"></Label>
+                <ScrollView>
                 <ListView x:Name="LeaderBoard"
-                      ItemTapped="OnItemTapped"
-                      RowHeight="70">
+                          ItemTapped="OnItemTapped"
+                          RowHeight="70">
                     <ListView.ItemTemplate>
                         <DataTemplate>
                             <ViewCell>
@@ -40,7 +40,7 @@
                         </DataTemplate>
                     </ListView.ItemTemplate>
                 </ListView>
-            </StackLayout>
-        </ScrollView>
+            </ScrollView>
+        </StackLayout>
     </ContentPage.Content>
 </ContentPage>

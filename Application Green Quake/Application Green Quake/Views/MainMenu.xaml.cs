@@ -44,7 +44,7 @@ namespace Application_Green_Quake.Views
 
             if (signOut)
             {
-                await Navigation.PushAsync(new MainPage());
+                Navigation.PopToRootAsync();
             }
         }
 

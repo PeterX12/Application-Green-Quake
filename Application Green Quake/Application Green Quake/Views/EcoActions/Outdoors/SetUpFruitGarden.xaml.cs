@@ -23,6 +23,7 @@ namespace Application_Green_Quake.Views.EcoActions.Outdoors
             OutdoorsPointsUpdate helper2 = new OutdoorsPointsUpdate();
             helper2.FruitGardenPoints();
             await DisplayAlert("Alert", AppConstants.tenPointsMsg, "OK");
+            await Navigation.PushAsync(new MainMenu());
         }
 
         protected async override void OnAppearing()

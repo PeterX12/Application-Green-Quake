@@ -24,6 +24,7 @@ namespace Application_Green_Quake.Views.EcoActions.Energy
             EnergyPointsUpdate helper2 = new EnergyPointsUpdate();
             helper2.SocketPoints();
             await DisplayAlert("Alert", AppConstants.fourPointsMsg, "OK");
+            await Navigation.PushAsync(new MainMenu());
         }
 
         protected async override void OnAppearing()

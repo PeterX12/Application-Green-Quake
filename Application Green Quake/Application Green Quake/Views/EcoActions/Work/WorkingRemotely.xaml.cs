@@ -24,6 +24,7 @@ namespace Application_Green_Quake.Views.EcoActions.Work
             WorkPointsUpdate helper2 = new WorkPointsUpdate();
             helper2.RemoteWorkPoints();
             await DisplayAlert("Alert", AppConstants.tenPointsMsg, "OK");
+            await Navigation.PushAsync(new MainMenu());
         }
 
         protected async override void OnAppearing()

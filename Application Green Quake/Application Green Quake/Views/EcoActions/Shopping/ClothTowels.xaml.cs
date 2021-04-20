@@ -24,6 +24,7 @@ namespace Application_Green_Quake.Views.EcoActions.Shopping
             ShoppingPointsUpdate helper2 = new ShoppingPointsUpdate();
             helper2.ClothTowelsPoints();
             await DisplayAlert("Alert", AppConstants.twoPointsMsg, "OK");
+            await Navigation.PushAsync(new MainMenu());
         }
 
         protected async override void OnAppearing()

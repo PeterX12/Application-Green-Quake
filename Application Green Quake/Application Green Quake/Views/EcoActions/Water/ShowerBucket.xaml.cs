@@ -24,6 +24,7 @@ namespace Application_Green_Quake.Views.EcoActions.Water
             WaterPointsUpdate helper2 = new WaterPointsUpdate();
             helper2.ShowerBucketPoints();
             await DisplayAlert("Alert", AppConstants.eightPointsMsg, "OK");
+            await Navigation.PushAsync(new MainMenu());
         }
 
         protected async override void OnAppearing()

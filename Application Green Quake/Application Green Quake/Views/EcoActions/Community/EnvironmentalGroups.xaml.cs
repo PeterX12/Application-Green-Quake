@@ -24,6 +24,7 @@ namespace Application_Green_Quake.Views.EcoActions.Community
             CommunityPointsUpdate helper2 = new CommunityPointsUpdate();
             helper2.GroupPoints();
             await DisplayAlert("Alert", AppConstants.eightPointsMsg, "OK");
+            await Navigation.PushAsync(new MainMenu());
         }
 
         protected async override void OnAppearing()

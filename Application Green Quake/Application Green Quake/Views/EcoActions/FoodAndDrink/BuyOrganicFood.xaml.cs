@@ -30,6 +30,7 @@ namespace Application_Green_Quake.Views.EcoActions.FoodAndDrink
             FoodAndDrinkPointsUpdate helper3 = new FoodAndDrinkPointsUpdate();
             helper3.OrganicPoints();
             await DisplayAlert("Alert", AppConstants.eightPointsMsg, "OK");
+            await Navigation.PushAsync(new MainMenu());
         }
 
         protected async override void OnAppearing()

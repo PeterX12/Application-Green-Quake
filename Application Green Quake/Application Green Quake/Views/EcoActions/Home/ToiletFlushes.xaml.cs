@@ -24,6 +24,7 @@ namespace Application_Green_Quake.Views.EcoActions.Home
             HomePointsUpdate helper2 = new HomePointsUpdate();
             helper2.ToiletPoints();
             await DisplayAlert("Alert", AppConstants.fourPointsMsg, "OK");
+            await Navigation.PushAsync(new MainMenu());
         }
 
         protected async override void OnAppearing()

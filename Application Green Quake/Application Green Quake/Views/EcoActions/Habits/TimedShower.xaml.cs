@@ -25,6 +25,7 @@ namespace Application_Green_Quake.Views.EcoActions.Habits
             HabitsPointsUpdate helper2 = new HabitsPointsUpdate();
             helper2.TimedShowerInsteadPoints();
             await DisplayAlert("Alert", AppConstants.fourPointsMsg, "OK");
+            await Navigation.PushAsync(new MainMenu());
         }
 
         protected async override void OnAppearing()

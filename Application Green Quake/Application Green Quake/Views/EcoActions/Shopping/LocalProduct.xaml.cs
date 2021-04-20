@@ -28,6 +28,7 @@ namespace Application_Green_Quake.Views.EcoActions.Shopping
             ShoppingPointsUpdate helper2 = new ShoppingPointsUpdate();
             helper2.LocalProductPoints();
             await DisplayAlert("Alert", AppConstants.sixPointsMsg, "OK");
+            await Navigation.PushAsync(new MainMenu());
         }
 
         protected async override void OnAppearing()

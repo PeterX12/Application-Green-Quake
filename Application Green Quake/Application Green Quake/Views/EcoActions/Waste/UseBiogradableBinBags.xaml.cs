@@ -24,6 +24,7 @@ namespace Application_Green_Quake.Views.EcoActions.Waste
             WastePointsUpdate helper2 = new WastePointsUpdate();
             helper2.BioBinBagPoints();
             await DisplayAlert("Alert", AppConstants.fourPointsMsg, "OK");
+            await Navigation.PushAsync(new MainMenu());
         }
 
         protected async override void OnAppearing()

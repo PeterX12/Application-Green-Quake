@@ -24,6 +24,7 @@ namespace Application_Green_Quake.Views.EcoActions.FoodAndDrink
             FoodAndDrinkPointsUpdate helper2 = new FoodAndDrinkPointsUpdate();
             helper2.OwnCoffeePoints();
             await DisplayAlert("Alert", AppConstants.twoPointsMsg, "OK");
+            await Navigation.PushAsync(new MainMenu());
         }
 
         protected async override void OnAppearing()

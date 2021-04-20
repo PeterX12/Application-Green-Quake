@@ -15,7 +15,11 @@ namespace Application_Green_Quake.Views.LeaderboardPage
         public LeaderBoardPopUp(string username, int points, string rank, ImageSource image, string bio)
         {
             InitializeComponent();
-            here.Text = bio;
+            profileImage.Source = image;
+            theName.Text = "Username: " + username;
+            thePoints.Text = "Points: " + points.ToString();
+            theBio.Text = "Bio: " + bio;
+            theRank.Text = rank;
         }
     }
 }

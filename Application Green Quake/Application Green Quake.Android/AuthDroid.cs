@@ -102,5 +102,10 @@ namespace Application_Green_Quake.Droid
                 return "";
             }
         }
+
+        public async Task ResetPassword(string email)
+        {
+            await FirebaseAuth.Instance.SendPasswordResetEmailAsync(email);
+        }
     }
 }

@@ -9,6 +9,7 @@ namespace Application_Green_Quake
 
         Task<String> SignUpWithEmailAndPassword(string email, string password);
 
+        Task ResetPassword(string email);
         bool SignOut();
 
         bool IsSignIn();

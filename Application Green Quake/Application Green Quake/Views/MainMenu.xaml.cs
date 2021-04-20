@@ -38,7 +38,7 @@ namespace Application_Green_Quake.Views
             await Navigation.PushAsync(new RefillStation());
         }
 
-        async void SignOutButton(object sender, EventArgs e)
+        void SignOutButton(object sender, EventArgs e)
         {
             var signOut = auth.SignOut();
 

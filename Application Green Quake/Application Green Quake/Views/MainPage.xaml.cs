@@ -1,5 +1,5 @@
 ﻿using System;
-
+using System.Linq;
 using Xamarin.Forms;
 using Xamarin.Forms.Xaml;
 
@@ -29,13 +29,13 @@ namespace Application_Green_Quake.Views
                await DisplayAlert("Authentication Failed", "Email or Password are incorrect", "Ok");
             }
         }
-        async void SignUpClicked(object sender, EventArgs e)
+        void SignUpClicked(object sender, EventArgs e)
         {
             var signOut = auth.SignOut();
 
             if (signOut)
             {
-                await Navigation.PushAsync(new SignUpPage());
+                Navigation.PushAsync(new SignUpPage());
             }
         }
         private async void ForgotPasswordClicked(object sender, EventArgs e)

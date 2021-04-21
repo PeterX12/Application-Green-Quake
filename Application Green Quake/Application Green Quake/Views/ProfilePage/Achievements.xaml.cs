@@ -1,4 +1,5 @@
-﻿using Application_Green_Quake.Models;
+﻿using Acr.UserDialogs;
+using Application_Green_Quake.Models;
 using Application_Green_Quake.ViewModels;
 using Firebase.Database;
 using Firebase.Database.Query;
@@ -104,6 +105,8 @@ namespace Application_Green_Quake.Views.ProfilePage
 
         protected async override void OnAppearing()
         {
+            UserDialogs.Instance.ShowLoading("Loading Please Wait...");
+
             FirebaseClient firebaseClient = new FirebaseClient("https://application-green-quake-default-rtdb.firebaseio.com/");
             auth = DependencyService.Get<IAuth>();
 
@@ -1421,7 +1424,7 @@ namespace Application_Green_Quake.Views.ProfilePage
                 a27Txt.Text = "Eco Appliance Gold";
             }
 
-            if (foodCount>= 5 && foodCount < 15)
+            if (foodCount >= 5 && foodCount < 15)
             {
                 a28.Source = ImageSource.FromResource("Application_Green_Quake.Images.Achievements.Shopping.bulkBronze.png");
                 a28Txt.Text = "Food In Bulk Bronze";
@@ -2054,6 +2057,8 @@ namespace Application_Green_Quake.Views.ProfilePage
                 a81.Source = ImageSource.FromResource("Application_Green_Quake.Images.Achievements.OnceOff.Work.remote.png");
                 a81Txt.Text = "Working Remotely";
             }
+
+            UserDialogs.Instance.HideLoading();
         }
     }
 }

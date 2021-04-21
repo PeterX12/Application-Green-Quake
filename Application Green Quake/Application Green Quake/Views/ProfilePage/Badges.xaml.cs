@@ -1,4 +1,5 @@
-﻿using Application_Green_Quake.Models;
+﻿using Acr.UserDialogs;
+using Application_Green_Quake.Models;
 using Application_Green_Quake.ViewModels;
 using Firebase.Database;
 using Firebase.Database.Query;
@@ -46,6 +47,8 @@ namespace Application_Green_Quake.Views.ProfilePage
 
         protected async override void OnAppearing()
         {
+            UserDialogs.Instance.ShowLoading("Loading Please Wait...");
+
             FirebaseClient firebaseClient = new FirebaseClient("https://application-green-quake-default-rtdb.firebaseio.com/");
             auth = DependencyService.Get<IAuth>();
 
@@ -626,6 +629,8 @@ namespace Application_Green_Quake.Views.ProfilePage
                 a12Txt.Text = "Work Legend";
                 workStage = 6;
             }
+
+            UserDialogs.Instance.HideLoading();
         }
 
         private async void NavigateToBadgePopUpOne(object sender, EventArgs e)
@@ -699,6 +704,5 @@ namespace Application_Green_Quake.Views.ProfilePage
             int number = 12;
             await PopupNavigation.Instance.PushAsync(new BadgePopUp(number, workStage));
         }
-
     }
 }

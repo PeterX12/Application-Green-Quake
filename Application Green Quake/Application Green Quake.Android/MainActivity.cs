@@ -7,6 +7,8 @@ using Firebase;
 using Plugin.CurrentActivity;
 using Android.Widget;
 using Plugin.Media;
+using Acr.UserDialogs;
+using Firebase.Auth;
 
 namespace Application_Green_Quake.Droid
 {
@@ -24,8 +26,8 @@ namespace Application_Green_Quake.Droid
 
             base.OnCreate(savedInstanceState);
 
+            UserDialogs.Init(this);
             Rg.Plugins.Popup.Popup.Init(this);
-
 
             CrossCurrentActivity.Current.Init(this, savedInstanceState);
             FirebaseApp.InitializeApp(Application.Context);

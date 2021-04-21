@@ -5,6 +5,7 @@ using System;
 using System.Threading.Tasks;
 using Xamarin.Forms;
 using Xamarin.Forms.Xaml;
+using static Android.Media.Audiofx.BassBoost;
 
 namespace Application_Green_Quake.Views
 {
@@ -13,7 +14,9 @@ namespace Application_Green_Quake.Views
     {
         IAuth auth;
         int lvl = 0;
-        
+
+        public MainPage MainPage { get; private set; }
+
         public MainMenu()
         {
             InitializeComponent();
@@ -44,7 +47,7 @@ namespace Application_Green_Quake.Views
 
             if (signOut)
             {
-                Navigation.PopToRootAsync();
+                Application.Current.MainPage  = new NavigationPage(new MainPage());
             }
         }
 

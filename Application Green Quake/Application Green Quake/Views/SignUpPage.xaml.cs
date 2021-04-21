@@ -40,11 +40,12 @@ namespace Application_Green_Quake.Views
 
                 string usernameInput = UsernameInput.Text;
                 string token = await user;
+                string theBio = "";
 
                 await firebaseClient
                     .Child("users")
                     .Child(token)
-                    .PutAsync(new Users() { username = usernameInput });
+                    .PutAsync(new Users() { username = usernameInput, bio = theBio });
 
                 await firebaseClient
                     .Child("usernames")

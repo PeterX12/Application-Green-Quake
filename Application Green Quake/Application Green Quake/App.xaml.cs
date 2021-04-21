@@ -1,4 +1,5 @@
-﻿using Xamarin.Forms;
+﻿using Application_Green_Quake.Views;
+using Xamarin.Forms;
 
 namespace Application_Green_Quake
 {
@@ -9,15 +10,14 @@ namespace Application_Green_Quake
         {
             InitializeComponent();
             auth = DependencyService.Get<IAuth>();
-            
-           
+     
             if (auth.IsSignIn())
             {
-                MainPage = new NavigationPage(new Views.MainMenu());
+                MainPage = new NavigationPage(new MainMenu());
             }
             else
             {
-                MainPage = new NavigationPage(new Views.MainPage());
+                MainPage = new NavigationPage(new MainPage());
             }
         }
 

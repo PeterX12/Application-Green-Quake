@@ -1,4 +1,7 @@
-﻿using Application_Green_Quake.Views;
+﻿using Microsoft.AppCenter;
+using Microsoft.AppCenter.Analytics;
+using Microsoft.AppCenter.Crashes;
+using Application_Green_Quake.Views;
 using Xamarin.Forms;
 
 namespace Application_Green_Quake
@@ -23,6 +26,10 @@ namespace Application_Green_Quake
 
         protected override void OnStart()
         {
+            AppCenter.Start("android=87250b90-3ea3-429d-ac0b-7e47e6cd70ac;" +
+                  "uwp={Your UWP App secret here};" +
+                  "ios={Your iOS App secret here}",
+                  typeof(Analytics), typeof(Crashes));
         }
 
         protected override void OnSleep()

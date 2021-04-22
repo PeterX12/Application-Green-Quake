@@ -36,21 +36,30 @@ namespace Application_Green_Quake.Views
                     await DisplayAlert("Error", "An error has occured, please try again", "Ok");
                 }
 
-                FirebaseClient firebaseClient = new FirebaseClient("https://application-green-quake-default-rtdb.firebaseio.com/");
+                try
+                {
+                    FirebaseClient firebaseClient = new FirebaseClient("https://application-green-quake-default-rtdb.firebaseio.com/");
 
-                string usernameInput = UsernameInput.Text;
-                string token = await user;
-                string theBio = "";
+                    string usernameInput = UsernameInput.Text;
+                    string token = await user;
+                    string theBio = "";
 
-                await firebaseClient
-                    .Child("users")
-                    .Child(token)
-                    .PutAsync(new Users() { username = usernameInput, bio = theBio });
+                    await firebaseClient
+                        .Child("users")
+                        .Child(token)
+                        .PutAsync(new Users() { username = usernameInput, bio = theBio });
 
-                await firebaseClient
-                    .Child("usernames")
-                    .Child(usernameInput)
-                    .PatchAsync(new Usernames() { Uid = token });
+                    await firebaseClient
+                        .Child("usernames")
+                        .Child(usernameInput)
+                        .PatchAsync(new Usernames() { Uid = token });
+                }
+                catch (Exception ex)
+                {
+                    Console.Write(ex);
+                    await DisplayAlert("Error", "Please Connect to the Internet", "Ok");
+                }
+                
             }
         }
     }

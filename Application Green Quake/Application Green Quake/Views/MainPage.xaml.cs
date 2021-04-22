@@ -18,17 +18,47 @@ namespace Application_Green_Quake.Views
 
         async void LoginClicked(object sender, EventArgs e)
         {
-            token = await auth.LoginWithEmailAndPassword(EmailInput.Text, PasswordInput.Text);
-            if (token != string.Empty)
+            if (EmailInput.Text == null && PasswordInput.Text != null)
             {
-                await Navigation.PushAsync(new MainMenu());
-                
+                EmailInput.Text = null;
+                PasswordInput.Text = null;
+                await DisplayAlert("Authentication Failed", "No Email Entered", "Ok");
+            }
+            else if (PasswordInput.Text == null && EmailInput.Text != null)
+            {
+                EmailInput.Text = null;
+                PasswordInput.Text = null;
+                await DisplayAlert("Authentication Failed", "No Password Entered", "Ok");
+            }
+            else if (EmailInput.Text == null && PasswordInput.Text == null)
+            {
+                EmailInput.Text = null;
+                PasswordInput.Text = null;
+                await DisplayAlert("Authentication Failed", "No Email or Password Entered", "Ok");
             }
             else
             {
-               await DisplayAlert("Authentication Failed", "Email or Password are incorrect", "Ok");
+                try
+                {
+                    token = await auth.LoginWithEmailAndPassword(EmailInput.Text, PasswordInput.Text);
+                    if (token != string.Empty)
+                    {
+                        await Navigation.PushAsync(new MainMenu());
+
+                    }
+                    else
+                    {
+                        await DisplayAlert("Authentication Failed", "Email or Password are incorrect", "Ok");
+                    }
+                }
+                catch (Exception ex)
+                {
+                    await DisplayAlert("Authentication Failed", "Please connect to the internet", "Ok");
+                }
+                
             }
         }
+            
         void SignUpClicked(object sender, EventArgs e)
         {
             var signOut = auth.SignOut();

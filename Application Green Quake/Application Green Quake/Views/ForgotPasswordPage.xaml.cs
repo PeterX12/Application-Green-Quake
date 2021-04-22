@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Text.RegularExpressions;
 using Xamarin.Forms;
 using Xamarin.Forms.Xaml;
 
@@ -7,7 +8,7 @@ namespace Application_Green_Quake.Views
     [XamlCompilation(XamlCompilationOptions.Compile)]
     public partial class ForgotPasswordPage : ContentPage
     {
-        string email;
+        IAuth auth;
         public ForgotPasswordPage()
         {
             InitializeComponent();
@@ -15,13 +16,31 @@ namespace Application_Green_Quake.Views
 
         private async void OnResetPassword(object sender, EventArgs e)
         {
-            email = EmailInput.Text;
-            var authService = DependencyService.Resolve<IAuth>();
-            await authService.ResetPassword(email);
+            var emailPattern = "^(?(\")(\".+?(?<!\\\\)\"@)|(([0-9a-z]((\\.(?!\\.))|[-!#\\$%&'\\*\\+/=\\?\\^`\\{\\}\\|~\\w])*)(?<=[0-9a-z])@))(?(\\[)(\\[(\\d{1,3}\\.){3}\\d{1,3}\\])|(([0-9a-z][-\\w]*[0-9a-z]*\\.)+[a-z0-9][\\-a-z0-9]{0,22}[a-z0-9]))$";
 
-            await DisplayAlert("Password Reset", "Password recovery sent, check your email", "OK");
-
-            await Navigation.PushAsync(new MainPage());
+            if (EmailInput.Text == null)
+            {
+                EmailInput.Text = null;
+                await DisplayAlert("Authentication Failed", "No Email Entered", "Ok");
+            }
+            else if (!Regex.IsMatch(EmailInput.Text, emailPattern))
+            {
+                EmailInput.Text = null;
+                await DisplayAlert("Sign Up Failed", "Email is invalid", "Ok");
+            }
+            else
+            {
+                try
+                {
+                    await auth.ResetPassword(EmailInput.Text);
+                    await DisplayAlert("Password Reset", "If a matching account was found an email was sent to " + EmailInput.Text + "to allow you to reset your password.", "OK");
+                    await Navigation.PushAsync(new MainPage());
+                }
+                catch (NullReferenceException)
+                {
+                    await DisplayAlert("Password Reset", "Please Try again and make sure you are connected to the internet." + EmailInput.Text + " to allow you to reset your password.", "OK");
+                }
+            }  
         }
 
     }

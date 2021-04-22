@@ -44,10 +44,11 @@ namespace Application_Green_Quake.Views
                     if (token != string.Empty)
                     {
                         await Navigation.PushAsync(new MainMenu());
-
                     }
                     else
                     {
+                        EmailInput.Text = null;
+                        PasswordInput.Text = null;
                         await DisplayAlert("Authentication Failed", "Email or Password are incorrect", "Ok");
                     }
                 }

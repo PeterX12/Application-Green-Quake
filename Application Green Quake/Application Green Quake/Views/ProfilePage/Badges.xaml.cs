@@ -13,7 +13,6 @@ namespace Application_Green_Quake.Views.ProfilePage
     [XamlCompilation(XamlCompilationOptions.Compile)]
     public partial class Badges : ContentPage
     {
-        IAuth auth;
         int habitsStage = 0;
         int advancedStage = 0;
         int communityStage = 0;
@@ -34,8 +33,6 @@ namespace Application_Green_Quake.Views.ProfilePage
 
         protected override void OnAppearing()
         {
-            UserDialogs.Instance.ShowLoading("Loading Please Wait...");
-
             if (GetBadgeData.habitsLog > 0 && GetBadgeData.habitsLog < 5)
             {
                 a1.Source = ImageSource.FromResource("Application_Green_Quake.Images.Badges.Habits.habitsOne.png");
@@ -480,8 +477,6 @@ namespace Application_Green_Quake.Views.ProfilePage
                 a12Txt.Text = "Work Legend";
                 workStage = 6;
             }
-
-            UserDialogs.Instance.HideLoading();
         }
 
         private async void NavigateToBadgePopUpOne(object sender, EventArgs e)

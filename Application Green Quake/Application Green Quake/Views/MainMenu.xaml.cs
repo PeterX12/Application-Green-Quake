@@ -5,7 +5,6 @@ using System;
 using System.Threading.Tasks;
 using Xamarin.Forms;
 using Xamarin.Forms.Xaml;
-using static Android.Media.Audiofx.BassBoost;
 
 namespace Application_Green_Quake.Views
 {
@@ -63,10 +62,13 @@ namespace Application_Green_Quake.Views
                 Console.Write(e);
             }
 
-            GetBadgeData data = new GetBadgeData();
-            data.SetBadgeData();
-
             theLevel.Text = "LVL: " + lvl;
+
+            GetBadgeData badgeData = new GetBadgeData();
+            badgeData.SetBadgeData();
+
+            GetAchievementsData achievementsData = new GetAchievementsData();
+            achievementsData.SetAchievementsData();
         }
     }
 }

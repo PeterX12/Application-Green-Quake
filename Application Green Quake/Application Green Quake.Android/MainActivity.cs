@@ -4,7 +4,6 @@ using Android.Runtime;
 using Android.OS;
 using Firebase;
 using Plugin.CurrentActivity;
-using Acr.UserDialogs;
 
 namespace Application_Green_Quake.Droid
 {
@@ -22,13 +21,12 @@ namespace Application_Green_Quake.Droid
 
             base.OnCreate(savedInstanceState);
 
-            UserDialogs.Init(this);
             Rg.Plugins.Popup.Popup.Init(this);
 
             CrossCurrentActivity.Current.Init(this, savedInstanceState);
             FirebaseApp.InitializeApp(Application.Context);
             Xamarin.Essentials.Platform.Init(this, savedInstanceState);
-            global::Xamarin.Forms.Forms.Init(this, savedInstanceState);
+            Xamarin.Forms.Forms.Init(this, savedInstanceState);
             Xamarin.FormsGoogleMaps.Init(this, savedInstanceState); // initialize for Xamarin.Forms.GoogleMaps
             LoadApplication(new App());
         }

@@ -4,10 +4,7 @@ using Android.Runtime;
 using Android.OS;
 using Firebase;
 using Plugin.CurrentActivity;
-using Android.Widget;
-using Plugin.Media;
 using Acr.UserDialogs;
-using Firebase.Auth;
 
 namespace Application_Green_Quake.Droid
 {
@@ -38,7 +35,6 @@ namespace Application_Green_Quake.Droid
         public override void OnRequestPermissionsResult(int requestCode, string[] permissions, [GeneratedEnum] Android.Content.PM.Permission[] grantResults)
         {
             Xamarin.Essentials.Platform.OnRequestPermissionsResult(requestCode, permissions, grantResults);
-
             base.OnRequestPermissionsResult(requestCode, permissions, grantResults);
         }
     }

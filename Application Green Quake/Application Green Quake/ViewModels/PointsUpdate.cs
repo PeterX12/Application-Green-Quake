@@ -10,8 +10,13 @@ namespace Application_Green_Quake.ViewModels
     class PointsUpdate
     {
         int points2 = 0;
-
         string username = "";
+        string theDate = "";
+        long theTime = 0;
+        int theCount = 0;
+        string currentDate = "";
+        long currentTime = 0;
+
 
         IAuth auth;
         public async void UpdateByTenPoints()
@@ -19,6 +24,48 @@ namespace Application_Green_Quake.ViewModels
 
             FirebaseClient firebaseClient = new FirebaseClient("https://application-green-quake-default-rtdb.firebaseio.com/");
             auth = DependencyService.Get<IAuth>();
+
+            currentDate = DateTime.UtcNow.ToString("d");
+            currentTime = DateTimeOffset.Now.ToUnixTimeMilliseconds();
+            try
+            {
+                theDate = (await firebaseClient
+                .Child("SecurityChecks")
+                .Child(auth.GetUid())
+                .OnceSingleAsync<SecurityChecks>()).date;
+
+                theTime = (await firebaseClient
+                .Child("SecurityChecks")
+                .Child(auth.GetUid())
+                .OnceSingleAsync<SecurityChecks>()).time;
+
+                theCount = (await firebaseClient
+                .Child("SecurityChecks")
+                .Child(auth.GetUid())
+                .OnceSingleAsync<SecurityChecks>()).counter;
+
+                if (theDate == currentDate)
+                {
+                    theCount++;
+                }
+                else
+                {
+                    theCount = 0;
+                }
+
+                await firebaseClient
+                .Child("SecurityChecks")
+                .Child(auth.GetUid())
+                .PutAsync(new SecurityChecks() { date = currentDate, time = currentTime, counter = theCount });
+
+            }
+            catch (Exception ex)
+            {
+                await firebaseClient
+                .Child("SecurityChecks")
+                .Child(auth.GetUid())
+                .PutAsync(new SecurityChecks() { date = currentDate, time = currentTime , counter = 1});
+            }
 
             try
             {

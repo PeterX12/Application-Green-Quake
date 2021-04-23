@@ -13,17 +13,13 @@ namespace Application_Green_Quake.ViewModels
         int points2 = 0;
         int numberOfLogs2 = 0;
         int fixCount2 = 0;
-
-
         string username = "";
-
+        
         IAuth auth;
         public async void FixPoints()
         {
-
             FirebaseClient firebaseClient = new FirebaseClient("https://application-green-quake-default-rtdb.firebaseio.com/");
             auth = DependencyService.Get<IAuth>();
-
             try
             {
                 username = (await firebaseClient

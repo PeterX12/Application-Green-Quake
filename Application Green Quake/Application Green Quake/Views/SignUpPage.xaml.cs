@@ -142,7 +142,7 @@ namespace Application_Green_Quake.Views
                         }
                     }
                 }
-                catch (Exception ex)
+                catch (Exception)
                 {
                     await DisplayAlert("Error", "Please Connect to the Internet", "Ok");
                 }

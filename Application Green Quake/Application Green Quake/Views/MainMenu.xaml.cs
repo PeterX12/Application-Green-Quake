@@ -15,8 +15,6 @@ namespace Application_Green_Quake.Views
         IAuth auth;
         int lvl = 0;
 
-        public MainPage MainPage { get; private set; }
-
         public MainMenu()
         {
             InitializeComponent();
@@ -51,7 +49,7 @@ namespace Application_Green_Quake.Views
             }
         }
 
-        protected async override void OnAppearing()
+        protected override async void OnAppearing()
         {
             try
             {
@@ -64,6 +62,9 @@ namespace Application_Green_Quake.Views
             {
                 Console.Write(e);
             }
+
+            GetBadgeData data = new GetBadgeData();
+            data.SetBadgeData();
 
             theLevel.Text = "LVL: " + lvl;
         }

@@ -7,7 +7,7 @@ namespace Application_Green_Quake.Views.ProfilePage
     public partial class BadgePopUp
     {
         int num = 0;
-        int  badgeState= 0;
+        int badgeState= 0;
         public BadgePopUp(int number, int stage)
         {
             num = number;

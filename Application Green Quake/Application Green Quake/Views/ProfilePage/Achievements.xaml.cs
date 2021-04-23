@@ -105,7 +105,7 @@ namespace Application_Green_Quake.Views.ProfilePage
 
         protected async override void OnAppearing()
         {
-            UserDialogs.Instance.ShowLoading("Loading Please Wait...");
+            
 
             FirebaseClient firebaseClient = new FirebaseClient("https://application-green-quake-default-rtdb.firebaseio.com/");
             auth = DependencyService.Get<IAuth>();
@@ -991,7 +991,7 @@ namespace Application_Green_Quake.Views.ProfilePage
             {
                 Console.Write(e);
             }
-
+            UserDialogs.Instance.ShowLoading("Loading Please Wait...");
             if (brushingCount >= 5 && brushingCount < 15)
             {
                 a1.Source = ImageSource.FromResource("Application_Green_Quake.Images.Achievements.Habits.brushingBronze.png");

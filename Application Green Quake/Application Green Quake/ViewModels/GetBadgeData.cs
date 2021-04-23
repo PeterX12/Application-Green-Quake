@@ -33,9 +33,9 @@ namespace Application_Green_Quake.ViewModels
             try
             {
                 advancedLog = (await firebaseClient
-                    .Child("AdvancedPoints")
-                    .Child(auth.GetUid())
-                    .OnceSingleAsync<AdvancedPoints>()).numberOfLogs;
+                .Child("AdvancedPoints")
+                .Child(auth.GetUid())
+                .OnceSingleAsync<AdvancedPoints>()).numberOfLogs;
             }
             catch (Exception e)
             {

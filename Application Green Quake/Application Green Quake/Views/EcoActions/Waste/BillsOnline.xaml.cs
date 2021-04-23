@@ -19,12 +19,32 @@ namespace Application_Green_Quake.Views.EcoActions.Waste
 
         private async void AddPointsClicked(object sender, EventArgs e)
         {
-            PointsUpdate helper = new PointsUpdate();
-            helper.UpdateByFourPoints();
-            WastePointsUpdate helper2 = new WastePointsUpdate();
-            helper2.BillsPoints();
-            await DisplayAlert("Alert", AppConstants.fourPointsMsg, "OK");
-            await Navigation.PushAsync(new MainMenu());
+            SecurityMethods checks = new SecurityMethods();
+            Task<bool> myTask = checks.DayLimitLock();
+            await myTask;
+
+            Task<bool> myTaskTwo = checks.TimeLimitLock();
+            await myTaskTwo;
+
+            if (myTask.Result)
+            {
+                await DisplayAlert("Daily Limit Reached", "You can only log 15 Actions per day.", "OK");
+                await Navigation.PushAsync(new MainMenu());
+            }
+            else if (myTaskTwo.Result)
+            {
+                await DisplayAlert("Too soon", "You must wait 1 minute before logging the next Action.", "OK");
+                await Navigation.PushAsync(new MainMenu());
+            }
+            else
+            {
+                PointsUpdate helper = new PointsUpdate();
+                helper.UpdateByTenPoints();
+                AdvancedPointsUpdate helper2 = new AdvancedPointsUpdate();
+                helper2.FixPoints();
+                await DisplayAlert("Points Added", AppConstants.tenPointsMsg, "OK");
+                await Navigation.PushAsync(new MainMenu());
+            }
         }
 
         protected async override void OnAppearing()

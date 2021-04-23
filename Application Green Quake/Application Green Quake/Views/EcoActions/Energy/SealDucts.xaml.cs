@@ -16,7 +16,6 @@ namespace Application_Green_Quake.Views.EcoActions.Energy
             InitializeComponent();
             OnAppearing();
         }
-
         private async void AddPointsClicked(object sender, EventArgs e)
         {
             SecurityMethods checks = new SecurityMethods();
@@ -46,10 +45,7 @@ namespace Application_Green_Quake.Views.EcoActions.Energy
                 await Navigation.PushAsync(new MainMenu());
             }
         }
-        t Navigation.PushAsync(new MainMenu());
-        }
-
-        protected async override void OnAppearing()
+        protected override async void OnAppearing()
         {
             try
             {

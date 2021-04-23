@@ -47,7 +47,7 @@ namespace Application_Green_Quake.Views.EcoActions.Outdoors
             }
         }
 
-        protected async override void OnAppearing()
+        protected override async void OnAppearing()
         {
             try
             {

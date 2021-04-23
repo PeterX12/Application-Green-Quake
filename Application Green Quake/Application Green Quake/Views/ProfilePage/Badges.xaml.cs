@@ -1,5 +1,4 @@
-﻿using Acr.UserDialogs;
-using Application_Green_Quake.Models;
+﻿using Application_Green_Quake.Models;
 using Application_Green_Quake.ViewModels;
 using Firebase.Database;
 using Firebase.Database.Query;

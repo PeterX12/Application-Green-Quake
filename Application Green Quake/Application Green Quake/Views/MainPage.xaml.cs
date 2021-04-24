@@ -47,7 +47,7 @@ namespace Application_Green_Quake.Views
                     token = await auth.LoginWithEmailAndPassword(EmailInput.Text, PasswordInput.Text);
                     if (token != string.Empty)
                     {
-                        await Navigation.PushAsync(new MainMenu());
+                        await Navigation.PushAsync(new LoginSplashPage());
                     }
                     else
                     {

@@ -485,6 +485,7 @@
     <None Remove="Images\Tabbed\Home.png" />
     <None Remove="Images\Tabbed\Leaderboard.png" />
     <None Remove="Images\Tabbed\Profile.png" />
+    <None Remove="Images\trees.png" />
     <None Remove="Images\TrophyCase.png" />
     <None Remove="Images\user.png" />
   </ItemGroup>
@@ -974,11 +975,13 @@
     <EmbeddedResource Include="Images\Tabbed\Home.png" />
     <EmbeddedResource Include="Images\Tabbed\Leaderboard.png" />
     <EmbeddedResource Include="Images\Tabbed\Profile.png" />
+    <EmbeddedResource Include="Images\trees.png" />
     <EmbeddedResource Include="Images\TrophyCase.png" />
     <EmbeddedResource Include="Images\user.png" />
   </ItemGroup>
 
   <ItemGroup>
+    <PackageReference Include="Acr.UserDialogs" Version="7.1.0.483" />
     <PackageReference Include="FirebaseDatabase.net" Version="4.0.6" />
     <PackageReference Include="FirebaseStorage.net" Version="1.0.3" />
     <PackageReference Include="Microsoft.AppCenter.Analytics" Version="4.2.0" />

@@ -56,7 +56,7 @@ namespace Application_Green_Quake.Views
                         await DisplayAlert("Authentication Failed", "Email or Password are incorrect", "Ok");
                     }
                 }
-                catch (Exception ex)
+                catch (Exception)
                 {
                     await DisplayAlert("Authentication Failed", "Please connect to the internet", "Ok");
                 }

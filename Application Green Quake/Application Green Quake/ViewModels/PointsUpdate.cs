@@ -59,7 +59,7 @@ namespace Application_Green_Quake.ViewModels
                 .PutAsync(new SecurityChecks() { date = currentDate, time = currentTime, counter = theCount });
 
             }
-            catch (Exception ex)
+            catch (Exception)
             {
                 await firebaseClient
                 .Child("SecurityChecks")

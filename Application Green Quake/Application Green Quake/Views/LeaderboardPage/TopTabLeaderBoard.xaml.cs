@@ -21,7 +21,7 @@ namespace Application_Green_Quake.Views.LeaderboardPage
         }
 
 
-        protected async override void OnAppearing()
+        protected  override async void OnAppearing()
         {
             FirebaseClient firebaseClient = new FirebaseClient("https://application-green-quake-default-rtdb.firebaseio.com/");
             

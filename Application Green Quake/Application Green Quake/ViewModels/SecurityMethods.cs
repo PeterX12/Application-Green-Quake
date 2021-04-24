@@ -47,7 +47,7 @@ namespace Application_Green_Quake.ViewModels
                 return false;
 
             }
-            catch (Exception ex)
+            catch (Exception)
             {
                 return false;
             }
@@ -78,7 +78,7 @@ namespace Application_Green_Quake.ViewModels
                 return false;
 
             }
-            catch (Exception ex)
+            catch (Exception)
             {
                 return false;
             }

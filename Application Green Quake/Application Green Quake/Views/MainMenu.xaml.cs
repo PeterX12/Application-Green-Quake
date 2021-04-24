@@ -12,10 +12,9 @@ namespace Application_Green_Quake.Views
     public partial class MainMenu : TabbedPage
     {
         IAuth auth;
-        int lvl = 0;
-
         public MainMenu()
         {
+            
             InitializeComponent();
             auth = DependencyService.Get<IAuth>();
             OnAppearing();
@@ -48,27 +47,20 @@ namespace Application_Green_Quake.Views
             }
         }
 
-        protected override async void OnAppearing()
+        protected override void OnAppearing()
         {
-            try
-            {
-                GetData theLvl = new GetData();
-                Task<int> myTask4 = theLvl.GetLevel();
-                await myTask4;
-                lvl = myTask4.Result;
-            }
-            catch (Exception e)
-            {
-                Console.Write(e);
-            }
-
-            theLevel.Text = "LVL: " + lvl;
 
             GetBadgeData badgeData = new GetBadgeData();
             badgeData.SetBadgeData();
 
             GetAchievementsData achievementsData = new GetAchievementsData();
             achievementsData.SetAchievementsData();
+
+            GetData data = new GetData();
+            data.SetData();
+            data.SetLvl();
+
+            theLevel.Text = "LVL: " + GetData.lvl.ToString();
         }
     }
 }

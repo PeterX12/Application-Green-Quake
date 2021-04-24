@@ -11,7 +11,6 @@ namespace Application_Green_Quake.Views.EcoActions.EcoActionsSubMenu
     [XamlCompilation(XamlCompilationOptions.Compile)]
     public partial class WastePage : ContentPage
     {
-        int lvl = 0;
         public WastePage()
         {
             InitializeComponent();
@@ -43,21 +42,12 @@ namespace Application_Green_Quake.Views.EcoActions.EcoActionsSubMenu
             await Navigation.PushAsync(new BillsOnline());
         }
 
-        protected async override void OnAppearing()
+        protected override void OnAppearing()
         {
-            try
-            {
-                GetData theLvl = new GetData();
-                Task<int> myTask4 = theLvl.GetLevel();
-                await myTask4;
-                lvl = myTask4.Result;
-            }
-            catch (Exception e)
-            {
-                Console.Write(e);
-            }
+            GetData data = new GetData();
+            data.SetLvl();
 
-            theLevel.Text = "LVL: " + lvl;
+            theLevel.Text = "LVL: " + GetData.lvl.ToString();
         }
     }
 }

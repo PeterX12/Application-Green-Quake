@@ -31,6 +31,7 @@ namespace Application_Green_Quake.Views
             }
             else
             {
+                
                 try
                 {
                     await auth.ResetPassword(EmailInput.Text);

@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Linq;
+using Application_Green_Quake.ViewModels;
 using Xamarin.Forms;
 using Xamarin.Forms.Xaml;
 
@@ -47,6 +48,8 @@ namespace Application_Green_Quake.Views
                     token = await auth.LoginWithEmailAndPassword(EmailInput.Text, PasswordInput.Text);
                     if (token != string.Empty)
                     {
+                        GetData level = new GetData();
+                        level.SetLvl();
                         await Navigation.PushAsync(new LoginSplashPage());
                     }
                     else

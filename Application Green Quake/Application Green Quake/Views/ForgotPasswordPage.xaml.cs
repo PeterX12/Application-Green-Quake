@@ -18,15 +18,16 @@ namespace Application_Green_Quake.Views
         {
             var emailPattern = "^(?(\")(\".+?(?<!\\\\)\"@)|(([0-9a-z]((\\.(?!\\.))|[-!#\\$%&'\\*\\+/=\\?\\^`\\{\\}\\|~\\w])*)(?<=[0-9a-z])@))(?(\\[)(\\[(\\d{1,3}\\.){3}\\d{1,3}\\])|(([0-9a-z][-\\w]*[0-9a-z]*\\.)+[a-z0-9][\\-a-z0-9]{0,22}[a-z0-9]))$";
 
+            EmailErrorLabel.Text = null;
             if (EmailInput.Text == null)
             {
                 EmailInput.Text = null;
-                await DisplayAlert("Authentication Failed", "No Email Entered", "Ok");
+                EmailErrorLabel.Text = "No Email Entered";
             }
             else if (!Regex.IsMatch(EmailInput.Text, emailPattern))
             {
                 EmailInput.Text = null;
-                await DisplayAlert("Sign Up Failed", "Email is invalid", "Ok");
+                EmailErrorLabel.Text = "Email is invalid";
             }
             else
             {

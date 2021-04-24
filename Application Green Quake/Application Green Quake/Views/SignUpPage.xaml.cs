@@ -27,124 +27,141 @@ namespace Application_Green_Quake.Views
             var hasSpecialChar = new Regex(@"[^\w]+");
             var hasMinimum8Chars = new Regex(@".{8,}");
 
+            UsernameErrorLabel.Text = null;
+            EmailErrorLabel.Text = null;
+            PasswordErrorLabel.Text = null;
+
             if (UsernameInput.Text == null && EmailInput.Text != null && PasswordInput.Text != null)
             {
-                EmailInput.Text = null;
-                PasswordInput.Text = null;
+                
                 UsernameInput.Text = null;
-                await DisplayAlert("Sign Up Failed", "No Username Entered", "Ok");
+                UsernameErrorLabel.Text = "No Username Entered";
             }
             else if (UsernameInput.Text != null && EmailInput.Text == null && PasswordInput.Text != null)
             {
                 EmailInput.Text = null;
-                PasswordInput.Text = null;
-                UsernameInput.Text = null;
-                await DisplayAlert("Sign Up Failed", "No Email Entered", "Ok");
+                EmailErrorLabel.Text = "No Email Entered";
             }
             else if (UsernameInput.Text != null && EmailInput.Text != null && PasswordInput.Text == null)
             {
-                EmailInput.Text = null;
+                
                 PasswordInput.Text = null;
-                UsernameInput.Text = null;
-                await DisplayAlert("Sign Up Failed", "No Password Entered", "Ok");
+                PasswordErrorLabel.TextColor = Color.Red;
+                PasswordErrorLabel.Text = "No Password Entered";
             }
             else if (UsernameInput.Text != null && EmailInput.Text == null && PasswordInput.Text == null)
             {
                 EmailInput.Text = null;
                 PasswordInput.Text = null;
-                UsernameInput.Text = null;
-                await DisplayAlert("Sign Up Failed", "No Email or Password Entered", "Ok");
+                PasswordErrorLabel.TextColor = Color.Red;
+                PasswordErrorLabel.Text = "No Password Entered";
+                EmailErrorLabel.Text = "No Email Entered";
             }
             else if (UsernameInput.Text == null && EmailInput.Text != null && PasswordInput.Text == null)
             {
-                EmailInput.Text = null;
                 PasswordInput.Text = null;
                 UsernameInput.Text = null;
-                await DisplayAlert("Sign Up Failed", "No Username or  Password", "Ok");
+                PasswordErrorLabel.TextColor = Color.Red;
+                UsernameErrorLabel.Text = "No Username Entered";
+                PasswordErrorLabel.Text = "No Password Entered";
+                    await DisplayAlert("Sign Up Failed", "No Username or  Password", "Ok");
             }
             else if (UsernameInput.Text == null && EmailInput.Text == null && PasswordInput.Text != null)
             {
                 EmailInput.Text = null;
-                PasswordInput.Text = null;
+                
                 UsernameInput.Text = null;
-                await DisplayAlert("Sign Up Failed", "No Username or Email Entered", "Ok");
+                UsernameErrorLabel.Text = "No Username Entered";
+                EmailErrorLabel.Text = "No Email Entered";
             }
             else if (UsernameInput.Text == null && EmailInput.Text == null && PasswordInput.Text == null)
             {
                 EmailInput.Text = null;
                 PasswordInput.Text = null;
                 UsernameInput.Text = null;
-                await DisplayAlert("Sign Up Failed", "No Username, Email or Password Entered", "Ok");
+                PasswordErrorLabel.TextColor = Color.Red;
+                EmailErrorLabel.Text = "No Emailed Entered";
+                PasswordErrorLabel.Text = "No Password Entered";
+                UsernameErrorLabel.Text = "No Username Entered";
             }
-            else if (!Regex.IsMatch(EmailInput.Text, emailPattern))
+
+            if (UsernameInput.Text != null && EmailInput.Text != null && PasswordInput.Text != null)
             {
-                EmailInput.Text = null;
-                await DisplayAlert("Sign Up Failed", "Email is invalid", "Ok");
-            }
-            else if (!hasNum.IsMatch(PasswordInput.Text))
-            {
-                PasswordInput.Text = null;
-                await DisplayAlert("Sign Up Failed", "Password must have at least one number", "Ok");
-            }
-            else if (!hasLowerChar.IsMatch(PasswordInput.Text))
-            {
-                PasswordInput.Text = null;
-                await DisplayAlert("Sign Up Failed", "Password must have at least one lower case character", "Ok");
-            }
-            else if (!hasUpperChar.IsMatch(PasswordInput.Text))
-            {
-                PasswordInput.Text = null;
-                await DisplayAlert("Sign Up Failed", "Password must have at least one upper case character", "Ok");
-            }
-            else if (!hasSpecialChar.IsMatch(PasswordInput.Text))
-            {
-                PasswordInput.Text = null;
-                await DisplayAlert("Sign Up Failed", "Password must have at least one special character", "Ok");
-            }
-            else if (!hasMinimum8Chars.IsMatch(PasswordInput.Text))
-            {
-                PasswordInput.Text = null;
-                await DisplayAlert("Sign Up Failed", "Password must be at least 8 characters", "Ok");
-            }
-            else
-            {
-                try
+                if (!Regex.IsMatch(EmailInput.Text, emailPattern))
                 {
-                    var user = auth.SignUpWithEmailAndPassword(EmailInput.Text, PasswordInput.Text);
-                    if (user != null)
+                    EmailInput.Text = null;
+                    EmailErrorLabel.Text = "Email is invalid";
+                }
+                if (!hasNum.IsMatch(PasswordInput.Text))
+                {
+                    PasswordInput.Text = null;
+                    PasswordErrorLabel.TextColor = Color.Red;
+                    PasswordErrorLabel.Text = "Password must have at least one number";
+                }
+                else if (!hasLowerChar.IsMatch(PasswordInput.Text))
+                {
+                    PasswordInput.Text = null;
+                    PasswordErrorLabel.TextColor = Color.Red;
+                    PasswordErrorLabel.Text = "Password must have at least one lower case character";
+                }
+                else if (!hasUpperChar.IsMatch(PasswordInput.Text))
+                {
+                    PasswordInput.Text = null;
+                    PasswordErrorLabel.TextColor = Color.Red;
+                    PasswordErrorLabel.Text = "Password must have at least one upper case character";
+                }
+                else if (!hasSpecialChar.IsMatch(PasswordInput.Text))
+                {
+                    PasswordInput.Text = null;
+                    PasswordErrorLabel.TextColor = Color.Red;
+                    PasswordErrorLabel.Text = "Password must have at least one special character";
+                }
+                else if (!hasMinimum8Chars.IsMatch(PasswordInput.Text))
+                {
+                    PasswordInput.Text = null;
+                    PasswordErrorLabel.TextColor = Color.Red;
+                    PasswordErrorLabel.Text = "Password must be at least 8 characters";
+                }
+                else if (EmailErrorLabel.Text == null && PasswordErrorLabel.Text == null && UsernameErrorLabel.Text == null)
+                {
+                    try
                     {
-                        var signOut = auth.SignOut();
-
-                        FirebaseClient firebaseClient = new FirebaseClient("https://application-green-quake-default-rtdb.firebaseio.com/");
-
-                        string usernameInput = UsernameInput.Text;
-                        string token = await user;
-                        string theBio = "";
-
-                        await firebaseClient
-                            .Child("users")
-                            .Child(token)
-                            .PutAsync(new Users() { username = usernameInput, bio = theBio });
-
-                        await firebaseClient
-                            .Child("usernames")
-                            .Child(usernameInput)
-                            .PatchAsync(new Usernames() { Uid = token });
-
-                        if (signOut)
+                        var user = auth.SignUpWithEmailAndPassword(EmailInput.Text, PasswordInput.Text);
+                        if (user != null)
                         {
-                            await DisplayAlert("Success", "New User Created", "OK");
-                            await Navigation.PushAsync(new MainPage());
-                        }
-                        else
-                        {
-                            await DisplayAlert("Error", "An error has occurred, please try again", "Ok");
+                            var signOut = auth.SignOut();
+
+                            FirebaseClient firebaseClient = new FirebaseClient("https://application-green-quake-default-rtdb.firebaseio.com/");
+
+                            string usernameInput = UsernameInput.Text;
+                            string token = await user;
+                            string theBio = "";
+
+                            await firebaseClient
+                                .Child("users")
+                                .Child(token)
+                                .PutAsync(new Users() { username = usernameInput, bio = theBio });
+
+                            await firebaseClient
+                                .Child("usernames")
+                                .Child(usernameInput)
+                                .PatchAsync(new Usernames() { Uid = token });
+
+                            if (signOut)
+                            {
+                                await DisplayAlert("Success", "New User Created", "OK");
+                                await Navigation.PushAsync(new MainPage());
+                            }
+                            else
+                            {
+                                await DisplayAlert("Error", "An error has occurred, please try again", "Ok");
+                            }
                         }
                     }
-                }
-                catch (Exception)
-                {
-                    await DisplayAlert("Error", "Please Connect to the Internet", "Ok");
+                    catch (Exception)
+                    {
+                        await DisplayAlert("Error", "Please Connect to the Internet", "Ok");
+                    }
                 }
             }
         }

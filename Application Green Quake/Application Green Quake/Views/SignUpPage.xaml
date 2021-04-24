@@ -8,16 +8,15 @@
         <Grid VerticalOptions="FillAndExpand" RowSpacing="0">
             <Grid.RowDefinitions>
                 <RowDefinition Height="2*"/>
-                <RowDefinition Height="*"/>
+                <RowDefinition Height="2*"/>
                 <RowDefinition Height="*"/>
             </Grid.RowDefinitions>
 
-            <Image
-                    Grid.Row="0"
+            <Image  Grid.Row="0"
                     Source="{local:ImageResource Application_Green_Quake.Images.Logo.PNG}" 
                     Aspect="AspectFit"/>
 
-            <StackLayout Grid.Row="1" BackgroundColor="White">
+            <StackLayout Grid.Row="1" BackgroundColor="White" Padding="0,10,0,0">
                 <Entry Placeholder="Username"
                        x:Name="UsernameInput"
                        HorizontalTextAlignment="Center"
@@ -25,6 +24,9 @@
                        TextColor="Black"
                        BackgroundColor="#50C878"
                        Margin="60,0,60,0"/>
+                <Label x:Name="UsernameErrorLabel"
+                       TextColor="Red"
+                       HorizontalTextAlignment="Center"/>
                 <Entry Placeholder="Email"
                        Keyboard="Email"
                        x:Name="EmailInput"
@@ -33,6 +35,9 @@
                        TextColor="Black"
                        BackgroundColor="#50C878"
                        Margin="60,0,60,0"/>
+                <Label x:Name="EmailErrorLabel"
+                       TextColor="Red"
+                       HorizontalTextAlignment="Center"/>
                 <Entry Grid.Row="1"
                        Placeholder="Password"
                        HorizontalTextAlignment="Center"
@@ -42,14 +47,18 @@
                        TextColor="Black"
                        BackgroundColor="#50C878"
                        Margin="60,0,60,0"/>
+                <Label x:Name="PasswordErrorLabel"
+                       Text="Password must be at least 8 chars long and contain an upper case letter, lower case letter and a number."
+                       TextColor="Black"
+                       HorizontalTextAlignment="Center"/>
             </StackLayout>
             <StackLayout Grid.Row="2" BackgroundColor="White" VerticalOptions="Center">
                 <Button Text="Sign Up"
-                            Clicked="SignUpClicked"
-                            CornerRadius="30"
-                            BackgroundColor="#50C878"
-                            TextColor="White"
-                            Margin="60,0,60,0"/>
+                        Clicked="SignUpClicked"
+                        CornerRadius="30"
+                        BackgroundColor="#50C878"
+                        TextColor="White"
+                        Margin="60,0,60,0"/>
             </StackLayout>
         </Grid>
   

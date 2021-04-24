@@ -124,19 +124,20 @@ namespace Application_Green_Quake.Views
                 }
                 else if (EmailErrorLabel.Text == null && PasswordErrorLabel.Text == null && UsernameErrorLabel.Text == null)
                 {
-                    try
+                   
+                    var user = auth.SignUpWithEmailAndPassword(EmailInput.Text, PasswordInput.Text);
+                    if (user != null)
                     {
-                        var user = auth.SignUpWithEmailAndPassword(EmailInput.Text, PasswordInput.Text);
-                        if (user != null)
+                        var signOut = auth.SignOut();
+
+                        FirebaseClient firebaseClient = new FirebaseClient("https://application-green-quake-default-rtdb.firebaseio.com/");
+
+                        string usernameInput = UsernameInput.Text;
+                        string token = await user;
+                        string theBio = "";
+
+                        if (token != "duplicate")
                         {
-                            var signOut = auth.SignOut();
-
-                            FirebaseClient firebaseClient = new FirebaseClient("https://application-green-quake-default-rtdb.firebaseio.com/");
-
-                            string usernameInput = UsernameInput.Text;
-                            string token = await user;
-                            string theBio = "";
-
                             await firebaseClient
                                 .Child("users")
                                 .Child(token)
@@ -145,7 +146,7 @@ namespace Application_Green_Quake.Views
                             await firebaseClient
                                 .Child("usernames")
                                 .Child(usernameInput)
-                                .PatchAsync(new Usernames() { Uid = token });
+                                .PutAsync(new Usernames() { Uid = token });
 
                             if (signOut)
                             {
@@ -157,10 +158,14 @@ namespace Application_Green_Quake.Views
                                 await DisplayAlert("Error", "An error has occurred, please try again", "Ok");
                             }
                         }
+                        else
+                        {
+                            await DisplayAlert("Error", "The email already exists, please try again.", "Ok");
+                        }
                     }
-                    catch (Exception)
+                    else
                     {
-                        await DisplayAlert("Error", "Please Connect to the Internet", "Ok");
+                        await DisplayAlert("Error", "Please connect to the internet.", "Ok");
                     }
                 }
             }

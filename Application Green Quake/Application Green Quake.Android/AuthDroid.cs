@@ -58,6 +58,11 @@ namespace Application_Green_Quake.Droid
                 var token = newUser.User.Uid;
                 return token;
             }
+            catch (FirebaseAuthUserCollisionException e)
+            {
+                e.PrintStackTrace();
+                return "duplicate";
+            }
             catch (FirebaseAuthInvalidUserException e)
             {
                 e.PrintStackTrace();
@@ -68,7 +73,6 @@ namespace Application_Green_Quake.Droid
                 e.PrintStackTrace();
                 return string.Empty;
             }
-
         }
         public string GetUid()
         {

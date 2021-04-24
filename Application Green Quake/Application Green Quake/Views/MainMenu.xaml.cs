@@ -3,6 +3,7 @@ using Application_Green_Quake.Views.EcoActions.EcoActionsMenu;
 using Application_Green_Quake.Views.RefillPage;
 using System;
 using System.Threading.Tasks;
+using Acr.UserDialogs;
 using Xamarin.Forms;
 using Xamarin.Forms.Xaml;
 
@@ -25,6 +26,7 @@ namespace Application_Green_Quake.Views
             InitializeComponent();
             auth = DependencyService.Get<IAuth>();
             CurrentPage = Children[tab];
+            OnAppearing();
         }
 
         private async void NavigateToEcoActionButton(object sender, EventArgs e)
@@ -49,6 +51,7 @@ namespace Application_Green_Quake.Views
 
         protected override void OnAppearing()
         {
+            UserDialogs.Instance.HideLoading();
 
             GetBadgeData badgeData = new GetBadgeData();
             badgeData.SetBadgeData();

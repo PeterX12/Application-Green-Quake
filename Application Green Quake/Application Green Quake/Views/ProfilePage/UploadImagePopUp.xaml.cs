@@ -5,6 +5,7 @@ using Xamarin.Forms;
 using Xamarin.Forms.Xaml;
 using System.IO;
 using System.Threading.Tasks;
+using Acr.UserDialogs;
 using Firebase.Storage;
 using Plugin.Media.Abstractions;
 using Rg.Plugins.Popup.Services;
@@ -47,7 +48,6 @@ namespace Application_Green_Quake.Views.ProfilePage
                 var stream = File.GetStream();       
                 return stream;
             });
-
         }
 
         private async void UplaodPhotoClicked(object sender, System.EventArgs e)
@@ -75,6 +75,7 @@ namespace Application_Green_Quake.Views.ProfilePage
 
         private async void storeImageClicked(object sender, System.EventArgs e)
         {
+            UserDialogs.Instance.ShowLoading();
             try
             {
                 {
@@ -97,9 +98,9 @@ namespace Application_Green_Quake.Views.ProfilePage
                 Debug.WriteLine(ex.Message);
 
             }
-
             await Navigation.PushAsync(new MainMenu(2));
             await PopupNavigation.Instance.PopAsync(true);
+            UserDialogs.Instance.HideLoading();
         }
     }
 } 

@@ -5,7 +5,7 @@ using Firebase.Storage;
 using Rg.Plugins.Popup.Services;
 using System;
 using System.Linq;
-
+using Acr.UserDialogs;
 using Xamarin.Forms;
 using Xamarin.Forms.Xaml;
 
@@ -23,6 +23,7 @@ namespace Application_Green_Quake.Views.LeaderboardPage
 
         protected  override async void OnAppearing()
         {
+            UserDialogs.Instance.ShowLoading("");
             FirebaseClient firebaseClient = new FirebaseClient("https://application-green-quake-default-rtdb.firebaseio.com/");
             
             var list = (await firebaseClient
@@ -82,8 +83,8 @@ namespace Application_Green_Quake.Views.LeaderboardPage
                     Console.Write(e);
                 }
             }
-
             LeaderBoard.ItemsSource = list2;
+            UserDialogs.Instance.HideLoading();
         }
 
         private void OnItemTapped (Object sender, ItemTappedEventArgs e)

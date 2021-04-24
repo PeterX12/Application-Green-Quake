@@ -18,8 +18,6 @@
                     <ColumnDefinition Width="*"/>
                     <ColumnDefinition Width="*"/>
                 </Grid.ColumnDefinitions>
-
-
                 
                 <StackLayout Grid.Column="0" Grid.Row="0">
                     <StackLayout.GestureRecognizers>
@@ -31,7 +29,6 @@
                     
                     <Label x:Name="a1Txt" Text="Locked " TextColor="White" HorizontalTextAlignment="Center"/>
                 </StackLayout>
-                
                 
                 <StackLayout Grid.Column="1" Grid.Row="0">
                     <StackLayout.GestureRecognizers>

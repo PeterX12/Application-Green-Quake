@@ -1,4 +1,5 @@
-﻿using Android.App;
+﻿using Acr.UserDialogs;
+using Android.App;
 using Android.Content.PM;
 using Android.Runtime;
 using Android.OS;
@@ -21,6 +22,7 @@ namespace Application_Green_Quake.Droid
 
             base.OnCreate(savedInstanceState);
 
+            UserDialogs.Init(this);
             Rg.Plugins.Popup.Popup.Init(this);
 
             CrossCurrentActivity.Current.Init(this, savedInstanceState);

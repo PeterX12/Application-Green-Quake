@@ -3,6 +3,7 @@ using Firebase.Database;
 using Firebase.Database.Query;
 using System;
 using System.Text.RegularExpressions;
+using Acr.UserDialogs;
 using Xamarin.Forms;
 using Xamarin.Forms.Xaml;
 
@@ -138,6 +139,8 @@ namespace Application_Green_Quake.Views
 
                         if (token != "duplicate")
                         {
+                            UserDialogs.Instance.ShowLoading("");
+
                             await firebaseClient
                                 .Child("users")
                                 .Child(token)
@@ -150,6 +153,7 @@ namespace Application_Green_Quake.Views
 
                             if (signOut)
                             {
+                                UserDialogs.Instance.HideLoading();
                                 await DisplayAlert("Success", "New User Created", "OK");
                                 await Navigation.PushAsync(new MainPage());
                             }

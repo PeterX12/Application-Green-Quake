@@ -5,6 +5,7 @@ using Firebase.Database.Query;
 using Firebase.Storage;
 using Rg.Plugins.Popup.Services;
 using System;
+using Acr.UserDialogs;
 using Xamarin.Forms;
 using Xamarin.Forms.Xaml;
 

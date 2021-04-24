@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Text.RegularExpressions;
+using Acr.UserDialogs;
 using Xamarin.Forms;
 using Xamarin.Forms.Xaml;
 
@@ -34,9 +35,11 @@ namespace Application_Green_Quake.Views
                 
                 try
                 {
+                    UserDialogs.Instance.ShowLoading("");
                     await auth.ResetPassword(EmailInput.Text);
                     await DisplayAlert("Password Reset", "If a matching account was found an email was sent to " + EmailInput.Text + "to allow you to reset your password.", "OK");
                     await Navigation.PushAsync(new MainPage());
+                    UserDialogs.Instance.HideLoading();
                 }
                 catch (NullReferenceException)
                 {

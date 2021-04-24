@@ -25,8 +25,10 @@
                            PlaceholderColor="White"
                            TextColor="Black"
                            BackgroundColor="#50C878"
-                           Margin="60,0,60,0"
-                           />
+                           Margin="60,0,60,0"/>
+                    <Label x:Name="EmailErrorLabel"
+                           TextColor="Red"
+                           HorizontalTextAlignment="Center"/>
                     <Entry Grid.Row="1"
                            Placeholder="Password"
                            HorizontalTextAlignment="Center"
@@ -36,7 +38,10 @@
                            TextColor="Black"
                            BackgroundColor="#50C878"
                            Margin="60,0,60,0"/>
-                </StackLayout>
+                    <Label x:Name="PasswordErrorLabel"
+                           TextColor="Red"
+                           HorizontalTextAlignment="Center"/>
+            </StackLayout>
                 <StackLayout Grid.Row="2" BackgroundColor="White">
                     <Button Text="Login"
                             Clicked="LoginClicked"

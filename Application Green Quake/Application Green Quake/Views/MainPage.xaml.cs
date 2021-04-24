@@ -18,23 +18,27 @@ namespace Application_Green_Quake.Views
 
         async void LoginClicked(object sender, EventArgs e)
         {
+            EmailErrorLabel.Text = null;
+            PasswordErrorLabel.Text = null;
+
             if (EmailInput.Text == null && PasswordInput.Text != null)
             {
                 EmailInput.Text = null;
                 PasswordInput.Text = null;
-                await DisplayAlert("Authentication Failed", "No Email Entered", "Ok");
+                EmailErrorLabel.Text = "No Email Entered";
             }
             else if (PasswordInput.Text == null && EmailInput.Text != null)
             {
                 EmailInput.Text = null;
                 PasswordInput.Text = null;
-                await DisplayAlert("Authentication Failed", "No Password Entered", "Ok");
+                PasswordErrorLabel.Text = "No Password Entered";
             }
             else if (EmailInput.Text == null && PasswordInput.Text == null)
             {
                 EmailInput.Text = null;
                 PasswordInput.Text = null;
-                await DisplayAlert("Authentication Failed", "No Email or Password Entered", "Ok");
+                EmailErrorLabel.Text = "No Email Entered";
+                PasswordErrorLabel.Text = "No Password Entered";
             }
             else
             {

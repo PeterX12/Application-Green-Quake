@@ -296,6 +296,7 @@
     <None Remove="Images\Badges\Work\workThree.png" />
     <None Remove="Images\Badges\Work\workTwo.png" />
     <None Remove="Images\EcoActions.jpg" />
+    <None Remove="Images\filter.png" />
     <None Remove="Images\lockOne.png" />
     <None Remove="Images\lockTwo.png" />
     <None Remove="Images\Logo.PNG" />
@@ -786,6 +787,7 @@
     <EmbeddedResource Include="Images\Badges\Work\workThree.png" />
     <EmbeddedResource Include="Images\Badges\Work\workTwo.png" />
     <EmbeddedResource Include="Images\EcoActions.jpg" />
+    <EmbeddedResource Include="Images\filter.png" />
     <EmbeddedResource Include="Images\lockOne.png" />
     <EmbeddedResource Include="Images\lockTwo.png" />
     <EmbeddedResource Include="Images\Logo.PNG" />
@@ -987,6 +989,7 @@
     <PackageReference Include="Microsoft.AppCenter.Analytics" Version="4.2.0" />
     <PackageReference Include="Microsoft.AppCenter.Crashes" Version="4.2.0" />
     <PackageReference Include="Rg.Plugins.Popup" Version="2.0.0.11" />
+    <PackageReference Include="Syncfusion.Xamarin.SfPicker" Version="19.1.0.57" />
     <PackageReference Include="Xam.Plugin.Media" Version="5.0.1" />
     <PackageReference Include="Xamarin.Forms" Version="5.0.0.2012" />
     <PackageReference Include="Xamarin.Essentials" Version="1.6.1" />

@@ -452,6 +452,9 @@ namespace Application_Green_Quake.Views.ProfilePage
             {
                 mosiac.Source = ImageSource.FromResource("Application_Green_Quake.Images.Mosaics.m20.jpg");
             }
+
+            GetData data = new GetData();
+            data.SetLvl();
         }
 
         private async void ImageClicked(object sender, EventArgs e)

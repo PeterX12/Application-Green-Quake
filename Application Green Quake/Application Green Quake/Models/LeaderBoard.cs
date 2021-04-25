@@ -12,5 +12,6 @@ namespace Application_Green_Quake.Models
         public int points { get; set; }
         public string rank { get; set; }
         public string bio { get; set; }
+        public string nation { get; set; }
     }
 }

@@ -1,4 +1,5 @@
-﻿using Microsoft.AppCenter;
+﻿using Application_Green_Quake.ViewModels;
+using Microsoft.AppCenter;
 using Microsoft.AppCenter.Analytics;
 using Microsoft.AppCenter.Crashes;
 using Application_Green_Quake.Views;
@@ -11,6 +12,10 @@ namespace Application_Green_Quake
         IAuth auth;
         public App()
         {
+            //Register Syncfusion license
+            Syncfusion.Licensing.SyncfusionLicenseProvider.RegisterLicense("NDM1OTg4QDMxMzkyZTMxMmUzME5wenFtdVBvNHBOWDVCY1o3dWYyVnVadEZ3d1JqTnNFUWYvMW53OHY5dW89");
+            GetData set = new GetData();
+            set.SetLvl();
             InitializeComponent();
             auth = DependencyService.Get<IAuth>();
      

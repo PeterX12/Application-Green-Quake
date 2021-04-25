@@ -5,8 +5,6 @@
              x:Class="Application_Green_Quake.Views.RefillPage.RefillStation"
              NavigationPage.HasNavigationBar="False">
     <ContentPage.Content>
-
-        <maps:Map x:Name ="map"/>
-
+            <maps:Map x:Name ="map"/>
     </ContentPage.Content>
 </ContentPage>

@@ -1,13 +1,13 @@
 ﻿using Application_Green_Quake.Models;
 using Firebase.Database;
 using System;
+using System.Collections.Generic;
 using System.Diagnostics;
 using System.Linq;
 using Xamarin.Essentials;
 using Xamarin.Forms;
 using Xamarin.Forms.GoogleMaps;
 using Xamarin.Forms.Xaml;
-
 namespace Application_Green_Quake.Views.RefillPage
 {
     [XamlCompilation(XamlCompilationOptions.Compile)]
@@ -18,10 +18,9 @@ namespace Application_Green_Quake.Views.RefillPage
             InitializeComponent();
             OnAppearing();
         }
-
-        protected async override void OnAppearing()
+        
+        protected override async void OnAppearing()
         {
-
             try
             {
                 var location = await Geolocation.GetLastKnownLocationAsync();

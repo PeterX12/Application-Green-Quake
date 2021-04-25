@@ -117,9 +117,50 @@ namespace Application_Green_Quake.ViewModels
 
         public async void UpdateByEightPoints()
         {
-
             FirebaseClient firebaseClient = new FirebaseClient("https://application-green-quake-default-rtdb.firebaseio.com/");
             auth = DependencyService.Get<IAuth>();
+
+            currentDate = DateTime.UtcNow.ToString("d");
+            currentTime = DateTimeOffset.Now.ToUnixTimeMilliseconds();
+            try
+            {
+                theDate = (await firebaseClient
+                .Child("SecurityChecks")
+                .Child(auth.GetUid())
+                .OnceSingleAsync<SecurityChecks>()).date;
+
+                theTime = (await firebaseClient
+                .Child("SecurityChecks")
+                .Child(auth.GetUid())
+                .OnceSingleAsync<SecurityChecks>()).time;
+
+                theCount = (await firebaseClient
+                .Child("SecurityChecks")
+                .Child(auth.GetUid())
+                .OnceSingleAsync<SecurityChecks>()).counter;
+
+                if (theDate == currentDate)
+                {
+                    theCount++;
+                }
+                else
+                {
+                    theCount = 0;
+                }
+
+                await firebaseClient
+                .Child("SecurityChecks")
+                .Child(auth.GetUid())
+                .PutAsync(new SecurityChecks() { date = currentDate, time = currentTime, counter = theCount });
+
+            }
+            catch (Exception)
+            {
+                await firebaseClient
+                .Child("SecurityChecks")
+                .Child(auth.GetUid())
+                .PutAsync(new SecurityChecks() { date = currentDate, time = currentTime, counter = 1 });
+            }
 
             try
             {
@@ -165,7 +206,7 @@ namespace Application_Green_Quake.ViewModels
                 await firebaseClient
                 .Child("Points")
                 .Child(auth.GetUid())
-                .PutAsync(new Points() { username = username, points = points2});
+                .PutAsync(new Points() { username = username, points = points2 });
             }
         }
 
@@ -174,6 +215,48 @@ namespace Application_Green_Quake.ViewModels
 
             FirebaseClient firebaseClient = new FirebaseClient("https://application-green-quake-default-rtdb.firebaseio.com/");
             auth = DependencyService.Get<IAuth>();
+
+            currentDate = DateTime.UtcNow.ToString("d");
+            currentTime = DateTimeOffset.Now.ToUnixTimeMilliseconds();
+            try
+            {
+                theDate = (await firebaseClient
+                .Child("SecurityChecks")
+                .Child(auth.GetUid())
+                .OnceSingleAsync<SecurityChecks>()).date;
+
+                theTime = (await firebaseClient
+                .Child("SecurityChecks")
+                .Child(auth.GetUid())
+                .OnceSingleAsync<SecurityChecks>()).time;
+
+                theCount = (await firebaseClient
+                .Child("SecurityChecks")
+                .Child(auth.GetUid())
+                .OnceSingleAsync<SecurityChecks>()).counter;
+
+                if (theDate == currentDate)
+                {
+                    theCount++;
+                }
+                else
+                {
+                    theCount = 0;
+                }
+
+                await firebaseClient
+                .Child("SecurityChecks")
+                .Child(auth.GetUid())
+                .PutAsync(new SecurityChecks() { date = currentDate, time = currentTime, counter = theCount });
+
+            }
+            catch (Exception)
+            {
+                await firebaseClient
+                .Child("SecurityChecks")
+                .Child(auth.GetUid())
+                .PutAsync(new SecurityChecks() { date = currentDate, time = currentTime, counter = 1 });
+            }
 
             try
             {
@@ -205,7 +288,7 @@ namespace Application_Green_Quake.ViewModels
                 await firebaseClient
                 .Child("Points")
                 .Child(auth.GetUid())
-                .PutAsync(new Points() { username = username, points = points2});
+                .PutAsync(new Points() { username = username, points = points2 });
 
             }
             catch (NullReferenceException)
@@ -228,6 +311,48 @@ namespace Application_Green_Quake.ViewModels
 
             FirebaseClient firebaseClient = new FirebaseClient("https://application-green-quake-default-rtdb.firebaseio.com/");
             auth = DependencyService.Get<IAuth>();
+
+            currentDate = DateTime.UtcNow.ToString("d");
+            currentTime = DateTimeOffset.Now.ToUnixTimeMilliseconds();
+            try
+            {
+                theDate = (await firebaseClient
+                .Child("SecurityChecks")
+                .Child(auth.GetUid())
+                .OnceSingleAsync<SecurityChecks>()).date;
+
+                theTime = (await firebaseClient
+                .Child("SecurityChecks")
+                .Child(auth.GetUid())
+                .OnceSingleAsync<SecurityChecks>()).time;
+
+                theCount = (await firebaseClient
+                .Child("SecurityChecks")
+                .Child(auth.GetUid())
+                .OnceSingleAsync<SecurityChecks>()).counter;
+
+                if (theDate == currentDate)
+                {
+                    theCount++;
+                }
+                else
+                {
+                    theCount = 0;
+                }
+
+                await firebaseClient
+                .Child("SecurityChecks")
+                .Child(auth.GetUid())
+                .PutAsync(new SecurityChecks() { date = currentDate, time = currentTime, counter = theCount });
+
+            }
+            catch (Exception)
+            {
+                await firebaseClient
+                .Child("SecurityChecks")
+                .Child(auth.GetUid())
+                .PutAsync(new SecurityChecks() { date = currentDate, time = currentTime, counter = 1 });
+            }
 
             try
             {
@@ -279,9 +404,50 @@ namespace Application_Green_Quake.ViewModels
 
         public async void UpdateByTwoPoints()
         {
-
             FirebaseClient firebaseClient = new FirebaseClient("https://application-green-quake-default-rtdb.firebaseio.com/");
             auth = DependencyService.Get<IAuth>();
+
+            currentDate = DateTime.UtcNow.ToString("d");
+            currentTime = DateTimeOffset.Now.ToUnixTimeMilliseconds();
+            try
+            {
+                theDate = (await firebaseClient
+                .Child("SecurityChecks")
+                .Child(auth.GetUid())
+                .OnceSingleAsync<SecurityChecks>()).date;
+
+                theTime = (await firebaseClient
+                .Child("SecurityChecks")
+                .Child(auth.GetUid())
+                .OnceSingleAsync<SecurityChecks>()).time;
+
+                theCount = (await firebaseClient
+                .Child("SecurityChecks")
+                .Child(auth.GetUid())
+                .OnceSingleAsync<SecurityChecks>()).counter;
+
+                if (theDate == currentDate)
+                {
+                    theCount++;
+                }
+                else
+                {
+                    theCount = 0;
+                }
+
+                await firebaseClient
+                .Child("SecurityChecks")
+                .Child(auth.GetUid())
+                .PutAsync(new SecurityChecks() { date = currentDate, time = currentTime, counter = theCount });
+
+            }
+            catch (Exception)
+            {
+                await firebaseClient
+                .Child("SecurityChecks")
+                .Child(auth.GetUid())
+                .PutAsync(new SecurityChecks() { date = currentDate, time = currentTime, counter = 1 });
+            }
 
             try
             {
@@ -327,7 +493,7 @@ namespace Application_Green_Quake.ViewModels
                 await firebaseClient
                 .Child("Points")
                 .Child(auth.GetUid())
-                .PutAsync(new Points() { username = username, points = points2});
+                .PutAsync(new Points() { username = username, points = points2 });
             }
         }
     }

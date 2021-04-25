@@ -18,12 +18,16 @@ namespace Application_Green_Quake.Views.LeaderboardPage
     public partial class TopTabLeaderBoard : ContentPage
     {
         private string selectedNation = "All";
+        private int min = 0;
+        private int count = 10;
+        IAuth auth;
         public TopTabLeaderBoard()
         {
             InitializeComponent();
             ObservableCollection<object> countryNameCollection = new ObservableCollection<object>();
 
             countryNameCollection.Add("All");
+            countryNameCollection.Add("Me");
             countryNameCollection.Add("Albania");
             countryNameCollection.Add("Andorra");
             countryNameCollection.Add("Armenia");
@@ -79,13 +83,11 @@ namespace Application_Green_Quake.Views.LeaderboardPage
             picker.ItemsSource = countryNameCollection;
             OnAppearing();
         }
-
-
         protected  override async void OnAppearing()
         {
             if (selectedNation == "All")
             {
-                UserDialogs.Instance.ShowLoading("");
+                UserDialogs.Instance.ShowLoading();
                 FirebaseClient firebaseClient = new FirebaseClient("https://application-green-quake-default-rtdb.firebaseio.com/");
 
                 var list = (await firebaseClient
@@ -95,8 +97,6 @@ namespace Application_Green_Quake.Views.LeaderboardPage
                           username = item.Object.username,
                           points = item.Object.points,
                       }).ToList().OrderByDescending(s => s.points);
-
-
 
                 var list2 = list.Select(item => new LeaderBoard
                 {
@@ -150,12 +150,51 @@ namespace Application_Green_Quake.Views.LeaderboardPage
                         Console.Write(e);
                     }
                 }
-                LeaderBoard.ItemsSource = list2;
+
+                try
+                {
+                    var list3 = list2.Select(item => new LeaderBoard
+                    {
+                        username = item.username,
+                        points = item.points,
+                        nation = item.nation,
+                        bio = item.nation,
+                        rank = item.rank,
+                        image = item.image
+                    }).ToList().GetRange(min, count);
+                    LeaderBoard.ItemsSource = list3;
+
+                }
+                catch (Exception e)
+                {
+                    try
+                    {
+                        var list3 = list2.Select(item => new LeaderBoard
+                        {
+                            username = item.username,
+                            points = item.points,
+                            nation = item.nation,
+                            bio = item.nation,
+                            rank = item.rank,
+                            image = item.image
+                        }).ToList().GetRange(min, list2.Count - min);
+                        LeaderBoard.ItemsSource = list3;
+                    }
+                    catch (Exception exception)
+                    {
+                        min = 0;
+                        await DisplayAlert("Last Page", "You have reached the last leaderboard page.", "Ok");
+                    }
+                }
                 UserDialogs.Instance.HideLoading();
+            }
+            else if (selectedNation == "Me")
+            {
+
             }
             else
             {
-                UserDialogs.Instance.ShowLoading("");
+                UserDialogs.Instance.ShowLoading();
                 FirebaseClient firebaseClient = new FirebaseClient("https://application-green-quake-default-rtdb.firebaseio.com/");
 
                 var list = (await firebaseClient
@@ -165,8 +204,6 @@ namespace Application_Green_Quake.Views.LeaderboardPage
                           username = item.Object.username,
                           points = item.Object.points,
                       }).ToList().OrderByDescending(s => s.points);
-
-
 
                 var list2 = list.Select(item => new LeaderBoard
                 {
@@ -231,12 +268,22 @@ namespace Application_Green_Quake.Views.LeaderboardPage
                     image = item.image
                 }).Where(n => n.nation == selectedNation).ToList();
 
+                index = 0; 
+                rankIndex = "";
+                foreach (var p in list3)
+                {
+                    index++;
+                    rankIndex = "Rank: " + index.ToString();
+                    p.rank = rankIndex;
+                }
+
                 LeaderBoard.ItemsSource = list3;
-                GetData data = new GetData();
-                data.SetLvl();
-                UserDialogs.Instance.HideLoading();
             }
-            
+            UserDialogs.Instance.HideLoading();
+            GetData data = new GetData();
+            data.SetLvl();
+            min = 0;
+            count = 10;
         }
 
         private void OnItemTapped (Object sender, ItemTappedEventArgs e)
@@ -256,6 +303,10 @@ namespace Application_Green_Quake.Views.LeaderboardPage
             if (picker.SelectedItem.ToString() == "All")
             {
                 selectedNation = "All";
+            }
+            else if (picker.SelectedItem.ToString() == "Me")
+            {
+                selectedNation = "Me";
             }
             else if (picker.SelectedItem.ToString() == "Albania")
             {
@@ -458,6 +509,18 @@ namespace Application_Green_Quake.Views.LeaderboardPage
                 selectedNation = "Vatican City";
             }
 
+            OnAppearing();
+        }
+
+        private void NextPageClicked(object sender, EventArgs e)
+        {
+            min = min + 10;
+            OnAppearing();
+        }
+
+        private void FirstPageClicked(object sender, EventArgs e)
+        {
+            min = 0;
             OnAppearing();
         }
     }

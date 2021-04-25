@@ -13,5 +13,6 @@ namespace Application_Green_Quake.Models
         public string rank { get; set; }
         public string bio { get; set; }
         public string nation { get; set; }
+        public string uid { get; set; }
     }
 }

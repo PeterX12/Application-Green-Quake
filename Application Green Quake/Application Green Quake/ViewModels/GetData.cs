@@ -14,7 +14,7 @@ namespace Application_Green_Quake.ViewModels
         public static string bio = "";
         public static int points = 0;
         public static int lvl = 0;
-
+        public static string nation = "";
 
         public async void SetData()
         {
@@ -32,6 +32,11 @@ namespace Application_Green_Quake.ViewModels
                     .Child("users")
                     .Child(auth.GetUid())
                     .OnceSingleAsync<Users>()).bio;
+
+                nation = (await firebaseClient
+                    .Child("users")
+                    .Child(auth.GetUid())
+                    .OnceSingleAsync<Users>()).nation;
 
                 points = (await firebaseClient
                     .Child("Points")

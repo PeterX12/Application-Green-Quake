@@ -39,10 +39,10 @@ namespace Application_Green_Quake.Views.EcoActions.Habits
             else
             {
                 PointsUpdate helper = new PointsUpdate();
-                helper.UpdateByTenPoints();
-                AdvancedPointsUpdate helper2 = new AdvancedPointsUpdate();
-                helper2.FixPoints();
-                await DisplayAlert("Points Added", AppConstants.tenPointsMsg, "OK");
+                helper.UpdateByTwoPoints();
+                HabitsPointsUpdate helper2 = new HabitsPointsUpdate();
+                helper2.OffLightsPoints();
+                await DisplayAlert("Points Added", AppConstants.twoPointsMsg, "OK");
                 await Navigation.PushAsync(new MainMenu());
             }
         }

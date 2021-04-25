@@ -38,10 +38,10 @@ namespace Application_Green_Quake.Views.EcoActions.Water
             else
             {
                 PointsUpdate helper = new PointsUpdate();
-                helper.UpdateByTenPoints();
-                AdvancedPointsUpdate helper2 = new AdvancedPointsUpdate();
-                helper2.FixPoints();
-                await DisplayAlert("Points Added", AppConstants.tenPointsMsg, "OK");
+                helper.UpdateByEightPoints();
+                WaterPointsUpdate helper2 = new WaterPointsUpdate();
+                helper2.ShowerBucketPoints();
+                await DisplayAlert("Points Added", AppConstants.eightPointsMsg, "OK");
                 await Navigation.PushAsync(new MainMenu());
             }
         }

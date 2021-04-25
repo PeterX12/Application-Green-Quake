@@ -483,7 +483,7 @@ namespace Application_Green_Quake.Views.ProfilePage
             await firebaseClient
                     .Child("users")
                     .Child(auth.GetUid())
-                    .PutAsync(new Users() {username = GetData.username ,bio = bioInput});
+                    .PutAsync(new Users() {username = GetData.username ,bio = bioInput, nation = GetData.nation});
         }
     }
 }

@@ -39,8 +39,8 @@ namespace Application_Green_Quake.Views.EcoActions.Energy
             {
                 PointsUpdate helper = new PointsUpdate();
                 helper.UpdateByTenPoints();
-                AdvancedPointsUpdate helper2 = new AdvancedPointsUpdate();
-                helper2.FixPoints();
+                EnergyPointsUpdate helper2 = new EnergyPointsUpdate();
+                helper2.SolarPanelPoints();
                 await DisplayAlert("Points Added", AppConstants.tenPointsMsg, "OK");
                 await Navigation.PushAsync(new MainMenu());
             }

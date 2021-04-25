@@ -39,8 +39,8 @@ namespace Application_Green_Quake.Views.EcoActions.Community
             {
                 PointsUpdate helper = new PointsUpdate();
                 helper.UpdateByTenPoints();
-                AdvancedPointsUpdate helper2 = new AdvancedPointsUpdate();
-                helper2.FixPoints();
+                CommunityPointsUpdate helper2 = new CommunityPointsUpdate();
+                helper2.awarenessPoints();
                 await DisplayAlert("Points Added", AppConstants.tenPointsMsg, "OK");
                 await Navigation.PushAsync(new MainMenu());
             }

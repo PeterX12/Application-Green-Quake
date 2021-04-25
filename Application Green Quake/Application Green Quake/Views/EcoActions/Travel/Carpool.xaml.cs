@@ -38,10 +38,10 @@ namespace Application_Green_Quake.Views.EcoActions.Travel
             else
             {
                 PointsUpdate helper = new PointsUpdate();
-                helper.UpdateByTenPoints();
-                AdvancedPointsUpdate helper2 = new AdvancedPointsUpdate();
-                helper2.FixPoints();
-                await DisplayAlert("Points Added", AppConstants.tenPointsMsg, "OK");
+                helper.UpdateBySixPoints();
+                TravelPointsUpdate helper2 = new TravelPointsUpdate();
+                helper2.CarpoolPoints();
+                await DisplayAlert("Points Added", AppConstants.sixPointsMsg, "OK");
                 await Navigation.PushAsync(new MainMenu());
             }
         }

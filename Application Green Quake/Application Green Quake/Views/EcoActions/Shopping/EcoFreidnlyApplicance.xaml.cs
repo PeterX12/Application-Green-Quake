@@ -38,10 +38,10 @@ namespace Application_Green_Quake.Views.EcoActions.Shopping
             else
             {
                 PointsUpdate helper = new PointsUpdate();
-                helper.UpdateByTenPoints();
-                AdvancedPointsUpdate helper2 = new AdvancedPointsUpdate();
-                helper2.FixPoints();
-                await DisplayAlert("Points Added", AppConstants.tenPointsMsg, "OK");
+                helper.UpdateByFourPoints();
+                ShoppingPointsUpdate helper2 = new ShoppingPointsUpdate();
+                helper2.AppliancePoints();
+                await DisplayAlert("Points Added", AppConstants.fourPointsMsg, "OK");
                 await Navigation.PushAsync(new MainMenu());
             }
         }

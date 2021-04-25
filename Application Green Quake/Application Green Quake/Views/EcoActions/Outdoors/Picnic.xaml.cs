@@ -38,10 +38,10 @@ namespace Application_Green_Quake.Views.EcoActions.Outdoors
             else
             {
                 PointsUpdate helper = new PointsUpdate();
-                helper.UpdateByTenPoints();
-                AdvancedPointsUpdate helper2 = new AdvancedPointsUpdate();
-                helper2.FixPoints();
-                await DisplayAlert("Points Added", AppConstants.tenPointsMsg, "OK");
+                helper.UpdateBySixPoints();
+                OutdoorsPointsUpdate helper2 = new OutdoorsPointsUpdate();
+                helper2.PicnicPoints();
+                await DisplayAlert("Points Added", AppConstants.sixPointsMsg, "OK");
                 await Navigation.PushAsync(new MainMenu());
             }
         }

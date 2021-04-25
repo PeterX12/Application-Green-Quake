@@ -6,7 +6,6 @@ using Android.Runtime;
 using Android.OS;
 using Android.Widget;
 using Firebase;
-using Google.Places;
 using Plugin.CurrentActivity;
 
 namespace Application_Green_Quake.Droid
@@ -32,7 +31,6 @@ namespace Application_Green_Quake.Droid
             Xamarin.Essentials.Platform.Init(this, savedInstanceState);
             Xamarin.Forms.Forms.Init(this, savedInstanceState);
             Xamarin.FormsGoogleMaps.Init(this, savedInstanceState); // initialize for Xamarin.Forms.GoogleMaps
-            PlacesApi.Initialize(this, "AIzaSyDf7Bq7gjei8Sp1AS_SWeapWyHe2rJtLmw");
             LoadApplication(new App());
         }
 

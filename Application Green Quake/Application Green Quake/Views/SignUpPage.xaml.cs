@@ -2,6 +2,7 @@
 using Firebase.Database;
 using Firebase.Database.Query;
 using System;
+using System.Globalization;
 using System.Text.RegularExpressions;
 using Acr.UserDialogs;
 using Xamarin.Forms;
@@ -136,6 +137,7 @@ namespace Application_Green_Quake.Views
                         string usernameInput = UsernameInput.Text;
                         string token = await user;
                         string theBio = "";
+                        string theNation = RegionInfo.CurrentRegion.EnglishName;
 
                         if (token != "duplicate")
                         {
@@ -144,7 +146,7 @@ namespace Application_Green_Quake.Views
                             await firebaseClient
                                 .Child("users")
                                 .Child(token)
-                                .PutAsync(new Users() { username = usernameInput, bio = theBio });
+                                .PutAsync(new Users() { username = usernameInput, bio = theBio, nation = theNation});
 
                             await firebaseClient
                                 .Child("usernames")

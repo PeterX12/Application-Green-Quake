@@ -81,6 +81,7 @@ namespace Application_Green_Quake.Views.LeaderboardPage
             countryNameCollection.Add("Vatican City");
 
             picker.ItemsSource = countryNameCollection;
+            auth = DependencyService.Get<IAuth>();
             OnAppearing();
         }
         protected  override async void OnAppearing()
@@ -174,7 +175,7 @@ namespace Application_Green_Quake.Views.LeaderboardPage
                             username = item.username,
                             points = item.points,
                             nation = item.nation,
-                            bio = item.nation,
+                            bio = item.bio,
                             rank = item.rank,
                             image = item.image
                         }).ToList().GetRange(min, list2.Count - min);
@@ -190,7 +191,87 @@ namespace Application_Green_Quake.Views.LeaderboardPage
             }
             else if (selectedNation == "Me")
             {
+                UserDialogs.Instance.ShowLoading();
+                FirebaseClient firebaseClient = new FirebaseClient("https://application-green-quake-default-rtdb.firebaseio.com/");
 
+                var list = (await firebaseClient
+                      .Child("Points")
+                      .OnceAsync<Points>()).Select(item => new Points
+                      {
+                          username = item.Object.username,
+                          points = item.Object.points,
+                      }).ToList().OrderByDescending(s => s.points);
+
+                var list2 = list.Select(item => new LeaderBoard
+                {
+                    username = item.username,
+                    points = item.points,
+                }).ToList();
+
+                int index = 0;
+                string rankIndex = "";
+                foreach (var i in list2)
+                {
+                    index++;
+                    rankIndex = "Rank: " + index.ToString();
+                    i.rank = rankIndex;
+                    try
+                    {
+                        var uid = (await firebaseClient
+                        .Child("usernames")
+                        .Child(i.username)
+                        .OnceSingleAsync<Usernames>()).Uid;
+
+                        i.uid = uid;
+
+                        i.image = await new FirebaseStorage("application-green-quake.appspot.com")
+                        .Child(uid)
+                        .Child("Profile.jpg")
+                        .GetDownloadUrlAsync();
+                    }
+                    catch (Exception e)
+                    {
+                        i.image = ImageSource.FromResource("Application_Green_Quake.Images.user.png");
+                        Console.Write(e);
+                    }
+                    try
+                    {
+                        var uid = (await firebaseClient
+                        .Child("usernames")
+                        .Child(i.username)
+                        .OnceSingleAsync<Usernames>()).Uid;
+
+                        i.uid = uid;
+
+                        i.bio = (await firebaseClient
+                        .Child("users")
+                        .Child(uid)
+                        .OnceSingleAsync<Users>()).bio;
+
+                        i.nation = (await firebaseClient
+                            .Child("users")
+                            .Child(uid)
+                            .OnceSingleAsync<Users>()).nation;
+                    }
+                    catch (Exception e)
+                    {
+                        Console.Write(e);
+                    }
+                }
+
+                var list3 = list2.Select(item => new LeaderBoard
+                {
+                    username = item.username,
+                    points = item.points,
+                    nation = item.nation,
+                    bio = item.nation,
+                    rank = item.rank,
+                    image = item.image,
+                    uid = item.uid
+                }).Where(x => x.uid == auth.GetUid()).ToList();
+                
+                LeaderBoard.ItemsSource = list3;
+                UserDialogs.Instance.ShowLoading();
             }
             else
             {
@@ -263,7 +344,7 @@ namespace Application_Green_Quake.Views.LeaderboardPage
                     username = item.username,
                     points = item.points,
                     nation = item.nation,
-                    bio = item.nation,
+                    bio = item.bio,
                     rank = item.rank,
                     image = item.image
                 }).Where(n => n.nation == selectedNation).ToList();

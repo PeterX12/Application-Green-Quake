@@ -2,7 +2,6 @@
 using Application_Green_Quake.ViewModels;
 using System;
 using System.Threading.Tasks;
-using Application_Green_Quake.Views.EcoActions.FoodAndDrink;
 using Xamarin.Forms;
 using Xamarin.Forms.Xaml;
 
@@ -42,6 +41,8 @@ namespace Application_Green_Quake.Views.EcoActions.AdvancedPageItems
                 helper.UpdateByTenPoints();
                 AdvancedPointsUpdate helper2 = new AdvancedPointsUpdate();
                 helper2.FixPoints();
+                GetData data = new GetData();
+                data.SetLvl();
                 await DisplayAlert("Points Added", AppConstants.tenPointsMsg, "OK");
                 await Navigation.PushAsync(new MainMenu());
             }

@@ -1,8 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
-
-namespace Application_Green_Quake.Models
+﻿namespace Application_Green_Quake.Models
 {
     class TravelPoints
     {

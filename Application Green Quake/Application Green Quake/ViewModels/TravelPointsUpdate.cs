@@ -2,8 +2,6 @@
 using Firebase.Database;
 using Firebase.Database.Query;
 using System;
-using System.Collections.Generic;
-using System.Text;
 using Xamarin.Forms;
 
 namespace Application_Green_Quake.ViewModels

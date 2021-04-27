@@ -31,6 +31,8 @@ namespace Application_Green_Quake
 
         protected override void OnStart()
         {
+            GetData data = new GetData();
+            data.SetLvl();
             AppCenter.Start("android=87250b90-3ea3-429d-ac0b-7e47e6cd70ac;" +
                   "uwp={Your UWP App secret here};" +
                   "ios={Your iOS App secret here}",
@@ -43,6 +45,8 @@ namespace Application_Green_Quake
 
         protected override void OnResume()
         {
+            GetData data = new GetData();
+            data.SetLvl();
         }
     }
 }

@@ -1,5 +1,4 @@
 ﻿using System;
-using System.Linq;
 using Application_Green_Quake.ViewModels;
 using Xamarin.Forms;
 using Xamarin.Forms.Xaml;

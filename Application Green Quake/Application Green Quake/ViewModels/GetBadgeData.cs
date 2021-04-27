@@ -1,7 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Text;
-using Android.Bluetooth;
 using Application_Green_Quake.Models;
 using Firebase.Database;
 using Firebase.Database.Query;

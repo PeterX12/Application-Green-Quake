@@ -1,5 +1,4 @@
 ﻿using Application_Green_Quake.Models;
-using Application_Green_Quake.Views;
 using Firebase.Database;
 using Firebase.Database.Query;
 using System;

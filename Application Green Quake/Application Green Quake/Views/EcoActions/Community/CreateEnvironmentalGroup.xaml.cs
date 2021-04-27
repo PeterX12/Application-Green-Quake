@@ -1,7 +1,6 @@
 ﻿using Application_Green_Quake.ViewModels;
 using Application_Green_Quake.Models;
 using System;
-
 using Xamarin.Forms;
 using Xamarin.Forms.Xaml;
 using System.Threading.Tasks;

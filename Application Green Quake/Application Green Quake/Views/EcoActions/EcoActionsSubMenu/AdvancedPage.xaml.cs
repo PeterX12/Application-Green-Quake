@@ -1,7 +1,6 @@
 ﻿using Application_Green_Quake.ViewModels;
 using Application_Green_Quake.Views.EcoActions.AdvancedPageItems;
 using System;
-using System.Threading.Tasks;
 using Xamarin.Forms;
 using Xamarin.Forms.Xaml;
 

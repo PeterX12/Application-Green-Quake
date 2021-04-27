@@ -1,8 +1,6 @@
 ﻿using Application_Green_Quake.ViewModels;
 using Application_Green_Quake.Views.EcoActions.Shopping;
-using Application_Green_Quake.Views.EcoActions.Water;
 using System;
-using System.Threading.Tasks;
 using Xamarin.Forms;
 using Xamarin.Forms.Xaml;
 

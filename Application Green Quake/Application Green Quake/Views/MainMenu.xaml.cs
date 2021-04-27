@@ -6,6 +6,7 @@ using System.Threading.Tasks;
 using Acr.UserDialogs;
 using Xamarin.Forms;
 using Xamarin.Forms.Xaml;
+using Application = Xamarin.Forms.Application;
 
 namespace Application_Green_Quake.Views
 {
@@ -15,7 +16,6 @@ namespace Application_Green_Quake.Views
         IAuth auth;
         public MainMenu()
         {
-            
             InitializeComponent();
             auth = DependencyService.Get<IAuth>();
             OnAppearing();
@@ -23,6 +23,7 @@ namespace Application_Green_Quake.Views
 
         public MainMenu(int tab)
         {
+            
             InitializeComponent();
             auth = DependencyService.Get<IAuth>();
             CurrentPage = Children[tab];
@@ -49,8 +50,11 @@ namespace Application_Green_Quake.Views
             }
         }
 
-        protected override void OnAppearing()
+        protected override async void OnAppearing()
         {
+            await Task.Delay(2000);
+            GetData data = new GetData();
+            data.SetLvl();
             UserDialogs.Instance.HideLoading();
 
             GetBadgeData badgeData = new GetBadgeData();
@@ -59,11 +63,8 @@ namespace Application_Green_Quake.Views
             GetAchievementsData achievementsData = new GetAchievementsData();
             achievementsData.SetAchievementsData();
 
-            GetData data = new GetData();
-            data.SetData();
-            data.SetLvl();
+            theLevel.Text = "LVL: " + GetData.lvl;
 
-            theLevel.Text = "LVL: " + GetData.lvl.ToString();
         }
     }
 }

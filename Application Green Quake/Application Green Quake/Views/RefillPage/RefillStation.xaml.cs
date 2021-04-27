@@ -1,7 +1,6 @@
 ﻿using Application_Green_Quake.Models;
 using Firebase.Database;
 using System;
-using System.Collections.Generic;
 using System.Diagnostics;
 using System.Linq;
 using Xamarin.Essentials;

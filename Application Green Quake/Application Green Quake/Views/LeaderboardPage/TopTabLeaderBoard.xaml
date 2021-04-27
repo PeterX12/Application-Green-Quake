@@ -19,7 +19,7 @@
                              OKButtonTextColor="#50C878"
                              CancelButtonTextColor="#50C878"/>
             <StackLayout Orientation="Horizontal" Margin="15,5,15,5">
-                <Label x:Name="here" Text="Leader Board" FontSize="22" HorizontalTextAlignment="Center" FontFamily="Proxima Nova" TextColor="White"/>
+                <Label Text="Leader Board" FontSize="22" HorizontalTextAlignment="Center" FontFamily="Proxima Nova" TextColor="White"/>
                 <Image Source="{models:ImageResource Application_Green_Quake.Images.filter.png}" HorizontalOptions="EndAndExpand">
                     <Image.GestureRecognizers>
                         <TapGestureRecognizer Tapped="ImageClicked"/>
@@ -27,8 +27,8 @@
                 </Image>
             </StackLayout>
             <ListView x:Name="LeaderBoard"
-                          ItemTapped="OnItemTapped"
-                          RowHeight="70">
+                      ItemTapped="OnItemTapped"
+                      RowHeight="70">
                 <ListView.ItemTemplate>
                     <DataTemplate>
                         <ViewCell>

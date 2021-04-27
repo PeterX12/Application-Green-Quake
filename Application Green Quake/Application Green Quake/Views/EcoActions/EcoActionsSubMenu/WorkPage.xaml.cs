@@ -3,7 +3,6 @@ using Application_Green_Quake.Views.EcoActions.Habits;
 using Application_Green_Quake.Views.EcoActions.Travel;
 using Application_Green_Quake.Views.EcoActions.Work;
 using System;
-using System.Threading.Tasks;
 using Xamarin.Forms;
 using Xamarin.Forms.Xaml;
 

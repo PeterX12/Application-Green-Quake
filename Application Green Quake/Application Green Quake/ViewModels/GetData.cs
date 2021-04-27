@@ -2,7 +2,6 @@
 using Firebase.Database;
 using Firebase.Database.Query;
 using System;
-using System.Threading.Tasks;
 using Xamarin.Forms;
 
 namespace Application_Green_Quake.ViewModels
@@ -20,7 +19,8 @@ namespace Application_Green_Quake.ViewModels
         {
             try
             {
-                FirebaseClient firebaseClient = new FirebaseClient("https://application-green-quake-default-rtdb.firebaseio.com/");
+                FirebaseClient firebaseClient =
+                    new FirebaseClient("https://application-green-quake-default-rtdb.firebaseio.com/");
                 auth = DependencyService.Get<IAuth>();
 
                 username = (await firebaseClient
@@ -43,8 +43,7 @@ namespace Application_Green_Quake.ViewModels
                     .Child(auth.GetUid())
                     .OnceSingleAsync<Points>()).points;
 
-                auth = DependencyService.Get<IAuth>();
-                lvl = (int)Math.Floor((float)points / 10);
+                lvl = (int) Math.Floor((float) points / 10);
             }
             catch (Exception e)
             {
@@ -56,7 +55,8 @@ namespace Application_Green_Quake.ViewModels
         {
             try
             {
-                FirebaseClient firebaseClient = new FirebaseClient("https://application-green-quake-default-rtdb.firebaseio.com/");
+                FirebaseClient firebaseClient =
+                    new FirebaseClient("https://application-green-quake-default-rtdb.firebaseio.com/");
                 auth = DependencyService.Get<IAuth>();
 
                 points = (await firebaseClient
@@ -64,8 +64,7 @@ namespace Application_Green_Quake.ViewModels
                     .Child(auth.GetUid())
                     .OnceSingleAsync<Points>()).points;
 
-                auth = DependencyService.Get<IAuth>();
-                lvl = (int)Math.Floor((float)points / 10);
+                lvl = (int) Math.Floor((float) points / 10);
             }
             catch (Exception e)
             {

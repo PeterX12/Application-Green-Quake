@@ -1,4 +1,13 @@
-﻿using Application_Green_Quake.Models;
+﻿/*! \mainpage The EnergyPointsUpdate ViewModel Class
+ * \author Peter Lucan, 4th Year Software Development student at IT Carlow, C00228946, c00228956@itcarlow.ie
+ * \date 28/04/2021
+ * \section desc_sec Description
+ *
+ * Description: This is the EnergyPointsUpdate ViewModel Class. It updates the data for the Energy Category of the application. The functions in this class
+ * work by reading in all the chosen data and updating the selected fields and then sending this data to back firebase.
+ *
+ */
+using Application_Green_Quake.Models;
 using Firebase.Database;
 using Firebase.Database.Query;
 using System;
@@ -29,6 +38,9 @@ namespace Application_Green_Quake.ViewModels
         string username = "";
 
         IAuth auth;
+        /** This function updates the points in the Energy category by ten points. It also increments the number of logs logged in the Energy
+         * category by one and increments the number of times this particular action was logged by one and sends this data to Firebase. 
+        */
         public async void HangDryPoints()
         {
 
@@ -180,7 +192,9 @@ namespace Application_Green_Quake.ViewModels
                 .PutAsync(new EnergyPoints() { username = username, points = points2, numberOfLogs = 1, hangDryCount = 1 });
             }
         }
-
+        /** This function updates the points in the Energy category by ten points. It also increments the number of logs logged in the Energy
+         * category by one and increments the number of times this particular action was logged by one and sends this data to Firebase. 
+        */
         public async void DryerFullPoints()
         {
 
@@ -332,7 +346,9 @@ namespace Application_Green_Quake.ViewModels
                 .PutAsync(new EnergyPoints() { username = username, points = points2, numberOfLogs = 1, fullDryerCount = 1 });
             }
         }
-
+        /** This function updates the points in the Energy category by eight points. It also increments the number of logs logged in the Energy
+         * category by one and increments the number of times this particular action was logged by one and sends this data to Firebase. 
+        */
         public async void EfficientThermostatPoints()
         {
 
@@ -484,7 +500,9 @@ namespace Application_Green_Quake.ViewModels
                 .PutAsync(new EnergyPoints() { username = username, points = points2, numberOfLogs = 1, efficientThermostatCount = 1 });
             }
         }
-
+        /** This function updates the points in the Energy category by ten points. It also increments the number of logs logged in the Energy
+         * category by one and increments the number of times this particular action was logged by one and sends this data to Firebase. 
+        */
         public async void InsulateWaterPoints()
         {
 
@@ -636,7 +654,9 @@ namespace Application_Green_Quake.ViewModels
                 .PutAsync(new EnergyPoints() { username = username, points = points2, numberOfLogs = 1, insulateWaterCount = 1 });
             }
         }
-
+        /** This function updates the points in the Energy category by ten points. It also increments the number of logs logged in the Energy
+         * category by one and increments the number of times this particular action was logged by one and sends this data to Firebase. 
+        */
         public async void IsolateHomePoints()
         {
 
@@ -788,7 +808,9 @@ namespace Application_Green_Quake.ViewModels
                 .PutAsync(new EnergyPoints() { username = username, points = points2, numberOfLogs = 1, isolateHomeCount = 1 });
             }
         }
-
+        /** This function updates the points in the Energy category by ten points. It also increments the number of logs logged in the Energy
+         * category by one and increments the number of times this particular action was logged by one and sends this data to Firebase. 
+        */
         public async void LedLightsPoints()
         {
 
@@ -940,7 +962,9 @@ namespace Application_Green_Quake.ViewModels
                 .PutAsync(new EnergyPoints() { username = username, points = points2, numberOfLogs = 1, ledLightBulbCount = 1 });
             }
         }
-
+        /** This function updates the points in the Energy category by eight points. It also increments the number of logs logged in the Energy
+         * category by one and increments the number of times this particular action was logged by one and sends this data to Firebase. 
+        */
         public async void MachineFullPoints()
         {
 
@@ -1244,7 +1268,9 @@ namespace Application_Green_Quake.ViewModels
                 .PutAsync(new EnergyPoints() { username = username, points = points2, numberOfLogs = 1, microwaveCount = 1 });
             }
         }
-
+        /** This function updates the points in the Energy category by four points. It also increments the number of logs logged in the Energy
+         * category by one and increments the number of times this particular action was logged by one and sends this data to Firebase. 
+        */
         public async void SocketPoints()
         {
 
@@ -1396,7 +1422,9 @@ namespace Application_Green_Quake.ViewModels
                 .PutAsync(new EnergyPoints() { username = username, points = points2, numberOfLogs = 1, offSocketCount = 1 });
             }
         }
-
+        /** This function updates the points in the Energy category by six points. It also increments the number of logs logged in the Energy
+         * category by one and increments the number of times this particular action was logged by one and sends this data to Firebase. 
+        */
         public async void ReBatteriesPoints()
         {
 
@@ -1548,7 +1576,9 @@ namespace Application_Green_Quake.ViewModels
                 .PutAsync(new EnergyPoints() { username = username, points = points2, numberOfLogs = 1, reBatteriesCount = 1 });
             }
         }
-
+        /** This function updates the points in the Energy category by eight points. It also increments the number of logs logged in the Energy
+         * category by one and increments the number of times this particular action was logged by one and sends this data to Firebase. 
+        */
         public async void FridgePoints()
         {
 
@@ -1700,7 +1730,9 @@ namespace Application_Green_Quake.ViewModels
                 .PutAsync(new EnergyPoints() { username = username, points = points2, numberOfLogs = 1, fridgeCount = 1 });
             }
         }
-
+        /** This function updates the points in the Energy category by ten points. It also increments the number of logs logged in the Energy
+         * category by one and increments the number of times this particular action was logged by one and sends this data to Firebase. 
+        */
         public async void SealDraftsPoints()
         {
 
@@ -1852,7 +1884,9 @@ namespace Application_Green_Quake.ViewModels
                 .PutAsync(new EnergyPoints() { username = username, points = points2, numberOfLogs = 1, draftSealCount = 1 });
             }
         }
-
+        /** This function updates the points in the Energy category by eight points. It also increments the number of logs logged in the Energy
+         * category by one and increments the number of times this particular action was logged by one and sends this data to Firebase. 
+        */
         public async void SealDuctsPoints()
         {
 
@@ -2004,7 +2038,9 @@ namespace Application_Green_Quake.ViewModels
                 .PutAsync(new EnergyPoints() { username = username, points = points2, numberOfLogs = 1, ductSealCount = 1 });
             }
         }
-
+        /** This function updates the points in the Energy category by ten points. It also increments the number of logs logged in the Energy
+         * category by one and increments the number of times this particular action was logged by one and sends this data to Firebase. 
+        */
         public async void SolarPanelPoints()
         {
 

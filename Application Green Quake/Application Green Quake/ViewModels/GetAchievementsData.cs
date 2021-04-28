@@ -1,4 +1,11 @@
-﻿using System;
+﻿/*! \mainpage The GetAchievementsData ViewModel Class
+ * \author Peter Lucan, 4th Year Software Development student at IT Carlow, C00228946, c00228956@itcarlow.ie
+ * \date 28/04/2021
+ * \section desc_sec Description
+ *
+ * Description: This is the GetAchievementsData ViewModel Class. It gets data that is needed for Achievements from firebase.
+ */
+using System;
 using Application_Green_Quake.Models;
 using Firebase.Database;
 using Firebase.Database.Query;
@@ -89,6 +96,10 @@ namespace Application_Green_Quake.ViewModels
         public static int remoteWorkCount = 0;
         public static int hangDryCount = 0;
         public static int foodCount = 0;
+
+        /**
+         * This function sets the data that is needed for the Achievements Screen
+        */
         public async void SetAchievementsData()
         {
             FirebaseClient firebaseClient = new FirebaseClient("https://application-green-quake-default-rtdb.firebaseio.com/");

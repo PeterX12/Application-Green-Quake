@@ -1,4 +1,13 @@
-﻿using Application_Green_Quake.Models;
+﻿/*! \mainpage The PointsUpdate ViewModel Class
+ * \author Peter Lucan, 4th Year Software Development student at IT Carlow, C00228946, c00228956@itcarlow.ie
+ * \date 28/04/2021
+ * \section desc_sec Description
+ *
+ * Description: This is the PointsUpdate ViewModel Class. It updates the data for the Overall Points of user for the application. The functions in this class
+ * work by reading in all the chosen data and updating the selected fields and then sending this data to back firebase.
+ *
+ */
+using Application_Green_Quake.Models;
 using Firebase.Database;
 using Firebase.Database.Query;
 using System;
@@ -18,6 +27,9 @@ namespace Application_Green_Quake.ViewModels
 
 
         IAuth auth;
+        /** This function increases the points of a user by ten points. It also stores the current date and time under the Security Checks node and also
+         * increments the security counter if the point update is on the same day and if it is not then it sets it to zero.
+        */
         public async void UpdateByTenPoints()
         {
 
@@ -113,7 +125,9 @@ namespace Application_Green_Quake.ViewModels
                 .PutAsync(new Points() { username = username, points = points2 });
             }
         }
-
+        /** This function increases the points of a user by eight points. It also stores the current date and time under the Security Checks node and also
+         * increments the security counter if the point update is on the same day and if it is not then it sets it to zero.
+        */
         public async void UpdateByEightPoints()
         {
             FirebaseClient firebaseClient = new FirebaseClient("https://application-green-quake-default-rtdb.firebaseio.com/");
@@ -208,7 +222,9 @@ namespace Application_Green_Quake.ViewModels
                 .PutAsync(new Points() { username = username, points = points2 });
             }
         }
-
+        /** This function increases the points of a user by six points. It also stores the current date and time under the Security Checks node and also
+         * increments the security counter if the point update is on the same day and if it is not then it sets it to zero.
+        */
         public async void UpdateBySixPoints()
         {
 
@@ -304,7 +320,9 @@ namespace Application_Green_Quake.ViewModels
                 .PutAsync(new Points() { username = username, points = points2 });
             }
         }
-
+        /** This function increases the points of a user by four points. It also stores the current date and time under the Security Checks node and also
+         * increments the security counter if the point update is on the same day and if it is not then it sets it to zero.
+        */
         public async void UpdateByFourPoints()
         {
 
@@ -400,7 +418,9 @@ namespace Application_Green_Quake.ViewModels
                 .PutAsync(new Points() { username = username, points = points2 });
             }
         }
-
+        /** This function increases the points of a user by two points. It also stores the current date and time under the Security Checks node and also
+         * increments the security counter if the point update is on the same day and if it is not then it sets it to zero.
+        */
         public async void UpdateByTwoPoints()
         {
             FirebaseClient firebaseClient = new FirebaseClient("https://application-green-quake-default-rtdb.firebaseio.com/");

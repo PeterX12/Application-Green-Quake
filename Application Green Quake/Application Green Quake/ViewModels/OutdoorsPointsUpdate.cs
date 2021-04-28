@@ -1,4 +1,13 @@
-﻿using Application_Green_Quake.Models;
+﻿/*! \mainpage The OutdoorsPointsUpdate ViewModel Class
+ * \author Peter Lucan, 4th Year Software Development student at IT Carlow, C00228946, c00228956@itcarlow.ie
+ * \date 28/04/2021
+ * \section desc_sec Description
+ *
+ * Description: This is the OutdoorsPointsUpdate ViewModel Class. It updates the data for the Outdoors Category of the application. The functions in this class
+ * work by reading in all the chosen data and updating the selected fields and then sending this data to back firebase.
+ *
+ */
+using Application_Green_Quake.Models;
 using Firebase.Database;
 using Firebase.Database.Query;
 using System;
@@ -24,6 +33,9 @@ namespace Application_Green_Quake.ViewModels
         string username = "";
 
         IAuth auth;
+        /** This function updates the points in the Outdoors category by ten points. It also increments the number of logs logged in the Outdoors
+        * category by one and increments the number of times this particular action was logged by one and sends this data to Firebase.
+        */
         public async void CampingPoints()
         {
 
@@ -152,7 +164,9 @@ namespace Application_Green_Quake.ViewModels
                 .PutAsync(new OutdoorsPoints() { username = username, points = points2, numberOfLogs = 1, campingCount = 1 });
             }
         }
-
+        /** This function updates the points in the Outdoors category by six points. It also increments the number of logs logged in the Outdoors
+        * category by one and increments the number of times this particular action was logged by one and sends this data to Firebase.
+        */
         public async void PicnicPoints()
         {
 
@@ -281,7 +295,9 @@ namespace Application_Green_Quake.ViewModels
                 .PutAsync(new OutdoorsPoints() { username = username, points = points2, numberOfLogs = 1, picnicCount = 1 });
             }
         }
-
+        /** This function updates the points in the Outdoors category by eight points. It also increments the number of logs logged in the Outdoors
+        * category by one and increments the number of times this particular action was logged by one and sends this data to Firebase.
+        */
         public async void PlantBushPoints()
         {
 
@@ -410,7 +426,9 @@ namespace Application_Green_Quake.ViewModels
                 .PutAsync(new OutdoorsPoints() { username = username, points = points2, numberOfLogs = 1, plantBushCount = 1 });
             }
         }
-
+        /** This function updates the points in the Outdoors category by ten points. It also increments the number of logs logged in the Outdoors
+        * category by one and increments the number of times this particular action was logged by one and sends this data to Firebase.
+        */
         public async void PlantTreePoints()
         {
 
@@ -539,7 +557,9 @@ namespace Application_Green_Quake.ViewModels
                 .PutAsync(new OutdoorsPoints() { username = username, points = points2, numberOfLogs = 1, plantTreeCount = 1 });
             }
         }
-
+        /** This function updates the points in the Outdoors category by eight points. It also increments the number of logs logged in the Outdoors
+        * category by one and increments the number of times this particular action was logged by one and sends this data to Firebase.
+        */
         public async void PlantFlowerPoints()
         {
 
@@ -668,7 +688,9 @@ namespace Application_Green_Quake.ViewModels
                 .PutAsync(new OutdoorsPoints() { username = username, points = points2, numberOfLogs = 1, plantTreeCount = 1 });
             }
         }
-
+        /** This function updates the points in the Outdoors category by four points. It also increments the number of logs logged in the Outdoors
+        * category by one and increments the number of times this particular action was logged by one and sends this data to Firebase.
+        */
         public async void ScoopPoints()
         {
 
@@ -797,7 +819,9 @@ namespace Application_Green_Quake.ViewModels
                 .PutAsync(new OutdoorsPoints() { username = username, points = points2, numberOfLogs = 1, scoopCount = 1 });
             }
         }
-
+        /** This function updates the points in the Outdoors category by ten points. It also increments the number of logs logged in the Outdoors
+        * category by one and increments the number of times this particular action was logged by one and sends this data to Firebase.
+        */
         public async void FruitGardenPoints()
         {
 
@@ -926,7 +950,9 @@ namespace Application_Green_Quake.ViewModels
                 .PutAsync(new OutdoorsPoints() { username = username, points = points2, numberOfLogs = 1, fruitGardenCount = 1 });
             }
         }
-
+        /** This function updates the points in the Outdoors category by ten points. It also increments the number of logs logged in the Outdoors
+        * category by one and increments the number of times this particular action was logged by one and sends this data to Firebase.
+        */
         public async void HerbGardenPoints()
         {
 
@@ -1055,7 +1081,9 @@ namespace Application_Green_Quake.ViewModels
                 .PutAsync(new OutdoorsPoints() { username = username, points = points2, numberOfLogs = 1, herbGardenCount = 1 });
             }
         }
-
+        /** This function updates the points in the Outdoors category by ten points. It also increments the number of logs logged in the Outdoors
+        * category by one and increments the number of times this particular action was logged by one and sends this data to Firebase.
+        */
         public async void VegetableGardenPoints()
         {
 
@@ -1184,7 +1212,9 @@ namespace Application_Green_Quake.ViewModels
                 .PutAsync(new OutdoorsPoints() { username = username, points = points2, numberOfLogs = 1, vegetableGardenCount = 1 });
             }
         }
-
+        /** This function updates the points in the Outdoors category by ten points. It also increments the number of logs logged in the Outdoors
+        * category by one and increments the number of times this particular action was logged by one and sends this data to Firebase.
+        */
         public async void BirdFeederPoints()
         {
 

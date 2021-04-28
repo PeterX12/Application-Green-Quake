@@ -1,4 +1,13 @@
-﻿using Application_Green_Quake.Models;
+﻿/*! \mainpage The FoodAndDrinkPointsUpdate ViewModel Class
+ * \author Peter Lucan, 4th Year Software Development student at IT Carlow, C00228946, c00228956@itcarlow.ie
+ * \date 28/04/2021
+ * \section desc_sec Description
+ *
+ * Description: This is the FoodAndDrinkPointsUpdate ViewModel Class. It updates the data for the Food And Drink Category of the application. The functions in this class
+ * work by reading in all the chosen data and updating the selected fields and then sending this data to back firebase.
+ *
+ */
+using Application_Green_Quake.Models;
 using Firebase.Database;
 using Firebase.Database.Query;
 using System;
@@ -23,6 +32,9 @@ namespace Application_Green_Quake.ViewModels
         string username = "";
 
         IAuth auth;
+        /** This function updates the points in the FoodAndDrink category by eight points. It also increments the number of logs logged in the FoodAndDrink
+         * category by one and increments the number of times this particular action was logged by one and sends this data to Firebase. 
+        */
         public async void OrganicPoints()
         {
 
@@ -144,7 +156,9 @@ namespace Application_Green_Quake.ViewModels
                 .PutAsync(new FoodAndDrinkPoints() { username = username, points = points2, numberOfLogs = 1, organicCount = 1 });
             }
         }
-
+        /** This function updates the points in the FoodAndDrink category by four points. It also increments the number of logs logged in the FoodAndDrink
+         * category by one and increments the number of times this particular action was logged by one and sends this data to Firebase. 
+        */
         public async void EatAllPoints()
         {
 
@@ -266,7 +280,9 @@ namespace Application_Green_Quake.ViewModels
                 .PutAsync(new FoodAndDrinkPoints() { username = username, points = points2, numberOfLogs = 1, eatAllCount = 1 });
             }
         }
-
+        /** This function updates the points in the FoodAndDrink category by six points. It also increments the number of logs logged in the FoodAndDrink
+         * category by one and increments the number of times this particular action was logged by one and sends this data to Firebase. 
+        */
         public async void FoodDelivredPoints()
         {
 
@@ -388,7 +404,9 @@ namespace Application_Green_Quake.ViewModels
                 .PutAsync(new FoodAndDrinkPoints() { username = username, points = points2, numberOfLogs = 1, foodDeliverCount = 1 });
             }
         }
-
+        /** This function updates the points in the FoodAndDrink category by ten points. It also increments the number of logs logged in the FoodAndDrink
+         * category by one and increments the number of times this particular action was logged by one and sends this data to Firebase. 
+        */
         public async void NoMeatPoints()
         {
 
@@ -510,7 +528,9 @@ namespace Application_Green_Quake.ViewModels
                 .PutAsync(new FoodAndDrinkPoints() { username = username, points = points2, numberOfLogs = 1, noMeatCount = 1 });
             }
         }
-
+        /** This function updates the points in the FoodAndDrink category by two points. It also increments the number of logs logged in the FoodAndDrink
+         * category by one and increments the number of times this particular action was logged by one and sends this data to Firebase. 
+        */
         public async void OwnCoffeePoints()
         {
 
@@ -632,7 +652,9 @@ namespace Application_Green_Quake.ViewModels
                 .PutAsync(new FoodAndDrinkPoints() { username = username, points = points2, numberOfLogs = 1, ownCoffeeCount = 1 });
             }
         }
-
+        /** This function updates the points in the FoodAndDrink category by four points. It also increments the number of logs logged in the FoodAndDrink
+         * category by one and increments the number of times this particular action was logged by one and sends this data to Firebase. 
+        */
         public async void ReCoffeeMugPoints()
         {
 
@@ -754,7 +776,9 @@ namespace Application_Green_Quake.ViewModels
                 .PutAsync(new FoodAndDrinkPoints() { username = username, points = points2, numberOfLogs = 1, reCoffeeMugCount = 1 });
             }
         }
-
+        /** This function updates the points in the FoodAndDrink category by six points. It also increments the number of logs logged in the FoodAndDrink
+         * category by one and increments the number of times this particular action was logged by one and sends this data to Firebase. 
+        */
         public async void SaveLeftOversPoints()
         {
 
@@ -876,7 +900,9 @@ namespace Application_Green_Quake.ViewModels
                 .PutAsync(new FoodAndDrinkPoints() { username = username, points = points2, numberOfLogs = 1, saveLeftOversCount = 1 });
             }
         }
-
+        /** This function updates the points in the FoodAndDrink category by four points. It also increments the number of logs logged in the FoodAndDrink
+         * category by one and increments the number of times this particular action was logged by one and sends this data to Firebase. 
+        */
         public async void SteelStrawPoints()
         {
 
@@ -998,7 +1024,9 @@ namespace Application_Green_Quake.ViewModels
                 .PutAsync(new FoodAndDrinkPoints() { username = username, points = points2, numberOfLogs = 1, steelStrawCount = 1 });
             }
         }
-
+        /** This function updates the points in the FoodAndDrink category by six points. It also increments the number of logs logged in the FoodAndDrink
+         * category by one and increments the number of times this particular action was logged by one and sends this data to Firebase. 
+        */
         public async void WaterOverFizzyPoints()
         {
 

@@ -1,4 +1,13 @@
-﻿using Application_Green_Quake.Models;
+﻿/*! \mainpage The HabitsPointsUpdate ViewModel Class
+ * \author Peter Lucan, 4th Year Software Development student at IT Carlow, C00228946, c00228956@itcarlow.ie
+ * \date 28/04/2021
+ * \section desc_sec Description
+ *
+ * Description: This is the HomePointsUpdate ViewModel Class. It updates the data for the Home Category of the application. The functions in this class
+ * work by reading in all the chosen data and updating the selected fields and then sending this data to back firebase.
+ *
+ */
+using Application_Green_Quake.Models;
 using Firebase.Database;
 using Firebase.Database.Query;
 using System;
@@ -19,6 +28,9 @@ namespace Application_Green_Quake.ViewModels
         string username = "";
 
         IAuth auth;
+        /** This function updates the points in the Home category by two points. It also increments the number of logs logged in the Home
+         * category by one and increments the number of times this particular action was logged by one and sends this data to Firebase. 
+        */
         public async void AirOutPoints()
         {
 
@@ -116,7 +128,9 @@ namespace Application_Green_Quake.ViewModels
                 .PutAsync(new HomePoints() { username = username, points = points2, numberOfLogs = 1, airOutCount = 1 });
             }
         }
-
+        /** This function updates the points in the Home category by four points. It also increments the number of logs logged in the Home
+        * category by one and increments the number of times this particular action was logged by one and sends this data to Firebase.
+        */
         public async void NonHarmfulPoints()
         {
 
@@ -214,7 +228,9 @@ namespace Application_Green_Quake.ViewModels
                 .PutAsync(new HomePoints() { username = username, points = points2, numberOfLogs = 1, nonHarmCount = 1 });
             }
         }
-
+        /** This function updates the points in the Home category by two points. It also increments the number of logs logged in the Home
+        * category by one and increments the number of times this particular action was logged by one and sends this data to Firebase.
+        */
         public async void OutsidePoints()
         {
 
@@ -312,7 +328,9 @@ namespace Application_Green_Quake.ViewModels
                 .PutAsync(new HomePoints() { username = username, points = points2, numberOfLogs = 1, outsideCount = 1 });
             }
         }
-
+        /** This function updates the points in the Home category by four points. It also increments the number of logs logged in the Home
+        * category by one and increments the number of times this particular action was logged by one and sends this data to Firebase.
+        */
         public async void PlantsInsidePoints()
         {
 
@@ -410,7 +428,9 @@ namespace Application_Green_Quake.ViewModels
                 .PutAsync(new HomePoints() { username = username, points = points2, numberOfLogs = 1, plantIntoHomeCount = 1 });
             }
         }
-
+        /** This function updates the points in the Home category by four points. It also increments the number of logs logged in the Home
+        * category by one and increments the number of times this particular action was logged by one and sends this data to Firebase.
+        */
         public async void ToiletPoints()
         {
 

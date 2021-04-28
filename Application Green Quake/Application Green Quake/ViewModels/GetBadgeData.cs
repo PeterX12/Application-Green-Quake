@@ -1,4 +1,11 @@
-﻿using System;
+﻿/*! \mainpage The GetBadgeData ViewModel Class
+ * \author Peter Lucan, 4th Year Software Development student at IT Carlow, C00228946, c00228956@itcarlow.ie
+ * \date 28/04/2021
+ * \section desc_sec Description
+ *
+ * Description: This is the GetBadgeData ViewModel Class. It gets data that is needed for badges from firebase.
+ */
+using System;
 using Application_Green_Quake.Models;
 using Firebase.Database;
 using Firebase.Database.Query;
@@ -22,6 +29,9 @@ namespace Application_Green_Quake.ViewModels
         public static int waterLog = 0;
         public static int workLog = 0;
 
+        /**
+         * This function sets the data that is needed for the badges screen
+        */
         public async void SetBadgeData()
         {
             FirebaseClient firebaseClient = new FirebaseClient("https://application-green-quake-default-rtdb.firebaseio.com/");

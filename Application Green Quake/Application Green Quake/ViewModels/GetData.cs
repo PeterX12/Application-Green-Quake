@@ -1,4 +1,11 @@
-﻿using Application_Green_Quake.Models;
+﻿/*! \mainpage The GetData ViewModel Class
+ * \author Peter Lucan, 4th Year Software Development student at IT Carlow, C00228946, c00228956@itcarlow.ie
+ * \date 28/04/2021
+ * \section desc_sec Description
+ *
+ * Description: This is the GetData ViewModel Class. It gets data that is needed for the applications back end and front end.
+ */
+using Application_Green_Quake.Models;
 using Firebase.Database;
 using Firebase.Database.Query;
 using System;
@@ -15,12 +22,15 @@ namespace Application_Green_Quake.ViewModels
         public static int lvl = 0;
         public static string nation = "";
 
+        /**
+         * This function sets the data to be used for the font end in this application. It sets the username, bio, points, nation and lvl for the logged in
+         * user. These are saved in global public variables that are used across the application for front end.
+        */
         public async void SetData()
         {
             try
             {
-                FirebaseClient firebaseClient =
-                    new FirebaseClient("https://application-green-quake-default-rtdb.firebaseio.com/");
+                FirebaseClient firebaseClient = new FirebaseClient("https://application-green-quake-default-rtdb.firebaseio.com/");
                 auth = DependencyService.Get<IAuth>();
 
                 username = (await firebaseClient
@@ -50,7 +60,9 @@ namespace Application_Green_Quake.ViewModels
                 Console.Write(e);
             }
         }
-
+        /**
+         * This function just sets the level of the user in a global static varaible shared across all the classes to be displayed for the front end.
+        */
         public async void SetLvl()
         {
             try

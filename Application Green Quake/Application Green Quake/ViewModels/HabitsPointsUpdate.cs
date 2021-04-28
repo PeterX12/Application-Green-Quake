@@ -1,4 +1,13 @@
-﻿using Application_Green_Quake.Models;
+﻿/*! \mainpage The HabitsPointsUpdate ViewModel Class
+ * \author Peter Lucan, 4th Year Software Development student at IT Carlow, C00228946, c00228956@itcarlow.ie
+ * \date 28/04/2021
+ * \section desc_sec Description
+ *
+ * Description: This is the HabitsPointsUpdate ViewModel Class. It updates the data for the Habits Category of the application. The functions in this class
+ * work by reading in all the chosen data and updating the selected fields and then sending this data to back firebase.
+ *
+ */
+using Application_Green_Quake.Models;
 using Firebase.Database;
 using Firebase.Database.Query;
 using System;
@@ -20,6 +29,9 @@ namespace Application_Green_Quake.ViewModels
         string username = "";
 
         IAuth auth;
+        /** This function updates the points in the Habits category by two points. It also increments the number of logs logged in the Habits
+         * category by one and increments the number of times this particular action was logged by one and sends this data to Firebase. 
+        */
         public async void BrushingPoints()
         {
 
@@ -123,7 +135,9 @@ namespace Application_Green_Quake.ViewModels
                 .PutAsync(new HabitsPoints() { username = username, points = points2, numberOfLogs = 1, brushingCount = 1 });
             }
         }
-
+        /** This function updates the points in the Habits category by eight points. It also increments the number of logs logged in the Habits
+         * category by one and increments the number of times this particular action was logged by one and sends this data to Firebase. 
+        */
         public async void DishWasherFullPoints()
         {
 
@@ -227,7 +241,9 @@ namespace Application_Green_Quake.ViewModels
                 .PutAsync(new HabitsPoints() { username = username, points = points2, numberOfLogs = 1, fullWasherCount = 1 });
             }
         }
-
+        /** This function updates the points in the Habits category by six points. It also increments the number of logs logged in the Habits
+         * category by one and increments the number of times this particular action was logged by one and sends this data to Firebase. 
+        */
         public async void ShowerInsteadPoints()
         {
 
@@ -331,7 +347,9 @@ namespace Application_Green_Quake.ViewModels
                 .PutAsync(new HabitsPoints() { username = username, points = points2, numberOfLogs = 1, showerCount = 1 });
             }
         }
-
+        /** This function updates the points in the Habits category by four points. It also increments the number of logs logged in the Habits
+         * category by one and increments the number of times this particular action was logged by one and sends this data to Firebase. 
+        */
         public async void TimedShowerInsteadPoints()
         {
 
@@ -435,7 +453,9 @@ namespace Application_Green_Quake.ViewModels
                 .PutAsync(new HabitsPoints() { username = username, points = points2, numberOfLogs = 1, timedShowerCount = 1 });
             }
         }
-
+        /** This function updates the points in the Habits category by two points. It also increments the number of logs logged in the Habits
+         * category by one and increments the number of times this particular action was logged by one and sends this data to Firebase. 
+        */
         public async void OffLightsPoints()
         {
 
@@ -539,7 +559,9 @@ namespace Application_Green_Quake.ViewModels
                 .PutAsync(new HabitsPoints() { username = username, points = points2, numberOfLogs = 1, offLigtsCount = 1 });
             }
         }
-
+        /** This function updates the points in the Habits category by two points. It also increments the number of logs logged in the Habits
+         * category by one and increments the number of times this particular action was logged by one and sends this data to Firebase. 
+        */
         public async void MatchesPoints()
         {
 

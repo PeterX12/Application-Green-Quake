@@ -1,4 +1,13 @@
-﻿using Application_Green_Quake.Models;
+﻿/*! \mainpage The ShoppingPointsUpdate ViewModel Class
+ * \author Peter Lucan, 4th Year Software Development student at IT Carlow, C00228946, c00228956@itcarlow.ie
+ * \date 28/04/2021
+ * \section desc_sec Description
+ *
+ * Description: This is the ShoppingPointsUpdate ViewModel Class. It updates the data for the Shopping Category of the application. The functions in this class
+ * work by reading in all the chosen data and updating the selected fields and then sending this data to back firebase.
+ *
+ */
+using Application_Green_Quake.Models;
 using Firebase.Database;
 using Firebase.Database.Query;
 using System;
@@ -27,6 +36,9 @@ namespace Application_Green_Quake.ViewModels
         string username = "";
 
         IAuth auth;
+        /** This function updates the points in the Shopping category by two points. It also increments the number of logs logged in the Shopping
+        * category by one and increments the number of times this particular action was logged by one and sends this data to Firebase.
+        */
         public async void ClothNapkinsPoints()
         {
 
@@ -172,7 +184,9 @@ namespace Application_Green_Quake.ViewModels
                 .PutAsync(new ShoppingPoints() { username = username, points = points2, numberOfLogs = 1, clothNapkinCount = 1 });
             }
         }
-
+        /** This function updates the points in the Shopping category by two points. It also increments the number of logs logged in the Shopping
+        * category by one and increments the number of times this particular action was logged by one and sends this data to Firebase.
+        */
         public async void ClothTowelsPoints()
         {
 
@@ -318,7 +332,9 @@ namespace Application_Green_Quake.ViewModels
                 .PutAsync(new ShoppingPoints() { username = username, points = points2, numberOfLogs = 1, clothTowelCount = 1 });
             }
         }
-
+        /** This function updates the points in the Shopping category by two points. It also increments the number of logs logged in the Shopping
+        * category by one and increments the number of times this particular action was logged by one and sends this data to Firebase.
+        */
         public async void AppliancePoints()
         {
 
@@ -464,7 +480,9 @@ namespace Application_Green_Quake.ViewModels
                 .PutAsync(new ShoppingPoints() { username = username, points = points2, numberOfLogs = 1, applianceCount = 1 });
             }
         }
-
+        /** This function updates the points in the Shopping category by four points. It also increments the number of logs logged in the Shopping
+        * category by one and increments the number of times this particular action was logged by one and sends this data to Firebase.
+        */
         public async void ProductPoints()
         {
 
@@ -610,7 +628,9 @@ namespace Application_Green_Quake.ViewModels
                 .PutAsync(new ShoppingPoints() { username = username, points = points2, numberOfLogs = 1, productCount = 1 });
             }
         }
-
+        /** This function updates the points in the Shopping category by six points. It also increments the number of logs logged in the Shopping
+        * category by one and increments the number of times this particular action was logged by one and sends this data to Firebase.
+        */
         public async void EcoToothbrushPoints()
         {
 
@@ -756,7 +776,9 @@ namespace Application_Green_Quake.ViewModels
                 .PutAsync(new ShoppingPoints() { username = username, points = points2, numberOfLogs = 1, toothbrushCount = 1 });
             }
         }
-
+        /** This function updates the points in the Shopping category by ten points. It also increments the number of logs logged in the Shopping
+        * category by one and increments the number of times this particular action was logged by one and sends this data to Firebase.
+        */
         public async void ClothesPoints()
         {
 
@@ -902,7 +924,9 @@ namespace Application_Green_Quake.ViewModels
                 .PutAsync(new ShoppingPoints() { username = username, points = points2, numberOfLogs = 1, clothesCount = 1 });
             }
         }
-
+        /** This function updates the points in the Shopping category by six points. It also increments the number of logs logged in the Shopping
+        * category by one and increments the number of times this particular action was logged by one and sends this data to Firebase.
+        */
         public async void FoodInBulkPoints()
         {
 
@@ -1048,7 +1072,9 @@ namespace Application_Green_Quake.ViewModels
                 .PutAsync(new ShoppingPoints() { username = username, points = points2, numberOfLogs = 1, foodCount = 1 });
             }
         }
-
+        /** This function updates the points in the Shopping category by eight points. It also increments the number of logs logged in the Shopping
+        * category by one and increments the number of times this particular action was logged by one and sends this data to Firebase.
+        */
         public async void LocalProductPoints()
         {
 
@@ -1194,7 +1220,9 @@ namespace Application_Green_Quake.ViewModels
                 .PutAsync(new ShoppingPoints() { username = username, points = points2, numberOfLogs = 1, productCount = 1 });
             }
         }
-
+        /** This function updates the points in the Shopping category by four points. It also increments the number of logs logged in the Shopping
+        * category by one and increments the number of times this particular action was logged by one and sends this data to Firebase.
+        */
         public async void TeaPoints()
         {
 
@@ -1340,7 +1368,9 @@ namespace Application_Green_Quake.ViewModels
                 .PutAsync(new ShoppingPoints() { username = username, points = points2, numberOfLogs = 1, looseLeafCount = 1 });
             }
         }
-
+        /** This function updates the points in the Shopping category by eight points. It also increments the number of logs logged in the Shopping
+        * category by one and increments the number of times this particular action was logged by one and sends this data to Firebase.
+        */
         public async void OrganicPoints()
         {
 
@@ -1486,7 +1516,9 @@ namespace Application_Green_Quake.ViewModels
                 .PutAsync(new ShoppingPoints() { username = username, points = points2, numberOfLogs = 1, organicFoodCount = 1 });
             }
         }
-
+        /** This function updates the points in the Shopping category by eight points. It also increments the number of logs logged in the Shopping
+        * category by one and increments the number of times this particular action was logged by one and sends this data to Firebase.
+        */
         public async void ReWaterPoints()
         {
 
@@ -1632,7 +1664,9 @@ namespace Application_Green_Quake.ViewModels
                 .PutAsync(new ShoppingPoints() { username = username, points = points2, numberOfLogs = 1, reusableCount = 1 });
             }
         }
-
+        /** This function updates the points in the Shopping category by six points. It also increments the number of logs logged in the Shopping
+        * category by one and increments the number of times this particular action was logged by one and sends this data to Firebase.
+        */
         public async void ReBattereisPoints()
         {
 
@@ -1778,7 +1812,9 @@ namespace Application_Green_Quake.ViewModels
                 .PutAsync(new ShoppingPoints() { username = username, points = points2, numberOfLogs = 1, reBatCount = 1 });
             }
         }
-
+        /** This function updates the points in the Shopping category by eight points. It also increments the number of logs logged in the Shopping
+        * category by one and increments the number of times this particular action was logged by one and sends this data to Firebase.
+        */
         public async void ReBagPoints()
         {
 

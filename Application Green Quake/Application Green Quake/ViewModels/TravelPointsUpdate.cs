@@ -1,4 +1,13 @@
-﻿using Application_Green_Quake.Models;
+﻿/*! \mainpage The TravelPointsUpdate ViewModel Class
+ * \author Peter Lucan, 4th Year Software Development student at IT Carlow, C00228946, c00228956@itcarlow.ie
+ * \date 28/04/2021
+ * \section desc_sec Description
+ *
+ * Description: This is the TravelPointsUpdate ViewModel Class. It updates the data for the Travel Category of the application. The functions in this class
+ * work by reading in all the chosen data and updating the selected fields and then sending this data to back firebase.
+ *
+ */
+using Application_Green_Quake.Models;
 using Firebase.Database;
 using Firebase.Database.Query;
 using System;
@@ -20,6 +29,9 @@ namespace Application_Green_Quake.ViewModels
         string username = "";
 
         IAuth auth;
+        /** This function updates the points in the Travel category by six points. It also increments the number of logs logged in the Travel
+        * category by one and increments the number of times this particular action was logged by one and sends this data to Firebase.
+        */
         public async void CarpoolPoints()
         {
 
@@ -117,7 +129,9 @@ namespace Application_Green_Quake.ViewModels
                 .PutAsync(new TravelPoints() { username = username, points = points2, numberOfLogs = 1, carpoolCount = 1 });
             }
         }
-
+        /** This function updates the points in the Travel category by ten points. It also increments the number of logs logged in the Travel
+        * category by one and increments the number of times this particular action was logged by one and sends this data to Firebase.
+        */
         public async void CyclePoints()
         {
 
@@ -215,7 +229,9 @@ namespace Application_Green_Quake.ViewModels
                 .PutAsync(new TravelPoints() { username = username, points = points2, numberOfLogs = 1, cycleCount = 1 });
             }
         }
-
+        /** This function updates the points in the Travel category by ten points. It also increments the number of logs logged in the Travel
+        * category by one and increments the number of times this particular action was logged by one and sends this data to Firebase.
+        */
         public async void EcoCarPoints()
         {
 
@@ -313,7 +329,9 @@ namespace Application_Green_Quake.ViewModels
                 .PutAsync(new TravelPoints() { username = username, points = points2, numberOfLogs = 1, ecoCarCount = 1 });
             }
         }
-
+        /** This function updates the points in the Travel category by eight points. It also increments the number of logs logged in the Travel
+        * category by one and increments the number of times this particular action was logged by one and sends this data to Firebase.
+        */
         public async void TransportPoints()
         {
 
@@ -411,7 +429,9 @@ namespace Application_Green_Quake.ViewModels
                 .PutAsync(new TravelPoints() { username = username, points = points2, numberOfLogs = 1, transportCount = 1 });
             }
         }
-
+        /** This function updates the points in the Travel category by ten points. It also increments the number of logs logged in the Travel
+        * category by one and increments the number of times this particular action was logged by one and sends this data to Firebase.
+        */
         public async void WalkPoints()
         {
 

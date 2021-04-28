@@ -1,4 +1,13 @@
-﻿using Application_Green_Quake.Models;
+﻿/*! \mainpage The AdvancedPointsUpdate ViewModel Class
+ * \author Peter Lucan, 4th Year Software Development student at IT Carlow, C00228946, c00228956@itcarlow.ie
+ * \date 28/04/2021
+ * \section desc_sec Description
+ *
+ * Description: This is the AdvancedPointsUpdate ViewModel Class. It updates the data for the Advanced Category of the application. The functions in this class
+ * work by reading in all the chosen data and updating the selected fields and then sending this data to back firebase.
+ *
+ */
+using Application_Green_Quake.Models;
 using Firebase.Database;
 using Firebase.Database.Query;
 using System;
@@ -14,6 +23,9 @@ namespace Application_Green_Quake.ViewModels
         string username = "";
         
         IAuth auth;
+        /** This function updates the points in the Advanced category by ten points. It also increments the number of logs logged in the Advanced
+         * category by one and increments the number of times this particular action was logged by one and sends this data to Firebase. 
+        */
         public async void FixPoints()
         {
             FirebaseClient firebaseClient = new FirebaseClient("https://application-green-quake-default-rtdb.firebaseio.com/");

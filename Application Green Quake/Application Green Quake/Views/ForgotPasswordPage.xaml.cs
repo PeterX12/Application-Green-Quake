@@ -44,6 +44,7 @@ namespace Application_Green_Quake.Views
                 catch (NullReferenceException)
                 {
                     await DisplayAlert("Password Reset", "Please Try again and make sure you are connected to the internet." + EmailInput.Text + " to allow you to reset your password.", "OK");
+                    UserDialogs.Instance.HideLoading();
                 }
             }  
         }

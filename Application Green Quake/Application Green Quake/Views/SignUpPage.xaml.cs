@@ -82,7 +82,7 @@ namespace Application_Green_Quake.Views
                 PasswordInput.Text = null;
                 UsernameInput.Text = null;
                 PasswordErrorLabel.TextColor = Color.Red;
-                EmailErrorLabel.Text = "No Emailed Entered";
+                EmailErrorLabel.Text = "No Email Entered";
                 PasswordErrorLabel.Text = "No Password Entered";
                 UsernameErrorLabel.Text = "No Username Entered";
             }

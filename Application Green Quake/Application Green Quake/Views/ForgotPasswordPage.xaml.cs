@@ -37,13 +37,13 @@ namespace Application_Green_Quake.Views
                 {
                     UserDialogs.Instance.ShowLoading("");
                     await auth.ResetPassword(EmailInput.Text);
-                    await DisplayAlert("Password Reset", "If a matching account was found an email was sent to " + EmailInput.Text + "to allow you to reset your password.", "OK");
+                    await DisplayAlert("Password Reset", "If a matching account was found an email was sent to " + EmailInput.Text + " to allow you to reset your password.", "OK");
                     await Navigation.PushAsync(new MainPage());
                     UserDialogs.Instance.HideLoading();
                 }
                 catch (NullReferenceException)
                 {
-                    await DisplayAlert("Password Reset", "Please Try again and make sure you are connected to the internet." + EmailInput.Text + " to allow you to reset your password.", "OK");
+                    await DisplayAlert("Password Reset", "Please Try again and make sure you are connected to the internet " + EmailInput.Text + " to allow you to reset your password.", "OK");
                     UserDialogs.Instance.HideLoading();
                 }
             }  

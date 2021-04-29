@@ -1,4 +1,12 @@
-﻿using Application_Green_Quake.Models;
+﻿/*! \mainpage The RefillStation View Class
+ * \author Peter Lucan, 4th Year Software Development student at IT Carlow, C00228946, c00228956@itcarlow.ie
+ * \date 28/04/2021
+ * \section desc_sec Description
+ *
+ * Description: This is the RefillStation View Class. This page contains the map and loads data from firebase and then uses this data to display the pins.
+ *
+ */
+using Application_Green_Quake.Models;
 using Firebase.Database;
 using System;
 using System.Diagnostics;
@@ -17,7 +25,8 @@ namespace Application_Green_Quake.Views.RefillPage
             InitializeComponent();
             OnAppearing();
         }
-        
+        /** This function is called before the page is displayed.
+        */
         protected override async void OnAppearing()
         {
             try
@@ -44,6 +53,7 @@ namespace Application_Green_Quake.Views.RefillPage
                         Tag = "id_Me",
 
                     };
+                    // Add the pin and load the map at this location
                     map.Pins.Add(currentLocation);
                     map.MoveToRegion(MapSpan.FromCenterAndRadius(currentLocation.Position, Distance.FromMeters(5000)));
                     
@@ -58,6 +68,7 @@ namespace Application_Green_Quake.Views.RefillPage
 
             FirebaseClient firebaseClient = new FirebaseClient("https://application-green-quake-default-rtdb.firebaseio.com/");
 
+            //Load the pin data into a list
             var list = (await firebaseClient
            .Child("Stations")
            .OnceAsync<Station>()).Select(item => new Station
@@ -69,7 +80,7 @@ namespace Application_Green_Quake.Views.RefillPage
 
            }).ToList();
 
-            
+            // For each entry in the data create and place a pin.
             foreach (var obj in list)
             {
                 Pin stationLocations = new Pin()

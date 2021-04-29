@@ -1,4 +1,12 @@
-﻿#if DEBUG
+﻿/*! \mainpage The MainApplication Native Android Class
+ * \author Peter Lucan, 4th Year Software Development student at IT Carlow, C00228946, c00228956@itcarlow.ie
+ * \date 28/04/2021
+ * \section desc_sec Description
+ *
+ * Description: This is the MainApplication Native Android Class. It had to be modified to make the APKs work
+ *
+ */
+#if DEBUG
 using System;
 using Android.App;
 using Android.Runtime;

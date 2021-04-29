@@ -1,4 +1,12 @@
-﻿using Plugin.Media;
+﻿/*! \mainpage The UploadImagePopUp View Class
+ * \author Peter Lucan, 4th Year Software Development student at IT Carlow, C00228946, c00228956@itcarlow.ie
+ * \date 28/04/2021
+ * \section desc_sec Description
+ *
+ * Description: This is the UploadImagePopUp View Class. This class is the popup that appears to upload a new profile picture.
+ *
+ */
+using Plugin.Media;
 using System;
 using System.Diagnostics;
 using Xamarin.Forms;
@@ -22,8 +30,9 @@ namespace Application_Green_Quake.Views.ProfilePage
         {
             InitializeComponent();
             auth = DependencyService.Get<IAuth>();
-        } 
-
+        }
+        /** This function enables the capturing of an image.
+        */
         private async void CapturePhotoClicked(object sender, System.EventArgs e)
         {
             await CrossMedia.Current.Initialize();
@@ -50,6 +59,8 @@ namespace Application_Green_Quake.Views.ProfilePage
             });
         }
 
+        /** This function enables the uploading of an image.
+        */
         private async void UplaodPhotoClicked(object sender, System.EventArgs e)
         {
             await CrossMedia.Current.Initialize();
@@ -73,6 +84,8 @@ namespace Application_Green_Quake.Views.ProfilePage
             }
         }
 
+        /** This function enables the storing of an image.
+        */
         private async void storeImageClicked(object sender, System.EventArgs e)
         {
             UserDialogs.Instance.ShowLoading();
@@ -100,6 +113,7 @@ namespace Application_Green_Quake.Views.ProfilePage
             }
             await Navigation.PushAsync(new MainMenu(2));
             await PopupNavigation.Instance.PopAsync(true);
+            // Hide the loading screen
             UserDialogs.Instance.HideLoading();
         }
     }

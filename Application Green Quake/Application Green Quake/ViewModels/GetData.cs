@@ -61,7 +61,7 @@ namespace Application_Green_Quake.ViewModels
             }
         }
         /**
-         * This function just sets the level of the user in a global static varaible shared across all the classes to be displayed for the front end.
+         * This function just sets the level of the user in a global static variable shared across all the classes to be displayed for the front end.
         */
         public async void SetLvl()
         {

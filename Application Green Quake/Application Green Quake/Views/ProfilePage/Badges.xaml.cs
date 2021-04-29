@@ -1,10 +1,14 @@
-﻿using Application_Green_Quake.Models;
+﻿/*! \mainpage The Badges View Class
+ * \author Peter Lucan, 4th Year Software Development student at IT Carlow, C00228946, c00228956@itcarlow.ie
+ * \date 28/04/2021
+ * \section desc_sec Description
+ *
+ * Description: This is the Badges View Class. This class is the class that displays all the Badges on the Badges page.
+ *
+ */
 using Application_Green_Quake.ViewModels;
-using Firebase.Database;
-using Firebase.Database.Query;
 using Rg.Plugins.Popup.Services;
 using System;
-using Acr.UserDialogs;
 using Xamarin.Forms;
 using Xamarin.Forms.Xaml;
 
@@ -30,7 +34,8 @@ namespace Application_Green_Quake.Views.ProfilePage
             InitializeComponent();
             OnAppearing();
         }
-
+        /** This function is called before the page is displayed. It displays the images as the criteria are met
+        */
         protected override void OnAppearing()
         {
             if (GetBadgeData.habitsLog > 0 && GetBadgeData.habitsLog < 5)
@@ -478,73 +483,85 @@ namespace Application_Green_Quake.Views.ProfilePage
                 workStage = 6;
             }
         }
-
+        /** This function displays a popup when the first badge is tapped
+        */
         private async void NavigateToBadgePopUpOne(object sender, EventArgs e)
         {
             int number = 1;
             await PopupNavigation.Instance.PushAsync(new BadgePopUp(number, habitsStage));
         }
-
+        /** This function displays a popup when the second badge is tapped
+        */
         private async void NavigateToBadgePopUpTwo(object sender, EventArgs e)
         {
             int number = 2;
             await PopupNavigation.Instance.PushAsync(new BadgePopUp(number, advancedStage));
         }
-
+        /** This function displays a popup when the third badge is tapped
+        */
         private async void NavigateToBadgePopUpThree(object sender, EventArgs e)
         {
             int number = 3;
             await PopupNavigation.Instance.PushAsync(new BadgePopUp(number, communityStage));
         }
-
+        /** This function displays a popup when the fourth badge is tapped
+        */
         private async void NavigateToBadgePopUpFour(object sender, EventArgs e)
         {
             int number = 4;
             await PopupNavigation.Instance.PushAsync(new BadgePopUp(number, energyStage));
         }
-
+        /** This function displays a popup when the fifth badge is tapped
+        */
         private async void NavigateToBadgePopUpFive(object sender, EventArgs e)
         {
             int number = 5;
             await PopupNavigation.Instance.PushAsync(new BadgePopUp(number, foodDrinkStage));
         }
-
+        /** This function displays a popup when the sixth badge is tapped
+        */
         private async void NavigateToBadgePopUpSix(object sender, EventArgs e)
         {
             int number = 6;
             await PopupNavigation.Instance.PushAsync(new BadgePopUp(number, homeStage));
         }
-
+        /** This function displays a popup when the seventh badge is tapped
+        */
         private async void NavigateToBadgePopUpSeven(object sender, EventArgs e)
         {
             int number = 7;
             await PopupNavigation.Instance.PushAsync(new BadgePopUp(number, outdoorsStage));
         }
-
+        /** This function displays a popup when the eight badge is tapped
+        */
         private async void NavigateToBadgePopUpEight(object sender, EventArgs e)
         {
             int number = 8;
             await PopupNavigation.Instance.PushAsync(new BadgePopUp(number, shoppingStage));
         }
-
+        /** This function displays a popup when the ninth badge is tapped
+        */
         private async void NavigateToBadgePopUpNine(object sender, EventArgs e)
         {
             int number = 9;
             await PopupNavigation.Instance.PushAsync(new BadgePopUp(number, travelStage));
         }
-
+        /** This function displays a popup when the tenth badge is tapped
+        */
         private async void NavigateToBadgePopUpTen(object sender, EventArgs e)
         {
             int number = 10;
             await PopupNavigation.Instance.PushAsync(new BadgePopUp(number, wasteStage));
         }
-
+        /** This function displays a popup when the eleventh badge is tapped
+        */
         private async void NavigateToBadgePopUpEleven(object sender, EventArgs e)
         {
             int number = 11;
             await PopupNavigation.Instance.PushAsync(new BadgePopUp(number, waterStage));
         }
-
+        /** This function displays a popup when the twelfth badge is tapped
+        */
         private async void NavigateToBadgePopUpTwelve(object sender, EventArgs e)
         {
             int number = 12;

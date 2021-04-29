@@ -1,4 +1,12 @@
-﻿using Application_Green_Quake.Models;
+﻿/*! \mainpage The SignUpPage View Class
+ * \author Peter Lucan, 4th Year Software Development student at IT Carlow, C00228946, c00228956@itcarlow.ie
+ * \date 28/04/2021
+ * \section desc_sec Description
+ *
+ * Description: This is the SignUpPage View Class. This is the class that allows a user to sign up for the application. It contains validation checks.
+ *
+ */
+using Application_Green_Quake.Models;
 using Firebase.Database;
 using Firebase.Database.Query;
 using System;
@@ -19,8 +27,10 @@ namespace Application_Green_Quake.Views
             InitializeComponent();
             auth = DependencyService.Get<IAuth>();
         }
-
-       async void SignUpClicked(object sender, EventArgs e)
+        /** This function fires when the Sign Up button is clicked. It carries out validation checks and if all are passed the the new user is created. If not
+        * the correct error message is displayed. 
+        */
+        async void SignUpClicked(object sender, EventArgs e)
         {
             var emailPattern = "^(?(\")(\".+?(?<!\\\\)\"@)|(([0-9a-z]((\\.(?!\\.))|[-!#\\$%&'\\*\\+/=\\?\\^`\\{\\}\\|~\\w])*)(?<=[0-9a-z])@))(?(\\[)(\\[(\\d{1,3}\\.){3}\\d{1,3}\\])|(([0-9a-z][-\\w]*[0-9a-z]*\\.)+[a-z0-9][\\-a-z0-9]{0,22}[a-z0-9]))$";
             var hasNum = new Regex(@"[0-9]+");

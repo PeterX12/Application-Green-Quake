@@ -1,4 +1,11 @@
-﻿using Acr.UserDialogs;
+﻿/*! \mainpage The Achievements View Class
+ * \author Peter Lucan, 4th Year Software Development student at IT Carlow, C00228946, c00228956@itcarlow.ie
+ * \date 28/04/2021
+ * \section desc_sec Description
+ *
+ * Description: This is the Achievements View Class. This class is the class that displays all the Achievements on the Achievements page.
+ *
+ */
 using Application_Green_Quake.ViewModels;
 using Xamarin.Forms;
 using Xamarin.Forms.Xaml;
@@ -16,7 +23,8 @@ namespace Application_Green_Quake.Views.ProfilePage
             auth = DependencyService.Get<IAuth>();
             OnAppearing();
         }
-
+        /** This function is called before the page is displayed. It displays the images as the criteria are met
+        */
         protected override void OnAppearing()
         {
             if (GetAchievementsData.brushingCount >= 5 && GetAchievementsData.brushingCount < 15)

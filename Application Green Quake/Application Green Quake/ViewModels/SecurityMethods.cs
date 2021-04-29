@@ -51,6 +51,7 @@ namespace Application_Green_Quake.ViewModels
                     .Child(auth.GetUid())
                     .OnceSingleAsync<SecurityChecks>()).counter;
 
+                //If the count in the database is 15 and the time from the date from the database is the same as today's date return true.
                 if (theCount == 15 && theDate == currentDate)
                 {
                     return true;
@@ -80,6 +81,7 @@ namespace Application_Green_Quake.ViewModels
 
             try
             {
+                //Get the time stored in the database.
                 theTime = (await firebaseClient
                     .Child("SecurityChecks")
                     .Child(auth.GetUid())

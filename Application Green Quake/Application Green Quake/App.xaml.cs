@@ -1,4 +1,12 @@
-﻿using Application_Green_Quake.ViewModels;
+﻿/*! \mainpage The App Class
+ * \author Peter Lucan, 4th Year Software Development student at IT Carlow, C00228946, c00228956@itcarlow.ie
+ * \date 28/04/2021
+ * \section desc_sec Description
+ *
+ * Description: This is the App Class. This is the class that gets loaded first on app launch.
+ *
+ */
+using Application_Green_Quake.ViewModels;
 using Microsoft.AppCenter;
 using Microsoft.AppCenter.Analytics;
 using Microsoft.AppCenter.Crashes;
@@ -19,10 +27,12 @@ namespace Application_Green_Quake
             InitializeComponent();
             auth = DependencyService.Get<IAuth>();
      
+            //If the user is signed in navigate to the main menu
             if (auth.IsSignIn())
             {
                 MainPage = new NavigationPage(new MainMenu());
             }
+            //If the users is not signed in navigate to the login screen
             else
             {
                 MainPage = new NavigationPage(new MainPage());

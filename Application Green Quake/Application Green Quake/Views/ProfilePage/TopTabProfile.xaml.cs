@@ -1,11 +1,18 @@
-﻿using Application_Green_Quake.Models;
+﻿/*! \mainpage The TopTabProfile View Class
+ * \author Peter Lucan, 4th Year Software Development student at IT Carlow, C00228946, c00228956@itcarlow.ie
+ * \date 28/04/2021
+ * \section desc_sec Description
+ *
+ * Description: This is the TopTabProfile View Class. The progile page class.
+ *
+ */
+using Application_Green_Quake.Models;
 using Application_Green_Quake.ViewModels;
 using Firebase.Database;
 using Firebase.Database.Query;
 using Firebase.Storage;
 using Rg.Plugins.Popup.Services;
 using System;
-using Acr.UserDialogs;
 using Xamarin.Forms;
 using Xamarin.Forms.Xaml;
 
@@ -25,7 +32,9 @@ namespace Application_Green_Quake.Views.ProfilePage
             auth = DependencyService.Get<IAuth>();
             OnAppearing();
         }
-
+        /** This function is called before the page is displayed. It displays the images as the criteria are met and also the bio and username. It also
+         * calulates the players level and progress and displays the progress to the next level on a progress bar.
+        */
         protected override async void OnAppearing()
         {
             Username.Text = GetData.username;
@@ -41,6 +50,7 @@ namespace Application_Green_Quake.Views.ProfilePage
                 Console.Write(e);
             }
 
+            // Calculate the progress for the next level
             progress = (float)GetData.points / 10;
             progress = (int)(((decimal)progress % 1) * 10);
 
@@ -49,6 +59,7 @@ namespace Application_Green_Quake.Views.ProfilePage
             count = progress;
             count = count * 10;
 
+            // Set the theLvl and animate the progress bar
             theLevel.Text =  "Lvl:  " + GetData.lvl.ToString() + " Points: " + count.ToString() + " /10";
             await progressbar.ProgressTo(progress, 500, Easing.Linear);
 
@@ -456,27 +467,32 @@ namespace Application_Green_Quake.Views.ProfilePage
             GetData data = new GetData();
             data.SetLvl();
         }
-
+        /** This function navigates to UploadImagePopUp
+        */
         private async void ImageClicked(object sender, EventArgs e)
         {
             await PopupNavigation.Instance.PushAsync(new UploadImagePopUp());
         }
-
+        /** This function navigates to TrophyCase at tab 0
+        */
         private async void NavigateToTrophyCase(object sender, EventArgs e)
         {
             await Navigation.PushAsync(new TrophyCase(0));
         }
-
+        /** This function navigates to TrophyCase at tab 1
+        */
         private async void NavigateToAchievements(object sender, EventArgs e)
         {
             await Navigation.PushAsync(new TrophyCase(1));
         }
-
+        /** This function navigates to TrophyCase at tab 2
+        */
         private async void NavigateToBadges(object sender, EventArgs e)
         {
             await Navigation.PushAsync(new TrophyCase(2));
         }
-
+        /** This function saves the users bio
+       */
         private async void SaveText(object sender, EventArgs e)
         {
             FirebaseClient firebaseClient = new FirebaseClient("https://application-green-quake-default-rtdb.firebaseio.com/");

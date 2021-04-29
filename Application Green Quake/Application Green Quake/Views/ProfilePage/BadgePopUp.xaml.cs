@@ -1,4 +1,12 @@
-﻿using Xamarin.Forms;
+﻿/*! \mainpage The BadgePopUp View Class
+ * \author Peter Lucan, 4th Year Software Development student at IT Carlow, C00228946, c00228956@itcarlow.ie
+ * \date 28/04/2021
+ * \section desc_sec Description
+ *
+ * Description: This is the BadgePopUp View Class. This class is the popup that appears when a badge is tapped.
+ *
+ */
+using Xamarin.Forms;
 using Xamarin.Forms.Xaml;
 
 namespace Application_Green_Quake.Views.ProfilePage
@@ -8,6 +16,10 @@ namespace Application_Green_Quake.Views.ProfilePage
     {
         int num = 0;
         int badgeState= 0;
+        /** The BadgePopUp Constructor
+        @param number is used to specify which badge it is
+        @param stage is used to specify what stage the badge is in
+        */
         public BadgePopUp(int number, int stage)
         {
             num = number;
@@ -15,7 +27,9 @@ namespace Application_Green_Quake.Views.ProfilePage
             InitializeComponent();
             OnAppearing();
         }
-
+        /** This function is called before the page is displayed. It displays the correct information and badge based on what was passed into the
+         * constructor
+        */
         protected override void OnAppearing()
         {
             

@@ -1,4 +1,12 @@
-﻿using Application_Green_Quake.Models;
+﻿/*! \mainpage The TopTabLeaderBoard View Class
+ * \author Peter Lucan, 4th Year Software Development student at IT Carlow, C00228946, c00228956@itcarlow.ie
+ * \date 28/04/2021
+ * \section desc_sec Description
+ *
+ * Description: This is the TopTabLeaderBoard View Class. This is the class for the leaderboard screen.
+ *
+ */
+using Application_Green_Quake.Models;
 using Firebase.Database;
 using Firebase.Database.Query;
 using Firebase.Storage;
@@ -26,6 +34,7 @@ namespace Application_Green_Quake.Views.LeaderboardPage
             InitializeComponent();
             ObservableCollection<object> countryNameCollection = new ObservableCollection<object>();
 
+            // Add al the options into the filter
             countryNameCollection.Add("All");
             countryNameCollection.Add("Me");
             countryNameCollection.Add("Albania");
@@ -84,13 +93,17 @@ namespace Application_Green_Quake.Views.LeaderboardPage
             auth = DependencyService.Get<IAuth>();
             OnAppearing();
         }
-        protected  override async void OnAppearing()
+        /** This function is called before the page is displayed.
+        */
+        protected override async void OnAppearing()
         {
+            //If All gets selected from the filter then display all the profiles
             if (selectedNation == "All")
             {
                 UserDialogs.Instance.ShowLoading();
                 FirebaseClient firebaseClient = new FirebaseClient("https://application-green-quake-default-rtdb.firebaseio.com/");
 
+                //Save the data into a list and order it by points
                 var list = (await firebaseClient
                       .Child("Points")
                       .OnceAsync<Points>()).Select(item => new Points
@@ -99,6 +112,7 @@ namespace Application_Green_Quake.Views.LeaderboardPage
                           points = item.Object.points,
                       }).ToList().OrderByDescending(s => s.points);
 
+                //Save that data to a second list
                 var list2 = list.Select(item => new LeaderBoard
                 {
                     username = item.username,
@@ -107,6 +121,7 @@ namespace Application_Green_Quake.Views.LeaderboardPage
 
                 int index = 0;
                 string rankIndex = "";
+                // Create a new list and assign an image and the rank based on the index
                 foreach (var i in list2)
                 {
                     index++;
@@ -153,7 +168,7 @@ namespace Application_Green_Quake.Views.LeaderboardPage
                 }
 
                 try
-                {
+                {   //Get entries between specified indexes and dsave them into a list and then display them in the leaderboard.
                     var list3 = list2.Select(item => new LeaderBoard
                     {
                         username = item.username,
@@ -169,7 +184,7 @@ namespace Application_Green_Quake.Views.LeaderboardPage
                 catch (Exception e)
                 {
                     try
-                    {
+                    {   //Get entries between specified indexes and dsave them into a list and then display them in the leaderboard.
                         var list3 = list2.Select(item => new LeaderBoard
                         {
                             username = item.username,
@@ -184,11 +199,12 @@ namespace Application_Green_Quake.Views.LeaderboardPage
                     catch (Exception exception)
                     {
                         min = 0;
-                        await DisplayAlert("Last Page", "You have reached the last leaderboard page.", "Ok");
+                        await DisplayAlert("Last Page", "You have reached the last leader board page.", "Ok");
                     }
                 }
                 UserDialogs.Instance.HideLoading();
             }
+            //If Me gets selected from the filter then only display the users profile
             else if (selectedNation == "Me")
             {
                 UserDialogs.Instance.ShowLoading();
@@ -360,6 +376,7 @@ namespace Application_Green_Quake.Views.LeaderboardPage
 
                 LeaderBoard.ItemsSource = list3;
             }
+            //Stop the loading spinner and set the data.
             UserDialogs.Instance.HideLoading();
             GetData data = new GetData();
             data.SetLvl();
@@ -367,18 +384,23 @@ namespace Application_Green_Quake.Views.LeaderboardPage
             count = 10;
         }
 
+        /** This function displays the correct popup when a profile on the leader board is tapped.
+        */
         private void OnItemTapped (Object sender, ItemTappedEventArgs e)
         {
            
             var dataItem = e.Item as LeaderBoard;
             PopupNavigation.Instance.PushAsync(new LeaderBoardPopUp(dataItem.username, dataItem.points, dataItem.rank, dataItem.image, dataItem.bio));
         }
-
+        /** This function displays the picker when the icon is pressed.
+        */
         private async void ImageClicked(object sender, EventArgs e)
         {
             picker.IsOpen = true;
         }
 
+        /** This function sets the selectedNation variable when a value is selected on the picker and ok is pressed..
+        */
         private async void PickerOnOkButtonClicked(object sender, SelectionChangedEventArgs e)
         {
             if (picker.SelectedItem.ToString() == "All")
@@ -593,12 +615,16 @@ namespace Application_Green_Quake.Views.LeaderboardPage
             OnAppearing();
         }
 
+        /** This function displays the next ten items on the leader board.
+        */
         private void NextPageClicked(object sender, EventArgs e)
         {
             min = min + 10;
             OnAppearing();
         }
 
+        /** This function displays the first page of the leader board again.
+        */
         private void FirstPageClicked(object sender, EventArgs e)
         {
             min = 0;

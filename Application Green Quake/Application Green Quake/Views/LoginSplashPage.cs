@@ -1,4 +1,12 @@
-﻿using Xamarin.Forms;
+﻿/*! \mainpage The LoginSplashPage View Class
+ * \author Peter Lucan, 4th Year Software Development student at IT Carlow, C00228946, c00228956@itcarlow.ie
+ * \date 28/04/2021
+ * \section desc_sec Description
+ *
+ * Description: This is the LoginSplashPage View Class. This class provides the splash screen when a user logs into the applciation.
+ *
+ */
+using Xamarin.Forms;
 
 namespace Application_Green_Quake.Views
 {
@@ -6,10 +14,13 @@ namespace Application_Green_Quake.Views
     {
         Image splashImage;
 
+        /** This function fires when the Login button is clicked. It provides the splash screen and then navigates to the main menu right after.
+        */
         public LoginSplashPage()
         {
             NavigationPage.SetHasNavigationBar(this, false);
 
+            //Set the image for the splash screen
             var sub = new AbsoluteLayout();
             splashImage = new Image
             {
@@ -32,6 +43,7 @@ namespace Application_Green_Quake.Views
         protected override async void OnAppearing()
         {
             base.OnAppearing();
+            //Set the animation
             await splashImage.ScaleTo(0.4, 1100, Easing.Linear);
             await splashImage.ScaleTo(700, 900, Easing.Linear);
             Application.Current.MainPage = new NavigationPage(new MainMenu());

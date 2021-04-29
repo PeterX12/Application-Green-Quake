@@ -1,8 +1,15 @@
-﻿using Application_Green_Quake.Models;
+﻿/*! \mainpage The ReusableBag View Class
+ * \author Peter Lucan, 4th Year Software Development student at IT Carlow, C00228946, c00228956@itcarlow.ie
+ * \date 28/04/2021
+ * \section desc_sec Description
+ *
+ * Description: This is the ReusableBag View Class. This class is the eco action that the user can log.
+ *
+ */
+using Application_Green_Quake.Models;
 using Application_Green_Quake.ViewModels;
 using System;
 using System.Threading.Tasks;
-
 using Xamarin.Forms;
 using Xamarin.Forms.Xaml;
 
@@ -17,6 +24,9 @@ namespace Application_Green_Quake.Views.EcoActions.Shopping
             OnAppearing();
         }
 
+        /** This function creates objects and calls their methods. First the security methods are called and if they return false call the points updating
+         * methods
+        */
         private async void AddPointsClicked(object sender, EventArgs e)
         {
             SecurityMethods checks = new SecurityMethods();
@@ -46,7 +56,9 @@ namespace Application_Green_Quake.Views.EcoActions.Shopping
                 await Navigation.PushAsync(new MainMenu());
             }
         }
-
+        /** This function creates objects and calls their methods. First the security methods are called and if they return false call the points updating
+         * methods
+        */
         protected override void OnAppearing()
         {
             GetData data = new GetData();

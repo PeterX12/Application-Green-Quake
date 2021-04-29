@@ -15,7 +15,9 @@ namespace Application_Green_Quake.Views.EcoActions.Work
             InitializeComponent();
             OnAppearing();
         }
-
+        /** This function creates objects and calls their methods. First the security methods are called and if they return false call the points updating
+         * methods
+        */
         private async void AddPointsClicked(object sender, EventArgs e)
         {
             SecurityMethods checks = new SecurityMethods();
@@ -45,7 +47,9 @@ namespace Application_Green_Quake.Views.EcoActions.Work
                 await Navigation.PushAsync(new MainMenu());
             }
         }
-
+        /** This function creates objects and calls their methods. First the security methods are called and if they return false call the points updating
+         * methods
+        */
         protected override void OnAppearing()
         {
             GetData data = new GetData();

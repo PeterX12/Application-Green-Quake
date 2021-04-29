@@ -1,0 +1,244 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<section xmlns="http://docbook.org/ns/docbook" version="5.0" xmlns:xlink="http://www.w3.org/1999/xlink" xml:id="_classmono_1_1com_1_1microsoft_1_1appcenter_1_1channel_1_1_channel___listener_implementor" xml:lang="en-US">
+<title>mono.com.microsoft.appcenter.channel.Channel_ListenerImplementor Class Reference</title>
+<indexterm><primary>mono.com.microsoft.appcenter.channel.Channel_ListenerImplementor</primary></indexterm>
+<para>Inheritance diagram for mono.com.microsoft.appcenter.channel.Channel_ListenerImplementor:    <informalfigure>
+        <mediaobject>
+            <imageobject>
+                <imagedata width="50%" align="center" valign="middle" scalefit="0" fileref="classmono_1_1com_1_1microsoft_1_1appcenter_1_1channel_1_1_channel___listener_implementor.png"></imagedata>
+            </imageobject>
+        </mediaobject>
+    </informalfigure>
+</para>
+<simplesect>
+    <title>Public Member Functions    </title>
+        <itemizedlist>
+            <listitem><para><link linkend="_classmono_1_1com_1_1microsoft_1_1appcenter_1_1channel_1_1_channel___listener_implementor_1ae7aa19a31bdfea91c29df14f240efc2b">Channel_ListenerImplementor</link> ()</para>
+</listitem>
+            <listitem><para>void <link linkend="_classmono_1_1com_1_1microsoft_1_1appcenter_1_1channel_1_1_channel___listener_implementor_1afe728078d45d923bb97fa2b9b3641e64">onClear</link> (java.lang.String p0)</para>
+</listitem>
+            <listitem><para>void <link linkend="_classmono_1_1com_1_1microsoft_1_1appcenter_1_1channel_1_1_channel___listener_implementor_1a5b120eba975f716f6283b55ced54caa0">onGloballyEnabled</link> (boolean p0)</para>
+</listitem>
+            <listitem><para>void <link linkend="_classmono_1_1com_1_1microsoft_1_1appcenter_1_1channel_1_1_channel___listener_implementor_1acb0c6c0d5c24656f64834646382ef710">onGroupAdded</link> (java.lang.String p0, com.microsoft.appcenter.channel.Channel.GroupListener p1, long p2)</para>
+</listitem>
+            <listitem><para>void <link linkend="_classmono_1_1com_1_1microsoft_1_1appcenter_1_1channel_1_1_channel___listener_implementor_1a70b5688854bc47bb6dbfb352b06ada8d">onGroupRemoved</link> (java.lang.String p0)</para>
+</listitem>
+            <listitem><para>void <link linkend="_classmono_1_1com_1_1microsoft_1_1appcenter_1_1channel_1_1_channel___listener_implementor_1ab06b70e3761a59a37c3a2c4ec6a807de">onPaused</link> (java.lang.String p0, java.lang.String p1)</para>
+</listitem>
+            <listitem><para>void <link linkend="_classmono_1_1com_1_1microsoft_1_1appcenter_1_1channel_1_1_channel___listener_implementor_1a6cc4846ca0abced6fbb68cdbcff53e93">onPreparedLog</link> (com.microsoft.appcenter.ingestion.models.Log p0, java.lang.String p1, int p2)</para>
+</listitem>
+            <listitem><para>void <link linkend="_classmono_1_1com_1_1microsoft_1_1appcenter_1_1channel_1_1_channel___listener_implementor_1ae4572b5e23437d9036581993d366a0f4">onPreparingLog</link> (com.microsoft.appcenter.ingestion.models.Log p0, java.lang.String p1)</para>
+</listitem>
+            <listitem><para>void <link linkend="_classmono_1_1com_1_1microsoft_1_1appcenter_1_1channel_1_1_channel___listener_implementor_1adb9fb45aceda26074cbe7de42f28a28b">onResumed</link> (java.lang.String p0, java.lang.String p1)</para>
+</listitem>
+            <listitem><para>boolean <link linkend="_classmono_1_1com_1_1microsoft_1_1appcenter_1_1channel_1_1_channel___listener_implementor_1af92c0e12e4ad4dcb8e0b4699f2ff7c00">shouldFilter</link> (com.microsoft.appcenter.ingestion.models.Log p0)</para>
+</listitem>
+            <listitem><para>void <link linkend="_classmono_1_1com_1_1microsoft_1_1appcenter_1_1channel_1_1_channel___listener_implementor_1aa929541e1eb6aa0a1a236c66b842a696">monodroidAddReference</link> (java.lang.Object obj)</para>
+</listitem>
+            <listitem><para>void <link linkend="_classmono_1_1com_1_1microsoft_1_1appcenter_1_1channel_1_1_channel___listener_implementor_1a9545c55db185c5212841d2ac282b028b">monodroidClearReferences</link> ()</para>
+</listitem>
+            <listitem><para><link linkend="_classmono_1_1com_1_1microsoft_1_1appcenter_1_1channel_1_1_channel___listener_implementor_1ae7aa19a31bdfea91c29df14f240efc2b">Channel_ListenerImplementor</link> ()</para>
+</listitem>
+            <listitem><para>void <link linkend="_classmono_1_1com_1_1microsoft_1_1appcenter_1_1channel_1_1_channel___listener_implementor_1afe728078d45d923bb97fa2b9b3641e64">onClear</link> (java.lang.String p0)</para>
+</listitem>
+            <listitem><para>void <link linkend="_classmono_1_1com_1_1microsoft_1_1appcenter_1_1channel_1_1_channel___listener_implementor_1a5b120eba975f716f6283b55ced54caa0">onGloballyEnabled</link> (boolean p0)</para>
+</listitem>
+            <listitem><para>void <link linkend="_classmono_1_1com_1_1microsoft_1_1appcenter_1_1channel_1_1_channel___listener_implementor_1acb0c6c0d5c24656f64834646382ef710">onGroupAdded</link> (java.lang.String p0, com.microsoft.appcenter.channel.Channel.GroupListener p1, long p2)</para>
+</listitem>
+            <listitem><para>void <link linkend="_classmono_1_1com_1_1microsoft_1_1appcenter_1_1channel_1_1_channel___listener_implementor_1a70b5688854bc47bb6dbfb352b06ada8d">onGroupRemoved</link> (java.lang.String p0)</para>
+</listitem>
+            <listitem><para>void <link linkend="_classmono_1_1com_1_1microsoft_1_1appcenter_1_1channel_1_1_channel___listener_implementor_1ab06b70e3761a59a37c3a2c4ec6a807de">onPaused</link> (java.lang.String p0, java.lang.String p1)</para>
+</listitem>
+            <listitem><para>void <link linkend="_classmono_1_1com_1_1microsoft_1_1appcenter_1_1channel_1_1_channel___listener_implementor_1a6cc4846ca0abced6fbb68cdbcff53e93">onPreparedLog</link> (com.microsoft.appcenter.ingestion.models.Log p0, java.lang.String p1, int p2)</para>
+</listitem>
+            <listitem><para>void <link linkend="_classmono_1_1com_1_1microsoft_1_1appcenter_1_1channel_1_1_channel___listener_implementor_1ae4572b5e23437d9036581993d366a0f4">onPreparingLog</link> (com.microsoft.appcenter.ingestion.models.Log p0, java.lang.String p1)</para>
+</listitem>
+            <listitem><para>void <link linkend="_classmono_1_1com_1_1microsoft_1_1appcenter_1_1channel_1_1_channel___listener_implementor_1adb9fb45aceda26074cbe7de42f28a28b">onResumed</link> (java.lang.String p0, java.lang.String p1)</para>
+</listitem>
+            <listitem><para>boolean <link linkend="_classmono_1_1com_1_1microsoft_1_1appcenter_1_1channel_1_1_channel___listener_implementor_1af92c0e12e4ad4dcb8e0b4699f2ff7c00">shouldFilter</link> (com.microsoft.appcenter.ingestion.models.Log p0)</para>
+</listitem>
+            <listitem><para>void <link linkend="_classmono_1_1com_1_1microsoft_1_1appcenter_1_1channel_1_1_channel___listener_implementor_1aa929541e1eb6aa0a1a236c66b842a696">monodroidAddReference</link> (java.lang.Object obj)</para>
+</listitem>
+            <listitem><para>void <link linkend="_classmono_1_1com_1_1microsoft_1_1appcenter_1_1channel_1_1_channel___listener_implementor_1a9545c55db185c5212841d2ac282b028b">monodroidClearReferences</link> ()</para>
+</listitem>
+        </itemizedlist>
+</simplesect>
+<simplesect>
+    <title>Static Public Attributes    </title>
+        <itemizedlist>
+            <listitem><para>static final String <link linkend="_classmono_1_1com_1_1microsoft_1_1appcenter_1_1channel_1_1_channel___listener_implementor_1a462ec06eb581ebd63227c9103335208d">__md_methods</link></para>
+</listitem>
+        </itemizedlist>
+</simplesect>
+<section>
+<title>Detailed Description</title>
+<para>
+Definition at line 4 of file Channel_ListenerImplementor.java.</para>
+</section>
+<section>
+<title>Constructor &amp; Destructor Documentation</title>
+<anchor xml:id="_classmono_1_1com_1_1microsoft_1_1appcenter_1_1channel_1_1_channel___listener_implementor_1ae7aa19a31bdfea91c29df14f240efc2b"/>    <section>
+    <title>Channel_ListenerImplementor()<computeroutput>[1/2]</computeroutput></title>
+<indexterm><primary>Channel_ListenerImplementor</primary><secondary>mono.com.microsoft.appcenter.channel.Channel_ListenerImplementor</secondary></indexterm>
+<indexterm><primary>mono.com.microsoft.appcenter.channel.Channel_ListenerImplementor</primary><secondary>Channel_ListenerImplementor</secondary></indexterm>
+<para><computeroutput>mono.com.microsoft.appcenter.channel.Channel_ListenerImplementor.Channel_ListenerImplementor ( )</computeroutput></para><para>
+Definition at line 28 of file Channel_ListenerImplementor.java.</para>
+    </section><anchor xml:id="_classmono_1_1com_1_1microsoft_1_1appcenter_1_1channel_1_1_channel___listener_implementor_1ae7aa19a31bdfea91c29df14f240efc2b"/>    <section>
+    <title>Channel_ListenerImplementor()<computeroutput>[2/2]</computeroutput></title>
+<indexterm><primary>Channel_ListenerImplementor</primary><secondary>mono.com.microsoft.appcenter.channel.Channel_ListenerImplementor</secondary></indexterm>
+<indexterm><primary>mono.com.microsoft.appcenter.channel.Channel_ListenerImplementor</primary><secondary>Channel_ListenerImplementor</secondary></indexterm>
+<para><computeroutput>mono.com.microsoft.appcenter.channel.Channel_ListenerImplementor.Channel_ListenerImplementor ( )</computeroutput></para><para>
+Definition at line 28 of file Channel_ListenerImplementor.java.</para>
+</section>
+</section>
+<section>
+<title>Member Function Documentation</title>
+<anchor xml:id="_classmono_1_1com_1_1microsoft_1_1appcenter_1_1channel_1_1_channel___listener_implementor_1aa929541e1eb6aa0a1a236c66b842a696"/>    <section>
+    <title>monodroidAddReference()<computeroutput>[1/2]</computeroutput></title>
+<indexterm><primary>monodroidAddReference</primary><secondary>mono.com.microsoft.appcenter.channel.Channel_ListenerImplementor</secondary></indexterm>
+<indexterm><primary>mono.com.microsoft.appcenter.channel.Channel_ListenerImplementor</primary><secondary>monodroidAddReference</secondary></indexterm>
+<para><computeroutput>void mono.com.microsoft.appcenter.channel.Channel_ListenerImplementor.monodroidAddReference (java.lang.Object obj)</computeroutput></para><para>
+Definition at line 108 of file Channel_ListenerImplementor.java.</para>
+    </section><anchor xml:id="_classmono_1_1com_1_1microsoft_1_1appcenter_1_1channel_1_1_channel___listener_implementor_1aa929541e1eb6aa0a1a236c66b842a696"/>    <section>
+    <title>monodroidAddReference()<computeroutput>[2/2]</computeroutput></title>
+<indexterm><primary>monodroidAddReference</primary><secondary>mono.com.microsoft.appcenter.channel.Channel_ListenerImplementor</secondary></indexterm>
+<indexterm><primary>mono.com.microsoft.appcenter.channel.Channel_ListenerImplementor</primary><secondary>monodroidAddReference</secondary></indexterm>
+<para><computeroutput>void mono.com.microsoft.appcenter.channel.Channel_ListenerImplementor.monodroidAddReference (java.lang.Object obj)</computeroutput></para><para>
+Definition at line 108 of file Channel_ListenerImplementor.java.</para>
+    </section><anchor xml:id="_classmono_1_1com_1_1microsoft_1_1appcenter_1_1channel_1_1_channel___listener_implementor_1a9545c55db185c5212841d2ac282b028b"/>    <section>
+    <title>monodroidClearReferences()<computeroutput>[1/2]</computeroutput></title>
+<indexterm><primary>monodroidClearReferences</primary><secondary>mono.com.microsoft.appcenter.channel.Channel_ListenerImplementor</secondary></indexterm>
+<indexterm><primary>mono.com.microsoft.appcenter.channel.Channel_ListenerImplementor</primary><secondary>monodroidClearReferences</secondary></indexterm>
+<para><computeroutput>void mono.com.microsoft.appcenter.channel.Channel_ListenerImplementor.monodroidClearReferences ( )</computeroutput></para><para>
+Definition at line 115 of file Channel_ListenerImplementor.java.</para>
+    </section><anchor xml:id="_classmono_1_1com_1_1microsoft_1_1appcenter_1_1channel_1_1_channel___listener_implementor_1a9545c55db185c5212841d2ac282b028b"/>    <section>
+    <title>monodroidClearReferences()<computeroutput>[2/2]</computeroutput></title>
+<indexterm><primary>monodroidClearReferences</primary><secondary>mono.com.microsoft.appcenter.channel.Channel_ListenerImplementor</secondary></indexterm>
+<indexterm><primary>mono.com.microsoft.appcenter.channel.Channel_ListenerImplementor</primary><secondary>monodroidClearReferences</secondary></indexterm>
+<para><computeroutput>void mono.com.microsoft.appcenter.channel.Channel_ListenerImplementor.monodroidClearReferences ( )</computeroutput></para><para>
+Definition at line 115 of file Channel_ListenerImplementor.java.</para>
+    </section><anchor xml:id="_classmono_1_1com_1_1microsoft_1_1appcenter_1_1channel_1_1_channel___listener_implementor_1afe728078d45d923bb97fa2b9b3641e64"/>    <section>
+    <title>onClear()<computeroutput>[1/2]</computeroutput></title>
+<indexterm><primary>onClear</primary><secondary>mono.com.microsoft.appcenter.channel.Channel_ListenerImplementor</secondary></indexterm>
+<indexterm><primary>mono.com.microsoft.appcenter.channel.Channel_ListenerImplementor</primary><secondary>onClear</secondary></indexterm>
+<para><computeroutput>void mono.com.microsoft.appcenter.channel.Channel_ListenerImplementor.onClear (java.lang.String p0)</computeroutput></para><para>
+Definition at line 36 of file Channel_ListenerImplementor.java.</para>
+    </section><anchor xml:id="_classmono_1_1com_1_1microsoft_1_1appcenter_1_1channel_1_1_channel___listener_implementor_1afe728078d45d923bb97fa2b9b3641e64"/>    <section>
+    <title>onClear()<computeroutput>[2/2]</computeroutput></title>
+<indexterm><primary>onClear</primary><secondary>mono.com.microsoft.appcenter.channel.Channel_ListenerImplementor</secondary></indexterm>
+<indexterm><primary>mono.com.microsoft.appcenter.channel.Channel_ListenerImplementor</primary><secondary>onClear</secondary></indexterm>
+<para><computeroutput>void mono.com.microsoft.appcenter.channel.Channel_ListenerImplementor.onClear (java.lang.String p0)</computeroutput></para><para>
+Definition at line 36 of file Channel_ListenerImplementor.java.</para>
+    </section><anchor xml:id="_classmono_1_1com_1_1microsoft_1_1appcenter_1_1channel_1_1_channel___listener_implementor_1a5b120eba975f716f6283b55ced54caa0"/>    <section>
+    <title>onGloballyEnabled()<computeroutput>[1/2]</computeroutput></title>
+<indexterm><primary>onGloballyEnabled</primary><secondary>mono.com.microsoft.appcenter.channel.Channel_ListenerImplementor</secondary></indexterm>
+<indexterm><primary>mono.com.microsoft.appcenter.channel.Channel_ListenerImplementor</primary><secondary>onGloballyEnabled</secondary></indexterm>
+<para><computeroutput>void mono.com.microsoft.appcenter.channel.Channel_ListenerImplementor.onGloballyEnabled (boolean p0)</computeroutput></para><para>
+Definition at line 44 of file Channel_ListenerImplementor.java.</para>
+    </section><anchor xml:id="_classmono_1_1com_1_1microsoft_1_1appcenter_1_1channel_1_1_channel___listener_implementor_1a5b120eba975f716f6283b55ced54caa0"/>    <section>
+    <title>onGloballyEnabled()<computeroutput>[2/2]</computeroutput></title>
+<indexterm><primary>onGloballyEnabled</primary><secondary>mono.com.microsoft.appcenter.channel.Channel_ListenerImplementor</secondary></indexterm>
+<indexterm><primary>mono.com.microsoft.appcenter.channel.Channel_ListenerImplementor</primary><secondary>onGloballyEnabled</secondary></indexterm>
+<para><computeroutput>void mono.com.microsoft.appcenter.channel.Channel_ListenerImplementor.onGloballyEnabled (boolean p0)</computeroutput></para><para>
+Definition at line 44 of file Channel_ListenerImplementor.java.</para>
+    </section><anchor xml:id="_classmono_1_1com_1_1microsoft_1_1appcenter_1_1channel_1_1_channel___listener_implementor_1acb0c6c0d5c24656f64834646382ef710"/>    <section>
+    <title>onGroupAdded()<computeroutput>[1/2]</computeroutput></title>
+<indexterm><primary>onGroupAdded</primary><secondary>mono.com.microsoft.appcenter.channel.Channel_ListenerImplementor</secondary></indexterm>
+<indexterm><primary>mono.com.microsoft.appcenter.channel.Channel_ListenerImplementor</primary><secondary>onGroupAdded</secondary></indexterm>
+<para><computeroutput>void mono.com.microsoft.appcenter.channel.Channel_ListenerImplementor.onGroupAdded (java.lang.String p0, com.microsoft.appcenter.channel.Channel.GroupListener p1, long p2)</computeroutput></para><para>
+Definition at line 52 of file Channel_ListenerImplementor.java.</para>
+    </section><anchor xml:id="_classmono_1_1com_1_1microsoft_1_1appcenter_1_1channel_1_1_channel___listener_implementor_1acb0c6c0d5c24656f64834646382ef710"/>    <section>
+    <title>onGroupAdded()<computeroutput>[2/2]</computeroutput></title>
+<indexterm><primary>onGroupAdded</primary><secondary>mono.com.microsoft.appcenter.channel.Channel_ListenerImplementor</secondary></indexterm>
+<indexterm><primary>mono.com.microsoft.appcenter.channel.Channel_ListenerImplementor</primary><secondary>onGroupAdded</secondary></indexterm>
+<para><computeroutput>void mono.com.microsoft.appcenter.channel.Channel_ListenerImplementor.onGroupAdded (java.lang.String p0, com.microsoft.appcenter.channel.Channel.GroupListener p1, long p2)</computeroutput></para><para>
+Definition at line 52 of file Channel_ListenerImplementor.java.</para>
+    </section><anchor xml:id="_classmono_1_1com_1_1microsoft_1_1appcenter_1_1channel_1_1_channel___listener_implementor_1a70b5688854bc47bb6dbfb352b06ada8d"/>    <section>
+    <title>onGroupRemoved()<computeroutput>[1/2]</computeroutput></title>
+<indexterm><primary>onGroupRemoved</primary><secondary>mono.com.microsoft.appcenter.channel.Channel_ListenerImplementor</secondary></indexterm>
+<indexterm><primary>mono.com.microsoft.appcenter.channel.Channel_ListenerImplementor</primary><secondary>onGroupRemoved</secondary></indexterm>
+<para><computeroutput>void mono.com.microsoft.appcenter.channel.Channel_ListenerImplementor.onGroupRemoved (java.lang.String p0)</computeroutput></para><para>
+Definition at line 60 of file Channel_ListenerImplementor.java.</para>
+    </section><anchor xml:id="_classmono_1_1com_1_1microsoft_1_1appcenter_1_1channel_1_1_channel___listener_implementor_1a70b5688854bc47bb6dbfb352b06ada8d"/>    <section>
+    <title>onGroupRemoved()<computeroutput>[2/2]</computeroutput></title>
+<indexterm><primary>onGroupRemoved</primary><secondary>mono.com.microsoft.appcenter.channel.Channel_ListenerImplementor</secondary></indexterm>
+<indexterm><primary>mono.com.microsoft.appcenter.channel.Channel_ListenerImplementor</primary><secondary>onGroupRemoved</secondary></indexterm>
+<para><computeroutput>void mono.com.microsoft.appcenter.channel.Channel_ListenerImplementor.onGroupRemoved (java.lang.String p0)</computeroutput></para><para>
+Definition at line 60 of file Channel_ListenerImplementor.java.</para>
+    </section><anchor xml:id="_classmono_1_1com_1_1microsoft_1_1appcenter_1_1channel_1_1_channel___listener_implementor_1ab06b70e3761a59a37c3a2c4ec6a807de"/>    <section>
+    <title>onPaused()<computeroutput>[1/2]</computeroutput></title>
+<indexterm><primary>onPaused</primary><secondary>mono.com.microsoft.appcenter.channel.Channel_ListenerImplementor</secondary></indexterm>
+<indexterm><primary>mono.com.microsoft.appcenter.channel.Channel_ListenerImplementor</primary><secondary>onPaused</secondary></indexterm>
+<para><computeroutput>void mono.com.microsoft.appcenter.channel.Channel_ListenerImplementor.onPaused (java.lang.String p0, java.lang.String p1)</computeroutput></para><para>
+Definition at line 68 of file Channel_ListenerImplementor.java.</para>
+    </section><anchor xml:id="_classmono_1_1com_1_1microsoft_1_1appcenter_1_1channel_1_1_channel___listener_implementor_1ab06b70e3761a59a37c3a2c4ec6a807de"/>    <section>
+    <title>onPaused()<computeroutput>[2/2]</computeroutput></title>
+<indexterm><primary>onPaused</primary><secondary>mono.com.microsoft.appcenter.channel.Channel_ListenerImplementor</secondary></indexterm>
+<indexterm><primary>mono.com.microsoft.appcenter.channel.Channel_ListenerImplementor</primary><secondary>onPaused</secondary></indexterm>
+<para><computeroutput>void mono.com.microsoft.appcenter.channel.Channel_ListenerImplementor.onPaused (java.lang.String p0, java.lang.String p1)</computeroutput></para><para>
+Definition at line 68 of file Channel_ListenerImplementor.java.</para>
+    </section><anchor xml:id="_classmono_1_1com_1_1microsoft_1_1appcenter_1_1channel_1_1_channel___listener_implementor_1a6cc4846ca0abced6fbb68cdbcff53e93"/>    <section>
+    <title>onPreparedLog()<computeroutput>[1/2]</computeroutput></title>
+<indexterm><primary>onPreparedLog</primary><secondary>mono.com.microsoft.appcenter.channel.Channel_ListenerImplementor</secondary></indexterm>
+<indexterm><primary>mono.com.microsoft.appcenter.channel.Channel_ListenerImplementor</primary><secondary>onPreparedLog</secondary></indexterm>
+<para><computeroutput>void mono.com.microsoft.appcenter.channel.Channel_ListenerImplementor.onPreparedLog (com.microsoft.appcenter.ingestion.models.Log p0, java.lang.String p1, int p2)</computeroutput></para><para>
+Definition at line 76 of file Channel_ListenerImplementor.java.</para>
+    </section><anchor xml:id="_classmono_1_1com_1_1microsoft_1_1appcenter_1_1channel_1_1_channel___listener_implementor_1a6cc4846ca0abced6fbb68cdbcff53e93"/>    <section>
+    <title>onPreparedLog()<computeroutput>[2/2]</computeroutput></title>
+<indexterm><primary>onPreparedLog</primary><secondary>mono.com.microsoft.appcenter.channel.Channel_ListenerImplementor</secondary></indexterm>
+<indexterm><primary>mono.com.microsoft.appcenter.channel.Channel_ListenerImplementor</primary><secondary>onPreparedLog</secondary></indexterm>
+<para><computeroutput>void mono.com.microsoft.appcenter.channel.Channel_ListenerImplementor.onPreparedLog (com.microsoft.appcenter.ingestion.models.Log p0, java.lang.String p1, int p2)</computeroutput></para><para>
+Definition at line 76 of file Channel_ListenerImplementor.java.</para>
+    </section><anchor xml:id="_classmono_1_1com_1_1microsoft_1_1appcenter_1_1channel_1_1_channel___listener_implementor_1ae4572b5e23437d9036581993d366a0f4"/>    <section>
+    <title>onPreparingLog()<computeroutput>[1/2]</computeroutput></title>
+<indexterm><primary>onPreparingLog</primary><secondary>mono.com.microsoft.appcenter.channel.Channel_ListenerImplementor</secondary></indexterm>
+<indexterm><primary>mono.com.microsoft.appcenter.channel.Channel_ListenerImplementor</primary><secondary>onPreparingLog</secondary></indexterm>
+<para><computeroutput>void mono.com.microsoft.appcenter.channel.Channel_ListenerImplementor.onPreparingLog (com.microsoft.appcenter.ingestion.models.Log p0, java.lang.String p1)</computeroutput></para><para>
+Definition at line 84 of file Channel_ListenerImplementor.java.</para>
+    </section><anchor xml:id="_classmono_1_1com_1_1microsoft_1_1appcenter_1_1channel_1_1_channel___listener_implementor_1ae4572b5e23437d9036581993d366a0f4"/>    <section>
+    <title>onPreparingLog()<computeroutput>[2/2]</computeroutput></title>
+<indexterm><primary>onPreparingLog</primary><secondary>mono.com.microsoft.appcenter.channel.Channel_ListenerImplementor</secondary></indexterm>
+<indexterm><primary>mono.com.microsoft.appcenter.channel.Channel_ListenerImplementor</primary><secondary>onPreparingLog</secondary></indexterm>
+<para><computeroutput>void mono.com.microsoft.appcenter.channel.Channel_ListenerImplementor.onPreparingLog (com.microsoft.appcenter.ingestion.models.Log p0, java.lang.String p1)</computeroutput></para><para>
+Definition at line 84 of file Channel_ListenerImplementor.java.</para>
+    </section><anchor xml:id="_classmono_1_1com_1_1microsoft_1_1appcenter_1_1channel_1_1_channel___listener_implementor_1adb9fb45aceda26074cbe7de42f28a28b"/>    <section>
+    <title>onResumed()<computeroutput>[1/2]</computeroutput></title>
+<indexterm><primary>onResumed</primary><secondary>mono.com.microsoft.appcenter.channel.Channel_ListenerImplementor</secondary></indexterm>
+<indexterm><primary>mono.com.microsoft.appcenter.channel.Channel_ListenerImplementor</primary><secondary>onResumed</secondary></indexterm>
+<para><computeroutput>void mono.com.microsoft.appcenter.channel.Channel_ListenerImplementor.onResumed (java.lang.String p0, java.lang.String p1)</computeroutput></para><para>
+Definition at line 92 of file Channel_ListenerImplementor.java.</para>
+    </section><anchor xml:id="_classmono_1_1com_1_1microsoft_1_1appcenter_1_1channel_1_1_channel___listener_implementor_1adb9fb45aceda26074cbe7de42f28a28b"/>    <section>
+    <title>onResumed()<computeroutput>[2/2]</computeroutput></title>
+<indexterm><primary>onResumed</primary><secondary>mono.com.microsoft.appcenter.channel.Channel_ListenerImplementor</secondary></indexterm>
+<indexterm><primary>mono.com.microsoft.appcenter.channel.Channel_ListenerImplementor</primary><secondary>onResumed</secondary></indexterm>
+<para><computeroutput>void mono.com.microsoft.appcenter.channel.Channel_ListenerImplementor.onResumed (java.lang.String p0, java.lang.String p1)</computeroutput></para><para>
+Definition at line 92 of file Channel_ListenerImplementor.java.</para>
+    </section><anchor xml:id="_classmono_1_1com_1_1microsoft_1_1appcenter_1_1channel_1_1_channel___listener_implementor_1af92c0e12e4ad4dcb8e0b4699f2ff7c00"/>    <section>
+    <title>shouldFilter()<computeroutput>[1/2]</computeroutput></title>
+<indexterm><primary>shouldFilter</primary><secondary>mono.com.microsoft.appcenter.channel.Channel_ListenerImplementor</secondary></indexterm>
+<indexterm><primary>mono.com.microsoft.appcenter.channel.Channel_ListenerImplementor</primary><secondary>shouldFilter</secondary></indexterm>
+<para><computeroutput>boolean mono.com.microsoft.appcenter.channel.Channel_ListenerImplementor.shouldFilter (com.microsoft.appcenter.ingestion.models.Log p0)</computeroutput></para><para>
+Definition at line 100 of file Channel_ListenerImplementor.java.</para>
+    </section><anchor xml:id="_classmono_1_1com_1_1microsoft_1_1appcenter_1_1channel_1_1_channel___listener_implementor_1af92c0e12e4ad4dcb8e0b4699f2ff7c00"/>    <section>
+    <title>shouldFilter()<computeroutput>[2/2]</computeroutput></title>
+<indexterm><primary>shouldFilter</primary><secondary>mono.com.microsoft.appcenter.channel.Channel_ListenerImplementor</secondary></indexterm>
+<indexterm><primary>mono.com.microsoft.appcenter.channel.Channel_ListenerImplementor</primary><secondary>shouldFilter</secondary></indexterm>
+<para><computeroutput>boolean mono.com.microsoft.appcenter.channel.Channel_ListenerImplementor.shouldFilter (com.microsoft.appcenter.ingestion.models.Log p0)</computeroutput></para><para>
+Definition at line 100 of file Channel_ListenerImplementor.java.</para>
+</section>
+</section>
+<section>
+<title>Member Data Documentation</title>
+<anchor xml:id="_classmono_1_1com_1_1microsoft_1_1appcenter_1_1channel_1_1_channel___listener_implementor_1a462ec06eb581ebd63227c9103335208d"/>    <section>
+    <title>__md_methods</title>
+<indexterm><primary>__md_methods</primary><secondary>mono.com.microsoft.appcenter.channel.Channel_ListenerImplementor</secondary></indexterm>
+<indexterm><primary>mono.com.microsoft.appcenter.channel.Channel_ListenerImplementor</primary><secondary>__md_methods</secondary></indexterm>
+<para><computeroutput>static final String mono.com.microsoft.appcenter.channel.Channel_ListenerImplementor.__md_methods<computeroutput>[static]</computeroutput></computeroutput></para>
+<para>@hide </para>
+<para>
+Definition at line 11 of file Channel_ListenerImplementor.java.</para>
+</section>
+<para>
+The documentation for this class was generated from the following file:</para>
+Application Green Quake.Android/obj/Debug/110/android/src/mono/com/microsoft/appcenter/channel/<link linkend="__debug_2110_2android_2src_2mono_2com_2microsoft_2appcenter_2channel_2_channel___listener_implementor_8java">Channel_ListenerImplementor.java</link></section>
+</section>

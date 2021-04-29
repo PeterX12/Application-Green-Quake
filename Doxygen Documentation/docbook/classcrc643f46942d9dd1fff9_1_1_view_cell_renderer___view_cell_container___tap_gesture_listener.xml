@@ -1,0 +1,340 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<section xmlns="http://docbook.org/ns/docbook" version="5.0" xmlns:xlink="http://www.w3.org/1999/xlink" xml:id="_classcrc643f46942d9dd1fff9_1_1_view_cell_renderer___view_cell_container___tap_gesture_listener" xml:lang="en-US">
+<title>crc643f46942d9dd1fff9.ViewCellRenderer_ViewCellContainer_TapGestureListener Class Reference</title>
+<indexterm><primary>crc643f46942d9dd1fff9.ViewCellRenderer_ViewCellContainer_TapGestureListener</primary></indexterm>
+<para>Inheritance diagram for crc643f46942d9dd1fff9.ViewCellRenderer_ViewCellContainer_TapGestureListener:    <informalfigure>
+        <mediaobject>
+            <imageobject>
+                <imagedata width="50%" align="center" valign="middle" scalefit="0" fileref="classcrc643f46942d9dd1fff9_1_1_view_cell_renderer___view_cell_container___tap_gesture_listener.png"></imagedata>
+            </imageobject>
+        </mediaobject>
+    </informalfigure>
+</para>
+<simplesect>
+    <title>Public Member Functions    </title>
+        <itemizedlist>
+            <listitem><para><link linkend="_classcrc643f46942d9dd1fff9_1_1_view_cell_renderer___view_cell_container___tap_gesture_listener_1ad090c50e5388a6d6353549f24adf325a">ViewCellRenderer_ViewCellContainer_TapGestureListener</link> ()</para>
+</listitem>
+            <listitem><para>boolean <link linkend="_classcrc643f46942d9dd1fff9_1_1_view_cell_renderer___view_cell_container___tap_gesture_listener_1a38dcc77b036f5d0f7b4b3befa815e298">onDown</link> (android.view.MotionEvent p0)</para>
+</listitem>
+            <listitem><para>boolean <link linkend="_classcrc643f46942d9dd1fff9_1_1_view_cell_renderer___view_cell_container___tap_gesture_listener_1a0ee7baa19eab2d48d97d9663461dbfb2">onFling</link> (android.view.MotionEvent p0, android.view.MotionEvent p1, float p2, float p3)</para>
+</listitem>
+            <listitem><para>void <link linkend="_classcrc643f46942d9dd1fff9_1_1_view_cell_renderer___view_cell_container___tap_gesture_listener_1a2d01b64f02be82c7b4b6334eb2b7d1a2">onLongPress</link> (android.view.MotionEvent p0)</para>
+</listitem>
+            <listitem><para>boolean <link linkend="_classcrc643f46942d9dd1fff9_1_1_view_cell_renderer___view_cell_container___tap_gesture_listener_1aeadd21c86c2e81c3e12d53de43784e2f">onScroll</link> (android.view.MotionEvent p0, android.view.MotionEvent p1, float p2, float p3)</para>
+</listitem>
+            <listitem><para>void <link linkend="_classcrc643f46942d9dd1fff9_1_1_view_cell_renderer___view_cell_container___tap_gesture_listener_1aeb10f110472090777719f9e1665b663a">onShowPress</link> (android.view.MotionEvent p0)</para>
+</listitem>
+            <listitem><para>boolean <link linkend="_classcrc643f46942d9dd1fff9_1_1_view_cell_renderer___view_cell_container___tap_gesture_listener_1a5206f11e9e597587ecb7902593c8cf2f">onSingleTapUp</link> (android.view.MotionEvent p0)</para>
+</listitem>
+            <listitem><para>void <link linkend="_classcrc643f46942d9dd1fff9_1_1_view_cell_renderer___view_cell_container___tap_gesture_listener_1af9cf680f0584c3d09c6a4a63766717d5">monodroidAddReference</link> (java.lang.Object obj)</para>
+</listitem>
+            <listitem><para>void <link linkend="_classcrc643f46942d9dd1fff9_1_1_view_cell_renderer___view_cell_container___tap_gesture_listener_1ae29a603b769baa8367900bce4c66c0c4">monodroidClearReferences</link> ()</para>
+</listitem>
+            <listitem><para><link linkend="_classcrc643f46942d9dd1fff9_1_1_view_cell_renderer___view_cell_container___tap_gesture_listener_1ad090c50e5388a6d6353549f24adf325a">ViewCellRenderer_ViewCellContainer_TapGestureListener</link> ()</para>
+</listitem>
+            <listitem><para>boolean <link linkend="_classcrc643f46942d9dd1fff9_1_1_view_cell_renderer___view_cell_container___tap_gesture_listener_1a38dcc77b036f5d0f7b4b3befa815e298">onDown</link> (android.view.MotionEvent p0)</para>
+</listitem>
+            <listitem><para>boolean <link linkend="_classcrc643f46942d9dd1fff9_1_1_view_cell_renderer___view_cell_container___tap_gesture_listener_1a0ee7baa19eab2d48d97d9663461dbfb2">onFling</link> (android.view.MotionEvent p0, android.view.MotionEvent p1, float p2, float p3)</para>
+</listitem>
+            <listitem><para>void <link linkend="_classcrc643f46942d9dd1fff9_1_1_view_cell_renderer___view_cell_container___tap_gesture_listener_1a2d01b64f02be82c7b4b6334eb2b7d1a2">onLongPress</link> (android.view.MotionEvent p0)</para>
+</listitem>
+            <listitem><para>boolean <link linkend="_classcrc643f46942d9dd1fff9_1_1_view_cell_renderer___view_cell_container___tap_gesture_listener_1aeadd21c86c2e81c3e12d53de43784e2f">onScroll</link> (android.view.MotionEvent p0, android.view.MotionEvent p1, float p2, float p3)</para>
+</listitem>
+            <listitem><para>void <link linkend="_classcrc643f46942d9dd1fff9_1_1_view_cell_renderer___view_cell_container___tap_gesture_listener_1aeb10f110472090777719f9e1665b663a">onShowPress</link> (android.view.MotionEvent p0)</para>
+</listitem>
+            <listitem><para>boolean <link linkend="_classcrc643f46942d9dd1fff9_1_1_view_cell_renderer___view_cell_container___tap_gesture_listener_1a5206f11e9e597587ecb7902593c8cf2f">onSingleTapUp</link> (android.view.MotionEvent p0)</para>
+</listitem>
+            <listitem><para>void <link linkend="_classcrc643f46942d9dd1fff9_1_1_view_cell_renderer___view_cell_container___tap_gesture_listener_1af9cf680f0584c3d09c6a4a63766717d5">monodroidAddReference</link> (java.lang.Object obj)</para>
+</listitem>
+            <listitem><para>void <link linkend="_classcrc643f46942d9dd1fff9_1_1_view_cell_renderer___view_cell_container___tap_gesture_listener_1ae29a603b769baa8367900bce4c66c0c4">monodroidClearReferences</link> ()</para>
+</listitem>
+            <listitem><para><link linkend="_classcrc643f46942d9dd1fff9_1_1_view_cell_renderer___view_cell_container___tap_gesture_listener_1ad090c50e5388a6d6353549f24adf325a">ViewCellRenderer_ViewCellContainer_TapGestureListener</link> ()</para>
+</listitem>
+            <listitem><para>boolean <link linkend="_classcrc643f46942d9dd1fff9_1_1_view_cell_renderer___view_cell_container___tap_gesture_listener_1a38dcc77b036f5d0f7b4b3befa815e298">onDown</link> (android.view.MotionEvent p0)</para>
+</listitem>
+            <listitem><para>boolean <link linkend="_classcrc643f46942d9dd1fff9_1_1_view_cell_renderer___view_cell_container___tap_gesture_listener_1a0ee7baa19eab2d48d97d9663461dbfb2">onFling</link> (android.view.MotionEvent p0, android.view.MotionEvent p1, float p2, float p3)</para>
+</listitem>
+            <listitem><para>void <link linkend="_classcrc643f46942d9dd1fff9_1_1_view_cell_renderer___view_cell_container___tap_gesture_listener_1a2d01b64f02be82c7b4b6334eb2b7d1a2">onLongPress</link> (android.view.MotionEvent p0)</para>
+</listitem>
+            <listitem><para>boolean <link linkend="_classcrc643f46942d9dd1fff9_1_1_view_cell_renderer___view_cell_container___tap_gesture_listener_1aeadd21c86c2e81c3e12d53de43784e2f">onScroll</link> (android.view.MotionEvent p0, android.view.MotionEvent p1, float p2, float p3)</para>
+</listitem>
+            <listitem><para>void <link linkend="_classcrc643f46942d9dd1fff9_1_1_view_cell_renderer___view_cell_container___tap_gesture_listener_1aeb10f110472090777719f9e1665b663a">onShowPress</link> (android.view.MotionEvent p0)</para>
+</listitem>
+            <listitem><para>boolean <link linkend="_classcrc643f46942d9dd1fff9_1_1_view_cell_renderer___view_cell_container___tap_gesture_listener_1a5206f11e9e597587ecb7902593c8cf2f">onSingleTapUp</link> (android.view.MotionEvent p0)</para>
+</listitem>
+            <listitem><para>void <link linkend="_classcrc643f46942d9dd1fff9_1_1_view_cell_renderer___view_cell_container___tap_gesture_listener_1af9cf680f0584c3d09c6a4a63766717d5">monodroidAddReference</link> (java.lang.Object obj)</para>
+</listitem>
+            <listitem><para>void <link linkend="_classcrc643f46942d9dd1fff9_1_1_view_cell_renderer___view_cell_container___tap_gesture_listener_1ae29a603b769baa8367900bce4c66c0c4">monodroidClearReferences</link> ()</para>
+</listitem>
+            <listitem><para><link linkend="_classcrc643f46942d9dd1fff9_1_1_view_cell_renderer___view_cell_container___tap_gesture_listener_1ad090c50e5388a6d6353549f24adf325a">ViewCellRenderer_ViewCellContainer_TapGestureListener</link> ()</para>
+</listitem>
+            <listitem><para>boolean <link linkend="_classcrc643f46942d9dd1fff9_1_1_view_cell_renderer___view_cell_container___tap_gesture_listener_1a38dcc77b036f5d0f7b4b3befa815e298">onDown</link> (android.view.MotionEvent p0)</para>
+</listitem>
+            <listitem><para>boolean <link linkend="_classcrc643f46942d9dd1fff9_1_1_view_cell_renderer___view_cell_container___tap_gesture_listener_1a0ee7baa19eab2d48d97d9663461dbfb2">onFling</link> (android.view.MotionEvent p0, android.view.MotionEvent p1, float p2, float p3)</para>
+</listitem>
+            <listitem><para>void <link linkend="_classcrc643f46942d9dd1fff9_1_1_view_cell_renderer___view_cell_container___tap_gesture_listener_1a2d01b64f02be82c7b4b6334eb2b7d1a2">onLongPress</link> (android.view.MotionEvent p0)</para>
+</listitem>
+            <listitem><para>boolean <link linkend="_classcrc643f46942d9dd1fff9_1_1_view_cell_renderer___view_cell_container___tap_gesture_listener_1aeadd21c86c2e81c3e12d53de43784e2f">onScroll</link> (android.view.MotionEvent p0, android.view.MotionEvent p1, float p2, float p3)</para>
+</listitem>
+            <listitem><para>void <link linkend="_classcrc643f46942d9dd1fff9_1_1_view_cell_renderer___view_cell_container___tap_gesture_listener_1aeb10f110472090777719f9e1665b663a">onShowPress</link> (android.view.MotionEvent p0)</para>
+</listitem>
+            <listitem><para>boolean <link linkend="_classcrc643f46942d9dd1fff9_1_1_view_cell_renderer___view_cell_container___tap_gesture_listener_1a5206f11e9e597587ecb7902593c8cf2f">onSingleTapUp</link> (android.view.MotionEvent p0)</para>
+</listitem>
+            <listitem><para>void <link linkend="_classcrc643f46942d9dd1fff9_1_1_view_cell_renderer___view_cell_container___tap_gesture_listener_1af9cf680f0584c3d09c6a4a63766717d5">monodroidAddReference</link> (java.lang.Object obj)</para>
+</listitem>
+            <listitem><para>void <link linkend="_classcrc643f46942d9dd1fff9_1_1_view_cell_renderer___view_cell_container___tap_gesture_listener_1ae29a603b769baa8367900bce4c66c0c4">monodroidClearReferences</link> ()</para>
+</listitem>
+        </itemizedlist>
+</simplesect>
+<simplesect>
+    <title>Static Public Attributes    </title>
+        <itemizedlist>
+            <listitem><para>static final String <link linkend="_classcrc643f46942d9dd1fff9_1_1_view_cell_renderer___view_cell_container___tap_gesture_listener_1a653b8d1b31355bf468cc1652cda51ff8">__md_methods</link></para>
+</listitem>
+        </itemizedlist>
+</simplesect>
+<section>
+<title>Detailed Description</title>
+<para>
+Definition at line 4 of file ViewCellRenderer_ViewCellContainer_TapGestureListener.java.</para>
+</section>
+<section>
+<title>Constructor &amp; Destructor Documentation</title>
+<anchor xml:id="_classcrc643f46942d9dd1fff9_1_1_view_cell_renderer___view_cell_container___tap_gesture_listener_1ad090c50e5388a6d6353549f24adf325a"/>    <section>
+    <title>ViewCellRenderer_ViewCellContainer_TapGestureListener()<computeroutput>[1/4]</computeroutput></title>
+<indexterm><primary>ViewCellRenderer_ViewCellContainer_TapGestureListener</primary><secondary>crc643f46942d9dd1fff9.ViewCellRenderer_ViewCellContainer_TapGestureListener</secondary></indexterm>
+<indexterm><primary>crc643f46942d9dd1fff9.ViewCellRenderer_ViewCellContainer_TapGestureListener</primary><secondary>ViewCellRenderer_ViewCellContainer_TapGestureListener</secondary></indexterm>
+<para><computeroutput>crc643f46942d9dd1fff9.ViewCellRenderer_ViewCellContainer_TapGestureListener.ViewCellRenderer_ViewCellContainer_TapGestureListener ( )</computeroutput></para><para>
+Definition at line 25 of file ViewCellRenderer_ViewCellContainer_TapGestureListener.java.</para>
+    </section><anchor xml:id="_classcrc643f46942d9dd1fff9_1_1_view_cell_renderer___view_cell_container___tap_gesture_listener_1ad090c50e5388a6d6353549f24adf325a"/>    <section>
+    <title>ViewCellRenderer_ViewCellContainer_TapGestureListener()<computeroutput>[2/4]</computeroutput></title>
+<indexterm><primary>ViewCellRenderer_ViewCellContainer_TapGestureListener</primary><secondary>crc643f46942d9dd1fff9.ViewCellRenderer_ViewCellContainer_TapGestureListener</secondary></indexterm>
+<indexterm><primary>crc643f46942d9dd1fff9.ViewCellRenderer_ViewCellContainer_TapGestureListener</primary><secondary>ViewCellRenderer_ViewCellContainer_TapGestureListener</secondary></indexterm>
+<para><computeroutput>crc643f46942d9dd1fff9.ViewCellRenderer_ViewCellContainer_TapGestureListener.ViewCellRenderer_ViewCellContainer_TapGestureListener ( )</computeroutput></para><para>
+Definition at line 25 of file ViewCellRenderer_ViewCellContainer_TapGestureListener.java.</para>
+    </section><anchor xml:id="_classcrc643f46942d9dd1fff9_1_1_view_cell_renderer___view_cell_container___tap_gesture_listener_1ad090c50e5388a6d6353549f24adf325a"/>    <section>
+    <title>ViewCellRenderer_ViewCellContainer_TapGestureListener()<computeroutput>[3/4]</computeroutput></title>
+<indexterm><primary>ViewCellRenderer_ViewCellContainer_TapGestureListener</primary><secondary>crc643f46942d9dd1fff9.ViewCellRenderer_ViewCellContainer_TapGestureListener</secondary></indexterm>
+<indexterm><primary>crc643f46942d9dd1fff9.ViewCellRenderer_ViewCellContainer_TapGestureListener</primary><secondary>ViewCellRenderer_ViewCellContainer_TapGestureListener</secondary></indexterm>
+<para><computeroutput>crc643f46942d9dd1fff9.ViewCellRenderer_ViewCellContainer_TapGestureListener.ViewCellRenderer_ViewCellContainer_TapGestureListener ( )</computeroutput></para><para>
+Definition at line 25 of file ViewCellRenderer_ViewCellContainer_TapGestureListener.java.</para>
+    </section><anchor xml:id="_classcrc643f46942d9dd1fff9_1_1_view_cell_renderer___view_cell_container___tap_gesture_listener_1ad090c50e5388a6d6353549f24adf325a"/>    <section>
+    <title>ViewCellRenderer_ViewCellContainer_TapGestureListener()<computeroutput>[4/4]</computeroutput></title>
+<indexterm><primary>ViewCellRenderer_ViewCellContainer_TapGestureListener</primary><secondary>crc643f46942d9dd1fff9.ViewCellRenderer_ViewCellContainer_TapGestureListener</secondary></indexterm>
+<indexterm><primary>crc643f46942d9dd1fff9.ViewCellRenderer_ViewCellContainer_TapGestureListener</primary><secondary>ViewCellRenderer_ViewCellContainer_TapGestureListener</secondary></indexterm>
+<para><computeroutput>crc643f46942d9dd1fff9.ViewCellRenderer_ViewCellContainer_TapGestureListener.ViewCellRenderer_ViewCellContainer_TapGestureListener ( )</computeroutput></para><para>
+Definition at line 25 of file ViewCellRenderer_ViewCellContainer_TapGestureListener.java.</para>
+</section>
+</section>
+<section>
+<title>Member Function Documentation</title>
+<anchor xml:id="_classcrc643f46942d9dd1fff9_1_1_view_cell_renderer___view_cell_container___tap_gesture_listener_1af9cf680f0584c3d09c6a4a63766717d5"/>    <section>
+    <title>monodroidAddReference()<computeroutput>[1/4]</computeroutput></title>
+<indexterm><primary>monodroidAddReference</primary><secondary>crc643f46942d9dd1fff9.ViewCellRenderer_ViewCellContainer_TapGestureListener</secondary></indexterm>
+<indexterm><primary>crc643f46942d9dd1fff9.ViewCellRenderer_ViewCellContainer_TapGestureListener</primary><secondary>monodroidAddReference</secondary></indexterm>
+<para><computeroutput>void crc643f46942d9dd1fff9.ViewCellRenderer_ViewCellContainer_TapGestureListener.monodroidAddReference (java.lang.Object obj)</computeroutput></para><para>
+Definition at line 81 of file ViewCellRenderer_ViewCellContainer_TapGestureListener.java.</para>
+    </section><anchor xml:id="_classcrc643f46942d9dd1fff9_1_1_view_cell_renderer___view_cell_container___tap_gesture_listener_1af9cf680f0584c3d09c6a4a63766717d5"/>    <section>
+    <title>monodroidAddReference()<computeroutput>[2/4]</computeroutput></title>
+<indexterm><primary>monodroidAddReference</primary><secondary>crc643f46942d9dd1fff9.ViewCellRenderer_ViewCellContainer_TapGestureListener</secondary></indexterm>
+<indexterm><primary>crc643f46942d9dd1fff9.ViewCellRenderer_ViewCellContainer_TapGestureListener</primary><secondary>monodroidAddReference</secondary></indexterm>
+<para><computeroutput>void crc643f46942d9dd1fff9.ViewCellRenderer_ViewCellContainer_TapGestureListener.monodroidAddReference (java.lang.Object obj)</computeroutput></para><para>
+Definition at line 81 of file ViewCellRenderer_ViewCellContainer_TapGestureListener.java.</para>
+    </section><anchor xml:id="_classcrc643f46942d9dd1fff9_1_1_view_cell_renderer___view_cell_container___tap_gesture_listener_1af9cf680f0584c3d09c6a4a63766717d5"/>    <section>
+    <title>monodroidAddReference()<computeroutput>[3/4]</computeroutput></title>
+<indexterm><primary>monodroidAddReference</primary><secondary>crc643f46942d9dd1fff9.ViewCellRenderer_ViewCellContainer_TapGestureListener</secondary></indexterm>
+<indexterm><primary>crc643f46942d9dd1fff9.ViewCellRenderer_ViewCellContainer_TapGestureListener</primary><secondary>monodroidAddReference</secondary></indexterm>
+<para><computeroutput>void crc643f46942d9dd1fff9.ViewCellRenderer_ViewCellContainer_TapGestureListener.monodroidAddReference (java.lang.Object obj)</computeroutput></para><para>
+Definition at line 81 of file ViewCellRenderer_ViewCellContainer_TapGestureListener.java.</para>
+    </section><anchor xml:id="_classcrc643f46942d9dd1fff9_1_1_view_cell_renderer___view_cell_container___tap_gesture_listener_1af9cf680f0584c3d09c6a4a63766717d5"/>    <section>
+    <title>monodroidAddReference()<computeroutput>[4/4]</computeroutput></title>
+<indexterm><primary>monodroidAddReference</primary><secondary>crc643f46942d9dd1fff9.ViewCellRenderer_ViewCellContainer_TapGestureListener</secondary></indexterm>
+<indexterm><primary>crc643f46942d9dd1fff9.ViewCellRenderer_ViewCellContainer_TapGestureListener</primary><secondary>monodroidAddReference</secondary></indexterm>
+<para><computeroutput>void crc643f46942d9dd1fff9.ViewCellRenderer_ViewCellContainer_TapGestureListener.monodroidAddReference (java.lang.Object obj)</computeroutput></para><para>
+Definition at line 81 of file ViewCellRenderer_ViewCellContainer_TapGestureListener.java.</para>
+    </section><anchor xml:id="_classcrc643f46942d9dd1fff9_1_1_view_cell_renderer___view_cell_container___tap_gesture_listener_1ae29a603b769baa8367900bce4c66c0c4"/>    <section>
+    <title>monodroidClearReferences()<computeroutput>[1/4]</computeroutput></title>
+<indexterm><primary>monodroidClearReferences</primary><secondary>crc643f46942d9dd1fff9.ViewCellRenderer_ViewCellContainer_TapGestureListener</secondary></indexterm>
+<indexterm><primary>crc643f46942d9dd1fff9.ViewCellRenderer_ViewCellContainer_TapGestureListener</primary><secondary>monodroidClearReferences</secondary></indexterm>
+<para><computeroutput>void crc643f46942d9dd1fff9.ViewCellRenderer_ViewCellContainer_TapGestureListener.monodroidClearReferences ( )</computeroutput></para><para>
+Definition at line 88 of file ViewCellRenderer_ViewCellContainer_TapGestureListener.java.</para>
+    </section><anchor xml:id="_classcrc643f46942d9dd1fff9_1_1_view_cell_renderer___view_cell_container___tap_gesture_listener_1ae29a603b769baa8367900bce4c66c0c4"/>    <section>
+    <title>monodroidClearReferences()<computeroutput>[2/4]</computeroutput></title>
+<indexterm><primary>monodroidClearReferences</primary><secondary>crc643f46942d9dd1fff9.ViewCellRenderer_ViewCellContainer_TapGestureListener</secondary></indexterm>
+<indexterm><primary>crc643f46942d9dd1fff9.ViewCellRenderer_ViewCellContainer_TapGestureListener</primary><secondary>monodroidClearReferences</secondary></indexterm>
+<para><computeroutput>void crc643f46942d9dd1fff9.ViewCellRenderer_ViewCellContainer_TapGestureListener.monodroidClearReferences ( )</computeroutput></para><para>
+Definition at line 88 of file ViewCellRenderer_ViewCellContainer_TapGestureListener.java.</para>
+    </section><anchor xml:id="_classcrc643f46942d9dd1fff9_1_1_view_cell_renderer___view_cell_container___tap_gesture_listener_1ae29a603b769baa8367900bce4c66c0c4"/>    <section>
+    <title>monodroidClearReferences()<computeroutput>[3/4]</computeroutput></title>
+<indexterm><primary>monodroidClearReferences</primary><secondary>crc643f46942d9dd1fff9.ViewCellRenderer_ViewCellContainer_TapGestureListener</secondary></indexterm>
+<indexterm><primary>crc643f46942d9dd1fff9.ViewCellRenderer_ViewCellContainer_TapGestureListener</primary><secondary>monodroidClearReferences</secondary></indexterm>
+<para><computeroutput>void crc643f46942d9dd1fff9.ViewCellRenderer_ViewCellContainer_TapGestureListener.monodroidClearReferences ( )</computeroutput></para><para>
+Definition at line 88 of file ViewCellRenderer_ViewCellContainer_TapGestureListener.java.</para>
+    </section><anchor xml:id="_classcrc643f46942d9dd1fff9_1_1_view_cell_renderer___view_cell_container___tap_gesture_listener_1ae29a603b769baa8367900bce4c66c0c4"/>    <section>
+    <title>monodroidClearReferences()<computeroutput>[4/4]</computeroutput></title>
+<indexterm><primary>monodroidClearReferences</primary><secondary>crc643f46942d9dd1fff9.ViewCellRenderer_ViewCellContainer_TapGestureListener</secondary></indexterm>
+<indexterm><primary>crc643f46942d9dd1fff9.ViewCellRenderer_ViewCellContainer_TapGestureListener</primary><secondary>monodroidClearReferences</secondary></indexterm>
+<para><computeroutput>void crc643f46942d9dd1fff9.ViewCellRenderer_ViewCellContainer_TapGestureListener.monodroidClearReferences ( )</computeroutput></para><para>
+Definition at line 88 of file ViewCellRenderer_ViewCellContainer_TapGestureListener.java.</para>
+    </section><anchor xml:id="_classcrc643f46942d9dd1fff9_1_1_view_cell_renderer___view_cell_container___tap_gesture_listener_1a38dcc77b036f5d0f7b4b3befa815e298"/>    <section>
+    <title>onDown()<computeroutput>[1/4]</computeroutput></title>
+<indexterm><primary>onDown</primary><secondary>crc643f46942d9dd1fff9.ViewCellRenderer_ViewCellContainer_TapGestureListener</secondary></indexterm>
+<indexterm><primary>crc643f46942d9dd1fff9.ViewCellRenderer_ViewCellContainer_TapGestureListener</primary><secondary>onDown</secondary></indexterm>
+<para><computeroutput>boolean crc643f46942d9dd1fff9.ViewCellRenderer_ViewCellContainer_TapGestureListener.onDown (android.view.MotionEvent p0)</computeroutput></para><para>
+Definition at line 33 of file ViewCellRenderer_ViewCellContainer_TapGestureListener.java.</para>
+    </section><anchor xml:id="_classcrc643f46942d9dd1fff9_1_1_view_cell_renderer___view_cell_container___tap_gesture_listener_1a38dcc77b036f5d0f7b4b3befa815e298"/>    <section>
+    <title>onDown()<computeroutput>[2/4]</computeroutput></title>
+<indexterm><primary>onDown</primary><secondary>crc643f46942d9dd1fff9.ViewCellRenderer_ViewCellContainer_TapGestureListener</secondary></indexterm>
+<indexterm><primary>crc643f46942d9dd1fff9.ViewCellRenderer_ViewCellContainer_TapGestureListener</primary><secondary>onDown</secondary></indexterm>
+<para><computeroutput>boolean crc643f46942d9dd1fff9.ViewCellRenderer_ViewCellContainer_TapGestureListener.onDown (android.view.MotionEvent p0)</computeroutput></para><para>
+Definition at line 33 of file ViewCellRenderer_ViewCellContainer_TapGestureListener.java.</para>
+    </section><anchor xml:id="_classcrc643f46942d9dd1fff9_1_1_view_cell_renderer___view_cell_container___tap_gesture_listener_1a38dcc77b036f5d0f7b4b3befa815e298"/>    <section>
+    <title>onDown()<computeroutput>[3/4]</computeroutput></title>
+<indexterm><primary>onDown</primary><secondary>crc643f46942d9dd1fff9.ViewCellRenderer_ViewCellContainer_TapGestureListener</secondary></indexterm>
+<indexterm><primary>crc643f46942d9dd1fff9.ViewCellRenderer_ViewCellContainer_TapGestureListener</primary><secondary>onDown</secondary></indexterm>
+<para><computeroutput>boolean crc643f46942d9dd1fff9.ViewCellRenderer_ViewCellContainer_TapGestureListener.onDown (android.view.MotionEvent p0)</computeroutput></para><para>
+Definition at line 33 of file ViewCellRenderer_ViewCellContainer_TapGestureListener.java.</para>
+    </section><anchor xml:id="_classcrc643f46942d9dd1fff9_1_1_view_cell_renderer___view_cell_container___tap_gesture_listener_1a38dcc77b036f5d0f7b4b3befa815e298"/>    <section>
+    <title>onDown()<computeroutput>[4/4]</computeroutput></title>
+<indexterm><primary>onDown</primary><secondary>crc643f46942d9dd1fff9.ViewCellRenderer_ViewCellContainer_TapGestureListener</secondary></indexterm>
+<indexterm><primary>crc643f46942d9dd1fff9.ViewCellRenderer_ViewCellContainer_TapGestureListener</primary><secondary>onDown</secondary></indexterm>
+<para><computeroutput>boolean crc643f46942d9dd1fff9.ViewCellRenderer_ViewCellContainer_TapGestureListener.onDown (android.view.MotionEvent p0)</computeroutput></para><para>
+Definition at line 33 of file ViewCellRenderer_ViewCellContainer_TapGestureListener.java.</para>
+    </section><anchor xml:id="_classcrc643f46942d9dd1fff9_1_1_view_cell_renderer___view_cell_container___tap_gesture_listener_1a0ee7baa19eab2d48d97d9663461dbfb2"/>    <section>
+    <title>onFling()<computeroutput>[1/4]</computeroutput></title>
+<indexterm><primary>onFling</primary><secondary>crc643f46942d9dd1fff9.ViewCellRenderer_ViewCellContainer_TapGestureListener</secondary></indexterm>
+<indexterm><primary>crc643f46942d9dd1fff9.ViewCellRenderer_ViewCellContainer_TapGestureListener</primary><secondary>onFling</secondary></indexterm>
+<para><computeroutput>boolean crc643f46942d9dd1fff9.ViewCellRenderer_ViewCellContainer_TapGestureListener.onFling (android.view.MotionEvent p0, android.view.MotionEvent p1, float p2, float p3)</computeroutput></para><para>
+Definition at line 41 of file ViewCellRenderer_ViewCellContainer_TapGestureListener.java.</para>
+    </section><anchor xml:id="_classcrc643f46942d9dd1fff9_1_1_view_cell_renderer___view_cell_container___tap_gesture_listener_1a0ee7baa19eab2d48d97d9663461dbfb2"/>    <section>
+    <title>onFling()<computeroutput>[2/4]</computeroutput></title>
+<indexterm><primary>onFling</primary><secondary>crc643f46942d9dd1fff9.ViewCellRenderer_ViewCellContainer_TapGestureListener</secondary></indexterm>
+<indexterm><primary>crc643f46942d9dd1fff9.ViewCellRenderer_ViewCellContainer_TapGestureListener</primary><secondary>onFling</secondary></indexterm>
+<para><computeroutput>boolean crc643f46942d9dd1fff9.ViewCellRenderer_ViewCellContainer_TapGestureListener.onFling (android.view.MotionEvent p0, android.view.MotionEvent p1, float p2, float p3)</computeroutput></para><para>
+Definition at line 41 of file ViewCellRenderer_ViewCellContainer_TapGestureListener.java.</para>
+    </section><anchor xml:id="_classcrc643f46942d9dd1fff9_1_1_view_cell_renderer___view_cell_container___tap_gesture_listener_1a0ee7baa19eab2d48d97d9663461dbfb2"/>    <section>
+    <title>onFling()<computeroutput>[3/4]</computeroutput></title>
+<indexterm><primary>onFling</primary><secondary>crc643f46942d9dd1fff9.ViewCellRenderer_ViewCellContainer_TapGestureListener</secondary></indexterm>
+<indexterm><primary>crc643f46942d9dd1fff9.ViewCellRenderer_ViewCellContainer_TapGestureListener</primary><secondary>onFling</secondary></indexterm>
+<para><computeroutput>boolean crc643f46942d9dd1fff9.ViewCellRenderer_ViewCellContainer_TapGestureListener.onFling (android.view.MotionEvent p0, android.view.MotionEvent p1, float p2, float p3)</computeroutput></para><para>
+Definition at line 41 of file ViewCellRenderer_ViewCellContainer_TapGestureListener.java.</para>
+    </section><anchor xml:id="_classcrc643f46942d9dd1fff9_1_1_view_cell_renderer___view_cell_container___tap_gesture_listener_1a0ee7baa19eab2d48d97d9663461dbfb2"/>    <section>
+    <title>onFling()<computeroutput>[4/4]</computeroutput></title>
+<indexterm><primary>onFling</primary><secondary>crc643f46942d9dd1fff9.ViewCellRenderer_ViewCellContainer_TapGestureListener</secondary></indexterm>
+<indexterm><primary>crc643f46942d9dd1fff9.ViewCellRenderer_ViewCellContainer_TapGestureListener</primary><secondary>onFling</secondary></indexterm>
+<para><computeroutput>boolean crc643f46942d9dd1fff9.ViewCellRenderer_ViewCellContainer_TapGestureListener.onFling (android.view.MotionEvent p0, android.view.MotionEvent p1, float p2, float p3)</computeroutput></para><para>
+Definition at line 41 of file ViewCellRenderer_ViewCellContainer_TapGestureListener.java.</para>
+    </section><anchor xml:id="_classcrc643f46942d9dd1fff9_1_1_view_cell_renderer___view_cell_container___tap_gesture_listener_1a2d01b64f02be82c7b4b6334eb2b7d1a2"/>    <section>
+    <title>onLongPress()<computeroutput>[1/4]</computeroutput></title>
+<indexterm><primary>onLongPress</primary><secondary>crc643f46942d9dd1fff9.ViewCellRenderer_ViewCellContainer_TapGestureListener</secondary></indexterm>
+<indexterm><primary>crc643f46942d9dd1fff9.ViewCellRenderer_ViewCellContainer_TapGestureListener</primary><secondary>onLongPress</secondary></indexterm>
+<para><computeroutput>void crc643f46942d9dd1fff9.ViewCellRenderer_ViewCellContainer_TapGestureListener.onLongPress (android.view.MotionEvent p0)</computeroutput></para><para>
+Definition at line 49 of file ViewCellRenderer_ViewCellContainer_TapGestureListener.java.</para>
+    </section><anchor xml:id="_classcrc643f46942d9dd1fff9_1_1_view_cell_renderer___view_cell_container___tap_gesture_listener_1a2d01b64f02be82c7b4b6334eb2b7d1a2"/>    <section>
+    <title>onLongPress()<computeroutput>[2/4]</computeroutput></title>
+<indexterm><primary>onLongPress</primary><secondary>crc643f46942d9dd1fff9.ViewCellRenderer_ViewCellContainer_TapGestureListener</secondary></indexterm>
+<indexterm><primary>crc643f46942d9dd1fff9.ViewCellRenderer_ViewCellContainer_TapGestureListener</primary><secondary>onLongPress</secondary></indexterm>
+<para><computeroutput>void crc643f46942d9dd1fff9.ViewCellRenderer_ViewCellContainer_TapGestureListener.onLongPress (android.view.MotionEvent p0)</computeroutput></para><para>
+Definition at line 49 of file ViewCellRenderer_ViewCellContainer_TapGestureListener.java.</para>
+    </section><anchor xml:id="_classcrc643f46942d9dd1fff9_1_1_view_cell_renderer___view_cell_container___tap_gesture_listener_1a2d01b64f02be82c7b4b6334eb2b7d1a2"/>    <section>
+    <title>onLongPress()<computeroutput>[3/4]</computeroutput></title>
+<indexterm><primary>onLongPress</primary><secondary>crc643f46942d9dd1fff9.ViewCellRenderer_ViewCellContainer_TapGestureListener</secondary></indexterm>
+<indexterm><primary>crc643f46942d9dd1fff9.ViewCellRenderer_ViewCellContainer_TapGestureListener</primary><secondary>onLongPress</secondary></indexterm>
+<para><computeroutput>void crc643f46942d9dd1fff9.ViewCellRenderer_ViewCellContainer_TapGestureListener.onLongPress (android.view.MotionEvent p0)</computeroutput></para><para>
+Definition at line 49 of file ViewCellRenderer_ViewCellContainer_TapGestureListener.java.</para>
+    </section><anchor xml:id="_classcrc643f46942d9dd1fff9_1_1_view_cell_renderer___view_cell_container___tap_gesture_listener_1a2d01b64f02be82c7b4b6334eb2b7d1a2"/>    <section>
+    <title>onLongPress()<computeroutput>[4/4]</computeroutput></title>
+<indexterm><primary>onLongPress</primary><secondary>crc643f46942d9dd1fff9.ViewCellRenderer_ViewCellContainer_TapGestureListener</secondary></indexterm>
+<indexterm><primary>crc643f46942d9dd1fff9.ViewCellRenderer_ViewCellContainer_TapGestureListener</primary><secondary>onLongPress</secondary></indexterm>
+<para><computeroutput>void crc643f46942d9dd1fff9.ViewCellRenderer_ViewCellContainer_TapGestureListener.onLongPress (android.view.MotionEvent p0)</computeroutput></para><para>
+Definition at line 49 of file ViewCellRenderer_ViewCellContainer_TapGestureListener.java.</para>
+    </section><anchor xml:id="_classcrc643f46942d9dd1fff9_1_1_view_cell_renderer___view_cell_container___tap_gesture_listener_1aeadd21c86c2e81c3e12d53de43784e2f"/>    <section>
+    <title>onScroll()<computeroutput>[1/4]</computeroutput></title>
+<indexterm><primary>onScroll</primary><secondary>crc643f46942d9dd1fff9.ViewCellRenderer_ViewCellContainer_TapGestureListener</secondary></indexterm>
+<indexterm><primary>crc643f46942d9dd1fff9.ViewCellRenderer_ViewCellContainer_TapGestureListener</primary><secondary>onScroll</secondary></indexterm>
+<para><computeroutput>boolean crc643f46942d9dd1fff9.ViewCellRenderer_ViewCellContainer_TapGestureListener.onScroll (android.view.MotionEvent p0, android.view.MotionEvent p1, float p2, float p3)</computeroutput></para><para>
+Definition at line 57 of file ViewCellRenderer_ViewCellContainer_TapGestureListener.java.</para>
+    </section><anchor xml:id="_classcrc643f46942d9dd1fff9_1_1_view_cell_renderer___view_cell_container___tap_gesture_listener_1aeadd21c86c2e81c3e12d53de43784e2f"/>    <section>
+    <title>onScroll()<computeroutput>[2/4]</computeroutput></title>
+<indexterm><primary>onScroll</primary><secondary>crc643f46942d9dd1fff9.ViewCellRenderer_ViewCellContainer_TapGestureListener</secondary></indexterm>
+<indexterm><primary>crc643f46942d9dd1fff9.ViewCellRenderer_ViewCellContainer_TapGestureListener</primary><secondary>onScroll</secondary></indexterm>
+<para><computeroutput>boolean crc643f46942d9dd1fff9.ViewCellRenderer_ViewCellContainer_TapGestureListener.onScroll (android.view.MotionEvent p0, android.view.MotionEvent p1, float p2, float p3)</computeroutput></para><para>
+Definition at line 57 of file ViewCellRenderer_ViewCellContainer_TapGestureListener.java.</para>
+    </section><anchor xml:id="_classcrc643f46942d9dd1fff9_1_1_view_cell_renderer___view_cell_container___tap_gesture_listener_1aeadd21c86c2e81c3e12d53de43784e2f"/>    <section>
+    <title>onScroll()<computeroutput>[3/4]</computeroutput></title>
+<indexterm><primary>onScroll</primary><secondary>crc643f46942d9dd1fff9.ViewCellRenderer_ViewCellContainer_TapGestureListener</secondary></indexterm>
+<indexterm><primary>crc643f46942d9dd1fff9.ViewCellRenderer_ViewCellContainer_TapGestureListener</primary><secondary>onScroll</secondary></indexterm>
+<para><computeroutput>boolean crc643f46942d9dd1fff9.ViewCellRenderer_ViewCellContainer_TapGestureListener.onScroll (android.view.MotionEvent p0, android.view.MotionEvent p1, float p2, float p3)</computeroutput></para><para>
+Definition at line 57 of file ViewCellRenderer_ViewCellContainer_TapGestureListener.java.</para>
+    </section><anchor xml:id="_classcrc643f46942d9dd1fff9_1_1_view_cell_renderer___view_cell_container___tap_gesture_listener_1aeadd21c86c2e81c3e12d53de43784e2f"/>    <section>
+    <title>onScroll()<computeroutput>[4/4]</computeroutput></title>
+<indexterm><primary>onScroll</primary><secondary>crc643f46942d9dd1fff9.ViewCellRenderer_ViewCellContainer_TapGestureListener</secondary></indexterm>
+<indexterm><primary>crc643f46942d9dd1fff9.ViewCellRenderer_ViewCellContainer_TapGestureListener</primary><secondary>onScroll</secondary></indexterm>
+<para><computeroutput>boolean crc643f46942d9dd1fff9.ViewCellRenderer_ViewCellContainer_TapGestureListener.onScroll (android.view.MotionEvent p0, android.view.MotionEvent p1, float p2, float p3)</computeroutput></para><para>
+Definition at line 57 of file ViewCellRenderer_ViewCellContainer_TapGestureListener.java.</para>
+    </section><anchor xml:id="_classcrc643f46942d9dd1fff9_1_1_view_cell_renderer___view_cell_container___tap_gesture_listener_1aeb10f110472090777719f9e1665b663a"/>    <section>
+    <title>onShowPress()<computeroutput>[1/4]</computeroutput></title>
+<indexterm><primary>onShowPress</primary><secondary>crc643f46942d9dd1fff9.ViewCellRenderer_ViewCellContainer_TapGestureListener</secondary></indexterm>
+<indexterm><primary>crc643f46942d9dd1fff9.ViewCellRenderer_ViewCellContainer_TapGestureListener</primary><secondary>onShowPress</secondary></indexterm>
+<para><computeroutput>void crc643f46942d9dd1fff9.ViewCellRenderer_ViewCellContainer_TapGestureListener.onShowPress (android.view.MotionEvent p0)</computeroutput></para><para>
+Definition at line 65 of file ViewCellRenderer_ViewCellContainer_TapGestureListener.java.</para>
+    </section><anchor xml:id="_classcrc643f46942d9dd1fff9_1_1_view_cell_renderer___view_cell_container___tap_gesture_listener_1aeb10f110472090777719f9e1665b663a"/>    <section>
+    <title>onShowPress()<computeroutput>[2/4]</computeroutput></title>
+<indexterm><primary>onShowPress</primary><secondary>crc643f46942d9dd1fff9.ViewCellRenderer_ViewCellContainer_TapGestureListener</secondary></indexterm>
+<indexterm><primary>crc643f46942d9dd1fff9.ViewCellRenderer_ViewCellContainer_TapGestureListener</primary><secondary>onShowPress</secondary></indexterm>
+<para><computeroutput>void crc643f46942d9dd1fff9.ViewCellRenderer_ViewCellContainer_TapGestureListener.onShowPress (android.view.MotionEvent p0)</computeroutput></para><para>
+Definition at line 65 of file ViewCellRenderer_ViewCellContainer_TapGestureListener.java.</para>
+    </section><anchor xml:id="_classcrc643f46942d9dd1fff9_1_1_view_cell_renderer___view_cell_container___tap_gesture_listener_1aeb10f110472090777719f9e1665b663a"/>    <section>
+    <title>onShowPress()<computeroutput>[3/4]</computeroutput></title>
+<indexterm><primary>onShowPress</primary><secondary>crc643f46942d9dd1fff9.ViewCellRenderer_ViewCellContainer_TapGestureListener</secondary></indexterm>
+<indexterm><primary>crc643f46942d9dd1fff9.ViewCellRenderer_ViewCellContainer_TapGestureListener</primary><secondary>onShowPress</secondary></indexterm>
+<para><computeroutput>void crc643f46942d9dd1fff9.ViewCellRenderer_ViewCellContainer_TapGestureListener.onShowPress (android.view.MotionEvent p0)</computeroutput></para><para>
+Definition at line 65 of file ViewCellRenderer_ViewCellContainer_TapGestureListener.java.</para>
+    </section><anchor xml:id="_classcrc643f46942d9dd1fff9_1_1_view_cell_renderer___view_cell_container___tap_gesture_listener_1aeb10f110472090777719f9e1665b663a"/>    <section>
+    <title>onShowPress()<computeroutput>[4/4]</computeroutput></title>
+<indexterm><primary>onShowPress</primary><secondary>crc643f46942d9dd1fff9.ViewCellRenderer_ViewCellContainer_TapGestureListener</secondary></indexterm>
+<indexterm><primary>crc643f46942d9dd1fff9.ViewCellRenderer_ViewCellContainer_TapGestureListener</primary><secondary>onShowPress</secondary></indexterm>
+<para><computeroutput>void crc643f46942d9dd1fff9.ViewCellRenderer_ViewCellContainer_TapGestureListener.onShowPress (android.view.MotionEvent p0)</computeroutput></para><para>
+Definition at line 65 of file ViewCellRenderer_ViewCellContainer_TapGestureListener.java.</para>
+    </section><anchor xml:id="_classcrc643f46942d9dd1fff9_1_1_view_cell_renderer___view_cell_container___tap_gesture_listener_1a5206f11e9e597587ecb7902593c8cf2f"/>    <section>
+    <title>onSingleTapUp()<computeroutput>[1/4]</computeroutput></title>
+<indexterm><primary>onSingleTapUp</primary><secondary>crc643f46942d9dd1fff9.ViewCellRenderer_ViewCellContainer_TapGestureListener</secondary></indexterm>
+<indexterm><primary>crc643f46942d9dd1fff9.ViewCellRenderer_ViewCellContainer_TapGestureListener</primary><secondary>onSingleTapUp</secondary></indexterm>
+<para><computeroutput>boolean crc643f46942d9dd1fff9.ViewCellRenderer_ViewCellContainer_TapGestureListener.onSingleTapUp (android.view.MotionEvent p0)</computeroutput></para><para>
+Definition at line 73 of file ViewCellRenderer_ViewCellContainer_TapGestureListener.java.</para>
+    </section><anchor xml:id="_classcrc643f46942d9dd1fff9_1_1_view_cell_renderer___view_cell_container___tap_gesture_listener_1a5206f11e9e597587ecb7902593c8cf2f"/>    <section>
+    <title>onSingleTapUp()<computeroutput>[2/4]</computeroutput></title>
+<indexterm><primary>onSingleTapUp</primary><secondary>crc643f46942d9dd1fff9.ViewCellRenderer_ViewCellContainer_TapGestureListener</secondary></indexterm>
+<indexterm><primary>crc643f46942d9dd1fff9.ViewCellRenderer_ViewCellContainer_TapGestureListener</primary><secondary>onSingleTapUp</secondary></indexterm>
+<para><computeroutput>boolean crc643f46942d9dd1fff9.ViewCellRenderer_ViewCellContainer_TapGestureListener.onSingleTapUp (android.view.MotionEvent p0)</computeroutput></para><para>
+Definition at line 73 of file ViewCellRenderer_ViewCellContainer_TapGestureListener.java.</para>
+    </section><anchor xml:id="_classcrc643f46942d9dd1fff9_1_1_view_cell_renderer___view_cell_container___tap_gesture_listener_1a5206f11e9e597587ecb7902593c8cf2f"/>    <section>
+    <title>onSingleTapUp()<computeroutput>[3/4]</computeroutput></title>
+<indexterm><primary>onSingleTapUp</primary><secondary>crc643f46942d9dd1fff9.ViewCellRenderer_ViewCellContainer_TapGestureListener</secondary></indexterm>
+<indexterm><primary>crc643f46942d9dd1fff9.ViewCellRenderer_ViewCellContainer_TapGestureListener</primary><secondary>onSingleTapUp</secondary></indexterm>
+<para><computeroutput>boolean crc643f46942d9dd1fff9.ViewCellRenderer_ViewCellContainer_TapGestureListener.onSingleTapUp (android.view.MotionEvent p0)</computeroutput></para><para>
+Definition at line 73 of file ViewCellRenderer_ViewCellContainer_TapGestureListener.java.</para>
+    </section><anchor xml:id="_classcrc643f46942d9dd1fff9_1_1_view_cell_renderer___view_cell_container___tap_gesture_listener_1a5206f11e9e597587ecb7902593c8cf2f"/>    <section>
+    <title>onSingleTapUp()<computeroutput>[4/4]</computeroutput></title>
+<indexterm><primary>onSingleTapUp</primary><secondary>crc643f46942d9dd1fff9.ViewCellRenderer_ViewCellContainer_TapGestureListener</secondary></indexterm>
+<indexterm><primary>crc643f46942d9dd1fff9.ViewCellRenderer_ViewCellContainer_TapGestureListener</primary><secondary>onSingleTapUp</secondary></indexterm>
+<para><computeroutput>boolean crc643f46942d9dd1fff9.ViewCellRenderer_ViewCellContainer_TapGestureListener.onSingleTapUp (android.view.MotionEvent p0)</computeroutput></para><para>
+Definition at line 73 of file ViewCellRenderer_ViewCellContainer_TapGestureListener.java.</para>
+</section>
+</section>
+<section>
+<title>Member Data Documentation</title>
+<anchor xml:id="_classcrc643f46942d9dd1fff9_1_1_view_cell_renderer___view_cell_container___tap_gesture_listener_1a653b8d1b31355bf468cc1652cda51ff8"/>    <section>
+    <title>__md_methods</title>
+<indexterm><primary>__md_methods</primary><secondary>crc643f46942d9dd1fff9.ViewCellRenderer_ViewCellContainer_TapGestureListener</secondary></indexterm>
+<indexterm><primary>crc643f46942d9dd1fff9.ViewCellRenderer_ViewCellContainer_TapGestureListener</primary><secondary>__md_methods</secondary></indexterm>
+<para><computeroutput>static final String crc643f46942d9dd1fff9.ViewCellRenderer_ViewCellContainer_TapGestureListener.__md_methods<computeroutput>[static]</computeroutput></computeroutput></para>
+<para>@hide </para>
+<para>
+Definition at line 11 of file ViewCellRenderer_ViewCellContainer_TapGestureListener.java.</para>
+</section>
+<para>
+The documentation for this class was generated from the following file:</para>
+Application Green Quake.Android/obj/Debug/100/android/src/crc643f46942d9dd1fff9/<link linkend="__debug_2100_2android_2src_2crc643f46942d9dd1fff9_2_view_cell_renderer___view_cell_container___tap_gesture_listener_8java">ViewCellRenderer_ViewCellContainer_TapGestureListener.java</link></section>
+</section>

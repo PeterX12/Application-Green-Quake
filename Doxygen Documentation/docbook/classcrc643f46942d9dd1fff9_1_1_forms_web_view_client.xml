@@ -1,0 +1,372 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<section xmlns="http://docbook.org/ns/docbook" version="5.0" xmlns:xlink="http://www.w3.org/1999/xlink" xml:id="_classcrc643f46942d9dd1fff9_1_1_forms_web_view_client" xml:lang="en-US">
+<title>crc643f46942d9dd1fff9.FormsWebViewClient Class Reference</title>
+<indexterm><primary>crc643f46942d9dd1fff9.FormsWebViewClient</primary></indexterm>
+<para>Inheritance diagram for crc643f46942d9dd1fff9.FormsWebViewClient:    <informalfigure>
+        <mediaobject>
+            <imageobject>
+                <imagedata width="50%" align="center" valign="middle" scalefit="0" fileref="classcrc643f46942d9dd1fff9_1_1_forms_web_view_client.png"></imagedata>
+            </imageobject>
+        </mediaobject>
+    </informalfigure>
+</para>
+<simplesect>
+    <title>Public Member Functions    </title>
+        <itemizedlist>
+            <listitem><para><link linkend="_classcrc643f46942d9dd1fff9_1_1_forms_web_view_client_1a997247d581903d536b6002d7bb576f50">FormsWebViewClient</link> ()</para>
+</listitem>
+            <listitem><para><link linkend="_classcrc643f46942d9dd1fff9_1_1_forms_web_view_client_1a502d2a54c1c3720b7b500215a3e992ed">FormsWebViewClient</link> (<link linkend="_classcrc643f46942d9dd1fff9_1_1_web_view_renderer">crc643f46942d9dd1fff9.WebViewRenderer</link> p0)</para>
+</listitem>
+            <listitem><para>boolean <link linkend="_classcrc643f46942d9dd1fff9_1_1_forms_web_view_client_1af6553389b1de96552e65957d43943579">shouldOverrideUrlLoading</link> (android.webkit.WebView p0, java.lang.String p1)</para>
+</listitem>
+            <listitem><para>boolean <link linkend="_classcrc643f46942d9dd1fff9_1_1_forms_web_view_client_1a87cc1ca450d255260124dc3be05b4189">shouldOverrideUrlLoading</link> (android.webkit.WebView p0, android.webkit.WebResourceRequest p1)</para>
+</listitem>
+            <listitem><para>void <link linkend="_classcrc643f46942d9dd1fff9_1_1_forms_web_view_client_1a4ec9d869d1e81e2c1feae044b6e12006">onPageStarted</link> (android.webkit.WebView p0, java.lang.String p1, android.graphics.Bitmap p2)</para>
+</listitem>
+            <listitem><para>void <link linkend="_classcrc643f46942d9dd1fff9_1_1_forms_web_view_client_1ad1f2c5f3315ee0b8c991c4ca9043efa8">onPageFinished</link> (android.webkit.WebView p0, java.lang.String p1)</para>
+</listitem>
+            <listitem><para>void <link linkend="_classcrc643f46942d9dd1fff9_1_1_forms_web_view_client_1a863b526f7ac86c8a4b774e0b747b0616">onReceivedError</link> (android.webkit.WebView p0, int p1, java.lang.String p2, java.lang.String p3)</para>
+</listitem>
+            <listitem><para>void <link linkend="_classcrc643f46942d9dd1fff9_1_1_forms_web_view_client_1ad3c210c0bb945ece8b46a43549737070">onReceivedError</link> (android.webkit.WebView p0, android.webkit.WebResourceRequest p1, android.webkit.WebResourceError p2)</para>
+</listitem>
+            <listitem><para>void <link linkend="_classcrc643f46942d9dd1fff9_1_1_forms_web_view_client_1a84e573efd92ad096282bef0162c2a394">monodroidAddReference</link> (java.lang.Object obj)</para>
+</listitem>
+            <listitem><para>void <link linkend="_classcrc643f46942d9dd1fff9_1_1_forms_web_view_client_1a880582832a6a2cef43d8824911f5f7b0">monodroidClearReferences</link> ()</para>
+</listitem>
+            <listitem><para><link linkend="_classcrc643f46942d9dd1fff9_1_1_forms_web_view_client_1a997247d581903d536b6002d7bb576f50">FormsWebViewClient</link> ()</para>
+</listitem>
+            <listitem><para><link linkend="_classcrc643f46942d9dd1fff9_1_1_forms_web_view_client_1a502d2a54c1c3720b7b500215a3e992ed">FormsWebViewClient</link> (<link linkend="_classcrc643f46942d9dd1fff9_1_1_web_view_renderer">crc643f46942d9dd1fff9.WebViewRenderer</link> p0)</para>
+</listitem>
+            <listitem><para>boolean <link linkend="_classcrc643f46942d9dd1fff9_1_1_forms_web_view_client_1af6553389b1de96552e65957d43943579">shouldOverrideUrlLoading</link> (android.webkit.WebView p0, java.lang.String p1)</para>
+</listitem>
+            <listitem><para>boolean <link linkend="_classcrc643f46942d9dd1fff9_1_1_forms_web_view_client_1a87cc1ca450d255260124dc3be05b4189">shouldOverrideUrlLoading</link> (android.webkit.WebView p0, android.webkit.WebResourceRequest p1)</para>
+</listitem>
+            <listitem><para>void <link linkend="_classcrc643f46942d9dd1fff9_1_1_forms_web_view_client_1a4ec9d869d1e81e2c1feae044b6e12006">onPageStarted</link> (android.webkit.WebView p0, java.lang.String p1, android.graphics.Bitmap p2)</para>
+</listitem>
+            <listitem><para>void <link linkend="_classcrc643f46942d9dd1fff9_1_1_forms_web_view_client_1ad1f2c5f3315ee0b8c991c4ca9043efa8">onPageFinished</link> (android.webkit.WebView p0, java.lang.String p1)</para>
+</listitem>
+            <listitem><para>void <link linkend="_classcrc643f46942d9dd1fff9_1_1_forms_web_view_client_1a863b526f7ac86c8a4b774e0b747b0616">onReceivedError</link> (android.webkit.WebView p0, int p1, java.lang.String p2, java.lang.String p3)</para>
+</listitem>
+            <listitem><para>void <link linkend="_classcrc643f46942d9dd1fff9_1_1_forms_web_view_client_1ad3c210c0bb945ece8b46a43549737070">onReceivedError</link> (android.webkit.WebView p0, android.webkit.WebResourceRequest p1, android.webkit.WebResourceError p2)</para>
+</listitem>
+            <listitem><para>void <link linkend="_classcrc643f46942d9dd1fff9_1_1_forms_web_view_client_1a84e573efd92ad096282bef0162c2a394">monodroidAddReference</link> (java.lang.Object obj)</para>
+</listitem>
+            <listitem><para>void <link linkend="_classcrc643f46942d9dd1fff9_1_1_forms_web_view_client_1a880582832a6a2cef43d8824911f5f7b0">monodroidClearReferences</link> ()</para>
+</listitem>
+            <listitem><para><link linkend="_classcrc643f46942d9dd1fff9_1_1_forms_web_view_client_1a997247d581903d536b6002d7bb576f50">FormsWebViewClient</link> ()</para>
+</listitem>
+            <listitem><para><link linkend="_classcrc643f46942d9dd1fff9_1_1_forms_web_view_client_1a502d2a54c1c3720b7b500215a3e992ed">FormsWebViewClient</link> (<link linkend="_classcrc643f46942d9dd1fff9_1_1_web_view_renderer">crc643f46942d9dd1fff9.WebViewRenderer</link> p0)</para>
+</listitem>
+            <listitem><para>boolean <link linkend="_classcrc643f46942d9dd1fff9_1_1_forms_web_view_client_1af6553389b1de96552e65957d43943579">shouldOverrideUrlLoading</link> (android.webkit.WebView p0, java.lang.String p1)</para>
+</listitem>
+            <listitem><para>boolean <link linkend="_classcrc643f46942d9dd1fff9_1_1_forms_web_view_client_1a87cc1ca450d255260124dc3be05b4189">shouldOverrideUrlLoading</link> (android.webkit.WebView p0, android.webkit.WebResourceRequest p1)</para>
+</listitem>
+            <listitem><para>void <link linkend="_classcrc643f46942d9dd1fff9_1_1_forms_web_view_client_1a4ec9d869d1e81e2c1feae044b6e12006">onPageStarted</link> (android.webkit.WebView p0, java.lang.String p1, android.graphics.Bitmap p2)</para>
+</listitem>
+            <listitem><para>void <link linkend="_classcrc643f46942d9dd1fff9_1_1_forms_web_view_client_1ad1f2c5f3315ee0b8c991c4ca9043efa8">onPageFinished</link> (android.webkit.WebView p0, java.lang.String p1)</para>
+</listitem>
+            <listitem><para>void <link linkend="_classcrc643f46942d9dd1fff9_1_1_forms_web_view_client_1a863b526f7ac86c8a4b774e0b747b0616">onReceivedError</link> (android.webkit.WebView p0, int p1, java.lang.String p2, java.lang.String p3)</para>
+</listitem>
+            <listitem><para>void <link linkend="_classcrc643f46942d9dd1fff9_1_1_forms_web_view_client_1ad3c210c0bb945ece8b46a43549737070">onReceivedError</link> (android.webkit.WebView p0, android.webkit.WebResourceRequest p1, android.webkit.WebResourceError p2)</para>
+</listitem>
+            <listitem><para>void <link linkend="_classcrc643f46942d9dd1fff9_1_1_forms_web_view_client_1a84e573efd92ad096282bef0162c2a394">monodroidAddReference</link> (java.lang.Object obj)</para>
+</listitem>
+            <listitem><para>void <link linkend="_classcrc643f46942d9dd1fff9_1_1_forms_web_view_client_1a880582832a6a2cef43d8824911f5f7b0">monodroidClearReferences</link> ()</para>
+</listitem>
+            <listitem><para><link linkend="_classcrc643f46942d9dd1fff9_1_1_forms_web_view_client_1a997247d581903d536b6002d7bb576f50">FormsWebViewClient</link> ()</para>
+</listitem>
+            <listitem><para><link linkend="_classcrc643f46942d9dd1fff9_1_1_forms_web_view_client_1a502d2a54c1c3720b7b500215a3e992ed">FormsWebViewClient</link> (<link linkend="_classcrc643f46942d9dd1fff9_1_1_web_view_renderer">crc643f46942d9dd1fff9.WebViewRenderer</link> p0)</para>
+</listitem>
+            <listitem><para>boolean <link linkend="_classcrc643f46942d9dd1fff9_1_1_forms_web_view_client_1af6553389b1de96552e65957d43943579">shouldOverrideUrlLoading</link> (android.webkit.WebView p0, java.lang.String p1)</para>
+</listitem>
+            <listitem><para>boolean <link linkend="_classcrc643f46942d9dd1fff9_1_1_forms_web_view_client_1a87cc1ca450d255260124dc3be05b4189">shouldOverrideUrlLoading</link> (android.webkit.WebView p0, android.webkit.WebResourceRequest p1)</para>
+</listitem>
+            <listitem><para>void <link linkend="_classcrc643f46942d9dd1fff9_1_1_forms_web_view_client_1a4ec9d869d1e81e2c1feae044b6e12006">onPageStarted</link> (android.webkit.WebView p0, java.lang.String p1, android.graphics.Bitmap p2)</para>
+</listitem>
+            <listitem><para>void <link linkend="_classcrc643f46942d9dd1fff9_1_1_forms_web_view_client_1ad1f2c5f3315ee0b8c991c4ca9043efa8">onPageFinished</link> (android.webkit.WebView p0, java.lang.String p1)</para>
+</listitem>
+            <listitem><para>void <link linkend="_classcrc643f46942d9dd1fff9_1_1_forms_web_view_client_1a863b526f7ac86c8a4b774e0b747b0616">onReceivedError</link> (android.webkit.WebView p0, int p1, java.lang.String p2, java.lang.String p3)</para>
+</listitem>
+            <listitem><para>void <link linkend="_classcrc643f46942d9dd1fff9_1_1_forms_web_view_client_1ad3c210c0bb945ece8b46a43549737070">onReceivedError</link> (android.webkit.WebView p0, android.webkit.WebResourceRequest p1, android.webkit.WebResourceError p2)</para>
+</listitem>
+            <listitem><para>void <link linkend="_classcrc643f46942d9dd1fff9_1_1_forms_web_view_client_1a84e573efd92ad096282bef0162c2a394">monodroidAddReference</link> (java.lang.Object obj)</para>
+</listitem>
+            <listitem><para>void <link linkend="_classcrc643f46942d9dd1fff9_1_1_forms_web_view_client_1a880582832a6a2cef43d8824911f5f7b0">monodroidClearReferences</link> ()</para>
+</listitem>
+        </itemizedlist>
+</simplesect>
+<simplesect>
+    <title>Static Public Attributes    </title>
+        <itemizedlist>
+            <listitem><para>static final String <link linkend="_classcrc643f46942d9dd1fff9_1_1_forms_web_view_client_1aa2a40bd47861bfc856d3d89155738855">__md_methods</link></para>
+</listitem>
+        </itemizedlist>
+</simplesect>
+<section>
+<title>Detailed Description</title>
+<para>
+Definition at line 4 of file FormsWebViewClient.java.</para>
+</section>
+<section>
+<title>Constructor &amp; Destructor Documentation</title>
+<anchor xml:id="_classcrc643f46942d9dd1fff9_1_1_forms_web_view_client_1a997247d581903d536b6002d7bb576f50"/>    <section>
+    <title>FormsWebViewClient()<computeroutput>[1/8]</computeroutput></title>
+<indexterm><primary>FormsWebViewClient</primary><secondary>crc643f46942d9dd1fff9.FormsWebViewClient</secondary></indexterm>
+<indexterm><primary>crc643f46942d9dd1fff9.FormsWebViewClient</primary><secondary>FormsWebViewClient</secondary></indexterm>
+<para><computeroutput>crc643f46942d9dd1fff9.FormsWebViewClient.FormsWebViewClient ( )</computeroutput></para><para>
+Definition at line 24 of file FormsWebViewClient.java.</para>
+    </section><anchor xml:id="_classcrc643f46942d9dd1fff9_1_1_forms_web_view_client_1a502d2a54c1c3720b7b500215a3e992ed"/>    <section>
+    <title>FormsWebViewClient()<computeroutput>[2/8]</computeroutput></title>
+<indexterm><primary>FormsWebViewClient</primary><secondary>crc643f46942d9dd1fff9.FormsWebViewClient</secondary></indexterm>
+<indexterm><primary>crc643f46942d9dd1fff9.FormsWebViewClient</primary><secondary>FormsWebViewClient</secondary></indexterm>
+<para><computeroutput>crc643f46942d9dd1fff9.FormsWebViewClient.FormsWebViewClient (<link linkend="_classcrc643f46942d9dd1fff9_1_1_web_view_renderer">crc643f46942d9dd1fff9.WebViewRenderer</link> p0)</computeroutput></para><para>
+Definition at line 31 of file FormsWebViewClient.java.</para>
+    </section><anchor xml:id="_classcrc643f46942d9dd1fff9_1_1_forms_web_view_client_1a997247d581903d536b6002d7bb576f50"/>    <section>
+    <title>FormsWebViewClient()<computeroutput>[3/8]</computeroutput></title>
+<indexterm><primary>FormsWebViewClient</primary><secondary>crc643f46942d9dd1fff9.FormsWebViewClient</secondary></indexterm>
+<indexterm><primary>crc643f46942d9dd1fff9.FormsWebViewClient</primary><secondary>FormsWebViewClient</secondary></indexterm>
+<para><computeroutput>crc643f46942d9dd1fff9.FormsWebViewClient.FormsWebViewClient ( )</computeroutput></para><para>
+Definition at line 24 of file FormsWebViewClient.java.</para>
+    </section><anchor xml:id="_classcrc643f46942d9dd1fff9_1_1_forms_web_view_client_1a502d2a54c1c3720b7b500215a3e992ed"/>    <section>
+    <title>FormsWebViewClient()<computeroutput>[4/8]</computeroutput></title>
+<indexterm><primary>FormsWebViewClient</primary><secondary>crc643f46942d9dd1fff9.FormsWebViewClient</secondary></indexterm>
+<indexterm><primary>crc643f46942d9dd1fff9.FormsWebViewClient</primary><secondary>FormsWebViewClient</secondary></indexterm>
+<para><computeroutput>crc643f46942d9dd1fff9.FormsWebViewClient.FormsWebViewClient (<link linkend="_classcrc643f46942d9dd1fff9_1_1_web_view_renderer">crc643f46942d9dd1fff9.WebViewRenderer</link> p0)</computeroutput></para><para>
+Definition at line 31 of file FormsWebViewClient.java.</para>
+    </section><anchor xml:id="_classcrc643f46942d9dd1fff9_1_1_forms_web_view_client_1a997247d581903d536b6002d7bb576f50"/>    <section>
+    <title>FormsWebViewClient()<computeroutput>[5/8]</computeroutput></title>
+<indexterm><primary>FormsWebViewClient</primary><secondary>crc643f46942d9dd1fff9.FormsWebViewClient</secondary></indexterm>
+<indexterm><primary>crc643f46942d9dd1fff9.FormsWebViewClient</primary><secondary>FormsWebViewClient</secondary></indexterm>
+<para><computeroutput>crc643f46942d9dd1fff9.FormsWebViewClient.FormsWebViewClient ( )</computeroutput></para><para>
+Definition at line 24 of file FormsWebViewClient.java.</para>
+    </section><anchor xml:id="_classcrc643f46942d9dd1fff9_1_1_forms_web_view_client_1a502d2a54c1c3720b7b500215a3e992ed"/>    <section>
+    <title>FormsWebViewClient()<computeroutput>[6/8]</computeroutput></title>
+<indexterm><primary>FormsWebViewClient</primary><secondary>crc643f46942d9dd1fff9.FormsWebViewClient</secondary></indexterm>
+<indexterm><primary>crc643f46942d9dd1fff9.FormsWebViewClient</primary><secondary>FormsWebViewClient</secondary></indexterm>
+<para><computeroutput>crc643f46942d9dd1fff9.FormsWebViewClient.FormsWebViewClient (<link linkend="_classcrc643f46942d9dd1fff9_1_1_web_view_renderer">crc643f46942d9dd1fff9.WebViewRenderer</link> p0)</computeroutput></para><para>
+Definition at line 31 of file FormsWebViewClient.java.</para>
+    </section><anchor xml:id="_classcrc643f46942d9dd1fff9_1_1_forms_web_view_client_1a997247d581903d536b6002d7bb576f50"/>    <section>
+    <title>FormsWebViewClient()<computeroutput>[7/8]</computeroutput></title>
+<indexterm><primary>FormsWebViewClient</primary><secondary>crc643f46942d9dd1fff9.FormsWebViewClient</secondary></indexterm>
+<indexterm><primary>crc643f46942d9dd1fff9.FormsWebViewClient</primary><secondary>FormsWebViewClient</secondary></indexterm>
+<para><computeroutput>crc643f46942d9dd1fff9.FormsWebViewClient.FormsWebViewClient ( )</computeroutput></para><para>
+Definition at line 24 of file FormsWebViewClient.java.</para>
+    </section><anchor xml:id="_classcrc643f46942d9dd1fff9_1_1_forms_web_view_client_1a502d2a54c1c3720b7b500215a3e992ed"/>    <section>
+    <title>FormsWebViewClient()<computeroutput>[8/8]</computeroutput></title>
+<indexterm><primary>FormsWebViewClient</primary><secondary>crc643f46942d9dd1fff9.FormsWebViewClient</secondary></indexterm>
+<indexterm><primary>crc643f46942d9dd1fff9.FormsWebViewClient</primary><secondary>FormsWebViewClient</secondary></indexterm>
+<para><computeroutput>crc643f46942d9dd1fff9.FormsWebViewClient.FormsWebViewClient (<link linkend="_classcrc643f46942d9dd1fff9_1_1_web_view_renderer">crc643f46942d9dd1fff9.WebViewRenderer</link> p0)</computeroutput></para><para>
+Definition at line 31 of file FormsWebViewClient.java.</para>
+</section>
+</section>
+<section>
+<title>Member Function Documentation</title>
+<anchor xml:id="_classcrc643f46942d9dd1fff9_1_1_forms_web_view_client_1a84e573efd92ad096282bef0162c2a394"/>    <section>
+    <title>monodroidAddReference()<computeroutput>[1/4]</computeroutput></title>
+<indexterm><primary>monodroidAddReference</primary><secondary>crc643f46942d9dd1fff9.FormsWebViewClient</secondary></indexterm>
+<indexterm><primary>crc643f46942d9dd1fff9.FormsWebViewClient</primary><secondary>monodroidAddReference</secondary></indexterm>
+<para><computeroutput>void crc643f46942d9dd1fff9.FormsWebViewClient.monodroidAddReference (java.lang.Object obj)</computeroutput></para><para>
+Definition at line 87 of file FormsWebViewClient.java.</para>
+    </section><anchor xml:id="_classcrc643f46942d9dd1fff9_1_1_forms_web_view_client_1a84e573efd92ad096282bef0162c2a394"/>    <section>
+    <title>monodroidAddReference()<computeroutput>[2/4]</computeroutput></title>
+<indexterm><primary>monodroidAddReference</primary><secondary>crc643f46942d9dd1fff9.FormsWebViewClient</secondary></indexterm>
+<indexterm><primary>crc643f46942d9dd1fff9.FormsWebViewClient</primary><secondary>monodroidAddReference</secondary></indexterm>
+<para><computeroutput>void crc643f46942d9dd1fff9.FormsWebViewClient.monodroidAddReference (java.lang.Object obj)</computeroutput></para><para>
+Definition at line 87 of file FormsWebViewClient.java.</para>
+    </section><anchor xml:id="_classcrc643f46942d9dd1fff9_1_1_forms_web_view_client_1a84e573efd92ad096282bef0162c2a394"/>    <section>
+    <title>monodroidAddReference()<computeroutput>[3/4]</computeroutput></title>
+<indexterm><primary>monodroidAddReference</primary><secondary>crc643f46942d9dd1fff9.FormsWebViewClient</secondary></indexterm>
+<indexterm><primary>crc643f46942d9dd1fff9.FormsWebViewClient</primary><secondary>monodroidAddReference</secondary></indexterm>
+<para><computeroutput>void crc643f46942d9dd1fff9.FormsWebViewClient.monodroidAddReference (java.lang.Object obj)</computeroutput></para><para>
+Definition at line 87 of file FormsWebViewClient.java.</para>
+    </section><anchor xml:id="_classcrc643f46942d9dd1fff9_1_1_forms_web_view_client_1a84e573efd92ad096282bef0162c2a394"/>    <section>
+    <title>monodroidAddReference()<computeroutput>[4/4]</computeroutput></title>
+<indexterm><primary>monodroidAddReference</primary><secondary>crc643f46942d9dd1fff9.FormsWebViewClient</secondary></indexterm>
+<indexterm><primary>crc643f46942d9dd1fff9.FormsWebViewClient</primary><secondary>monodroidAddReference</secondary></indexterm>
+<para><computeroutput>void crc643f46942d9dd1fff9.FormsWebViewClient.monodroidAddReference (java.lang.Object obj)</computeroutput></para><para>
+Definition at line 87 of file FormsWebViewClient.java.</para>
+    </section><anchor xml:id="_classcrc643f46942d9dd1fff9_1_1_forms_web_view_client_1a880582832a6a2cef43d8824911f5f7b0"/>    <section>
+    <title>monodroidClearReferences()<computeroutput>[1/4]</computeroutput></title>
+<indexterm><primary>monodroidClearReferences</primary><secondary>crc643f46942d9dd1fff9.FormsWebViewClient</secondary></indexterm>
+<indexterm><primary>crc643f46942d9dd1fff9.FormsWebViewClient</primary><secondary>monodroidClearReferences</secondary></indexterm>
+<para><computeroutput>void crc643f46942d9dd1fff9.FormsWebViewClient.monodroidClearReferences ( )</computeroutput></para><para>
+Definition at line 94 of file FormsWebViewClient.java.</para>
+    </section><anchor xml:id="_classcrc643f46942d9dd1fff9_1_1_forms_web_view_client_1a880582832a6a2cef43d8824911f5f7b0"/>    <section>
+    <title>monodroidClearReferences()<computeroutput>[2/4]</computeroutput></title>
+<indexterm><primary>monodroidClearReferences</primary><secondary>crc643f46942d9dd1fff9.FormsWebViewClient</secondary></indexterm>
+<indexterm><primary>crc643f46942d9dd1fff9.FormsWebViewClient</primary><secondary>monodroidClearReferences</secondary></indexterm>
+<para><computeroutput>void crc643f46942d9dd1fff9.FormsWebViewClient.monodroidClearReferences ( )</computeroutput></para><para>
+Definition at line 94 of file FormsWebViewClient.java.</para>
+    </section><anchor xml:id="_classcrc643f46942d9dd1fff9_1_1_forms_web_view_client_1a880582832a6a2cef43d8824911f5f7b0"/>    <section>
+    <title>monodroidClearReferences()<computeroutput>[3/4]</computeroutput></title>
+<indexterm><primary>monodroidClearReferences</primary><secondary>crc643f46942d9dd1fff9.FormsWebViewClient</secondary></indexterm>
+<indexterm><primary>crc643f46942d9dd1fff9.FormsWebViewClient</primary><secondary>monodroidClearReferences</secondary></indexterm>
+<para><computeroutput>void crc643f46942d9dd1fff9.FormsWebViewClient.monodroidClearReferences ( )</computeroutput></para><para>
+Definition at line 94 of file FormsWebViewClient.java.</para>
+    </section><anchor xml:id="_classcrc643f46942d9dd1fff9_1_1_forms_web_view_client_1a880582832a6a2cef43d8824911f5f7b0"/>    <section>
+    <title>monodroidClearReferences()<computeroutput>[4/4]</computeroutput></title>
+<indexterm><primary>monodroidClearReferences</primary><secondary>crc643f46942d9dd1fff9.FormsWebViewClient</secondary></indexterm>
+<indexterm><primary>crc643f46942d9dd1fff9.FormsWebViewClient</primary><secondary>monodroidClearReferences</secondary></indexterm>
+<para><computeroutput>void crc643f46942d9dd1fff9.FormsWebViewClient.monodroidClearReferences ( )</computeroutput></para><para>
+Definition at line 94 of file FormsWebViewClient.java.</para>
+    </section><anchor xml:id="_classcrc643f46942d9dd1fff9_1_1_forms_web_view_client_1ad1f2c5f3315ee0b8c991c4ca9043efa8"/>    <section>
+    <title>onPageFinished()<computeroutput>[1/4]</computeroutput></title>
+<indexterm><primary>onPageFinished</primary><secondary>crc643f46942d9dd1fff9.FormsWebViewClient</secondary></indexterm>
+<indexterm><primary>crc643f46942d9dd1fff9.FormsWebViewClient</primary><secondary>onPageFinished</secondary></indexterm>
+<para><computeroutput>void crc643f46942d9dd1fff9.FormsWebViewClient.onPageFinished (android.webkit.WebView p0, java.lang.String p1)</computeroutput></para><para>
+Definition at line 63 of file FormsWebViewClient.java.</para>
+    </section><anchor xml:id="_classcrc643f46942d9dd1fff9_1_1_forms_web_view_client_1ad1f2c5f3315ee0b8c991c4ca9043efa8"/>    <section>
+    <title>onPageFinished()<computeroutput>[2/4]</computeroutput></title>
+<indexterm><primary>onPageFinished</primary><secondary>crc643f46942d9dd1fff9.FormsWebViewClient</secondary></indexterm>
+<indexterm><primary>crc643f46942d9dd1fff9.FormsWebViewClient</primary><secondary>onPageFinished</secondary></indexterm>
+<para><computeroutput>void crc643f46942d9dd1fff9.FormsWebViewClient.onPageFinished (android.webkit.WebView p0, java.lang.String p1)</computeroutput></para><para>
+Definition at line 63 of file FormsWebViewClient.java.</para>
+    </section><anchor xml:id="_classcrc643f46942d9dd1fff9_1_1_forms_web_view_client_1ad1f2c5f3315ee0b8c991c4ca9043efa8"/>    <section>
+    <title>onPageFinished()<computeroutput>[3/4]</computeroutput></title>
+<indexterm><primary>onPageFinished</primary><secondary>crc643f46942d9dd1fff9.FormsWebViewClient</secondary></indexterm>
+<indexterm><primary>crc643f46942d9dd1fff9.FormsWebViewClient</primary><secondary>onPageFinished</secondary></indexterm>
+<para><computeroutput>void crc643f46942d9dd1fff9.FormsWebViewClient.onPageFinished (android.webkit.WebView p0, java.lang.String p1)</computeroutput></para><para>
+Definition at line 63 of file FormsWebViewClient.java.</para>
+    </section><anchor xml:id="_classcrc643f46942d9dd1fff9_1_1_forms_web_view_client_1ad1f2c5f3315ee0b8c991c4ca9043efa8"/>    <section>
+    <title>onPageFinished()<computeroutput>[4/4]</computeroutput></title>
+<indexterm><primary>onPageFinished</primary><secondary>crc643f46942d9dd1fff9.FormsWebViewClient</secondary></indexterm>
+<indexterm><primary>crc643f46942d9dd1fff9.FormsWebViewClient</primary><secondary>onPageFinished</secondary></indexterm>
+<para><computeroutput>void crc643f46942d9dd1fff9.FormsWebViewClient.onPageFinished (android.webkit.WebView p0, java.lang.String p1)</computeroutput></para><para>
+Definition at line 63 of file FormsWebViewClient.java.</para>
+    </section><anchor xml:id="_classcrc643f46942d9dd1fff9_1_1_forms_web_view_client_1a4ec9d869d1e81e2c1feae044b6e12006"/>    <section>
+    <title>onPageStarted()<computeroutput>[1/4]</computeroutput></title>
+<indexterm><primary>onPageStarted</primary><secondary>crc643f46942d9dd1fff9.FormsWebViewClient</secondary></indexterm>
+<indexterm><primary>crc643f46942d9dd1fff9.FormsWebViewClient</primary><secondary>onPageStarted</secondary></indexterm>
+<para><computeroutput>void crc643f46942d9dd1fff9.FormsWebViewClient.onPageStarted (android.webkit.WebView p0, java.lang.String p1, android.graphics.Bitmap p2)</computeroutput></para><para>
+Definition at line 55 of file FormsWebViewClient.java.</para>
+    </section><anchor xml:id="_classcrc643f46942d9dd1fff9_1_1_forms_web_view_client_1a4ec9d869d1e81e2c1feae044b6e12006"/>    <section>
+    <title>onPageStarted()<computeroutput>[2/4]</computeroutput></title>
+<indexterm><primary>onPageStarted</primary><secondary>crc643f46942d9dd1fff9.FormsWebViewClient</secondary></indexterm>
+<indexterm><primary>crc643f46942d9dd1fff9.FormsWebViewClient</primary><secondary>onPageStarted</secondary></indexterm>
+<para><computeroutput>void crc643f46942d9dd1fff9.FormsWebViewClient.onPageStarted (android.webkit.WebView p0, java.lang.String p1, android.graphics.Bitmap p2)</computeroutput></para><para>
+Definition at line 55 of file FormsWebViewClient.java.</para>
+    </section><anchor xml:id="_classcrc643f46942d9dd1fff9_1_1_forms_web_view_client_1a4ec9d869d1e81e2c1feae044b6e12006"/>    <section>
+    <title>onPageStarted()<computeroutput>[3/4]</computeroutput></title>
+<indexterm><primary>onPageStarted</primary><secondary>crc643f46942d9dd1fff9.FormsWebViewClient</secondary></indexterm>
+<indexterm><primary>crc643f46942d9dd1fff9.FormsWebViewClient</primary><secondary>onPageStarted</secondary></indexterm>
+<para><computeroutput>void crc643f46942d9dd1fff9.FormsWebViewClient.onPageStarted (android.webkit.WebView p0, java.lang.String p1, android.graphics.Bitmap p2)</computeroutput></para><para>
+Definition at line 55 of file FormsWebViewClient.java.</para>
+    </section><anchor xml:id="_classcrc643f46942d9dd1fff9_1_1_forms_web_view_client_1a4ec9d869d1e81e2c1feae044b6e12006"/>    <section>
+    <title>onPageStarted()<computeroutput>[4/4]</computeroutput></title>
+<indexterm><primary>onPageStarted</primary><secondary>crc643f46942d9dd1fff9.FormsWebViewClient</secondary></indexterm>
+<indexterm><primary>crc643f46942d9dd1fff9.FormsWebViewClient</primary><secondary>onPageStarted</secondary></indexterm>
+<para><computeroutput>void crc643f46942d9dd1fff9.FormsWebViewClient.onPageStarted (android.webkit.WebView p0, java.lang.String p1, android.graphics.Bitmap p2)</computeroutput></para><para>
+Definition at line 55 of file FormsWebViewClient.java.</para>
+    </section><anchor xml:id="_classcrc643f46942d9dd1fff9_1_1_forms_web_view_client_1ad3c210c0bb945ece8b46a43549737070"/>    <section>
+    <title>onReceivedError()<computeroutput>[1/8]</computeroutput></title>
+<indexterm><primary>onReceivedError</primary><secondary>crc643f46942d9dd1fff9.FormsWebViewClient</secondary></indexterm>
+<indexterm><primary>crc643f46942d9dd1fff9.FormsWebViewClient</primary><secondary>onReceivedError</secondary></indexterm>
+<para><computeroutput>void crc643f46942d9dd1fff9.FormsWebViewClient.onReceivedError (android.webkit.WebView p0, android.webkit.WebResourceRequest p1, android.webkit.WebResourceError p2)</computeroutput></para><para>
+Definition at line 79 of file FormsWebViewClient.java.</para>
+    </section><anchor xml:id="_classcrc643f46942d9dd1fff9_1_1_forms_web_view_client_1ad3c210c0bb945ece8b46a43549737070"/>    <section>
+    <title>onReceivedError()<computeroutput>[2/8]</computeroutput></title>
+<indexterm><primary>onReceivedError</primary><secondary>crc643f46942d9dd1fff9.FormsWebViewClient</secondary></indexterm>
+<indexterm><primary>crc643f46942d9dd1fff9.FormsWebViewClient</primary><secondary>onReceivedError</secondary></indexterm>
+<para><computeroutput>void crc643f46942d9dd1fff9.FormsWebViewClient.onReceivedError (android.webkit.WebView p0, android.webkit.WebResourceRequest p1, android.webkit.WebResourceError p2)</computeroutput></para><para>
+Definition at line 79 of file FormsWebViewClient.java.</para>
+    </section><anchor xml:id="_classcrc643f46942d9dd1fff9_1_1_forms_web_view_client_1ad3c210c0bb945ece8b46a43549737070"/>    <section>
+    <title>onReceivedError()<computeroutput>[3/8]</computeroutput></title>
+<indexterm><primary>onReceivedError</primary><secondary>crc643f46942d9dd1fff9.FormsWebViewClient</secondary></indexterm>
+<indexterm><primary>crc643f46942d9dd1fff9.FormsWebViewClient</primary><secondary>onReceivedError</secondary></indexterm>
+<para><computeroutput>void crc643f46942d9dd1fff9.FormsWebViewClient.onReceivedError (android.webkit.WebView p0, android.webkit.WebResourceRequest p1, android.webkit.WebResourceError p2)</computeroutput></para><para>
+Definition at line 79 of file FormsWebViewClient.java.</para>
+    </section><anchor xml:id="_classcrc643f46942d9dd1fff9_1_1_forms_web_view_client_1ad3c210c0bb945ece8b46a43549737070"/>    <section>
+    <title>onReceivedError()<computeroutput>[4/8]</computeroutput></title>
+<indexterm><primary>onReceivedError</primary><secondary>crc643f46942d9dd1fff9.FormsWebViewClient</secondary></indexterm>
+<indexterm><primary>crc643f46942d9dd1fff9.FormsWebViewClient</primary><secondary>onReceivedError</secondary></indexterm>
+<para><computeroutput>void crc643f46942d9dd1fff9.FormsWebViewClient.onReceivedError (android.webkit.WebView p0, android.webkit.WebResourceRequest p1, android.webkit.WebResourceError p2)</computeroutput></para><para>
+Definition at line 79 of file FormsWebViewClient.java.</para>
+    </section><anchor xml:id="_classcrc643f46942d9dd1fff9_1_1_forms_web_view_client_1a863b526f7ac86c8a4b774e0b747b0616"/>    <section>
+    <title>onReceivedError()<computeroutput>[5/8]</computeroutput></title>
+<indexterm><primary>onReceivedError</primary><secondary>crc643f46942d9dd1fff9.FormsWebViewClient</secondary></indexterm>
+<indexterm><primary>crc643f46942d9dd1fff9.FormsWebViewClient</primary><secondary>onReceivedError</secondary></indexterm>
+<para><computeroutput>void crc643f46942d9dd1fff9.FormsWebViewClient.onReceivedError (android.webkit.WebView p0, int p1, java.lang.String p2, java.lang.String p3)</computeroutput></para><para>
+Definition at line 71 of file FormsWebViewClient.java.</para>
+    </section><anchor xml:id="_classcrc643f46942d9dd1fff9_1_1_forms_web_view_client_1a863b526f7ac86c8a4b774e0b747b0616"/>    <section>
+    <title>onReceivedError()<computeroutput>[6/8]</computeroutput></title>
+<indexterm><primary>onReceivedError</primary><secondary>crc643f46942d9dd1fff9.FormsWebViewClient</secondary></indexterm>
+<indexterm><primary>crc643f46942d9dd1fff9.FormsWebViewClient</primary><secondary>onReceivedError</secondary></indexterm>
+<para><computeroutput>void crc643f46942d9dd1fff9.FormsWebViewClient.onReceivedError (android.webkit.WebView p0, int p1, java.lang.String p2, java.lang.String p3)</computeroutput></para><para>
+Definition at line 71 of file FormsWebViewClient.java.</para>
+    </section><anchor xml:id="_classcrc643f46942d9dd1fff9_1_1_forms_web_view_client_1a863b526f7ac86c8a4b774e0b747b0616"/>    <section>
+    <title>onReceivedError()<computeroutput>[7/8]</computeroutput></title>
+<indexterm><primary>onReceivedError</primary><secondary>crc643f46942d9dd1fff9.FormsWebViewClient</secondary></indexterm>
+<indexterm><primary>crc643f46942d9dd1fff9.FormsWebViewClient</primary><secondary>onReceivedError</secondary></indexterm>
+<para><computeroutput>void crc643f46942d9dd1fff9.FormsWebViewClient.onReceivedError (android.webkit.WebView p0, int p1, java.lang.String p2, java.lang.String p3)</computeroutput></para><para>
+Definition at line 71 of file FormsWebViewClient.java.</para>
+    </section><anchor xml:id="_classcrc643f46942d9dd1fff9_1_1_forms_web_view_client_1a863b526f7ac86c8a4b774e0b747b0616"/>    <section>
+    <title>onReceivedError()<computeroutput>[8/8]</computeroutput></title>
+<indexterm><primary>onReceivedError</primary><secondary>crc643f46942d9dd1fff9.FormsWebViewClient</secondary></indexterm>
+<indexterm><primary>crc643f46942d9dd1fff9.FormsWebViewClient</primary><secondary>onReceivedError</secondary></indexterm>
+<para><computeroutput>void crc643f46942d9dd1fff9.FormsWebViewClient.onReceivedError (android.webkit.WebView p0, int p1, java.lang.String p2, java.lang.String p3)</computeroutput></para><para>
+Definition at line 71 of file FormsWebViewClient.java.</para>
+    </section><anchor xml:id="_classcrc643f46942d9dd1fff9_1_1_forms_web_view_client_1a87cc1ca450d255260124dc3be05b4189"/>    <section>
+    <title>shouldOverrideUrlLoading()<computeroutput>[1/8]</computeroutput></title>
+<indexterm><primary>shouldOverrideUrlLoading</primary><secondary>crc643f46942d9dd1fff9.FormsWebViewClient</secondary></indexterm>
+<indexterm><primary>crc643f46942d9dd1fff9.FormsWebViewClient</primary><secondary>shouldOverrideUrlLoading</secondary></indexterm>
+<para><computeroutput>boolean crc643f46942d9dd1fff9.FormsWebViewClient.shouldOverrideUrlLoading (android.webkit.WebView p0, android.webkit.WebResourceRequest p1)</computeroutput></para><para>
+Definition at line 47 of file FormsWebViewClient.java.</para>
+    </section><anchor xml:id="_classcrc643f46942d9dd1fff9_1_1_forms_web_view_client_1a87cc1ca450d255260124dc3be05b4189"/>    <section>
+    <title>shouldOverrideUrlLoading()<computeroutput>[2/8]</computeroutput></title>
+<indexterm><primary>shouldOverrideUrlLoading</primary><secondary>crc643f46942d9dd1fff9.FormsWebViewClient</secondary></indexterm>
+<indexterm><primary>crc643f46942d9dd1fff9.FormsWebViewClient</primary><secondary>shouldOverrideUrlLoading</secondary></indexterm>
+<para><computeroutput>boolean crc643f46942d9dd1fff9.FormsWebViewClient.shouldOverrideUrlLoading (android.webkit.WebView p0, android.webkit.WebResourceRequest p1)</computeroutput></para><para>
+Definition at line 47 of file FormsWebViewClient.java.</para>
+    </section><anchor xml:id="_classcrc643f46942d9dd1fff9_1_1_forms_web_view_client_1a87cc1ca450d255260124dc3be05b4189"/>    <section>
+    <title>shouldOverrideUrlLoading()<computeroutput>[3/8]</computeroutput></title>
+<indexterm><primary>shouldOverrideUrlLoading</primary><secondary>crc643f46942d9dd1fff9.FormsWebViewClient</secondary></indexterm>
+<indexterm><primary>crc643f46942d9dd1fff9.FormsWebViewClient</primary><secondary>shouldOverrideUrlLoading</secondary></indexterm>
+<para><computeroutput>boolean crc643f46942d9dd1fff9.FormsWebViewClient.shouldOverrideUrlLoading (android.webkit.WebView p0, android.webkit.WebResourceRequest p1)</computeroutput></para><para>
+Definition at line 47 of file FormsWebViewClient.java.</para>
+    </section><anchor xml:id="_classcrc643f46942d9dd1fff9_1_1_forms_web_view_client_1a87cc1ca450d255260124dc3be05b4189"/>    <section>
+    <title>shouldOverrideUrlLoading()<computeroutput>[4/8]</computeroutput></title>
+<indexterm><primary>shouldOverrideUrlLoading</primary><secondary>crc643f46942d9dd1fff9.FormsWebViewClient</secondary></indexterm>
+<indexterm><primary>crc643f46942d9dd1fff9.FormsWebViewClient</primary><secondary>shouldOverrideUrlLoading</secondary></indexterm>
+<para><computeroutput>boolean crc643f46942d9dd1fff9.FormsWebViewClient.shouldOverrideUrlLoading (android.webkit.WebView p0, android.webkit.WebResourceRequest p1)</computeroutput></para><para>
+Definition at line 47 of file FormsWebViewClient.java.</para>
+    </section><anchor xml:id="_classcrc643f46942d9dd1fff9_1_1_forms_web_view_client_1af6553389b1de96552e65957d43943579"/>    <section>
+    <title>shouldOverrideUrlLoading()<computeroutput>[5/8]</computeroutput></title>
+<indexterm><primary>shouldOverrideUrlLoading</primary><secondary>crc643f46942d9dd1fff9.FormsWebViewClient</secondary></indexterm>
+<indexterm><primary>crc643f46942d9dd1fff9.FormsWebViewClient</primary><secondary>shouldOverrideUrlLoading</secondary></indexterm>
+<para><computeroutput>boolean crc643f46942d9dd1fff9.FormsWebViewClient.shouldOverrideUrlLoading (android.webkit.WebView p0, java.lang.String p1)</computeroutput></para><para>
+Definition at line 39 of file FormsWebViewClient.java.</para>
+    </section><anchor xml:id="_classcrc643f46942d9dd1fff9_1_1_forms_web_view_client_1af6553389b1de96552e65957d43943579"/>    <section>
+    <title>shouldOverrideUrlLoading()<computeroutput>[6/8]</computeroutput></title>
+<indexterm><primary>shouldOverrideUrlLoading</primary><secondary>crc643f46942d9dd1fff9.FormsWebViewClient</secondary></indexterm>
+<indexterm><primary>crc643f46942d9dd1fff9.FormsWebViewClient</primary><secondary>shouldOverrideUrlLoading</secondary></indexterm>
+<para><computeroutput>boolean crc643f46942d9dd1fff9.FormsWebViewClient.shouldOverrideUrlLoading (android.webkit.WebView p0, java.lang.String p1)</computeroutput></para><para>
+Definition at line 39 of file FormsWebViewClient.java.</para>
+    </section><anchor xml:id="_classcrc643f46942d9dd1fff9_1_1_forms_web_view_client_1af6553389b1de96552e65957d43943579"/>    <section>
+    <title>shouldOverrideUrlLoading()<computeroutput>[7/8]</computeroutput></title>
+<indexterm><primary>shouldOverrideUrlLoading</primary><secondary>crc643f46942d9dd1fff9.FormsWebViewClient</secondary></indexterm>
+<indexterm><primary>crc643f46942d9dd1fff9.FormsWebViewClient</primary><secondary>shouldOverrideUrlLoading</secondary></indexterm>
+<para><computeroutput>boolean crc643f46942d9dd1fff9.FormsWebViewClient.shouldOverrideUrlLoading (android.webkit.WebView p0, java.lang.String p1)</computeroutput></para><para>
+Definition at line 39 of file FormsWebViewClient.java.</para>
+    </section><anchor xml:id="_classcrc643f46942d9dd1fff9_1_1_forms_web_view_client_1af6553389b1de96552e65957d43943579"/>    <section>
+    <title>shouldOverrideUrlLoading()<computeroutput>[8/8]</computeroutput></title>
+<indexterm><primary>shouldOverrideUrlLoading</primary><secondary>crc643f46942d9dd1fff9.FormsWebViewClient</secondary></indexterm>
+<indexterm><primary>crc643f46942d9dd1fff9.FormsWebViewClient</primary><secondary>shouldOverrideUrlLoading</secondary></indexterm>
+<para><computeroutput>boolean crc643f46942d9dd1fff9.FormsWebViewClient.shouldOverrideUrlLoading (android.webkit.WebView p0, java.lang.String p1)</computeroutput></para><para>
+Definition at line 39 of file FormsWebViewClient.java.</para>
+</section>
+</section>
+<section>
+<title>Member Data Documentation</title>
+<anchor xml:id="_classcrc643f46942d9dd1fff9_1_1_forms_web_view_client_1aa2a40bd47861bfc856d3d89155738855"/>    <section>
+    <title>__md_methods</title>
+<indexterm><primary>__md_methods</primary><secondary>crc643f46942d9dd1fff9.FormsWebViewClient</secondary></indexterm>
+<indexterm><primary>crc643f46942d9dd1fff9.FormsWebViewClient</primary><secondary>__md_methods</secondary></indexterm>
+<para><computeroutput>static final String crc643f46942d9dd1fff9.FormsWebViewClient.__md_methods<computeroutput>[static]</computeroutput></computeroutput></para>
+<para>@hide </para>
+<para>
+Definition at line 10 of file FormsWebViewClient.java.</para>
+</section>
+<para>
+The documentation for this class was generated from the following file:</para>
+Application Green Quake.Android/obj/Debug/100/android/src/crc643f46942d9dd1fff9/<link linkend="__debug_2100_2android_2src_2crc643f46942d9dd1fff9_2_forms_web_view_client_8java">FormsWebViewClient.java</link></section>
+</section>

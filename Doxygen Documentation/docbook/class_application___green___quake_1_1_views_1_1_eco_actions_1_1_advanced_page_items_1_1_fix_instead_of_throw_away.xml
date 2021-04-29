@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<section xmlns="http://docbook.org/ns/docbook" version="5.0" xmlns:xlink="http://www.w3.org/1999/xlink" xml:id="_class_application___green___quake_1_1_views_1_1_eco_actions_1_1_advanced_page_items_1_1_fix_instead_of_throw_away" xml:lang="en-US">
+<title>Application_Green_Quake.Views.EcoActions.AdvancedPageItems.FixInsteadOfThrowAway Class Reference</title>
+<indexterm><primary>Application_Green_Quake.Views.EcoActions.AdvancedPageItems.FixInsteadOfThrowAway</primary></indexterm>
+<para>Inheritance diagram for Application_Green_Quake.Views.EcoActions.AdvancedPageItems.FixInsteadOfThrowAway:    <informalfigure>
+        <mediaobject>
+            <imageobject>
+                <imagedata width="50%" align="center" valign="middle" scalefit="0" fileref="class_application___green___quake_1_1_views_1_1_eco_actions_1_1_advanced_page_items_1_1_fix_instead_of_throw_away.png"></imagedata>
+            </imageobject>
+        </mediaobject>
+    </informalfigure>
+</para>
+<simplesect>
+    <title>Public Member Functions    </title>
+        <itemizedlist>
+            <listitem><para><link linkend="_class_application___green___quake_1_1_views_1_1_eco_actions_1_1_advanced_page_items_1_1_fix_instead_of_throw_away_1a00b3f2b80df8085f7a50ce578e4f28a4">FixInsteadOfThrowAway</link> ()</para>
+</listitem>
+        </itemizedlist>
+</simplesect>
+<simplesect>
+    <title>Protected Member Functions    </title>
+        <itemizedlist>
+            <listitem><para>override void <link linkend="_class_application___green___quake_1_1_views_1_1_eco_actions_1_1_advanced_page_items_1_1_fix_instead_of_throw_away_1a1579d0768dc03c05d65b7cfe209599db">OnAppearing</link> ()</para>
+</listitem>
+        </itemizedlist>
+</simplesect>
+<section>
+<title>Detailed Description</title>
+<para>
+Definition at line 18 of file FixInsteadOfThrowAway.xaml.g.cs.</para>
+</section>
+<section>
+<title>Constructor &amp; Destructor Documentation</title>
+<anchor xml:id="_class_application___green___quake_1_1_views_1_1_eco_actions_1_1_advanced_page_items_1_1_fix_instead_of_throw_away_1a00b3f2b80df8085f7a50ce578e4f28a4"/>    <section>
+    <title>FixInsteadOfThrowAway()</title>
+<indexterm><primary>FixInsteadOfThrowAway</primary><secondary>Application_Green_Quake.Views.EcoActions.AdvancedPageItems.FixInsteadOfThrowAway</secondary></indexterm>
+<indexterm><primary>Application_Green_Quake.Views.EcoActions.AdvancedPageItems.FixInsteadOfThrowAway</primary><secondary>FixInsteadOfThrowAway</secondary></indexterm>
+<para><computeroutput>Application_Green_Quake.Views.EcoActions.AdvancedPageItems.FixInsteadOfThrowAway.FixInsteadOfThrowAway ( )</computeroutput></para><para>
+Definition at line 21 of file FixInsteadOfThrowAway.xaml.cs.</para>
+</section>
+</section>
+<section>
+<title>Member Function Documentation</title>
+<anchor xml:id="_class_application___green___quake_1_1_views_1_1_eco_actions_1_1_advanced_page_items_1_1_fix_instead_of_throw_away_1a1579d0768dc03c05d65b7cfe209599db"/>    <section>
+    <title>OnAppearing()</title>
+<indexterm><primary>OnAppearing</primary><secondary>Application_Green_Quake.Views.EcoActions.AdvancedPageItems.FixInsteadOfThrowAway</secondary></indexterm>
+<indexterm><primary>Application_Green_Quake.Views.EcoActions.AdvancedPageItems.FixInsteadOfThrowAway</primary><secondary>OnAppearing</secondary></indexterm>
+<para><computeroutput>override void Application_Green_Quake.Views.EcoActions.AdvancedPageItems.FixInsteadOfThrowAway.OnAppearing ( )<computeroutput>[protected]</computeroutput></computeroutput></para>
+<para>This function is called before the page is displayed and it created an object ans uses it&apos;s SetLvl method to set the players level in the app and display it in the navigation bar. </para>
+<para>
+Definition at line 63 of file FixInsteadOfThrowAway.xaml.cs.</para>
+</section>
+<para>
+The documentation for this class was generated from the following files:</para>
+Application Green Quake/obj/Debug/netstandard2.0/Views/EcoActions/AdvancedPageItems/<link linkend="__debug_2netstandard2_80_2_views_2_eco_actions_2_advanced_page_items_2_fix_instead_of_throw_away_8xaml_8g_8cs">FixInsteadOfThrowAway.xaml.g.cs</link>Application Green Quake/Views/EcoActions/AdvancedPageItems/<link linkend="__fix_instead_of_throw_away_8xaml_8cs">FixInsteadOfThrowAway.xaml.cs</link></section>
+</section>

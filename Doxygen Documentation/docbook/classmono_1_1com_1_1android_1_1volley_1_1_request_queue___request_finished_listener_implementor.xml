@@ -1,0 +1,84 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<section xmlns="http://docbook.org/ns/docbook" version="5.0" xmlns:xlink="http://www.w3.org/1999/xlink" xml:id="_classmono_1_1com_1_1android_1_1volley_1_1_request_queue___request_finished_listener_implementor" xml:lang="en-US">
+<title>mono.com.android.volley.RequestQueue_RequestFinishedListenerImplementor Class Reference</title>
+<indexterm><primary>mono.com.android.volley.RequestQueue_RequestFinishedListenerImplementor</primary></indexterm>
+<para>Inheritance diagram for mono.com.android.volley.RequestQueue_RequestFinishedListenerImplementor:    <informalfigure>
+        <mediaobject>
+            <imageobject>
+                <imagedata width="50%" align="center" valign="middle" scalefit="0" fileref="classmono_1_1com_1_1android_1_1volley_1_1_request_queue___request_finished_listener_implementor.png"></imagedata>
+            </imageobject>
+        </mediaobject>
+    </informalfigure>
+</para>
+<simplesect>
+    <title>Public Member Functions    </title>
+        <itemizedlist>
+            <listitem><para><link linkend="_classmono_1_1com_1_1android_1_1volley_1_1_request_queue___request_finished_listener_implementor_1a8dc87959c60c7ed3c8070cd969319c0c">RequestQueue_RequestFinishedListenerImplementor</link> ()</para>
+</listitem>
+            <listitem><para>void <link linkend="_classmono_1_1com_1_1android_1_1volley_1_1_request_queue___request_finished_listener_implementor_1aa29338c8fda4dab86e8f72ff7d6f29c8">onRequestFinished</link> (com.android.volley.Request p0)</para>
+</listitem>
+            <listitem><para>void <link linkend="_classmono_1_1com_1_1android_1_1volley_1_1_request_queue___request_finished_listener_implementor_1ae2b5f7cb7a8d9b34bfeab19c57b77a2e">monodroidAddReference</link> (java.lang.Object obj)</para>
+</listitem>
+            <listitem><para>void <link linkend="_classmono_1_1com_1_1android_1_1volley_1_1_request_queue___request_finished_listener_implementor_1a41c50bf5b430e2c11f8f6da09a7127d7">monodroidClearReferences</link> ()</para>
+</listitem>
+        </itemizedlist>
+</simplesect>
+<simplesect>
+    <title>Static Public Attributes    </title>
+        <itemizedlist>
+            <listitem><para>static final String <link linkend="_classmono_1_1com_1_1android_1_1volley_1_1_request_queue___request_finished_listener_implementor_1ae1dbfcd1d9ac18a1f5fc4857c9f66481">__md_methods</link></para>
+</listitem>
+        </itemizedlist>
+</simplesect>
+<section>
+<title>Detailed Description</title>
+<para>
+Definition at line 4 of file RequestQueue_RequestFinishedListenerImplementor.java.</para>
+</section>
+<section>
+<title>Constructor &amp; Destructor Documentation</title>
+<anchor xml:id="_classmono_1_1com_1_1android_1_1volley_1_1_request_queue___request_finished_listener_implementor_1a8dc87959c60c7ed3c8070cd969319c0c"/>    <section>
+    <title>RequestQueue_RequestFinishedListenerImplementor()</title>
+<indexterm><primary>RequestQueue_RequestFinishedListenerImplementor</primary><secondary>mono.com.android.volley.RequestQueue_RequestFinishedListenerImplementor</secondary></indexterm>
+<indexterm><primary>mono.com.android.volley.RequestQueue_RequestFinishedListenerImplementor</primary><secondary>RequestQueue_RequestFinishedListenerImplementor</secondary></indexterm>
+<para><computeroutput>mono.com.android.volley.RequestQueue_RequestFinishedListenerImplementor.RequestQueue_RequestFinishedListenerImplementor ( )</computeroutput></para><para>
+Definition at line 20 of file RequestQueue_RequestFinishedListenerImplementor.java.</para>
+</section>
+</section>
+<section>
+<title>Member Function Documentation</title>
+<anchor xml:id="_classmono_1_1com_1_1android_1_1volley_1_1_request_queue___request_finished_listener_implementor_1ae2b5f7cb7a8d9b34bfeab19c57b77a2e"/>    <section>
+    <title>monodroidAddReference()</title>
+<indexterm><primary>monodroidAddReference</primary><secondary>mono.com.android.volley.RequestQueue_RequestFinishedListenerImplementor</secondary></indexterm>
+<indexterm><primary>mono.com.android.volley.RequestQueue_RequestFinishedListenerImplementor</primary><secondary>monodroidAddReference</secondary></indexterm>
+<para><computeroutput>void mono.com.android.volley.RequestQueue_RequestFinishedListenerImplementor.monodroidAddReference (java.lang.Object obj)</computeroutput></para><para>
+Definition at line 36 of file RequestQueue_RequestFinishedListenerImplementor.java.</para>
+    </section><anchor xml:id="_classmono_1_1com_1_1android_1_1volley_1_1_request_queue___request_finished_listener_implementor_1a41c50bf5b430e2c11f8f6da09a7127d7"/>    <section>
+    <title>monodroidClearReferences()</title>
+<indexterm><primary>monodroidClearReferences</primary><secondary>mono.com.android.volley.RequestQueue_RequestFinishedListenerImplementor</secondary></indexterm>
+<indexterm><primary>mono.com.android.volley.RequestQueue_RequestFinishedListenerImplementor</primary><secondary>monodroidClearReferences</secondary></indexterm>
+<para><computeroutput>void mono.com.android.volley.RequestQueue_RequestFinishedListenerImplementor.monodroidClearReferences ( )</computeroutput></para><para>
+Definition at line 43 of file RequestQueue_RequestFinishedListenerImplementor.java.</para>
+    </section><anchor xml:id="_classmono_1_1com_1_1android_1_1volley_1_1_request_queue___request_finished_listener_implementor_1aa29338c8fda4dab86e8f72ff7d6f29c8"/>    <section>
+    <title>onRequestFinished()</title>
+<indexterm><primary>onRequestFinished</primary><secondary>mono.com.android.volley.RequestQueue_RequestFinishedListenerImplementor</secondary></indexterm>
+<indexterm><primary>mono.com.android.volley.RequestQueue_RequestFinishedListenerImplementor</primary><secondary>onRequestFinished</secondary></indexterm>
+<para><computeroutput>void mono.com.android.volley.RequestQueue_RequestFinishedListenerImplementor.onRequestFinished (com.android.volley.Request p0)</computeroutput></para><para>
+Definition at line 28 of file RequestQueue_RequestFinishedListenerImplementor.java.</para>
+</section>
+</section>
+<section>
+<title>Member Data Documentation</title>
+<anchor xml:id="_classmono_1_1com_1_1android_1_1volley_1_1_request_queue___request_finished_listener_implementor_1ae1dbfcd1d9ac18a1f5fc4857c9f66481"/>    <section>
+    <title>__md_methods</title>
+<indexterm><primary>__md_methods</primary><secondary>mono.com.android.volley.RequestQueue_RequestFinishedListenerImplementor</secondary></indexterm>
+<indexterm><primary>mono.com.android.volley.RequestQueue_RequestFinishedListenerImplementor</primary><secondary>__md_methods</secondary></indexterm>
+<para><computeroutput>final String mono.com.android.volley.RequestQueue_RequestFinishedListenerImplementor.__md_methods<computeroutput>[static]</computeroutput></computeroutput></para>
+<para>@hide </para>
+<para>
+Definition at line 11 of file RequestQueue_RequestFinishedListenerImplementor.java.</para>
+</section>
+<para>
+The documentation for this class was generated from the following file:</para>
+Application Green Quake.Android/obj/Debug/110/android/src/mono/com/android/volley/<link linkend="__request_queue___request_finished_listener_implementor_8java">RequestQueue_RequestFinishedListenerImplementor.java</link></section>
+</section>

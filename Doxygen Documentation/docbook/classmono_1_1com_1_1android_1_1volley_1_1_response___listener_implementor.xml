@@ -1,0 +1,84 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<section xmlns="http://docbook.org/ns/docbook" version="5.0" xmlns:xlink="http://www.w3.org/1999/xlink" xml:id="_classmono_1_1com_1_1android_1_1volley_1_1_response___listener_implementor" xml:lang="en-US">
+<title>mono.com.android.volley.Response_ListenerImplementor Class Reference</title>
+<indexterm><primary>mono.com.android.volley.Response_ListenerImplementor</primary></indexterm>
+<para>Inheritance diagram for mono.com.android.volley.Response_ListenerImplementor:    <informalfigure>
+        <mediaobject>
+            <imageobject>
+                <imagedata width="50%" align="center" valign="middle" scalefit="0" fileref="classmono_1_1com_1_1android_1_1volley_1_1_response___listener_implementor.png"></imagedata>
+            </imageobject>
+        </mediaobject>
+    </informalfigure>
+</para>
+<simplesect>
+    <title>Public Member Functions    </title>
+        <itemizedlist>
+            <listitem><para><link linkend="_classmono_1_1com_1_1android_1_1volley_1_1_response___listener_implementor_1ad97c762f7a02af11b7c8f71e9ff20ded">Response_ListenerImplementor</link> ()</para>
+</listitem>
+            <listitem><para>void <link linkend="_classmono_1_1com_1_1android_1_1volley_1_1_response___listener_implementor_1afdf1e4c4f55fffc74d791898791aa90d">onResponse</link> (java.lang.Object p0)</para>
+</listitem>
+            <listitem><para>void <link linkend="_classmono_1_1com_1_1android_1_1volley_1_1_response___listener_implementor_1a0b12d132aded15c09b4898d388bde6e9">monodroidAddReference</link> (java.lang.Object obj)</para>
+</listitem>
+            <listitem><para>void <link linkend="_classmono_1_1com_1_1android_1_1volley_1_1_response___listener_implementor_1a2b18ceb31d6527defcbe301d68b8435e">monodroidClearReferences</link> ()</para>
+</listitem>
+        </itemizedlist>
+</simplesect>
+<simplesect>
+    <title>Static Public Attributes    </title>
+        <itemizedlist>
+            <listitem><para>static final String <link linkend="_classmono_1_1com_1_1android_1_1volley_1_1_response___listener_implementor_1a69b921ee04700924ac275040c9ee9afe">__md_methods</link></para>
+</listitem>
+        </itemizedlist>
+</simplesect>
+<section>
+<title>Detailed Description</title>
+<para>
+Definition at line 4 of file Response_ListenerImplementor.java.</para>
+</section>
+<section>
+<title>Constructor &amp; Destructor Documentation</title>
+<anchor xml:id="_classmono_1_1com_1_1android_1_1volley_1_1_response___listener_implementor_1ad97c762f7a02af11b7c8f71e9ff20ded"/>    <section>
+    <title>Response_ListenerImplementor()</title>
+<indexterm><primary>Response_ListenerImplementor</primary><secondary>mono.com.android.volley.Response_ListenerImplementor</secondary></indexterm>
+<indexterm><primary>mono.com.android.volley.Response_ListenerImplementor</primary><secondary>Response_ListenerImplementor</secondary></indexterm>
+<para><computeroutput>mono.com.android.volley.Response_ListenerImplementor.Response_ListenerImplementor ( )</computeroutput></para><para>
+Definition at line 20 of file Response_ListenerImplementor.java.</para>
+</section>
+</section>
+<section>
+<title>Member Function Documentation</title>
+<anchor xml:id="_classmono_1_1com_1_1android_1_1volley_1_1_response___listener_implementor_1a0b12d132aded15c09b4898d388bde6e9"/>    <section>
+    <title>monodroidAddReference()</title>
+<indexterm><primary>monodroidAddReference</primary><secondary>mono.com.android.volley.Response_ListenerImplementor</secondary></indexterm>
+<indexterm><primary>mono.com.android.volley.Response_ListenerImplementor</primary><secondary>monodroidAddReference</secondary></indexterm>
+<para><computeroutput>void mono.com.android.volley.Response_ListenerImplementor.monodroidAddReference (java.lang.Object obj)</computeroutput></para><para>
+Definition at line 36 of file Response_ListenerImplementor.java.</para>
+    </section><anchor xml:id="_classmono_1_1com_1_1android_1_1volley_1_1_response___listener_implementor_1a2b18ceb31d6527defcbe301d68b8435e"/>    <section>
+    <title>monodroidClearReferences()</title>
+<indexterm><primary>monodroidClearReferences</primary><secondary>mono.com.android.volley.Response_ListenerImplementor</secondary></indexterm>
+<indexterm><primary>mono.com.android.volley.Response_ListenerImplementor</primary><secondary>monodroidClearReferences</secondary></indexterm>
+<para><computeroutput>void mono.com.android.volley.Response_ListenerImplementor.monodroidClearReferences ( )</computeroutput></para><para>
+Definition at line 43 of file Response_ListenerImplementor.java.</para>
+    </section><anchor xml:id="_classmono_1_1com_1_1android_1_1volley_1_1_response___listener_implementor_1afdf1e4c4f55fffc74d791898791aa90d"/>    <section>
+    <title>onResponse()</title>
+<indexterm><primary>onResponse</primary><secondary>mono.com.android.volley.Response_ListenerImplementor</secondary></indexterm>
+<indexterm><primary>mono.com.android.volley.Response_ListenerImplementor</primary><secondary>onResponse</secondary></indexterm>
+<para><computeroutput>void mono.com.android.volley.Response_ListenerImplementor.onResponse (java.lang.Object p0)</computeroutput></para><para>
+Definition at line 28 of file Response_ListenerImplementor.java.</para>
+</section>
+</section>
+<section>
+<title>Member Data Documentation</title>
+<anchor xml:id="_classmono_1_1com_1_1android_1_1volley_1_1_response___listener_implementor_1a69b921ee04700924ac275040c9ee9afe"/>    <section>
+    <title>__md_methods</title>
+<indexterm><primary>__md_methods</primary><secondary>mono.com.android.volley.Response_ListenerImplementor</secondary></indexterm>
+<indexterm><primary>mono.com.android.volley.Response_ListenerImplementor</primary><secondary>__md_methods</secondary></indexterm>
+<para><computeroutput>final String mono.com.android.volley.Response_ListenerImplementor.__md_methods<computeroutput>[static]</computeroutput></computeroutput></para>
+<para>@hide </para>
+<para>
+Definition at line 11 of file Response_ListenerImplementor.java.</para>
+</section>
+<para>
+The documentation for this class was generated from the following file:</para>
+Application Green Quake.Android/obj/Debug/110/android/src/mono/com/android/volley/<link linkend="__response___listener_implementor_8java">Response_ListenerImplementor.java</link></section>
+</section>

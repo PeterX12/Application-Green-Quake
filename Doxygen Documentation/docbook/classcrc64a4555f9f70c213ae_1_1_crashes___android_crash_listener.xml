@@ -1,0 +1,196 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<section xmlns="http://docbook.org/ns/docbook" version="5.0" xmlns:xlink="http://www.w3.org/1999/xlink" xml:id="_classcrc64a4555f9f70c213ae_1_1_crashes___android_crash_listener" xml:lang="en-US">
+<title>crc64a4555f9f70c213ae.Crashes_AndroidCrashListener Class Reference</title>
+<indexterm><primary>crc64a4555f9f70c213ae.Crashes_AndroidCrashListener</primary></indexterm>
+<para>Inheritance diagram for crc64a4555f9f70c213ae.Crashes_AndroidCrashListener:    <informalfigure>
+        <mediaobject>
+            <imageobject>
+                <imagedata width="50%" align="center" valign="middle" scalefit="0" fileref="classcrc64a4555f9f70c213ae_1_1_crashes___android_crash_listener.png"></imagedata>
+            </imageobject>
+        </mediaobject>
+    </informalfigure>
+</para>
+<simplesect>
+    <title>Public Member Functions    </title>
+        <itemizedlist>
+            <listitem><para><link linkend="_classcrc64a4555f9f70c213ae_1_1_crashes___android_crash_listener_1ad7450fbf15196a62da8156820a421c1c">Crashes_AndroidCrashListener</link> ()</para>
+</listitem>
+            <listitem><para>java.lang.Iterable <link linkend="_classcrc64a4555f9f70c213ae_1_1_crashes___android_crash_listener_1a7f4c52f35c0f28ecd7795d97ed1f0cab">getErrorAttachments</link> (com.microsoft.appcenter.crashes.model.ErrorReport p0)</para>
+</listitem>
+            <listitem><para>void <link linkend="_classcrc64a4555f9f70c213ae_1_1_crashes___android_crash_listener_1a150d7e281c6d591c61939f3ae4bc0118">onBeforeSending</link> (com.microsoft.appcenter.crashes.model.ErrorReport p0)</para>
+</listitem>
+            <listitem><para>void <link linkend="_classcrc64a4555f9f70c213ae_1_1_crashes___android_crash_listener_1a79f3defda1f361426dd63c6d449bfa9e">onSendingFailed</link> (com.microsoft.appcenter.crashes.model.ErrorReport p0, java.lang.Exception p1)</para>
+</listitem>
+            <listitem><para>void <link linkend="_classcrc64a4555f9f70c213ae_1_1_crashes___android_crash_listener_1a5cf73b91ce94cbdd8dc557f792f3650a">onSendingSucceeded</link> (com.microsoft.appcenter.crashes.model.ErrorReport p0)</para>
+</listitem>
+            <listitem><para>boolean <link linkend="_classcrc64a4555f9f70c213ae_1_1_crashes___android_crash_listener_1afc23cf2f6408ca4c24ac76191ba6c380">shouldAwaitUserConfirmation</link> ()</para>
+</listitem>
+            <listitem><para>boolean <link linkend="_classcrc64a4555f9f70c213ae_1_1_crashes___android_crash_listener_1a0d6575836c71f4a02636c6c5920576ab">shouldProcess</link> (com.microsoft.appcenter.crashes.model.ErrorReport p0)</para>
+</listitem>
+            <listitem><para>void <link linkend="_classcrc64a4555f9f70c213ae_1_1_crashes___android_crash_listener_1ae8817814f94a31ca329c33bc85b3c8ea">monodroidAddReference</link> (java.lang.Object obj)</para>
+</listitem>
+            <listitem><para>void <link linkend="_classcrc64a4555f9f70c213ae_1_1_crashes___android_crash_listener_1acf8991ddf02faa0feffc4e257b9c19b2">monodroidClearReferences</link> ()</para>
+</listitem>
+            <listitem><para><link linkend="_classcrc64a4555f9f70c213ae_1_1_crashes___android_crash_listener_1ad7450fbf15196a62da8156820a421c1c">Crashes_AndroidCrashListener</link> ()</para>
+</listitem>
+            <listitem><para>java.lang.Iterable <link linkend="_classcrc64a4555f9f70c213ae_1_1_crashes___android_crash_listener_1a7f4c52f35c0f28ecd7795d97ed1f0cab">getErrorAttachments</link> (com.microsoft.appcenter.crashes.model.ErrorReport p0)</para>
+</listitem>
+            <listitem><para>void <link linkend="_classcrc64a4555f9f70c213ae_1_1_crashes___android_crash_listener_1a150d7e281c6d591c61939f3ae4bc0118">onBeforeSending</link> (com.microsoft.appcenter.crashes.model.ErrorReport p0)</para>
+</listitem>
+            <listitem><para>void <link linkend="_classcrc64a4555f9f70c213ae_1_1_crashes___android_crash_listener_1a79f3defda1f361426dd63c6d449bfa9e">onSendingFailed</link> (com.microsoft.appcenter.crashes.model.ErrorReport p0, java.lang.Exception p1)</para>
+</listitem>
+            <listitem><para>void <link linkend="_classcrc64a4555f9f70c213ae_1_1_crashes___android_crash_listener_1a5cf73b91ce94cbdd8dc557f792f3650a">onSendingSucceeded</link> (com.microsoft.appcenter.crashes.model.ErrorReport p0)</para>
+</listitem>
+            <listitem><para>boolean <link linkend="_classcrc64a4555f9f70c213ae_1_1_crashes___android_crash_listener_1afc23cf2f6408ca4c24ac76191ba6c380">shouldAwaitUserConfirmation</link> ()</para>
+</listitem>
+            <listitem><para>boolean <link linkend="_classcrc64a4555f9f70c213ae_1_1_crashes___android_crash_listener_1a0d6575836c71f4a02636c6c5920576ab">shouldProcess</link> (com.microsoft.appcenter.crashes.model.ErrorReport p0)</para>
+</listitem>
+            <listitem><para>void <link linkend="_classcrc64a4555f9f70c213ae_1_1_crashes___android_crash_listener_1ae8817814f94a31ca329c33bc85b3c8ea">monodroidAddReference</link> (java.lang.Object obj)</para>
+</listitem>
+            <listitem><para>void <link linkend="_classcrc64a4555f9f70c213ae_1_1_crashes___android_crash_listener_1acf8991ddf02faa0feffc4e257b9c19b2">monodroidClearReferences</link> ()</para>
+</listitem>
+        </itemizedlist>
+</simplesect>
+<simplesect>
+    <title>Static Public Attributes    </title>
+        <itemizedlist>
+            <listitem><para>static final String <link linkend="_classcrc64a4555f9f70c213ae_1_1_crashes___android_crash_listener_1a3e582c467cfcf13868747a79d3e0992a">__md_methods</link></para>
+</listitem>
+        </itemizedlist>
+</simplesect>
+<section>
+<title>Detailed Description</title>
+<para>
+Definition at line 4 of file Crashes_AndroidCrashListener.java.</para>
+</section>
+<section>
+<title>Constructor &amp; Destructor Documentation</title>
+<anchor xml:id="_classcrc64a4555f9f70c213ae_1_1_crashes___android_crash_listener_1ad7450fbf15196a62da8156820a421c1c"/>    <section>
+    <title>Crashes_AndroidCrashListener()<computeroutput>[1/2]</computeroutput></title>
+<indexterm><primary>Crashes_AndroidCrashListener</primary><secondary>crc64a4555f9f70c213ae.Crashes_AndroidCrashListener</secondary></indexterm>
+<indexterm><primary>crc64a4555f9f70c213ae.Crashes_AndroidCrashListener</primary><secondary>Crashes_AndroidCrashListener</secondary></indexterm>
+<para><computeroutput>crc64a4555f9f70c213ae.Crashes_AndroidCrashListener.Crashes_AndroidCrashListener ( )</computeroutput></para><para>
+Definition at line 25 of file Crashes_AndroidCrashListener.java.</para>
+    </section><anchor xml:id="_classcrc64a4555f9f70c213ae_1_1_crashes___android_crash_listener_1ad7450fbf15196a62da8156820a421c1c"/>    <section>
+    <title>Crashes_AndroidCrashListener()<computeroutput>[2/2]</computeroutput></title>
+<indexterm><primary>Crashes_AndroidCrashListener</primary><secondary>crc64a4555f9f70c213ae.Crashes_AndroidCrashListener</secondary></indexterm>
+<indexterm><primary>crc64a4555f9f70c213ae.Crashes_AndroidCrashListener</primary><secondary>Crashes_AndroidCrashListener</secondary></indexterm>
+<para><computeroutput>crc64a4555f9f70c213ae.Crashes_AndroidCrashListener.Crashes_AndroidCrashListener ( )</computeroutput></para><para>
+Definition at line 25 of file Crashes_AndroidCrashListener.java.</para>
+</section>
+</section>
+<section>
+<title>Member Function Documentation</title>
+<anchor xml:id="_classcrc64a4555f9f70c213ae_1_1_crashes___android_crash_listener_1a7f4c52f35c0f28ecd7795d97ed1f0cab"/>    <section>
+    <title>getErrorAttachments()<computeroutput>[1/2]</computeroutput></title>
+<indexterm><primary>getErrorAttachments</primary><secondary>crc64a4555f9f70c213ae.Crashes_AndroidCrashListener</secondary></indexterm>
+<indexterm><primary>crc64a4555f9f70c213ae.Crashes_AndroidCrashListener</primary><secondary>getErrorAttachments</secondary></indexterm>
+<para><computeroutput>java.lang.Iterable crc64a4555f9f70c213ae.Crashes_AndroidCrashListener.getErrorAttachments (com.microsoft.appcenter.crashes.model.ErrorReport p0)</computeroutput></para><para>
+Definition at line 33 of file Crashes_AndroidCrashListener.java.</para>
+    </section><anchor xml:id="_classcrc64a4555f9f70c213ae_1_1_crashes___android_crash_listener_1a7f4c52f35c0f28ecd7795d97ed1f0cab"/>    <section>
+    <title>getErrorAttachments()<computeroutput>[2/2]</computeroutput></title>
+<indexterm><primary>getErrorAttachments</primary><secondary>crc64a4555f9f70c213ae.Crashes_AndroidCrashListener</secondary></indexterm>
+<indexterm><primary>crc64a4555f9f70c213ae.Crashes_AndroidCrashListener</primary><secondary>getErrorAttachments</secondary></indexterm>
+<para><computeroutput>java.lang.Iterable crc64a4555f9f70c213ae.Crashes_AndroidCrashListener.getErrorAttachments (com.microsoft.appcenter.crashes.model.ErrorReport p0)</computeroutput></para><para>
+Definition at line 33 of file Crashes_AndroidCrashListener.java.</para>
+    </section><anchor xml:id="_classcrc64a4555f9f70c213ae_1_1_crashes___android_crash_listener_1ae8817814f94a31ca329c33bc85b3c8ea"/>    <section>
+    <title>monodroidAddReference()<computeroutput>[1/2]</computeroutput></title>
+<indexterm><primary>monodroidAddReference</primary><secondary>crc64a4555f9f70c213ae.Crashes_AndroidCrashListener</secondary></indexterm>
+<indexterm><primary>crc64a4555f9f70c213ae.Crashes_AndroidCrashListener</primary><secondary>monodroidAddReference</secondary></indexterm>
+<para><computeroutput>void crc64a4555f9f70c213ae.Crashes_AndroidCrashListener.monodroidAddReference (java.lang.Object obj)</computeroutput></para><para>
+Definition at line 81 of file Crashes_AndroidCrashListener.java.</para>
+    </section><anchor xml:id="_classcrc64a4555f9f70c213ae_1_1_crashes___android_crash_listener_1ae8817814f94a31ca329c33bc85b3c8ea"/>    <section>
+    <title>monodroidAddReference()<computeroutput>[2/2]</computeroutput></title>
+<indexterm><primary>monodroidAddReference</primary><secondary>crc64a4555f9f70c213ae.Crashes_AndroidCrashListener</secondary></indexterm>
+<indexterm><primary>crc64a4555f9f70c213ae.Crashes_AndroidCrashListener</primary><secondary>monodroidAddReference</secondary></indexterm>
+<para><computeroutput>void crc64a4555f9f70c213ae.Crashes_AndroidCrashListener.monodroidAddReference (java.lang.Object obj)</computeroutput></para><para>
+Definition at line 81 of file Crashes_AndroidCrashListener.java.</para>
+    </section><anchor xml:id="_classcrc64a4555f9f70c213ae_1_1_crashes___android_crash_listener_1acf8991ddf02faa0feffc4e257b9c19b2"/>    <section>
+    <title>monodroidClearReferences()<computeroutput>[1/2]</computeroutput></title>
+<indexterm><primary>monodroidClearReferences</primary><secondary>crc64a4555f9f70c213ae.Crashes_AndroidCrashListener</secondary></indexterm>
+<indexterm><primary>crc64a4555f9f70c213ae.Crashes_AndroidCrashListener</primary><secondary>monodroidClearReferences</secondary></indexterm>
+<para><computeroutput>void crc64a4555f9f70c213ae.Crashes_AndroidCrashListener.monodroidClearReferences ( )</computeroutput></para><para>
+Definition at line 88 of file Crashes_AndroidCrashListener.java.</para>
+    </section><anchor xml:id="_classcrc64a4555f9f70c213ae_1_1_crashes___android_crash_listener_1acf8991ddf02faa0feffc4e257b9c19b2"/>    <section>
+    <title>monodroidClearReferences()<computeroutput>[2/2]</computeroutput></title>
+<indexterm><primary>monodroidClearReferences</primary><secondary>crc64a4555f9f70c213ae.Crashes_AndroidCrashListener</secondary></indexterm>
+<indexterm><primary>crc64a4555f9f70c213ae.Crashes_AndroidCrashListener</primary><secondary>monodroidClearReferences</secondary></indexterm>
+<para><computeroutput>void crc64a4555f9f70c213ae.Crashes_AndroidCrashListener.monodroidClearReferences ( )</computeroutput></para><para>
+Definition at line 88 of file Crashes_AndroidCrashListener.java.</para>
+    </section><anchor xml:id="_classcrc64a4555f9f70c213ae_1_1_crashes___android_crash_listener_1a150d7e281c6d591c61939f3ae4bc0118"/>    <section>
+    <title>onBeforeSending()<computeroutput>[1/2]</computeroutput></title>
+<indexterm><primary>onBeforeSending</primary><secondary>crc64a4555f9f70c213ae.Crashes_AndroidCrashListener</secondary></indexterm>
+<indexterm><primary>crc64a4555f9f70c213ae.Crashes_AndroidCrashListener</primary><secondary>onBeforeSending</secondary></indexterm>
+<para><computeroutput>void crc64a4555f9f70c213ae.Crashes_AndroidCrashListener.onBeforeSending (com.microsoft.appcenter.crashes.model.ErrorReport p0)</computeroutput></para><para>
+Definition at line 41 of file Crashes_AndroidCrashListener.java.</para>
+    </section><anchor xml:id="_classcrc64a4555f9f70c213ae_1_1_crashes___android_crash_listener_1a150d7e281c6d591c61939f3ae4bc0118"/>    <section>
+    <title>onBeforeSending()<computeroutput>[2/2]</computeroutput></title>
+<indexterm><primary>onBeforeSending</primary><secondary>crc64a4555f9f70c213ae.Crashes_AndroidCrashListener</secondary></indexterm>
+<indexterm><primary>crc64a4555f9f70c213ae.Crashes_AndroidCrashListener</primary><secondary>onBeforeSending</secondary></indexterm>
+<para><computeroutput>void crc64a4555f9f70c213ae.Crashes_AndroidCrashListener.onBeforeSending (com.microsoft.appcenter.crashes.model.ErrorReport p0)</computeroutput></para><para>
+Definition at line 41 of file Crashes_AndroidCrashListener.java.</para>
+    </section><anchor xml:id="_classcrc64a4555f9f70c213ae_1_1_crashes___android_crash_listener_1a79f3defda1f361426dd63c6d449bfa9e"/>    <section>
+    <title>onSendingFailed()<computeroutput>[1/2]</computeroutput></title>
+<indexterm><primary>onSendingFailed</primary><secondary>crc64a4555f9f70c213ae.Crashes_AndroidCrashListener</secondary></indexterm>
+<indexterm><primary>crc64a4555f9f70c213ae.Crashes_AndroidCrashListener</primary><secondary>onSendingFailed</secondary></indexterm>
+<para><computeroutput>void crc64a4555f9f70c213ae.Crashes_AndroidCrashListener.onSendingFailed (com.microsoft.appcenter.crashes.model.ErrorReport p0, java.lang.Exception p1)</computeroutput></para><para>
+Definition at line 49 of file Crashes_AndroidCrashListener.java.</para>
+    </section><anchor xml:id="_classcrc64a4555f9f70c213ae_1_1_crashes___android_crash_listener_1a79f3defda1f361426dd63c6d449bfa9e"/>    <section>
+    <title>onSendingFailed()<computeroutput>[2/2]</computeroutput></title>
+<indexterm><primary>onSendingFailed</primary><secondary>crc64a4555f9f70c213ae.Crashes_AndroidCrashListener</secondary></indexterm>
+<indexterm><primary>crc64a4555f9f70c213ae.Crashes_AndroidCrashListener</primary><secondary>onSendingFailed</secondary></indexterm>
+<para><computeroutput>void crc64a4555f9f70c213ae.Crashes_AndroidCrashListener.onSendingFailed (com.microsoft.appcenter.crashes.model.ErrorReport p0, java.lang.Exception p1)</computeroutput></para><para>
+Definition at line 49 of file Crashes_AndroidCrashListener.java.</para>
+    </section><anchor xml:id="_classcrc64a4555f9f70c213ae_1_1_crashes___android_crash_listener_1a5cf73b91ce94cbdd8dc557f792f3650a"/>    <section>
+    <title>onSendingSucceeded()<computeroutput>[1/2]</computeroutput></title>
+<indexterm><primary>onSendingSucceeded</primary><secondary>crc64a4555f9f70c213ae.Crashes_AndroidCrashListener</secondary></indexterm>
+<indexterm><primary>crc64a4555f9f70c213ae.Crashes_AndroidCrashListener</primary><secondary>onSendingSucceeded</secondary></indexterm>
+<para><computeroutput>void crc64a4555f9f70c213ae.Crashes_AndroidCrashListener.onSendingSucceeded (com.microsoft.appcenter.crashes.model.ErrorReport p0)</computeroutput></para><para>
+Definition at line 57 of file Crashes_AndroidCrashListener.java.</para>
+    </section><anchor xml:id="_classcrc64a4555f9f70c213ae_1_1_crashes___android_crash_listener_1a5cf73b91ce94cbdd8dc557f792f3650a"/>    <section>
+    <title>onSendingSucceeded()<computeroutput>[2/2]</computeroutput></title>
+<indexterm><primary>onSendingSucceeded</primary><secondary>crc64a4555f9f70c213ae.Crashes_AndroidCrashListener</secondary></indexterm>
+<indexterm><primary>crc64a4555f9f70c213ae.Crashes_AndroidCrashListener</primary><secondary>onSendingSucceeded</secondary></indexterm>
+<para><computeroutput>void crc64a4555f9f70c213ae.Crashes_AndroidCrashListener.onSendingSucceeded (com.microsoft.appcenter.crashes.model.ErrorReport p0)</computeroutput></para><para>
+Definition at line 57 of file Crashes_AndroidCrashListener.java.</para>
+    </section><anchor xml:id="_classcrc64a4555f9f70c213ae_1_1_crashes___android_crash_listener_1afc23cf2f6408ca4c24ac76191ba6c380"/>    <section>
+    <title>shouldAwaitUserConfirmation()<computeroutput>[1/2]</computeroutput></title>
+<indexterm><primary>shouldAwaitUserConfirmation</primary><secondary>crc64a4555f9f70c213ae.Crashes_AndroidCrashListener</secondary></indexterm>
+<indexterm><primary>crc64a4555f9f70c213ae.Crashes_AndroidCrashListener</primary><secondary>shouldAwaitUserConfirmation</secondary></indexterm>
+<para><computeroutput>boolean crc64a4555f9f70c213ae.Crashes_AndroidCrashListener.shouldAwaitUserConfirmation ( )</computeroutput></para><para>
+Definition at line 65 of file Crashes_AndroidCrashListener.java.</para>
+    </section><anchor xml:id="_classcrc64a4555f9f70c213ae_1_1_crashes___android_crash_listener_1afc23cf2f6408ca4c24ac76191ba6c380"/>    <section>
+    <title>shouldAwaitUserConfirmation()<computeroutput>[2/2]</computeroutput></title>
+<indexterm><primary>shouldAwaitUserConfirmation</primary><secondary>crc64a4555f9f70c213ae.Crashes_AndroidCrashListener</secondary></indexterm>
+<indexterm><primary>crc64a4555f9f70c213ae.Crashes_AndroidCrashListener</primary><secondary>shouldAwaitUserConfirmation</secondary></indexterm>
+<para><computeroutput>boolean crc64a4555f9f70c213ae.Crashes_AndroidCrashListener.shouldAwaitUserConfirmation ( )</computeroutput></para><para>
+Definition at line 65 of file Crashes_AndroidCrashListener.java.</para>
+    </section><anchor xml:id="_classcrc64a4555f9f70c213ae_1_1_crashes___android_crash_listener_1a0d6575836c71f4a02636c6c5920576ab"/>    <section>
+    <title>shouldProcess()<computeroutput>[1/2]</computeroutput></title>
+<indexterm><primary>shouldProcess</primary><secondary>crc64a4555f9f70c213ae.Crashes_AndroidCrashListener</secondary></indexterm>
+<indexterm><primary>crc64a4555f9f70c213ae.Crashes_AndroidCrashListener</primary><secondary>shouldProcess</secondary></indexterm>
+<para><computeroutput>boolean crc64a4555f9f70c213ae.Crashes_AndroidCrashListener.shouldProcess (com.microsoft.appcenter.crashes.model.ErrorReport p0)</computeroutput></para><para>
+Definition at line 73 of file Crashes_AndroidCrashListener.java.</para>
+    </section><anchor xml:id="_classcrc64a4555f9f70c213ae_1_1_crashes___android_crash_listener_1a0d6575836c71f4a02636c6c5920576ab"/>    <section>
+    <title>shouldProcess()<computeroutput>[2/2]</computeroutput></title>
+<indexterm><primary>shouldProcess</primary><secondary>crc64a4555f9f70c213ae.Crashes_AndroidCrashListener</secondary></indexterm>
+<indexterm><primary>crc64a4555f9f70c213ae.Crashes_AndroidCrashListener</primary><secondary>shouldProcess</secondary></indexterm>
+<para><computeroutput>boolean crc64a4555f9f70c213ae.Crashes_AndroidCrashListener.shouldProcess (com.microsoft.appcenter.crashes.model.ErrorReport p0)</computeroutput></para><para>
+Definition at line 73 of file Crashes_AndroidCrashListener.java.</para>
+</section>
+</section>
+<section>
+<title>Member Data Documentation</title>
+<anchor xml:id="_classcrc64a4555f9f70c213ae_1_1_crashes___android_crash_listener_1a3e582c467cfcf13868747a79d3e0992a"/>    <section>
+    <title>__md_methods</title>
+<indexterm><primary>__md_methods</primary><secondary>crc64a4555f9f70c213ae.Crashes_AndroidCrashListener</secondary></indexterm>
+<indexterm><primary>crc64a4555f9f70c213ae.Crashes_AndroidCrashListener</primary><secondary>__md_methods</secondary></indexterm>
+<para><computeroutput>static final String crc64a4555f9f70c213ae.Crashes_AndroidCrashListener.__md_methods<computeroutput>[static]</computeroutput></computeroutput></para>
+<para>@hide </para>
+<para>
+Definition at line 11 of file Crashes_AndroidCrashListener.java.</para>
+</section>
+<para>
+The documentation for this class was generated from the following file:</para>
+Application Green Quake.Android/obj/Debug/110/android/src/crc64a4555f9f70c213ae/<link linkend="__debug_2110_2android_2src_2crc64a4555f9f70c213ae_2_crashes___android_crash_listener_8java">Crashes_AndroidCrashListener.java</link></section>
+</section>

@@ -1,0 +1,294 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.9.1" xml:lang="en-US">
+  <compounddef id="classcrc64350623dcb797cc38_1_1_service_call" kind="class" language="Java" prot="public">
+    <compoundname>crc64350623dcb797cc38::ServiceCall</compoundname>
+    <basecompoundref prot="public" virt="non-virtual">java.lang.Object</basecompoundref>
+    <basecompoundref prot="public" virt="non-virtual">mono.android.IGCUserPeer</basecompoundref>
+    <basecompoundref prot="public" virt="non-virtual">com.microsoft.appcenter.http.ServiceCall</basecompoundref>
+    <basecompoundref prot="public" virt="non-virtual">java.lang.Object</basecompoundref>
+    <basecompoundref prot="public" virt="non-virtual">mono.android.IGCUserPeer</basecompoundref>
+    <basecompoundref prot="public" virt="non-virtual">com.microsoft.appcenter.http.ServiceCall</basecompoundref>
+      <sectiondef kind="public-static-attrib">
+      <memberdef kind="variable" id="classcrc64350623dcb797cc38_1_1_service_call_1ae05b8bf56d11ce5e68e55eb5f2a13cdd" prot="public" static="yes" mutable="no">
+        <type>final String</type>
+        <definition>static final String crc64350623dcb797cc38.ServiceCall::__md_methods</definition>
+        <argsstring></argsstring>
+        <name>__md_methods</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+<para>@hide </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/110/android/src/crc64350623dcb797cc38/ServiceCall.java" line="11" column="28" bodyfile="Application Green Quake.Android/obj/Debug/110/android/src/crc64350623dcb797cc38/ServiceCall.java" bodystart="11" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="private-attrib">
+      <memberdef kind="variable" id="classcrc64350623dcb797cc38_1_1_service_call_1a457d36159916285b0693419b3bfc8dc7" prot="private" static="no" mutable="no">
+        <type>java.util.ArrayList</type>
+        <definition>java util ArrayList crc64350623dcb797cc38.ServiceCall::refList</definition>
+        <argsstring></argsstring>
+        <name>refList</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/110/android/src/crc64350623dcb797cc38/ServiceCall.java" line="35" column="27" bodyfile="Application Green Quake.Android/obj/Debug/110/android/src/crc64350623dcb797cc38/ServiceCall.java" bodystart="35" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="package-static-func">
+      <memberdef kind="function" id="classcrc64350623dcb797cc38_1_1_service_call_1abb5ce93c143e6e4b92e764de49aa48d5" prot="package" static="yes" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>crc64350623dcb797cc38.ServiceCall.[static initializer]</definition>
+        <argsstring></argsstring>
+        <name>[static initializer]</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/110/android/src/crc64350623dcb797cc38/ServiceCall.java" line="11" column="28"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc64350623dcb797cc38_1_1_service_call_1abb5ce93c143e6e4b92e764de49aa48d5" prot="package" static="yes" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>crc64350623dcb797cc38.ServiceCall.[static initializer]</definition>
+        <argsstring></argsstring>
+        <name>[static initializer]</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/110/android/src/crc64350623dcb797cc38/ServiceCall.java" line="11" column="28"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="public-func">
+      <memberdef kind="function" id="classcrc64350623dcb797cc38_1_1_service_call_1a94d760f2d1f289c475a034eac97ec6ac" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>crc64350623dcb797cc38.ServiceCall.ServiceCall</definition>
+        <argsstring>()</argsstring>
+        <name>ServiceCall</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/110/android/src/crc64350623dcb797cc38/ServiceCall.java" line="20" column="8" bodyfile="Application Green Quake.Android/obj/Debug/110/android/src/crc64350623dcb797cc38/ServiceCall.java" bodystart="20" bodyend="25"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc64350623dcb797cc38_1_1_service_call_1a1384798a72f698449c1b1ca15b0e1ce9" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void crc64350623dcb797cc38.ServiceCall.cancel</definition>
+        <argsstring>()</argsstring>
+        <name>cancel</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/110/android/src/crc64350623dcb797cc38/ServiceCall.java" line="28" column="13" bodyfile="Application Green Quake.Android/obj/Debug/110/android/src/crc64350623dcb797cc38/ServiceCall.java" bodystart="28" bodyend="31"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc64350623dcb797cc38_1_1_service_call_1ac0504720897fdf588746f494fa3a3c36" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void crc64350623dcb797cc38.ServiceCall.monodroidAddReference</definition>
+        <argsstring>(java.lang.Object obj)</argsstring>
+        <name>monodroidAddReference</name>
+        <param>
+          <type>java.lang.Object</type>
+          <declname>obj</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/110/android/src/crc64350623dcb797cc38/ServiceCall.java" line="36" column="13" bodyfile="Application Green Quake.Android/obj/Debug/110/android/src/crc64350623dcb797cc38/ServiceCall.java" bodystart="36" bodyend="41"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc64350623dcb797cc38_1_1_service_call_1aaa3e25571685081f60b15293bdebc701" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void crc64350623dcb797cc38.ServiceCall.monodroidClearReferences</definition>
+        <argsstring>()</argsstring>
+        <name>monodroidClearReferences</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/110/android/src/crc64350623dcb797cc38/ServiceCall.java" line="43" column="13" bodyfile="Application Green Quake.Android/obj/Debug/110/android/src/crc64350623dcb797cc38/ServiceCall.java" bodystart="43" bodyend="47"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc64350623dcb797cc38_1_1_service_call_1a94d760f2d1f289c475a034eac97ec6ac" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>crc64350623dcb797cc38.ServiceCall.ServiceCall</definition>
+        <argsstring>()</argsstring>
+        <name>ServiceCall</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/110/android/src/crc64350623dcb797cc38/ServiceCall.java" line="20" column="8" bodyfile="Application Green Quake.Android/obj/Release/110/android/src/crc64350623dcb797cc38/ServiceCall.java" bodystart="20" bodyend="25"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc64350623dcb797cc38_1_1_service_call_1a1384798a72f698449c1b1ca15b0e1ce9" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void crc64350623dcb797cc38.ServiceCall.cancel</definition>
+        <argsstring>()</argsstring>
+        <name>cancel</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/110/android/src/crc64350623dcb797cc38/ServiceCall.java" line="28" column="13" bodyfile="Application Green Quake.Android/obj/Release/110/android/src/crc64350623dcb797cc38/ServiceCall.java" bodystart="28" bodyend="31"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc64350623dcb797cc38_1_1_service_call_1ac0504720897fdf588746f494fa3a3c36" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void crc64350623dcb797cc38.ServiceCall.monodroidAddReference</definition>
+        <argsstring>(java.lang.Object obj)</argsstring>
+        <name>monodroidAddReference</name>
+        <param>
+          <type>java.lang.Object</type>
+          <declname>obj</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/110/android/src/crc64350623dcb797cc38/ServiceCall.java" line="36" column="13" bodyfile="Application Green Quake.Android/obj/Release/110/android/src/crc64350623dcb797cc38/ServiceCall.java" bodystart="36" bodyend="41"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc64350623dcb797cc38_1_1_service_call_1aaa3e25571685081f60b15293bdebc701" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void crc64350623dcb797cc38.ServiceCall.monodroidClearReferences</definition>
+        <argsstring>()</argsstring>
+        <name>monodroidClearReferences</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/110/android/src/crc64350623dcb797cc38/ServiceCall.java" line="43" column="13" bodyfile="Application Green Quake.Android/obj/Release/110/android/src/crc64350623dcb797cc38/ServiceCall.java" bodystart="43" bodyend="47"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="private-func">
+      <memberdef kind="function" id="classcrc64350623dcb797cc38_1_1_service_call_1a65518ee3689afe5939865bb600d07d77" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>native void</type>
+        <definition>native void crc64350623dcb797cc38.ServiceCall.n_cancel</definition>
+        <argsstring>()</argsstring>
+        <name>n_cancel</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/110/android/src/crc64350623dcb797cc38/ServiceCall.java" line="33" column="21"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc64350623dcb797cc38_1_1_service_call_1a65518ee3689afe5939865bb600d07d77" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>native void</type>
+        <definition>native void crc64350623dcb797cc38.ServiceCall.n_cancel</definition>
+        <argsstring>()</argsstring>
+        <name>n_cancel</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/110/android/src/crc64350623dcb797cc38/ServiceCall.java" line="33" column="21"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <inheritancegraph>
+      <node id="5">
+        <label>com.microsoft.appcenter.http.ServiceCall</label>
+      </node>
+      <node id="1">
+        <label>crc64350623dcb797cc38.ServiceCall</label>
+        <link refid="classcrc64350623dcb797cc38_1_1_service_call"/>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+        <childnode refid="3" relation="public-inheritance">
+        </childnode>
+        <childnode refid="4" relation="public-inheritance">
+        </childnode>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+        <childnode refid="3" relation="public-inheritance">
+        </childnode>
+        <childnode refid="5" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="4">
+        <label>com::microsoft::appcenter::http::ServiceCall</label>
+      </node>
+      <node id="3">
+        <label>mono.android.IGCUserPeer</label>
+      </node>
+      <node id="2">
+        <label>java.lang.Object</label>
+      </node>
+    </inheritancegraph>
+    <collaborationgraph>
+      <node id="5">
+        <label>com.microsoft.appcenter.http.ServiceCall</label>
+      </node>
+      <node id="1">
+        <label>crc64350623dcb797cc38.ServiceCall</label>
+        <link refid="classcrc64350623dcb797cc38_1_1_service_call"/>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+        <childnode refid="3" relation="public-inheritance">
+        </childnode>
+        <childnode refid="4" relation="public-inheritance">
+        </childnode>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+        <childnode refid="3" relation="public-inheritance">
+        </childnode>
+        <childnode refid="5" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="4">
+        <label>com::microsoft::appcenter::http::ServiceCall</label>
+      </node>
+      <node id="3">
+        <label>mono.android.IGCUserPeer</label>
+      </node>
+      <node id="2">
+        <label>java.lang.Object</label>
+      </node>
+    </collaborationgraph>
+    <location file="Application Green Quake.Android/obj/Debug/110/android/src/crc64350623dcb797cc38/ServiceCall.java" line="4" column="7" bodyfile="Application Green Quake.Android/obj/Debug/110/android/src/crc64350623dcb797cc38/ServiceCall.java" bodystart="9" bodyend="48"/>
+    <listofallmembers>
+      <member refid="classcrc64350623dcb797cc38_1_1_service_call_1abb5ce93c143e6e4b92e764de49aa48d5" prot="package" virt="non-virtual"><scope>crc64350623dcb797cc38::ServiceCall</scope><name>[static initializer]</name></member>
+      <member refid="classcrc64350623dcb797cc38_1_1_service_call_1abb5ce93c143e6e4b92e764de49aa48d5" prot="package" virt="non-virtual"><scope>crc64350623dcb797cc38::ServiceCall</scope><name>[static initializer]</name></member>
+      <member refid="classcrc64350623dcb797cc38_1_1_service_call_1ae05b8bf56d11ce5e68e55eb5f2a13cdd" prot="public" virt="non-virtual"><scope>crc64350623dcb797cc38::ServiceCall</scope><name>__md_methods</name></member>
+      <member refid="classcrc64350623dcb797cc38_1_1_service_call_1a1384798a72f698449c1b1ca15b0e1ce9" prot="public" virt="non-virtual"><scope>crc64350623dcb797cc38::ServiceCall</scope><name>cancel</name></member>
+      <member refid="classcrc64350623dcb797cc38_1_1_service_call_1a1384798a72f698449c1b1ca15b0e1ce9" prot="public" virt="non-virtual"><scope>crc64350623dcb797cc38::ServiceCall</scope><name>cancel</name></member>
+      <member refid="classcrc64350623dcb797cc38_1_1_service_call_1ac0504720897fdf588746f494fa3a3c36" prot="public" virt="non-virtual"><scope>crc64350623dcb797cc38::ServiceCall</scope><name>monodroidAddReference</name></member>
+      <member refid="classcrc64350623dcb797cc38_1_1_service_call_1ac0504720897fdf588746f494fa3a3c36" prot="public" virt="non-virtual"><scope>crc64350623dcb797cc38::ServiceCall</scope><name>monodroidAddReference</name></member>
+      <member refid="classcrc64350623dcb797cc38_1_1_service_call_1aaa3e25571685081f60b15293bdebc701" prot="public" virt="non-virtual"><scope>crc64350623dcb797cc38::ServiceCall</scope><name>monodroidClearReferences</name></member>
+      <member refid="classcrc64350623dcb797cc38_1_1_service_call_1aaa3e25571685081f60b15293bdebc701" prot="public" virt="non-virtual"><scope>crc64350623dcb797cc38::ServiceCall</scope><name>monodroidClearReferences</name></member>
+      <member refid="classcrc64350623dcb797cc38_1_1_service_call_1a65518ee3689afe5939865bb600d07d77" prot="private" virt="non-virtual"><scope>crc64350623dcb797cc38::ServiceCall</scope><name>n_cancel</name></member>
+      <member refid="classcrc64350623dcb797cc38_1_1_service_call_1a65518ee3689afe5939865bb600d07d77" prot="private" virt="non-virtual"><scope>crc64350623dcb797cc38::ServiceCall</scope><name>n_cancel</name></member>
+      <member refid="classcrc64350623dcb797cc38_1_1_service_call_1a457d36159916285b0693419b3bfc8dc7" prot="private" virt="non-virtual"><scope>crc64350623dcb797cc38::ServiceCall</scope><name>refList</name></member>
+      <member refid="classcrc64350623dcb797cc38_1_1_service_call_1a94d760f2d1f289c475a034eac97ec6ac" prot="public" virt="non-virtual"><scope>crc64350623dcb797cc38::ServiceCall</scope><name>ServiceCall</name></member>
+      <member refid="classcrc64350623dcb797cc38_1_1_service_call_1a94d760f2d1f289c475a034eac97ec6ac" prot="public" virt="non-virtual"><scope>crc64350623dcb797cc38::ServiceCall</scope><name>ServiceCall</name></member>
+    </listofallmembers>
+  </compounddef>
+</doxygen>

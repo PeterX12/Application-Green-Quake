@@ -1,0 +1,154 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.9.1" xml:lang="en-US">
+  <compounddef id="class_application___green___quake_1_1_views_1_1_eco_actions_1_1_outdoors_1_1_go_camping" kind="class" language="C#" prot="public">
+    <compoundname>Application_Green_Quake::Views::EcoActions::Outdoors::GoCamping</compoundname>
+    <basecompoundref prot="public" virt="non-virtual">global.XamarinForms.ContentPage</basecompoundref>
+    <basecompoundref prot="public" virt="non-virtual">global.XamarinForms.ContentPage</basecompoundref>
+    <basecompoundref prot="public" virt="non-virtual">ContentPage</basecompoundref>
+      <sectiondef kind="private-attrib">
+      <memberdef kind="variable" id="class_application___green___quake_1_1_views_1_1_eco_actions_1_1_outdoors_1_1_go_camping_1a60c56f9146e3dbf013ad9d52a13f865e" prot="private" static="no" mutable="no">
+        <type>global::Xamarin.Forms.Label</type>
+        <definition>Xamarin Forms global::Label Application_Green_Quake.Views.EcoActions.Outdoors.GoCamping::theLevel</definition>
+        <argsstring></argsstring>
+        <name>theLevel</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake/obj/Debug/netstandard2.0/Views/EcoActions/Outdoors/GoCamping.xaml.g.cs" line="20" column="43" bodyfile="Application Green Quake/obj/Debug/netstandard2.0/Views/EcoActions/Outdoors/GoCamping.xaml.g.cs" bodystart="20" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="private-func">
+      <memberdef kind="function" id="class_application___green___quake_1_1_views_1_1_eco_actions_1_1_outdoors_1_1_go_camping_1ac60ec246679bd62c9a240bedc7fddf7b" prot="private" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void Application_Green_Quake.Views.EcoActions.Outdoors.GoCamping.InitializeComponent</definition>
+        <argsstring>()</argsstring>
+        <name>InitializeComponent</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake/obj/Debug/netstandard2.0/Views/EcoActions/Outdoors/GoCamping.xaml.g.cs" line="23" column="22" bodyfile="Application Green Quake/obj/Debug/netstandard2.0/Views/EcoActions/Outdoors/GoCamping.xaml.g.cs" bodystart="23" bodyend="26"/>
+      </memberdef>
+      <memberdef kind="function" id="class_application___green___quake_1_1_views_1_1_eco_actions_1_1_outdoors_1_1_go_camping_1ac60ec246679bd62c9a240bedc7fddf7b" prot="private" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void Application_Green_Quake.Views.EcoActions.Outdoors.GoCamping.InitializeComponent</definition>
+        <argsstring>()</argsstring>
+        <name>InitializeComponent</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake/obj/Release/netstandard2.0/Views/EcoActions/Outdoors/GoCamping.xaml.g.cs" line="23" column="22" bodyfile="Application Green Quake/obj/Release/netstandard2.0/Views/EcoActions/Outdoors/GoCamping.xaml.g.cs" bodystart="23" bodyend="26"/>
+      </memberdef>
+      <memberdef kind="function" id="class_application___green___quake_1_1_views_1_1_eco_actions_1_1_outdoors_1_1_go_camping_1ac59bd27d8d64b4e67ac355c8406379cb" prot="private" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>async void</type>
+        <definition>async void Application_Green_Quake.Views.EcoActions.Outdoors.GoCamping.AddPointsClicked</definition>
+        <argsstring>(object sender, EventArgs e)</argsstring>
+        <name>AddPointsClicked</name>
+        <param>
+          <type>object</type>
+          <declname>sender</declname>
+        </param>
+        <param>
+          <type>EventArgs</type>
+          <declname>e</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+<para>This function creates objects and calls their methods. First the security methods are called and if they return false call the points updating methods </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake/Views/EcoActions/Outdoors/GoCamping.xaml.cs" line="29" column="28" bodyfile="Application Green Quake/Views/EcoActions/Outdoors/GoCamping.xaml.cs" bodystart="29" bodyend="57"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="public-func">
+      <memberdef kind="function" id="class_application___green___quake_1_1_views_1_1_eco_actions_1_1_outdoors_1_1_go_camping_1a2beddc9ccf5d70b5d43a2c0a0014c8d7" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>Application_Green_Quake.Views.EcoActions.Outdoors.GoCamping.GoCamping</definition>
+        <argsstring>()</argsstring>
+        <name>GoCamping</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake/Views/EcoActions/Outdoors/GoCamping.xaml.cs" line="21" column="16" bodyfile="Application Green Quake/Views/EcoActions/Outdoors/GoCamping.xaml.cs" bodystart="21" bodyend="25"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="protected-func">
+      <memberdef kind="function" id="class_application___green___quake_1_1_views_1_1_eco_actions_1_1_outdoors_1_1_go_camping_1a5ade9731dc6f55808ea7337990d3d4e4" prot="protected" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>override void</type>
+        <definition>override void Application_Green_Quake.Views.EcoActions.Outdoors.GoCamping.OnAppearing</definition>
+        <argsstring>()</argsstring>
+        <name>OnAppearing</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+<para>This function is called before the page is displayed and it created an object ans uses it&apos;s SetLvl method to set the players level in the app and display it in the navigation bar. </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake/Views/EcoActions/Outdoors/GoCamping.xaml.cs" line="61" column="33" bodyfile="Application Green Quake/Views/EcoActions/Outdoors/GoCamping.xaml.cs" bodystart="61" bodyend="67"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <inheritancegraph>
+      <node id="1">
+        <label>Application_Green_Quake.Views.EcoActions.Outdoors.GoCamping</label>
+        <link refid="class_application___green___quake_1_1_views_1_1_eco_actions_1_1_outdoors_1_1_go_camping"/>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+        <childnode refid="3" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="3">
+        <label>ContentPage</label>
+      </node>
+      <node id="2">
+        <label>global::XamarinForms::ContentPage</label>
+      </node>
+    </inheritancegraph>
+    <collaborationgraph>
+      <node id="1">
+        <label>Application_Green_Quake.Views.EcoActions.Outdoors.GoCamping</label>
+        <link refid="class_application___green___quake_1_1_views_1_1_eco_actions_1_1_outdoors_1_1_go_camping"/>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+        <childnode refid="3" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="3">
+        <label>ContentPage</label>
+      </node>
+      <node id="2">
+        <label>global::XamarinForms::ContentPage</label>
+      </node>
+    </collaborationgraph>
+    <location file="Application Green Quake/obj/Debug/netstandard2.0/Views/EcoActions/Outdoors/GoCamping.xaml.g.cs" line="17" column="19" bodyfile="Application Green Quake/obj/Debug/netstandard2.0/Views/EcoActions/Outdoors/GoCamping.xaml.g.cs" bodystart="17" bodyend="27"/>
+    <listofallmembers>
+      <member refid="class_application___green___quake_1_1_views_1_1_eco_actions_1_1_outdoors_1_1_go_camping_1ac59bd27d8d64b4e67ac355c8406379cb" prot="private" virt="non-virtual"><scope>Application_Green_Quake::Views::EcoActions::Outdoors::GoCamping</scope><name>AddPointsClicked</name></member>
+      <member refid="class_application___green___quake_1_1_views_1_1_eco_actions_1_1_outdoors_1_1_go_camping_1a2beddc9ccf5d70b5d43a2c0a0014c8d7" prot="public" virt="non-virtual"><scope>Application_Green_Quake::Views::EcoActions::Outdoors::GoCamping</scope><name>GoCamping</name></member>
+      <member refid="class_application___green___quake_1_1_views_1_1_eco_actions_1_1_outdoors_1_1_go_camping_1ac60ec246679bd62c9a240bedc7fddf7b" prot="private" virt="non-virtual"><scope>Application_Green_Quake::Views::EcoActions::Outdoors::GoCamping</scope><name>InitializeComponent</name></member>
+      <member refid="class_application___green___quake_1_1_views_1_1_eco_actions_1_1_outdoors_1_1_go_camping_1ac60ec246679bd62c9a240bedc7fddf7b" prot="private" virt="non-virtual"><scope>Application_Green_Quake::Views::EcoActions::Outdoors::GoCamping</scope><name>InitializeComponent</name></member>
+      <member refid="class_application___green___quake_1_1_views_1_1_eco_actions_1_1_outdoors_1_1_go_camping_1a5ade9731dc6f55808ea7337990d3d4e4" prot="protected" virt="non-virtual"><scope>Application_Green_Quake::Views::EcoActions::Outdoors::GoCamping</scope><name>OnAppearing</name></member>
+      <member refid="class_application___green___quake_1_1_views_1_1_eco_actions_1_1_outdoors_1_1_go_camping_1a60c56f9146e3dbf013ad9d52a13f865e" prot="private" virt="non-virtual"><scope>Application_Green_Quake::Views::EcoActions::Outdoors::GoCamping</scope><name>theLevel</name></member>
+    </listofallmembers>
+  </compounddef>
+</doxygen>

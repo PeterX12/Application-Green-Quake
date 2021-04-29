@@ -1,0 +1,121 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<section xmlns="http://docbook.org/ns/docbook" version="5.0" xmlns:xlink="http://www.w3.org/1999/xlink" xml:id="_class_application___green___quake_1_1_view_models_1_1_outdoors_points_update" xml:lang="en-US">
+<title>Application_Green_Quake.ViewModels.OutdoorsPointsUpdate Class Reference</title>
+<indexterm><primary>Application_Green_Quake.ViewModels.OutdoorsPointsUpdate</primary></indexterm>
+<simplesect>
+    <title>Public Member Functions    </title>
+        <itemizedlist>
+            <listitem><para>async void <link linkend="_class_application___green___quake_1_1_view_models_1_1_outdoors_points_update_1a7b4a5240c487fa2cc59fb70d75b52840">CampingPoints</link> ()</para>
+</listitem>
+            <listitem><para>async void <link linkend="_class_application___green___quake_1_1_view_models_1_1_outdoors_points_update_1afd358b2895ce37aa76fca91d53ce16b4">PicnicPoints</link> ()</para>
+</listitem>
+            <listitem><para>async void <link linkend="_class_application___green___quake_1_1_view_models_1_1_outdoors_points_update_1a5f9cb2d34bf453d0e4195040895a5dec">PlantBushPoints</link> ()</para>
+</listitem>
+            <listitem><para>async void <link linkend="_class_application___green___quake_1_1_view_models_1_1_outdoors_points_update_1a42f6595db4c0505cdf4ddf4755650510">PlantTreePoints</link> ()</para>
+</listitem>
+            <listitem><para>async void <link linkend="_class_application___green___quake_1_1_view_models_1_1_outdoors_points_update_1a7ec0f027bd962b44e511de7e5f8ae71f">PlantFlowerPoints</link> ()</para>
+</listitem>
+            <listitem><para>async void <link linkend="_class_application___green___quake_1_1_view_models_1_1_outdoors_points_update_1a4432f62a8f61a1d73e1c1368e62f9e0f">ScoopPoints</link> ()</para>
+</listitem>
+            <listitem><para>async void <link linkend="_class_application___green___quake_1_1_view_models_1_1_outdoors_points_update_1ab542ccb686acc16368c2679289a0e884">FruitGardenPoints</link> ()</para>
+</listitem>
+            <listitem><para>async void <link linkend="_class_application___green___quake_1_1_view_models_1_1_outdoors_points_update_1ab96945cfae81392a3684bab237407b44">HerbGardenPoints</link> ()</para>
+</listitem>
+            <listitem><para>async void <link linkend="_class_application___green___quake_1_1_view_models_1_1_outdoors_points_update_1afa02d2ce9eeb11615c18a6324023061e">VegetableGardenPoints</link> ()</para>
+</listitem>
+            <listitem><para>async void <link linkend="_class_application___green___quake_1_1_view_models_1_1_outdoors_points_update_1a3d688afb2f37db7c7cf2125e119b9e71">BirdFeederPoints</link> ()</para>
+</listitem>
+        </itemizedlist>
+</simplesect>
+<section>
+<title>Detailed Description</title>
+<para>
+Definition at line 18 of file OutdoorsPointsUpdate.cs.</para>
+</section>
+<section>
+<title>Member Function Documentation</title>
+<anchor xml:id="_class_application___green___quake_1_1_view_models_1_1_outdoors_points_update_1a3d688afb2f37db7c7cf2125e119b9e71"/>    <section>
+    <title>BirdFeederPoints()</title>
+<indexterm><primary>BirdFeederPoints</primary><secondary>Application_Green_Quake.ViewModels.OutdoorsPointsUpdate</secondary></indexterm>
+<indexterm><primary>Application_Green_Quake.ViewModels.OutdoorsPointsUpdate</primary><secondary>BirdFeederPoints</secondary></indexterm>
+<para><computeroutput>async void Application_Green_Quake.ViewModels.OutdoorsPointsUpdate.BirdFeederPoints ( )</computeroutput></para>
+<para>This function updates the points in the Outdoors category by ten points. It also increments the number of logs logged in the Outdoors category by one and increments the number of times this particular action was logged by one and sends this data to Firebase. </para>
+<para>
+Definition at line 1218 of file OutdoorsPointsUpdate.cs.</para>
+    </section><anchor xml:id="_class_application___green___quake_1_1_view_models_1_1_outdoors_points_update_1a7b4a5240c487fa2cc59fb70d75b52840"/>    <section>
+    <title>CampingPoints()</title>
+<indexterm><primary>CampingPoints</primary><secondary>Application_Green_Quake.ViewModels.OutdoorsPointsUpdate</secondary></indexterm>
+<indexterm><primary>Application_Green_Quake.ViewModels.OutdoorsPointsUpdate</primary><secondary>CampingPoints</secondary></indexterm>
+<para><computeroutput>async void Application_Green_Quake.ViewModels.OutdoorsPointsUpdate.CampingPoints ( )</computeroutput></para>
+<para>This function updates the points in the Outdoors category by ten points. It also increments the number of logs logged in the Outdoors category by one and increments the number of times this particular action was logged by one and sends this data to Firebase. </para>
+<para>
+Definition at line 39 of file OutdoorsPointsUpdate.cs.</para>
+    </section><anchor xml:id="_class_application___green___quake_1_1_view_models_1_1_outdoors_points_update_1ab542ccb686acc16368c2679289a0e884"/>    <section>
+    <title>FruitGardenPoints()</title>
+<indexterm><primary>FruitGardenPoints</primary><secondary>Application_Green_Quake.ViewModels.OutdoorsPointsUpdate</secondary></indexterm>
+<indexterm><primary>Application_Green_Quake.ViewModels.OutdoorsPointsUpdate</primary><secondary>FruitGardenPoints</secondary></indexterm>
+<para><computeroutput>async void Application_Green_Quake.ViewModels.OutdoorsPointsUpdate.FruitGardenPoints ( )</computeroutput></para>
+<para>This function updates the points in the Outdoors category by ten points. It also increments the number of logs logged in the Outdoors category by one and increments the number of times this particular action was logged by one and sends this data to Firebase. </para>
+<para>
+Definition at line 825 of file OutdoorsPointsUpdate.cs.</para>
+    </section><anchor xml:id="_class_application___green___quake_1_1_view_models_1_1_outdoors_points_update_1ab96945cfae81392a3684bab237407b44"/>    <section>
+    <title>HerbGardenPoints()</title>
+<indexterm><primary>HerbGardenPoints</primary><secondary>Application_Green_Quake.ViewModels.OutdoorsPointsUpdate</secondary></indexterm>
+<indexterm><primary>Application_Green_Quake.ViewModels.OutdoorsPointsUpdate</primary><secondary>HerbGardenPoints</secondary></indexterm>
+<para><computeroutput>async void Application_Green_Quake.ViewModels.OutdoorsPointsUpdate.HerbGardenPoints ( )</computeroutput></para>
+<para>This function updates the points in the Outdoors category by ten points. It also increments the number of logs logged in the Outdoors category by one and increments the number of times this particular action was logged by one and sends this data to Firebase. </para>
+<para>
+Definition at line 956 of file OutdoorsPointsUpdate.cs.</para>
+    </section><anchor xml:id="_class_application___green___quake_1_1_view_models_1_1_outdoors_points_update_1afd358b2895ce37aa76fca91d53ce16b4"/>    <section>
+    <title>PicnicPoints()</title>
+<indexterm><primary>PicnicPoints</primary><secondary>Application_Green_Quake.ViewModels.OutdoorsPointsUpdate</secondary></indexterm>
+<indexterm><primary>Application_Green_Quake.ViewModels.OutdoorsPointsUpdate</primary><secondary>PicnicPoints</secondary></indexterm>
+<para><computeroutput>async void Application_Green_Quake.ViewModels.OutdoorsPointsUpdate.PicnicPoints ( )</computeroutput></para>
+<para>This function updates the points in the Outdoors category by six points. It also increments the number of logs logged in the Outdoors category by one and increments the number of times this particular action was logged by one and sends this data to Firebase. </para>
+<para>
+Definition at line 170 of file OutdoorsPointsUpdate.cs.</para>
+    </section><anchor xml:id="_class_application___green___quake_1_1_view_models_1_1_outdoors_points_update_1a5f9cb2d34bf453d0e4195040895a5dec"/>    <section>
+    <title>PlantBushPoints()</title>
+<indexterm><primary>PlantBushPoints</primary><secondary>Application_Green_Quake.ViewModels.OutdoorsPointsUpdate</secondary></indexterm>
+<indexterm><primary>Application_Green_Quake.ViewModels.OutdoorsPointsUpdate</primary><secondary>PlantBushPoints</secondary></indexterm>
+<para><computeroutput>async void Application_Green_Quake.ViewModels.OutdoorsPointsUpdate.PlantBushPoints ( )</computeroutput></para>
+<para>This function updates the points in the Outdoors category by eight points. It also increments the number of logs logged in the Outdoors category by one and increments the number of times this particular action was logged by one and sends this data to Firebase. </para>
+<para>
+Definition at line 301 of file OutdoorsPointsUpdate.cs.</para>
+    </section><anchor xml:id="_class_application___green___quake_1_1_view_models_1_1_outdoors_points_update_1a7ec0f027bd962b44e511de7e5f8ae71f"/>    <section>
+    <title>PlantFlowerPoints()</title>
+<indexterm><primary>PlantFlowerPoints</primary><secondary>Application_Green_Quake.ViewModels.OutdoorsPointsUpdate</secondary></indexterm>
+<indexterm><primary>Application_Green_Quake.ViewModels.OutdoorsPointsUpdate</primary><secondary>PlantFlowerPoints</secondary></indexterm>
+<para><computeroutput>async void Application_Green_Quake.ViewModels.OutdoorsPointsUpdate.PlantFlowerPoints ( )</computeroutput></para>
+<para>This function updates the points in the Outdoors category by eight points. It also increments the number of logs logged in the Outdoors category by one and increments the number of times this particular action was logged by one and sends this data to Firebase. </para>
+<para>
+Definition at line 563 of file OutdoorsPointsUpdate.cs.</para>
+    </section><anchor xml:id="_class_application___green___quake_1_1_view_models_1_1_outdoors_points_update_1a42f6595db4c0505cdf4ddf4755650510"/>    <section>
+    <title>PlantTreePoints()</title>
+<indexterm><primary>PlantTreePoints</primary><secondary>Application_Green_Quake.ViewModels.OutdoorsPointsUpdate</secondary></indexterm>
+<indexterm><primary>Application_Green_Quake.ViewModels.OutdoorsPointsUpdate</primary><secondary>PlantTreePoints</secondary></indexterm>
+<para><computeroutput>async void Application_Green_Quake.ViewModels.OutdoorsPointsUpdate.PlantTreePoints ( )</computeroutput></para>
+<para>This function updates the points in the Outdoors category by ten points. It also increments the number of logs logged in the Outdoors category by one and increments the number of times this particular action was logged by one and sends this data to Firebase. </para>
+<para>
+Definition at line 432 of file OutdoorsPointsUpdate.cs.</para>
+    </section><anchor xml:id="_class_application___green___quake_1_1_view_models_1_1_outdoors_points_update_1a4432f62a8f61a1d73e1c1368e62f9e0f"/>    <section>
+    <title>ScoopPoints()</title>
+<indexterm><primary>ScoopPoints</primary><secondary>Application_Green_Quake.ViewModels.OutdoorsPointsUpdate</secondary></indexterm>
+<indexterm><primary>Application_Green_Quake.ViewModels.OutdoorsPointsUpdate</primary><secondary>ScoopPoints</secondary></indexterm>
+<para><computeroutput>async void Application_Green_Quake.ViewModels.OutdoorsPointsUpdate.ScoopPoints ( )</computeroutput></para>
+<para>This function updates the points in the Outdoors category by four points. It also increments the number of logs logged in the Outdoors category by one and increments the number of times this particular action was logged by one and sends this data to Firebase. </para>
+<para>
+Definition at line 694 of file OutdoorsPointsUpdate.cs.</para>
+    </section><anchor xml:id="_class_application___green___quake_1_1_view_models_1_1_outdoors_points_update_1afa02d2ce9eeb11615c18a6324023061e"/>    <section>
+    <title>VegetableGardenPoints()</title>
+<indexterm><primary>VegetableGardenPoints</primary><secondary>Application_Green_Quake.ViewModels.OutdoorsPointsUpdate</secondary></indexterm>
+<indexterm><primary>Application_Green_Quake.ViewModels.OutdoorsPointsUpdate</primary><secondary>VegetableGardenPoints</secondary></indexterm>
+<para><computeroutput>async void Application_Green_Quake.ViewModels.OutdoorsPointsUpdate.VegetableGardenPoints ( )</computeroutput></para>
+<para>This function updates the points in the Outdoors category by ten points. It also increments the number of logs logged in the Outdoors category by one and increments the number of times this particular action was logged by one and sends this data to Firebase. </para>
+<para>
+Definition at line 1087 of file OutdoorsPointsUpdate.cs.</para>
+</section>
+<para>
+The documentation for this class was generated from the following file:</para>
+Application Green Quake/ViewModels/<link linkend="__outdoors_points_update_8cs">OutdoorsPointsUpdate.cs</link></section>
+</section>

@@ -1,0 +1,78 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.9.1" xml:lang="en-US">
+  <compounddef id="_release_2100_2android_2src_2crc64720bb2db43a66fe9_2_forms_view_pager_8java" kind="file" language="Java">
+    <compoundname>FormsViewPager.java</compoundname>
+    <innerclass refid="classcrc64720bb2db43a66fe9_1_1_forms_view_pager" prot="public">crc64720bb2db43a66fe9::FormsViewPager</innerclass>
+    <innernamespace refid="namespacecrc64720bb2db43a66fe9">crc64720bb2db43a66fe9</innernamespace>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <programlisting>
+<codeline lineno="1"><highlight class="keyword">package<sp/></highlight><highlight class="normal">crc64720bb2db43a66fe9;</highlight></codeline>
+<codeline lineno="2"><highlight class="normal"></highlight></codeline>
+<codeline lineno="3"><highlight class="normal"></highlight></codeline>
+<codeline lineno="4"><highlight class="normal"></highlight><highlight class="keyword">public</highlight><highlight class="normal"><sp/></highlight><highlight class="keyword">class<sp/></highlight><highlight class="normal">FormsViewPager</highlight></codeline>
+<codeline lineno="5"><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">extends</highlight><highlight class="normal"><sp/>androidx.viewpager.widget.ViewPager</highlight></codeline>
+<codeline lineno="6"><highlight class="normal"><sp/><sp/><sp/><sp/>implements</highlight></codeline>
+<codeline lineno="7"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>mono.android.IGCUserPeer</highlight></codeline>
+<codeline lineno="8"><highlight class="normal">{</highlight></codeline>
+<codeline lineno="10"><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">public</highlight><highlight class="normal"><sp/></highlight><highlight class="keyword">static</highlight><highlight class="normal"><sp/></highlight><highlight class="keyword">final</highlight><highlight class="normal"><sp/>String<sp/><ref refid="classcrc64720bb2db43a66fe9_1_1_forms_view_pager_1a8b8392fe5b2263c968690f0cd102fb76" kindref="member">__md_methods</ref>;</highlight></codeline>
+<codeline lineno="11"><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">static</highlight><highlight class="normal"><sp/>{</highlight></codeline>
+<codeline lineno="12"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><ref refid="classcrc64720bb2db43a66fe9_1_1_forms_view_pager_1a8b8392fe5b2263c968690f0cd102fb76" kindref="member">__md_methods</ref><sp/>=<sp/></highlight></codeline>
+<codeline lineno="13"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="stringliteral">&quot;n_onInterceptTouchEvent:(Landroid/view/MotionEvent;)Z:GetOnInterceptTouchEvent_Landroid_view_MotionEvent_Handler\n&quot;</highlight><highlight class="normal"><sp/>+</highlight></codeline>
+<codeline lineno="14"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="stringliteral">&quot;n_onTouchEvent:(Landroid/view/MotionEvent;)Z:GetOnTouchEvent_Landroid_view_MotionEvent_Handler\n&quot;</highlight><highlight class="normal"><sp/>+</highlight></codeline>
+<codeline lineno="15"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="stringliteral">&quot;&quot;</highlight><highlight class="normal">;</highlight></codeline>
+<codeline lineno="16"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>mono.android.Runtime.register<sp/>(</highlight><highlight class="stringliteral">&quot;Xamarin.Forms.Platform.Android.AppCompat.FormsViewPager,<sp/>Xamarin.Forms.Platform.Android&quot;</highlight><highlight class="normal">,<sp/><ref refid="classcrc64720bb2db43a66fe9_1_1_forms_view_pager_1aee07cb141b77fa4ce45e8883b79d11f2" kindref="member">FormsViewPager</ref>.class,<sp/><ref refid="classcrc64720bb2db43a66fe9_1_1_forms_view_pager_1a8b8392fe5b2263c968690f0cd102fb76" kindref="member">__md_methods</ref>);</highlight></codeline>
+<codeline lineno="17"><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline lineno="18"><highlight class="normal"></highlight></codeline>
+<codeline lineno="19"><highlight class="normal"></highlight></codeline>
+<codeline lineno="20" refid="classcrc64720bb2db43a66fe9_1_1_forms_view_pager_1aee07cb141b77fa4ce45e8883b79d11f2" refkind="member"><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">public</highlight><highlight class="normal"><sp/><ref refid="classcrc64720bb2db43a66fe9_1_1_forms_view_pager_1aee07cb141b77fa4ce45e8883b79d11f2" kindref="member">FormsViewPager</ref><sp/>(android.content.Context<sp/>p0)</highlight></codeline>
+<codeline lineno="21"><highlight class="normal"><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline lineno="22"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>super<sp/>(p0);</highlight></codeline>
+<codeline lineno="23"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">if</highlight><highlight class="normal"><sp/>(getClass<sp/>()<sp/>==<sp/><ref refid="classcrc64720bb2db43a66fe9_1_1_forms_view_pager" kindref="compound">FormsViewPager</ref>.class)</highlight></codeline>
+<codeline lineno="24"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>mono.android.TypeManager.Activate<sp/>(</highlight><highlight class="stringliteral">&quot;Xamarin.Forms.Platform.Android.AppCompat.FormsViewPager,<sp/>Xamarin.Forms.Platform.Android&quot;</highlight><highlight class="normal">,<sp/></highlight><highlight class="stringliteral">&quot;Android.Content.Context,<sp/>Mono.Android&quot;</highlight><highlight class="normal">,<sp/></highlight><highlight class="keyword">this</highlight><highlight class="normal">,<sp/></highlight><highlight class="keyword">new</highlight><highlight class="normal"><sp/>java.lang.Object[]<sp/>{<sp/>p0<sp/>});</highlight></codeline>
+<codeline lineno="25"><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline lineno="26"><highlight class="normal"></highlight></codeline>
+<codeline lineno="27"><highlight class="normal"></highlight></codeline>
+<codeline lineno="28" refid="classcrc64720bb2db43a66fe9_1_1_forms_view_pager_1a5fddf903eb231160fcca5472a12fc168" refkind="member"><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">public</highlight><highlight class="normal"><sp/><ref refid="classcrc64720bb2db43a66fe9_1_1_forms_view_pager_1a5fddf903eb231160fcca5472a12fc168" kindref="member">FormsViewPager</ref><sp/>(android.content.Context<sp/>p0,<sp/>android.util.AttributeSet<sp/>p1)</highlight></codeline>
+<codeline lineno="29"><highlight class="normal"><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline lineno="30"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>super<sp/>(p0,<sp/>p1);</highlight></codeline>
+<codeline lineno="31"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">if</highlight><highlight class="normal"><sp/>(getClass<sp/>()<sp/>==<sp/><ref refid="classcrc64720bb2db43a66fe9_1_1_forms_view_pager" kindref="compound">FormsViewPager</ref>.class)</highlight></codeline>
+<codeline lineno="32"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>mono.android.TypeManager.Activate<sp/>(</highlight><highlight class="stringliteral">&quot;Xamarin.Forms.Platform.Android.AppCompat.FormsViewPager,<sp/>Xamarin.Forms.Platform.Android&quot;</highlight><highlight class="normal">,<sp/></highlight><highlight class="stringliteral">&quot;Android.Content.Context,<sp/>Mono.Android:Android.Util.IAttributeSet,<sp/>Mono.Android&quot;</highlight><highlight class="normal">,<sp/></highlight><highlight class="keyword">this</highlight><highlight class="normal">,<sp/></highlight><highlight class="keyword">new</highlight><highlight class="normal"><sp/>java.lang.Object[]<sp/>{<sp/>p0,<sp/>p1<sp/>});</highlight></codeline>
+<codeline lineno="33"><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline lineno="34"><highlight class="normal"></highlight></codeline>
+<codeline lineno="35"><highlight class="normal"></highlight></codeline>
+<codeline lineno="36" refid="classcrc64720bb2db43a66fe9_1_1_forms_view_pager_1aa394c33fe4a6923de7e89b1572939133" refkind="member"><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">public</highlight><highlight class="normal"><sp/></highlight><highlight class="keywordtype">boolean</highlight><highlight class="normal"><sp/><ref refid="classcrc64720bb2db43a66fe9_1_1_forms_view_pager_1aa394c33fe4a6923de7e89b1572939133" kindref="member">onInterceptTouchEvent</ref><sp/>(android.view.MotionEvent<sp/>p0)</highlight></codeline>
+<codeline lineno="37"><highlight class="normal"><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline lineno="38"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">return</highlight><highlight class="normal"><sp/>n_onInterceptTouchEvent<sp/>(p0);</highlight></codeline>
+<codeline lineno="39"><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline lineno="40"><highlight class="normal"></highlight></codeline>
+<codeline lineno="41"><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">private</highlight><highlight class="normal"><sp/>native<sp/></highlight><highlight class="keywordtype">boolean</highlight><highlight class="normal"><sp/>n_onInterceptTouchEvent<sp/>(android.view.MotionEvent<sp/>p0);</highlight></codeline>
+<codeline lineno="42"><highlight class="normal"></highlight></codeline>
+<codeline lineno="43"><highlight class="normal"></highlight></codeline>
+<codeline lineno="44" refid="classcrc64720bb2db43a66fe9_1_1_forms_view_pager_1a934cfad3bf5b64be145bdaa601c2cc2a" refkind="member"><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">public</highlight><highlight class="normal"><sp/></highlight><highlight class="keywordtype">boolean</highlight><highlight class="normal"><sp/><ref refid="classcrc64720bb2db43a66fe9_1_1_forms_view_pager_1a934cfad3bf5b64be145bdaa601c2cc2a" kindref="member">onTouchEvent</ref><sp/>(android.view.MotionEvent<sp/>p0)</highlight></codeline>
+<codeline lineno="45"><highlight class="normal"><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline lineno="46"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">return</highlight><highlight class="normal"><sp/>n_onTouchEvent<sp/>(p0);</highlight></codeline>
+<codeline lineno="47"><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline lineno="48"><highlight class="normal"></highlight></codeline>
+<codeline lineno="49"><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">private</highlight><highlight class="normal"><sp/>native<sp/></highlight><highlight class="keywordtype">boolean</highlight><highlight class="normal"><sp/>n_onTouchEvent<sp/>(android.view.MotionEvent<sp/>p0);</highlight></codeline>
+<codeline lineno="50"><highlight class="normal"></highlight></codeline>
+<codeline lineno="51"><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">private</highlight><highlight class="normal"><sp/>java.util.ArrayList<sp/>refList;</highlight></codeline>
+<codeline lineno="52" refid="classcrc64720bb2db43a66fe9_1_1_forms_view_pager_1aee2a40cc24ecfcaa283b27cdaa7d6899" refkind="member"><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">public</highlight><highlight class="normal"><sp/></highlight><highlight class="keywordtype">void</highlight><highlight class="normal"><sp/><ref refid="classcrc64720bb2db43a66fe9_1_1_forms_view_pager_1aee2a40cc24ecfcaa283b27cdaa7d6899" kindref="member">monodroidAddReference</ref><sp/>(java.lang.Object<sp/>obj)</highlight></codeline>
+<codeline lineno="53"><highlight class="normal"><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline lineno="54"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">if</highlight><highlight class="normal"><sp/>(refList<sp/>==<sp/></highlight><highlight class="keyword">null</highlight><highlight class="normal">)</highlight></codeline>
+<codeline lineno="55"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>refList<sp/>=<sp/></highlight><highlight class="keyword">new</highlight><highlight class="normal"><sp/>java.util.ArrayList<sp/>();</highlight></codeline>
+<codeline lineno="56"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>refList.add<sp/>(obj);</highlight></codeline>
+<codeline lineno="57"><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline lineno="58"><highlight class="normal"></highlight></codeline>
+<codeline lineno="59" refid="classcrc64720bb2db43a66fe9_1_1_forms_view_pager_1ae1426e34b142b22911a74a825953cb02" refkind="member"><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">public</highlight><highlight class="normal"><sp/></highlight><highlight class="keywordtype">void</highlight><highlight class="normal"><sp/><ref refid="classcrc64720bb2db43a66fe9_1_1_forms_view_pager_1ae1426e34b142b22911a74a825953cb02" kindref="member">monodroidClearReferences</ref><sp/>()</highlight></codeline>
+<codeline lineno="60"><highlight class="normal"><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline lineno="61"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">if</highlight><highlight class="normal"><sp/>(refList<sp/>!=<sp/></highlight><highlight class="keyword">null</highlight><highlight class="normal">)</highlight></codeline>
+<codeline lineno="62"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>refList.clear<sp/>();</highlight></codeline>
+<codeline lineno="63"><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline lineno="64"><highlight class="normal">}</highlight></codeline>
+    </programlisting>
+    <location file="Application Green Quake.Android/obj/Release/100/android/src/crc64720bb2db43a66fe9/FormsViewPager.java"/>
+  </compounddef>
+</doxygen>

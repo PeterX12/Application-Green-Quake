@@ -1,0 +1,106 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.9.1" xml:lang="en-US">
+  <compounddef id="_release_2100_2android_2src_2crc643f46942d9dd1fff9_2_border_drawable_8java" kind="file" language="Java">
+    <compoundname>BorderDrawable.java</compoundname>
+    <innerclass refid="classcrc643f46942d9dd1fff9_1_1_border_drawable" prot="public">crc643f46942d9dd1fff9::BorderDrawable</innerclass>
+    <innernamespace refid="namespacecrc643f46942d9dd1fff9">crc643f46942d9dd1fff9</innernamespace>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <programlisting>
+<codeline lineno="1"><highlight class="keyword">package<sp/></highlight><highlight class="normal">crc643f46942d9dd1fff9;</highlight></codeline>
+<codeline lineno="2"><highlight class="normal"></highlight></codeline>
+<codeline lineno="3"><highlight class="normal"></highlight></codeline>
+<codeline lineno="4"><highlight class="normal"></highlight><highlight class="keyword">public</highlight><highlight class="normal"><sp/></highlight><highlight class="keyword">class<sp/></highlight><highlight class="normal">BorderDrawable</highlight></codeline>
+<codeline lineno="5"><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">extends</highlight><highlight class="normal"><sp/>android.graphics.drawable.Drawable</highlight></codeline>
+<codeline lineno="6"><highlight class="normal"><sp/><sp/><sp/><sp/>implements</highlight></codeline>
+<codeline lineno="7"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>mono.android.IGCUserPeer</highlight></codeline>
+<codeline lineno="8"><highlight class="normal">{</highlight></codeline>
+<codeline lineno="10"><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">public</highlight><highlight class="normal"><sp/></highlight><highlight class="keyword">static</highlight><highlight class="normal"><sp/></highlight><highlight class="keyword">final</highlight><highlight class="normal"><sp/>String<sp/><ref refid="classcrc643f46942d9dd1fff9_1_1_border_drawable_1af5f8d11e4e97652264afc96db3e5a978" kindref="member">__md_methods</ref>;</highlight></codeline>
+<codeline lineno="11"><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">static</highlight><highlight class="normal"><sp/>{</highlight></codeline>
+<codeline lineno="12"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><ref refid="classcrc643f46942d9dd1fff9_1_1_border_drawable_1af5f8d11e4e97652264afc96db3e5a978" kindref="member">__md_methods</ref><sp/>=<sp/></highlight></codeline>
+<codeline lineno="13"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="stringliteral">&quot;n_isStateful:()Z:GetIsStatefulHandler\n&quot;</highlight><highlight class="normal"><sp/>+</highlight></codeline>
+<codeline lineno="14"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="stringliteral">&quot;n_getOpacity:()I:GetGetOpacityHandler\n&quot;</highlight><highlight class="normal"><sp/>+</highlight></codeline>
+<codeline lineno="15"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="stringliteral">&quot;n_draw:(Landroid/graphics/Canvas;)V:GetDraw_Landroid_graphics_Canvas_Handler\n&quot;</highlight><highlight class="normal"><sp/>+</highlight></codeline>
+<codeline lineno="16"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="stringliteral">&quot;n_setAlpha:(I)V:GetSetAlpha_IHandler\n&quot;</highlight><highlight class="normal"><sp/>+</highlight></codeline>
+<codeline lineno="17"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="stringliteral">&quot;n_setColorFilter:(Landroid/graphics/ColorFilter;)V:GetSetColorFilter_Landroid_graphics_ColorFilter_Handler\n&quot;</highlight><highlight class="normal"><sp/>+</highlight></codeline>
+<codeline lineno="18"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="stringliteral">&quot;n_onStateChange:([I)Z:GetOnStateChange_arrayIHandler\n&quot;</highlight><highlight class="normal"><sp/>+</highlight></codeline>
+<codeline lineno="19"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="stringliteral">&quot;&quot;</highlight><highlight class="normal">;</highlight></codeline>
+<codeline lineno="20"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>mono.android.Runtime.register<sp/>(</highlight><highlight class="stringliteral">&quot;Xamarin.Forms.Platform.Android.BorderDrawable,<sp/>Xamarin.Forms.Platform.Android&quot;</highlight><highlight class="normal">,<sp/><ref refid="classcrc643f46942d9dd1fff9_1_1_border_drawable_1abe6db89198f03272ee32d71ad0e063f3" kindref="member">BorderDrawable</ref>.class,<sp/><ref refid="classcrc643f46942d9dd1fff9_1_1_border_drawable_1af5f8d11e4e97652264afc96db3e5a978" kindref="member">__md_methods</ref>);</highlight></codeline>
+<codeline lineno="21"><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline lineno="22"><highlight class="normal"></highlight></codeline>
+<codeline lineno="23"><highlight class="normal"></highlight></codeline>
+<codeline lineno="24" refid="classcrc643f46942d9dd1fff9_1_1_border_drawable_1abe6db89198f03272ee32d71ad0e063f3" refkind="member"><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">public</highlight><highlight class="normal"><sp/><ref refid="classcrc643f46942d9dd1fff9_1_1_border_drawable_1abe6db89198f03272ee32d71ad0e063f3" kindref="member">BorderDrawable</ref><sp/>()</highlight></codeline>
+<codeline lineno="25"><highlight class="normal"><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline lineno="26"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>super<sp/>();</highlight></codeline>
+<codeline lineno="27"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">if</highlight><highlight class="normal"><sp/>(getClass<sp/>()<sp/>==<sp/><ref refid="classcrc643f46942d9dd1fff9_1_1_border_drawable" kindref="compound">BorderDrawable</ref>.class)</highlight></codeline>
+<codeline lineno="28"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>mono.android.TypeManager.Activate<sp/>(</highlight><highlight class="stringliteral">&quot;Xamarin.Forms.Platform.Android.BorderDrawable,<sp/>Xamarin.Forms.Platform.Android&quot;</highlight><highlight class="normal">,<sp/></highlight><highlight class="stringliteral">&quot;&quot;</highlight><highlight class="normal">,<sp/></highlight><highlight class="keyword">this</highlight><highlight class="normal">,<sp/></highlight><highlight class="keyword">new</highlight><highlight class="normal"><sp/>java.lang.Object[]<sp/>{<sp/><sp/>});</highlight></codeline>
+<codeline lineno="29"><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline lineno="30"><highlight class="normal"></highlight></codeline>
+<codeline lineno="31"><highlight class="normal"></highlight></codeline>
+<codeline lineno="32" refid="classcrc643f46942d9dd1fff9_1_1_border_drawable_1acd4e1a1d28cb9d40b25124d34eb11d6c" refkind="member"><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">public</highlight><highlight class="normal"><sp/></highlight><highlight class="keywordtype">boolean</highlight><highlight class="normal"><sp/><ref refid="classcrc643f46942d9dd1fff9_1_1_border_drawable_1acd4e1a1d28cb9d40b25124d34eb11d6c" kindref="member">isStateful</ref><sp/>()</highlight></codeline>
+<codeline lineno="33"><highlight class="normal"><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline lineno="34"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">return</highlight><highlight class="normal"><sp/>n_isStateful<sp/>();</highlight></codeline>
+<codeline lineno="35"><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline lineno="36"><highlight class="normal"></highlight></codeline>
+<codeline lineno="37"><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">private</highlight><highlight class="normal"><sp/>native<sp/></highlight><highlight class="keywordtype">boolean</highlight><highlight class="normal"><sp/>n_isStateful<sp/>();</highlight></codeline>
+<codeline lineno="38"><highlight class="normal"></highlight></codeline>
+<codeline lineno="39"><highlight class="normal"></highlight></codeline>
+<codeline lineno="40" refid="classcrc643f46942d9dd1fff9_1_1_border_drawable_1afa832e2b4dc65089ad5b915789fa7852" refkind="member"><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">public</highlight><highlight class="normal"><sp/></highlight><highlight class="keywordtype">int</highlight><highlight class="normal"><sp/><ref refid="classcrc643f46942d9dd1fff9_1_1_border_drawable_1afa832e2b4dc65089ad5b915789fa7852" kindref="member">getOpacity</ref><sp/>()</highlight></codeline>
+<codeline lineno="41"><highlight class="normal"><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline lineno="42"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">return</highlight><highlight class="normal"><sp/>n_getOpacity<sp/>();</highlight></codeline>
+<codeline lineno="43"><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline lineno="44"><highlight class="normal"></highlight></codeline>
+<codeline lineno="45"><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">private</highlight><highlight class="normal"><sp/>native<sp/></highlight><highlight class="keywordtype">int</highlight><highlight class="normal"><sp/>n_getOpacity<sp/>();</highlight></codeline>
+<codeline lineno="46"><highlight class="normal"></highlight></codeline>
+<codeline lineno="47"><highlight class="normal"></highlight></codeline>
+<codeline lineno="48" refid="classcrc643f46942d9dd1fff9_1_1_border_drawable_1a9b1ed802582cc859dfaf4c6d186cb625" refkind="member"><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">public</highlight><highlight class="normal"><sp/></highlight><highlight class="keywordtype">void</highlight><highlight class="normal"><sp/><ref refid="classcrc643f46942d9dd1fff9_1_1_border_drawable_1a9b1ed802582cc859dfaf4c6d186cb625" kindref="member">draw</ref><sp/>(android.graphics.Canvas<sp/>p0)</highlight></codeline>
+<codeline lineno="49"><highlight class="normal"><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline lineno="50"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>n_draw<sp/>(p0);</highlight></codeline>
+<codeline lineno="51"><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline lineno="52"><highlight class="normal"></highlight></codeline>
+<codeline lineno="53"><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">private</highlight><highlight class="normal"><sp/>native<sp/></highlight><highlight class="keywordtype">void</highlight><highlight class="normal"><sp/>n_draw<sp/>(android.graphics.Canvas<sp/>p0);</highlight></codeline>
+<codeline lineno="54"><highlight class="normal"></highlight></codeline>
+<codeline lineno="55"><highlight class="normal"></highlight></codeline>
+<codeline lineno="56" refid="classcrc643f46942d9dd1fff9_1_1_border_drawable_1a8bb3d776756dc9b4c18c5beffb2137c5" refkind="member"><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">public</highlight><highlight class="normal"><sp/></highlight><highlight class="keywordtype">void</highlight><highlight class="normal"><sp/><ref refid="classcrc643f46942d9dd1fff9_1_1_border_drawable_1a8bb3d776756dc9b4c18c5beffb2137c5" kindref="member">setAlpha</ref><sp/>(</highlight><highlight class="keywordtype">int</highlight><highlight class="normal"><sp/>p0)</highlight></codeline>
+<codeline lineno="57"><highlight class="normal"><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline lineno="58"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>n_setAlpha<sp/>(p0);</highlight></codeline>
+<codeline lineno="59"><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline lineno="60"><highlight class="normal"></highlight></codeline>
+<codeline lineno="61"><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">private</highlight><highlight class="normal"><sp/>native<sp/></highlight><highlight class="keywordtype">void</highlight><highlight class="normal"><sp/>n_setAlpha<sp/>(</highlight><highlight class="keywordtype">int</highlight><highlight class="normal"><sp/>p0);</highlight></codeline>
+<codeline lineno="62"><highlight class="normal"></highlight></codeline>
+<codeline lineno="63"><highlight class="normal"></highlight></codeline>
+<codeline lineno="64" refid="classcrc643f46942d9dd1fff9_1_1_border_drawable_1af60928cabd749afb85ccf2f834b88856" refkind="member"><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">public</highlight><highlight class="normal"><sp/></highlight><highlight class="keywordtype">void</highlight><highlight class="normal"><sp/><ref refid="classcrc643f46942d9dd1fff9_1_1_border_drawable_1af60928cabd749afb85ccf2f834b88856" kindref="member">setColorFilter</ref><sp/>(android.graphics.ColorFilter<sp/>p0)</highlight></codeline>
+<codeline lineno="65"><highlight class="normal"><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline lineno="66"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>n_setColorFilter<sp/>(p0);</highlight></codeline>
+<codeline lineno="67"><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline lineno="68"><highlight class="normal"></highlight></codeline>
+<codeline lineno="69"><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">private</highlight><highlight class="normal"><sp/>native<sp/></highlight><highlight class="keywordtype">void</highlight><highlight class="normal"><sp/>n_setColorFilter<sp/>(android.graphics.ColorFilter<sp/>p0);</highlight></codeline>
+<codeline lineno="70"><highlight class="normal"></highlight></codeline>
+<codeline lineno="71"><highlight class="normal"></highlight></codeline>
+<codeline lineno="72" refid="classcrc643f46942d9dd1fff9_1_1_border_drawable_1ab153ff54b4b3885494304a6cc98f9dff" refkind="member"><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">public</highlight><highlight class="normal"><sp/></highlight><highlight class="keywordtype">boolean</highlight><highlight class="normal"><sp/><ref refid="classcrc643f46942d9dd1fff9_1_1_border_drawable_1ab153ff54b4b3885494304a6cc98f9dff" kindref="member">onStateChange</ref><sp/>(</highlight><highlight class="keywordtype">int</highlight><highlight class="normal">[]<sp/>p0)</highlight></codeline>
+<codeline lineno="73"><highlight class="normal"><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline lineno="74"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">return</highlight><highlight class="normal"><sp/>n_onStateChange<sp/>(p0);</highlight></codeline>
+<codeline lineno="75"><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline lineno="76"><highlight class="normal"></highlight></codeline>
+<codeline lineno="77"><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">private</highlight><highlight class="normal"><sp/>native<sp/></highlight><highlight class="keywordtype">boolean</highlight><highlight class="normal"><sp/>n_onStateChange<sp/>(</highlight><highlight class="keywordtype">int</highlight><highlight class="normal">[]<sp/>p0);</highlight></codeline>
+<codeline lineno="78"><highlight class="normal"></highlight></codeline>
+<codeline lineno="79"><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">private</highlight><highlight class="normal"><sp/>java.util.ArrayList<sp/>refList;</highlight></codeline>
+<codeline lineno="80" refid="classcrc643f46942d9dd1fff9_1_1_border_drawable_1a18f7f3829e094d8aeda0309aacd693f9" refkind="member"><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">public</highlight><highlight class="normal"><sp/></highlight><highlight class="keywordtype">void</highlight><highlight class="normal"><sp/><ref refid="classcrc643f46942d9dd1fff9_1_1_border_drawable_1a18f7f3829e094d8aeda0309aacd693f9" kindref="member">monodroidAddReference</ref><sp/>(java.lang.Object<sp/>obj)</highlight></codeline>
+<codeline lineno="81"><highlight class="normal"><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline lineno="82"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">if</highlight><highlight class="normal"><sp/>(refList<sp/>==<sp/></highlight><highlight class="keyword">null</highlight><highlight class="normal">)</highlight></codeline>
+<codeline lineno="83"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>refList<sp/>=<sp/></highlight><highlight class="keyword">new</highlight><highlight class="normal"><sp/>java.util.ArrayList<sp/>();</highlight></codeline>
+<codeline lineno="84"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>refList.add<sp/>(obj);</highlight></codeline>
+<codeline lineno="85"><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline lineno="86"><highlight class="normal"></highlight></codeline>
+<codeline lineno="87" refid="classcrc643f46942d9dd1fff9_1_1_border_drawable_1af429cd9b4824d06401475588f67a6edb" refkind="member"><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">public</highlight><highlight class="normal"><sp/></highlight><highlight class="keywordtype">void</highlight><highlight class="normal"><sp/><ref refid="classcrc643f46942d9dd1fff9_1_1_border_drawable_1af429cd9b4824d06401475588f67a6edb" kindref="member">monodroidClearReferences</ref><sp/>()</highlight></codeline>
+<codeline lineno="88"><highlight class="normal"><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline lineno="89"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">if</highlight><highlight class="normal"><sp/>(refList<sp/>!=<sp/></highlight><highlight class="keyword">null</highlight><highlight class="normal">)</highlight></codeline>
+<codeline lineno="90"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>refList.clear<sp/>();</highlight></codeline>
+<codeline lineno="91"><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline lineno="92"><highlight class="normal">}</highlight></codeline>
+    </programlisting>
+    <location file="Application Green Quake.Android/obj/Release/100/android/src/crc643f46942d9dd1fff9/BorderDrawable.java"/>
+  </compounddef>
+</doxygen>

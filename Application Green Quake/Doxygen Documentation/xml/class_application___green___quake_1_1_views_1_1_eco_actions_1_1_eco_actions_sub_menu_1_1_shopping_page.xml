@@ -1,0 +1,430 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.9.1" xml:lang="en-US">
+  <compounddef id="class_application___green___quake_1_1_views_1_1_eco_actions_1_1_eco_actions_sub_menu_1_1_shopping_page" kind="class" language="C#" prot="public">
+    <compoundname>Application_Green_Quake::Views::EcoActions::EcoActionsSubMenu::ShoppingPage</compoundname>
+    <basecompoundref prot="public" virt="non-virtual">global.XamarinForms.ContentPage</basecompoundref>
+    <basecompoundref prot="public" virt="non-virtual">global.XamarinForms.ContentPage</basecompoundref>
+    <basecompoundref prot="public" virt="non-virtual">ContentPage</basecompoundref>
+      <sectiondef kind="private-attrib">
+      <memberdef kind="variable" id="class_application___green___quake_1_1_views_1_1_eco_actions_1_1_eco_actions_sub_menu_1_1_shopping_page_1a4b937321d7d320fa58e9b83ecd8704c7" prot="private" static="no" mutable="no">
+        <type>global::Xamarin.Forms.Label</type>
+        <definition>Xamarin Forms global::Label Application_Green_Quake.Views.EcoActions.EcoActionsSubMenu.ShoppingPage::theLevel</definition>
+        <argsstring></argsstring>
+        <name>theLevel</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake/obj/Debug/netstandard2.0/Views/EcoActions/EcoActionsSubMenu/ShoppingPage.xaml.g.cs" line="20" column="43" bodyfile="Application Green Quake/obj/Debug/netstandard2.0/Views/EcoActions/EcoActionsSubMenu/ShoppingPage.xaml.g.cs" bodystart="20" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="private-func">
+      <memberdef kind="function" id="class_application___green___quake_1_1_views_1_1_eco_actions_1_1_eco_actions_sub_menu_1_1_shopping_page_1a203740aa6074397ef2ef9e3b14c13474" prot="private" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void Application_Green_Quake.Views.EcoActions.EcoActionsSubMenu.ShoppingPage.InitializeComponent</definition>
+        <argsstring>()</argsstring>
+        <name>InitializeComponent</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake/obj/Debug/netstandard2.0/Views/EcoActions/EcoActionsSubMenu/ShoppingPage.xaml.g.cs" line="23" column="22" bodyfile="Application Green Quake/obj/Debug/netstandard2.0/Views/EcoActions/EcoActionsSubMenu/ShoppingPage.xaml.g.cs" bodystart="23" bodyend="26"/>
+      </memberdef>
+      <memberdef kind="function" id="class_application___green___quake_1_1_views_1_1_eco_actions_1_1_eco_actions_sub_menu_1_1_shopping_page_1a203740aa6074397ef2ef9e3b14c13474" prot="private" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void Application_Green_Quake.Views.EcoActions.EcoActionsSubMenu.ShoppingPage.InitializeComponent</definition>
+        <argsstring>()</argsstring>
+        <name>InitializeComponent</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake/obj/Release/netstandard2.0/Views/EcoActions/EcoActionsSubMenu/ShoppingPage.xaml.g.cs" line="23" column="22" bodyfile="Application Green Quake/obj/Release/netstandard2.0/Views/EcoActions/EcoActionsSubMenu/ShoppingPage.xaml.g.cs" bodystart="23" bodyend="26"/>
+      </memberdef>
+      <memberdef kind="function" id="class_application___green___quake_1_1_views_1_1_eco_actions_1_1_eco_actions_sub_menu_1_1_shopping_page_1a59b69199dadbfd338093213d0b3b4395" prot="private" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>async void</type>
+        <definition>async void Application_Green_Quake.Views.EcoActions.EcoActionsSubMenu.ShoppingPage.NavigateToReusableWater</definition>
+        <argsstring>(object sender, EventArgs e)</argsstring>
+        <name>NavigateToReusableWater</name>
+        <param>
+          <type>object</type>
+          <declname>sender</declname>
+        </param>
+        <param>
+          <type>EventArgs</type>
+          <declname>e</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+<para>This function navigates to PurchaseReusableWater. </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake/Views/EcoActions/EcoActionsSubMenu/ShoppingPage.xaml.cs" line="27" column="28" bodyfile="Application Green Quake/Views/EcoActions/EcoActionsSubMenu/ShoppingPage.xaml.cs" bodystart="27" bodyend="30"/>
+      </memberdef>
+      <memberdef kind="function" id="class_application___green___quake_1_1_views_1_1_eco_actions_1_1_eco_actions_sub_menu_1_1_shopping_page_1ad3d37bd187da874b2c86c86af5d03dca" prot="private" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>async void</type>
+        <definition>async void Application_Green_Quake.Views.EcoActions.EcoActionsSubMenu.ShoppingPage.NavigateToPurchaseReusableBag</definition>
+        <argsstring>(object sender, EventArgs e)</argsstring>
+        <name>NavigateToPurchaseReusableBag</name>
+        <param>
+          <type>object</type>
+          <declname>sender</declname>
+        </param>
+        <param>
+          <type>EventArgs</type>
+          <declname>e</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+<para>This function navigates to ReusableBag. </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake/Views/EcoActions/EcoActionsSubMenu/ShoppingPage.xaml.cs" line="33" column="28" bodyfile="Application Green Quake/Views/EcoActions/EcoActionsSubMenu/ShoppingPage.xaml.cs" bodystart="33" bodyend="36"/>
+      </memberdef>
+      <memberdef kind="function" id="class_application___green___quake_1_1_views_1_1_eco_actions_1_1_eco_actions_sub_menu_1_1_shopping_page_1ac8ce2728d40eeda4596e8aea440ee78f" prot="private" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>async void</type>
+        <definition>async void Application_Green_Quake.Views.EcoActions.EcoActionsSubMenu.ShoppingPage.NavigateToLocalProduct</definition>
+        <argsstring>(object sender, EventArgs e)</argsstring>
+        <name>NavigateToLocalProduct</name>
+        <param>
+          <type>object</type>
+          <declname>sender</declname>
+        </param>
+        <param>
+          <type>EventArgs</type>
+          <declname>e</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+<para>This function navigates to LocalProduct. </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake/Views/EcoActions/EcoActionsSubMenu/ShoppingPage.xaml.cs" line="39" column="28" bodyfile="Application Green Quake/Views/EcoActions/EcoActionsSubMenu/ShoppingPage.xaml.cs" bodystart="39" bodyend="42"/>
+      </memberdef>
+      <memberdef kind="function" id="class_application___green___quake_1_1_views_1_1_eco_actions_1_1_eco_actions_sub_menu_1_1_shopping_page_1a63c542866202e2e01e48e84cd0fd344f" prot="private" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>async void</type>
+        <definition>async void Application_Green_Quake.Views.EcoActions.EcoActionsSubMenu.ShoppingPage.NavigateToOrganicFood</definition>
+        <argsstring>(object sender, EventArgs e)</argsstring>
+        <name>NavigateToOrganicFood</name>
+        <param>
+          <type>object</type>
+          <declname>sender</declname>
+        </param>
+        <param>
+          <type>EventArgs</type>
+          <declname>e</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+<para>This function navigates to OrganicFood. </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake/Views/EcoActions/EcoActionsSubMenu/ShoppingPage.xaml.cs" line="45" column="28" bodyfile="Application Green Quake/Views/EcoActions/EcoActionsSubMenu/ShoppingPage.xaml.cs" bodystart="45" bodyend="48"/>
+      </memberdef>
+      <memberdef kind="function" id="class_application___green___quake_1_1_views_1_1_eco_actions_1_1_eco_actions_sub_menu_1_1_shopping_page_1a1b5ed29c2acfa02681bcdeed87361574" prot="private" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>async void</type>
+        <definition>async void Application_Green_Quake.Views.EcoActions.EcoActionsSubMenu.ShoppingPage.NavigateToFoodInBulk</definition>
+        <argsstring>(object sender, EventArgs e)</argsstring>
+        <name>NavigateToFoodInBulk</name>
+        <param>
+          <type>object</type>
+          <declname>sender</declname>
+        </param>
+        <param>
+          <type>EventArgs</type>
+          <declname>e</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+<para>This function navigates to FoodInBulk. </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake/Views/EcoActions/EcoActionsSubMenu/ShoppingPage.xaml.cs" line="51" column="28" bodyfile="Application Green Quake/Views/EcoActions/EcoActionsSubMenu/ShoppingPage.xaml.cs" bodystart="51" bodyend="54"/>
+      </memberdef>
+      <memberdef kind="function" id="class_application___green___quake_1_1_views_1_1_eco_actions_1_1_eco_actions_sub_menu_1_1_shopping_page_1a48ea3e403e2e21792b99a3c590369403" prot="private" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>async void</type>
+        <definition>async void Application_Green_Quake.Views.EcoActions.EcoActionsSubMenu.ShoppingPage.NavigateToEcoFriendlyProduct</definition>
+        <argsstring>(object sender, EventArgs e)</argsstring>
+        <name>NavigateToEcoFriendlyProduct</name>
+        <param>
+          <type>object</type>
+          <declname>sender</declname>
+        </param>
+        <param>
+          <type>EventArgs</type>
+          <declname>e</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+<para>This function navigates to EcoFriendlyProduct. </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake/Views/EcoActions/EcoActionsSubMenu/ShoppingPage.xaml.cs" line="57" column="28" bodyfile="Application Green Quake/Views/EcoActions/EcoActionsSubMenu/ShoppingPage.xaml.cs" bodystart="57" bodyend="60"/>
+      </memberdef>
+      <memberdef kind="function" id="class_application___green___quake_1_1_views_1_1_eco_actions_1_1_eco_actions_sub_menu_1_1_shopping_page_1a2a92f5ea969fa3939d1cd624df23ba8d" prot="private" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>async void</type>
+        <definition>async void Application_Green_Quake.Views.EcoActions.EcoActionsSubMenu.ShoppingPage.NavigateToEthicalClothes</definition>
+        <argsstring>(object sender, EventArgs e)</argsstring>
+        <name>NavigateToEthicalClothes</name>
+        <param>
+          <type>object</type>
+          <declname>sender</declname>
+        </param>
+        <param>
+          <type>EventArgs</type>
+          <declname>e</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+<para>This function navigates to EthicalClothes. </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake/Views/EcoActions/EcoActionsSubMenu/ShoppingPage.xaml.cs" line="63" column="28" bodyfile="Application Green Quake/Views/EcoActions/EcoActionsSubMenu/ShoppingPage.xaml.cs" bodystart="63" bodyend="66"/>
+      </memberdef>
+      <memberdef kind="function" id="class_application___green___quake_1_1_views_1_1_eco_actions_1_1_eco_actions_sub_menu_1_1_shopping_page_1aeba08c23356dd0374f312d3b54e8904e" prot="private" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>async void</type>
+        <definition>async void Application_Green_Quake.Views.EcoActions.EcoActionsSubMenu.ShoppingPage.NavigateToEcoFriendlyToothbrush</definition>
+        <argsstring>(object sender, EventArgs e)</argsstring>
+        <name>NavigateToEcoFriendlyToothbrush</name>
+        <param>
+          <type>object</type>
+          <declname>sender</declname>
+        </param>
+        <param>
+          <type>EventArgs</type>
+          <declname>e</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+<para>This function navigates to EcoFriendlyToothbrush. </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake/Views/EcoActions/EcoActionsSubMenu/ShoppingPage.xaml.cs" line="69" column="28" bodyfile="Application Green Quake/Views/EcoActions/EcoActionsSubMenu/ShoppingPage.xaml.cs" bodystart="69" bodyend="72"/>
+      </memberdef>
+      <memberdef kind="function" id="class_application___green___quake_1_1_views_1_1_eco_actions_1_1_eco_actions_sub_menu_1_1_shopping_page_1a5a270bb57827b9b39c41a0679e8eff41" prot="private" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>async void</type>
+        <definition>async void Application_Green_Quake.Views.EcoActions.EcoActionsSubMenu.ShoppingPage.NavigateToEcoFreidnlyApplicance</definition>
+        <argsstring>(object sender, EventArgs e)</argsstring>
+        <name>NavigateToEcoFreidnlyApplicance</name>
+        <param>
+          <type>object</type>
+          <declname>sender</declname>
+        </param>
+        <param>
+          <type>EventArgs</type>
+          <declname>e</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+<para>This function navigates to EcoFreidnlyApplicance. </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake/Views/EcoActions/EcoActionsSubMenu/ShoppingPage.xaml.cs" line="75" column="28" bodyfile="Application Green Quake/Views/EcoActions/EcoActionsSubMenu/ShoppingPage.xaml.cs" bodystart="75" bodyend="78"/>
+      </memberdef>
+      <memberdef kind="function" id="class_application___green___quake_1_1_views_1_1_eco_actions_1_1_eco_actions_sub_menu_1_1_shopping_page_1a7c56cc6a2c402b46ce8ba1adcf7b7e35" prot="private" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>async void</type>
+        <definition>async void Application_Green_Quake.Views.EcoActions.EcoActionsSubMenu.ShoppingPage.NavigateToLooseLeafTea</definition>
+        <argsstring>(object sender, EventArgs e)</argsstring>
+        <name>NavigateToLooseLeafTea</name>
+        <param>
+          <type>object</type>
+          <declname>sender</declname>
+        </param>
+        <param>
+          <type>EventArgs</type>
+          <declname>e</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+<para>This function navigates to LooseLeafTea. </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake/Views/EcoActions/EcoActionsSubMenu/ShoppingPage.xaml.cs" line="81" column="28" bodyfile="Application Green Quake/Views/EcoActions/EcoActionsSubMenu/ShoppingPage.xaml.cs" bodystart="81" bodyend="84"/>
+      </memberdef>
+      <memberdef kind="function" id="class_application___green___quake_1_1_views_1_1_eco_actions_1_1_eco_actions_sub_menu_1_1_shopping_page_1ac2ec0b41b4b26bbd5c5c596986475a25" prot="private" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>async void</type>
+        <definition>async void Application_Green_Quake.Views.EcoActions.EcoActionsSubMenu.ShoppingPage.NavigateToReBatteries</definition>
+        <argsstring>(object sender, EventArgs e)</argsstring>
+        <name>NavigateToReBatteries</name>
+        <param>
+          <type>object</type>
+          <declname>sender</declname>
+        </param>
+        <param>
+          <type>EventArgs</type>
+          <declname>e</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+<para>This function navigates to ReBatteries. </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake/Views/EcoActions/EcoActionsSubMenu/ShoppingPage.xaml.cs" line="87" column="28" bodyfile="Application Green Quake/Views/EcoActions/EcoActionsSubMenu/ShoppingPage.xaml.cs" bodystart="87" bodyend="90"/>
+      </memberdef>
+      <memberdef kind="function" id="class_application___green___quake_1_1_views_1_1_eco_actions_1_1_eco_actions_sub_menu_1_1_shopping_page_1a8bf84ff07bc6ccf2e804d12130c26e07" prot="private" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>async void</type>
+        <definition>async void Application_Green_Quake.Views.EcoActions.EcoActionsSubMenu.ShoppingPage.NavigateToClothNapkins</definition>
+        <argsstring>(object sender, EventArgs e)</argsstring>
+        <name>NavigateToClothNapkins</name>
+        <param>
+          <type>object</type>
+          <declname>sender</declname>
+        </param>
+        <param>
+          <type>EventArgs</type>
+          <declname>e</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+<para>This function navigates to ClothNapkins. </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake/Views/EcoActions/EcoActionsSubMenu/ShoppingPage.xaml.cs" line="93" column="28" bodyfile="Application Green Quake/Views/EcoActions/EcoActionsSubMenu/ShoppingPage.xaml.cs" bodystart="93" bodyend="96"/>
+      </memberdef>
+      <memberdef kind="function" id="class_application___green___quake_1_1_views_1_1_eco_actions_1_1_eco_actions_sub_menu_1_1_shopping_page_1afbb2608b53e5650c7780697390e8f109" prot="private" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>async void</type>
+        <definition>async void Application_Green_Quake.Views.EcoActions.EcoActionsSubMenu.ShoppingPage.NavigateToClothTowels</definition>
+        <argsstring>(object sender, EventArgs e)</argsstring>
+        <name>NavigateToClothTowels</name>
+        <param>
+          <type>object</type>
+          <declname>sender</declname>
+        </param>
+        <param>
+          <type>EventArgs</type>
+          <declname>e</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+<para>This function navigates to ClothTowels. </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake/Views/EcoActions/EcoActionsSubMenu/ShoppingPage.xaml.cs" line="99" column="28" bodyfile="Application Green Quake/Views/EcoActions/EcoActionsSubMenu/ShoppingPage.xaml.cs" bodystart="99" bodyend="102"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="public-func">
+      <memberdef kind="function" id="class_application___green___quake_1_1_views_1_1_eco_actions_1_1_eco_actions_sub_menu_1_1_shopping_page_1a7e61a7120ccabaebae4fe869304157c2" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>Application_Green_Quake.Views.EcoActions.EcoActionsSubMenu.ShoppingPage.ShoppingPage</definition>
+        <argsstring>()</argsstring>
+        <name>ShoppingPage</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake/Views/EcoActions/EcoActionsSubMenu/ShoppingPage.xaml.cs" line="20" column="16" bodyfile="Application Green Quake/Views/EcoActions/EcoActionsSubMenu/ShoppingPage.xaml.cs" bodystart="20" bodyend="24"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="protected-func">
+      <memberdef kind="function" id="class_application___green___quake_1_1_views_1_1_eco_actions_1_1_eco_actions_sub_menu_1_1_shopping_page_1a686fec2954a014bafa63d605a9d900b6" prot="protected" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>override void</type>
+        <definition>override void Application_Green_Quake.Views.EcoActions.EcoActionsSubMenu.ShoppingPage.OnAppearing</definition>
+        <argsstring>()</argsstring>
+        <name>OnAppearing</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+<para>This function is called before the page is displayed and it created an object ans uses it&apos;s SetLvl method to set the players level in the app and display it in the navigation bar. </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake/Views/EcoActions/EcoActionsSubMenu/ShoppingPage.xaml.cs" line="106" column="33" bodyfile="Application Green Quake/Views/EcoActions/EcoActionsSubMenu/ShoppingPage.xaml.cs" bodystart="106" bodyend="112"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <inheritancegraph>
+      <node id="1">
+        <label>Application_Green_Quake.Views.EcoActions.EcoActionsSubMenu.ShoppingPage</label>
+        <link refid="class_application___green___quake_1_1_views_1_1_eco_actions_1_1_eco_actions_sub_menu_1_1_shopping_page"/>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+        <childnode refid="3" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="3">
+        <label>ContentPage</label>
+      </node>
+      <node id="2">
+        <label>global::XamarinForms::ContentPage</label>
+      </node>
+    </inheritancegraph>
+    <collaborationgraph>
+      <node id="1">
+        <label>Application_Green_Quake.Views.EcoActions.EcoActionsSubMenu.ShoppingPage</label>
+        <link refid="class_application___green___quake_1_1_views_1_1_eco_actions_1_1_eco_actions_sub_menu_1_1_shopping_page"/>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+        <childnode refid="3" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="3">
+        <label>ContentPage</label>
+      </node>
+      <node id="2">
+        <label>global::XamarinForms::ContentPage</label>
+      </node>
+    </collaborationgraph>
+    <location file="Application Green Quake/obj/Debug/netstandard2.0/Views/EcoActions/EcoActionsSubMenu/ShoppingPage.xaml.g.cs" line="17" column="19" bodyfile="Application Green Quake/obj/Debug/netstandard2.0/Views/EcoActions/EcoActionsSubMenu/ShoppingPage.xaml.g.cs" bodystart="17" bodyend="27"/>
+    <listofallmembers>
+      <member refid="class_application___green___quake_1_1_views_1_1_eco_actions_1_1_eco_actions_sub_menu_1_1_shopping_page_1a203740aa6074397ef2ef9e3b14c13474" prot="private" virt="non-virtual"><scope>Application_Green_Quake::Views::EcoActions::EcoActionsSubMenu::ShoppingPage</scope><name>InitializeComponent</name></member>
+      <member refid="class_application___green___quake_1_1_views_1_1_eco_actions_1_1_eco_actions_sub_menu_1_1_shopping_page_1a203740aa6074397ef2ef9e3b14c13474" prot="private" virt="non-virtual"><scope>Application_Green_Quake::Views::EcoActions::EcoActionsSubMenu::ShoppingPage</scope><name>InitializeComponent</name></member>
+      <member refid="class_application___green___quake_1_1_views_1_1_eco_actions_1_1_eco_actions_sub_menu_1_1_shopping_page_1a8bf84ff07bc6ccf2e804d12130c26e07" prot="private" virt="non-virtual"><scope>Application_Green_Quake::Views::EcoActions::EcoActionsSubMenu::ShoppingPage</scope><name>NavigateToClothNapkins</name></member>
+      <member refid="class_application___green___quake_1_1_views_1_1_eco_actions_1_1_eco_actions_sub_menu_1_1_shopping_page_1afbb2608b53e5650c7780697390e8f109" prot="private" virt="non-virtual"><scope>Application_Green_Quake::Views::EcoActions::EcoActionsSubMenu::ShoppingPage</scope><name>NavigateToClothTowels</name></member>
+      <member refid="class_application___green___quake_1_1_views_1_1_eco_actions_1_1_eco_actions_sub_menu_1_1_shopping_page_1a5a270bb57827b9b39c41a0679e8eff41" prot="private" virt="non-virtual"><scope>Application_Green_Quake::Views::EcoActions::EcoActionsSubMenu::ShoppingPage</scope><name>NavigateToEcoFreidnlyApplicance</name></member>
+      <member refid="class_application___green___quake_1_1_views_1_1_eco_actions_1_1_eco_actions_sub_menu_1_1_shopping_page_1a48ea3e403e2e21792b99a3c590369403" prot="private" virt="non-virtual"><scope>Application_Green_Quake::Views::EcoActions::EcoActionsSubMenu::ShoppingPage</scope><name>NavigateToEcoFriendlyProduct</name></member>
+      <member refid="class_application___green___quake_1_1_views_1_1_eco_actions_1_1_eco_actions_sub_menu_1_1_shopping_page_1aeba08c23356dd0374f312d3b54e8904e" prot="private" virt="non-virtual"><scope>Application_Green_Quake::Views::EcoActions::EcoActionsSubMenu::ShoppingPage</scope><name>NavigateToEcoFriendlyToothbrush</name></member>
+      <member refid="class_application___green___quake_1_1_views_1_1_eco_actions_1_1_eco_actions_sub_menu_1_1_shopping_page_1a2a92f5ea969fa3939d1cd624df23ba8d" prot="private" virt="non-virtual"><scope>Application_Green_Quake::Views::EcoActions::EcoActionsSubMenu::ShoppingPage</scope><name>NavigateToEthicalClothes</name></member>
+      <member refid="class_application___green___quake_1_1_views_1_1_eco_actions_1_1_eco_actions_sub_menu_1_1_shopping_page_1a1b5ed29c2acfa02681bcdeed87361574" prot="private" virt="non-virtual"><scope>Application_Green_Quake::Views::EcoActions::EcoActionsSubMenu::ShoppingPage</scope><name>NavigateToFoodInBulk</name></member>
+      <member refid="class_application___green___quake_1_1_views_1_1_eco_actions_1_1_eco_actions_sub_menu_1_1_shopping_page_1ac8ce2728d40eeda4596e8aea440ee78f" prot="private" virt="non-virtual"><scope>Application_Green_Quake::Views::EcoActions::EcoActionsSubMenu::ShoppingPage</scope><name>NavigateToLocalProduct</name></member>
+      <member refid="class_application___green___quake_1_1_views_1_1_eco_actions_1_1_eco_actions_sub_menu_1_1_shopping_page_1a7c56cc6a2c402b46ce8ba1adcf7b7e35" prot="private" virt="non-virtual"><scope>Application_Green_Quake::Views::EcoActions::EcoActionsSubMenu::ShoppingPage</scope><name>NavigateToLooseLeafTea</name></member>
+      <member refid="class_application___green___quake_1_1_views_1_1_eco_actions_1_1_eco_actions_sub_menu_1_1_shopping_page_1a63c542866202e2e01e48e84cd0fd344f" prot="private" virt="non-virtual"><scope>Application_Green_Quake::Views::EcoActions::EcoActionsSubMenu::ShoppingPage</scope><name>NavigateToOrganicFood</name></member>
+      <member refid="class_application___green___quake_1_1_views_1_1_eco_actions_1_1_eco_actions_sub_menu_1_1_shopping_page_1ad3d37bd187da874b2c86c86af5d03dca" prot="private" virt="non-virtual"><scope>Application_Green_Quake::Views::EcoActions::EcoActionsSubMenu::ShoppingPage</scope><name>NavigateToPurchaseReusableBag</name></member>
+      <member refid="class_application___green___quake_1_1_views_1_1_eco_actions_1_1_eco_actions_sub_menu_1_1_shopping_page_1ac2ec0b41b4b26bbd5c5c596986475a25" prot="private" virt="non-virtual"><scope>Application_Green_Quake::Views::EcoActions::EcoActionsSubMenu::ShoppingPage</scope><name>NavigateToReBatteries</name></member>
+      <member refid="class_application___green___quake_1_1_views_1_1_eco_actions_1_1_eco_actions_sub_menu_1_1_shopping_page_1a59b69199dadbfd338093213d0b3b4395" prot="private" virt="non-virtual"><scope>Application_Green_Quake::Views::EcoActions::EcoActionsSubMenu::ShoppingPage</scope><name>NavigateToReusableWater</name></member>
+      <member refid="class_application___green___quake_1_1_views_1_1_eco_actions_1_1_eco_actions_sub_menu_1_1_shopping_page_1a686fec2954a014bafa63d605a9d900b6" prot="protected" virt="non-virtual"><scope>Application_Green_Quake::Views::EcoActions::EcoActionsSubMenu::ShoppingPage</scope><name>OnAppearing</name></member>
+      <member refid="class_application___green___quake_1_1_views_1_1_eco_actions_1_1_eco_actions_sub_menu_1_1_shopping_page_1a7e61a7120ccabaebae4fe869304157c2" prot="public" virt="non-virtual"><scope>Application_Green_Quake::Views::EcoActions::EcoActionsSubMenu::ShoppingPage</scope><name>ShoppingPage</name></member>
+      <member refid="class_application___green___quake_1_1_views_1_1_eco_actions_1_1_eco_actions_sub_menu_1_1_shopping_page_1a4b937321d7d320fa58e9b83ecd8704c7" prot="private" virt="non-virtual"><scope>Application_Green_Quake::Views::EcoActions::EcoActionsSubMenu::ShoppingPage</scope><name>theLevel</name></member>
+    </listofallmembers>
+  </compounddef>
+</doxygen>

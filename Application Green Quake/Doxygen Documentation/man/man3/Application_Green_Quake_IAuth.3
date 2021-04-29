@@ -1,0 +1,65 @@
+.TH "Application_Green_Quake.IAuth" 3 "Thu Apr 29 2021" "Version 1.0" "Green Quake" \" -*- nroff -*-
+.ad l
+.nh
+.SH NAME
+Application_Green_Quake.IAuth
+.SH SYNOPSIS
+.br
+.PP
+.PP
+Inherited by \fBApplication_Green_Quake\&.Droid\&.AuthDroid\fP, and \fBApplication_Green_Quake\&.iOS\&.AuthiOS\fP\&.
+.SS "Public Member Functions"
+
+.in +1c
+.ti -1c
+.RI "Task< String > \fBLoginWithEmailAndPassword\fP (string email, string password)"
+.br
+.ti -1c
+.RI "Task< String > \fBSignUpWithEmailAndPassword\fP (string email, string password)"
+.br
+.ti -1c
+.RI "Task \fBResetPassword\fP (string email)"
+.br
+.ti -1c
+.RI "bool \fBSignOut\fP ()"
+.br
+.ti -1c
+.RI "bool \fBIsSignIn\fP ()"
+.br
+.ti -1c
+.RI "string \fBGetUid\fP ()"
+.br
+.in -1c
+.SH "Detailed Description"
+.PP 
+Definition at line 14 of file IAuth\&.cs\&.
+.SH "Member Function Documentation"
+.PP 
+.SS "string Application_Green_Quake\&.IAuth\&.GetUid ()"
+
+.PP
+Implemented in \fBApplication_Green_Quake\&.Droid\&.AuthDroid\fP\&.
+.SS "bool Application_Green_Quake\&.IAuth\&.IsSignIn ()"
+
+.PP
+Implemented in \fBApplication_Green_Quake\&.iOS\&.AuthiOS\fP, and \fBApplication_Green_Quake\&.Droid\&.AuthDroid\fP\&.
+.SS "Task<String> Application_Green_Quake\&.IAuth\&.LoginWithEmailAndPassword (string email, string password)"
+
+.PP
+Implemented in \fBApplication_Green_Quake\&.iOS\&.AuthiOS\fP, and \fBApplication_Green_Quake\&.Droid\&.AuthDroid\fP\&.
+.SS "Task Application_Green_Quake\&.IAuth\&.ResetPassword (string email)"
+
+.PP
+Implemented in \fBApplication_Green_Quake\&.Droid\&.AuthDroid\fP\&.
+.SS "bool Application_Green_Quake\&.IAuth\&.SignOut ()"
+
+.PP
+Implemented in \fBApplication_Green_Quake\&.iOS\&.AuthiOS\fP, and \fBApplication_Green_Quake\&.Droid\&.AuthDroid\fP\&.
+.SS "Task<String> Application_Green_Quake\&.IAuth\&.SignUpWithEmailAndPassword (string email, string password)"
+
+.PP
+Implemented in \fBApplication_Green_Quake\&.iOS\&.AuthiOS\fP, and \fBApplication_Green_Quake\&.Droid\&.AuthDroid\fP\&.
+
+.SH "Author"
+.PP 
+Generated automatically by Doxygen for Green Quake from the source code\&.

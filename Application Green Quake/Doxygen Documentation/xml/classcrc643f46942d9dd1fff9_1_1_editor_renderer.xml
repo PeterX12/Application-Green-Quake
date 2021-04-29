@@ -1,0 +1,976 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.9.1" xml:lang="en-US">
+  <compounddef id="classcrc643f46942d9dd1fff9_1_1_editor_renderer" kind="class" language="Java" prot="public">
+    <compoundname>crc643f46942d9dd1fff9::EditorRenderer</compoundname>
+    <basecompoundref refid="classcrc643f46942d9dd1fff9_1_1_editor_renderer_base__1" prot="public" virt="non-virtual">crc643f46942d9dd1fff9.EditorRendererBase_1</basecompoundref>
+    <basecompoundref prot="public" virt="non-virtual">mono.android.IGCUserPeer</basecompoundref>
+    <basecompoundref refid="classcrc643f46942d9dd1fff9_1_1_editor_renderer_base__1" prot="public" virt="non-virtual">crc643f46942d9dd1fff9.EditorRendererBase_1</basecompoundref>
+    <basecompoundref prot="public" virt="non-virtual">mono.android.IGCUserPeer</basecompoundref>
+    <basecompoundref refid="classcrc643f46942d9dd1fff9_1_1_editor_renderer_base__1" prot="public" virt="non-virtual">crc643f46942d9dd1fff9.EditorRendererBase_1</basecompoundref>
+    <basecompoundref prot="public" virt="non-virtual">mono.android.IGCUserPeer</basecompoundref>
+    <basecompoundref refid="classcrc643f46942d9dd1fff9_1_1_editor_renderer_base__1" prot="public" virt="non-virtual">crc643f46942d9dd1fff9.EditorRendererBase_1</basecompoundref>
+    <basecompoundref prot="public" virt="non-virtual">mono.android.IGCUserPeer</basecompoundref>
+      <sectiondef kind="public-static-attrib">
+      <memberdef kind="variable" id="classcrc643f46942d9dd1fff9_1_1_editor_renderer_1a970de16be09f5edd0a13f8ec3d14456d" prot="public" static="yes" mutable="no">
+        <type>final String</type>
+        <definition>static final String crc643f46942d9dd1fff9.EditorRenderer::__md_methods</definition>
+        <argsstring></argsstring>
+        <name>__md_methods</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+<para>@hide </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/100/android/src/crc643f46942d9dd1fff9/EditorRenderer.java" line="10" column="28" bodyfile="Application Green Quake.Android/obj/Debug/100/android/src/crc643f46942d9dd1fff9/EditorRenderer.java" bodystart="10" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="private-attrib">
+      <memberdef kind="variable" id="classcrc643f46942d9dd1fff9_1_1_editor_renderer_1a421f27349c5c1aac0c0312afa80117e4" prot="private" static="no" mutable="no">
+        <type>java.util.ArrayList</type>
+        <definition>java util ArrayList crc643f46942d9dd1fff9.EditorRenderer::refList</definition>
+        <argsstring></argsstring>
+        <name>refList</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/100/android/src/crc643f46942d9dd1fff9/EditorRenderer.java" line="50" column="27" bodyfile="Application Green Quake.Android/obj/Debug/100/android/src/crc643f46942d9dd1fff9/EditorRenderer.java" bodystart="50" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="package-static-func">
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_editor_renderer_1a719c3bf74673878163e4c817af01b5e9" prot="package" static="yes" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>crc643f46942d9dd1fff9.EditorRenderer.[static initializer]</definition>
+        <argsstring></argsstring>
+        <name>[static initializer]</name>
+        <reimplements refid="classcrc643f46942d9dd1fff9_1_1_editor_renderer_base__1_1aa6c0cd4ccd48bdd74c1109b9b8b9833b">[static initializer]</reimplements>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/100/android/src/crc643f46942d9dd1fff9/EditorRenderer.java" line="10" column="28"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_editor_renderer_1a719c3bf74673878163e4c817af01b5e9" prot="package" static="yes" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>crc643f46942d9dd1fff9.EditorRenderer.[static initializer]</definition>
+        <argsstring></argsstring>
+        <name>[static initializer]</name>
+        <reimplements refid="classcrc643f46942d9dd1fff9_1_1_editor_renderer_base__1_1aa6c0cd4ccd48bdd74c1109b9b8b9833b">[static initializer]</reimplements>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/110/android/src/crc643f46942d9dd1fff9/EditorRenderer.java" line="10" column="28"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_editor_renderer_1a719c3bf74673878163e4c817af01b5e9" prot="package" static="yes" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>crc643f46942d9dd1fff9.EditorRenderer.[static initializer]</definition>
+        <argsstring></argsstring>
+        <name>[static initializer]</name>
+        <reimplements refid="classcrc643f46942d9dd1fff9_1_1_editor_renderer_base__1_1aa6c0cd4ccd48bdd74c1109b9b8b9833b">[static initializer]</reimplements>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/100/android/src/crc643f46942d9dd1fff9/EditorRenderer.java" line="10" column="28"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_editor_renderer_1a719c3bf74673878163e4c817af01b5e9" prot="package" static="yes" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>crc643f46942d9dd1fff9.EditorRenderer.[static initializer]</definition>
+        <argsstring></argsstring>
+        <name>[static initializer]</name>
+        <reimplements refid="classcrc643f46942d9dd1fff9_1_1_editor_renderer_base__1_1aa6c0cd4ccd48bdd74c1109b9b8b9833b">[static initializer]</reimplements>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/110/android/src/crc643f46942d9dd1fff9/EditorRenderer.java" line="10" column="28"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="public-func">
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_editor_renderer_1a0d11186c2dfce83fc44231ca11502ad0" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>crc643f46942d9dd1fff9.EditorRenderer.EditorRenderer</definition>
+        <argsstring>(android.content.Context p0, android.util.AttributeSet p1, int p2)</argsstring>
+        <name>EditorRenderer</name>
+        <param>
+          <type>android.content.Context</type>
+          <declname>p0</declname>
+        </param>
+        <param>
+          <type>android.util.AttributeSet</type>
+          <declname>p1</declname>
+        </param>
+        <param>
+          <type>int</type>
+          <declname>p2</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/100/android/src/crc643f46942d9dd1fff9/EditorRenderer.java" line="19" column="8" bodyfile="Application Green Quake.Android/obj/Debug/100/android/src/crc643f46942d9dd1fff9/EditorRenderer.java" bodystart="19" bodyend="24"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_editor_renderer_1ab0c8a558189f4e262b974a83e549ff5a" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>crc643f46942d9dd1fff9.EditorRenderer.EditorRenderer</definition>
+        <argsstring>(android.content.Context p0, android.util.AttributeSet p1)</argsstring>
+        <name>EditorRenderer</name>
+        <param>
+          <type>android.content.Context</type>
+          <declname>p0</declname>
+        </param>
+        <param>
+          <type>android.util.AttributeSet</type>
+          <declname>p1</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/100/android/src/crc643f46942d9dd1fff9/EditorRenderer.java" line="27" column="8" bodyfile="Application Green Quake.Android/obj/Debug/100/android/src/crc643f46942d9dd1fff9/EditorRenderer.java" bodystart="27" bodyend="32"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_editor_renderer_1adf2257ce71b96b811293c75780262f9a" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>crc643f46942d9dd1fff9.EditorRenderer.EditorRenderer</definition>
+        <argsstring>(android.content.Context p0)</argsstring>
+        <name>EditorRenderer</name>
+        <param>
+          <type>android.content.Context</type>
+          <declname>p0</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/100/android/src/crc643f46942d9dd1fff9/EditorRenderer.java" line="35" column="8" bodyfile="Application Green Quake.Android/obj/Debug/100/android/src/crc643f46942d9dd1fff9/EditorRenderer.java" bodystart="35" bodyend="40"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_editor_renderer_1ac30bf1e0324f67a65fba27d3878a9ac2" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void crc643f46942d9dd1fff9.EditorRenderer.onAttachedToWindow</definition>
+        <argsstring>()</argsstring>
+        <name>onAttachedToWindow</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/100/android/src/crc643f46942d9dd1fff9/EditorRenderer.java" line="43" column="13" bodyfile="Application Green Quake.Android/obj/Debug/100/android/src/crc643f46942d9dd1fff9/EditorRenderer.java" bodystart="43" bodyend="46"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_editor_renderer_1ab581605d55b4716f7b726f5ae006d5f1" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void crc643f46942d9dd1fff9.EditorRenderer.monodroidAddReference</definition>
+        <argsstring>(java.lang.Object obj)</argsstring>
+        <name>monodroidAddReference</name>
+        <reimplements refid="classcrc643f46942d9dd1fff9_1_1_editor_renderer_base__1_1a2a3cd6a58cf4aa214e6a5d886d59739f">monodroidAddReference</reimplements>
+        <param>
+          <type>java.lang.Object</type>
+          <declname>obj</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/100/android/src/crc643f46942d9dd1fff9/EditorRenderer.java" line="51" column="13" bodyfile="Application Green Quake.Android/obj/Debug/100/android/src/crc643f46942d9dd1fff9/EditorRenderer.java" bodystart="51" bodyend="56"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_editor_renderer_1a34f14eac7bb2937cd19c4294a2058648" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void crc643f46942d9dd1fff9.EditorRenderer.monodroidClearReferences</definition>
+        <argsstring>()</argsstring>
+        <name>monodroidClearReferences</name>
+        <reimplements refid="classcrc643f46942d9dd1fff9_1_1_editor_renderer_base__1_1a3180e2f293ede36154e2de8c13ea68ee">monodroidClearReferences</reimplements>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/100/android/src/crc643f46942d9dd1fff9/EditorRenderer.java" line="58" column="13" bodyfile="Application Green Quake.Android/obj/Debug/100/android/src/crc643f46942d9dd1fff9/EditorRenderer.java" bodystart="58" bodyend="62"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_editor_renderer_1a0d11186c2dfce83fc44231ca11502ad0" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>crc643f46942d9dd1fff9.EditorRenderer.EditorRenderer</definition>
+        <argsstring>(android.content.Context p0, android.util.AttributeSet p1, int p2)</argsstring>
+        <name>EditorRenderer</name>
+        <param>
+          <type>android.content.Context</type>
+          <declname>p0</declname>
+        </param>
+        <param>
+          <type>android.util.AttributeSet</type>
+          <declname>p1</declname>
+        </param>
+        <param>
+          <type>int</type>
+          <declname>p2</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/110/android/src/crc643f46942d9dd1fff9/EditorRenderer.java" line="19" column="8" bodyfile="Application Green Quake.Android/obj/Debug/110/android/src/crc643f46942d9dd1fff9/EditorRenderer.java" bodystart="19" bodyend="24"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_editor_renderer_1ab0c8a558189f4e262b974a83e549ff5a" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>crc643f46942d9dd1fff9.EditorRenderer.EditorRenderer</definition>
+        <argsstring>(android.content.Context p0, android.util.AttributeSet p1)</argsstring>
+        <name>EditorRenderer</name>
+        <param>
+          <type>android.content.Context</type>
+          <declname>p0</declname>
+        </param>
+        <param>
+          <type>android.util.AttributeSet</type>
+          <declname>p1</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/110/android/src/crc643f46942d9dd1fff9/EditorRenderer.java" line="27" column="8" bodyfile="Application Green Quake.Android/obj/Debug/110/android/src/crc643f46942d9dd1fff9/EditorRenderer.java" bodystart="27" bodyend="32"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_editor_renderer_1adf2257ce71b96b811293c75780262f9a" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>crc643f46942d9dd1fff9.EditorRenderer.EditorRenderer</definition>
+        <argsstring>(android.content.Context p0)</argsstring>
+        <name>EditorRenderer</name>
+        <param>
+          <type>android.content.Context</type>
+          <declname>p0</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/110/android/src/crc643f46942d9dd1fff9/EditorRenderer.java" line="35" column="8" bodyfile="Application Green Quake.Android/obj/Debug/110/android/src/crc643f46942d9dd1fff9/EditorRenderer.java" bodystart="35" bodyend="40"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_editor_renderer_1ac30bf1e0324f67a65fba27d3878a9ac2" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void crc643f46942d9dd1fff9.EditorRenderer.onAttachedToWindow</definition>
+        <argsstring>()</argsstring>
+        <name>onAttachedToWindow</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/110/android/src/crc643f46942d9dd1fff9/EditorRenderer.java" line="43" column="13" bodyfile="Application Green Quake.Android/obj/Debug/110/android/src/crc643f46942d9dd1fff9/EditorRenderer.java" bodystart="43" bodyend="46"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_editor_renderer_1ab581605d55b4716f7b726f5ae006d5f1" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void crc643f46942d9dd1fff9.EditorRenderer.monodroidAddReference</definition>
+        <argsstring>(java.lang.Object obj)</argsstring>
+        <name>monodroidAddReference</name>
+        <reimplements refid="classcrc643f46942d9dd1fff9_1_1_editor_renderer_base__1_1a2a3cd6a58cf4aa214e6a5d886d59739f">monodroidAddReference</reimplements>
+        <param>
+          <type>java.lang.Object</type>
+          <declname>obj</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/110/android/src/crc643f46942d9dd1fff9/EditorRenderer.java" line="51" column="13" bodyfile="Application Green Quake.Android/obj/Debug/110/android/src/crc643f46942d9dd1fff9/EditorRenderer.java" bodystart="51" bodyend="56"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_editor_renderer_1a34f14eac7bb2937cd19c4294a2058648" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void crc643f46942d9dd1fff9.EditorRenderer.monodroidClearReferences</definition>
+        <argsstring>()</argsstring>
+        <name>monodroidClearReferences</name>
+        <reimplements refid="classcrc643f46942d9dd1fff9_1_1_editor_renderer_base__1_1a3180e2f293ede36154e2de8c13ea68ee">monodroidClearReferences</reimplements>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/110/android/src/crc643f46942d9dd1fff9/EditorRenderer.java" line="58" column="13" bodyfile="Application Green Quake.Android/obj/Debug/110/android/src/crc643f46942d9dd1fff9/EditorRenderer.java" bodystart="58" bodyend="62"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_editor_renderer_1a0d11186c2dfce83fc44231ca11502ad0" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>crc643f46942d9dd1fff9.EditorRenderer.EditorRenderer</definition>
+        <argsstring>(android.content.Context p0, android.util.AttributeSet p1, int p2)</argsstring>
+        <name>EditorRenderer</name>
+        <param>
+          <type>android.content.Context</type>
+          <declname>p0</declname>
+        </param>
+        <param>
+          <type>android.util.AttributeSet</type>
+          <declname>p1</declname>
+        </param>
+        <param>
+          <type>int</type>
+          <declname>p2</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/100/android/src/crc643f46942d9dd1fff9/EditorRenderer.java" line="19" column="8" bodyfile="Application Green Quake.Android/obj/Release/100/android/src/crc643f46942d9dd1fff9/EditorRenderer.java" bodystart="19" bodyend="24"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_editor_renderer_1ab0c8a558189f4e262b974a83e549ff5a" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>crc643f46942d9dd1fff9.EditorRenderer.EditorRenderer</definition>
+        <argsstring>(android.content.Context p0, android.util.AttributeSet p1)</argsstring>
+        <name>EditorRenderer</name>
+        <param>
+          <type>android.content.Context</type>
+          <declname>p0</declname>
+        </param>
+        <param>
+          <type>android.util.AttributeSet</type>
+          <declname>p1</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/100/android/src/crc643f46942d9dd1fff9/EditorRenderer.java" line="27" column="8" bodyfile="Application Green Quake.Android/obj/Release/100/android/src/crc643f46942d9dd1fff9/EditorRenderer.java" bodystart="27" bodyend="32"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_editor_renderer_1adf2257ce71b96b811293c75780262f9a" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>crc643f46942d9dd1fff9.EditorRenderer.EditorRenderer</definition>
+        <argsstring>(android.content.Context p0)</argsstring>
+        <name>EditorRenderer</name>
+        <param>
+          <type>android.content.Context</type>
+          <declname>p0</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/100/android/src/crc643f46942d9dd1fff9/EditorRenderer.java" line="35" column="8" bodyfile="Application Green Quake.Android/obj/Release/100/android/src/crc643f46942d9dd1fff9/EditorRenderer.java" bodystart="35" bodyend="40"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_editor_renderer_1ac30bf1e0324f67a65fba27d3878a9ac2" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void crc643f46942d9dd1fff9.EditorRenderer.onAttachedToWindow</definition>
+        <argsstring>()</argsstring>
+        <name>onAttachedToWindow</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/100/android/src/crc643f46942d9dd1fff9/EditorRenderer.java" line="43" column="13" bodyfile="Application Green Quake.Android/obj/Release/100/android/src/crc643f46942d9dd1fff9/EditorRenderer.java" bodystart="43" bodyend="46"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_editor_renderer_1ab581605d55b4716f7b726f5ae006d5f1" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void crc643f46942d9dd1fff9.EditorRenderer.monodroidAddReference</definition>
+        <argsstring>(java.lang.Object obj)</argsstring>
+        <name>monodroidAddReference</name>
+        <reimplements refid="classcrc643f46942d9dd1fff9_1_1_editor_renderer_base__1_1a2a3cd6a58cf4aa214e6a5d886d59739f">monodroidAddReference</reimplements>
+        <param>
+          <type>java.lang.Object</type>
+          <declname>obj</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/100/android/src/crc643f46942d9dd1fff9/EditorRenderer.java" line="51" column="13" bodyfile="Application Green Quake.Android/obj/Release/100/android/src/crc643f46942d9dd1fff9/EditorRenderer.java" bodystart="51" bodyend="56"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_editor_renderer_1a34f14eac7bb2937cd19c4294a2058648" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void crc643f46942d9dd1fff9.EditorRenderer.monodroidClearReferences</definition>
+        <argsstring>()</argsstring>
+        <name>monodroidClearReferences</name>
+        <reimplements refid="classcrc643f46942d9dd1fff9_1_1_editor_renderer_base__1_1a3180e2f293ede36154e2de8c13ea68ee">monodroidClearReferences</reimplements>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/100/android/src/crc643f46942d9dd1fff9/EditorRenderer.java" line="58" column="13" bodyfile="Application Green Quake.Android/obj/Release/100/android/src/crc643f46942d9dd1fff9/EditorRenderer.java" bodystart="58" bodyend="62"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_editor_renderer_1a0d11186c2dfce83fc44231ca11502ad0" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>crc643f46942d9dd1fff9.EditorRenderer.EditorRenderer</definition>
+        <argsstring>(android.content.Context p0, android.util.AttributeSet p1, int p2)</argsstring>
+        <name>EditorRenderer</name>
+        <param>
+          <type>android.content.Context</type>
+          <declname>p0</declname>
+        </param>
+        <param>
+          <type>android.util.AttributeSet</type>
+          <declname>p1</declname>
+        </param>
+        <param>
+          <type>int</type>
+          <declname>p2</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/110/android/src/crc643f46942d9dd1fff9/EditorRenderer.java" line="19" column="8" bodyfile="Application Green Quake.Android/obj/Release/110/android/src/crc643f46942d9dd1fff9/EditorRenderer.java" bodystart="19" bodyend="24"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_editor_renderer_1ab0c8a558189f4e262b974a83e549ff5a" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>crc643f46942d9dd1fff9.EditorRenderer.EditorRenderer</definition>
+        <argsstring>(android.content.Context p0, android.util.AttributeSet p1)</argsstring>
+        <name>EditorRenderer</name>
+        <param>
+          <type>android.content.Context</type>
+          <declname>p0</declname>
+        </param>
+        <param>
+          <type>android.util.AttributeSet</type>
+          <declname>p1</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/110/android/src/crc643f46942d9dd1fff9/EditorRenderer.java" line="27" column="8" bodyfile="Application Green Quake.Android/obj/Release/110/android/src/crc643f46942d9dd1fff9/EditorRenderer.java" bodystart="27" bodyend="32"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_editor_renderer_1adf2257ce71b96b811293c75780262f9a" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>crc643f46942d9dd1fff9.EditorRenderer.EditorRenderer</definition>
+        <argsstring>(android.content.Context p0)</argsstring>
+        <name>EditorRenderer</name>
+        <param>
+          <type>android.content.Context</type>
+          <declname>p0</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/110/android/src/crc643f46942d9dd1fff9/EditorRenderer.java" line="35" column="8" bodyfile="Application Green Quake.Android/obj/Release/110/android/src/crc643f46942d9dd1fff9/EditorRenderer.java" bodystart="35" bodyend="40"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_editor_renderer_1ac30bf1e0324f67a65fba27d3878a9ac2" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void crc643f46942d9dd1fff9.EditorRenderer.onAttachedToWindow</definition>
+        <argsstring>()</argsstring>
+        <name>onAttachedToWindow</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/110/android/src/crc643f46942d9dd1fff9/EditorRenderer.java" line="43" column="13" bodyfile="Application Green Quake.Android/obj/Release/110/android/src/crc643f46942d9dd1fff9/EditorRenderer.java" bodystart="43" bodyend="46"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_editor_renderer_1ab581605d55b4716f7b726f5ae006d5f1" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void crc643f46942d9dd1fff9.EditorRenderer.monodroidAddReference</definition>
+        <argsstring>(java.lang.Object obj)</argsstring>
+        <name>monodroidAddReference</name>
+        <reimplements refid="classcrc643f46942d9dd1fff9_1_1_editor_renderer_base__1_1a2a3cd6a58cf4aa214e6a5d886d59739f">monodroidAddReference</reimplements>
+        <param>
+          <type>java.lang.Object</type>
+          <declname>obj</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/110/android/src/crc643f46942d9dd1fff9/EditorRenderer.java" line="51" column="13" bodyfile="Application Green Quake.Android/obj/Release/110/android/src/crc643f46942d9dd1fff9/EditorRenderer.java" bodystart="51" bodyend="56"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_editor_renderer_1a34f14eac7bb2937cd19c4294a2058648" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void crc643f46942d9dd1fff9.EditorRenderer.monodroidClearReferences</definition>
+        <argsstring>()</argsstring>
+        <name>monodroidClearReferences</name>
+        <reimplements refid="classcrc643f46942d9dd1fff9_1_1_editor_renderer_base__1_1a3180e2f293ede36154e2de8c13ea68ee">monodroidClearReferences</reimplements>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/110/android/src/crc643f46942d9dd1fff9/EditorRenderer.java" line="58" column="13" bodyfile="Application Green Quake.Android/obj/Release/110/android/src/crc643f46942d9dd1fff9/EditorRenderer.java" bodystart="58" bodyend="62"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="private-func">
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_editor_renderer_1a1450d1e5d8680424775865831c626bcf" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>native void</type>
+        <definition>native void crc643f46942d9dd1fff9.EditorRenderer.n_onAttachedToWindow</definition>
+        <argsstring>()</argsstring>
+        <name>n_onAttachedToWindow</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/100/android/src/crc643f46942d9dd1fff9/EditorRenderer.java" line="48" column="21"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_editor_renderer_1a1450d1e5d8680424775865831c626bcf" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>native void</type>
+        <definition>native void crc643f46942d9dd1fff9.EditorRenderer.n_onAttachedToWindow</definition>
+        <argsstring>()</argsstring>
+        <name>n_onAttachedToWindow</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/110/android/src/crc643f46942d9dd1fff9/EditorRenderer.java" line="48" column="21"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_editor_renderer_1a1450d1e5d8680424775865831c626bcf" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>native void</type>
+        <definition>native void crc643f46942d9dd1fff9.EditorRenderer.n_onAttachedToWindow</definition>
+        <argsstring>()</argsstring>
+        <name>n_onAttachedToWindow</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/100/android/src/crc643f46942d9dd1fff9/EditorRenderer.java" line="48" column="21"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_editor_renderer_1a1450d1e5d8680424775865831c626bcf" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>native void</type>
+        <definition>native void crc643f46942d9dd1fff9.EditorRenderer.n_onAttachedToWindow</definition>
+        <argsstring>()</argsstring>
+        <name>n_onAttachedToWindow</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/110/android/src/crc643f46942d9dd1fff9/EditorRenderer.java" line="48" column="21"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <inheritancegraph>
+      <node id="9">
+        <label>android::text::TextWatcher</label>
+      </node>
+      <node id="7">
+        <label>com.xamarin.forms.platform.android.FormsViewGroup</label>
+      </node>
+      <node id="3">
+        <label>crc643f46942d9dd1fff9.ViewRenderer_2</label>
+        <link refid="classcrc643f46942d9dd1fff9_1_1_view_renderer__2"/>
+        <childnode refid="4" relation="public-inheritance">
+        </childnode>
+        <childnode refid="6" relation="public-inheritance">
+        </childnode>
+        <childnode refid="8" relation="public-inheritance">
+        </childnode>
+        <childnode refid="4" relation="public-inheritance">
+        </childnode>
+        <childnode refid="6" relation="public-inheritance">
+        </childnode>
+        <childnode refid="8" relation="public-inheritance">
+        </childnode>
+        <childnode refid="4" relation="public-inheritance">
+        </childnode>
+        <childnode refid="6" relation="public-inheritance">
+        </childnode>
+        <childnode refid="8" relation="public-inheritance">
+        </childnode>
+        <childnode refid="4" relation="public-inheritance">
+        </childnode>
+        <childnode refid="6" relation="public-inheritance">
+        </childnode>
+        <childnode refid="8" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="5">
+        <label>com::xamarin::forms::platform::android::FormsViewGroup</label>
+      </node>
+      <node id="11">
+        <label>android.text.TextWatcher</label>
+      </node>
+      <node id="6">
+        <label>mono.android.IGCUserPeer</label>
+      </node>
+      <node id="2">
+        <label>crc643f46942d9dd1fff9.EditorRendererBase_1</label>
+        <link refid="classcrc643f46942d9dd1fff9_1_1_editor_renderer_base__1"/>
+        <childnode refid="3" relation="public-inheritance">
+        </childnode>
+        <childnode refid="6" relation="public-inheritance">
+        </childnode>
+        <childnode refid="9" relation="public-inheritance">
+        </childnode>
+        <childnode refid="10" relation="public-inheritance">
+        </childnode>
+        <childnode refid="3" relation="public-inheritance">
+        </childnode>
+        <childnode refid="6" relation="public-inheritance">
+        </childnode>
+        <childnode refid="11" relation="public-inheritance">
+        </childnode>
+        <childnode refid="12" relation="public-inheritance">
+        </childnode>
+        <childnode refid="3" relation="public-inheritance">
+        </childnode>
+        <childnode refid="6" relation="public-inheritance">
+        </childnode>
+        <childnode refid="11" relation="public-inheritance">
+        </childnode>
+        <childnode refid="12" relation="public-inheritance">
+        </childnode>
+        <childnode refid="3" relation="public-inheritance">
+        </childnode>
+        <childnode refid="6" relation="public-inheritance">
+        </childnode>
+        <childnode refid="11" relation="public-inheritance">
+        </childnode>
+        <childnode refid="12" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="12">
+        <label>android.text.NoCopySpan</label>
+      </node>
+      <node id="4">
+        <label>crc643f46942d9dd1fff9.VisualElementRenderer_1</label>
+        <link refid="classcrc643f46942d9dd1fff9_1_1_visual_element_renderer__1"/>
+        <childnode refid="5" relation="public-inheritance">
+        </childnode>
+        <childnode refid="6" relation="public-inheritance">
+        </childnode>
+        <childnode refid="7" relation="public-inheritance">
+        </childnode>
+        <childnode refid="6" relation="public-inheritance">
+        </childnode>
+        <childnode refid="7" relation="public-inheritance">
+        </childnode>
+        <childnode refid="6" relation="public-inheritance">
+        </childnode>
+        <childnode refid="7" relation="public-inheritance">
+        </childnode>
+        <childnode refid="6" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="1">
+        <label>crc643f46942d9dd1fff9.EditorRenderer</label>
+        <link refid="classcrc643f46942d9dd1fff9_1_1_editor_renderer"/>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+        <childnode refid="6" relation="public-inheritance">
+        </childnode>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+        <childnode refid="6" relation="public-inheritance">
+        </childnode>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+        <childnode refid="6" relation="public-inheritance">
+        </childnode>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+        <childnode refid="6" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="10">
+        <label>android::text::NoCopySpan</label>
+      </node>
+      <node id="8">
+        <label>android.view.View.OnFocusChangeListener</label>
+      </node>
+    </inheritancegraph>
+    <collaborationgraph>
+      <node id="9">
+        <label>android::text::TextWatcher</label>
+      </node>
+      <node id="7">
+        <label>com.xamarin.forms.platform.android.FormsViewGroup</label>
+      </node>
+      <node id="3">
+        <label>crc643f46942d9dd1fff9.ViewRenderer_2</label>
+        <link refid="classcrc643f46942d9dd1fff9_1_1_view_renderer__2"/>
+        <childnode refid="4" relation="public-inheritance">
+        </childnode>
+        <childnode refid="6" relation="public-inheritance">
+        </childnode>
+        <childnode refid="8" relation="public-inheritance">
+        </childnode>
+        <childnode refid="4" relation="public-inheritance">
+        </childnode>
+        <childnode refid="6" relation="public-inheritance">
+        </childnode>
+        <childnode refid="8" relation="public-inheritance">
+        </childnode>
+        <childnode refid="4" relation="public-inheritance">
+        </childnode>
+        <childnode refid="6" relation="public-inheritance">
+        </childnode>
+        <childnode refid="8" relation="public-inheritance">
+        </childnode>
+        <childnode refid="4" relation="public-inheritance">
+        </childnode>
+        <childnode refid="6" relation="public-inheritance">
+        </childnode>
+        <childnode refid="8" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="5">
+        <label>com::xamarin::forms::platform::android::FormsViewGroup</label>
+      </node>
+      <node id="11">
+        <label>android.text.TextWatcher</label>
+      </node>
+      <node id="6">
+        <label>mono.android.IGCUserPeer</label>
+      </node>
+      <node id="2">
+        <label>crc643f46942d9dd1fff9.EditorRendererBase_1</label>
+        <link refid="classcrc643f46942d9dd1fff9_1_1_editor_renderer_base__1"/>
+        <childnode refid="3" relation="public-inheritance">
+        </childnode>
+        <childnode refid="6" relation="public-inheritance">
+        </childnode>
+        <childnode refid="9" relation="public-inheritance">
+        </childnode>
+        <childnode refid="10" relation="public-inheritance">
+        </childnode>
+        <childnode refid="3" relation="public-inheritance">
+        </childnode>
+        <childnode refid="6" relation="public-inheritance">
+        </childnode>
+        <childnode refid="11" relation="public-inheritance">
+        </childnode>
+        <childnode refid="12" relation="public-inheritance">
+        </childnode>
+        <childnode refid="3" relation="public-inheritance">
+        </childnode>
+        <childnode refid="6" relation="public-inheritance">
+        </childnode>
+        <childnode refid="11" relation="public-inheritance">
+        </childnode>
+        <childnode refid="12" relation="public-inheritance">
+        </childnode>
+        <childnode refid="3" relation="public-inheritance">
+        </childnode>
+        <childnode refid="6" relation="public-inheritance">
+        </childnode>
+        <childnode refid="11" relation="public-inheritance">
+        </childnode>
+        <childnode refid="12" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="12">
+        <label>android.text.NoCopySpan</label>
+      </node>
+      <node id="4">
+        <label>crc643f46942d9dd1fff9.VisualElementRenderer_1</label>
+        <link refid="classcrc643f46942d9dd1fff9_1_1_visual_element_renderer__1"/>
+        <childnode refid="5" relation="public-inheritance">
+        </childnode>
+        <childnode refid="6" relation="public-inheritance">
+        </childnode>
+        <childnode refid="7" relation="public-inheritance">
+        </childnode>
+        <childnode refid="6" relation="public-inheritance">
+        </childnode>
+        <childnode refid="7" relation="public-inheritance">
+        </childnode>
+        <childnode refid="6" relation="public-inheritance">
+        </childnode>
+        <childnode refid="7" relation="public-inheritance">
+        </childnode>
+        <childnode refid="6" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="1">
+        <label>crc643f46942d9dd1fff9.EditorRenderer</label>
+        <link refid="classcrc643f46942d9dd1fff9_1_1_editor_renderer"/>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+        <childnode refid="6" relation="public-inheritance">
+        </childnode>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+        <childnode refid="6" relation="public-inheritance">
+        </childnode>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+        <childnode refid="6" relation="public-inheritance">
+        </childnode>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+        <childnode refid="6" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="10">
+        <label>android::text::NoCopySpan</label>
+      </node>
+      <node id="8">
+        <label>android.view.View.OnFocusChangeListener</label>
+      </node>
+    </collaborationgraph>
+    <location file="Application Green Quake.Android/obj/Debug/100/android/src/crc643f46942d9dd1fff9/EditorRenderer.java" line="4" column="7" bodyfile="Application Green Quake.Android/obj/Debug/100/android/src/crc643f46942d9dd1fff9/EditorRenderer.java" bodystart="8" bodyend="63"/>
+    <listofallmembers>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_editor_renderer_1a719c3bf74673878163e4c817af01b5e9" prot="package" virt="non-virtual"><scope>crc643f46942d9dd1fff9::EditorRenderer</scope><name>[static initializer]</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_editor_renderer_1a719c3bf74673878163e4c817af01b5e9" prot="package" virt="non-virtual"><scope>crc643f46942d9dd1fff9::EditorRenderer</scope><name>[static initializer]</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_editor_renderer_1a719c3bf74673878163e4c817af01b5e9" prot="package" virt="non-virtual"><scope>crc643f46942d9dd1fff9::EditorRenderer</scope><name>[static initializer]</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_editor_renderer_1a719c3bf74673878163e4c817af01b5e9" prot="package" virt="non-virtual"><scope>crc643f46942d9dd1fff9::EditorRenderer</scope><name>[static initializer]</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_editor_renderer_1a970de16be09f5edd0a13f8ec3d14456d" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::EditorRenderer</scope><name>__md_methods</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_editor_renderer_base__1_1aa305a35b1a8b016ad270b0940951e34f" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::EditorRenderer</scope><name>afterTextChanged</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_editor_renderer_base__1_1aa305a35b1a8b016ad270b0940951e34f" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::EditorRenderer</scope><name>afterTextChanged</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_editor_renderer_base__1_1aa305a35b1a8b016ad270b0940951e34f" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::EditorRenderer</scope><name>afterTextChanged</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_editor_renderer_base__1_1aa305a35b1a8b016ad270b0940951e34f" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::EditorRenderer</scope><name>afterTextChanged</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_editor_renderer_base__1_1a2de13e46345a7f0627fe7f8321c80ad3" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::EditorRenderer</scope><name>beforeTextChanged</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_editor_renderer_base__1_1a2de13e46345a7f0627fe7f8321c80ad3" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::EditorRenderer</scope><name>beforeTextChanged</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_editor_renderer_base__1_1a2de13e46345a7f0627fe7f8321c80ad3" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::EditorRenderer</scope><name>beforeTextChanged</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_editor_renderer_base__1_1a2de13e46345a7f0627fe7f8321c80ad3" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::EditorRenderer</scope><name>beforeTextChanged</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_visual_element_renderer__1_1a8b3a1f18416ee5d553d54d8c51f238bd" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::EditorRenderer</scope><name>dispatchTouchEvent</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_visual_element_renderer__1_1a8b3a1f18416ee5d553d54d8c51f238bd" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::EditorRenderer</scope><name>dispatchTouchEvent</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_visual_element_renderer__1_1a8b3a1f18416ee5d553d54d8c51f238bd" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::EditorRenderer</scope><name>dispatchTouchEvent</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_visual_element_renderer__1_1a8b3a1f18416ee5d553d54d8c51f238bd" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::EditorRenderer</scope><name>dispatchTouchEvent</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_visual_element_renderer__1_1a4fbfdc5e36e0aac29f8113eddde3ffa8" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::EditorRenderer</scope><name>draw</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_visual_element_renderer__1_1a4fbfdc5e36e0aac29f8113eddde3ffa8" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::EditorRenderer</scope><name>draw</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_visual_element_renderer__1_1a4fbfdc5e36e0aac29f8113eddde3ffa8" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::EditorRenderer</scope><name>draw</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_visual_element_renderer__1_1a4fbfdc5e36e0aac29f8113eddde3ffa8" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::EditorRenderer</scope><name>draw</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_editor_renderer_1a0d11186c2dfce83fc44231ca11502ad0" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::EditorRenderer</scope><name>EditorRenderer</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_editor_renderer_1ab0c8a558189f4e262b974a83e549ff5a" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::EditorRenderer</scope><name>EditorRenderer</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_editor_renderer_1adf2257ce71b96b811293c75780262f9a" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::EditorRenderer</scope><name>EditorRenderer</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_editor_renderer_1a0d11186c2dfce83fc44231ca11502ad0" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::EditorRenderer</scope><name>EditorRenderer</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_editor_renderer_1ab0c8a558189f4e262b974a83e549ff5a" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::EditorRenderer</scope><name>EditorRenderer</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_editor_renderer_1adf2257ce71b96b811293c75780262f9a" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::EditorRenderer</scope><name>EditorRenderer</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_editor_renderer_1a0d11186c2dfce83fc44231ca11502ad0" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::EditorRenderer</scope><name>EditorRenderer</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_editor_renderer_1ab0c8a558189f4e262b974a83e549ff5a" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::EditorRenderer</scope><name>EditorRenderer</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_editor_renderer_1adf2257ce71b96b811293c75780262f9a" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::EditorRenderer</scope><name>EditorRenderer</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_editor_renderer_1a0d11186c2dfce83fc44231ca11502ad0" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::EditorRenderer</scope><name>EditorRenderer</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_editor_renderer_1ab0c8a558189f4e262b974a83e549ff5a" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::EditorRenderer</scope><name>EditorRenderer</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_editor_renderer_1adf2257ce71b96b811293c75780262f9a" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::EditorRenderer</scope><name>EditorRenderer</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_editor_renderer_base__1_1ae27ddfef2f6b3ab042df77ac9c3fceb3" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::EditorRenderer</scope><name>EditorRendererBase_1</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_editor_renderer_base__1_1a850f0e593d4589374322a49550cf8ed3" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::EditorRenderer</scope><name>EditorRendererBase_1</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_editor_renderer_base__1_1a7b8a15eaab797ffbc9cc99a3cdd2d90a" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::EditorRenderer</scope><name>EditorRendererBase_1</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_editor_renderer_base__1_1ae27ddfef2f6b3ab042df77ac9c3fceb3" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::EditorRenderer</scope><name>EditorRendererBase_1</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_editor_renderer_base__1_1a850f0e593d4589374322a49550cf8ed3" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::EditorRenderer</scope><name>EditorRendererBase_1</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_editor_renderer_base__1_1a7b8a15eaab797ffbc9cc99a3cdd2d90a" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::EditorRenderer</scope><name>EditorRendererBase_1</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_editor_renderer_base__1_1ae27ddfef2f6b3ab042df77ac9c3fceb3" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::EditorRenderer</scope><name>EditorRendererBase_1</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_editor_renderer_base__1_1a850f0e593d4589374322a49550cf8ed3" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::EditorRenderer</scope><name>EditorRendererBase_1</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_editor_renderer_base__1_1a7b8a15eaab797ffbc9cc99a3cdd2d90a" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::EditorRenderer</scope><name>EditorRendererBase_1</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_editor_renderer_base__1_1ae27ddfef2f6b3ab042df77ac9c3fceb3" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::EditorRenderer</scope><name>EditorRendererBase_1</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_editor_renderer_base__1_1a850f0e593d4589374322a49550cf8ed3" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::EditorRenderer</scope><name>EditorRendererBase_1</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_editor_renderer_base__1_1a7b8a15eaab797ffbc9cc99a3cdd2d90a" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::EditorRenderer</scope><name>EditorRendererBase_1</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_visual_element_renderer__1_1a9f734e4b4776dc9d9ed904a0922d26f7" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::EditorRenderer</scope><name>focusSearch</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_visual_element_renderer__1_1a9f734e4b4776dc9d9ed904a0922d26f7" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::EditorRenderer</scope><name>focusSearch</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_visual_element_renderer__1_1a9f734e4b4776dc9d9ed904a0922d26f7" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::EditorRenderer</scope><name>focusSearch</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_visual_element_renderer__1_1a9f734e4b4776dc9d9ed904a0922d26f7" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::EditorRenderer</scope><name>focusSearch</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_editor_renderer_1ab581605d55b4716f7b726f5ae006d5f1" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::EditorRenderer</scope><name>monodroidAddReference</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_editor_renderer_1ab581605d55b4716f7b726f5ae006d5f1" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::EditorRenderer</scope><name>monodroidAddReference</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_editor_renderer_1ab581605d55b4716f7b726f5ae006d5f1" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::EditorRenderer</scope><name>monodroidAddReference</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_editor_renderer_1ab581605d55b4716f7b726f5ae006d5f1" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::EditorRenderer</scope><name>monodroidAddReference</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_editor_renderer_1a34f14eac7bb2937cd19c4294a2058648" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::EditorRenderer</scope><name>monodroidClearReferences</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_editor_renderer_1a34f14eac7bb2937cd19c4294a2058648" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::EditorRenderer</scope><name>monodroidClearReferences</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_editor_renderer_1a34f14eac7bb2937cd19c4294a2058648" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::EditorRenderer</scope><name>monodroidClearReferences</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_editor_renderer_1a34f14eac7bb2937cd19c4294a2058648" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::EditorRenderer</scope><name>monodroidClearReferences</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_editor_renderer_1a1450d1e5d8680424775865831c626bcf" prot="private" virt="non-virtual"><scope>crc643f46942d9dd1fff9::EditorRenderer</scope><name>n_onAttachedToWindow</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_editor_renderer_1a1450d1e5d8680424775865831c626bcf" prot="private" virt="non-virtual"><scope>crc643f46942d9dd1fff9::EditorRenderer</scope><name>n_onAttachedToWindow</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_editor_renderer_1a1450d1e5d8680424775865831c626bcf" prot="private" virt="non-virtual"><scope>crc643f46942d9dd1fff9::EditorRenderer</scope><name>n_onAttachedToWindow</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_editor_renderer_1a1450d1e5d8680424775865831c626bcf" prot="private" virt="non-virtual"><scope>crc643f46942d9dd1fff9::EditorRenderer</scope><name>n_onAttachedToWindow</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_editor_renderer_1ac30bf1e0324f67a65fba27d3878a9ac2" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::EditorRenderer</scope><name>onAttachedToWindow</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_editor_renderer_1ac30bf1e0324f67a65fba27d3878a9ac2" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::EditorRenderer</scope><name>onAttachedToWindow</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_editor_renderer_1ac30bf1e0324f67a65fba27d3878a9ac2" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::EditorRenderer</scope><name>onAttachedToWindow</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_editor_renderer_1ac30bf1e0324f67a65fba27d3878a9ac2" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::EditorRenderer</scope><name>onAttachedToWindow</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_visual_element_renderer__1_1a31a32c8d1668368e4b13d7933a626833" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::EditorRenderer</scope><name>onConfigurationChanged</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_visual_element_renderer__1_1a31a32c8d1668368e4b13d7933a626833" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::EditorRenderer</scope><name>onConfigurationChanged</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_visual_element_renderer__1_1a31a32c8d1668368e4b13d7933a626833" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::EditorRenderer</scope><name>onConfigurationChanged</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_visual_element_renderer__1_1a31a32c8d1668368e4b13d7933a626833" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::EditorRenderer</scope><name>onConfigurationChanged</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_view_renderer__2_1af7a9cd1b5635deaf68179fcdc4ee9275" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::EditorRenderer</scope><name>onFocusChange</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_view_renderer__2_1af7a9cd1b5635deaf68179fcdc4ee9275" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::EditorRenderer</scope><name>onFocusChange</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_view_renderer__2_1af7a9cd1b5635deaf68179fcdc4ee9275" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::EditorRenderer</scope><name>onFocusChange</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_view_renderer__2_1af7a9cd1b5635deaf68179fcdc4ee9275" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::EditorRenderer</scope><name>onFocusChange</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_visual_element_renderer__1_1ade33eb4d0895f2536faf5f3e57830bc2" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::EditorRenderer</scope><name>onInterceptTouchEvent</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_visual_element_renderer__1_1ade33eb4d0895f2536faf5f3e57830bc2" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::EditorRenderer</scope><name>onInterceptTouchEvent</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_visual_element_renderer__1_1ade33eb4d0895f2536faf5f3e57830bc2" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::EditorRenderer</scope><name>onInterceptTouchEvent</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_visual_element_renderer__1_1ade33eb4d0895f2536faf5f3e57830bc2" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::EditorRenderer</scope><name>onInterceptTouchEvent</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_view_renderer__2_1a1e8de2d40d787901b8f14839810a5721" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::EditorRenderer</scope><name>onLayout</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_view_renderer__2_1a1e8de2d40d787901b8f14839810a5721" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::EditorRenderer</scope><name>onLayout</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_view_renderer__2_1a1e8de2d40d787901b8f14839810a5721" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::EditorRenderer</scope><name>onLayout</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_view_renderer__2_1a1e8de2d40d787901b8f14839810a5721" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::EditorRenderer</scope><name>onLayout</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_visual_element_renderer__1_1a68f705864fbd52c60cb4c29f5372aa76" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::EditorRenderer</scope><name>onMeasure</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_visual_element_renderer__1_1a68f705864fbd52c60cb4c29f5372aa76" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::EditorRenderer</scope><name>onMeasure</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_visual_element_renderer__1_1a68f705864fbd52c60cb4c29f5372aa76" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::EditorRenderer</scope><name>onMeasure</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_visual_element_renderer__1_1a68f705864fbd52c60cb4c29f5372aa76" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::EditorRenderer</scope><name>onMeasure</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_editor_renderer_base__1_1a0506399b4292e9f11bdc364ed3706ec4" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::EditorRenderer</scope><name>onTextChanged</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_editor_renderer_base__1_1a0506399b4292e9f11bdc364ed3706ec4" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::EditorRenderer</scope><name>onTextChanged</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_editor_renderer_base__1_1a0506399b4292e9f11bdc364ed3706ec4" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::EditorRenderer</scope><name>onTextChanged</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_editor_renderer_base__1_1a0506399b4292e9f11bdc364ed3706ec4" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::EditorRenderer</scope><name>onTextChanged</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_visual_element_renderer__1_1a11426581e099109c3f05f848cd0f55a4" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::EditorRenderer</scope><name>onTouchEvent</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_visual_element_renderer__1_1a11426581e099109c3f05f848cd0f55a4" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::EditorRenderer</scope><name>onTouchEvent</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_visual_element_renderer__1_1a11426581e099109c3f05f848cd0f55a4" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::EditorRenderer</scope><name>onTouchEvent</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_visual_element_renderer__1_1a11426581e099109c3f05f848cd0f55a4" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::EditorRenderer</scope><name>onTouchEvent</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_editor_renderer_1a421f27349c5c1aac0c0312afa80117e4" prot="private" virt="non-virtual"><scope>crc643f46942d9dd1fff9::EditorRenderer</scope><name>refList</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_view_renderer__2_1ad980838ee59d73db13b3aa47b96977a9" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::EditorRenderer</scope><name>ViewRenderer_2</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_view_renderer__2_1af965f1cbc77bc983fd6a53f8fd4c94b9" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::EditorRenderer</scope><name>ViewRenderer_2</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_view_renderer__2_1abe3f312104c3407aaad8eb154b5f41cf" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::EditorRenderer</scope><name>ViewRenderer_2</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_view_renderer__2_1ad980838ee59d73db13b3aa47b96977a9" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::EditorRenderer</scope><name>ViewRenderer_2</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_view_renderer__2_1af965f1cbc77bc983fd6a53f8fd4c94b9" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::EditorRenderer</scope><name>ViewRenderer_2</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_view_renderer__2_1abe3f312104c3407aaad8eb154b5f41cf" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::EditorRenderer</scope><name>ViewRenderer_2</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_view_renderer__2_1ad980838ee59d73db13b3aa47b96977a9" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::EditorRenderer</scope><name>ViewRenderer_2</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_view_renderer__2_1af965f1cbc77bc983fd6a53f8fd4c94b9" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::EditorRenderer</scope><name>ViewRenderer_2</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_view_renderer__2_1abe3f312104c3407aaad8eb154b5f41cf" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::EditorRenderer</scope><name>ViewRenderer_2</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_view_renderer__2_1ad980838ee59d73db13b3aa47b96977a9" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::EditorRenderer</scope><name>ViewRenderer_2</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_view_renderer__2_1af965f1cbc77bc983fd6a53f8fd4c94b9" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::EditorRenderer</scope><name>ViewRenderer_2</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_view_renderer__2_1abe3f312104c3407aaad8eb154b5f41cf" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::EditorRenderer</scope><name>ViewRenderer_2</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_visual_element_renderer__1_1a347f18991a486c5b5f1c4dcd83475f21" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::EditorRenderer</scope><name>VisualElementRenderer_1</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_visual_element_renderer__1_1a42957113957987d17592ba290f118ec5" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::EditorRenderer</scope><name>VisualElementRenderer_1</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_visual_element_renderer__1_1a92a3ec4e374dfc2f8b16cfccb9b83c7f" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::EditorRenderer</scope><name>VisualElementRenderer_1</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_visual_element_renderer__1_1a347f18991a486c5b5f1c4dcd83475f21" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::EditorRenderer</scope><name>VisualElementRenderer_1</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_visual_element_renderer__1_1a42957113957987d17592ba290f118ec5" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::EditorRenderer</scope><name>VisualElementRenderer_1</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_visual_element_renderer__1_1a92a3ec4e374dfc2f8b16cfccb9b83c7f" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::EditorRenderer</scope><name>VisualElementRenderer_1</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_visual_element_renderer__1_1a347f18991a486c5b5f1c4dcd83475f21" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::EditorRenderer</scope><name>VisualElementRenderer_1</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_visual_element_renderer__1_1a42957113957987d17592ba290f118ec5" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::EditorRenderer</scope><name>VisualElementRenderer_1</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_visual_element_renderer__1_1a92a3ec4e374dfc2f8b16cfccb9b83c7f" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::EditorRenderer</scope><name>VisualElementRenderer_1</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_visual_element_renderer__1_1a347f18991a486c5b5f1c4dcd83475f21" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::EditorRenderer</scope><name>VisualElementRenderer_1</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_visual_element_renderer__1_1a42957113957987d17592ba290f118ec5" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::EditorRenderer</scope><name>VisualElementRenderer_1</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_visual_element_renderer__1_1a92a3ec4e374dfc2f8b16cfccb9b83c7f" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::EditorRenderer</scope><name>VisualElementRenderer_1</name></member>
+    </listofallmembers>
+  </compounddef>
+</doxygen>

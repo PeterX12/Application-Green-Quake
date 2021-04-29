@@ -1,0 +1,50 @@
+\hypertarget{class_application___green___quake_1_1_view_models_1_1_security_methods}{}\doxysection{Application\+\_\+\+Green\+\_\+\+Quake.\+View\+Models.\+Security\+Methods Class Reference}
+\label{class_application___green___quake_1_1_view_models_1_1_security_methods}\index{Application\_Green\_Quake.ViewModels.SecurityMethods@{Application\_Green\_Quake.ViewModels.SecurityMethods}}
+\doxysubsection*{Public Member Functions}
+\begin{DoxyCompactItemize}
+\item 
+async Task$<$ bool $>$ \mbox{\hyperlink{class_application___green___quake_1_1_view_models_1_1_security_methods_aaf36624e593f544c3d11a5e3c32e1c35}{Day\+Limit\+Lock}} ()
+\item 
+async Task$<$ bool $>$ \mbox{\hyperlink{class_application___green___quake_1_1_view_models_1_1_security_methods_a833a0f7f9988675286d1dd9a8408875b}{Time\+Limit\+Lock}} ()
+\end{DoxyCompactItemize}
+
+
+\doxysubsection{Detailed Description}
+
+
+Definition at line 19 of file Security\+Methods.\+cs.
+
+
+
+\doxysubsection{Member Function Documentation}
+\mbox{\Hypertarget{class_application___green___quake_1_1_view_models_1_1_security_methods_aaf36624e593f544c3d11a5e3c32e1c35}\label{class_application___green___quake_1_1_view_models_1_1_security_methods_aaf36624e593f544c3d11a5e3c32e1c35}} 
+\index{Application\_Green\_Quake.ViewModels.SecurityMethods@{Application\_Green\_Quake.ViewModels.SecurityMethods}!DayLimitLock@{DayLimitLock}}
+\index{DayLimitLock@{DayLimitLock}!Application\_Green\_Quake.ViewModels.SecurityMethods@{Application\_Green\_Quake.ViewModels.SecurityMethods}}
+\doxysubsubsection{\texorpdfstring{DayLimitLock()}{DayLimitLock()}}
+{\footnotesize\ttfamily async Task$<$bool$>$ Application\+\_\+\+Green\+\_\+\+Quake.\+View\+Models.\+Security\+Methods.\+Day\+Limit\+Lock (\begin{DoxyParamCaption}{ }\end{DoxyParamCaption})}
+
+This function gets the date and the count from the Security\+Checks Node in the database and compares the stored date to the current date. If the count is 15 and the date is the same as todays date the function returns true. Otherwise False. \begin{DoxyReturn}{Returns}
+value return true/false 
+\end{DoxyReturn}
+
+
+Definition at line 34 of file Security\+Methods.\+cs.
+
+\mbox{\Hypertarget{class_application___green___quake_1_1_view_models_1_1_security_methods_a833a0f7f9988675286d1dd9a8408875b}\label{class_application___green___quake_1_1_view_models_1_1_security_methods_a833a0f7f9988675286d1dd9a8408875b}} 
+\index{Application\_Green\_Quake.ViewModels.SecurityMethods@{Application\_Green\_Quake.ViewModels.SecurityMethods}!TimeLimitLock@{TimeLimitLock}}
+\index{TimeLimitLock@{TimeLimitLock}!Application\_Green\_Quake.ViewModels.SecurityMethods@{Application\_Green\_Quake.ViewModels.SecurityMethods}}
+\doxysubsubsection{\texorpdfstring{TimeLimitLock()}{TimeLimitLock()}}
+{\footnotesize\ttfamily async Task$<$bool$>$ Application\+\_\+\+Green\+\_\+\+Quake.\+View\+Models.\+Security\+Methods.\+Time\+Limit\+Lock (\begin{DoxyParamCaption}{ }\end{DoxyParamCaption})}
+
+This function gets the time from the Security\+Checks Node in the database and compares the stored time to the current time. \mbox{\hyperlink{class_the}{The}} time difference is found by subtracting the time stored in the database from the current time and if the difference is not greater than or equal to 60 seconds then the function returns true otherwise it returns false. \begin{DoxyReturn}{Returns}
+value return true/false 
+\end{DoxyReturn}
+
+
+Definition at line 74 of file Security\+Methods.\+cs.
+
+
+
+The documentation for this class was generated from the following file\+:\begin{DoxyCompactItemize}
+\item 
+Application Green Quake/\+View\+Models/\mbox{\hyperlink{_security_methods_8cs}{Security\+Methods.\+cs}}\end{DoxyCompactItemize}

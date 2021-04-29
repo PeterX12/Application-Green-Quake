@@ -1,0 +1,100 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.9.1" xml:lang="en-US">
+  <compounddef id="class_application___green___quake_1_1_droid_1_1_main_activity" kind="class" language="C#" prot="public">
+    <compoundname>Application_Green_Quake::Droid::MainActivity</compoundname>
+    <basecompoundref prot="public" virt="non-virtual">global.XamarinForms.Platform.Android.FormsAppCompatActivity</basecompoundref>
+      <sectiondef kind="public-func">
+      <memberdef kind="function" id="class_application___green___quake_1_1_droid_1_1_main_activity_1a421110fbb2378d6f8b49b3eba2b8ca3e" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>override void</type>
+        <definition>override void Application_Green_Quake.Droid.MainActivity.OnBackPressed</definition>
+        <argsstring>()</argsstring>
+        <name>OnBackPressed</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+<para>This function makes it that when outside of a pop up is touched the popup closes. </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/MainActivity.cs" line="24" column="30" bodyfile="Application Green Quake.Android/MainActivity.cs" bodystart="24" bodyend="27"/>
+      </memberdef>
+      <memberdef kind="function" id="class_application___green___quake_1_1_droid_1_1_main_activity_1ab78bbb078fd33c4f62b0cb083be29c94" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>override void</type>
+        <definition>override void Application_Green_Quake.Droid.MainActivity.OnRequestPermissionsResult</definition>
+        <argsstring>(int requestCode, string[] permissions, [GeneratedEnum] Android.Content.PM.Permission[] grantResults)</argsstring>
+        <name>OnRequestPermissionsResult</name>
+        <param>
+          <type>int</type>
+          <declname>requestCode</declname>
+        </param>
+        <param>
+          <type>string[]</type>
+          <declname>permissions</declname>
+        </param>
+        <param>
+          <attributes>[GeneratedEnum]</attributes>
+          <type>Android.Content.PM.Permission[]</type>
+          <declname>grantResults</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/MainActivity.cs" line="45" column="30" bodyfile="Application Green Quake.Android/MainActivity.cs" bodystart="45" bodyend="49"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="protected-func">
+      <memberdef kind="function" id="class_application___green___quake_1_1_droid_1_1_main_activity_1a87216e6670457bb3e48583610891ecd3" prot="protected" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>override void</type>
+        <definition>override void Application_Green_Quake.Droid.MainActivity.OnCreate</definition>
+        <argsstring>(Bundle savedInstanceState)</argsstring>
+        <name>OnCreate</name>
+        <param>
+          <type>Bundle</type>
+          <declname>savedInstanceState</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/MainActivity.cs" line="28" column="33" bodyfile="Application Green Quake.Android/MainActivity.cs" bodystart="28" bodyend="43"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <inheritancegraph>
+      <node id="1">
+        <label>Application_Green_Quake.Droid.MainActivity</label>
+        <link refid="class_application___green___quake_1_1_droid_1_1_main_activity"/>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="2">
+        <label>global::XamarinForms::Platform::Android::FormsAppCompatActivity</label>
+      </node>
+    </inheritancegraph>
+    <collaborationgraph>
+      <node id="1">
+        <label>Application_Green_Quake.Droid.MainActivity</label>
+        <link refid="class_application___green___quake_1_1_droid_1_1_main_activity"/>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="2">
+        <label>global::XamarinForms::Platform::Android::FormsAppCompatActivity</label>
+      </node>
+    </collaborationgraph>
+    <location file="Application Green Quake.Android/MainActivity.cs" line="20" column="11" bodyfile="Application Green Quake.Android/MainActivity.cs" bodystart="21" bodyend="50"/>
+    <listofallmembers>
+      <member refid="class_application___green___quake_1_1_droid_1_1_main_activity_1a421110fbb2378d6f8b49b3eba2b8ca3e" prot="public" virt="non-virtual"><scope>Application_Green_Quake::Droid::MainActivity</scope><name>OnBackPressed</name></member>
+      <member refid="class_application___green___quake_1_1_droid_1_1_main_activity_1a87216e6670457bb3e48583610891ecd3" prot="protected" virt="non-virtual"><scope>Application_Green_Quake::Droid::MainActivity</scope><name>OnCreate</name></member>
+      <member refid="class_application___green___quake_1_1_droid_1_1_main_activity_1ab78bbb078fd33c4f62b0cb083be29c94" prot="public" virt="non-virtual"><scope>Application_Green_Quake::Droid::MainActivity</scope><name>OnRequestPermissionsResult</name></member>
+    </listofallmembers>
+  </compounddef>
+</doxygen>

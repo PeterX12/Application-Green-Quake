@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.9.1" xml:lang="en-US">
+  <compounddef id="_release_2100_2android_2src_2crc6410ae41031c958871_2_main_application_8java" kind="file" language="Java">
+    <compoundname>MainApplication.java</compoundname>
+    <innerclass refid="classcrc6410ae41031c958871_1_1_main_application" prot="public">crc6410ae41031c958871::MainApplication</innerclass>
+    <innernamespace refid="namespacecrc6410ae41031c958871">crc6410ae41031c958871</innernamespace>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <programlisting>
+<codeline lineno="1"><highlight class="keyword">package<sp/></highlight><highlight class="normal">crc6410ae41031c958871;</highlight></codeline>
+<codeline lineno="2"><highlight class="normal"></highlight></codeline>
+<codeline lineno="3"><highlight class="normal"></highlight></codeline>
+<codeline lineno="4"><highlight class="normal"></highlight><highlight class="keyword">public</highlight><highlight class="normal"><sp/></highlight><highlight class="keyword">class<sp/></highlight><highlight class="normal"><ref refid="class_main_application" kindref="compound">MainApplication</ref></highlight></codeline>
+<codeline lineno="5"><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">extends</highlight><highlight class="normal"><sp/>android.app.<ref refid="_main_menu_8xaml_8cs_1a765e6c270049b1b8fcb2f647ebb7bcc2" kindref="member">Application</ref></highlight></codeline>
+<codeline lineno="6"><highlight class="normal"><sp/><sp/><sp/><sp/>implements</highlight></codeline>
+<codeline lineno="7"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>mono.android.IGCUserPeer</highlight></codeline>
+<codeline lineno="8"><highlight class="normal">{</highlight></codeline>
+<codeline lineno="10"><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">public</highlight><highlight class="normal"><sp/></highlight><highlight class="keyword">static</highlight><highlight class="normal"><sp/></highlight><highlight class="keyword">final</highlight><highlight class="normal"><sp/>String<sp/><ref refid="classcrc6410ae41031c958871_1_1_main_application_1a2e843edba5a71f098738e6cc618fa26c" kindref="member">__md_methods</ref>;</highlight></codeline>
+<codeline lineno="11"><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">static</highlight><highlight class="normal"><sp/>{</highlight></codeline>
+<codeline lineno="12"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><ref refid="classcrc6410ae41031c958871_1_1_main_application_1a2e843edba5a71f098738e6cc618fa26c" kindref="member">__md_methods</ref><sp/>=<sp/></highlight></codeline>
+<codeline lineno="13"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="stringliteral">&quot;n_onCreate:()V:GetOnCreateHandler\n&quot;</highlight><highlight class="normal"><sp/>+</highlight></codeline>
+<codeline lineno="14"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="stringliteral">&quot;&quot;</highlight><highlight class="normal">;</highlight></codeline>
+<codeline lineno="15"><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline lineno="16"><highlight class="normal"></highlight></codeline>
+<codeline lineno="17" refid="classcrc6410ae41031c958871_1_1_main_application_1a1ec00e7e9c9ca170fdbe6cddc5efe04a" refkind="member"><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">public</highlight><highlight class="normal"><sp/><ref refid="classcrc6410ae41031c958871_1_1_main_application_1a1ec00e7e9c9ca170fdbe6cddc5efe04a" kindref="member">MainApplication</ref><sp/>()</highlight></codeline>
+<codeline lineno="18"><highlight class="normal"><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline lineno="19"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>mono.MonoPackageManager.setContext<sp/>(</highlight><highlight class="keyword">this</highlight><highlight class="normal">);</highlight></codeline>
+<codeline lineno="20"><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline lineno="21"><highlight class="normal"></highlight></codeline>
+<codeline lineno="22"><highlight class="normal"></highlight></codeline>
+<codeline lineno="23" refid="classcrc6410ae41031c958871_1_1_main_application_1a07296706871f23111353b449139db1b4" refkind="member"><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">public</highlight><highlight class="normal"><sp/></highlight><highlight class="keywordtype">void</highlight><highlight class="normal"><sp/><ref refid="classcrc6410ae41031c958871_1_1_main_application_1a07296706871f23111353b449139db1b4" kindref="member">onCreate</ref><sp/>()</highlight></codeline>
+<codeline lineno="24"><highlight class="normal"><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline lineno="25"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>n_onCreate<sp/>();</highlight></codeline>
+<codeline lineno="26"><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline lineno="27"><highlight class="normal"></highlight></codeline>
+<codeline lineno="28"><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">private</highlight><highlight class="normal"><sp/>native<sp/></highlight><highlight class="keywordtype">void</highlight><highlight class="normal"><sp/>n_onCreate<sp/>();</highlight></codeline>
+<codeline lineno="29"><highlight class="normal"></highlight></codeline>
+<codeline lineno="30"><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">private</highlight><highlight class="normal"><sp/>java.util.ArrayList<sp/>refList;</highlight></codeline>
+<codeline lineno="31" refid="classcrc6410ae41031c958871_1_1_main_application_1a704794ee4e29cb6ca9e0a0bbd064cf38" refkind="member"><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">public</highlight><highlight class="normal"><sp/></highlight><highlight class="keywordtype">void</highlight><highlight class="normal"><sp/><ref refid="classcrc6410ae41031c958871_1_1_main_application_1a704794ee4e29cb6ca9e0a0bbd064cf38" kindref="member">monodroidAddReference</ref><sp/>(java.lang.Object<sp/>obj)</highlight></codeline>
+<codeline lineno="32"><highlight class="normal"><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline lineno="33"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">if</highlight><highlight class="normal"><sp/>(refList<sp/>==<sp/></highlight><highlight class="keyword">null</highlight><highlight class="normal">)</highlight></codeline>
+<codeline lineno="34"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>refList<sp/>=<sp/></highlight><highlight class="keyword">new</highlight><highlight class="normal"><sp/>java.util.ArrayList<sp/>();</highlight></codeline>
+<codeline lineno="35"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>refList.add<sp/>(obj);</highlight></codeline>
+<codeline lineno="36"><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline lineno="37"><highlight class="normal"></highlight></codeline>
+<codeline lineno="38" refid="classcrc6410ae41031c958871_1_1_main_application_1aac2996b6d309961a68bd27e00c15a23e" refkind="member"><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">public</highlight><highlight class="normal"><sp/></highlight><highlight class="keywordtype">void</highlight><highlight class="normal"><sp/><ref refid="classcrc6410ae41031c958871_1_1_main_application_1aac2996b6d309961a68bd27e00c15a23e" kindref="member">monodroidClearReferences</ref><sp/>()</highlight></codeline>
+<codeline lineno="39"><highlight class="normal"><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline lineno="40"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">if</highlight><highlight class="normal"><sp/>(refList<sp/>!=<sp/></highlight><highlight class="keyword">null</highlight><highlight class="normal">)</highlight></codeline>
+<codeline lineno="41"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>refList.clear<sp/>();</highlight></codeline>
+<codeline lineno="42"><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline lineno="43"><highlight class="normal">}</highlight></codeline>
+    </programlisting>
+    <location file="Application Green Quake.Android/obj/Release/100/android/src/crc6410ae41031c958871/MainApplication.java"/>
+  </compounddef>
+</doxygen>

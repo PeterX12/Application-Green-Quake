@@ -1,0 +1,244 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.9.1" xml:lang="en-US">
+  <compounddef id="class_application___green___quake_1_1_views_1_1_profile_page_1_1_upload_image_pop_up" kind="class" language="C#" prot="public">
+    <compoundname>Application_Green_Quake::Views::ProfilePage::UploadImagePopUp</compoundname>
+    <basecompoundref prot="public" virt="non-virtual">global.RgPlugins.Popup.Pages.PopupPage</basecompoundref>
+    <basecompoundref prot="public" virt="non-virtual">global.RgPlugins.Popup.Pages.PopupPage</basecompoundref>
+      <sectiondef kind="private-attrib">
+      <memberdef kind="variable" id="class_application___green___quake_1_1_views_1_1_profile_page_1_1_upload_image_pop_up_1a0a65f5391ea1565247153282055c7d21" prot="private" static="no" mutable="no">
+        <type>global::Xamarin.Forms.Image</type>
+        <definition>Xamarin Forms global::Image Application_Green_Quake.Views.ProfilePage.UploadImagePopUp::ChosenImage</definition>
+        <argsstring></argsstring>
+        <name>ChosenImage</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake/obj/Debug/netstandard2.0/Views/ProfilePage/UploadImagePopUp.xaml.g.cs" line="20" column="43" bodyfile="Application Green Quake/obj/Debug/netstandard2.0/Views/ProfilePage/UploadImagePopUp.xaml.g.cs" bodystart="20" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_application___green___quake_1_1_views_1_1_profile_page_1_1_upload_image_pop_up_1a7cccbaa6e888bb3e7bb4805d2c9033bc" prot="private" static="no" mutable="no">
+        <type>global::Xamarin.Forms.Button</type>
+        <definition>Xamarin Forms global::Button Application_Green_Quake.Views.ProfilePage.UploadImagePopUp::Take</definition>
+        <argsstring></argsstring>
+        <name>Take</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake/obj/Debug/netstandard2.0/Views/ProfilePage/UploadImagePopUp.xaml.g.cs" line="23" column="44" bodyfile="Application Green Quake/obj/Debug/netstandard2.0/Views/ProfilePage/UploadImagePopUp.xaml.g.cs" bodystart="23" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_application___green___quake_1_1_views_1_1_profile_page_1_1_upload_image_pop_up_1a7ad70d492ac7347bce78035ae7a9e38d" prot="private" static="no" mutable="no">
+        <type>global::Xamarin.Forms.Button</type>
+        <definition>Xamarin Forms global::Button Application_Green_Quake.Views.ProfilePage.UploadImagePopUp::Pick</definition>
+        <argsstring></argsstring>
+        <name>Pick</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake/obj/Debug/netstandard2.0/Views/ProfilePage/UploadImagePopUp.xaml.g.cs" line="26" column="44" bodyfile="Application Green Quake/obj/Debug/netstandard2.0/Views/ProfilePage/UploadImagePopUp.xaml.g.cs" bodystart="26" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_application___green___quake_1_1_views_1_1_profile_page_1_1_upload_image_pop_up_1ab48b0451721e4ff8987751ec0417f1ab" prot="private" static="no" mutable="no">
+        <type>global::Xamarin.Forms.Button</type>
+        <definition>Xamarin Forms global::Button Application_Green_Quake.Views.ProfilePage.UploadImagePopUp::Save</definition>
+        <argsstring></argsstring>
+        <name>Save</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake/obj/Debug/netstandard2.0/Views/ProfilePage/UploadImagePopUp.xaml.g.cs" line="29" column="44" bodyfile="Application Green Quake/obj/Debug/netstandard2.0/Views/ProfilePage/UploadImagePopUp.xaml.g.cs" bodystart="29" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_application___green___quake_1_1_views_1_1_profile_page_1_1_upload_image_pop_up_1ac9d6d3ebd69af3e52c6b2e703a55375e" prot="private" static="no" mutable="no">
+        <type><ref refid="interface_application___green___quake_1_1_i_auth" kindref="compound">IAuth</ref></type>
+        <definition>IAuth Application_Green_Quake.Views.ProfilePage.UploadImagePopUp.auth</definition>
+        <argsstring></argsstring>
+        <name>auth</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake/Views/ProfilePage/UploadImagePopUp.xaml.cs" line="26" column="15" bodyfile="Application Green Quake/Views/ProfilePage/UploadImagePopUp.xaml.cs" bodystart="26" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="property">
+      <memberdef kind="property" id="class_application___green___quake_1_1_views_1_1_profile_page_1_1_upload_image_pop_up_1aa851640f946b9943f96f15b3aa6616e0" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+        <type>MediaFile</type>
+        <definition>MediaFile Application_Green_Quake.Views.ProfilePage.UploadImagePopUp.File</definition>
+        <argsstring></argsstring>
+        <name>File</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake/Views/ProfilePage/UploadImagePopUp.xaml.cs" line="27" column="26" bodyfile="Application Green Quake/Views/ProfilePage/UploadImagePopUp.xaml.cs" bodystart="27" bodyend="27"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="private-func">
+      <memberdef kind="function" id="class_application___green___quake_1_1_views_1_1_profile_page_1_1_upload_image_pop_up_1a8df7277101fd7b56b56088a82d0040c7" prot="private" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void Application_Green_Quake.Views.ProfilePage.UploadImagePopUp.InitializeComponent</definition>
+        <argsstring>()</argsstring>
+        <name>InitializeComponent</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake/obj/Debug/netstandard2.0/Views/ProfilePage/UploadImagePopUp.xaml.g.cs" line="32" column="22" bodyfile="Application Green Quake/obj/Debug/netstandard2.0/Views/ProfilePage/UploadImagePopUp.xaml.g.cs" bodystart="32" bodyend="38"/>
+      </memberdef>
+      <memberdef kind="function" id="class_application___green___quake_1_1_views_1_1_profile_page_1_1_upload_image_pop_up_1a8df7277101fd7b56b56088a82d0040c7" prot="private" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void Application_Green_Quake.Views.ProfilePage.UploadImagePopUp.InitializeComponent</definition>
+        <argsstring>()</argsstring>
+        <name>InitializeComponent</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake/obj/Release/netstandard2.0/Views/ProfilePage/UploadImagePopUp.xaml.g.cs" line="32" column="22" bodyfile="Application Green Quake/obj/Release/netstandard2.0/Views/ProfilePage/UploadImagePopUp.xaml.g.cs" bodystart="32" bodyend="38"/>
+      </memberdef>
+      <memberdef kind="function" id="class_application___green___quake_1_1_views_1_1_profile_page_1_1_upload_image_pop_up_1ac000ba616b86bcd1aae0cc0aa1a1c030" prot="private" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>async void</type>
+        <definition>async void Application_Green_Quake.Views.ProfilePage.UploadImagePopUp.CapturePhotoClicked</definition>
+        <argsstring>(object sender, System.EventArgs e)</argsstring>
+        <name>CapturePhotoClicked</name>
+        <param>
+          <type>object</type>
+          <declname>sender</declname>
+        </param>
+        <param>
+          <type>System.EventArgs</type>
+          <declname>e</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+<para>This function enables the capturing of an image. </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake/Views/ProfilePage/UploadImagePopUp.xaml.cs" line="36" column="28" bodyfile="Application Green Quake/Views/ProfilePage/UploadImagePopUp.xaml.cs" bodystart="36" bodyend="60"/>
+      </memberdef>
+      <memberdef kind="function" id="class_application___green___quake_1_1_views_1_1_profile_page_1_1_upload_image_pop_up_1a6e99eb531d51afe4d7b7ccd962a7cb63" prot="private" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>async void</type>
+        <definition>async void Application_Green_Quake.Views.ProfilePage.UploadImagePopUp.UplaodPhotoClicked</definition>
+        <argsstring>(object sender, System.EventArgs e)</argsstring>
+        <name>UplaodPhotoClicked</name>
+        <param>
+          <type>object</type>
+          <declname>sender</declname>
+        </param>
+        <param>
+          <type>System.EventArgs</type>
+          <declname>e</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+<para>This function enables the uploading of an image. </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake/Views/ProfilePage/UploadImagePopUp.xaml.cs" line="64" column="28" bodyfile="Application Green Quake/Views/ProfilePage/UploadImagePopUp.xaml.cs" bodystart="64" bodyend="85"/>
+      </memberdef>
+      <memberdef kind="function" id="class_application___green___quake_1_1_views_1_1_profile_page_1_1_upload_image_pop_up_1a91060edf9a44c8f17c20c216293ea3cc" prot="private" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>async void</type>
+        <definition>async void Application_Green_Quake.Views.ProfilePage.UploadImagePopUp.storeImageClicked</definition>
+        <argsstring>(object sender, System.EventArgs e)</argsstring>
+        <name>storeImageClicked</name>
+        <param>
+          <type>object</type>
+          <declname>sender</declname>
+        </param>
+        <param>
+          <type>System.EventArgs</type>
+          <declname>e</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+<para>This function enables the storing of an image. </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake/Views/ProfilePage/UploadImagePopUp.xaml.cs" line="89" column="28" bodyfile="Application Green Quake/Views/ProfilePage/UploadImagePopUp.xaml.cs" bodystart="89" bodyend="118"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="public-func">
+      <memberdef kind="function" id="class_application___green___quake_1_1_views_1_1_profile_page_1_1_upload_image_pop_up_1a68d1a4b6b2beff2f89f61e2dac5206d4" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>Application_Green_Quake.Views.ProfilePage.UploadImagePopUp.UploadImagePopUp</definition>
+        <argsstring>()</argsstring>
+        <name>UploadImagePopUp</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake/Views/ProfilePage/UploadImagePopUp.xaml.cs" line="29" column="16" bodyfile="Application Green Quake/Views/ProfilePage/UploadImagePopUp.xaml.cs" bodystart="29" bodyend="33"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <inheritancegraph>
+      <node id="1">
+        <label>Application_Green_Quake.Views.ProfilePage.UploadImagePopUp</label>
+        <link refid="class_application___green___quake_1_1_views_1_1_profile_page_1_1_upload_image_pop_up"/>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="2">
+        <label>global::RgPlugins::Popup::Pages::PopupPage</label>
+      </node>
+    </inheritancegraph>
+    <collaborationgraph>
+      <node id="1">
+        <label>Application_Green_Quake.Views.ProfilePage.UploadImagePopUp</label>
+        <link refid="class_application___green___quake_1_1_views_1_1_profile_page_1_1_upload_image_pop_up"/>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="2">
+        <label>global::RgPlugins::Popup::Pages::PopupPage</label>
+      </node>
+    </collaborationgraph>
+    <location file="Application Green Quake/obj/Debug/netstandard2.0/Views/ProfilePage/UploadImagePopUp.xaml.g.cs" line="17" column="19" bodyfile="Application Green Quake/obj/Debug/netstandard2.0/Views/ProfilePage/UploadImagePopUp.xaml.g.cs" bodystart="17" bodyend="39"/>
+    <listofallmembers>
+      <member refid="class_application___green___quake_1_1_views_1_1_profile_page_1_1_upload_image_pop_up_1ac9d6d3ebd69af3e52c6b2e703a55375e" prot="private" virt="non-virtual"><scope>Application_Green_Quake::Views::ProfilePage::UploadImagePopUp</scope><name>auth</name></member>
+      <member refid="class_application___green___quake_1_1_views_1_1_profile_page_1_1_upload_image_pop_up_1ac000ba616b86bcd1aae0cc0aa1a1c030" prot="private" virt="non-virtual"><scope>Application_Green_Quake::Views::ProfilePage::UploadImagePopUp</scope><name>CapturePhotoClicked</name></member>
+      <member refid="class_application___green___quake_1_1_views_1_1_profile_page_1_1_upload_image_pop_up_1a0a65f5391ea1565247153282055c7d21" prot="private" virt="non-virtual"><scope>Application_Green_Quake::Views::ProfilePage::UploadImagePopUp</scope><name>ChosenImage</name></member>
+      <member refid="class_application___green___quake_1_1_views_1_1_profile_page_1_1_upload_image_pop_up_1aa851640f946b9943f96f15b3aa6616e0" prot="public" virt="non-virtual"><scope>Application_Green_Quake::Views::ProfilePage::UploadImagePopUp</scope><name>File</name></member>
+      <member refid="class_application___green___quake_1_1_views_1_1_profile_page_1_1_upload_image_pop_up_1a8df7277101fd7b56b56088a82d0040c7" prot="private" virt="non-virtual"><scope>Application_Green_Quake::Views::ProfilePage::UploadImagePopUp</scope><name>InitializeComponent</name></member>
+      <member refid="class_application___green___quake_1_1_views_1_1_profile_page_1_1_upload_image_pop_up_1a8df7277101fd7b56b56088a82d0040c7" prot="private" virt="non-virtual"><scope>Application_Green_Quake::Views::ProfilePage::UploadImagePopUp</scope><name>InitializeComponent</name></member>
+      <member refid="class_application___green___quake_1_1_views_1_1_profile_page_1_1_upload_image_pop_up_1a7ad70d492ac7347bce78035ae7a9e38d" prot="private" virt="non-virtual"><scope>Application_Green_Quake::Views::ProfilePage::UploadImagePopUp</scope><name>Pick</name></member>
+      <member refid="class_application___green___quake_1_1_views_1_1_profile_page_1_1_upload_image_pop_up_1ab48b0451721e4ff8987751ec0417f1ab" prot="private" virt="non-virtual"><scope>Application_Green_Quake::Views::ProfilePage::UploadImagePopUp</scope><name>Save</name></member>
+      <member refid="class_application___green___quake_1_1_views_1_1_profile_page_1_1_upload_image_pop_up_1a91060edf9a44c8f17c20c216293ea3cc" prot="private" virt="non-virtual"><scope>Application_Green_Quake::Views::ProfilePage::UploadImagePopUp</scope><name>storeImageClicked</name></member>
+      <member refid="class_application___green___quake_1_1_views_1_1_profile_page_1_1_upload_image_pop_up_1a7cccbaa6e888bb3e7bb4805d2c9033bc" prot="private" virt="non-virtual"><scope>Application_Green_Quake::Views::ProfilePage::UploadImagePopUp</scope><name>Take</name></member>
+      <member refid="class_application___green___quake_1_1_views_1_1_profile_page_1_1_upload_image_pop_up_1a6e99eb531d51afe4d7b7ccd962a7cb63" prot="private" virt="non-virtual"><scope>Application_Green_Quake::Views::ProfilePage::UploadImagePopUp</scope><name>UplaodPhotoClicked</name></member>
+      <member refid="class_application___green___quake_1_1_views_1_1_profile_page_1_1_upload_image_pop_up_1a68d1a4b6b2beff2f89f61e2dac5206d4" prot="public" virt="non-virtual"><scope>Application_Green_Quake::Views::ProfilePage::UploadImagePopUp</scope><name>UploadImagePopUp</name></member>
+    </listofallmembers>
+  </compounddef>
+</doxygen>

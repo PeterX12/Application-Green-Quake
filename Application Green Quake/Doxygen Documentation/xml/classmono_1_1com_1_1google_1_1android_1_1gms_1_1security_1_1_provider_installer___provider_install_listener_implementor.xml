@@ -1,0 +1,676 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.9.1" xml:lang="en-US">
+  <compounddef id="classmono_1_1com_1_1google_1_1android_1_1gms_1_1security_1_1_provider_installer___provider_install_listener_implementor" kind="class" language="Java" prot="public">
+    <compoundname>mono::com::google::android::gms::security::ProviderInstaller_ProviderInstallListenerImplementor</compoundname>
+    <basecompoundref prot="public" virt="non-virtual">java.lang.Object</basecompoundref>
+    <basecompoundref prot="public" virt="non-virtual">mono.android.IGCUserPeer</basecompoundref>
+    <basecompoundref prot="public" virt="non-virtual">com.google.android.gms.security.ProviderInstaller.ProviderInstallListener</basecompoundref>
+    <basecompoundref prot="public" virt="non-virtual">java.lang.Object</basecompoundref>
+    <basecompoundref prot="public" virt="non-virtual">mono.android.IGCUserPeer</basecompoundref>
+    <basecompoundref prot="public" virt="non-virtual">com.google.android.gms.security.ProviderInstaller.ProviderInstallListener</basecompoundref>
+    <basecompoundref prot="public" virt="non-virtual">java.lang.Object</basecompoundref>
+    <basecompoundref prot="public" virt="non-virtual">mono.android.IGCUserPeer</basecompoundref>
+    <basecompoundref prot="public" virt="non-virtual">com.google.android.gms.security.ProviderInstaller.ProviderInstallListener</basecompoundref>
+    <basecompoundref prot="public" virt="non-virtual">java.lang.Object</basecompoundref>
+    <basecompoundref prot="public" virt="non-virtual">mono.android.IGCUserPeer</basecompoundref>
+    <basecompoundref prot="public" virt="non-virtual">com.google.android.gms.security.ProviderInstaller.ProviderInstallListener</basecompoundref>
+      <sectiondef kind="public-static-attrib">
+      <memberdef kind="variable" id="classmono_1_1com_1_1google_1_1android_1_1gms_1_1security_1_1_provider_installer___provider_install_listener_implementor_1a49bebd3fc9ee2a094f6cb6eacb2197fd" prot="public" static="yes" mutable="no">
+        <type>final String</type>
+        <definition>static final String mono.com.google.android.gms.security.ProviderInstaller_ProviderInstallListenerImplementor::__md_methods</definition>
+        <argsstring></argsstring>
+        <name>__md_methods</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+<para>@hide </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/100/android/src/mono/com/google/android/gms/security/ProviderInstaller_ProviderInstallListenerImplementor.java" line="11" column="28" bodyfile="Application Green Quake.Android/obj/Debug/100/android/src/mono/com/google/android/gms/security/ProviderInstaller_ProviderInstallListenerImplementor.java" bodystart="11" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="private-attrib">
+      <memberdef kind="variable" id="classmono_1_1com_1_1google_1_1android_1_1gms_1_1security_1_1_provider_installer___provider_install_listener_implementor_1a70cb3f949bf7e6b7f695688f8a3ee123" prot="private" static="no" mutable="no">
+        <type>java.util.ArrayList</type>
+        <definition>java util ArrayList mono.com.google.android.gms.security.ProviderInstaller_ProviderInstallListenerImplementor::refList</definition>
+        <argsstring></argsstring>
+        <name>refList</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/100/android/src/mono/com/google/android/gms/security/ProviderInstaller_ProviderInstallListenerImplementor.java" line="44" column="27" bodyfile="Application Green Quake.Android/obj/Debug/100/android/src/mono/com/google/android/gms/security/ProviderInstaller_ProviderInstallListenerImplementor.java" bodystart="44" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="package-static-func">
+      <memberdef kind="function" id="classmono_1_1com_1_1google_1_1android_1_1gms_1_1security_1_1_provider_installer___provider_install_listener_implementor_1a4705f7292c44681bdce4b26f0f98248c" prot="package" static="yes" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>mono.com.google.android.gms.security.ProviderInstaller_ProviderInstallListenerImplementor.[static initializer]</definition>
+        <argsstring></argsstring>
+        <name>[static initializer]</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/100/android/src/mono/com/google/android/gms/security/ProviderInstaller_ProviderInstallListenerImplementor.java" line="11" column="28"/>
+      </memberdef>
+      <memberdef kind="function" id="classmono_1_1com_1_1google_1_1android_1_1gms_1_1security_1_1_provider_installer___provider_install_listener_implementor_1a4705f7292c44681bdce4b26f0f98248c" prot="package" static="yes" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>mono.com.google.android.gms.security.ProviderInstaller_ProviderInstallListenerImplementor.[static initializer]</definition>
+        <argsstring></argsstring>
+        <name>[static initializer]</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/110/android/src/mono/com/google/android/gms/security/ProviderInstaller_ProviderInstallListenerImplementor.java" line="11" column="28"/>
+      </memberdef>
+      <memberdef kind="function" id="classmono_1_1com_1_1google_1_1android_1_1gms_1_1security_1_1_provider_installer___provider_install_listener_implementor_1a4705f7292c44681bdce4b26f0f98248c" prot="package" static="yes" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>mono.com.google.android.gms.security.ProviderInstaller_ProviderInstallListenerImplementor.[static initializer]</definition>
+        <argsstring></argsstring>
+        <name>[static initializer]</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/100/android/src/mono/com/google/android/gms/security/ProviderInstaller_ProviderInstallListenerImplementor.java" line="11" column="28"/>
+      </memberdef>
+      <memberdef kind="function" id="classmono_1_1com_1_1google_1_1android_1_1gms_1_1security_1_1_provider_installer___provider_install_listener_implementor_1a4705f7292c44681bdce4b26f0f98248c" prot="package" static="yes" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>mono.com.google.android.gms.security.ProviderInstaller_ProviderInstallListenerImplementor.[static initializer]</definition>
+        <argsstring></argsstring>
+        <name>[static initializer]</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/110/android/src/mono/com/google/android/gms/security/ProviderInstaller_ProviderInstallListenerImplementor.java" line="11" column="28"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="public-func">
+      <memberdef kind="function" id="classmono_1_1com_1_1google_1_1android_1_1gms_1_1security_1_1_provider_installer___provider_install_listener_implementor_1a6074aecdc3fb018eeff8efc272f61b71" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>mono.com.google.android.gms.security.ProviderInstaller_ProviderInstallListenerImplementor.ProviderInstaller_ProviderInstallListenerImplementor</definition>
+        <argsstring>()</argsstring>
+        <name>ProviderInstaller_ProviderInstallListenerImplementor</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/100/android/src/mono/com/google/android/gms/security/ProviderInstaller_ProviderInstallListenerImplementor.java" line="21" column="8" bodyfile="Application Green Quake.Android/obj/Debug/100/android/src/mono/com/google/android/gms/security/ProviderInstaller_ProviderInstallListenerImplementor.java" bodystart="21" bodyend="26"/>
+      </memberdef>
+      <memberdef kind="function" id="classmono_1_1com_1_1google_1_1android_1_1gms_1_1security_1_1_provider_installer___provider_install_listener_implementor_1ad98f798cdf2487bba928d38ad9bdbb5d" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void mono.com.google.android.gms.security.ProviderInstaller_ProviderInstallListenerImplementor.onProviderInstallFailed</definition>
+        <argsstring>(int p0, android.content.Intent p1)</argsstring>
+        <name>onProviderInstallFailed</name>
+        <param>
+          <type>int</type>
+          <declname>p0</declname>
+        </param>
+        <param>
+          <type>android.content.Intent</type>
+          <declname>p1</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/100/android/src/mono/com/google/android/gms/security/ProviderInstaller_ProviderInstallListenerImplementor.java" line="29" column="13" bodyfile="Application Green Quake.Android/obj/Debug/100/android/src/mono/com/google/android/gms/security/ProviderInstaller_ProviderInstallListenerImplementor.java" bodystart="29" bodyend="32"/>
+      </memberdef>
+      <memberdef kind="function" id="classmono_1_1com_1_1google_1_1android_1_1gms_1_1security_1_1_provider_installer___provider_install_listener_implementor_1a9be6f5afc5630cbec9097d1e8cfeddf5" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void mono.com.google.android.gms.security.ProviderInstaller_ProviderInstallListenerImplementor.onProviderInstalled</definition>
+        <argsstring>()</argsstring>
+        <name>onProviderInstalled</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/100/android/src/mono/com/google/android/gms/security/ProviderInstaller_ProviderInstallListenerImplementor.java" line="37" column="13" bodyfile="Application Green Quake.Android/obj/Debug/100/android/src/mono/com/google/android/gms/security/ProviderInstaller_ProviderInstallListenerImplementor.java" bodystart="37" bodyend="40"/>
+      </memberdef>
+      <memberdef kind="function" id="classmono_1_1com_1_1google_1_1android_1_1gms_1_1security_1_1_provider_installer___provider_install_listener_implementor_1acbb785fea93e91f3f2f0e783a6ff75f2" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void mono.com.google.android.gms.security.ProviderInstaller_ProviderInstallListenerImplementor.monodroidAddReference</definition>
+        <argsstring>(java.lang.Object obj)</argsstring>
+        <name>monodroidAddReference</name>
+        <param>
+          <type>java.lang.Object</type>
+          <declname>obj</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/100/android/src/mono/com/google/android/gms/security/ProviderInstaller_ProviderInstallListenerImplementor.java" line="45" column="13" bodyfile="Application Green Quake.Android/obj/Debug/100/android/src/mono/com/google/android/gms/security/ProviderInstaller_ProviderInstallListenerImplementor.java" bodystart="45" bodyend="50"/>
+      </memberdef>
+      <memberdef kind="function" id="classmono_1_1com_1_1google_1_1android_1_1gms_1_1security_1_1_provider_installer___provider_install_listener_implementor_1a3ff43f2ea3c21f514ba3cf34ea685bf7" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void mono.com.google.android.gms.security.ProviderInstaller_ProviderInstallListenerImplementor.monodroidClearReferences</definition>
+        <argsstring>()</argsstring>
+        <name>monodroidClearReferences</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/100/android/src/mono/com/google/android/gms/security/ProviderInstaller_ProviderInstallListenerImplementor.java" line="52" column="13" bodyfile="Application Green Quake.Android/obj/Debug/100/android/src/mono/com/google/android/gms/security/ProviderInstaller_ProviderInstallListenerImplementor.java" bodystart="52" bodyend="56"/>
+      </memberdef>
+      <memberdef kind="function" id="classmono_1_1com_1_1google_1_1android_1_1gms_1_1security_1_1_provider_installer___provider_install_listener_implementor_1a6074aecdc3fb018eeff8efc272f61b71" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>mono.com.google.android.gms.security.ProviderInstaller_ProviderInstallListenerImplementor.ProviderInstaller_ProviderInstallListenerImplementor</definition>
+        <argsstring>()</argsstring>
+        <name>ProviderInstaller_ProviderInstallListenerImplementor</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/110/android/src/mono/com/google/android/gms/security/ProviderInstaller_ProviderInstallListenerImplementor.java" line="21" column="8" bodyfile="Application Green Quake.Android/obj/Debug/110/android/src/mono/com/google/android/gms/security/ProviderInstaller_ProviderInstallListenerImplementor.java" bodystart="21" bodyend="26"/>
+      </memberdef>
+      <memberdef kind="function" id="classmono_1_1com_1_1google_1_1android_1_1gms_1_1security_1_1_provider_installer___provider_install_listener_implementor_1ad98f798cdf2487bba928d38ad9bdbb5d" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void mono.com.google.android.gms.security.ProviderInstaller_ProviderInstallListenerImplementor.onProviderInstallFailed</definition>
+        <argsstring>(int p0, android.content.Intent p1)</argsstring>
+        <name>onProviderInstallFailed</name>
+        <param>
+          <type>int</type>
+          <declname>p0</declname>
+        </param>
+        <param>
+          <type>android.content.Intent</type>
+          <declname>p1</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/110/android/src/mono/com/google/android/gms/security/ProviderInstaller_ProviderInstallListenerImplementor.java" line="29" column="13" bodyfile="Application Green Quake.Android/obj/Debug/110/android/src/mono/com/google/android/gms/security/ProviderInstaller_ProviderInstallListenerImplementor.java" bodystart="29" bodyend="32"/>
+      </memberdef>
+      <memberdef kind="function" id="classmono_1_1com_1_1google_1_1android_1_1gms_1_1security_1_1_provider_installer___provider_install_listener_implementor_1a9be6f5afc5630cbec9097d1e8cfeddf5" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void mono.com.google.android.gms.security.ProviderInstaller_ProviderInstallListenerImplementor.onProviderInstalled</definition>
+        <argsstring>()</argsstring>
+        <name>onProviderInstalled</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/110/android/src/mono/com/google/android/gms/security/ProviderInstaller_ProviderInstallListenerImplementor.java" line="37" column="13" bodyfile="Application Green Quake.Android/obj/Debug/110/android/src/mono/com/google/android/gms/security/ProviderInstaller_ProviderInstallListenerImplementor.java" bodystart="37" bodyend="40"/>
+      </memberdef>
+      <memberdef kind="function" id="classmono_1_1com_1_1google_1_1android_1_1gms_1_1security_1_1_provider_installer___provider_install_listener_implementor_1acbb785fea93e91f3f2f0e783a6ff75f2" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void mono.com.google.android.gms.security.ProviderInstaller_ProviderInstallListenerImplementor.monodroidAddReference</definition>
+        <argsstring>(java.lang.Object obj)</argsstring>
+        <name>monodroidAddReference</name>
+        <param>
+          <type>java.lang.Object</type>
+          <declname>obj</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/110/android/src/mono/com/google/android/gms/security/ProviderInstaller_ProviderInstallListenerImplementor.java" line="45" column="13" bodyfile="Application Green Quake.Android/obj/Debug/110/android/src/mono/com/google/android/gms/security/ProviderInstaller_ProviderInstallListenerImplementor.java" bodystart="45" bodyend="50"/>
+      </memberdef>
+      <memberdef kind="function" id="classmono_1_1com_1_1google_1_1android_1_1gms_1_1security_1_1_provider_installer___provider_install_listener_implementor_1a3ff43f2ea3c21f514ba3cf34ea685bf7" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void mono.com.google.android.gms.security.ProviderInstaller_ProviderInstallListenerImplementor.monodroidClearReferences</definition>
+        <argsstring>()</argsstring>
+        <name>monodroidClearReferences</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/110/android/src/mono/com/google/android/gms/security/ProviderInstaller_ProviderInstallListenerImplementor.java" line="52" column="13" bodyfile="Application Green Quake.Android/obj/Debug/110/android/src/mono/com/google/android/gms/security/ProviderInstaller_ProviderInstallListenerImplementor.java" bodystart="52" bodyend="56"/>
+      </memberdef>
+      <memberdef kind="function" id="classmono_1_1com_1_1google_1_1android_1_1gms_1_1security_1_1_provider_installer___provider_install_listener_implementor_1a6074aecdc3fb018eeff8efc272f61b71" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>mono.com.google.android.gms.security.ProviderInstaller_ProviderInstallListenerImplementor.ProviderInstaller_ProviderInstallListenerImplementor</definition>
+        <argsstring>()</argsstring>
+        <name>ProviderInstaller_ProviderInstallListenerImplementor</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/100/android/src/mono/com/google/android/gms/security/ProviderInstaller_ProviderInstallListenerImplementor.java" line="21" column="8" bodyfile="Application Green Quake.Android/obj/Release/100/android/src/mono/com/google/android/gms/security/ProviderInstaller_ProviderInstallListenerImplementor.java" bodystart="21" bodyend="26"/>
+      </memberdef>
+      <memberdef kind="function" id="classmono_1_1com_1_1google_1_1android_1_1gms_1_1security_1_1_provider_installer___provider_install_listener_implementor_1ad98f798cdf2487bba928d38ad9bdbb5d" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void mono.com.google.android.gms.security.ProviderInstaller_ProviderInstallListenerImplementor.onProviderInstallFailed</definition>
+        <argsstring>(int p0, android.content.Intent p1)</argsstring>
+        <name>onProviderInstallFailed</name>
+        <param>
+          <type>int</type>
+          <declname>p0</declname>
+        </param>
+        <param>
+          <type>android.content.Intent</type>
+          <declname>p1</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/100/android/src/mono/com/google/android/gms/security/ProviderInstaller_ProviderInstallListenerImplementor.java" line="29" column="13" bodyfile="Application Green Quake.Android/obj/Release/100/android/src/mono/com/google/android/gms/security/ProviderInstaller_ProviderInstallListenerImplementor.java" bodystart="29" bodyend="32"/>
+      </memberdef>
+      <memberdef kind="function" id="classmono_1_1com_1_1google_1_1android_1_1gms_1_1security_1_1_provider_installer___provider_install_listener_implementor_1a9be6f5afc5630cbec9097d1e8cfeddf5" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void mono.com.google.android.gms.security.ProviderInstaller_ProviderInstallListenerImplementor.onProviderInstalled</definition>
+        <argsstring>()</argsstring>
+        <name>onProviderInstalled</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/100/android/src/mono/com/google/android/gms/security/ProviderInstaller_ProviderInstallListenerImplementor.java" line="37" column="13" bodyfile="Application Green Quake.Android/obj/Release/100/android/src/mono/com/google/android/gms/security/ProviderInstaller_ProviderInstallListenerImplementor.java" bodystart="37" bodyend="40"/>
+      </memberdef>
+      <memberdef kind="function" id="classmono_1_1com_1_1google_1_1android_1_1gms_1_1security_1_1_provider_installer___provider_install_listener_implementor_1acbb785fea93e91f3f2f0e783a6ff75f2" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void mono.com.google.android.gms.security.ProviderInstaller_ProviderInstallListenerImplementor.monodroidAddReference</definition>
+        <argsstring>(java.lang.Object obj)</argsstring>
+        <name>monodroidAddReference</name>
+        <param>
+          <type>java.lang.Object</type>
+          <declname>obj</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/100/android/src/mono/com/google/android/gms/security/ProviderInstaller_ProviderInstallListenerImplementor.java" line="45" column="13" bodyfile="Application Green Quake.Android/obj/Release/100/android/src/mono/com/google/android/gms/security/ProviderInstaller_ProviderInstallListenerImplementor.java" bodystart="45" bodyend="50"/>
+      </memberdef>
+      <memberdef kind="function" id="classmono_1_1com_1_1google_1_1android_1_1gms_1_1security_1_1_provider_installer___provider_install_listener_implementor_1a3ff43f2ea3c21f514ba3cf34ea685bf7" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void mono.com.google.android.gms.security.ProviderInstaller_ProviderInstallListenerImplementor.monodroidClearReferences</definition>
+        <argsstring>()</argsstring>
+        <name>monodroidClearReferences</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/100/android/src/mono/com/google/android/gms/security/ProviderInstaller_ProviderInstallListenerImplementor.java" line="52" column="13" bodyfile="Application Green Quake.Android/obj/Release/100/android/src/mono/com/google/android/gms/security/ProviderInstaller_ProviderInstallListenerImplementor.java" bodystart="52" bodyend="56"/>
+      </memberdef>
+      <memberdef kind="function" id="classmono_1_1com_1_1google_1_1android_1_1gms_1_1security_1_1_provider_installer___provider_install_listener_implementor_1a6074aecdc3fb018eeff8efc272f61b71" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>mono.com.google.android.gms.security.ProviderInstaller_ProviderInstallListenerImplementor.ProviderInstaller_ProviderInstallListenerImplementor</definition>
+        <argsstring>()</argsstring>
+        <name>ProviderInstaller_ProviderInstallListenerImplementor</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/110/android/src/mono/com/google/android/gms/security/ProviderInstaller_ProviderInstallListenerImplementor.java" line="21" column="8" bodyfile="Application Green Quake.Android/obj/Release/110/android/src/mono/com/google/android/gms/security/ProviderInstaller_ProviderInstallListenerImplementor.java" bodystart="21" bodyend="26"/>
+      </memberdef>
+      <memberdef kind="function" id="classmono_1_1com_1_1google_1_1android_1_1gms_1_1security_1_1_provider_installer___provider_install_listener_implementor_1ad98f798cdf2487bba928d38ad9bdbb5d" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void mono.com.google.android.gms.security.ProviderInstaller_ProviderInstallListenerImplementor.onProviderInstallFailed</definition>
+        <argsstring>(int p0, android.content.Intent p1)</argsstring>
+        <name>onProviderInstallFailed</name>
+        <param>
+          <type>int</type>
+          <declname>p0</declname>
+        </param>
+        <param>
+          <type>android.content.Intent</type>
+          <declname>p1</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/110/android/src/mono/com/google/android/gms/security/ProviderInstaller_ProviderInstallListenerImplementor.java" line="29" column="13" bodyfile="Application Green Quake.Android/obj/Release/110/android/src/mono/com/google/android/gms/security/ProviderInstaller_ProviderInstallListenerImplementor.java" bodystart="29" bodyend="32"/>
+      </memberdef>
+      <memberdef kind="function" id="classmono_1_1com_1_1google_1_1android_1_1gms_1_1security_1_1_provider_installer___provider_install_listener_implementor_1a9be6f5afc5630cbec9097d1e8cfeddf5" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void mono.com.google.android.gms.security.ProviderInstaller_ProviderInstallListenerImplementor.onProviderInstalled</definition>
+        <argsstring>()</argsstring>
+        <name>onProviderInstalled</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/110/android/src/mono/com/google/android/gms/security/ProviderInstaller_ProviderInstallListenerImplementor.java" line="37" column="13" bodyfile="Application Green Quake.Android/obj/Release/110/android/src/mono/com/google/android/gms/security/ProviderInstaller_ProviderInstallListenerImplementor.java" bodystart="37" bodyend="40"/>
+      </memberdef>
+      <memberdef kind="function" id="classmono_1_1com_1_1google_1_1android_1_1gms_1_1security_1_1_provider_installer___provider_install_listener_implementor_1acbb785fea93e91f3f2f0e783a6ff75f2" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void mono.com.google.android.gms.security.ProviderInstaller_ProviderInstallListenerImplementor.monodroidAddReference</definition>
+        <argsstring>(java.lang.Object obj)</argsstring>
+        <name>monodroidAddReference</name>
+        <param>
+          <type>java.lang.Object</type>
+          <declname>obj</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/110/android/src/mono/com/google/android/gms/security/ProviderInstaller_ProviderInstallListenerImplementor.java" line="45" column="13" bodyfile="Application Green Quake.Android/obj/Release/110/android/src/mono/com/google/android/gms/security/ProviderInstaller_ProviderInstallListenerImplementor.java" bodystart="45" bodyend="50"/>
+      </memberdef>
+      <memberdef kind="function" id="classmono_1_1com_1_1google_1_1android_1_1gms_1_1security_1_1_provider_installer___provider_install_listener_implementor_1a3ff43f2ea3c21f514ba3cf34ea685bf7" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void mono.com.google.android.gms.security.ProviderInstaller_ProviderInstallListenerImplementor.monodroidClearReferences</definition>
+        <argsstring>()</argsstring>
+        <name>monodroidClearReferences</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/110/android/src/mono/com/google/android/gms/security/ProviderInstaller_ProviderInstallListenerImplementor.java" line="52" column="13" bodyfile="Application Green Quake.Android/obj/Release/110/android/src/mono/com/google/android/gms/security/ProviderInstaller_ProviderInstallListenerImplementor.java" bodystart="52" bodyend="56"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="private-func">
+      <memberdef kind="function" id="classmono_1_1com_1_1google_1_1android_1_1gms_1_1security_1_1_provider_installer___provider_install_listener_implementor_1a3efcd9130caeb7c7d0a25bccf5732886" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>native void</type>
+        <definition>native void mono.com.google.android.gms.security.ProviderInstaller_ProviderInstallListenerImplementor.n_onProviderInstallFailed</definition>
+        <argsstring>(int p0, android.content.Intent p1)</argsstring>
+        <name>n_onProviderInstallFailed</name>
+        <param>
+          <type>int</type>
+          <declname>p0</declname>
+        </param>
+        <param>
+          <type>android.content.Intent</type>
+          <declname>p1</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/100/android/src/mono/com/google/android/gms/security/ProviderInstaller_ProviderInstallListenerImplementor.java" line="34" column="21"/>
+      </memberdef>
+      <memberdef kind="function" id="classmono_1_1com_1_1google_1_1android_1_1gms_1_1security_1_1_provider_installer___provider_install_listener_implementor_1a5a9480039a6d29471dee82e77351769b" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>native void</type>
+        <definition>native void mono.com.google.android.gms.security.ProviderInstaller_ProviderInstallListenerImplementor.n_onProviderInstalled</definition>
+        <argsstring>()</argsstring>
+        <name>n_onProviderInstalled</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/100/android/src/mono/com/google/android/gms/security/ProviderInstaller_ProviderInstallListenerImplementor.java" line="42" column="21"/>
+      </memberdef>
+      <memberdef kind="function" id="classmono_1_1com_1_1google_1_1android_1_1gms_1_1security_1_1_provider_installer___provider_install_listener_implementor_1a3efcd9130caeb7c7d0a25bccf5732886" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>native void</type>
+        <definition>native void mono.com.google.android.gms.security.ProviderInstaller_ProviderInstallListenerImplementor.n_onProviderInstallFailed</definition>
+        <argsstring>(int p0, android.content.Intent p1)</argsstring>
+        <name>n_onProviderInstallFailed</name>
+        <param>
+          <type>int</type>
+          <declname>p0</declname>
+        </param>
+        <param>
+          <type>android.content.Intent</type>
+          <declname>p1</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/110/android/src/mono/com/google/android/gms/security/ProviderInstaller_ProviderInstallListenerImplementor.java" line="34" column="21"/>
+      </memberdef>
+      <memberdef kind="function" id="classmono_1_1com_1_1google_1_1android_1_1gms_1_1security_1_1_provider_installer___provider_install_listener_implementor_1a5a9480039a6d29471dee82e77351769b" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>native void</type>
+        <definition>native void mono.com.google.android.gms.security.ProviderInstaller_ProviderInstallListenerImplementor.n_onProviderInstalled</definition>
+        <argsstring>()</argsstring>
+        <name>n_onProviderInstalled</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/110/android/src/mono/com/google/android/gms/security/ProviderInstaller_ProviderInstallListenerImplementor.java" line="42" column="21"/>
+      </memberdef>
+      <memberdef kind="function" id="classmono_1_1com_1_1google_1_1android_1_1gms_1_1security_1_1_provider_installer___provider_install_listener_implementor_1a3efcd9130caeb7c7d0a25bccf5732886" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>native void</type>
+        <definition>native void mono.com.google.android.gms.security.ProviderInstaller_ProviderInstallListenerImplementor.n_onProviderInstallFailed</definition>
+        <argsstring>(int p0, android.content.Intent p1)</argsstring>
+        <name>n_onProviderInstallFailed</name>
+        <param>
+          <type>int</type>
+          <declname>p0</declname>
+        </param>
+        <param>
+          <type>android.content.Intent</type>
+          <declname>p1</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/100/android/src/mono/com/google/android/gms/security/ProviderInstaller_ProviderInstallListenerImplementor.java" line="34" column="21"/>
+      </memberdef>
+      <memberdef kind="function" id="classmono_1_1com_1_1google_1_1android_1_1gms_1_1security_1_1_provider_installer___provider_install_listener_implementor_1a5a9480039a6d29471dee82e77351769b" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>native void</type>
+        <definition>native void mono.com.google.android.gms.security.ProviderInstaller_ProviderInstallListenerImplementor.n_onProviderInstalled</definition>
+        <argsstring>()</argsstring>
+        <name>n_onProviderInstalled</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/100/android/src/mono/com/google/android/gms/security/ProviderInstaller_ProviderInstallListenerImplementor.java" line="42" column="21"/>
+      </memberdef>
+      <memberdef kind="function" id="classmono_1_1com_1_1google_1_1android_1_1gms_1_1security_1_1_provider_installer___provider_install_listener_implementor_1a3efcd9130caeb7c7d0a25bccf5732886" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>native void</type>
+        <definition>native void mono.com.google.android.gms.security.ProviderInstaller_ProviderInstallListenerImplementor.n_onProviderInstallFailed</definition>
+        <argsstring>(int p0, android.content.Intent p1)</argsstring>
+        <name>n_onProviderInstallFailed</name>
+        <param>
+          <type>int</type>
+          <declname>p0</declname>
+        </param>
+        <param>
+          <type>android.content.Intent</type>
+          <declname>p1</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/110/android/src/mono/com/google/android/gms/security/ProviderInstaller_ProviderInstallListenerImplementor.java" line="34" column="21"/>
+      </memberdef>
+      <memberdef kind="function" id="classmono_1_1com_1_1google_1_1android_1_1gms_1_1security_1_1_provider_installer___provider_install_listener_implementor_1a5a9480039a6d29471dee82e77351769b" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>native void</type>
+        <definition>native void mono.com.google.android.gms.security.ProviderInstaller_ProviderInstallListenerImplementor.n_onProviderInstalled</definition>
+        <argsstring>()</argsstring>
+        <name>n_onProviderInstalled</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/110/android/src/mono/com/google/android/gms/security/ProviderInstaller_ProviderInstallListenerImplementor.java" line="42" column="21"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <inheritancegraph>
+      <node id="1">
+        <label>mono.com.google.android.gms.security.ProviderInstaller_ProviderInstallListenerImplementor</label>
+        <link refid="classmono_1_1com_1_1google_1_1android_1_1gms_1_1security_1_1_provider_installer___provider_install_listener_implementor"/>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+        <childnode refid="3" relation="public-inheritance">
+        </childnode>
+        <childnode refid="4" relation="public-inheritance">
+        </childnode>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+        <childnode refid="3" relation="public-inheritance">
+        </childnode>
+        <childnode refid="5" relation="public-inheritance">
+        </childnode>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+        <childnode refid="3" relation="public-inheritance">
+        </childnode>
+        <childnode refid="5" relation="public-inheritance">
+        </childnode>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+        <childnode refid="3" relation="public-inheritance">
+        </childnode>
+        <childnode refid="5" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="4">
+        <label>com::google::android::gms::security::ProviderInstaller::ProviderInstallListener</label>
+      </node>
+      <node id="3">
+        <label>mono.android.IGCUserPeer</label>
+      </node>
+      <node id="2">
+        <label>java.lang.Object</label>
+      </node>
+      <node id="5">
+        <label>com.google.android.gms.security.ProviderInstaller.ProviderInstallListener</label>
+      </node>
+    </inheritancegraph>
+    <collaborationgraph>
+      <node id="1">
+        <label>mono.com.google.android.gms.security.ProviderInstaller_ProviderInstallListenerImplementor</label>
+        <link refid="classmono_1_1com_1_1google_1_1android_1_1gms_1_1security_1_1_provider_installer___provider_install_listener_implementor"/>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+        <childnode refid="3" relation="public-inheritance">
+        </childnode>
+        <childnode refid="4" relation="public-inheritance">
+        </childnode>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+        <childnode refid="3" relation="public-inheritance">
+        </childnode>
+        <childnode refid="5" relation="public-inheritance">
+        </childnode>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+        <childnode refid="3" relation="public-inheritance">
+        </childnode>
+        <childnode refid="5" relation="public-inheritance">
+        </childnode>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+        <childnode refid="3" relation="public-inheritance">
+        </childnode>
+        <childnode refid="5" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="4">
+        <label>com::google::android::gms::security::ProviderInstaller::ProviderInstallListener</label>
+      </node>
+      <node id="3">
+        <label>mono.android.IGCUserPeer</label>
+      </node>
+      <node id="2">
+        <label>java.lang.Object</label>
+      </node>
+      <node id="5">
+        <label>com.google.android.gms.security.ProviderInstaller.ProviderInstallListener</label>
+      </node>
+    </collaborationgraph>
+    <location file="Application Green Quake.Android/obj/Debug/100/android/src/mono/com/google/android/gms/security/ProviderInstaller_ProviderInstallListenerImplementor.java" line="4" column="7" bodyfile="Application Green Quake.Android/obj/Debug/100/android/src/mono/com/google/android/gms/security/ProviderInstaller_ProviderInstallListenerImplementor.java" bodystart="9" bodyend="57"/>
+    <listofallmembers>
+      <member refid="classmono_1_1com_1_1google_1_1android_1_1gms_1_1security_1_1_provider_installer___provider_install_listener_implementor_1a4705f7292c44681bdce4b26f0f98248c" prot="package" virt="non-virtual"><scope>mono::com::google::android::gms::security::ProviderInstaller_ProviderInstallListenerImplementor</scope><name>[static initializer]</name></member>
+      <member refid="classmono_1_1com_1_1google_1_1android_1_1gms_1_1security_1_1_provider_installer___provider_install_listener_implementor_1a4705f7292c44681bdce4b26f0f98248c" prot="package" virt="non-virtual"><scope>mono::com::google::android::gms::security::ProviderInstaller_ProviderInstallListenerImplementor</scope><name>[static initializer]</name></member>
+      <member refid="classmono_1_1com_1_1google_1_1android_1_1gms_1_1security_1_1_provider_installer___provider_install_listener_implementor_1a4705f7292c44681bdce4b26f0f98248c" prot="package" virt="non-virtual"><scope>mono::com::google::android::gms::security::ProviderInstaller_ProviderInstallListenerImplementor</scope><name>[static initializer]</name></member>
+      <member refid="classmono_1_1com_1_1google_1_1android_1_1gms_1_1security_1_1_provider_installer___provider_install_listener_implementor_1a4705f7292c44681bdce4b26f0f98248c" prot="package" virt="non-virtual"><scope>mono::com::google::android::gms::security::ProviderInstaller_ProviderInstallListenerImplementor</scope><name>[static initializer]</name></member>
+      <member refid="classmono_1_1com_1_1google_1_1android_1_1gms_1_1security_1_1_provider_installer___provider_install_listener_implementor_1a49bebd3fc9ee2a094f6cb6eacb2197fd" prot="public" virt="non-virtual"><scope>mono::com::google::android::gms::security::ProviderInstaller_ProviderInstallListenerImplementor</scope><name>__md_methods</name></member>
+      <member refid="classmono_1_1com_1_1google_1_1android_1_1gms_1_1security_1_1_provider_installer___provider_install_listener_implementor_1acbb785fea93e91f3f2f0e783a6ff75f2" prot="public" virt="non-virtual"><scope>mono::com::google::android::gms::security::ProviderInstaller_ProviderInstallListenerImplementor</scope><name>monodroidAddReference</name></member>
+      <member refid="classmono_1_1com_1_1google_1_1android_1_1gms_1_1security_1_1_provider_installer___provider_install_listener_implementor_1acbb785fea93e91f3f2f0e783a6ff75f2" prot="public" virt="non-virtual"><scope>mono::com::google::android::gms::security::ProviderInstaller_ProviderInstallListenerImplementor</scope><name>monodroidAddReference</name></member>
+      <member refid="classmono_1_1com_1_1google_1_1android_1_1gms_1_1security_1_1_provider_installer___provider_install_listener_implementor_1acbb785fea93e91f3f2f0e783a6ff75f2" prot="public" virt="non-virtual"><scope>mono::com::google::android::gms::security::ProviderInstaller_ProviderInstallListenerImplementor</scope><name>monodroidAddReference</name></member>
+      <member refid="classmono_1_1com_1_1google_1_1android_1_1gms_1_1security_1_1_provider_installer___provider_install_listener_implementor_1acbb785fea93e91f3f2f0e783a6ff75f2" prot="public" virt="non-virtual"><scope>mono::com::google::android::gms::security::ProviderInstaller_ProviderInstallListenerImplementor</scope><name>monodroidAddReference</name></member>
+      <member refid="classmono_1_1com_1_1google_1_1android_1_1gms_1_1security_1_1_provider_installer___provider_install_listener_implementor_1a3ff43f2ea3c21f514ba3cf34ea685bf7" prot="public" virt="non-virtual"><scope>mono::com::google::android::gms::security::ProviderInstaller_ProviderInstallListenerImplementor</scope><name>monodroidClearReferences</name></member>
+      <member refid="classmono_1_1com_1_1google_1_1android_1_1gms_1_1security_1_1_provider_installer___provider_install_listener_implementor_1a3ff43f2ea3c21f514ba3cf34ea685bf7" prot="public" virt="non-virtual"><scope>mono::com::google::android::gms::security::ProviderInstaller_ProviderInstallListenerImplementor</scope><name>monodroidClearReferences</name></member>
+      <member refid="classmono_1_1com_1_1google_1_1android_1_1gms_1_1security_1_1_provider_installer___provider_install_listener_implementor_1a3ff43f2ea3c21f514ba3cf34ea685bf7" prot="public" virt="non-virtual"><scope>mono::com::google::android::gms::security::ProviderInstaller_ProviderInstallListenerImplementor</scope><name>monodroidClearReferences</name></member>
+      <member refid="classmono_1_1com_1_1google_1_1android_1_1gms_1_1security_1_1_provider_installer___provider_install_listener_implementor_1a3ff43f2ea3c21f514ba3cf34ea685bf7" prot="public" virt="non-virtual"><scope>mono::com::google::android::gms::security::ProviderInstaller_ProviderInstallListenerImplementor</scope><name>monodroidClearReferences</name></member>
+      <member refid="classmono_1_1com_1_1google_1_1android_1_1gms_1_1security_1_1_provider_installer___provider_install_listener_implementor_1a5a9480039a6d29471dee82e77351769b" prot="private" virt="non-virtual"><scope>mono::com::google::android::gms::security::ProviderInstaller_ProviderInstallListenerImplementor</scope><name>n_onProviderInstalled</name></member>
+      <member refid="classmono_1_1com_1_1google_1_1android_1_1gms_1_1security_1_1_provider_installer___provider_install_listener_implementor_1a5a9480039a6d29471dee82e77351769b" prot="private" virt="non-virtual"><scope>mono::com::google::android::gms::security::ProviderInstaller_ProviderInstallListenerImplementor</scope><name>n_onProviderInstalled</name></member>
+      <member refid="classmono_1_1com_1_1google_1_1android_1_1gms_1_1security_1_1_provider_installer___provider_install_listener_implementor_1a5a9480039a6d29471dee82e77351769b" prot="private" virt="non-virtual"><scope>mono::com::google::android::gms::security::ProviderInstaller_ProviderInstallListenerImplementor</scope><name>n_onProviderInstalled</name></member>
+      <member refid="classmono_1_1com_1_1google_1_1android_1_1gms_1_1security_1_1_provider_installer___provider_install_listener_implementor_1a5a9480039a6d29471dee82e77351769b" prot="private" virt="non-virtual"><scope>mono::com::google::android::gms::security::ProviderInstaller_ProviderInstallListenerImplementor</scope><name>n_onProviderInstalled</name></member>
+      <member refid="classmono_1_1com_1_1google_1_1android_1_1gms_1_1security_1_1_provider_installer___provider_install_listener_implementor_1a3efcd9130caeb7c7d0a25bccf5732886" prot="private" virt="non-virtual"><scope>mono::com::google::android::gms::security::ProviderInstaller_ProviderInstallListenerImplementor</scope><name>n_onProviderInstallFailed</name></member>
+      <member refid="classmono_1_1com_1_1google_1_1android_1_1gms_1_1security_1_1_provider_installer___provider_install_listener_implementor_1a3efcd9130caeb7c7d0a25bccf5732886" prot="private" virt="non-virtual"><scope>mono::com::google::android::gms::security::ProviderInstaller_ProviderInstallListenerImplementor</scope><name>n_onProviderInstallFailed</name></member>
+      <member refid="classmono_1_1com_1_1google_1_1android_1_1gms_1_1security_1_1_provider_installer___provider_install_listener_implementor_1a3efcd9130caeb7c7d0a25bccf5732886" prot="private" virt="non-virtual"><scope>mono::com::google::android::gms::security::ProviderInstaller_ProviderInstallListenerImplementor</scope><name>n_onProviderInstallFailed</name></member>
+      <member refid="classmono_1_1com_1_1google_1_1android_1_1gms_1_1security_1_1_provider_installer___provider_install_listener_implementor_1a3efcd9130caeb7c7d0a25bccf5732886" prot="private" virt="non-virtual"><scope>mono::com::google::android::gms::security::ProviderInstaller_ProviderInstallListenerImplementor</scope><name>n_onProviderInstallFailed</name></member>
+      <member refid="classmono_1_1com_1_1google_1_1android_1_1gms_1_1security_1_1_provider_installer___provider_install_listener_implementor_1a9be6f5afc5630cbec9097d1e8cfeddf5" prot="public" virt="non-virtual"><scope>mono::com::google::android::gms::security::ProviderInstaller_ProviderInstallListenerImplementor</scope><name>onProviderInstalled</name></member>
+      <member refid="classmono_1_1com_1_1google_1_1android_1_1gms_1_1security_1_1_provider_installer___provider_install_listener_implementor_1a9be6f5afc5630cbec9097d1e8cfeddf5" prot="public" virt="non-virtual"><scope>mono::com::google::android::gms::security::ProviderInstaller_ProviderInstallListenerImplementor</scope><name>onProviderInstalled</name></member>
+      <member refid="classmono_1_1com_1_1google_1_1android_1_1gms_1_1security_1_1_provider_installer___provider_install_listener_implementor_1a9be6f5afc5630cbec9097d1e8cfeddf5" prot="public" virt="non-virtual"><scope>mono::com::google::android::gms::security::ProviderInstaller_ProviderInstallListenerImplementor</scope><name>onProviderInstalled</name></member>
+      <member refid="classmono_1_1com_1_1google_1_1android_1_1gms_1_1security_1_1_provider_installer___provider_install_listener_implementor_1a9be6f5afc5630cbec9097d1e8cfeddf5" prot="public" virt="non-virtual"><scope>mono::com::google::android::gms::security::ProviderInstaller_ProviderInstallListenerImplementor</scope><name>onProviderInstalled</name></member>
+      <member refid="classmono_1_1com_1_1google_1_1android_1_1gms_1_1security_1_1_provider_installer___provider_install_listener_implementor_1ad98f798cdf2487bba928d38ad9bdbb5d" prot="public" virt="non-virtual"><scope>mono::com::google::android::gms::security::ProviderInstaller_ProviderInstallListenerImplementor</scope><name>onProviderInstallFailed</name></member>
+      <member refid="classmono_1_1com_1_1google_1_1android_1_1gms_1_1security_1_1_provider_installer___provider_install_listener_implementor_1ad98f798cdf2487bba928d38ad9bdbb5d" prot="public" virt="non-virtual"><scope>mono::com::google::android::gms::security::ProviderInstaller_ProviderInstallListenerImplementor</scope><name>onProviderInstallFailed</name></member>
+      <member refid="classmono_1_1com_1_1google_1_1android_1_1gms_1_1security_1_1_provider_installer___provider_install_listener_implementor_1ad98f798cdf2487bba928d38ad9bdbb5d" prot="public" virt="non-virtual"><scope>mono::com::google::android::gms::security::ProviderInstaller_ProviderInstallListenerImplementor</scope><name>onProviderInstallFailed</name></member>
+      <member refid="classmono_1_1com_1_1google_1_1android_1_1gms_1_1security_1_1_provider_installer___provider_install_listener_implementor_1ad98f798cdf2487bba928d38ad9bdbb5d" prot="public" virt="non-virtual"><scope>mono::com::google::android::gms::security::ProviderInstaller_ProviderInstallListenerImplementor</scope><name>onProviderInstallFailed</name></member>
+      <member refid="classmono_1_1com_1_1google_1_1android_1_1gms_1_1security_1_1_provider_installer___provider_install_listener_implementor_1a6074aecdc3fb018eeff8efc272f61b71" prot="public" virt="non-virtual"><scope>mono::com::google::android::gms::security::ProviderInstaller_ProviderInstallListenerImplementor</scope><name>ProviderInstaller_ProviderInstallListenerImplementor</name></member>
+      <member refid="classmono_1_1com_1_1google_1_1android_1_1gms_1_1security_1_1_provider_installer___provider_install_listener_implementor_1a6074aecdc3fb018eeff8efc272f61b71" prot="public" virt="non-virtual"><scope>mono::com::google::android::gms::security::ProviderInstaller_ProviderInstallListenerImplementor</scope><name>ProviderInstaller_ProviderInstallListenerImplementor</name></member>
+      <member refid="classmono_1_1com_1_1google_1_1android_1_1gms_1_1security_1_1_provider_installer___provider_install_listener_implementor_1a6074aecdc3fb018eeff8efc272f61b71" prot="public" virt="non-virtual"><scope>mono::com::google::android::gms::security::ProviderInstaller_ProviderInstallListenerImplementor</scope><name>ProviderInstaller_ProviderInstallListenerImplementor</name></member>
+      <member refid="classmono_1_1com_1_1google_1_1android_1_1gms_1_1security_1_1_provider_installer___provider_install_listener_implementor_1a6074aecdc3fb018eeff8efc272f61b71" prot="public" virt="non-virtual"><scope>mono::com::google::android::gms::security::ProviderInstaller_ProviderInstallListenerImplementor</scope><name>ProviderInstaller_ProviderInstallListenerImplementor</name></member>
+      <member refid="classmono_1_1com_1_1google_1_1android_1_1gms_1_1security_1_1_provider_installer___provider_install_listener_implementor_1a70cb3f949bf7e6b7f695688f8a3ee123" prot="private" virt="non-virtual"><scope>mono::com::google::android::gms::security::ProviderInstaller_ProviderInstallListenerImplementor</scope><name>refList</name></member>
+    </listofallmembers>
+  </compounddef>
+</doxygen>

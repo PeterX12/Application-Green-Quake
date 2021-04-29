@@ -1,0 +1,79 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.9.1" xml:lang="en-US">
+  <compounddef id="_release_2110_2android_2src_2crc643f46942d9dd1fff9_2_structured_items_view_adapter__2_8java" kind="file" language="Java">
+    <compoundname>StructuredItemsViewAdapter_2.java</compoundname>
+    <innerclass refid="classcrc643f46942d9dd1fff9_1_1_structured_items_view_adapter__2" prot="public">crc643f46942d9dd1fff9::StructuredItemsViewAdapter_2</innerclass>
+    <innernamespace refid="namespacecrc643f46942d9dd1fff9">crc643f46942d9dd1fff9</innernamespace>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <programlisting>
+<codeline lineno="1"><highlight class="keyword">package<sp/></highlight><highlight class="normal">crc643f46942d9dd1fff9;</highlight></codeline>
+<codeline lineno="2"><highlight class="normal"></highlight></codeline>
+<codeline lineno="3"><highlight class="normal"></highlight></codeline>
+<codeline lineno="4"><highlight class="normal"></highlight><highlight class="keyword">public</highlight><highlight class="normal"><sp/></highlight><highlight class="keyword">class<sp/></highlight><highlight class="normal">StructuredItemsViewAdapter_2</highlight></codeline>
+<codeline lineno="5"><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">extends</highlight><highlight class="normal"><sp/><ref refid="namespacecrc643f46942d9dd1fff9" kindref="compound">crc643f46942d9dd1fff9</ref>.ItemsViewAdapter_2</highlight></codeline>
+<codeline lineno="6"><highlight class="normal"><sp/><sp/><sp/><sp/>implements</highlight></codeline>
+<codeline lineno="7"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>mono.android.IGCUserPeer</highlight></codeline>
+<codeline lineno="8"><highlight class="normal">{</highlight></codeline>
+<codeline lineno="10"><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">public</highlight><highlight class="normal"><sp/></highlight><highlight class="keyword">static</highlight><highlight class="normal"><sp/></highlight><highlight class="keyword">final</highlight><highlight class="normal"><sp/>String<sp/><ref refid="classcrc643f46942d9dd1fff9_1_1_structured_items_view_adapter__2_1ad9a50008a53ad99981da5835e2d7e947" kindref="member">__md_methods</ref>;</highlight></codeline>
+<codeline lineno="11"><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">static</highlight><highlight class="normal"><sp/>{</highlight></codeline>
+<codeline lineno="12"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><ref refid="classcrc643f46942d9dd1fff9_1_1_structured_items_view_adapter__2_1ad9a50008a53ad99981da5835e2d7e947" kindref="member">__md_methods</ref><sp/>=<sp/></highlight></codeline>
+<codeline lineno="13"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="stringliteral">&quot;n_getItemViewType:(I)I:GetGetItemViewType_IHandler\n&quot;</highlight><highlight class="normal"><sp/>+</highlight></codeline>
+<codeline lineno="14"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="stringliteral">&quot;n_onCreateViewHolder:(Landroid/view/ViewGroup;I)Landroidx/recyclerview/widget/RecyclerView$ViewHolder;:GetOnCreateViewHolder_Landroid_view_ViewGroup_IHandler\n&quot;</highlight><highlight class="normal"><sp/>+</highlight></codeline>
+<codeline lineno="15"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="stringliteral">&quot;n_onBindViewHolder:(Landroidx/recyclerview/widget/RecyclerView$ViewHolder;I)V:GetOnBindViewHolder_Landroidx_recyclerview_widget_RecyclerView_ViewHolder_IHandler\n&quot;</highlight><highlight class="normal"><sp/>+</highlight></codeline>
+<codeline lineno="16"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="stringliteral">&quot;&quot;</highlight><highlight class="normal">;</highlight></codeline>
+<codeline lineno="17"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>mono.android.Runtime.register<sp/>(</highlight><highlight class="stringliteral">&quot;Xamarin.Forms.Platform.Android.StructuredItemsViewAdapter`2,<sp/>Xamarin.Forms.Platform.Android&quot;</highlight><highlight class="normal">,<sp/><ref refid="classcrc643f46942d9dd1fff9_1_1_structured_items_view_adapter__2_1a86a977862712bc53bb114dec638d25bc" kindref="member">StructuredItemsViewAdapter_2</ref>.class,<sp/><ref refid="classcrc643f46942d9dd1fff9_1_1_structured_items_view_adapter__2_1ad9a50008a53ad99981da5835e2d7e947" kindref="member">__md_methods</ref>);</highlight></codeline>
+<codeline lineno="18"><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline lineno="19"><highlight class="normal"></highlight></codeline>
+<codeline lineno="20"><highlight class="normal"></highlight></codeline>
+<codeline lineno="21" refid="classcrc643f46942d9dd1fff9_1_1_structured_items_view_adapter__2_1a86a977862712bc53bb114dec638d25bc" refkind="member"><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">public</highlight><highlight class="normal"><sp/><ref refid="classcrc643f46942d9dd1fff9_1_1_structured_items_view_adapter__2_1a86a977862712bc53bb114dec638d25bc" kindref="member">StructuredItemsViewAdapter_2</ref><sp/>()</highlight></codeline>
+<codeline lineno="22"><highlight class="normal"><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline lineno="23"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>super<sp/>();</highlight></codeline>
+<codeline lineno="24"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">if</highlight><highlight class="normal"><sp/>(getClass<sp/>()<sp/>==<sp/><ref refid="classcrc643f46942d9dd1fff9_1_1_structured_items_view_adapter__2" kindref="compound">StructuredItemsViewAdapter_2</ref>.class)</highlight></codeline>
+<codeline lineno="25"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>mono.android.TypeManager.Activate<sp/>(</highlight><highlight class="stringliteral">&quot;Xamarin.Forms.Platform.Android.StructuredItemsViewAdapter`2,<sp/>Xamarin.Forms.Platform.Android&quot;</highlight><highlight class="normal">,<sp/></highlight><highlight class="stringliteral">&quot;&quot;</highlight><highlight class="normal">,<sp/></highlight><highlight class="keyword">this</highlight><highlight class="normal">,<sp/></highlight><highlight class="keyword">new</highlight><highlight class="normal"><sp/>java.lang.Object[]<sp/>{<sp/><sp/>});</highlight></codeline>
+<codeline lineno="26"><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline lineno="27"><highlight class="normal"></highlight></codeline>
+<codeline lineno="28"><highlight class="normal"></highlight></codeline>
+<codeline lineno="29" refid="classcrc643f46942d9dd1fff9_1_1_structured_items_view_adapter__2_1a9fab525d8f9fbaaa5b475f49993325ac" refkind="member"><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">public</highlight><highlight class="normal"><sp/></highlight><highlight class="keywordtype">int</highlight><highlight class="normal"><sp/><ref refid="classcrc643f46942d9dd1fff9_1_1_structured_items_view_adapter__2_1a9fab525d8f9fbaaa5b475f49993325ac" kindref="member">getItemViewType</ref><sp/>(</highlight><highlight class="keywordtype">int</highlight><highlight class="normal"><sp/>p0)</highlight></codeline>
+<codeline lineno="30"><highlight class="normal"><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline lineno="31"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">return</highlight><highlight class="normal"><sp/>n_getItemViewType<sp/>(p0);</highlight></codeline>
+<codeline lineno="32"><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline lineno="33"><highlight class="normal"></highlight></codeline>
+<codeline lineno="34"><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">private</highlight><highlight class="normal"><sp/>native<sp/></highlight><highlight class="keywordtype">int</highlight><highlight class="normal"><sp/>n_getItemViewType<sp/>(</highlight><highlight class="keywordtype">int</highlight><highlight class="normal"><sp/>p0);</highlight></codeline>
+<codeline lineno="35"><highlight class="normal"></highlight></codeline>
+<codeline lineno="36"><highlight class="normal"></highlight></codeline>
+<codeline lineno="37" refid="classcrc643f46942d9dd1fff9_1_1_structured_items_view_adapter__2_1a98557f6c8c8f1c86f21694fdf8b75d8c" refkind="member"><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">public</highlight><highlight class="normal"><sp/>androidx.recyclerview.widget.RecyclerView.ViewHolder<sp/><ref refid="classcrc643f46942d9dd1fff9_1_1_structured_items_view_adapter__2_1a98557f6c8c8f1c86f21694fdf8b75d8c" kindref="member">onCreateViewHolder</ref><sp/>(android.view.ViewGroup<sp/>p0,<sp/></highlight><highlight class="keywordtype">int</highlight><highlight class="normal"><sp/>p1)</highlight></codeline>
+<codeline lineno="38"><highlight class="normal"><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline lineno="39"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">return</highlight><highlight class="normal"><sp/>n_onCreateViewHolder<sp/>(p0,<sp/>p1);</highlight></codeline>
+<codeline lineno="40"><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline lineno="41"><highlight class="normal"></highlight></codeline>
+<codeline lineno="42"><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">private</highlight><highlight class="normal"><sp/>native<sp/>androidx.recyclerview.widget.RecyclerView.ViewHolder<sp/>n_onCreateViewHolder<sp/>(android.view.ViewGroup<sp/>p0,<sp/></highlight><highlight class="keywordtype">int</highlight><highlight class="normal"><sp/>p1);</highlight></codeline>
+<codeline lineno="43"><highlight class="normal"></highlight></codeline>
+<codeline lineno="44"><highlight class="normal"></highlight></codeline>
+<codeline lineno="45" refid="classcrc643f46942d9dd1fff9_1_1_structured_items_view_adapter__2_1a6b390e9ebb769fb561186d9780be6d64" refkind="member"><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">public</highlight><highlight class="normal"><sp/></highlight><highlight class="keywordtype">void</highlight><highlight class="normal"><sp/><ref refid="classcrc643f46942d9dd1fff9_1_1_structured_items_view_adapter__2_1a6b390e9ebb769fb561186d9780be6d64" kindref="member">onBindViewHolder</ref><sp/>(androidx.recyclerview.widget.RecyclerView.ViewHolder<sp/>p0,<sp/></highlight><highlight class="keywordtype">int</highlight><highlight class="normal"><sp/>p1)</highlight></codeline>
+<codeline lineno="46"><highlight class="normal"><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline lineno="47"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>n_onBindViewHolder<sp/>(p0,<sp/>p1);</highlight></codeline>
+<codeline lineno="48"><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline lineno="49"><highlight class="normal"></highlight></codeline>
+<codeline lineno="50"><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">private</highlight><highlight class="normal"><sp/>native<sp/></highlight><highlight class="keywordtype">void</highlight><highlight class="normal"><sp/>n_onBindViewHolder<sp/>(androidx.recyclerview.widget.RecyclerView.ViewHolder<sp/>p0,<sp/></highlight><highlight class="keywordtype">int</highlight><highlight class="normal"><sp/>p1);</highlight></codeline>
+<codeline lineno="51"><highlight class="normal"></highlight></codeline>
+<codeline lineno="52"><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">private</highlight><highlight class="normal"><sp/>java.util.ArrayList<sp/>refList;</highlight></codeline>
+<codeline lineno="53" refid="classcrc643f46942d9dd1fff9_1_1_structured_items_view_adapter__2_1a902139eebf3f41bb3e466e00b91e2588" refkind="member"><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">public</highlight><highlight class="normal"><sp/></highlight><highlight class="keywordtype">void</highlight><highlight class="normal"><sp/><ref refid="classcrc643f46942d9dd1fff9_1_1_structured_items_view_adapter__2_1a902139eebf3f41bb3e466e00b91e2588" kindref="member">monodroidAddReference</ref><sp/>(java.lang.Object<sp/>obj)</highlight></codeline>
+<codeline lineno="54"><highlight class="normal"><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline lineno="55"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">if</highlight><highlight class="normal"><sp/>(refList<sp/>==<sp/></highlight><highlight class="keyword">null</highlight><highlight class="normal">)</highlight></codeline>
+<codeline lineno="56"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>refList<sp/>=<sp/></highlight><highlight class="keyword">new</highlight><highlight class="normal"><sp/>java.util.ArrayList<sp/>();</highlight></codeline>
+<codeline lineno="57"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>refList.add<sp/>(obj);</highlight></codeline>
+<codeline lineno="58"><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline lineno="59"><highlight class="normal"></highlight></codeline>
+<codeline lineno="60" refid="classcrc643f46942d9dd1fff9_1_1_structured_items_view_adapter__2_1ab334f385412c896f907a504989535c36" refkind="member"><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">public</highlight><highlight class="normal"><sp/></highlight><highlight class="keywordtype">void</highlight><highlight class="normal"><sp/><ref refid="classcrc643f46942d9dd1fff9_1_1_structured_items_view_adapter__2_1ab334f385412c896f907a504989535c36" kindref="member">monodroidClearReferences</ref><sp/>()</highlight></codeline>
+<codeline lineno="61"><highlight class="normal"><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline lineno="62"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">if</highlight><highlight class="normal"><sp/>(refList<sp/>!=<sp/></highlight><highlight class="keyword">null</highlight><highlight class="normal">)</highlight></codeline>
+<codeline lineno="63"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>refList.clear<sp/>();</highlight></codeline>
+<codeline lineno="64"><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline lineno="65"><highlight class="normal">}</highlight></codeline>
+    </programlisting>
+    <location file="Application Green Quake.Android/obj/Release/110/android/src/crc643f46942d9dd1fff9/StructuredItemsViewAdapter_2.java"/>
+  </compounddef>
+</doxygen>

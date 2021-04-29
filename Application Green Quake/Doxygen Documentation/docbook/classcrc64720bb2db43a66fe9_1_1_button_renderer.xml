@@ -1,0 +1,406 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<section xmlns="http://docbook.org/ns/docbook" version="5.0" xmlns:xlink="http://www.w3.org/1999/xlink" xml:id="_classcrc64720bb2db43a66fe9_1_1_button_renderer" xml:lang="en-US">
+<title>crc64720bb2db43a66fe9.ButtonRenderer Class Reference</title>
+<indexterm><primary>crc64720bb2db43a66fe9.ButtonRenderer</primary></indexterm>
+Inheritance diagram for crc64720bb2db43a66fe9.ButtonRenderer:<para>
+    <informalfigure>
+        <mediaobject>
+            <imageobject>
+                <imagedata width="50%" align="center" valign="middle" scalefit="0" fileref="classcrc64720bb2db43a66fe9_1_1_button_renderer__inherit__graph.png"></imagedata>
+            </imageobject>
+        </mediaobject>
+    </informalfigure>
+</para>
+Collaboration diagram for crc64720bb2db43a66fe9.ButtonRenderer:<para>
+    <informalfigure>
+        <mediaobject>
+            <imageobject>
+                <imagedata width="50%" align="center" valign="middle" scalefit="0" fileref="classcrc64720bb2db43a66fe9_1_1_button_renderer__coll__graph.png"></imagedata>
+            </imageobject>
+        </mediaobject>
+    </informalfigure>
+</para>
+<simplesect>
+    <title>Public Member Functions    </title>
+        <itemizedlist>
+            <listitem><para><link linkend="_classcrc64720bb2db43a66fe9_1_1_button_renderer_1a1cd73012f6a18a6d6554767308c546ca">ButtonRenderer</link> (android.content.Context p0, android.util.AttributeSet p1, int p2)</para>
+</listitem>
+            <listitem><para><link linkend="_classcrc64720bb2db43a66fe9_1_1_button_renderer_1abc604c3494d6aa24e1333f64e1317e89">ButtonRenderer</link> (android.content.Context p0, android.util.AttributeSet p1)</para>
+</listitem>
+            <listitem><para><link linkend="_classcrc64720bb2db43a66fe9_1_1_button_renderer_1ada4bc0824afa30b7ee0adb4c79b3e676">ButtonRenderer</link> (android.content.Context p0)</para>
+</listitem>
+            <listitem><para>void <link linkend="_classcrc64720bb2db43a66fe9_1_1_button_renderer_1ae919cf63fc9c9dc31a3abcc5d2e874c3">onLayout</link> (boolean p0, int p1, int p2, int p3, int p4)</para>
+</listitem>
+            <listitem><para>void <link linkend="_classcrc64720bb2db43a66fe9_1_1_button_renderer_1abb4d3331e03259e3b4356eb3be0509ae">onViewAttachedToWindow</link> (android.view.View p0)</para>
+</listitem>
+            <listitem><para>void <link linkend="_classcrc64720bb2db43a66fe9_1_1_button_renderer_1a4e974061230d236c0cad514b63b0f24b">onViewDetachedFromWindow</link> (android.view.View p0)</para>
+</listitem>
+            <listitem><para>void <link linkend="_classcrc64720bb2db43a66fe9_1_1_button_renderer_1aba2c80a3a220754685a821545b8f50c5">onClick</link> (android.view.View p0)</para>
+</listitem>
+            <listitem><para>boolean <link linkend="_classcrc64720bb2db43a66fe9_1_1_button_renderer_1abf128b3c03571438be32ce230cb2b754">onTouch</link> (android.view.View p0, android.view.MotionEvent p1)</para>
+</listitem>
+            <listitem><para>void <link linkend="_classcrc64720bb2db43a66fe9_1_1_button_renderer_1adf1f41034c7453dca107268e40b98d89">monodroidAddReference</link> (java.lang.Object obj)</para>
+</listitem>
+            <listitem><para>void <link linkend="_classcrc64720bb2db43a66fe9_1_1_button_renderer_1ae4f8a63c4128de628fd40373ce45242c">monodroidClearReferences</link> ()</para>
+</listitem>
+            <listitem><para><link linkend="_classcrc64720bb2db43a66fe9_1_1_button_renderer_1a1cd73012f6a18a6d6554767308c546ca">ButtonRenderer</link> (android.content.Context p0, android.util.AttributeSet p1, int p2)</para>
+</listitem>
+            <listitem><para><link linkend="_classcrc64720bb2db43a66fe9_1_1_button_renderer_1abc604c3494d6aa24e1333f64e1317e89">ButtonRenderer</link> (android.content.Context p0, android.util.AttributeSet p1)</para>
+</listitem>
+            <listitem><para><link linkend="_classcrc64720bb2db43a66fe9_1_1_button_renderer_1ada4bc0824afa30b7ee0adb4c79b3e676">ButtonRenderer</link> (android.content.Context p0)</para>
+</listitem>
+            <listitem><para>void <link linkend="_classcrc64720bb2db43a66fe9_1_1_button_renderer_1ae919cf63fc9c9dc31a3abcc5d2e874c3">onLayout</link> (boolean p0, int p1, int p2, int p3, int p4)</para>
+</listitem>
+            <listitem><para>void <link linkend="_classcrc64720bb2db43a66fe9_1_1_button_renderer_1abb4d3331e03259e3b4356eb3be0509ae">onViewAttachedToWindow</link> (android.view.View p0)</para>
+</listitem>
+            <listitem><para>void <link linkend="_classcrc64720bb2db43a66fe9_1_1_button_renderer_1a4e974061230d236c0cad514b63b0f24b">onViewDetachedFromWindow</link> (android.view.View p0)</para>
+</listitem>
+            <listitem><para>void <link linkend="_classcrc64720bb2db43a66fe9_1_1_button_renderer_1aba2c80a3a220754685a821545b8f50c5">onClick</link> (android.view.View p0)</para>
+</listitem>
+            <listitem><para>boolean <link linkend="_classcrc64720bb2db43a66fe9_1_1_button_renderer_1abf128b3c03571438be32ce230cb2b754">onTouch</link> (android.view.View p0, android.view.MotionEvent p1)</para>
+</listitem>
+            <listitem><para>void <link linkend="_classcrc64720bb2db43a66fe9_1_1_button_renderer_1adf1f41034c7453dca107268e40b98d89">monodroidAddReference</link> (java.lang.Object obj)</para>
+</listitem>
+            <listitem><para>void <link linkend="_classcrc64720bb2db43a66fe9_1_1_button_renderer_1ae4f8a63c4128de628fd40373ce45242c">monodroidClearReferences</link> ()</para>
+</listitem>
+            <listitem><para><link linkend="_classcrc64720bb2db43a66fe9_1_1_button_renderer_1a1cd73012f6a18a6d6554767308c546ca">ButtonRenderer</link> (android.content.Context p0, android.util.AttributeSet p1, int p2)</para>
+</listitem>
+            <listitem><para><link linkend="_classcrc64720bb2db43a66fe9_1_1_button_renderer_1abc604c3494d6aa24e1333f64e1317e89">ButtonRenderer</link> (android.content.Context p0, android.util.AttributeSet p1)</para>
+</listitem>
+            <listitem><para><link linkend="_classcrc64720bb2db43a66fe9_1_1_button_renderer_1ada4bc0824afa30b7ee0adb4c79b3e676">ButtonRenderer</link> (android.content.Context p0)</para>
+</listitem>
+            <listitem><para>void <link linkend="_classcrc64720bb2db43a66fe9_1_1_button_renderer_1ae919cf63fc9c9dc31a3abcc5d2e874c3">onLayout</link> (boolean p0, int p1, int p2, int p3, int p4)</para>
+</listitem>
+            <listitem><para>void <link linkend="_classcrc64720bb2db43a66fe9_1_1_button_renderer_1abb4d3331e03259e3b4356eb3be0509ae">onViewAttachedToWindow</link> (android.view.View p0)</para>
+</listitem>
+            <listitem><para>void <link linkend="_classcrc64720bb2db43a66fe9_1_1_button_renderer_1a4e974061230d236c0cad514b63b0f24b">onViewDetachedFromWindow</link> (android.view.View p0)</para>
+</listitem>
+            <listitem><para>void <link linkend="_classcrc64720bb2db43a66fe9_1_1_button_renderer_1aba2c80a3a220754685a821545b8f50c5">onClick</link> (android.view.View p0)</para>
+</listitem>
+            <listitem><para>boolean <link linkend="_classcrc64720bb2db43a66fe9_1_1_button_renderer_1abf128b3c03571438be32ce230cb2b754">onTouch</link> (android.view.View p0, android.view.MotionEvent p1)</para>
+</listitem>
+            <listitem><para>void <link linkend="_classcrc64720bb2db43a66fe9_1_1_button_renderer_1adf1f41034c7453dca107268e40b98d89">monodroidAddReference</link> (java.lang.Object obj)</para>
+</listitem>
+            <listitem><para>void <link linkend="_classcrc64720bb2db43a66fe9_1_1_button_renderer_1ae4f8a63c4128de628fd40373ce45242c">monodroidClearReferences</link> ()</para>
+</listitem>
+            <listitem><para><link linkend="_classcrc64720bb2db43a66fe9_1_1_button_renderer_1a1cd73012f6a18a6d6554767308c546ca">ButtonRenderer</link> (android.content.Context p0, android.util.AttributeSet p1, int p2)</para>
+</listitem>
+            <listitem><para><link linkend="_classcrc64720bb2db43a66fe9_1_1_button_renderer_1abc604c3494d6aa24e1333f64e1317e89">ButtonRenderer</link> (android.content.Context p0, android.util.AttributeSet p1)</para>
+</listitem>
+            <listitem><para><link linkend="_classcrc64720bb2db43a66fe9_1_1_button_renderer_1ada4bc0824afa30b7ee0adb4c79b3e676">ButtonRenderer</link> (android.content.Context p0)</para>
+</listitem>
+            <listitem><para>void <link linkend="_classcrc64720bb2db43a66fe9_1_1_button_renderer_1ae919cf63fc9c9dc31a3abcc5d2e874c3">onLayout</link> (boolean p0, int p1, int p2, int p3, int p4)</para>
+</listitem>
+            <listitem><para>void <link linkend="_classcrc64720bb2db43a66fe9_1_1_button_renderer_1abb4d3331e03259e3b4356eb3be0509ae">onViewAttachedToWindow</link> (android.view.View p0)</para>
+</listitem>
+            <listitem><para>void <link linkend="_classcrc64720bb2db43a66fe9_1_1_button_renderer_1a4e974061230d236c0cad514b63b0f24b">onViewDetachedFromWindow</link> (android.view.View p0)</para>
+</listitem>
+            <listitem><para>void <link linkend="_classcrc64720bb2db43a66fe9_1_1_button_renderer_1aba2c80a3a220754685a821545b8f50c5">onClick</link> (android.view.View p0)</para>
+</listitem>
+            <listitem><para>boolean <link linkend="_classcrc64720bb2db43a66fe9_1_1_button_renderer_1abf128b3c03571438be32ce230cb2b754">onTouch</link> (android.view.View p0, android.view.MotionEvent p1)</para>
+</listitem>
+            <listitem><para>void <link linkend="_classcrc64720bb2db43a66fe9_1_1_button_renderer_1adf1f41034c7453dca107268e40b98d89">monodroidAddReference</link> (java.lang.Object obj)</para>
+</listitem>
+            <listitem><para>void <link linkend="_classcrc64720bb2db43a66fe9_1_1_button_renderer_1ae4f8a63c4128de628fd40373ce45242c">monodroidClearReferences</link> ()</para>
+</listitem>
+        </itemizedlist>
+</simplesect>
+<simplesect>
+    <title>Static Public Attributes    </title>
+        <itemizedlist>
+            <listitem><para>static final String <link linkend="_classcrc64720bb2db43a66fe9_1_1_button_renderer_1ad726ec68ef067e090e25138374174e14">__md_methods</link></para>
+</listitem>
+        </itemizedlist>
+</simplesect>
+<section>
+<title>Detailed Description</title>
+<para>
+Definition at line 4 of file ButtonRenderer.java.</para>
+</section>
+<section>
+<title>Constructor &amp; Destructor Documentation</title>
+<anchor xml:id="_classcrc64720bb2db43a66fe9_1_1_button_renderer_1a1cd73012f6a18a6d6554767308c546ca"/>    <section>
+    <title>ButtonRenderer()<computeroutput>[1/12]</computeroutput></title>
+<indexterm><primary>ButtonRenderer</primary><secondary>crc64720bb2db43a66fe9.ButtonRenderer</secondary></indexterm>
+<indexterm><primary>crc64720bb2db43a66fe9.ButtonRenderer</primary><secondary>ButtonRenderer</secondary></indexterm>
+<para><computeroutput>crc64720bb2db43a66fe9.ButtonRenderer.ButtonRenderer (android.content.Context p0, android.util.AttributeSet p1, int p2)</computeroutput></para><para>
+Definition at line 26 of file ButtonRenderer.java.</para>
+    </section><anchor xml:id="_classcrc64720bb2db43a66fe9_1_1_button_renderer_1abc604c3494d6aa24e1333f64e1317e89"/>    <section>
+    <title>ButtonRenderer()<computeroutput>[2/12]</computeroutput></title>
+<indexterm><primary>ButtonRenderer</primary><secondary>crc64720bb2db43a66fe9.ButtonRenderer</secondary></indexterm>
+<indexterm><primary>crc64720bb2db43a66fe9.ButtonRenderer</primary><secondary>ButtonRenderer</secondary></indexterm>
+<para><computeroutput>crc64720bb2db43a66fe9.ButtonRenderer.ButtonRenderer (android.content.Context p0, android.util.AttributeSet p1)</computeroutput></para><para>
+Definition at line 34 of file ButtonRenderer.java.</para>
+    </section><anchor xml:id="_classcrc64720bb2db43a66fe9_1_1_button_renderer_1ada4bc0824afa30b7ee0adb4c79b3e676"/>    <section>
+    <title>ButtonRenderer()<computeroutput>[3/12]</computeroutput></title>
+<indexterm><primary>ButtonRenderer</primary><secondary>crc64720bb2db43a66fe9.ButtonRenderer</secondary></indexterm>
+<indexterm><primary>crc64720bb2db43a66fe9.ButtonRenderer</primary><secondary>ButtonRenderer</secondary></indexterm>
+<para><computeroutput>crc64720bb2db43a66fe9.ButtonRenderer.ButtonRenderer (android.content.Context p0)</computeroutput></para><para>
+Definition at line 42 of file ButtonRenderer.java.</para>
+    </section><anchor xml:id="_classcrc64720bb2db43a66fe9_1_1_button_renderer_1a1cd73012f6a18a6d6554767308c546ca"/>    <section>
+    <title>ButtonRenderer()<computeroutput>[4/12]</computeroutput></title>
+<indexterm><primary>ButtonRenderer</primary><secondary>crc64720bb2db43a66fe9.ButtonRenderer</secondary></indexterm>
+<indexterm><primary>crc64720bb2db43a66fe9.ButtonRenderer</primary><secondary>ButtonRenderer</secondary></indexterm>
+<para><computeroutput>crc64720bb2db43a66fe9.ButtonRenderer.ButtonRenderer (android.content.Context p0, android.util.AttributeSet p1, int p2)</computeroutput></para><para>
+Definition at line 26 of file ButtonRenderer.java.</para>
+    </section><anchor xml:id="_classcrc64720bb2db43a66fe9_1_1_button_renderer_1abc604c3494d6aa24e1333f64e1317e89"/>    <section>
+    <title>ButtonRenderer()<computeroutput>[5/12]</computeroutput></title>
+<indexterm><primary>ButtonRenderer</primary><secondary>crc64720bb2db43a66fe9.ButtonRenderer</secondary></indexterm>
+<indexterm><primary>crc64720bb2db43a66fe9.ButtonRenderer</primary><secondary>ButtonRenderer</secondary></indexterm>
+<para><computeroutput>crc64720bb2db43a66fe9.ButtonRenderer.ButtonRenderer (android.content.Context p0, android.util.AttributeSet p1)</computeroutput></para><para>
+Definition at line 34 of file ButtonRenderer.java.</para>
+    </section><anchor xml:id="_classcrc64720bb2db43a66fe9_1_1_button_renderer_1ada4bc0824afa30b7ee0adb4c79b3e676"/>    <section>
+    <title>ButtonRenderer()<computeroutput>[6/12]</computeroutput></title>
+<indexterm><primary>ButtonRenderer</primary><secondary>crc64720bb2db43a66fe9.ButtonRenderer</secondary></indexterm>
+<indexterm><primary>crc64720bb2db43a66fe9.ButtonRenderer</primary><secondary>ButtonRenderer</secondary></indexterm>
+<para><computeroutput>crc64720bb2db43a66fe9.ButtonRenderer.ButtonRenderer (android.content.Context p0)</computeroutput></para><para>
+Definition at line 42 of file ButtonRenderer.java.</para>
+    </section><anchor xml:id="_classcrc64720bb2db43a66fe9_1_1_button_renderer_1a1cd73012f6a18a6d6554767308c546ca"/>    <section>
+    <title>ButtonRenderer()<computeroutput>[7/12]</computeroutput></title>
+<indexterm><primary>ButtonRenderer</primary><secondary>crc64720bb2db43a66fe9.ButtonRenderer</secondary></indexterm>
+<indexterm><primary>crc64720bb2db43a66fe9.ButtonRenderer</primary><secondary>ButtonRenderer</secondary></indexterm>
+<para><computeroutput>crc64720bb2db43a66fe9.ButtonRenderer.ButtonRenderer (android.content.Context p0, android.util.AttributeSet p1, int p2)</computeroutput></para><para>
+Definition at line 26 of file ButtonRenderer.java.</para>
+    </section><anchor xml:id="_classcrc64720bb2db43a66fe9_1_1_button_renderer_1abc604c3494d6aa24e1333f64e1317e89"/>    <section>
+    <title>ButtonRenderer()<computeroutput>[8/12]</computeroutput></title>
+<indexterm><primary>ButtonRenderer</primary><secondary>crc64720bb2db43a66fe9.ButtonRenderer</secondary></indexterm>
+<indexterm><primary>crc64720bb2db43a66fe9.ButtonRenderer</primary><secondary>ButtonRenderer</secondary></indexterm>
+<para><computeroutput>crc64720bb2db43a66fe9.ButtonRenderer.ButtonRenderer (android.content.Context p0, android.util.AttributeSet p1)</computeroutput></para><para>
+Definition at line 34 of file ButtonRenderer.java.</para>
+    </section><anchor xml:id="_classcrc64720bb2db43a66fe9_1_1_button_renderer_1ada4bc0824afa30b7ee0adb4c79b3e676"/>    <section>
+    <title>ButtonRenderer()<computeroutput>[9/12]</computeroutput></title>
+<indexterm><primary>ButtonRenderer</primary><secondary>crc64720bb2db43a66fe9.ButtonRenderer</secondary></indexterm>
+<indexterm><primary>crc64720bb2db43a66fe9.ButtonRenderer</primary><secondary>ButtonRenderer</secondary></indexterm>
+<para><computeroutput>crc64720bb2db43a66fe9.ButtonRenderer.ButtonRenderer (android.content.Context p0)</computeroutput></para><para>
+Definition at line 42 of file ButtonRenderer.java.</para>
+    </section><anchor xml:id="_classcrc64720bb2db43a66fe9_1_1_button_renderer_1a1cd73012f6a18a6d6554767308c546ca"/>    <section>
+    <title>ButtonRenderer()<computeroutput>[10/12]</computeroutput></title>
+<indexterm><primary>ButtonRenderer</primary><secondary>crc64720bb2db43a66fe9.ButtonRenderer</secondary></indexterm>
+<indexterm><primary>crc64720bb2db43a66fe9.ButtonRenderer</primary><secondary>ButtonRenderer</secondary></indexterm>
+<para><computeroutput>crc64720bb2db43a66fe9.ButtonRenderer.ButtonRenderer (android.content.Context p0, android.util.AttributeSet p1, int p2)</computeroutput></para><para>
+Definition at line 26 of file ButtonRenderer.java.</para>
+    </section><anchor xml:id="_classcrc64720bb2db43a66fe9_1_1_button_renderer_1abc604c3494d6aa24e1333f64e1317e89"/>    <section>
+    <title>ButtonRenderer()<computeroutput>[11/12]</computeroutput></title>
+<indexterm><primary>ButtonRenderer</primary><secondary>crc64720bb2db43a66fe9.ButtonRenderer</secondary></indexterm>
+<indexterm><primary>crc64720bb2db43a66fe9.ButtonRenderer</primary><secondary>ButtonRenderer</secondary></indexterm>
+<para><computeroutput>crc64720bb2db43a66fe9.ButtonRenderer.ButtonRenderer (android.content.Context p0, android.util.AttributeSet p1)</computeroutput></para><para>
+Definition at line 34 of file ButtonRenderer.java.</para>
+    </section><anchor xml:id="_classcrc64720bb2db43a66fe9_1_1_button_renderer_1ada4bc0824afa30b7ee0adb4c79b3e676"/>    <section>
+    <title>ButtonRenderer()<computeroutput>[12/12]</computeroutput></title>
+<indexterm><primary>ButtonRenderer</primary><secondary>crc64720bb2db43a66fe9.ButtonRenderer</secondary></indexterm>
+<indexterm><primary>crc64720bb2db43a66fe9.ButtonRenderer</primary><secondary>ButtonRenderer</secondary></indexterm>
+<para><computeroutput>crc64720bb2db43a66fe9.ButtonRenderer.ButtonRenderer (android.content.Context p0)</computeroutput></para><para>
+Definition at line 42 of file ButtonRenderer.java.</para>
+</section>
+</section>
+<section>
+<title>Member Function Documentation</title>
+<anchor xml:id="_classcrc64720bb2db43a66fe9_1_1_button_renderer_1adf1f41034c7453dca107268e40b98d89"/>    <section>
+    <title>monodroidAddReference()<computeroutput>[1/4]</computeroutput></title>
+<indexterm><primary>monodroidAddReference</primary><secondary>crc64720bb2db43a66fe9.ButtonRenderer</secondary></indexterm>
+<indexterm><primary>crc64720bb2db43a66fe9.ButtonRenderer</primary><secondary>monodroidAddReference</secondary></indexterm>
+<para><computeroutput>void crc64720bb2db43a66fe9.ButtonRenderer.monodroidAddReference (java.lang.Object obj)</computeroutput></para><para>
+Reimplemented from <link linkend="_classcrc64720bb2db43a66fe9_1_1_view_renderer__2_1a39cc74f26fce43b835aa1301ac828dc0">crc64720bb2db43a66fe9.ViewRenderer_2</link>.</para>
+<para>
+Definition at line 90 of file ButtonRenderer.java.</para>
+    </section><anchor xml:id="_classcrc64720bb2db43a66fe9_1_1_button_renderer_1adf1f41034c7453dca107268e40b98d89"/>    <section>
+    <title>monodroidAddReference()<computeroutput>[2/4]</computeroutput></title>
+<indexterm><primary>monodroidAddReference</primary><secondary>crc64720bb2db43a66fe9.ButtonRenderer</secondary></indexterm>
+<indexterm><primary>crc64720bb2db43a66fe9.ButtonRenderer</primary><secondary>monodroidAddReference</secondary></indexterm>
+<para><computeroutput>void crc64720bb2db43a66fe9.ButtonRenderer.monodroidAddReference (java.lang.Object obj)</computeroutput></para><para>
+Reimplemented from <link linkend="_classcrc64720bb2db43a66fe9_1_1_view_renderer__2_1a39cc74f26fce43b835aa1301ac828dc0">crc64720bb2db43a66fe9.ViewRenderer_2</link>.</para>
+<para>
+Definition at line 90 of file ButtonRenderer.java.</para>
+    </section><anchor xml:id="_classcrc64720bb2db43a66fe9_1_1_button_renderer_1adf1f41034c7453dca107268e40b98d89"/>    <section>
+    <title>monodroidAddReference()<computeroutput>[3/4]</computeroutput></title>
+<indexterm><primary>monodroidAddReference</primary><secondary>crc64720bb2db43a66fe9.ButtonRenderer</secondary></indexterm>
+<indexterm><primary>crc64720bb2db43a66fe9.ButtonRenderer</primary><secondary>monodroidAddReference</secondary></indexterm>
+<para><computeroutput>void crc64720bb2db43a66fe9.ButtonRenderer.monodroidAddReference (java.lang.Object obj)</computeroutput></para><para>
+Reimplemented from <link linkend="_classcrc64720bb2db43a66fe9_1_1_view_renderer__2_1a39cc74f26fce43b835aa1301ac828dc0">crc64720bb2db43a66fe9.ViewRenderer_2</link>.</para>
+<para>
+Definition at line 90 of file ButtonRenderer.java.</para>
+    </section><anchor xml:id="_classcrc64720bb2db43a66fe9_1_1_button_renderer_1adf1f41034c7453dca107268e40b98d89"/>    <section>
+    <title>monodroidAddReference()<computeroutput>[4/4]</computeroutput></title>
+<indexterm><primary>monodroidAddReference</primary><secondary>crc64720bb2db43a66fe9.ButtonRenderer</secondary></indexterm>
+<indexterm><primary>crc64720bb2db43a66fe9.ButtonRenderer</primary><secondary>monodroidAddReference</secondary></indexterm>
+<para><computeroutput>void crc64720bb2db43a66fe9.ButtonRenderer.monodroidAddReference (java.lang.Object obj)</computeroutput></para><para>
+Reimplemented from <link linkend="_classcrc64720bb2db43a66fe9_1_1_view_renderer__2_1a39cc74f26fce43b835aa1301ac828dc0">crc64720bb2db43a66fe9.ViewRenderer_2</link>.</para>
+<para>
+Definition at line 90 of file ButtonRenderer.java.</para>
+    </section><anchor xml:id="_classcrc64720bb2db43a66fe9_1_1_button_renderer_1ae4f8a63c4128de628fd40373ce45242c"/>    <section>
+    <title>monodroidClearReferences()<computeroutput>[1/4]</computeroutput></title>
+<indexterm><primary>monodroidClearReferences</primary><secondary>crc64720bb2db43a66fe9.ButtonRenderer</secondary></indexterm>
+<indexterm><primary>crc64720bb2db43a66fe9.ButtonRenderer</primary><secondary>monodroidClearReferences</secondary></indexterm>
+<para><computeroutput>void crc64720bb2db43a66fe9.ButtonRenderer.monodroidClearReferences ( )</computeroutput></para><para>
+Reimplemented from <link linkend="_classcrc64720bb2db43a66fe9_1_1_view_renderer__2_1a24d066faa636faa75c999abaf2f9c7ca">crc64720bb2db43a66fe9.ViewRenderer_2</link>.</para>
+<para>
+Definition at line 97 of file ButtonRenderer.java.</para>
+    </section><anchor xml:id="_classcrc64720bb2db43a66fe9_1_1_button_renderer_1ae4f8a63c4128de628fd40373ce45242c"/>    <section>
+    <title>monodroidClearReferences()<computeroutput>[2/4]</computeroutput></title>
+<indexterm><primary>monodroidClearReferences</primary><secondary>crc64720bb2db43a66fe9.ButtonRenderer</secondary></indexterm>
+<indexterm><primary>crc64720bb2db43a66fe9.ButtonRenderer</primary><secondary>monodroidClearReferences</secondary></indexterm>
+<para><computeroutput>void crc64720bb2db43a66fe9.ButtonRenderer.monodroidClearReferences ( )</computeroutput></para><para>
+Reimplemented from <link linkend="_classcrc64720bb2db43a66fe9_1_1_view_renderer__2_1a24d066faa636faa75c999abaf2f9c7ca">crc64720bb2db43a66fe9.ViewRenderer_2</link>.</para>
+<para>
+Definition at line 97 of file ButtonRenderer.java.</para>
+    </section><anchor xml:id="_classcrc64720bb2db43a66fe9_1_1_button_renderer_1ae4f8a63c4128de628fd40373ce45242c"/>    <section>
+    <title>monodroidClearReferences()<computeroutput>[3/4]</computeroutput></title>
+<indexterm><primary>monodroidClearReferences</primary><secondary>crc64720bb2db43a66fe9.ButtonRenderer</secondary></indexterm>
+<indexterm><primary>crc64720bb2db43a66fe9.ButtonRenderer</primary><secondary>monodroidClearReferences</secondary></indexterm>
+<para><computeroutput>void crc64720bb2db43a66fe9.ButtonRenderer.monodroidClearReferences ( )</computeroutput></para><para>
+Reimplemented from <link linkend="_classcrc64720bb2db43a66fe9_1_1_view_renderer__2_1a24d066faa636faa75c999abaf2f9c7ca">crc64720bb2db43a66fe9.ViewRenderer_2</link>.</para>
+<para>
+Definition at line 97 of file ButtonRenderer.java.</para>
+    </section><anchor xml:id="_classcrc64720bb2db43a66fe9_1_1_button_renderer_1ae4f8a63c4128de628fd40373ce45242c"/>    <section>
+    <title>monodroidClearReferences()<computeroutput>[4/4]</computeroutput></title>
+<indexterm><primary>monodroidClearReferences</primary><secondary>crc64720bb2db43a66fe9.ButtonRenderer</secondary></indexterm>
+<indexterm><primary>crc64720bb2db43a66fe9.ButtonRenderer</primary><secondary>monodroidClearReferences</secondary></indexterm>
+<para><computeroutput>void crc64720bb2db43a66fe9.ButtonRenderer.monodroidClearReferences ( )</computeroutput></para><para>
+Reimplemented from <link linkend="_classcrc64720bb2db43a66fe9_1_1_view_renderer__2_1a24d066faa636faa75c999abaf2f9c7ca">crc64720bb2db43a66fe9.ViewRenderer_2</link>.</para>
+<para>
+Definition at line 97 of file ButtonRenderer.java.</para>
+    </section><anchor xml:id="_classcrc64720bb2db43a66fe9_1_1_button_renderer_1aba2c80a3a220754685a821545b8f50c5"/>    <section>
+    <title>onClick()<computeroutput>[1/4]</computeroutput></title>
+<indexterm><primary>onClick</primary><secondary>crc64720bb2db43a66fe9.ButtonRenderer</secondary></indexterm>
+<indexterm><primary>crc64720bb2db43a66fe9.ButtonRenderer</primary><secondary>onClick</secondary></indexterm>
+<para><computeroutput>void crc64720bb2db43a66fe9.ButtonRenderer.onClick (android.view.View p0)</computeroutput></para><para>
+Definition at line 74 of file ButtonRenderer.java.</para>
+    </section><anchor xml:id="_classcrc64720bb2db43a66fe9_1_1_button_renderer_1aba2c80a3a220754685a821545b8f50c5"/>    <section>
+    <title>onClick()<computeroutput>[2/4]</computeroutput></title>
+<indexterm><primary>onClick</primary><secondary>crc64720bb2db43a66fe9.ButtonRenderer</secondary></indexterm>
+<indexterm><primary>crc64720bb2db43a66fe9.ButtonRenderer</primary><secondary>onClick</secondary></indexterm>
+<para><computeroutput>void crc64720bb2db43a66fe9.ButtonRenderer.onClick (android.view.View p0)</computeroutput></para><para>
+Definition at line 74 of file ButtonRenderer.java.</para>
+    </section><anchor xml:id="_classcrc64720bb2db43a66fe9_1_1_button_renderer_1aba2c80a3a220754685a821545b8f50c5"/>    <section>
+    <title>onClick()<computeroutput>[3/4]</computeroutput></title>
+<indexterm><primary>onClick</primary><secondary>crc64720bb2db43a66fe9.ButtonRenderer</secondary></indexterm>
+<indexterm><primary>crc64720bb2db43a66fe9.ButtonRenderer</primary><secondary>onClick</secondary></indexterm>
+<para><computeroutput>void crc64720bb2db43a66fe9.ButtonRenderer.onClick (android.view.View p0)</computeroutput></para><para>
+Definition at line 74 of file ButtonRenderer.java.</para>
+    </section><anchor xml:id="_classcrc64720bb2db43a66fe9_1_1_button_renderer_1aba2c80a3a220754685a821545b8f50c5"/>    <section>
+    <title>onClick()<computeroutput>[4/4]</computeroutput></title>
+<indexterm><primary>onClick</primary><secondary>crc64720bb2db43a66fe9.ButtonRenderer</secondary></indexterm>
+<indexterm><primary>crc64720bb2db43a66fe9.ButtonRenderer</primary><secondary>onClick</secondary></indexterm>
+<para><computeroutput>void crc64720bb2db43a66fe9.ButtonRenderer.onClick (android.view.View p0)</computeroutput></para><para>
+Definition at line 74 of file ButtonRenderer.java.</para>
+    </section><anchor xml:id="_classcrc64720bb2db43a66fe9_1_1_button_renderer_1ae919cf63fc9c9dc31a3abcc5d2e874c3"/>    <section>
+    <title>onLayout()<computeroutput>[1/4]</computeroutput></title>
+<indexterm><primary>onLayout</primary><secondary>crc64720bb2db43a66fe9.ButtonRenderer</secondary></indexterm>
+<indexterm><primary>crc64720bb2db43a66fe9.ButtonRenderer</primary><secondary>onLayout</secondary></indexterm>
+<para><computeroutput>void crc64720bb2db43a66fe9.ButtonRenderer.onLayout (boolean p0, int p1, int p2, int p3, int p4)</computeroutput></para><para>
+Reimplemented from <link linkend="_classcrc643f46942d9dd1fff9_1_1_view_renderer__2_1a1e8de2d40d787901b8f14839810a5721">crc643f46942d9dd1fff9.ViewRenderer_2</link>.</para>
+<para>
+Definition at line 50 of file ButtonRenderer.java.</para>
+    </section><anchor xml:id="_classcrc64720bb2db43a66fe9_1_1_button_renderer_1ae919cf63fc9c9dc31a3abcc5d2e874c3"/>    <section>
+    <title>onLayout()<computeroutput>[2/4]</computeroutput></title>
+<indexterm><primary>onLayout</primary><secondary>crc64720bb2db43a66fe9.ButtonRenderer</secondary></indexterm>
+<indexterm><primary>crc64720bb2db43a66fe9.ButtonRenderer</primary><secondary>onLayout</secondary></indexterm>
+<para><computeroutput>void crc64720bb2db43a66fe9.ButtonRenderer.onLayout (boolean p0, int p1, int p2, int p3, int p4)</computeroutput></para><para>
+Reimplemented from <link linkend="_classcrc643f46942d9dd1fff9_1_1_view_renderer__2_1a1e8de2d40d787901b8f14839810a5721">crc643f46942d9dd1fff9.ViewRenderer_2</link>.</para>
+<para>
+Definition at line 50 of file ButtonRenderer.java.</para>
+    </section><anchor xml:id="_classcrc64720bb2db43a66fe9_1_1_button_renderer_1ae919cf63fc9c9dc31a3abcc5d2e874c3"/>    <section>
+    <title>onLayout()<computeroutput>[3/4]</computeroutput></title>
+<indexterm><primary>onLayout</primary><secondary>crc64720bb2db43a66fe9.ButtonRenderer</secondary></indexterm>
+<indexterm><primary>crc64720bb2db43a66fe9.ButtonRenderer</primary><secondary>onLayout</secondary></indexterm>
+<para><computeroutput>void crc64720bb2db43a66fe9.ButtonRenderer.onLayout (boolean p0, int p1, int p2, int p3, int p4)</computeroutput></para><para>
+Reimplemented from <link linkend="_classcrc643f46942d9dd1fff9_1_1_view_renderer__2_1a1e8de2d40d787901b8f14839810a5721">crc643f46942d9dd1fff9.ViewRenderer_2</link>.</para>
+<para>
+Definition at line 50 of file ButtonRenderer.java.</para>
+    </section><anchor xml:id="_classcrc64720bb2db43a66fe9_1_1_button_renderer_1ae919cf63fc9c9dc31a3abcc5d2e874c3"/>    <section>
+    <title>onLayout()<computeroutput>[4/4]</computeroutput></title>
+<indexterm><primary>onLayout</primary><secondary>crc64720bb2db43a66fe9.ButtonRenderer</secondary></indexterm>
+<indexterm><primary>crc64720bb2db43a66fe9.ButtonRenderer</primary><secondary>onLayout</secondary></indexterm>
+<para><computeroutput>void crc64720bb2db43a66fe9.ButtonRenderer.onLayout (boolean p0, int p1, int p2, int p3, int p4)</computeroutput></para><para>
+Reimplemented from <link linkend="_classcrc643f46942d9dd1fff9_1_1_view_renderer__2_1a1e8de2d40d787901b8f14839810a5721">crc643f46942d9dd1fff9.ViewRenderer_2</link>.</para>
+<para>
+Definition at line 50 of file ButtonRenderer.java.</para>
+    </section><anchor xml:id="_classcrc64720bb2db43a66fe9_1_1_button_renderer_1abf128b3c03571438be32ce230cb2b754"/>    <section>
+    <title>onTouch()<computeroutput>[1/4]</computeroutput></title>
+<indexterm><primary>onTouch</primary><secondary>crc64720bb2db43a66fe9.ButtonRenderer</secondary></indexterm>
+<indexterm><primary>crc64720bb2db43a66fe9.ButtonRenderer</primary><secondary>onTouch</secondary></indexterm>
+<para><computeroutput>boolean crc64720bb2db43a66fe9.ButtonRenderer.onTouch (android.view.View p0, android.view.MotionEvent p1)</computeroutput></para><para>
+Definition at line 82 of file ButtonRenderer.java.</para>
+    </section><anchor xml:id="_classcrc64720bb2db43a66fe9_1_1_button_renderer_1abf128b3c03571438be32ce230cb2b754"/>    <section>
+    <title>onTouch()<computeroutput>[2/4]</computeroutput></title>
+<indexterm><primary>onTouch</primary><secondary>crc64720bb2db43a66fe9.ButtonRenderer</secondary></indexterm>
+<indexterm><primary>crc64720bb2db43a66fe9.ButtonRenderer</primary><secondary>onTouch</secondary></indexterm>
+<para><computeroutput>boolean crc64720bb2db43a66fe9.ButtonRenderer.onTouch (android.view.View p0, android.view.MotionEvent p1)</computeroutput></para><para>
+Definition at line 82 of file ButtonRenderer.java.</para>
+    </section><anchor xml:id="_classcrc64720bb2db43a66fe9_1_1_button_renderer_1abf128b3c03571438be32ce230cb2b754"/>    <section>
+    <title>onTouch()<computeroutput>[3/4]</computeroutput></title>
+<indexterm><primary>onTouch</primary><secondary>crc64720bb2db43a66fe9.ButtonRenderer</secondary></indexterm>
+<indexterm><primary>crc64720bb2db43a66fe9.ButtonRenderer</primary><secondary>onTouch</secondary></indexterm>
+<para><computeroutput>boolean crc64720bb2db43a66fe9.ButtonRenderer.onTouch (android.view.View p0, android.view.MotionEvent p1)</computeroutput></para><para>
+Definition at line 82 of file ButtonRenderer.java.</para>
+    </section><anchor xml:id="_classcrc64720bb2db43a66fe9_1_1_button_renderer_1abf128b3c03571438be32ce230cb2b754"/>    <section>
+    <title>onTouch()<computeroutput>[4/4]</computeroutput></title>
+<indexterm><primary>onTouch</primary><secondary>crc64720bb2db43a66fe9.ButtonRenderer</secondary></indexterm>
+<indexterm><primary>crc64720bb2db43a66fe9.ButtonRenderer</primary><secondary>onTouch</secondary></indexterm>
+<para><computeroutput>boolean crc64720bb2db43a66fe9.ButtonRenderer.onTouch (android.view.View p0, android.view.MotionEvent p1)</computeroutput></para><para>
+Definition at line 82 of file ButtonRenderer.java.</para>
+    </section><anchor xml:id="_classcrc64720bb2db43a66fe9_1_1_button_renderer_1abb4d3331e03259e3b4356eb3be0509ae"/>    <section>
+    <title>onViewAttachedToWindow()<computeroutput>[1/4]</computeroutput></title>
+<indexterm><primary>onViewAttachedToWindow</primary><secondary>crc64720bb2db43a66fe9.ButtonRenderer</secondary></indexterm>
+<indexterm><primary>crc64720bb2db43a66fe9.ButtonRenderer</primary><secondary>onViewAttachedToWindow</secondary></indexterm>
+<para><computeroutput>void crc64720bb2db43a66fe9.ButtonRenderer.onViewAttachedToWindow (android.view.View p0)</computeroutput></para><para>
+Definition at line 58 of file ButtonRenderer.java.</para>
+    </section><anchor xml:id="_classcrc64720bb2db43a66fe9_1_1_button_renderer_1abb4d3331e03259e3b4356eb3be0509ae"/>    <section>
+    <title>onViewAttachedToWindow()<computeroutput>[2/4]</computeroutput></title>
+<indexterm><primary>onViewAttachedToWindow</primary><secondary>crc64720bb2db43a66fe9.ButtonRenderer</secondary></indexterm>
+<indexterm><primary>crc64720bb2db43a66fe9.ButtonRenderer</primary><secondary>onViewAttachedToWindow</secondary></indexterm>
+<para><computeroutput>void crc64720bb2db43a66fe9.ButtonRenderer.onViewAttachedToWindow (android.view.View p0)</computeroutput></para><para>
+Definition at line 58 of file ButtonRenderer.java.</para>
+    </section><anchor xml:id="_classcrc64720bb2db43a66fe9_1_1_button_renderer_1abb4d3331e03259e3b4356eb3be0509ae"/>    <section>
+    <title>onViewAttachedToWindow()<computeroutput>[3/4]</computeroutput></title>
+<indexterm><primary>onViewAttachedToWindow</primary><secondary>crc64720bb2db43a66fe9.ButtonRenderer</secondary></indexterm>
+<indexterm><primary>crc64720bb2db43a66fe9.ButtonRenderer</primary><secondary>onViewAttachedToWindow</secondary></indexterm>
+<para><computeroutput>void crc64720bb2db43a66fe9.ButtonRenderer.onViewAttachedToWindow (android.view.View p0)</computeroutput></para><para>
+Definition at line 58 of file ButtonRenderer.java.</para>
+    </section><anchor xml:id="_classcrc64720bb2db43a66fe9_1_1_button_renderer_1abb4d3331e03259e3b4356eb3be0509ae"/>    <section>
+    <title>onViewAttachedToWindow()<computeroutput>[4/4]</computeroutput></title>
+<indexterm><primary>onViewAttachedToWindow</primary><secondary>crc64720bb2db43a66fe9.ButtonRenderer</secondary></indexterm>
+<indexterm><primary>crc64720bb2db43a66fe9.ButtonRenderer</primary><secondary>onViewAttachedToWindow</secondary></indexterm>
+<para><computeroutput>void crc64720bb2db43a66fe9.ButtonRenderer.onViewAttachedToWindow (android.view.View p0)</computeroutput></para><para>
+Definition at line 58 of file ButtonRenderer.java.</para>
+    </section><anchor xml:id="_classcrc64720bb2db43a66fe9_1_1_button_renderer_1a4e974061230d236c0cad514b63b0f24b"/>    <section>
+    <title>onViewDetachedFromWindow()<computeroutput>[1/4]</computeroutput></title>
+<indexterm><primary>onViewDetachedFromWindow</primary><secondary>crc64720bb2db43a66fe9.ButtonRenderer</secondary></indexterm>
+<indexterm><primary>crc64720bb2db43a66fe9.ButtonRenderer</primary><secondary>onViewDetachedFromWindow</secondary></indexterm>
+<para><computeroutput>void crc64720bb2db43a66fe9.ButtonRenderer.onViewDetachedFromWindow (android.view.View p0)</computeroutput></para><para>
+Definition at line 66 of file ButtonRenderer.java.</para>
+    </section><anchor xml:id="_classcrc64720bb2db43a66fe9_1_1_button_renderer_1a4e974061230d236c0cad514b63b0f24b"/>    <section>
+    <title>onViewDetachedFromWindow()<computeroutput>[2/4]</computeroutput></title>
+<indexterm><primary>onViewDetachedFromWindow</primary><secondary>crc64720bb2db43a66fe9.ButtonRenderer</secondary></indexterm>
+<indexterm><primary>crc64720bb2db43a66fe9.ButtonRenderer</primary><secondary>onViewDetachedFromWindow</secondary></indexterm>
+<para><computeroutput>void crc64720bb2db43a66fe9.ButtonRenderer.onViewDetachedFromWindow (android.view.View p0)</computeroutput></para><para>
+Definition at line 66 of file ButtonRenderer.java.</para>
+    </section><anchor xml:id="_classcrc64720bb2db43a66fe9_1_1_button_renderer_1a4e974061230d236c0cad514b63b0f24b"/>    <section>
+    <title>onViewDetachedFromWindow()<computeroutput>[3/4]</computeroutput></title>
+<indexterm><primary>onViewDetachedFromWindow</primary><secondary>crc64720bb2db43a66fe9.ButtonRenderer</secondary></indexterm>
+<indexterm><primary>crc64720bb2db43a66fe9.ButtonRenderer</primary><secondary>onViewDetachedFromWindow</secondary></indexterm>
+<para><computeroutput>void crc64720bb2db43a66fe9.ButtonRenderer.onViewDetachedFromWindow (android.view.View p0)</computeroutput></para><para>
+Definition at line 66 of file ButtonRenderer.java.</para>
+    </section><anchor xml:id="_classcrc64720bb2db43a66fe9_1_1_button_renderer_1a4e974061230d236c0cad514b63b0f24b"/>    <section>
+    <title>onViewDetachedFromWindow()<computeroutput>[4/4]</computeroutput></title>
+<indexterm><primary>onViewDetachedFromWindow</primary><secondary>crc64720bb2db43a66fe9.ButtonRenderer</secondary></indexterm>
+<indexterm><primary>crc64720bb2db43a66fe9.ButtonRenderer</primary><secondary>onViewDetachedFromWindow</secondary></indexterm>
+<para><computeroutput>void crc64720bb2db43a66fe9.ButtonRenderer.onViewDetachedFromWindow (android.view.View p0)</computeroutput></para><para>
+Definition at line 66 of file ButtonRenderer.java.</para>
+</section>
+</section>
+<section>
+<title>Member Data Documentation</title>
+<anchor xml:id="_classcrc64720bb2db43a66fe9_1_1_button_renderer_1ad726ec68ef067e090e25138374174e14"/>    <section>
+    <title>__md_methods</title>
+<indexterm><primary>__md_methods</primary><secondary>crc64720bb2db43a66fe9.ButtonRenderer</secondary></indexterm>
+<indexterm><primary>crc64720bb2db43a66fe9.ButtonRenderer</primary><secondary>__md_methods</secondary></indexterm>
+<para><computeroutput>static final String crc64720bb2db43a66fe9.ButtonRenderer.__md_methods<computeroutput>[static]</computeroutput></computeroutput></para>
+<para>@hide </para>
+<para>
+Definition at line 13 of file ButtonRenderer.java.</para>
+</section>
+<para>
+The documentation for this class was generated from the following file:</para>
+Application Green Quake.Android/obj/Debug/100/android/src/crc64720bb2db43a66fe9/<link linkend="__debug_2100_2android_2src_2crc64720bb2db43a66fe9_2_button_renderer_8java">ButtonRenderer.java</link></section>
+</section>

@@ -1,0 +1,222 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<section xmlns="http://docbook.org/ns/docbook" version="5.0" xmlns:xlink="http://www.w3.org/1999/xlink" xml:id="_classmono_1_1com_1_1google_1_1android_1_1gms_1_1security_1_1_provider_installer___provider_install_listener_implementor" xml:lang="en-US">
+<title>mono.com.google.android.gms.security.ProviderInstaller_ProviderInstallListenerImplementor Class Reference</title>
+<indexterm><primary>mono.com.google.android.gms.security.ProviderInstaller_ProviderInstallListenerImplementor</primary></indexterm>
+Inheritance diagram for mono.com.google.android.gms.security.ProviderInstaller_ProviderInstallListenerImplementor:<para>
+    <informalfigure>
+        <mediaobject>
+            <imageobject>
+                <imagedata width="50%" align="center" valign="middle" scalefit="0" fileref="classmono_1_1com_1_1google_1_1android_1_1gms_1_1security_1_1_provider_installer___provider_insta6d16734406b60ae98d0f791b6b097b15.png"></imagedata>
+            </imageobject>
+        </mediaobject>
+    </informalfigure>
+</para>
+Collaboration diagram for mono.com.google.android.gms.security.ProviderInstaller_ProviderInstallListenerImplementor:<para>
+    <informalfigure>
+        <mediaobject>
+            <imageobject>
+                <imagedata width="50%" align="center" valign="middle" scalefit="0" fileref="classmono_1_1com_1_1google_1_1android_1_1gms_1_1security_1_1_provider_installer___provider_insta3f68cac33e7dd0a69b838e58ba7624e9.png"></imagedata>
+            </imageobject>
+        </mediaobject>
+    </informalfigure>
+</para>
+<simplesect>
+    <title>Public Member Functions    </title>
+        <itemizedlist>
+            <listitem><para><link linkend="_classmono_1_1com_1_1google_1_1android_1_1gms_1_1security_1_1_provider_installer___provider_install_listener_implementor_1a6074aecdc3fb018eeff8efc272f61b71">ProviderInstaller_ProviderInstallListenerImplementor</link> ()</para>
+</listitem>
+            <listitem><para>void <link linkend="_classmono_1_1com_1_1google_1_1android_1_1gms_1_1security_1_1_provider_installer___provider_install_listener_implementor_1ad98f798cdf2487bba928d38ad9bdbb5d">onProviderInstallFailed</link> (int p0, android.content.Intent p1)</para>
+</listitem>
+            <listitem><para>void <link linkend="_classmono_1_1com_1_1google_1_1android_1_1gms_1_1security_1_1_provider_installer___provider_install_listener_implementor_1a9be6f5afc5630cbec9097d1e8cfeddf5">onProviderInstalled</link> ()</para>
+</listitem>
+            <listitem><para>void <link linkend="_classmono_1_1com_1_1google_1_1android_1_1gms_1_1security_1_1_provider_installer___provider_install_listener_implementor_1acbb785fea93e91f3f2f0e783a6ff75f2">monodroidAddReference</link> (java.lang.Object obj)</para>
+</listitem>
+            <listitem><para>void <link linkend="_classmono_1_1com_1_1google_1_1android_1_1gms_1_1security_1_1_provider_installer___provider_install_listener_implementor_1a3ff43f2ea3c21f514ba3cf34ea685bf7">monodroidClearReferences</link> ()</para>
+</listitem>
+            <listitem><para><link linkend="_classmono_1_1com_1_1google_1_1android_1_1gms_1_1security_1_1_provider_installer___provider_install_listener_implementor_1a6074aecdc3fb018eeff8efc272f61b71">ProviderInstaller_ProviderInstallListenerImplementor</link> ()</para>
+</listitem>
+            <listitem><para>void <link linkend="_classmono_1_1com_1_1google_1_1android_1_1gms_1_1security_1_1_provider_installer___provider_install_listener_implementor_1ad98f798cdf2487bba928d38ad9bdbb5d">onProviderInstallFailed</link> (int p0, android.content.Intent p1)</para>
+</listitem>
+            <listitem><para>void <link linkend="_classmono_1_1com_1_1google_1_1android_1_1gms_1_1security_1_1_provider_installer___provider_install_listener_implementor_1a9be6f5afc5630cbec9097d1e8cfeddf5">onProviderInstalled</link> ()</para>
+</listitem>
+            <listitem><para>void <link linkend="_classmono_1_1com_1_1google_1_1android_1_1gms_1_1security_1_1_provider_installer___provider_install_listener_implementor_1acbb785fea93e91f3f2f0e783a6ff75f2">monodroidAddReference</link> (java.lang.Object obj)</para>
+</listitem>
+            <listitem><para>void <link linkend="_classmono_1_1com_1_1google_1_1android_1_1gms_1_1security_1_1_provider_installer___provider_install_listener_implementor_1a3ff43f2ea3c21f514ba3cf34ea685bf7">monodroidClearReferences</link> ()</para>
+</listitem>
+            <listitem><para><link linkend="_classmono_1_1com_1_1google_1_1android_1_1gms_1_1security_1_1_provider_installer___provider_install_listener_implementor_1a6074aecdc3fb018eeff8efc272f61b71">ProviderInstaller_ProviderInstallListenerImplementor</link> ()</para>
+</listitem>
+            <listitem><para>void <link linkend="_classmono_1_1com_1_1google_1_1android_1_1gms_1_1security_1_1_provider_installer___provider_install_listener_implementor_1ad98f798cdf2487bba928d38ad9bdbb5d">onProviderInstallFailed</link> (int p0, android.content.Intent p1)</para>
+</listitem>
+            <listitem><para>void <link linkend="_classmono_1_1com_1_1google_1_1android_1_1gms_1_1security_1_1_provider_installer___provider_install_listener_implementor_1a9be6f5afc5630cbec9097d1e8cfeddf5">onProviderInstalled</link> ()</para>
+</listitem>
+            <listitem><para>void <link linkend="_classmono_1_1com_1_1google_1_1android_1_1gms_1_1security_1_1_provider_installer___provider_install_listener_implementor_1acbb785fea93e91f3f2f0e783a6ff75f2">monodroidAddReference</link> (java.lang.Object obj)</para>
+</listitem>
+            <listitem><para>void <link linkend="_classmono_1_1com_1_1google_1_1android_1_1gms_1_1security_1_1_provider_installer___provider_install_listener_implementor_1a3ff43f2ea3c21f514ba3cf34ea685bf7">monodroidClearReferences</link> ()</para>
+</listitem>
+            <listitem><para><link linkend="_classmono_1_1com_1_1google_1_1android_1_1gms_1_1security_1_1_provider_installer___provider_install_listener_implementor_1a6074aecdc3fb018eeff8efc272f61b71">ProviderInstaller_ProviderInstallListenerImplementor</link> ()</para>
+</listitem>
+            <listitem><para>void <link linkend="_classmono_1_1com_1_1google_1_1android_1_1gms_1_1security_1_1_provider_installer___provider_install_listener_implementor_1ad98f798cdf2487bba928d38ad9bdbb5d">onProviderInstallFailed</link> (int p0, android.content.Intent p1)</para>
+</listitem>
+            <listitem><para>void <link linkend="_classmono_1_1com_1_1google_1_1android_1_1gms_1_1security_1_1_provider_installer___provider_install_listener_implementor_1a9be6f5afc5630cbec9097d1e8cfeddf5">onProviderInstalled</link> ()</para>
+</listitem>
+            <listitem><para>void <link linkend="_classmono_1_1com_1_1google_1_1android_1_1gms_1_1security_1_1_provider_installer___provider_install_listener_implementor_1acbb785fea93e91f3f2f0e783a6ff75f2">monodroidAddReference</link> (java.lang.Object obj)</para>
+</listitem>
+            <listitem><para>void <link linkend="_classmono_1_1com_1_1google_1_1android_1_1gms_1_1security_1_1_provider_installer___provider_install_listener_implementor_1a3ff43f2ea3c21f514ba3cf34ea685bf7">monodroidClearReferences</link> ()</para>
+</listitem>
+        </itemizedlist>
+</simplesect>
+<simplesect>
+    <title>Static Public Attributes    </title>
+        <itemizedlist>
+            <listitem><para>static final String <link linkend="_classmono_1_1com_1_1google_1_1android_1_1gms_1_1security_1_1_provider_installer___provider_install_listener_implementor_1a49bebd3fc9ee2a094f6cb6eacb2197fd">__md_methods</link></para>
+</listitem>
+        </itemizedlist>
+</simplesect>
+<section>
+<title>Detailed Description</title>
+<para>
+Definition at line 4 of file ProviderInstaller_ProviderInstallListenerImplementor.java.</para>
+</section>
+<section>
+<title>Constructor &amp; Destructor Documentation</title>
+<anchor xml:id="_classmono_1_1com_1_1google_1_1android_1_1gms_1_1security_1_1_provider_installer___provider_install_listener_implementor_1a6074aecdc3fb018eeff8efc272f61b71"/>    <section>
+    <title>ProviderInstaller_ProviderInstallListenerImplementor()<computeroutput>[1/4]</computeroutput></title>
+<indexterm><primary>ProviderInstaller_ProviderInstallListenerImplementor</primary><secondary>mono.com.google.android.gms.security.ProviderInstaller_ProviderInstallListenerImplementor</secondary></indexterm>
+<indexterm><primary>mono.com.google.android.gms.security.ProviderInstaller_ProviderInstallListenerImplementor</primary><secondary>ProviderInstaller_ProviderInstallListenerImplementor</secondary></indexterm>
+<para><computeroutput>mono.com.google.android.gms.security.ProviderInstaller_ProviderInstallListenerImplementor.ProviderInstaller_ProviderInstallListenerImplementor ( )</computeroutput></para><para>
+Definition at line 21 of file ProviderInstaller_ProviderInstallListenerImplementor.java.</para>
+    </section><anchor xml:id="_classmono_1_1com_1_1google_1_1android_1_1gms_1_1security_1_1_provider_installer___provider_install_listener_implementor_1a6074aecdc3fb018eeff8efc272f61b71"/>    <section>
+    <title>ProviderInstaller_ProviderInstallListenerImplementor()<computeroutput>[2/4]</computeroutput></title>
+<indexterm><primary>ProviderInstaller_ProviderInstallListenerImplementor</primary><secondary>mono.com.google.android.gms.security.ProviderInstaller_ProviderInstallListenerImplementor</secondary></indexterm>
+<indexterm><primary>mono.com.google.android.gms.security.ProviderInstaller_ProviderInstallListenerImplementor</primary><secondary>ProviderInstaller_ProviderInstallListenerImplementor</secondary></indexterm>
+<para><computeroutput>mono.com.google.android.gms.security.ProviderInstaller_ProviderInstallListenerImplementor.ProviderInstaller_ProviderInstallListenerImplementor ( )</computeroutput></para><para>
+Definition at line 21 of file ProviderInstaller_ProviderInstallListenerImplementor.java.</para>
+    </section><anchor xml:id="_classmono_1_1com_1_1google_1_1android_1_1gms_1_1security_1_1_provider_installer___provider_install_listener_implementor_1a6074aecdc3fb018eeff8efc272f61b71"/>    <section>
+    <title>ProviderInstaller_ProviderInstallListenerImplementor()<computeroutput>[3/4]</computeroutput></title>
+<indexterm><primary>ProviderInstaller_ProviderInstallListenerImplementor</primary><secondary>mono.com.google.android.gms.security.ProviderInstaller_ProviderInstallListenerImplementor</secondary></indexterm>
+<indexterm><primary>mono.com.google.android.gms.security.ProviderInstaller_ProviderInstallListenerImplementor</primary><secondary>ProviderInstaller_ProviderInstallListenerImplementor</secondary></indexterm>
+<para><computeroutput>mono.com.google.android.gms.security.ProviderInstaller_ProviderInstallListenerImplementor.ProviderInstaller_ProviderInstallListenerImplementor ( )</computeroutput></para><para>
+Definition at line 21 of file ProviderInstaller_ProviderInstallListenerImplementor.java.</para>
+    </section><anchor xml:id="_classmono_1_1com_1_1google_1_1android_1_1gms_1_1security_1_1_provider_installer___provider_install_listener_implementor_1a6074aecdc3fb018eeff8efc272f61b71"/>    <section>
+    <title>ProviderInstaller_ProviderInstallListenerImplementor()<computeroutput>[4/4]</computeroutput></title>
+<indexterm><primary>ProviderInstaller_ProviderInstallListenerImplementor</primary><secondary>mono.com.google.android.gms.security.ProviderInstaller_ProviderInstallListenerImplementor</secondary></indexterm>
+<indexterm><primary>mono.com.google.android.gms.security.ProviderInstaller_ProviderInstallListenerImplementor</primary><secondary>ProviderInstaller_ProviderInstallListenerImplementor</secondary></indexterm>
+<para><computeroutput>mono.com.google.android.gms.security.ProviderInstaller_ProviderInstallListenerImplementor.ProviderInstaller_ProviderInstallListenerImplementor ( )</computeroutput></para><para>
+Definition at line 21 of file ProviderInstaller_ProviderInstallListenerImplementor.java.</para>
+</section>
+</section>
+<section>
+<title>Member Function Documentation</title>
+<anchor xml:id="_classmono_1_1com_1_1google_1_1android_1_1gms_1_1security_1_1_provider_installer___provider_install_listener_implementor_1acbb785fea93e91f3f2f0e783a6ff75f2"/>    <section>
+    <title>monodroidAddReference()<computeroutput>[1/4]</computeroutput></title>
+<indexterm><primary>monodroidAddReference</primary><secondary>mono.com.google.android.gms.security.ProviderInstaller_ProviderInstallListenerImplementor</secondary></indexterm>
+<indexterm><primary>mono.com.google.android.gms.security.ProviderInstaller_ProviderInstallListenerImplementor</primary><secondary>monodroidAddReference</secondary></indexterm>
+<para><computeroutput>void mono.com.google.android.gms.security.ProviderInstaller_ProviderInstallListenerImplementor.monodroidAddReference (java.lang.Object obj)</computeroutput></para><para>
+Definition at line 45 of file ProviderInstaller_ProviderInstallListenerImplementor.java.</para>
+    </section><anchor xml:id="_classmono_1_1com_1_1google_1_1android_1_1gms_1_1security_1_1_provider_installer___provider_install_listener_implementor_1acbb785fea93e91f3f2f0e783a6ff75f2"/>    <section>
+    <title>monodroidAddReference()<computeroutput>[2/4]</computeroutput></title>
+<indexterm><primary>monodroidAddReference</primary><secondary>mono.com.google.android.gms.security.ProviderInstaller_ProviderInstallListenerImplementor</secondary></indexterm>
+<indexterm><primary>mono.com.google.android.gms.security.ProviderInstaller_ProviderInstallListenerImplementor</primary><secondary>monodroidAddReference</secondary></indexterm>
+<para><computeroutput>void mono.com.google.android.gms.security.ProviderInstaller_ProviderInstallListenerImplementor.monodroidAddReference (java.lang.Object obj)</computeroutput></para><para>
+Definition at line 45 of file ProviderInstaller_ProviderInstallListenerImplementor.java.</para>
+    </section><anchor xml:id="_classmono_1_1com_1_1google_1_1android_1_1gms_1_1security_1_1_provider_installer___provider_install_listener_implementor_1acbb785fea93e91f3f2f0e783a6ff75f2"/>    <section>
+    <title>monodroidAddReference()<computeroutput>[3/4]</computeroutput></title>
+<indexterm><primary>monodroidAddReference</primary><secondary>mono.com.google.android.gms.security.ProviderInstaller_ProviderInstallListenerImplementor</secondary></indexterm>
+<indexterm><primary>mono.com.google.android.gms.security.ProviderInstaller_ProviderInstallListenerImplementor</primary><secondary>monodroidAddReference</secondary></indexterm>
+<para><computeroutput>void mono.com.google.android.gms.security.ProviderInstaller_ProviderInstallListenerImplementor.monodroidAddReference (java.lang.Object obj)</computeroutput></para><para>
+Definition at line 45 of file ProviderInstaller_ProviderInstallListenerImplementor.java.</para>
+    </section><anchor xml:id="_classmono_1_1com_1_1google_1_1android_1_1gms_1_1security_1_1_provider_installer___provider_install_listener_implementor_1acbb785fea93e91f3f2f0e783a6ff75f2"/>    <section>
+    <title>monodroidAddReference()<computeroutput>[4/4]</computeroutput></title>
+<indexterm><primary>monodroidAddReference</primary><secondary>mono.com.google.android.gms.security.ProviderInstaller_ProviderInstallListenerImplementor</secondary></indexterm>
+<indexterm><primary>mono.com.google.android.gms.security.ProviderInstaller_ProviderInstallListenerImplementor</primary><secondary>monodroidAddReference</secondary></indexterm>
+<para><computeroutput>void mono.com.google.android.gms.security.ProviderInstaller_ProviderInstallListenerImplementor.monodroidAddReference (java.lang.Object obj)</computeroutput></para><para>
+Definition at line 45 of file ProviderInstaller_ProviderInstallListenerImplementor.java.</para>
+    </section><anchor xml:id="_classmono_1_1com_1_1google_1_1android_1_1gms_1_1security_1_1_provider_installer___provider_install_listener_implementor_1a3ff43f2ea3c21f514ba3cf34ea685bf7"/>    <section>
+    <title>monodroidClearReferences()<computeroutput>[1/4]</computeroutput></title>
+<indexterm><primary>monodroidClearReferences</primary><secondary>mono.com.google.android.gms.security.ProviderInstaller_ProviderInstallListenerImplementor</secondary></indexterm>
+<indexterm><primary>mono.com.google.android.gms.security.ProviderInstaller_ProviderInstallListenerImplementor</primary><secondary>monodroidClearReferences</secondary></indexterm>
+<para><computeroutput>void mono.com.google.android.gms.security.ProviderInstaller_ProviderInstallListenerImplementor.monodroidClearReferences ( )</computeroutput></para><para>
+Definition at line 52 of file ProviderInstaller_ProviderInstallListenerImplementor.java.</para>
+    </section><anchor xml:id="_classmono_1_1com_1_1google_1_1android_1_1gms_1_1security_1_1_provider_installer___provider_install_listener_implementor_1a3ff43f2ea3c21f514ba3cf34ea685bf7"/>    <section>
+    <title>monodroidClearReferences()<computeroutput>[2/4]</computeroutput></title>
+<indexterm><primary>monodroidClearReferences</primary><secondary>mono.com.google.android.gms.security.ProviderInstaller_ProviderInstallListenerImplementor</secondary></indexterm>
+<indexterm><primary>mono.com.google.android.gms.security.ProviderInstaller_ProviderInstallListenerImplementor</primary><secondary>monodroidClearReferences</secondary></indexterm>
+<para><computeroutput>void mono.com.google.android.gms.security.ProviderInstaller_ProviderInstallListenerImplementor.monodroidClearReferences ( )</computeroutput></para><para>
+Definition at line 52 of file ProviderInstaller_ProviderInstallListenerImplementor.java.</para>
+    </section><anchor xml:id="_classmono_1_1com_1_1google_1_1android_1_1gms_1_1security_1_1_provider_installer___provider_install_listener_implementor_1a3ff43f2ea3c21f514ba3cf34ea685bf7"/>    <section>
+    <title>monodroidClearReferences()<computeroutput>[3/4]</computeroutput></title>
+<indexterm><primary>monodroidClearReferences</primary><secondary>mono.com.google.android.gms.security.ProviderInstaller_ProviderInstallListenerImplementor</secondary></indexterm>
+<indexterm><primary>mono.com.google.android.gms.security.ProviderInstaller_ProviderInstallListenerImplementor</primary><secondary>monodroidClearReferences</secondary></indexterm>
+<para><computeroutput>void mono.com.google.android.gms.security.ProviderInstaller_ProviderInstallListenerImplementor.monodroidClearReferences ( )</computeroutput></para><para>
+Definition at line 52 of file ProviderInstaller_ProviderInstallListenerImplementor.java.</para>
+    </section><anchor xml:id="_classmono_1_1com_1_1google_1_1android_1_1gms_1_1security_1_1_provider_installer___provider_install_listener_implementor_1a3ff43f2ea3c21f514ba3cf34ea685bf7"/>    <section>
+    <title>monodroidClearReferences()<computeroutput>[4/4]</computeroutput></title>
+<indexterm><primary>monodroidClearReferences</primary><secondary>mono.com.google.android.gms.security.ProviderInstaller_ProviderInstallListenerImplementor</secondary></indexterm>
+<indexterm><primary>mono.com.google.android.gms.security.ProviderInstaller_ProviderInstallListenerImplementor</primary><secondary>monodroidClearReferences</secondary></indexterm>
+<para><computeroutput>void mono.com.google.android.gms.security.ProviderInstaller_ProviderInstallListenerImplementor.monodroidClearReferences ( )</computeroutput></para><para>
+Definition at line 52 of file ProviderInstaller_ProviderInstallListenerImplementor.java.</para>
+    </section><anchor xml:id="_classmono_1_1com_1_1google_1_1android_1_1gms_1_1security_1_1_provider_installer___provider_install_listener_implementor_1a9be6f5afc5630cbec9097d1e8cfeddf5"/>    <section>
+    <title>onProviderInstalled()<computeroutput>[1/4]</computeroutput></title>
+<indexterm><primary>onProviderInstalled</primary><secondary>mono.com.google.android.gms.security.ProviderInstaller_ProviderInstallListenerImplementor</secondary></indexterm>
+<indexterm><primary>mono.com.google.android.gms.security.ProviderInstaller_ProviderInstallListenerImplementor</primary><secondary>onProviderInstalled</secondary></indexterm>
+<para><computeroutput>void mono.com.google.android.gms.security.ProviderInstaller_ProviderInstallListenerImplementor.onProviderInstalled ( )</computeroutput></para><para>
+Definition at line 37 of file ProviderInstaller_ProviderInstallListenerImplementor.java.</para>
+    </section><anchor xml:id="_classmono_1_1com_1_1google_1_1android_1_1gms_1_1security_1_1_provider_installer___provider_install_listener_implementor_1a9be6f5afc5630cbec9097d1e8cfeddf5"/>    <section>
+    <title>onProviderInstalled()<computeroutput>[2/4]</computeroutput></title>
+<indexterm><primary>onProviderInstalled</primary><secondary>mono.com.google.android.gms.security.ProviderInstaller_ProviderInstallListenerImplementor</secondary></indexterm>
+<indexterm><primary>mono.com.google.android.gms.security.ProviderInstaller_ProviderInstallListenerImplementor</primary><secondary>onProviderInstalled</secondary></indexterm>
+<para><computeroutput>void mono.com.google.android.gms.security.ProviderInstaller_ProviderInstallListenerImplementor.onProviderInstalled ( )</computeroutput></para><para>
+Definition at line 37 of file ProviderInstaller_ProviderInstallListenerImplementor.java.</para>
+    </section><anchor xml:id="_classmono_1_1com_1_1google_1_1android_1_1gms_1_1security_1_1_provider_installer___provider_install_listener_implementor_1a9be6f5afc5630cbec9097d1e8cfeddf5"/>    <section>
+    <title>onProviderInstalled()<computeroutput>[3/4]</computeroutput></title>
+<indexterm><primary>onProviderInstalled</primary><secondary>mono.com.google.android.gms.security.ProviderInstaller_ProviderInstallListenerImplementor</secondary></indexterm>
+<indexterm><primary>mono.com.google.android.gms.security.ProviderInstaller_ProviderInstallListenerImplementor</primary><secondary>onProviderInstalled</secondary></indexterm>
+<para><computeroutput>void mono.com.google.android.gms.security.ProviderInstaller_ProviderInstallListenerImplementor.onProviderInstalled ( )</computeroutput></para><para>
+Definition at line 37 of file ProviderInstaller_ProviderInstallListenerImplementor.java.</para>
+    </section><anchor xml:id="_classmono_1_1com_1_1google_1_1android_1_1gms_1_1security_1_1_provider_installer___provider_install_listener_implementor_1a9be6f5afc5630cbec9097d1e8cfeddf5"/>    <section>
+    <title>onProviderInstalled()<computeroutput>[4/4]</computeroutput></title>
+<indexterm><primary>onProviderInstalled</primary><secondary>mono.com.google.android.gms.security.ProviderInstaller_ProviderInstallListenerImplementor</secondary></indexterm>
+<indexterm><primary>mono.com.google.android.gms.security.ProviderInstaller_ProviderInstallListenerImplementor</primary><secondary>onProviderInstalled</secondary></indexterm>
+<para><computeroutput>void mono.com.google.android.gms.security.ProviderInstaller_ProviderInstallListenerImplementor.onProviderInstalled ( )</computeroutput></para><para>
+Definition at line 37 of file ProviderInstaller_ProviderInstallListenerImplementor.java.</para>
+    </section><anchor xml:id="_classmono_1_1com_1_1google_1_1android_1_1gms_1_1security_1_1_provider_installer___provider_install_listener_implementor_1ad98f798cdf2487bba928d38ad9bdbb5d"/>    <section>
+    <title>onProviderInstallFailed()<computeroutput>[1/4]</computeroutput></title>
+<indexterm><primary>onProviderInstallFailed</primary><secondary>mono.com.google.android.gms.security.ProviderInstaller_ProviderInstallListenerImplementor</secondary></indexterm>
+<indexterm><primary>mono.com.google.android.gms.security.ProviderInstaller_ProviderInstallListenerImplementor</primary><secondary>onProviderInstallFailed</secondary></indexterm>
+<para><computeroutput>void mono.com.google.android.gms.security.ProviderInstaller_ProviderInstallListenerImplementor.onProviderInstallFailed (int p0, android.content.Intent p1)</computeroutput></para><para>
+Definition at line 29 of file ProviderInstaller_ProviderInstallListenerImplementor.java.</para>
+    </section><anchor xml:id="_classmono_1_1com_1_1google_1_1android_1_1gms_1_1security_1_1_provider_installer___provider_install_listener_implementor_1ad98f798cdf2487bba928d38ad9bdbb5d"/>    <section>
+    <title>onProviderInstallFailed()<computeroutput>[2/4]</computeroutput></title>
+<indexterm><primary>onProviderInstallFailed</primary><secondary>mono.com.google.android.gms.security.ProviderInstaller_ProviderInstallListenerImplementor</secondary></indexterm>
+<indexterm><primary>mono.com.google.android.gms.security.ProviderInstaller_ProviderInstallListenerImplementor</primary><secondary>onProviderInstallFailed</secondary></indexterm>
+<para><computeroutput>void mono.com.google.android.gms.security.ProviderInstaller_ProviderInstallListenerImplementor.onProviderInstallFailed (int p0, android.content.Intent p1)</computeroutput></para><para>
+Definition at line 29 of file ProviderInstaller_ProviderInstallListenerImplementor.java.</para>
+    </section><anchor xml:id="_classmono_1_1com_1_1google_1_1android_1_1gms_1_1security_1_1_provider_installer___provider_install_listener_implementor_1ad98f798cdf2487bba928d38ad9bdbb5d"/>    <section>
+    <title>onProviderInstallFailed()<computeroutput>[3/4]</computeroutput></title>
+<indexterm><primary>onProviderInstallFailed</primary><secondary>mono.com.google.android.gms.security.ProviderInstaller_ProviderInstallListenerImplementor</secondary></indexterm>
+<indexterm><primary>mono.com.google.android.gms.security.ProviderInstaller_ProviderInstallListenerImplementor</primary><secondary>onProviderInstallFailed</secondary></indexterm>
+<para><computeroutput>void mono.com.google.android.gms.security.ProviderInstaller_ProviderInstallListenerImplementor.onProviderInstallFailed (int p0, android.content.Intent p1)</computeroutput></para><para>
+Definition at line 29 of file ProviderInstaller_ProviderInstallListenerImplementor.java.</para>
+    </section><anchor xml:id="_classmono_1_1com_1_1google_1_1android_1_1gms_1_1security_1_1_provider_installer___provider_install_listener_implementor_1ad98f798cdf2487bba928d38ad9bdbb5d"/>    <section>
+    <title>onProviderInstallFailed()<computeroutput>[4/4]</computeroutput></title>
+<indexterm><primary>onProviderInstallFailed</primary><secondary>mono.com.google.android.gms.security.ProviderInstaller_ProviderInstallListenerImplementor</secondary></indexterm>
+<indexterm><primary>mono.com.google.android.gms.security.ProviderInstaller_ProviderInstallListenerImplementor</primary><secondary>onProviderInstallFailed</secondary></indexterm>
+<para><computeroutput>void mono.com.google.android.gms.security.ProviderInstaller_ProviderInstallListenerImplementor.onProviderInstallFailed (int p0, android.content.Intent p1)</computeroutput></para><para>
+Definition at line 29 of file ProviderInstaller_ProviderInstallListenerImplementor.java.</para>
+</section>
+</section>
+<section>
+<title>Member Data Documentation</title>
+<anchor xml:id="_classmono_1_1com_1_1google_1_1android_1_1gms_1_1security_1_1_provider_installer___provider_install_listener_implementor_1a49bebd3fc9ee2a094f6cb6eacb2197fd"/>    <section>
+    <title>__md_methods</title>
+<indexterm><primary>__md_methods</primary><secondary>mono.com.google.android.gms.security.ProviderInstaller_ProviderInstallListenerImplementor</secondary></indexterm>
+<indexterm><primary>mono.com.google.android.gms.security.ProviderInstaller_ProviderInstallListenerImplementor</primary><secondary>__md_methods</secondary></indexterm>
+<para><computeroutput>static final String mono.com.google.android.gms.security.ProviderInstaller_ProviderInstallListenerImplementor.__md_methods<computeroutput>[static]</computeroutput></computeroutput></para>
+<para>@hide </para>
+<para>
+Definition at line 11 of file ProviderInstaller_ProviderInstallListenerImplementor.java.</para>
+</section>
+<para>
+The documentation for this class was generated from the following file:</para>
+Application Green Quake.Android/obj/Debug/100/android/src/mono/com/google/android/gms/security/<link linkend="__debug_2100_2android_2src_2mono_2com_2google_2android_2gms_2security_2_provider_installer___prove08c97583c5ab55440ca3b07e5645ee7">ProviderInstaller_ProviderInstallListenerImplementor.java</link></section>
+</section>

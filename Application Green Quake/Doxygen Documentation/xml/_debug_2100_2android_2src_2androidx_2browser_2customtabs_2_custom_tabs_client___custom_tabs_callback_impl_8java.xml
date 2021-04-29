@@ -1,0 +1,70 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.9.1" xml:lang="en-US">
+  <compounddef id="_debug_2100_2android_2src_2androidx_2browser_2customtabs_2_custom_tabs_client___custom_tabs_callback_impl_8java" kind="file" language="Java">
+    <compoundname>CustomTabsClient_CustomTabsCallbackImpl.java</compoundname>
+    <innerclass refid="classandroidx_1_1browser_1_1customtabs_1_1_custom_tabs_client___custom_tabs_callback_impl" prot="public">androidx::browser::customtabs::CustomTabsClient_CustomTabsCallbackImpl</innerclass>
+    <innernamespace refid="namespaceandroidx_1_1browser_1_1customtabs">androidx::browser::customtabs</innernamespace>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <programlisting>
+<codeline lineno="1" refid="namespaceandroidx_1_1browser_1_1customtabs" refkind="compound"><highlight class="keyword">package<sp/></highlight><highlight class="normal">androidx.browser.customtabs;</highlight></codeline>
+<codeline lineno="2"><highlight class="normal"></highlight></codeline>
+<codeline lineno="3"><highlight class="normal"></highlight></codeline>
+<codeline lineno="4" refid="classandroidx_1_1browser_1_1customtabs_1_1_custom_tabs_client___custom_tabs_callback_impl" refkind="compound"><highlight class="normal"></highlight><highlight class="keyword">public</highlight><highlight class="normal"><sp/></highlight><highlight class="keyword">class<sp/></highlight><highlight class="normal"><ref refid="classandroidx_1_1browser_1_1customtabs_1_1_custom_tabs_client___custom_tabs_callback_impl" kindref="compound">CustomTabsClient_CustomTabsCallbackImpl</ref></highlight></codeline>
+<codeline lineno="5"><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">extends</highlight><highlight class="normal"><sp/>androidx.browser.customtabs.CustomTabsCallback</highlight></codeline>
+<codeline lineno="6"><highlight class="normal"><sp/><sp/><sp/><sp/>implements</highlight></codeline>
+<codeline lineno="7"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>mono.android.IGCUserPeer</highlight></codeline>
+<codeline lineno="8"><highlight class="normal">{</highlight></codeline>
+<codeline lineno="10" refid="classandroidx_1_1browser_1_1customtabs_1_1_custom_tabs_client___custom_tabs_callback_impl_1a28fd4594bf1d19af1a28ad6ec38679b2" refkind="member"><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">public</highlight><highlight class="normal"><sp/></highlight><highlight class="keyword">static</highlight><highlight class="normal"><sp/></highlight><highlight class="keyword">final</highlight><highlight class="normal"><sp/>String<sp/><ref refid="classandroidx_1_1browser_1_1customtabs_1_1_custom_tabs_client___custom_tabs_callback_impl_1a28fd4594bf1d19af1a28ad6ec38679b2" kindref="member">__md_methods</ref>;</highlight></codeline>
+<codeline lineno="11"><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">static</highlight><highlight class="normal"><sp/>{</highlight></codeline>
+<codeline lineno="12"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><ref refid="classandroidx_1_1browser_1_1customtabs_1_1_custom_tabs_client___custom_tabs_callback_impl_1a28fd4594bf1d19af1a28ad6ec38679b2" kindref="member">__md_methods</ref><sp/>=<sp/></highlight></codeline>
+<codeline lineno="13"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="stringliteral">&quot;n_onNavigationEvent:(ILandroid/os/Bundle;)V:GetOnNavigationEvent_ILandroid_os_Bundle_Handler\n&quot;</highlight><highlight class="normal"><sp/>+</highlight></codeline>
+<codeline lineno="14"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="stringliteral">&quot;n_extraCallback:(Ljava/lang/String;Landroid/os/Bundle;)V:GetExtraCallback_Ljava_lang_String_Landroid_os_Bundle_Handler\n&quot;</highlight><highlight class="normal"><sp/>+</highlight></codeline>
+<codeline lineno="15"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="stringliteral">&quot;&quot;</highlight><highlight class="normal">;</highlight></codeline>
+<codeline lineno="16"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>mono.android.Runtime.register<sp/>(</highlight><highlight class="stringliteral">&quot;AndroidX.Browser.CustomTabs.CustomTabsClient+CustomTabsCallbackImpl,<sp/>Xamarin.AndroidX.Browser&quot;</highlight><highlight class="normal">,<sp/><ref refid="classandroidx_1_1browser_1_1customtabs_1_1_custom_tabs_client___custom_tabs_callback_impl" kindref="compound">CustomTabsClient_CustomTabsCallbackImpl</ref>.class,<sp/><ref refid="classandroidx_1_1browser_1_1customtabs_1_1_custom_tabs_client___custom_tabs_callback_impl_1a28fd4594bf1d19af1a28ad6ec38679b2" kindref="member">__md_methods</ref>);</highlight></codeline>
+<codeline lineno="17"><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline lineno="18"><highlight class="normal"></highlight></codeline>
+<codeline lineno="19"><highlight class="normal"></highlight></codeline>
+<codeline lineno="20" refid="classandroidx_1_1browser_1_1customtabs_1_1_custom_tabs_client___custom_tabs_callback_impl_1a782f1b333b8a0ee6f07e02645d298c54" refkind="member"><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">public</highlight><highlight class="normal"><sp/><ref refid="classandroidx_1_1browser_1_1customtabs_1_1_custom_tabs_client___custom_tabs_callback_impl_1a782f1b333b8a0ee6f07e02645d298c54" kindref="member">CustomTabsClient_CustomTabsCallbackImpl</ref><sp/>()</highlight></codeline>
+<codeline lineno="21"><highlight class="normal"><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline lineno="22"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>super<sp/>();</highlight></codeline>
+<codeline lineno="23"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">if</highlight><highlight class="normal"><sp/>(getClass<sp/>()<sp/>==<sp/><ref refid="classandroidx_1_1browser_1_1customtabs_1_1_custom_tabs_client___custom_tabs_callback_impl" kindref="compound">CustomTabsClient_CustomTabsCallbackImpl</ref>.class)</highlight></codeline>
+<codeline lineno="24"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>mono.android.TypeManager.Activate<sp/>(</highlight><highlight class="stringliteral">&quot;AndroidX.Browser.CustomTabs.CustomTabsClient+CustomTabsCallbackImpl,<sp/>Xamarin.AndroidX.Browser&quot;</highlight><highlight class="normal">,<sp/></highlight><highlight class="stringliteral">&quot;&quot;</highlight><highlight class="normal">,<sp/></highlight><highlight class="keyword">this</highlight><highlight class="normal">,<sp/></highlight><highlight class="keyword">new</highlight><highlight class="normal"><sp/>java.lang.Object[]<sp/>{<sp/><sp/>});</highlight></codeline>
+<codeline lineno="25"><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline lineno="26"><highlight class="normal"></highlight></codeline>
+<codeline lineno="27"><highlight class="normal"></highlight></codeline>
+<codeline lineno="28" refid="classandroidx_1_1browser_1_1customtabs_1_1_custom_tabs_client___custom_tabs_callback_impl_1a34e42f40debb54205eb1ab0e9a34e124" refkind="member"><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">public</highlight><highlight class="normal"><sp/></highlight><highlight class="keywordtype">void</highlight><highlight class="normal"><sp/><ref refid="classandroidx_1_1browser_1_1customtabs_1_1_custom_tabs_client___custom_tabs_callback_impl_1a34e42f40debb54205eb1ab0e9a34e124" kindref="member">onNavigationEvent</ref><sp/>(</highlight><highlight class="keywordtype">int</highlight><highlight class="normal"><sp/>p0,<sp/>android.os.Bundle<sp/>p1)</highlight></codeline>
+<codeline lineno="29"><highlight class="normal"><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline lineno="30"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>n_onNavigationEvent<sp/>(p0,<sp/>p1);</highlight></codeline>
+<codeline lineno="31"><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline lineno="32"><highlight class="normal"></highlight></codeline>
+<codeline lineno="33"><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">private</highlight><highlight class="normal"><sp/>native<sp/></highlight><highlight class="keywordtype">void</highlight><highlight class="normal"><sp/>n_onNavigationEvent<sp/>(</highlight><highlight class="keywordtype">int</highlight><highlight class="normal"><sp/>p0,<sp/>android.os.Bundle<sp/>p1);</highlight></codeline>
+<codeline lineno="34"><highlight class="normal"></highlight></codeline>
+<codeline lineno="35"><highlight class="normal"></highlight></codeline>
+<codeline lineno="36" refid="classandroidx_1_1browser_1_1customtabs_1_1_custom_tabs_client___custom_tabs_callback_impl_1a5bcc6df9ee8735aed58230d08678fdc5" refkind="member"><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">public</highlight><highlight class="normal"><sp/></highlight><highlight class="keywordtype">void</highlight><highlight class="normal"><sp/><ref refid="classandroidx_1_1browser_1_1customtabs_1_1_custom_tabs_client___custom_tabs_callback_impl_1a5bcc6df9ee8735aed58230d08678fdc5" kindref="member">extraCallback</ref><sp/>(java.lang.String<sp/>p0,<sp/>android.os.Bundle<sp/>p1)</highlight></codeline>
+<codeline lineno="37"><highlight class="normal"><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline lineno="38"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>n_extraCallback<sp/>(p0,<sp/>p1);</highlight></codeline>
+<codeline lineno="39"><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline lineno="40"><highlight class="normal"></highlight></codeline>
+<codeline lineno="41"><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">private</highlight><highlight class="normal"><sp/>native<sp/></highlight><highlight class="keywordtype">void</highlight><highlight class="normal"><sp/>n_extraCallback<sp/>(java.lang.String<sp/>p0,<sp/>android.os.Bundle<sp/>p1);</highlight></codeline>
+<codeline lineno="42"><highlight class="normal"></highlight></codeline>
+<codeline lineno="43"><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">private</highlight><highlight class="normal"><sp/>java.util.ArrayList<sp/>refList;</highlight></codeline>
+<codeline lineno="44" refid="classandroidx_1_1browser_1_1customtabs_1_1_custom_tabs_client___custom_tabs_callback_impl_1a26a450456cdd3edb31847d39e22da791" refkind="member"><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">public</highlight><highlight class="normal"><sp/></highlight><highlight class="keywordtype">void</highlight><highlight class="normal"><sp/><ref refid="classandroidx_1_1browser_1_1customtabs_1_1_custom_tabs_client___custom_tabs_callback_impl_1a26a450456cdd3edb31847d39e22da791" kindref="member">monodroidAddReference</ref><sp/>(java.lang.Object<sp/>obj)</highlight></codeline>
+<codeline lineno="45"><highlight class="normal"><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline lineno="46"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">if</highlight><highlight class="normal"><sp/>(refList<sp/>==<sp/></highlight><highlight class="keyword">null</highlight><highlight class="normal">)</highlight></codeline>
+<codeline lineno="47"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>refList<sp/>=<sp/></highlight><highlight class="keyword">new</highlight><highlight class="normal"><sp/>java.util.ArrayList<sp/>();</highlight></codeline>
+<codeline lineno="48"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>refList.add<sp/>(obj);</highlight></codeline>
+<codeline lineno="49"><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline lineno="50"><highlight class="normal"></highlight></codeline>
+<codeline lineno="51" refid="classandroidx_1_1browser_1_1customtabs_1_1_custom_tabs_client___custom_tabs_callback_impl_1a537bc076d40000818f39dccf91de0555" refkind="member"><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">public</highlight><highlight class="normal"><sp/></highlight><highlight class="keywordtype">void</highlight><highlight class="normal"><sp/><ref refid="classandroidx_1_1browser_1_1customtabs_1_1_custom_tabs_client___custom_tabs_callback_impl_1a537bc076d40000818f39dccf91de0555" kindref="member">monodroidClearReferences</ref><sp/>()</highlight></codeline>
+<codeline lineno="52"><highlight class="normal"><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline lineno="53"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">if</highlight><highlight class="normal"><sp/>(refList<sp/>!=<sp/></highlight><highlight class="keyword">null</highlight><highlight class="normal">)</highlight></codeline>
+<codeline lineno="54"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>refList.clear<sp/>();</highlight></codeline>
+<codeline lineno="55"><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline lineno="56"><highlight class="normal">}</highlight></codeline>
+    </programlisting>
+    <location file="Application Green Quake.Android/obj/Debug/100/android/src/androidx/browser/customtabs/CustomTabsClient_CustomTabsCallbackImpl.java"/>
+  </compounddef>
+</doxygen>

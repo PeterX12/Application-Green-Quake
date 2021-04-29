@@ -1,0 +1,71 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.9.1" xml:lang="en-US">
+  <compounddef id="_release_2100_2android_2src_2mono_2com_2google_2firebase_2database_2core_2_auth_token_provider__e95d7776f7c329b3c3452860229f32d7" kind="file" language="Java">
+    <compoundname>AuthTokenProvider_TokenChangeListenerImplementor.java</compoundname>
+    <innerclass refid="classmono_1_1com_1_1google_1_1firebase_1_1database_1_1core_1_1_auth_token_provider___token_change_listener_implementor" prot="public">mono::com::google::firebase::database::core::AuthTokenProvider_TokenChangeListenerImplementor</innerclass>
+    <innernamespace refid="namespacemono_1_1com_1_1google_1_1firebase_1_1database_1_1core">mono::com::google::firebase::database::core</innernamespace>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <programlisting>
+<codeline lineno="1"><highlight class="keyword">package<sp/></highlight><highlight class="normal">mono.com.google.firebase.database.core;</highlight></codeline>
+<codeline lineno="2"><highlight class="normal"></highlight></codeline>
+<codeline lineno="3"><highlight class="normal"></highlight></codeline>
+<codeline lineno="4"><highlight class="normal"></highlight><highlight class="keyword">public</highlight><highlight class="normal"><sp/></highlight><highlight class="keyword">class<sp/></highlight><highlight class="normal">AuthTokenProvider_TokenChangeListenerImplementor</highlight></codeline>
+<codeline lineno="5"><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">extends</highlight><highlight class="normal"><sp/>java.lang.Object</highlight></codeline>
+<codeline lineno="6"><highlight class="normal"><sp/><sp/><sp/><sp/>implements</highlight></codeline>
+<codeline lineno="7"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>mono.android.IGCUserPeer,</highlight></codeline>
+<codeline lineno="8"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>com.google.firebase.database.core.AuthTokenProvider.TokenChangeListener</highlight></codeline>
+<codeline lineno="9"><highlight class="normal">{</highlight></codeline>
+<codeline lineno="11"><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">public</highlight><highlight class="normal"><sp/></highlight><highlight class="keyword">static</highlight><highlight class="normal"><sp/></highlight><highlight class="keyword">final</highlight><highlight class="normal"><sp/>String<sp/><ref refid="classmono_1_1com_1_1google_1_1firebase_1_1database_1_1core_1_1_auth_token_provider___token_change_listener_implementor_1a1e26e0ced1cd786648334c3f292539e3" kindref="member">__md_methods</ref>;</highlight></codeline>
+<codeline lineno="12"><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">static</highlight><highlight class="normal"><sp/>{</highlight></codeline>
+<codeline lineno="13"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><ref refid="classmono_1_1com_1_1google_1_1firebase_1_1database_1_1core_1_1_auth_token_provider___token_change_listener_implementor_1a1e26e0ced1cd786648334c3f292539e3" kindref="member">__md_methods</ref><sp/>=<sp/></highlight></codeline>
+<codeline lineno="14"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="stringliteral">&quot;n_onTokenChange:()V:GetOnTokenChangeHandler:Firebase.Database.Core.IAuthTokenProviderTokenChangeListenerInvoker,<sp/>Xamarin.Firebase.Database\n&quot;</highlight><highlight class="normal"><sp/>+</highlight></codeline>
+<codeline lineno="15"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="stringliteral">&quot;n_onTokenChange:(Ljava/lang/String;)V:GetOnNamedTokenChange_Ljava_lang_String_Handler:Firebase.Database.Core.IAuthTokenProviderTokenChangeListenerInvoker,<sp/>Xamarin.Firebase.Database\n&quot;</highlight><highlight class="normal"><sp/>+</highlight></codeline>
+<codeline lineno="16"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="stringliteral">&quot;&quot;</highlight><highlight class="normal">;</highlight></codeline>
+<codeline lineno="17"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>mono.android.Runtime.register<sp/>(</highlight><highlight class="stringliteral">&quot;Firebase.Database.Core.IAuthTokenProviderTokenChangeListenerImplementor,<sp/>Xamarin.Firebase.Database&quot;</highlight><highlight class="normal">,<sp/><ref refid="classmono_1_1com_1_1google_1_1firebase_1_1database_1_1core_1_1_auth_token_provider___token_change_listener_implementor_1aa21be9117c31850aa049c56a66b72df1" kindref="member">AuthTokenProvider_TokenChangeListenerImplementor</ref>.class,<sp/><ref refid="classmono_1_1com_1_1google_1_1firebase_1_1database_1_1core_1_1_auth_token_provider___token_change_listener_implementor_1a1e26e0ced1cd786648334c3f292539e3" kindref="member">__md_methods</ref>);</highlight></codeline>
+<codeline lineno="18"><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline lineno="19"><highlight class="normal"></highlight></codeline>
+<codeline lineno="20"><highlight class="normal"></highlight></codeline>
+<codeline lineno="21" refid="classmono_1_1com_1_1google_1_1firebase_1_1database_1_1core_1_1_auth_token_provider___token_change_listener_implementor_1aa21be9117c31850aa049c56a66b72df1" refkind="member"><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">public</highlight><highlight class="normal"><sp/><ref refid="classmono_1_1com_1_1google_1_1firebase_1_1database_1_1core_1_1_auth_token_provider___token_change_listener_implementor_1aa21be9117c31850aa049c56a66b72df1" kindref="member">AuthTokenProvider_TokenChangeListenerImplementor</ref><sp/>()</highlight></codeline>
+<codeline lineno="22"><highlight class="normal"><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline lineno="23"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>super<sp/>();</highlight></codeline>
+<codeline lineno="24"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">if</highlight><highlight class="normal"><sp/>(getClass<sp/>()<sp/>==<sp/><ref refid="classmono_1_1com_1_1google_1_1firebase_1_1database_1_1core_1_1_auth_token_provider___token_change_listener_implementor" kindref="compound">AuthTokenProvider_TokenChangeListenerImplementor</ref>.class)</highlight></codeline>
+<codeline lineno="25"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>mono.android.TypeManager.Activate<sp/>(</highlight><highlight class="stringliteral">&quot;Firebase.Database.Core.IAuthTokenProviderTokenChangeListenerImplementor,<sp/>Xamarin.Firebase.Database&quot;</highlight><highlight class="normal">,<sp/></highlight><highlight class="stringliteral">&quot;&quot;</highlight><highlight class="normal">,<sp/></highlight><highlight class="keyword">this</highlight><highlight class="normal">,<sp/></highlight><highlight class="keyword">new</highlight><highlight class="normal"><sp/>java.lang.Object[]<sp/>{<sp/><sp/>});</highlight></codeline>
+<codeline lineno="26"><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline lineno="27"><highlight class="normal"></highlight></codeline>
+<codeline lineno="28"><highlight class="normal"></highlight></codeline>
+<codeline lineno="29" refid="classmono_1_1com_1_1google_1_1firebase_1_1database_1_1core_1_1_auth_token_provider___token_change_listener_implementor_1a6567b282e2630d428447be2fb6ca345e" refkind="member"><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">public</highlight><highlight class="normal"><sp/></highlight><highlight class="keywordtype">void</highlight><highlight class="normal"><sp/><ref refid="classmono_1_1com_1_1google_1_1firebase_1_1database_1_1core_1_1_auth_token_provider___token_change_listener_implementor_1a6567b282e2630d428447be2fb6ca345e" kindref="member">onTokenChange</ref><sp/>()</highlight></codeline>
+<codeline lineno="30"><highlight class="normal"><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline lineno="31"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>n_onTokenChange<sp/>();</highlight></codeline>
+<codeline lineno="32"><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline lineno="33"><highlight class="normal"></highlight></codeline>
+<codeline lineno="34"><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">private</highlight><highlight class="normal"><sp/>native<sp/></highlight><highlight class="keywordtype">void</highlight><highlight class="normal"><sp/>n_onTokenChange<sp/>();</highlight></codeline>
+<codeline lineno="35"><highlight class="normal"></highlight></codeline>
+<codeline lineno="36"><highlight class="normal"></highlight></codeline>
+<codeline lineno="37" refid="classmono_1_1com_1_1google_1_1firebase_1_1database_1_1core_1_1_auth_token_provider___token_change_listener_implementor_1aaa99386b7b075308e5f208559d041b0a" refkind="member"><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">public</highlight><highlight class="normal"><sp/></highlight><highlight class="keywordtype">void</highlight><highlight class="normal"><sp/><ref refid="classmono_1_1com_1_1google_1_1firebase_1_1database_1_1core_1_1_auth_token_provider___token_change_listener_implementor_1aaa99386b7b075308e5f208559d041b0a" kindref="member">onTokenChange</ref><sp/>(java.lang.String<sp/>p0)</highlight></codeline>
+<codeline lineno="38"><highlight class="normal"><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline lineno="39"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>n_onTokenChange<sp/>(p0);</highlight></codeline>
+<codeline lineno="40"><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline lineno="41"><highlight class="normal"></highlight></codeline>
+<codeline lineno="42"><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">private</highlight><highlight class="normal"><sp/>native<sp/></highlight><highlight class="keywordtype">void</highlight><highlight class="normal"><sp/>n_onTokenChange<sp/>(java.lang.String<sp/>p0);</highlight></codeline>
+<codeline lineno="43"><highlight class="normal"></highlight></codeline>
+<codeline lineno="44"><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">private</highlight><highlight class="normal"><sp/>java.util.ArrayList<sp/>refList;</highlight></codeline>
+<codeline lineno="45" refid="classmono_1_1com_1_1google_1_1firebase_1_1database_1_1core_1_1_auth_token_provider___token_change_listener_implementor_1ac0d0d465906f8bc6877cc83cb63c2490" refkind="member"><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">public</highlight><highlight class="normal"><sp/></highlight><highlight class="keywordtype">void</highlight><highlight class="normal"><sp/><ref refid="classmono_1_1com_1_1google_1_1firebase_1_1database_1_1core_1_1_auth_token_provider___token_change_listener_implementor_1ac0d0d465906f8bc6877cc83cb63c2490" kindref="member">monodroidAddReference</ref><sp/>(java.lang.Object<sp/>obj)</highlight></codeline>
+<codeline lineno="46"><highlight class="normal"><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline lineno="47"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">if</highlight><highlight class="normal"><sp/>(refList<sp/>==<sp/></highlight><highlight class="keyword">null</highlight><highlight class="normal">)</highlight></codeline>
+<codeline lineno="48"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>refList<sp/>=<sp/></highlight><highlight class="keyword">new</highlight><highlight class="normal"><sp/>java.util.ArrayList<sp/>();</highlight></codeline>
+<codeline lineno="49"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>refList.add<sp/>(obj);</highlight></codeline>
+<codeline lineno="50"><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline lineno="51"><highlight class="normal"></highlight></codeline>
+<codeline lineno="52" refid="classmono_1_1com_1_1google_1_1firebase_1_1database_1_1core_1_1_auth_token_provider___token_change_listener_implementor_1ab56ac85da3e5a819d303a43b899e9bbd" refkind="member"><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">public</highlight><highlight class="normal"><sp/></highlight><highlight class="keywordtype">void</highlight><highlight class="normal"><sp/><ref refid="classmono_1_1com_1_1google_1_1firebase_1_1database_1_1core_1_1_auth_token_provider___token_change_listener_implementor_1ab56ac85da3e5a819d303a43b899e9bbd" kindref="member">monodroidClearReferences</ref><sp/>()</highlight></codeline>
+<codeline lineno="53"><highlight class="normal"><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline lineno="54"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">if</highlight><highlight class="normal"><sp/>(refList<sp/>!=<sp/></highlight><highlight class="keyword">null</highlight><highlight class="normal">)</highlight></codeline>
+<codeline lineno="55"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>refList.clear<sp/>();</highlight></codeline>
+<codeline lineno="56"><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline lineno="57"><highlight class="normal">}</highlight></codeline>
+    </programlisting>
+    <location file="Application Green Quake.Android/obj/Release/100/android/src/mono/com/google/firebase/database/core/AuthTokenProvider_TokenChangeListenerImplementor.java"/>
+  </compounddef>
+</doxygen>

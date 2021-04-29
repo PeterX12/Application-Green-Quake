@@ -1,0 +1,58 @@
+digraph "crc643f46942d9dd1fff9.CellAdapter"
+{
+ // LATEX_PDF_SIZE
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  rankdir="LR";
+  Node1 [label="crc643f46942d9dd1fff9.Cell\lAdapter",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black",tooltip=" "];
+  Node2 -> Node1 [dir="back",color="midnightblue",fontsize="10",style="solid"];
+  Node2 [label="android::widget::BaseAdapter",height=0.2,width=0.4,color="grey75", fillcolor="white", style="filled",tooltip=" "];
+  Node3 -> Node1 [dir="back",color="midnightblue",fontsize="10",style="solid"];
+  Node3 [label="mono.android.IGCUserPeer",height=0.2,width=0.4,color="grey75", fillcolor="white", style="filled",tooltip=" "];
+  Node4 -> Node1 [dir="back",color="midnightblue",fontsize="10",style="solid"];
+  Node4 [label="android::widget::Adapter\lView::OnItemLongClickListener",height=0.2,width=0.4,color="grey75", fillcolor="white", style="filled",tooltip=" "];
+  Node5 -> Node1 [dir="back",color="midnightblue",fontsize="10",style="solid"];
+  Node5 [label="android::view::ActionMode\l::Callback",height=0.2,width=0.4,color="grey75", fillcolor="white", style="filled",tooltip=" "];
+  Node6 -> Node1 [dir="back",color="midnightblue",fontsize="10",style="solid"];
+  Node6 [label="android::widget::Adapter\lView::OnItemClickListener",height=0.2,width=0.4,color="grey75", fillcolor="white", style="filled",tooltip=" "];
+  Node7 -> Node1 [dir="back",color="midnightblue",fontsize="10",style="solid"];
+  Node7 [label="androidx::appcompat\l::view::ActionMode::\lCallback",height=0.2,width=0.4,color="grey75", fillcolor="white", style="filled",tooltip=" "];
+  Node8 -> Node1 [dir="back",color="midnightblue",fontsize="10",style="solid"];
+  Node8 [label="android.widget.BaseAdapter",height=0.2,width=0.4,color="grey75", fillcolor="white", style="filled",tooltip=" "];
+  Node3 -> Node1 [dir="back",color="midnightblue",fontsize="10",style="solid"];
+  Node9 -> Node1 [dir="back",color="midnightblue",fontsize="10",style="solid"];
+  Node9 [label="android.widget.AdapterView.\lOnItemLongClickListener",height=0.2,width=0.4,color="grey75", fillcolor="white", style="filled",tooltip=" "];
+  Node10 -> Node1 [dir="back",color="midnightblue",fontsize="10",style="solid"];
+  Node10 [label="android.view.ActionMode.\lCallback",height=0.2,width=0.4,color="grey75", fillcolor="white", style="filled",tooltip=" "];
+  Node11 -> Node1 [dir="back",color="midnightblue",fontsize="10",style="solid"];
+  Node11 [label="android.widget.AdapterView.\lOnItemClickListener",height=0.2,width=0.4,color="grey75", fillcolor="white", style="filled",tooltip=" "];
+  Node12 -> Node1 [dir="back",color="midnightblue",fontsize="10",style="solid"];
+  Node12 [label="androidx.appcompat.view.\lActionMode.Callback",height=0.2,width=0.4,color="grey75", fillcolor="white", style="filled",tooltip=" "];
+  Node8 -> Node1 [dir="back",color="midnightblue",fontsize="10",style="solid"];
+  Node3 -> Node1 [dir="back",color="midnightblue",fontsize="10",style="solid"];
+  Node9 -> Node1 [dir="back",color="midnightblue",fontsize="10",style="solid"];
+  Node10 -> Node1 [dir="back",color="midnightblue",fontsize="10",style="solid"];
+  Node11 -> Node1 [dir="back",color="midnightblue",fontsize="10",style="solid"];
+  Node12 -> Node1 [dir="back",color="midnightblue",fontsize="10",style="solid"];
+  Node8 -> Node1 [dir="back",color="midnightblue",fontsize="10",style="solid"];
+  Node3 -> Node1 [dir="back",color="midnightblue",fontsize="10",style="solid"];
+  Node9 -> Node1 [dir="back",color="midnightblue",fontsize="10",style="solid"];
+  Node10 -> Node1 [dir="back",color="midnightblue",fontsize="10",style="solid"];
+  Node11 -> Node1 [dir="back",color="midnightblue",fontsize="10",style="solid"];
+  Node12 -> Node1 [dir="back",color="midnightblue",fontsize="10",style="solid"];
+  Node1 -> Node13 [dir="back",color="midnightblue",fontsize="10",style="solid"];
+  Node13 [label="crc643f46942d9dd1fff9.List\lViewAdapter",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classcrc643f46942d9dd1fff9_1_1_list_view_adapter.html",tooltip=" "];
+  Node13 -> Node14 [dir="back",color="midnightblue",fontsize="10",style="solid"];
+  Node14 [label="crc643f46942d9dd1fff9.Grouped\lListViewAdapter",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classcrc643f46942d9dd1fff9_1_1_grouped_list_view_adapter.html",tooltip=" "];
+  Node13 -> Node14 [dir="back",color="midnightblue",fontsize="10",style="solid"];
+  Node13 -> Node14 [dir="back",color="midnightblue",fontsize="10",style="solid"];
+  Node13 -> Node14 [dir="back",color="midnightblue",fontsize="10",style="solid"];
+  Node1 -> Node13 [dir="back",color="midnightblue",fontsize="10",style="solid"];
+  Node1 -> Node13 [dir="back",color="midnightblue",fontsize="10",style="solid"];
+  Node1 -> Node13 [dir="back",color="midnightblue",fontsize="10",style="solid"];
+  Node1 -> Node15 [dir="back",color="midnightblue",fontsize="10",style="solid"];
+  Node15 [label="crc643f46942d9dd1fff9.Table\lViewModelRenderer",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classcrc643f46942d9dd1fff9_1_1_table_view_model_renderer.html",tooltip=" "];
+  Node1 -> Node15 [dir="back",color="midnightblue",fontsize="10",style="solid"];
+  Node1 -> Node15 [dir="back",color="midnightblue",fontsize="10",style="solid"];
+  Node1 -> Node15 [dir="back",color="midnightblue",fontsize="10",style="solid"];
+}

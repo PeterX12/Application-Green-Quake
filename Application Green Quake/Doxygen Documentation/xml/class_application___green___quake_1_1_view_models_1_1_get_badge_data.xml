@@ -1,0 +1,228 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.9.1" xml:lang="en-US">
+  <compounddef id="class_application___green___quake_1_1_view_models_1_1_get_badge_data" kind="class" language="C#" prot="public">
+    <compoundname>Application_Green_Quake::ViewModels::GetBadgeData</compoundname>
+      <sectiondef kind="private-attrib">
+      <memberdef kind="variable" id="class_application___green___quake_1_1_view_models_1_1_get_badge_data_1a3484598ba3b185e1f876cd25bb53b450" prot="private" static="no" mutable="no">
+        <type><ref refid="interface_application___green___quake_1_1_i_auth" kindref="compound">IAuth</ref></type>
+        <definition>IAuth Application_Green_Quake.ViewModels.GetBadgeData.auth</definition>
+        <argsstring></argsstring>
+        <name>auth</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake/ViewModels/GetBadgeData.cs" line="18" column="15" bodyfile="Application Green Quake/ViewModels/GetBadgeData.cs" bodystart="18" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="public-static-attrib">
+      <memberdef kind="variable" id="class_application___green___quake_1_1_view_models_1_1_get_badge_data_1acbed3c99c1f9769de5c6329645099485" prot="public" static="yes" mutable="no">
+        <type>int</type>
+        <definition>int Application_Green_Quake.ViewModels.GetBadgeData.advancedLog</definition>
+        <argsstring></argsstring>
+        <name>advancedLog</name>
+        <initializer>= 0</initializer>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake/ViewModels/GetBadgeData.cs" line="19" column="27" bodyfile="Application Green Quake/ViewModels/GetBadgeData.cs" bodystart="19" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_application___green___quake_1_1_view_models_1_1_get_badge_data_1a70f74324f7619f3dce52b8723dec7936" prot="public" static="yes" mutable="no">
+        <type>int</type>
+        <definition>int Application_Green_Quake.ViewModels.GetBadgeData.habitsLog</definition>
+        <argsstring></argsstring>
+        <name>habitsLog</name>
+        <initializer>= 0</initializer>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake/ViewModels/GetBadgeData.cs" line="20" column="27" bodyfile="Application Green Quake/ViewModels/GetBadgeData.cs" bodystart="20" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_application___green___quake_1_1_view_models_1_1_get_badge_data_1ac3dc1caa83bba486441477bb46b01469" prot="public" static="yes" mutable="no">
+        <type>int</type>
+        <definition>int Application_Green_Quake.ViewModels.GetBadgeData.communityLog</definition>
+        <argsstring></argsstring>
+        <name>communityLog</name>
+        <initializer>= 0</initializer>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake/ViewModels/GetBadgeData.cs" line="21" column="27" bodyfile="Application Green Quake/ViewModels/GetBadgeData.cs" bodystart="21" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_application___green___quake_1_1_view_models_1_1_get_badge_data_1a3d567ada3256a00eb8f6a4a1650eefb3" prot="public" static="yes" mutable="no">
+        <type>int</type>
+        <definition>int Application_Green_Quake.ViewModels.GetBadgeData.energyLog</definition>
+        <argsstring></argsstring>
+        <name>energyLog</name>
+        <initializer>= 0</initializer>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake/ViewModels/GetBadgeData.cs" line="22" column="27" bodyfile="Application Green Quake/ViewModels/GetBadgeData.cs" bodystart="22" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_application___green___quake_1_1_view_models_1_1_get_badge_data_1af23e63518b882eb25b02bbaff7f82eb0" prot="public" static="yes" mutable="no">
+        <type>int</type>
+        <definition>int Application_Green_Quake.ViewModels.GetBadgeData.foodDrinkLog</definition>
+        <argsstring></argsstring>
+        <name>foodDrinkLog</name>
+        <initializer>= 0</initializer>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake/ViewModels/GetBadgeData.cs" line="23" column="27" bodyfile="Application Green Quake/ViewModels/GetBadgeData.cs" bodystart="23" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_application___green___quake_1_1_view_models_1_1_get_badge_data_1af1dfce76d9988fb93cf1d8b05b6f7820" prot="public" static="yes" mutable="no">
+        <type>int</type>
+        <definition>int Application_Green_Quake.ViewModels.GetBadgeData.homeLog</definition>
+        <argsstring></argsstring>
+        <name>homeLog</name>
+        <initializer>= 0</initializer>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake/ViewModels/GetBadgeData.cs" line="24" column="27" bodyfile="Application Green Quake/ViewModels/GetBadgeData.cs" bodystart="24" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_application___green___quake_1_1_view_models_1_1_get_badge_data_1a09a4d5e1b40ad53fe8fcd0206b65edc2" prot="public" static="yes" mutable="no">
+        <type>int</type>
+        <definition>int Application_Green_Quake.ViewModels.GetBadgeData.outdoorsLog</definition>
+        <argsstring></argsstring>
+        <name>outdoorsLog</name>
+        <initializer>= 0</initializer>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake/ViewModels/GetBadgeData.cs" line="25" column="27" bodyfile="Application Green Quake/ViewModels/GetBadgeData.cs" bodystart="25" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_application___green___quake_1_1_view_models_1_1_get_badge_data_1a6d62a180982f4af84eec7d26f2083af1" prot="public" static="yes" mutable="no">
+        <type>int</type>
+        <definition>int Application_Green_Quake.ViewModels.GetBadgeData.shoppingLog</definition>
+        <argsstring></argsstring>
+        <name>shoppingLog</name>
+        <initializer>= 0</initializer>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake/ViewModels/GetBadgeData.cs" line="26" column="27" bodyfile="Application Green Quake/ViewModels/GetBadgeData.cs" bodystart="26" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_application___green___quake_1_1_view_models_1_1_get_badge_data_1a45871e2baadf0a381e09e6eedff1ff36" prot="public" static="yes" mutable="no">
+        <type>int</type>
+        <definition>int Application_Green_Quake.ViewModels.GetBadgeData.travelLog</definition>
+        <argsstring></argsstring>
+        <name>travelLog</name>
+        <initializer>= 0</initializer>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake/ViewModels/GetBadgeData.cs" line="27" column="27" bodyfile="Application Green Quake/ViewModels/GetBadgeData.cs" bodystart="27" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_application___green___quake_1_1_view_models_1_1_get_badge_data_1aa4e58d737bfbcfcc648c3572bb3018d9" prot="public" static="yes" mutable="no">
+        <type>int</type>
+        <definition>int Application_Green_Quake.ViewModels.GetBadgeData.wasteLog</definition>
+        <argsstring></argsstring>
+        <name>wasteLog</name>
+        <initializer>= 0</initializer>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake/ViewModels/GetBadgeData.cs" line="28" column="27" bodyfile="Application Green Quake/ViewModels/GetBadgeData.cs" bodystart="28" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_application___green___quake_1_1_view_models_1_1_get_badge_data_1a0664cafdf6f6ef7d4035b54d7115b38b" prot="public" static="yes" mutable="no">
+        <type>int</type>
+        <definition>int Application_Green_Quake.ViewModels.GetBadgeData.waterLog</definition>
+        <argsstring></argsstring>
+        <name>waterLog</name>
+        <initializer>= 0</initializer>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake/ViewModels/GetBadgeData.cs" line="29" column="27" bodyfile="Application Green Quake/ViewModels/GetBadgeData.cs" bodystart="29" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_application___green___quake_1_1_view_models_1_1_get_badge_data_1a9dcd6cc66789de04f74bc85fa7517214" prot="public" static="yes" mutable="no">
+        <type>int</type>
+        <definition>int Application_Green_Quake.ViewModels.GetBadgeData.workLog</definition>
+        <argsstring></argsstring>
+        <name>workLog</name>
+        <initializer>= 0</initializer>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake/ViewModels/GetBadgeData.cs" line="30" column="27" bodyfile="Application Green Quake/ViewModels/GetBadgeData.cs" bodystart="30" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="public-func">
+      <memberdef kind="function" id="class_application___green___quake_1_1_view_models_1_1_get_badge_data_1a5f56d1b37ba4a421d1e3b0718da4c432" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>async void</type>
+        <definition>async void Application_Green_Quake.ViewModels.GetBadgeData.SetBadgeData</definition>
+        <argsstring>()</argsstring>
+        <name>SetBadgeData</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+<para>This function sets the data that is needed for the badges screen </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake/ViewModels/GetBadgeData.cs" line="35" column="27" bodyfile="Application Green Quake/ViewModels/GetBadgeData.cs" bodystart="35" bodyend="172"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <location file="Application Green Quake/ViewModels/GetBadgeData.cs" line="16" column="5" bodyfile="Application Green Quake/ViewModels/GetBadgeData.cs" bodystart="17" bodyend="173"/>
+    <listofallmembers>
+      <member refid="class_application___green___quake_1_1_view_models_1_1_get_badge_data_1acbed3c99c1f9769de5c6329645099485" prot="public" virt="non-virtual"><scope>Application_Green_Quake::ViewModels::GetBadgeData</scope><name>advancedLog</name></member>
+      <member refid="class_application___green___quake_1_1_view_models_1_1_get_badge_data_1a3484598ba3b185e1f876cd25bb53b450" prot="private" virt="non-virtual"><scope>Application_Green_Quake::ViewModels::GetBadgeData</scope><name>auth</name></member>
+      <member refid="class_application___green___quake_1_1_view_models_1_1_get_badge_data_1ac3dc1caa83bba486441477bb46b01469" prot="public" virt="non-virtual"><scope>Application_Green_Quake::ViewModels::GetBadgeData</scope><name>communityLog</name></member>
+      <member refid="class_application___green___quake_1_1_view_models_1_1_get_badge_data_1a3d567ada3256a00eb8f6a4a1650eefb3" prot="public" virt="non-virtual"><scope>Application_Green_Quake::ViewModels::GetBadgeData</scope><name>energyLog</name></member>
+      <member refid="class_application___green___quake_1_1_view_models_1_1_get_badge_data_1af23e63518b882eb25b02bbaff7f82eb0" prot="public" virt="non-virtual"><scope>Application_Green_Quake::ViewModels::GetBadgeData</scope><name>foodDrinkLog</name></member>
+      <member refid="class_application___green___quake_1_1_view_models_1_1_get_badge_data_1a70f74324f7619f3dce52b8723dec7936" prot="public" virt="non-virtual"><scope>Application_Green_Quake::ViewModels::GetBadgeData</scope><name>habitsLog</name></member>
+      <member refid="class_application___green___quake_1_1_view_models_1_1_get_badge_data_1af1dfce76d9988fb93cf1d8b05b6f7820" prot="public" virt="non-virtual"><scope>Application_Green_Quake::ViewModels::GetBadgeData</scope><name>homeLog</name></member>
+      <member refid="class_application___green___quake_1_1_view_models_1_1_get_badge_data_1a09a4d5e1b40ad53fe8fcd0206b65edc2" prot="public" virt="non-virtual"><scope>Application_Green_Quake::ViewModels::GetBadgeData</scope><name>outdoorsLog</name></member>
+      <member refid="class_application___green___quake_1_1_view_models_1_1_get_badge_data_1a5f56d1b37ba4a421d1e3b0718da4c432" prot="public" virt="non-virtual"><scope>Application_Green_Quake::ViewModels::GetBadgeData</scope><name>SetBadgeData</name></member>
+      <member refid="class_application___green___quake_1_1_view_models_1_1_get_badge_data_1a6d62a180982f4af84eec7d26f2083af1" prot="public" virt="non-virtual"><scope>Application_Green_Quake::ViewModels::GetBadgeData</scope><name>shoppingLog</name></member>
+      <member refid="class_application___green___quake_1_1_view_models_1_1_get_badge_data_1a45871e2baadf0a381e09e6eedff1ff36" prot="public" virt="non-virtual"><scope>Application_Green_Quake::ViewModels::GetBadgeData</scope><name>travelLog</name></member>
+      <member refid="class_application___green___quake_1_1_view_models_1_1_get_badge_data_1aa4e58d737bfbcfcc648c3572bb3018d9" prot="public" virt="non-virtual"><scope>Application_Green_Quake::ViewModels::GetBadgeData</scope><name>wasteLog</name></member>
+      <member refid="class_application___green___quake_1_1_view_models_1_1_get_badge_data_1a0664cafdf6f6ef7d4035b54d7115b38b" prot="public" virt="non-virtual"><scope>Application_Green_Quake::ViewModels::GetBadgeData</scope><name>waterLog</name></member>
+      <member refid="class_application___green___quake_1_1_view_models_1_1_get_badge_data_1a9dcd6cc66789de04f74bc85fa7517214" prot="public" virt="non-virtual"><scope>Application_Green_Quake::ViewModels::GetBadgeData</scope><name>workLog</name></member>
+    </listofallmembers>
+  </compounddef>
+</doxygen>

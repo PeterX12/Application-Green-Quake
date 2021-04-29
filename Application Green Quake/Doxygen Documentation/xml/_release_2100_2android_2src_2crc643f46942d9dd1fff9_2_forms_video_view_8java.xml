@@ -1,0 +1,103 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.9.1" xml:lang="en-US">
+  <compounddef id="_release_2100_2android_2src_2crc643f46942d9dd1fff9_2_forms_video_view_8java" kind="file" language="Java">
+    <compoundname>FormsVideoView.java</compoundname>
+    <innerclass refid="classcrc643f46942d9dd1fff9_1_1_forms_video_view" prot="public">crc643f46942d9dd1fff9::FormsVideoView</innerclass>
+    <innernamespace refid="namespacecrc643f46942d9dd1fff9">crc643f46942d9dd1fff9</innernamespace>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <programlisting>
+<codeline lineno="1"><highlight class="keyword">package<sp/></highlight><highlight class="normal">crc643f46942d9dd1fff9;</highlight></codeline>
+<codeline lineno="2"><highlight class="normal"></highlight></codeline>
+<codeline lineno="3"><highlight class="normal"></highlight></codeline>
+<codeline lineno="4"><highlight class="normal"></highlight><highlight class="keyword">public</highlight><highlight class="normal"><sp/></highlight><highlight class="keyword">class<sp/></highlight><highlight class="normal">FormsVideoView</highlight></codeline>
+<codeline lineno="5"><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">extends</highlight><highlight class="normal"><sp/>android.widget.VideoView</highlight></codeline>
+<codeline lineno="6"><highlight class="normal"><sp/><sp/><sp/><sp/>implements</highlight></codeline>
+<codeline lineno="7"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>mono.android.IGCUserPeer</highlight></codeline>
+<codeline lineno="8"><highlight class="normal">{</highlight></codeline>
+<codeline lineno="10"><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">public</highlight><highlight class="normal"><sp/></highlight><highlight class="keyword">static</highlight><highlight class="normal"><sp/></highlight><highlight class="keyword">final</highlight><highlight class="normal"><sp/>String<sp/><ref refid="classcrc643f46942d9dd1fff9_1_1_forms_video_view_1aa142117bd23fc47fba2f9c52512a1cbe" kindref="member">__md_methods</ref>;</highlight></codeline>
+<codeline lineno="11"><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">static</highlight><highlight class="normal"><sp/>{</highlight></codeline>
+<codeline lineno="12"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><ref refid="classcrc643f46942d9dd1fff9_1_1_forms_video_view_1aa142117bd23fc47fba2f9c52512a1cbe" kindref="member">__md_methods</ref><sp/>=<sp/></highlight></codeline>
+<codeline lineno="13"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="stringliteral">&quot;n_setVideoPath:(Ljava/lang/String;)V:GetSetVideoPath_Ljava_lang_String_Handler\n&quot;</highlight><highlight class="normal"><sp/>+</highlight></codeline>
+<codeline lineno="14"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="stringliteral">&quot;n_setVideoURI:(Landroid/net/Uri;Ljava/util/Map;)V:GetSetVideoURI_Landroid_net_Uri_Ljava_util_Map_Handler\n&quot;</highlight><highlight class="normal"><sp/>+</highlight></codeline>
+<codeline lineno="15"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="stringliteral">&quot;n_setVideoURI:(Landroid/net/Uri;)V:GetSetVideoURI_Landroid_net_Uri_Handler\n&quot;</highlight><highlight class="normal"><sp/>+</highlight></codeline>
+<codeline lineno="16"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="stringliteral">&quot;&quot;</highlight><highlight class="normal">;</highlight></codeline>
+<codeline lineno="17"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>mono.android.Runtime.register<sp/>(</highlight><highlight class="stringliteral">&quot;Xamarin.Forms.Platform.Android.FormsVideoView,<sp/>Xamarin.Forms.Platform.Android&quot;</highlight><highlight class="normal">,<sp/><ref refid="classcrc643f46942d9dd1fff9_1_1_forms_video_view_1a62f9d527b0963b9e85c226806f1c6b2f" kindref="member">FormsVideoView</ref>.class,<sp/><ref refid="classcrc643f46942d9dd1fff9_1_1_forms_video_view_1aa142117bd23fc47fba2f9c52512a1cbe" kindref="member">__md_methods</ref>);</highlight></codeline>
+<codeline lineno="18"><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline lineno="19"><highlight class="normal"></highlight></codeline>
+<codeline lineno="20"><highlight class="normal"></highlight></codeline>
+<codeline lineno="21" refid="classcrc643f46942d9dd1fff9_1_1_forms_video_view_1a62f9d527b0963b9e85c226806f1c6b2f" refkind="member"><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">public</highlight><highlight class="normal"><sp/><ref refid="classcrc643f46942d9dd1fff9_1_1_forms_video_view_1a62f9d527b0963b9e85c226806f1c6b2f" kindref="member">FormsVideoView</ref><sp/>(android.content.Context<sp/>p0)</highlight></codeline>
+<codeline lineno="22"><highlight class="normal"><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline lineno="23"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>super<sp/>(p0);</highlight></codeline>
+<codeline lineno="24"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">if</highlight><highlight class="normal"><sp/>(getClass<sp/>()<sp/>==<sp/><ref refid="classcrc643f46942d9dd1fff9_1_1_forms_video_view" kindref="compound">FormsVideoView</ref>.class)</highlight></codeline>
+<codeline lineno="25"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>mono.android.TypeManager.Activate<sp/>(</highlight><highlight class="stringliteral">&quot;Xamarin.Forms.Platform.Android.FormsVideoView,<sp/>Xamarin.Forms.Platform.Android&quot;</highlight><highlight class="normal">,<sp/></highlight><highlight class="stringliteral">&quot;Android.Content.Context,<sp/>Mono.Android&quot;</highlight><highlight class="normal">,<sp/></highlight><highlight class="keyword">this</highlight><highlight class="normal">,<sp/></highlight><highlight class="keyword">new</highlight><highlight class="normal"><sp/>java.lang.Object[]<sp/>{<sp/>p0<sp/>});</highlight></codeline>
+<codeline lineno="26"><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline lineno="27"><highlight class="normal"></highlight></codeline>
+<codeline lineno="28"><highlight class="normal"></highlight></codeline>
+<codeline lineno="29" refid="classcrc643f46942d9dd1fff9_1_1_forms_video_view_1a613cc58fb84809acfe93cd74faa0d544" refkind="member"><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">public</highlight><highlight class="normal"><sp/><ref refid="classcrc643f46942d9dd1fff9_1_1_forms_video_view_1a613cc58fb84809acfe93cd74faa0d544" kindref="member">FormsVideoView</ref><sp/>(android.content.Context<sp/>p0,<sp/>android.util.AttributeSet<sp/>p1)</highlight></codeline>
+<codeline lineno="30"><highlight class="normal"><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline lineno="31"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>super<sp/>(p0,<sp/>p1);</highlight></codeline>
+<codeline lineno="32"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">if</highlight><highlight class="normal"><sp/>(getClass<sp/>()<sp/>==<sp/><ref refid="classcrc643f46942d9dd1fff9_1_1_forms_video_view" kindref="compound">FormsVideoView</ref>.class)</highlight></codeline>
+<codeline lineno="33"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>mono.android.TypeManager.Activate<sp/>(</highlight><highlight class="stringliteral">&quot;Xamarin.Forms.Platform.Android.FormsVideoView,<sp/>Xamarin.Forms.Platform.Android&quot;</highlight><highlight class="normal">,<sp/></highlight><highlight class="stringliteral">&quot;Android.Content.Context,<sp/>Mono.Android:Android.Util.IAttributeSet,<sp/>Mono.Android&quot;</highlight><highlight class="normal">,<sp/></highlight><highlight class="keyword">this</highlight><highlight class="normal">,<sp/></highlight><highlight class="keyword">new</highlight><highlight class="normal"><sp/>java.lang.Object[]<sp/>{<sp/>p0,<sp/>p1<sp/>});</highlight></codeline>
+<codeline lineno="34"><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline lineno="35"><highlight class="normal"></highlight></codeline>
+<codeline lineno="36"><highlight class="normal"></highlight></codeline>
+<codeline lineno="37" refid="classcrc643f46942d9dd1fff9_1_1_forms_video_view_1a68ee2a80b9cd4bb81ec26ccc05518c95" refkind="member"><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">public</highlight><highlight class="normal"><sp/><ref refid="classcrc643f46942d9dd1fff9_1_1_forms_video_view_1a68ee2a80b9cd4bb81ec26ccc05518c95" kindref="member">FormsVideoView</ref><sp/>(android.content.Context<sp/>p0,<sp/>android.util.AttributeSet<sp/>p1,<sp/></highlight><highlight class="keywordtype">int</highlight><highlight class="normal"><sp/>p2)</highlight></codeline>
+<codeline lineno="38"><highlight class="normal"><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline lineno="39"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>super<sp/>(p0,<sp/>p1,<sp/>p2);</highlight></codeline>
+<codeline lineno="40"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">if</highlight><highlight class="normal"><sp/>(getClass<sp/>()<sp/>==<sp/><ref refid="classcrc643f46942d9dd1fff9_1_1_forms_video_view" kindref="compound">FormsVideoView</ref>.class)</highlight></codeline>
+<codeline lineno="41"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>mono.android.TypeManager.Activate<sp/>(</highlight><highlight class="stringliteral">&quot;Xamarin.Forms.Platform.Android.FormsVideoView,<sp/>Xamarin.Forms.Platform.Android&quot;</highlight><highlight class="normal">,<sp/></highlight><highlight class="stringliteral">&quot;Android.Content.Context,<sp/>Mono.Android:Android.Util.IAttributeSet,<sp/>Mono.Android:System.Int32,<sp/>mscorlib&quot;</highlight><highlight class="normal">,<sp/></highlight><highlight class="keyword">this</highlight><highlight class="normal">,<sp/></highlight><highlight class="keyword">new</highlight><highlight class="normal"><sp/>java.lang.Object[]<sp/>{<sp/>p0,<sp/>p1,<sp/>p2<sp/>});</highlight></codeline>
+<codeline lineno="42"><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline lineno="43"><highlight class="normal"></highlight></codeline>
+<codeline lineno="44"><highlight class="normal"></highlight></codeline>
+<codeline lineno="45" refid="classcrc643f46942d9dd1fff9_1_1_forms_video_view_1a28c5d4d77fb250ce8939c33fdc1a5175" refkind="member"><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">public</highlight><highlight class="normal"><sp/><ref refid="classcrc643f46942d9dd1fff9_1_1_forms_video_view_1a28c5d4d77fb250ce8939c33fdc1a5175" kindref="member">FormsVideoView</ref><sp/>(android.content.Context<sp/>p0,<sp/>android.util.AttributeSet<sp/>p1,<sp/></highlight><highlight class="keywordtype">int</highlight><highlight class="normal"><sp/>p2,<sp/></highlight><highlight class="keywordtype">int</highlight><highlight class="normal"><sp/>p3)</highlight></codeline>
+<codeline lineno="46"><highlight class="normal"><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline lineno="47"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>super<sp/>(p0,<sp/>p1,<sp/>p2,<sp/>p3);</highlight></codeline>
+<codeline lineno="48"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">if</highlight><highlight class="normal"><sp/>(getClass<sp/>()<sp/>==<sp/><ref refid="classcrc643f46942d9dd1fff9_1_1_forms_video_view" kindref="compound">FormsVideoView</ref>.class)</highlight></codeline>
+<codeline lineno="49"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>mono.android.TypeManager.Activate<sp/>(</highlight><highlight class="stringliteral">&quot;Xamarin.Forms.Platform.Android.FormsVideoView,<sp/>Xamarin.Forms.Platform.Android&quot;</highlight><highlight class="normal">,<sp/></highlight><highlight class="stringliteral">&quot;Android.Content.Context,<sp/>Mono.Android:Android.Util.IAttributeSet,<sp/>Mono.Android:System.Int32,<sp/>mscorlib:System.Int32,<sp/>mscorlib&quot;</highlight><highlight class="normal">,<sp/></highlight><highlight class="keyword">this</highlight><highlight class="normal">,<sp/></highlight><highlight class="keyword">new</highlight><highlight class="normal"><sp/>java.lang.Object[]<sp/>{<sp/>p0,<sp/>p1,<sp/>p2,<sp/>p3<sp/>});</highlight></codeline>
+<codeline lineno="50"><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline lineno="51"><highlight class="normal"></highlight></codeline>
+<codeline lineno="52"><highlight class="normal"></highlight></codeline>
+<codeline lineno="53" refid="classcrc643f46942d9dd1fff9_1_1_forms_video_view_1aebb3997de1db9eb64394a806022458a1" refkind="member"><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">public</highlight><highlight class="normal"><sp/></highlight><highlight class="keywordtype">void</highlight><highlight class="normal"><sp/><ref refid="classcrc643f46942d9dd1fff9_1_1_forms_video_view_1aebb3997de1db9eb64394a806022458a1" kindref="member">setVideoPath</ref><sp/>(java.lang.String<sp/>p0)</highlight></codeline>
+<codeline lineno="54"><highlight class="normal"><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline lineno="55"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>n_setVideoPath<sp/>(p0);</highlight></codeline>
+<codeline lineno="56"><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline lineno="57"><highlight class="normal"></highlight></codeline>
+<codeline lineno="58"><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">private</highlight><highlight class="normal"><sp/>native<sp/></highlight><highlight class="keywordtype">void</highlight><highlight class="normal"><sp/>n_setVideoPath<sp/>(java.lang.String<sp/>p0);</highlight></codeline>
+<codeline lineno="59"><highlight class="normal"></highlight></codeline>
+<codeline lineno="60"><highlight class="normal"></highlight></codeline>
+<codeline lineno="61" refid="classcrc643f46942d9dd1fff9_1_1_forms_video_view_1a53ea99d69f01c7a696bcc936672c9f5c" refkind="member"><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">public</highlight><highlight class="normal"><sp/></highlight><highlight class="keywordtype">void</highlight><highlight class="normal"><sp/><ref refid="classcrc643f46942d9dd1fff9_1_1_forms_video_view_1a53ea99d69f01c7a696bcc936672c9f5c" kindref="member">setVideoURI</ref><sp/>(android.net.Uri<sp/>p0,<sp/>java.util.Map<sp/>p1)</highlight></codeline>
+<codeline lineno="62"><highlight class="normal"><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline lineno="63"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>n_setVideoURI<sp/>(p0,<sp/>p1);</highlight></codeline>
+<codeline lineno="64"><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline lineno="65"><highlight class="normal"></highlight></codeline>
+<codeline lineno="66"><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">private</highlight><highlight class="normal"><sp/>native<sp/></highlight><highlight class="keywordtype">void</highlight><highlight class="normal"><sp/>n_setVideoURI<sp/>(android.net.Uri<sp/>p0,<sp/>java.util.Map<sp/>p1);</highlight></codeline>
+<codeline lineno="67"><highlight class="normal"></highlight></codeline>
+<codeline lineno="68"><highlight class="normal"></highlight></codeline>
+<codeline lineno="69" refid="classcrc643f46942d9dd1fff9_1_1_forms_video_view_1a4d22e2b310b2097a6c24b7a9ea94a6a2" refkind="member"><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">public</highlight><highlight class="normal"><sp/></highlight><highlight class="keywordtype">void</highlight><highlight class="normal"><sp/><ref refid="classcrc643f46942d9dd1fff9_1_1_forms_video_view_1a4d22e2b310b2097a6c24b7a9ea94a6a2" kindref="member">setVideoURI</ref><sp/>(android.net.Uri<sp/>p0)</highlight></codeline>
+<codeline lineno="70"><highlight class="normal"><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline lineno="71"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>n_setVideoURI<sp/>(p0);</highlight></codeline>
+<codeline lineno="72"><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline lineno="73"><highlight class="normal"></highlight></codeline>
+<codeline lineno="74"><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">private</highlight><highlight class="normal"><sp/>native<sp/></highlight><highlight class="keywordtype">void</highlight><highlight class="normal"><sp/>n_setVideoURI<sp/>(android.net.Uri<sp/>p0);</highlight></codeline>
+<codeline lineno="75"><highlight class="normal"></highlight></codeline>
+<codeline lineno="76"><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">private</highlight><highlight class="normal"><sp/>java.util.ArrayList<sp/>refList;</highlight></codeline>
+<codeline lineno="77" refid="classcrc643f46942d9dd1fff9_1_1_forms_video_view_1a35beed52271fee0bbfa110897ae5d6d4" refkind="member"><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">public</highlight><highlight class="normal"><sp/></highlight><highlight class="keywordtype">void</highlight><highlight class="normal"><sp/><ref refid="classcrc643f46942d9dd1fff9_1_1_forms_video_view_1a35beed52271fee0bbfa110897ae5d6d4" kindref="member">monodroidAddReference</ref><sp/>(java.lang.Object<sp/>obj)</highlight></codeline>
+<codeline lineno="78"><highlight class="normal"><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline lineno="79"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">if</highlight><highlight class="normal"><sp/>(refList<sp/>==<sp/></highlight><highlight class="keyword">null</highlight><highlight class="normal">)</highlight></codeline>
+<codeline lineno="80"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>refList<sp/>=<sp/></highlight><highlight class="keyword">new</highlight><highlight class="normal"><sp/>java.util.ArrayList<sp/>();</highlight></codeline>
+<codeline lineno="81"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>refList.add<sp/>(obj);</highlight></codeline>
+<codeline lineno="82"><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline lineno="83"><highlight class="normal"></highlight></codeline>
+<codeline lineno="84" refid="classcrc643f46942d9dd1fff9_1_1_forms_video_view_1a128b755fb0a6049667e1fe67deafbf04" refkind="member"><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">public</highlight><highlight class="normal"><sp/></highlight><highlight class="keywordtype">void</highlight><highlight class="normal"><sp/><ref refid="classcrc643f46942d9dd1fff9_1_1_forms_video_view_1a128b755fb0a6049667e1fe67deafbf04" kindref="member">monodroidClearReferences</ref><sp/>()</highlight></codeline>
+<codeline lineno="85"><highlight class="normal"><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline lineno="86"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">if</highlight><highlight class="normal"><sp/>(refList<sp/>!=<sp/></highlight><highlight class="keyword">null</highlight><highlight class="normal">)</highlight></codeline>
+<codeline lineno="87"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>refList.clear<sp/>();</highlight></codeline>
+<codeline lineno="88"><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline lineno="89"><highlight class="normal">}</highlight></codeline>
+    </programlisting>
+    <location file="Application Green Quake.Android/obj/Release/100/android/src/crc643f46942d9dd1fff9/FormsVideoView.java"/>
+  </compounddef>
+</doxygen>

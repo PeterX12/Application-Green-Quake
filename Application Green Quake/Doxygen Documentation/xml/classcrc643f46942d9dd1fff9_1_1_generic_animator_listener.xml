@@ -1,0 +1,906 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.9.1" xml:lang="en-US">
+  <compounddef id="classcrc643f46942d9dd1fff9_1_1_generic_animator_listener" kind="class" language="Java" prot="public">
+    <compoundname>crc643f46942d9dd1fff9::GenericAnimatorListener</compoundname>
+    <basecompoundref prot="public" virt="non-virtual">android.animation.AnimatorListenerAdapter</basecompoundref>
+    <basecompoundref prot="public" virt="non-virtual">mono.android.IGCUserPeer</basecompoundref>
+    <basecompoundref prot="public" virt="non-virtual">android.animation.AnimatorListenerAdapter</basecompoundref>
+    <basecompoundref prot="public" virt="non-virtual">mono.android.IGCUserPeer</basecompoundref>
+    <basecompoundref prot="public" virt="non-virtual">android.animation.AnimatorListenerAdapter</basecompoundref>
+    <basecompoundref prot="public" virt="non-virtual">mono.android.IGCUserPeer</basecompoundref>
+    <basecompoundref prot="public" virt="non-virtual">android.animation.AnimatorListenerAdapter</basecompoundref>
+    <basecompoundref prot="public" virt="non-virtual">mono.android.IGCUserPeer</basecompoundref>
+      <sectiondef kind="public-static-attrib">
+      <memberdef kind="variable" id="classcrc643f46942d9dd1fff9_1_1_generic_animator_listener_1a38e8e7687cf281e5d6857105133bc206" prot="public" static="yes" mutable="no">
+        <type>final String</type>
+        <definition>static final String crc643f46942d9dd1fff9.GenericAnimatorListener::__md_methods</definition>
+        <argsstring></argsstring>
+        <name>__md_methods</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+<para>@hide </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/100/android/src/crc643f46942d9dd1fff9/GenericAnimatorListener.java" line="10" column="28" bodyfile="Application Green Quake.Android/obj/Debug/100/android/src/crc643f46942d9dd1fff9/GenericAnimatorListener.java" bodystart="10" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="private-attrib">
+      <memberdef kind="variable" id="classcrc643f46942d9dd1fff9_1_1_generic_animator_listener_1affb275563d0070d8bd355ded5cca456d" prot="private" static="no" mutable="no">
+        <type>java.util.ArrayList</type>
+        <definition>java util ArrayList crc643f46942d9dd1fff9.GenericAnimatorListener::refList</definition>
+        <argsstring></argsstring>
+        <name>refList</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/100/android/src/crc643f46942d9dd1fff9/GenericAnimatorListener.java" line="61" column="27" bodyfile="Application Green Quake.Android/obj/Debug/100/android/src/crc643f46942d9dd1fff9/GenericAnimatorListener.java" bodystart="61" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="package-static-func">
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_generic_animator_listener_1ace97978292655da7ce66f5d38588c51d" prot="package" static="yes" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>crc643f46942d9dd1fff9.GenericAnimatorListener.[static initializer]</definition>
+        <argsstring></argsstring>
+        <name>[static initializer]</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/100/android/src/crc643f46942d9dd1fff9/GenericAnimatorListener.java" line="10" column="28"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_generic_animator_listener_1ace97978292655da7ce66f5d38588c51d" prot="package" static="yes" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>crc643f46942d9dd1fff9.GenericAnimatorListener.[static initializer]</definition>
+        <argsstring></argsstring>
+        <name>[static initializer]</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/110/android/src/crc643f46942d9dd1fff9/GenericAnimatorListener.java" line="10" column="28"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_generic_animator_listener_1ace97978292655da7ce66f5d38588c51d" prot="package" static="yes" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>crc643f46942d9dd1fff9.GenericAnimatorListener.[static initializer]</definition>
+        <argsstring></argsstring>
+        <name>[static initializer]</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/100/android/src/crc643f46942d9dd1fff9/GenericAnimatorListener.java" line="10" column="28"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_generic_animator_listener_1ace97978292655da7ce66f5d38588c51d" prot="package" static="yes" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>crc643f46942d9dd1fff9.GenericAnimatorListener.[static initializer]</definition>
+        <argsstring></argsstring>
+        <name>[static initializer]</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/110/android/src/crc643f46942d9dd1fff9/GenericAnimatorListener.java" line="10" column="28"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="public-func">
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_generic_animator_listener_1ad95cea941fcd9c2c5de363685e0da37f" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>crc643f46942d9dd1fff9.GenericAnimatorListener.GenericAnimatorListener</definition>
+        <argsstring>()</argsstring>
+        <name>GenericAnimatorListener</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/100/android/src/crc643f46942d9dd1fff9/GenericAnimatorListener.java" line="22" column="8" bodyfile="Application Green Quake.Android/obj/Debug/100/android/src/crc643f46942d9dd1fff9/GenericAnimatorListener.java" bodystart="22" bodyend="27"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_generic_animator_listener_1adb0fb4fa760e6c75016623d126d33289" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void crc643f46942d9dd1fff9.GenericAnimatorListener.onAnimationCancel</definition>
+        <argsstring>(android.animation.Animator p0)</argsstring>
+        <name>onAnimationCancel</name>
+        <param>
+          <type>android.animation.Animator</type>
+          <declname>p0</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/100/android/src/crc643f46942d9dd1fff9/GenericAnimatorListener.java" line="30" column="13" bodyfile="Application Green Quake.Android/obj/Debug/100/android/src/crc643f46942d9dd1fff9/GenericAnimatorListener.java" bodystart="30" bodyend="33"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_generic_animator_listener_1a340601673d387bbaa0a11eb06a125b74" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void crc643f46942d9dd1fff9.GenericAnimatorListener.onAnimationEnd</definition>
+        <argsstring>(android.animation.Animator p0)</argsstring>
+        <name>onAnimationEnd</name>
+        <param>
+          <type>android.animation.Animator</type>
+          <declname>p0</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/100/android/src/crc643f46942d9dd1fff9/GenericAnimatorListener.java" line="38" column="13" bodyfile="Application Green Quake.Android/obj/Debug/100/android/src/crc643f46942d9dd1fff9/GenericAnimatorListener.java" bodystart="38" bodyend="41"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_generic_animator_listener_1a779f87f1ba2bbafb1ec69aa3cba38a9a" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void crc643f46942d9dd1fff9.GenericAnimatorListener.onAnimationRepeat</definition>
+        <argsstring>(android.animation.Animator p0)</argsstring>
+        <name>onAnimationRepeat</name>
+        <param>
+          <type>android.animation.Animator</type>
+          <declname>p0</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/100/android/src/crc643f46942d9dd1fff9/GenericAnimatorListener.java" line="46" column="13" bodyfile="Application Green Quake.Android/obj/Debug/100/android/src/crc643f46942d9dd1fff9/GenericAnimatorListener.java" bodystart="46" bodyend="49"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_generic_animator_listener_1af52502fd15127e605417d387e4241fc8" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void crc643f46942d9dd1fff9.GenericAnimatorListener.finalize</definition>
+        <argsstring>()</argsstring>
+        <name>finalize</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/100/android/src/crc643f46942d9dd1fff9/GenericAnimatorListener.java" line="54" column="13" bodyfile="Application Green Quake.Android/obj/Debug/100/android/src/crc643f46942d9dd1fff9/GenericAnimatorListener.java" bodystart="54" bodyend="57"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_generic_animator_listener_1a0e2274cfd4cc63d9e71c242c82a84c5a" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void crc643f46942d9dd1fff9.GenericAnimatorListener.monodroidAddReference</definition>
+        <argsstring>(java.lang.Object obj)</argsstring>
+        <name>monodroidAddReference</name>
+        <param>
+          <type>java.lang.Object</type>
+          <declname>obj</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/100/android/src/crc643f46942d9dd1fff9/GenericAnimatorListener.java" line="62" column="13" bodyfile="Application Green Quake.Android/obj/Debug/100/android/src/crc643f46942d9dd1fff9/GenericAnimatorListener.java" bodystart="62" bodyend="67"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_generic_animator_listener_1a5860d2e599bb1aab21696f4d6f528a3e" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void crc643f46942d9dd1fff9.GenericAnimatorListener.monodroidClearReferences</definition>
+        <argsstring>()</argsstring>
+        <name>monodroidClearReferences</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/100/android/src/crc643f46942d9dd1fff9/GenericAnimatorListener.java" line="69" column="13" bodyfile="Application Green Quake.Android/obj/Debug/100/android/src/crc643f46942d9dd1fff9/GenericAnimatorListener.java" bodystart="69" bodyend="73"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_generic_animator_listener_1ad95cea941fcd9c2c5de363685e0da37f" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>crc643f46942d9dd1fff9.GenericAnimatorListener.GenericAnimatorListener</definition>
+        <argsstring>()</argsstring>
+        <name>GenericAnimatorListener</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/110/android/src/crc643f46942d9dd1fff9/GenericAnimatorListener.java" line="22" column="8" bodyfile="Application Green Quake.Android/obj/Debug/110/android/src/crc643f46942d9dd1fff9/GenericAnimatorListener.java" bodystart="22" bodyend="27"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_generic_animator_listener_1adb0fb4fa760e6c75016623d126d33289" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void crc643f46942d9dd1fff9.GenericAnimatorListener.onAnimationCancel</definition>
+        <argsstring>(android.animation.Animator p0)</argsstring>
+        <name>onAnimationCancel</name>
+        <param>
+          <type>android.animation.Animator</type>
+          <declname>p0</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/110/android/src/crc643f46942d9dd1fff9/GenericAnimatorListener.java" line="30" column="13" bodyfile="Application Green Quake.Android/obj/Debug/110/android/src/crc643f46942d9dd1fff9/GenericAnimatorListener.java" bodystart="30" bodyend="33"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_generic_animator_listener_1a340601673d387bbaa0a11eb06a125b74" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void crc643f46942d9dd1fff9.GenericAnimatorListener.onAnimationEnd</definition>
+        <argsstring>(android.animation.Animator p0)</argsstring>
+        <name>onAnimationEnd</name>
+        <param>
+          <type>android.animation.Animator</type>
+          <declname>p0</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/110/android/src/crc643f46942d9dd1fff9/GenericAnimatorListener.java" line="38" column="13" bodyfile="Application Green Quake.Android/obj/Debug/110/android/src/crc643f46942d9dd1fff9/GenericAnimatorListener.java" bodystart="38" bodyend="41"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_generic_animator_listener_1a779f87f1ba2bbafb1ec69aa3cba38a9a" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void crc643f46942d9dd1fff9.GenericAnimatorListener.onAnimationRepeat</definition>
+        <argsstring>(android.animation.Animator p0)</argsstring>
+        <name>onAnimationRepeat</name>
+        <param>
+          <type>android.animation.Animator</type>
+          <declname>p0</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/110/android/src/crc643f46942d9dd1fff9/GenericAnimatorListener.java" line="46" column="13" bodyfile="Application Green Quake.Android/obj/Debug/110/android/src/crc643f46942d9dd1fff9/GenericAnimatorListener.java" bodystart="46" bodyend="49"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_generic_animator_listener_1af52502fd15127e605417d387e4241fc8" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void crc643f46942d9dd1fff9.GenericAnimatorListener.finalize</definition>
+        <argsstring>()</argsstring>
+        <name>finalize</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/110/android/src/crc643f46942d9dd1fff9/GenericAnimatorListener.java" line="54" column="13" bodyfile="Application Green Quake.Android/obj/Debug/110/android/src/crc643f46942d9dd1fff9/GenericAnimatorListener.java" bodystart="54" bodyend="57"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_generic_animator_listener_1a0e2274cfd4cc63d9e71c242c82a84c5a" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void crc643f46942d9dd1fff9.GenericAnimatorListener.monodroidAddReference</definition>
+        <argsstring>(java.lang.Object obj)</argsstring>
+        <name>monodroidAddReference</name>
+        <param>
+          <type>java.lang.Object</type>
+          <declname>obj</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/110/android/src/crc643f46942d9dd1fff9/GenericAnimatorListener.java" line="62" column="13" bodyfile="Application Green Quake.Android/obj/Debug/110/android/src/crc643f46942d9dd1fff9/GenericAnimatorListener.java" bodystart="62" bodyend="67"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_generic_animator_listener_1a5860d2e599bb1aab21696f4d6f528a3e" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void crc643f46942d9dd1fff9.GenericAnimatorListener.monodroidClearReferences</definition>
+        <argsstring>()</argsstring>
+        <name>monodroidClearReferences</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/110/android/src/crc643f46942d9dd1fff9/GenericAnimatorListener.java" line="69" column="13" bodyfile="Application Green Quake.Android/obj/Debug/110/android/src/crc643f46942d9dd1fff9/GenericAnimatorListener.java" bodystart="69" bodyend="73"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_generic_animator_listener_1ad95cea941fcd9c2c5de363685e0da37f" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>crc643f46942d9dd1fff9.GenericAnimatorListener.GenericAnimatorListener</definition>
+        <argsstring>()</argsstring>
+        <name>GenericAnimatorListener</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/100/android/src/crc643f46942d9dd1fff9/GenericAnimatorListener.java" line="22" column="8" bodyfile="Application Green Quake.Android/obj/Release/100/android/src/crc643f46942d9dd1fff9/GenericAnimatorListener.java" bodystart="22" bodyend="27"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_generic_animator_listener_1adb0fb4fa760e6c75016623d126d33289" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void crc643f46942d9dd1fff9.GenericAnimatorListener.onAnimationCancel</definition>
+        <argsstring>(android.animation.Animator p0)</argsstring>
+        <name>onAnimationCancel</name>
+        <param>
+          <type>android.animation.Animator</type>
+          <declname>p0</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/100/android/src/crc643f46942d9dd1fff9/GenericAnimatorListener.java" line="30" column="13" bodyfile="Application Green Quake.Android/obj/Release/100/android/src/crc643f46942d9dd1fff9/GenericAnimatorListener.java" bodystart="30" bodyend="33"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_generic_animator_listener_1a340601673d387bbaa0a11eb06a125b74" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void crc643f46942d9dd1fff9.GenericAnimatorListener.onAnimationEnd</definition>
+        <argsstring>(android.animation.Animator p0)</argsstring>
+        <name>onAnimationEnd</name>
+        <param>
+          <type>android.animation.Animator</type>
+          <declname>p0</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/100/android/src/crc643f46942d9dd1fff9/GenericAnimatorListener.java" line="38" column="13" bodyfile="Application Green Quake.Android/obj/Release/100/android/src/crc643f46942d9dd1fff9/GenericAnimatorListener.java" bodystart="38" bodyend="41"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_generic_animator_listener_1a779f87f1ba2bbafb1ec69aa3cba38a9a" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void crc643f46942d9dd1fff9.GenericAnimatorListener.onAnimationRepeat</definition>
+        <argsstring>(android.animation.Animator p0)</argsstring>
+        <name>onAnimationRepeat</name>
+        <param>
+          <type>android.animation.Animator</type>
+          <declname>p0</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/100/android/src/crc643f46942d9dd1fff9/GenericAnimatorListener.java" line="46" column="13" bodyfile="Application Green Quake.Android/obj/Release/100/android/src/crc643f46942d9dd1fff9/GenericAnimatorListener.java" bodystart="46" bodyend="49"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_generic_animator_listener_1af52502fd15127e605417d387e4241fc8" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void crc643f46942d9dd1fff9.GenericAnimatorListener.finalize</definition>
+        <argsstring>()</argsstring>
+        <name>finalize</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/100/android/src/crc643f46942d9dd1fff9/GenericAnimatorListener.java" line="54" column="13" bodyfile="Application Green Quake.Android/obj/Release/100/android/src/crc643f46942d9dd1fff9/GenericAnimatorListener.java" bodystart="54" bodyend="57"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_generic_animator_listener_1a0e2274cfd4cc63d9e71c242c82a84c5a" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void crc643f46942d9dd1fff9.GenericAnimatorListener.monodroidAddReference</definition>
+        <argsstring>(java.lang.Object obj)</argsstring>
+        <name>monodroidAddReference</name>
+        <param>
+          <type>java.lang.Object</type>
+          <declname>obj</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/100/android/src/crc643f46942d9dd1fff9/GenericAnimatorListener.java" line="62" column="13" bodyfile="Application Green Quake.Android/obj/Release/100/android/src/crc643f46942d9dd1fff9/GenericAnimatorListener.java" bodystart="62" bodyend="67"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_generic_animator_listener_1a5860d2e599bb1aab21696f4d6f528a3e" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void crc643f46942d9dd1fff9.GenericAnimatorListener.monodroidClearReferences</definition>
+        <argsstring>()</argsstring>
+        <name>monodroidClearReferences</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/100/android/src/crc643f46942d9dd1fff9/GenericAnimatorListener.java" line="69" column="13" bodyfile="Application Green Quake.Android/obj/Release/100/android/src/crc643f46942d9dd1fff9/GenericAnimatorListener.java" bodystart="69" bodyend="73"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_generic_animator_listener_1ad95cea941fcd9c2c5de363685e0da37f" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>crc643f46942d9dd1fff9.GenericAnimatorListener.GenericAnimatorListener</definition>
+        <argsstring>()</argsstring>
+        <name>GenericAnimatorListener</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/110/android/src/crc643f46942d9dd1fff9/GenericAnimatorListener.java" line="22" column="8" bodyfile="Application Green Quake.Android/obj/Release/110/android/src/crc643f46942d9dd1fff9/GenericAnimatorListener.java" bodystart="22" bodyend="27"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_generic_animator_listener_1adb0fb4fa760e6c75016623d126d33289" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void crc643f46942d9dd1fff9.GenericAnimatorListener.onAnimationCancel</definition>
+        <argsstring>(android.animation.Animator p0)</argsstring>
+        <name>onAnimationCancel</name>
+        <param>
+          <type>android.animation.Animator</type>
+          <declname>p0</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/110/android/src/crc643f46942d9dd1fff9/GenericAnimatorListener.java" line="30" column="13" bodyfile="Application Green Quake.Android/obj/Release/110/android/src/crc643f46942d9dd1fff9/GenericAnimatorListener.java" bodystart="30" bodyend="33"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_generic_animator_listener_1a340601673d387bbaa0a11eb06a125b74" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void crc643f46942d9dd1fff9.GenericAnimatorListener.onAnimationEnd</definition>
+        <argsstring>(android.animation.Animator p0)</argsstring>
+        <name>onAnimationEnd</name>
+        <param>
+          <type>android.animation.Animator</type>
+          <declname>p0</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/110/android/src/crc643f46942d9dd1fff9/GenericAnimatorListener.java" line="38" column="13" bodyfile="Application Green Quake.Android/obj/Release/110/android/src/crc643f46942d9dd1fff9/GenericAnimatorListener.java" bodystart="38" bodyend="41"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_generic_animator_listener_1a779f87f1ba2bbafb1ec69aa3cba38a9a" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void crc643f46942d9dd1fff9.GenericAnimatorListener.onAnimationRepeat</definition>
+        <argsstring>(android.animation.Animator p0)</argsstring>
+        <name>onAnimationRepeat</name>
+        <param>
+          <type>android.animation.Animator</type>
+          <declname>p0</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/110/android/src/crc643f46942d9dd1fff9/GenericAnimatorListener.java" line="46" column="13" bodyfile="Application Green Quake.Android/obj/Release/110/android/src/crc643f46942d9dd1fff9/GenericAnimatorListener.java" bodystart="46" bodyend="49"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_generic_animator_listener_1af52502fd15127e605417d387e4241fc8" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void crc643f46942d9dd1fff9.GenericAnimatorListener.finalize</definition>
+        <argsstring>()</argsstring>
+        <name>finalize</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/110/android/src/crc643f46942d9dd1fff9/GenericAnimatorListener.java" line="54" column="13" bodyfile="Application Green Quake.Android/obj/Release/110/android/src/crc643f46942d9dd1fff9/GenericAnimatorListener.java" bodystart="54" bodyend="57"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_generic_animator_listener_1a0e2274cfd4cc63d9e71c242c82a84c5a" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void crc643f46942d9dd1fff9.GenericAnimatorListener.monodroidAddReference</definition>
+        <argsstring>(java.lang.Object obj)</argsstring>
+        <name>monodroidAddReference</name>
+        <param>
+          <type>java.lang.Object</type>
+          <declname>obj</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/110/android/src/crc643f46942d9dd1fff9/GenericAnimatorListener.java" line="62" column="13" bodyfile="Application Green Quake.Android/obj/Release/110/android/src/crc643f46942d9dd1fff9/GenericAnimatorListener.java" bodystart="62" bodyend="67"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_generic_animator_listener_1a5860d2e599bb1aab21696f4d6f528a3e" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void crc643f46942d9dd1fff9.GenericAnimatorListener.monodroidClearReferences</definition>
+        <argsstring>()</argsstring>
+        <name>monodroidClearReferences</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/110/android/src/crc643f46942d9dd1fff9/GenericAnimatorListener.java" line="69" column="13" bodyfile="Application Green Quake.Android/obj/Release/110/android/src/crc643f46942d9dd1fff9/GenericAnimatorListener.java" bodystart="69" bodyend="73"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="private-func">
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_generic_animator_listener_1a0679bb194e8a35cd8d3219fce1111de5" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>native void</type>
+        <definition>native void crc643f46942d9dd1fff9.GenericAnimatorListener.n_onAnimationCancel</definition>
+        <argsstring>(android.animation.Animator p0)</argsstring>
+        <name>n_onAnimationCancel</name>
+        <param>
+          <type>android.animation.Animator</type>
+          <declname>p0</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/100/android/src/crc643f46942d9dd1fff9/GenericAnimatorListener.java" line="35" column="21"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_generic_animator_listener_1a1ed88450b0ced3b5a31d5e59368eb26b" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>native void</type>
+        <definition>native void crc643f46942d9dd1fff9.GenericAnimatorListener.n_onAnimationEnd</definition>
+        <argsstring>(android.animation.Animator p0)</argsstring>
+        <name>n_onAnimationEnd</name>
+        <param>
+          <type>android.animation.Animator</type>
+          <declname>p0</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/100/android/src/crc643f46942d9dd1fff9/GenericAnimatorListener.java" line="43" column="21"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_generic_animator_listener_1a16d993500cbeb79076c5c1ae2a4adc8b" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>native void</type>
+        <definition>native void crc643f46942d9dd1fff9.GenericAnimatorListener.n_onAnimationRepeat</definition>
+        <argsstring>(android.animation.Animator p0)</argsstring>
+        <name>n_onAnimationRepeat</name>
+        <param>
+          <type>android.animation.Animator</type>
+          <declname>p0</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/100/android/src/crc643f46942d9dd1fff9/GenericAnimatorListener.java" line="51" column="21"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_generic_animator_listener_1a7f43a642676947e01b0bc93ac49f27ce" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>native void</type>
+        <definition>native void crc643f46942d9dd1fff9.GenericAnimatorListener.n_finalize</definition>
+        <argsstring>()</argsstring>
+        <name>n_finalize</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/100/android/src/crc643f46942d9dd1fff9/GenericAnimatorListener.java" line="59" column="21"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_generic_animator_listener_1a0679bb194e8a35cd8d3219fce1111de5" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>native void</type>
+        <definition>native void crc643f46942d9dd1fff9.GenericAnimatorListener.n_onAnimationCancel</definition>
+        <argsstring>(android.animation.Animator p0)</argsstring>
+        <name>n_onAnimationCancel</name>
+        <param>
+          <type>android.animation.Animator</type>
+          <declname>p0</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/110/android/src/crc643f46942d9dd1fff9/GenericAnimatorListener.java" line="35" column="21"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_generic_animator_listener_1a1ed88450b0ced3b5a31d5e59368eb26b" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>native void</type>
+        <definition>native void crc643f46942d9dd1fff9.GenericAnimatorListener.n_onAnimationEnd</definition>
+        <argsstring>(android.animation.Animator p0)</argsstring>
+        <name>n_onAnimationEnd</name>
+        <param>
+          <type>android.animation.Animator</type>
+          <declname>p0</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/110/android/src/crc643f46942d9dd1fff9/GenericAnimatorListener.java" line="43" column="21"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_generic_animator_listener_1a16d993500cbeb79076c5c1ae2a4adc8b" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>native void</type>
+        <definition>native void crc643f46942d9dd1fff9.GenericAnimatorListener.n_onAnimationRepeat</definition>
+        <argsstring>(android.animation.Animator p0)</argsstring>
+        <name>n_onAnimationRepeat</name>
+        <param>
+          <type>android.animation.Animator</type>
+          <declname>p0</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/110/android/src/crc643f46942d9dd1fff9/GenericAnimatorListener.java" line="51" column="21"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_generic_animator_listener_1a7f43a642676947e01b0bc93ac49f27ce" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>native void</type>
+        <definition>native void crc643f46942d9dd1fff9.GenericAnimatorListener.n_finalize</definition>
+        <argsstring>()</argsstring>
+        <name>n_finalize</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/110/android/src/crc643f46942d9dd1fff9/GenericAnimatorListener.java" line="59" column="21"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_generic_animator_listener_1a0679bb194e8a35cd8d3219fce1111de5" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>native void</type>
+        <definition>native void crc643f46942d9dd1fff9.GenericAnimatorListener.n_onAnimationCancel</definition>
+        <argsstring>(android.animation.Animator p0)</argsstring>
+        <name>n_onAnimationCancel</name>
+        <param>
+          <type>android.animation.Animator</type>
+          <declname>p0</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/100/android/src/crc643f46942d9dd1fff9/GenericAnimatorListener.java" line="35" column="21"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_generic_animator_listener_1a1ed88450b0ced3b5a31d5e59368eb26b" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>native void</type>
+        <definition>native void crc643f46942d9dd1fff9.GenericAnimatorListener.n_onAnimationEnd</definition>
+        <argsstring>(android.animation.Animator p0)</argsstring>
+        <name>n_onAnimationEnd</name>
+        <param>
+          <type>android.animation.Animator</type>
+          <declname>p0</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/100/android/src/crc643f46942d9dd1fff9/GenericAnimatorListener.java" line="43" column="21"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_generic_animator_listener_1a16d993500cbeb79076c5c1ae2a4adc8b" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>native void</type>
+        <definition>native void crc643f46942d9dd1fff9.GenericAnimatorListener.n_onAnimationRepeat</definition>
+        <argsstring>(android.animation.Animator p0)</argsstring>
+        <name>n_onAnimationRepeat</name>
+        <param>
+          <type>android.animation.Animator</type>
+          <declname>p0</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/100/android/src/crc643f46942d9dd1fff9/GenericAnimatorListener.java" line="51" column="21"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_generic_animator_listener_1a7f43a642676947e01b0bc93ac49f27ce" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>native void</type>
+        <definition>native void crc643f46942d9dd1fff9.GenericAnimatorListener.n_finalize</definition>
+        <argsstring>()</argsstring>
+        <name>n_finalize</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/100/android/src/crc643f46942d9dd1fff9/GenericAnimatorListener.java" line="59" column="21"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_generic_animator_listener_1a0679bb194e8a35cd8d3219fce1111de5" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>native void</type>
+        <definition>native void crc643f46942d9dd1fff9.GenericAnimatorListener.n_onAnimationCancel</definition>
+        <argsstring>(android.animation.Animator p0)</argsstring>
+        <name>n_onAnimationCancel</name>
+        <param>
+          <type>android.animation.Animator</type>
+          <declname>p0</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/110/android/src/crc643f46942d9dd1fff9/GenericAnimatorListener.java" line="35" column="21"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_generic_animator_listener_1a1ed88450b0ced3b5a31d5e59368eb26b" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>native void</type>
+        <definition>native void crc643f46942d9dd1fff9.GenericAnimatorListener.n_onAnimationEnd</definition>
+        <argsstring>(android.animation.Animator p0)</argsstring>
+        <name>n_onAnimationEnd</name>
+        <param>
+          <type>android.animation.Animator</type>
+          <declname>p0</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/110/android/src/crc643f46942d9dd1fff9/GenericAnimatorListener.java" line="43" column="21"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_generic_animator_listener_1a16d993500cbeb79076c5c1ae2a4adc8b" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>native void</type>
+        <definition>native void crc643f46942d9dd1fff9.GenericAnimatorListener.n_onAnimationRepeat</definition>
+        <argsstring>(android.animation.Animator p0)</argsstring>
+        <name>n_onAnimationRepeat</name>
+        <param>
+          <type>android.animation.Animator</type>
+          <declname>p0</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/110/android/src/crc643f46942d9dd1fff9/GenericAnimatorListener.java" line="51" column="21"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_generic_animator_listener_1a7f43a642676947e01b0bc93ac49f27ce" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>native void</type>
+        <definition>native void crc643f46942d9dd1fff9.GenericAnimatorListener.n_finalize</definition>
+        <argsstring>()</argsstring>
+        <name>n_finalize</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/110/android/src/crc643f46942d9dd1fff9/GenericAnimatorListener.java" line="59" column="21"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <inheritancegraph>
+      <node id="2">
+        <label>android::animation::AnimatorListenerAdapter</label>
+      </node>
+      <node id="4">
+        <label>android.animation.AnimatorListenerAdapter</label>
+      </node>
+      <node id="1">
+        <label>crc643f46942d9dd1fff9.GenericAnimatorListener</label>
+        <link refid="classcrc643f46942d9dd1fff9_1_1_generic_animator_listener"/>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+        <childnode refid="3" relation="public-inheritance">
+        </childnode>
+        <childnode refid="4" relation="public-inheritance">
+        </childnode>
+        <childnode refid="3" relation="public-inheritance">
+        </childnode>
+        <childnode refid="4" relation="public-inheritance">
+        </childnode>
+        <childnode refid="3" relation="public-inheritance">
+        </childnode>
+        <childnode refid="4" relation="public-inheritance">
+        </childnode>
+        <childnode refid="3" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="3">
+        <label>mono.android.IGCUserPeer</label>
+      </node>
+    </inheritancegraph>
+    <collaborationgraph>
+      <node id="2">
+        <label>android::animation::AnimatorListenerAdapter</label>
+      </node>
+      <node id="4">
+        <label>android.animation.AnimatorListenerAdapter</label>
+      </node>
+      <node id="1">
+        <label>crc643f46942d9dd1fff9.GenericAnimatorListener</label>
+        <link refid="classcrc643f46942d9dd1fff9_1_1_generic_animator_listener"/>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+        <childnode refid="3" relation="public-inheritance">
+        </childnode>
+        <childnode refid="4" relation="public-inheritance">
+        </childnode>
+        <childnode refid="3" relation="public-inheritance">
+        </childnode>
+        <childnode refid="4" relation="public-inheritance">
+        </childnode>
+        <childnode refid="3" relation="public-inheritance">
+        </childnode>
+        <childnode refid="4" relation="public-inheritance">
+        </childnode>
+        <childnode refid="3" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="3">
+        <label>mono.android.IGCUserPeer</label>
+      </node>
+    </collaborationgraph>
+    <location file="Application Green Quake.Android/obj/Debug/100/android/src/crc643f46942d9dd1fff9/GenericAnimatorListener.java" line="4" column="7" bodyfile="Application Green Quake.Android/obj/Debug/100/android/src/crc643f46942d9dd1fff9/GenericAnimatorListener.java" bodystart="8" bodyend="74"/>
+    <listofallmembers>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_generic_animator_listener_1ace97978292655da7ce66f5d38588c51d" prot="package" virt="non-virtual"><scope>crc643f46942d9dd1fff9::GenericAnimatorListener</scope><name>[static initializer]</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_generic_animator_listener_1ace97978292655da7ce66f5d38588c51d" prot="package" virt="non-virtual"><scope>crc643f46942d9dd1fff9::GenericAnimatorListener</scope><name>[static initializer]</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_generic_animator_listener_1ace97978292655da7ce66f5d38588c51d" prot="package" virt="non-virtual"><scope>crc643f46942d9dd1fff9::GenericAnimatorListener</scope><name>[static initializer]</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_generic_animator_listener_1ace97978292655da7ce66f5d38588c51d" prot="package" virt="non-virtual"><scope>crc643f46942d9dd1fff9::GenericAnimatorListener</scope><name>[static initializer]</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_generic_animator_listener_1a38e8e7687cf281e5d6857105133bc206" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::GenericAnimatorListener</scope><name>__md_methods</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_generic_animator_listener_1af52502fd15127e605417d387e4241fc8" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::GenericAnimatorListener</scope><name>finalize</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_generic_animator_listener_1af52502fd15127e605417d387e4241fc8" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::GenericAnimatorListener</scope><name>finalize</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_generic_animator_listener_1af52502fd15127e605417d387e4241fc8" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::GenericAnimatorListener</scope><name>finalize</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_generic_animator_listener_1af52502fd15127e605417d387e4241fc8" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::GenericAnimatorListener</scope><name>finalize</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_generic_animator_listener_1ad95cea941fcd9c2c5de363685e0da37f" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::GenericAnimatorListener</scope><name>GenericAnimatorListener</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_generic_animator_listener_1ad95cea941fcd9c2c5de363685e0da37f" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::GenericAnimatorListener</scope><name>GenericAnimatorListener</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_generic_animator_listener_1ad95cea941fcd9c2c5de363685e0da37f" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::GenericAnimatorListener</scope><name>GenericAnimatorListener</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_generic_animator_listener_1ad95cea941fcd9c2c5de363685e0da37f" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::GenericAnimatorListener</scope><name>GenericAnimatorListener</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_generic_animator_listener_1a0e2274cfd4cc63d9e71c242c82a84c5a" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::GenericAnimatorListener</scope><name>monodroidAddReference</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_generic_animator_listener_1a0e2274cfd4cc63d9e71c242c82a84c5a" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::GenericAnimatorListener</scope><name>monodroidAddReference</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_generic_animator_listener_1a0e2274cfd4cc63d9e71c242c82a84c5a" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::GenericAnimatorListener</scope><name>monodroidAddReference</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_generic_animator_listener_1a0e2274cfd4cc63d9e71c242c82a84c5a" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::GenericAnimatorListener</scope><name>monodroidAddReference</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_generic_animator_listener_1a5860d2e599bb1aab21696f4d6f528a3e" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::GenericAnimatorListener</scope><name>monodroidClearReferences</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_generic_animator_listener_1a5860d2e599bb1aab21696f4d6f528a3e" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::GenericAnimatorListener</scope><name>monodroidClearReferences</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_generic_animator_listener_1a5860d2e599bb1aab21696f4d6f528a3e" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::GenericAnimatorListener</scope><name>monodroidClearReferences</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_generic_animator_listener_1a5860d2e599bb1aab21696f4d6f528a3e" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::GenericAnimatorListener</scope><name>monodroidClearReferences</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_generic_animator_listener_1a7f43a642676947e01b0bc93ac49f27ce" prot="private" virt="non-virtual"><scope>crc643f46942d9dd1fff9::GenericAnimatorListener</scope><name>n_finalize</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_generic_animator_listener_1a7f43a642676947e01b0bc93ac49f27ce" prot="private" virt="non-virtual"><scope>crc643f46942d9dd1fff9::GenericAnimatorListener</scope><name>n_finalize</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_generic_animator_listener_1a7f43a642676947e01b0bc93ac49f27ce" prot="private" virt="non-virtual"><scope>crc643f46942d9dd1fff9::GenericAnimatorListener</scope><name>n_finalize</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_generic_animator_listener_1a7f43a642676947e01b0bc93ac49f27ce" prot="private" virt="non-virtual"><scope>crc643f46942d9dd1fff9::GenericAnimatorListener</scope><name>n_finalize</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_generic_animator_listener_1a0679bb194e8a35cd8d3219fce1111de5" prot="private" virt="non-virtual"><scope>crc643f46942d9dd1fff9::GenericAnimatorListener</scope><name>n_onAnimationCancel</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_generic_animator_listener_1a0679bb194e8a35cd8d3219fce1111de5" prot="private" virt="non-virtual"><scope>crc643f46942d9dd1fff9::GenericAnimatorListener</scope><name>n_onAnimationCancel</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_generic_animator_listener_1a0679bb194e8a35cd8d3219fce1111de5" prot="private" virt="non-virtual"><scope>crc643f46942d9dd1fff9::GenericAnimatorListener</scope><name>n_onAnimationCancel</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_generic_animator_listener_1a0679bb194e8a35cd8d3219fce1111de5" prot="private" virt="non-virtual"><scope>crc643f46942d9dd1fff9::GenericAnimatorListener</scope><name>n_onAnimationCancel</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_generic_animator_listener_1a1ed88450b0ced3b5a31d5e59368eb26b" prot="private" virt="non-virtual"><scope>crc643f46942d9dd1fff9::GenericAnimatorListener</scope><name>n_onAnimationEnd</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_generic_animator_listener_1a1ed88450b0ced3b5a31d5e59368eb26b" prot="private" virt="non-virtual"><scope>crc643f46942d9dd1fff9::GenericAnimatorListener</scope><name>n_onAnimationEnd</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_generic_animator_listener_1a1ed88450b0ced3b5a31d5e59368eb26b" prot="private" virt="non-virtual"><scope>crc643f46942d9dd1fff9::GenericAnimatorListener</scope><name>n_onAnimationEnd</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_generic_animator_listener_1a1ed88450b0ced3b5a31d5e59368eb26b" prot="private" virt="non-virtual"><scope>crc643f46942d9dd1fff9::GenericAnimatorListener</scope><name>n_onAnimationEnd</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_generic_animator_listener_1a16d993500cbeb79076c5c1ae2a4adc8b" prot="private" virt="non-virtual"><scope>crc643f46942d9dd1fff9::GenericAnimatorListener</scope><name>n_onAnimationRepeat</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_generic_animator_listener_1a16d993500cbeb79076c5c1ae2a4adc8b" prot="private" virt="non-virtual"><scope>crc643f46942d9dd1fff9::GenericAnimatorListener</scope><name>n_onAnimationRepeat</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_generic_animator_listener_1a16d993500cbeb79076c5c1ae2a4adc8b" prot="private" virt="non-virtual"><scope>crc643f46942d9dd1fff9::GenericAnimatorListener</scope><name>n_onAnimationRepeat</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_generic_animator_listener_1a16d993500cbeb79076c5c1ae2a4adc8b" prot="private" virt="non-virtual"><scope>crc643f46942d9dd1fff9::GenericAnimatorListener</scope><name>n_onAnimationRepeat</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_generic_animator_listener_1adb0fb4fa760e6c75016623d126d33289" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::GenericAnimatorListener</scope><name>onAnimationCancel</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_generic_animator_listener_1adb0fb4fa760e6c75016623d126d33289" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::GenericAnimatorListener</scope><name>onAnimationCancel</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_generic_animator_listener_1adb0fb4fa760e6c75016623d126d33289" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::GenericAnimatorListener</scope><name>onAnimationCancel</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_generic_animator_listener_1adb0fb4fa760e6c75016623d126d33289" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::GenericAnimatorListener</scope><name>onAnimationCancel</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_generic_animator_listener_1a340601673d387bbaa0a11eb06a125b74" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::GenericAnimatorListener</scope><name>onAnimationEnd</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_generic_animator_listener_1a340601673d387bbaa0a11eb06a125b74" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::GenericAnimatorListener</scope><name>onAnimationEnd</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_generic_animator_listener_1a340601673d387bbaa0a11eb06a125b74" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::GenericAnimatorListener</scope><name>onAnimationEnd</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_generic_animator_listener_1a340601673d387bbaa0a11eb06a125b74" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::GenericAnimatorListener</scope><name>onAnimationEnd</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_generic_animator_listener_1a779f87f1ba2bbafb1ec69aa3cba38a9a" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::GenericAnimatorListener</scope><name>onAnimationRepeat</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_generic_animator_listener_1a779f87f1ba2bbafb1ec69aa3cba38a9a" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::GenericAnimatorListener</scope><name>onAnimationRepeat</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_generic_animator_listener_1a779f87f1ba2bbafb1ec69aa3cba38a9a" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::GenericAnimatorListener</scope><name>onAnimationRepeat</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_generic_animator_listener_1a779f87f1ba2bbafb1ec69aa3cba38a9a" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::GenericAnimatorListener</scope><name>onAnimationRepeat</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_generic_animator_listener_1affb275563d0070d8bd355ded5cca456d" prot="private" virt="non-virtual"><scope>crc643f46942d9dd1fff9::GenericAnimatorListener</scope><name>refList</name></member>
+    </listofallmembers>
+  </compounddef>
+</doxygen>

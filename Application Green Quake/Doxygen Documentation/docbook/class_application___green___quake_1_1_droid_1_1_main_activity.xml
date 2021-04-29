@@ -1,0 +1,70 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<section xmlns="http://docbook.org/ns/docbook" version="5.0" xmlns:xlink="http://www.w3.org/1999/xlink" xml:id="_class_application___green___quake_1_1_droid_1_1_main_activity" xml:lang="en-US">
+<title>Application_Green_Quake.Droid.MainActivity Class Reference</title>
+<indexterm><primary>Application_Green_Quake.Droid.MainActivity</primary></indexterm>
+Inheritance diagram for Application_Green_Quake.Droid.MainActivity:<para>
+    <informalfigure>
+        <mediaobject>
+            <imageobject>
+                <imagedata width="50%" align="center" valign="middle" scalefit="0" fileref="class_application___green___quake_1_1_droid_1_1_main_activity__inherit__graph.png"></imagedata>
+            </imageobject>
+        </mediaobject>
+    </informalfigure>
+</para>
+Collaboration diagram for Application_Green_Quake.Droid.MainActivity:<para>
+    <informalfigure>
+        <mediaobject>
+            <imageobject>
+                <imagedata width="50%" align="center" valign="middle" scalefit="0" fileref="class_application___green___quake_1_1_droid_1_1_main_activity__coll__graph.png"></imagedata>
+            </imageobject>
+        </mediaobject>
+    </informalfigure>
+</para>
+<simplesect>
+    <title>Public Member Functions    </title>
+        <itemizedlist>
+            <listitem><para>override void <link linkend="_class_application___green___quake_1_1_droid_1_1_main_activity_1a421110fbb2378d6f8b49b3eba2b8ca3e">OnBackPressed</link> ()</para>
+</listitem>
+            <listitem><para>override void <link linkend="_class_application___green___quake_1_1_droid_1_1_main_activity_1ab78bbb078fd33c4f62b0cb083be29c94">OnRequestPermissionsResult</link> (int requestCode, string[] permissions, [GeneratedEnum] Android.Content.PM.Permission[] grantResults)</para>
+</listitem>
+        </itemizedlist>
+</simplesect>
+<simplesect>
+    <title>Protected Member Functions    </title>
+        <itemizedlist>
+            <listitem><para>override void <link linkend="_class_application___green___quake_1_1_droid_1_1_main_activity_1a87216e6670457bb3e48583610891ecd3">OnCreate</link> (Bundle savedInstanceState)</para>
+</listitem>
+        </itemizedlist>
+</simplesect>
+<section>
+<title>Detailed Description</title>
+<para>
+Definition at line 20 of file MainActivity.cs.</para>
+</section>
+<section>
+<title>Member Function Documentation</title>
+<anchor xml:id="_class_application___green___quake_1_1_droid_1_1_main_activity_1a421110fbb2378d6f8b49b3eba2b8ca3e"/>    <section>
+    <title>OnBackPressed()</title>
+<indexterm><primary>OnBackPressed</primary><secondary>Application_Green_Quake.Droid.MainActivity</secondary></indexterm>
+<indexterm><primary>Application_Green_Quake.Droid.MainActivity</primary><secondary>OnBackPressed</secondary></indexterm>
+<para><computeroutput>override void Application_Green_Quake.Droid.MainActivity.OnBackPressed ( )</computeroutput></para>
+<para>This function makes it that when outside of a pop up is touched the popup closes. </para>
+<para>
+Definition at line 24 of file MainActivity.cs.</para>
+    </section><anchor xml:id="_class_application___green___quake_1_1_droid_1_1_main_activity_1a87216e6670457bb3e48583610891ecd3"/>    <section>
+    <title>OnCreate()</title>
+<indexterm><primary>OnCreate</primary><secondary>Application_Green_Quake.Droid.MainActivity</secondary></indexterm>
+<indexterm><primary>Application_Green_Quake.Droid.MainActivity</primary><secondary>OnCreate</secondary></indexterm>
+<para><computeroutput>override void Application_Green_Quake.Droid.MainActivity.OnCreate (Bundle savedInstanceState)<computeroutput>[protected]</computeroutput></computeroutput></para><para>
+Definition at line 28 of file MainActivity.cs.</para>
+    </section><anchor xml:id="_class_application___green___quake_1_1_droid_1_1_main_activity_1ab78bbb078fd33c4f62b0cb083be29c94"/>    <section>
+    <title>OnRequestPermissionsResult()</title>
+<indexterm><primary>OnRequestPermissionsResult</primary><secondary>Application_Green_Quake.Droid.MainActivity</secondary></indexterm>
+<indexterm><primary>Application_Green_Quake.Droid.MainActivity</primary><secondary>OnRequestPermissionsResult</secondary></indexterm>
+<para><computeroutput>override void Application_Green_Quake.Droid.MainActivity.OnRequestPermissionsResult (int requestCode, string[] permissions, [GeneratedEnum] Android.Content.PM.Permission[] grantResults)</computeroutput></para><para>
+Definition at line 45 of file MainActivity.cs.</para>
+</section>
+<para>
+The documentation for this class was generated from the following file:</para>
+Application Green Quake.Android/<link linkend="__main_activity_8cs">MainActivity.cs</link></section>
+</section>

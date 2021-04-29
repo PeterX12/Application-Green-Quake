@@ -1,0 +1,154 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.9.1" xml:lang="en-US">
+  <compounddef id="class_application___green___quake_1_1_views_1_1_eco_actions_1_1_energy_1_1_led_light_bulb" kind="class" language="C#" prot="public">
+    <compoundname>Application_Green_Quake::Views::EcoActions::Energy::LedLightBulb</compoundname>
+    <basecompoundref prot="public" virt="non-virtual">global.XamarinForms.ContentPage</basecompoundref>
+    <basecompoundref prot="public" virt="non-virtual">global.XamarinForms.ContentPage</basecompoundref>
+    <basecompoundref prot="public" virt="non-virtual">ContentPage</basecompoundref>
+      <sectiondef kind="private-attrib">
+      <memberdef kind="variable" id="class_application___green___quake_1_1_views_1_1_eco_actions_1_1_energy_1_1_led_light_bulb_1ab2d1f5fba5efff81b5b655aa43cf8c5c" prot="private" static="no" mutable="no">
+        <type>global::Xamarin.Forms.Label</type>
+        <definition>Xamarin Forms global::Label Application_Green_Quake.Views.EcoActions.Energy.LedLightBulb::theLevel</definition>
+        <argsstring></argsstring>
+        <name>theLevel</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake/obj/Debug/netstandard2.0/Views/EcoActions/Energy/LedLightbulb.xaml.g.cs" line="20" column="43" bodyfile="Application Green Quake/obj/Debug/netstandard2.0/Views/EcoActions/Energy/LedLightbulb.xaml.g.cs" bodystart="20" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="private-func">
+      <memberdef kind="function" id="class_application___green___quake_1_1_views_1_1_eco_actions_1_1_energy_1_1_led_light_bulb_1a272c32d4521bd2a4ff00e9a377da44cc" prot="private" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void Application_Green_Quake.Views.EcoActions.Energy.LedLightBulb.InitializeComponent</definition>
+        <argsstring>()</argsstring>
+        <name>InitializeComponent</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake/obj/Debug/netstandard2.0/Views/EcoActions/Energy/LedLightbulb.xaml.g.cs" line="23" column="22" bodyfile="Application Green Quake/obj/Debug/netstandard2.0/Views/EcoActions/Energy/LedLightbulb.xaml.g.cs" bodystart="23" bodyend="26"/>
+      </memberdef>
+      <memberdef kind="function" id="class_application___green___quake_1_1_views_1_1_eco_actions_1_1_energy_1_1_led_light_bulb_1a272c32d4521bd2a4ff00e9a377da44cc" prot="private" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void Application_Green_Quake.Views.EcoActions.Energy.LedLightBulb.InitializeComponent</definition>
+        <argsstring>()</argsstring>
+        <name>InitializeComponent</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake/obj/Release/netstandard2.0/Views/EcoActions/Energy/LedLightbulb.xaml.g.cs" line="23" column="22" bodyfile="Application Green Quake/obj/Release/netstandard2.0/Views/EcoActions/Energy/LedLightbulb.xaml.g.cs" bodystart="23" bodyend="26"/>
+      </memberdef>
+      <memberdef kind="function" id="class_application___green___quake_1_1_views_1_1_eco_actions_1_1_energy_1_1_led_light_bulb_1a72f458db3148c1c7d9e9a7cfe7c3af89" prot="private" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>async void</type>
+        <definition>async void Application_Green_Quake.Views.EcoActions.Energy.LedLightBulb.AddPointsClicked</definition>
+        <argsstring>(object sender, EventArgs e)</argsstring>
+        <name>AddPointsClicked</name>
+        <param>
+          <type>object</type>
+          <declname>sender</declname>
+        </param>
+        <param>
+          <type>EventArgs</type>
+          <declname>e</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+<para>This function creates objects and calls their methods. First the security methods are called and if they return false call the points updating methods </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake/Views/EcoActions/Energy/LedLightbulb.xaml.cs" line="29" column="28" bodyfile="Application Green Quake/Views/EcoActions/Energy/LedLightbulb.xaml.cs" bodystart="29" bodyend="57"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="public-func">
+      <memberdef kind="function" id="class_application___green___quake_1_1_views_1_1_eco_actions_1_1_energy_1_1_led_light_bulb_1a021c3f512fe82a1ab41f6ec8168b0b48" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>Application_Green_Quake.Views.EcoActions.Energy.LedLightBulb.LedLightBulb</definition>
+        <argsstring>()</argsstring>
+        <name>LedLightBulb</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake/Views/EcoActions/Energy/LedLightbulb.xaml.cs" line="21" column="16" bodyfile="Application Green Quake/Views/EcoActions/Energy/LedLightbulb.xaml.cs" bodystart="21" bodyend="25"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="protected-func">
+      <memberdef kind="function" id="class_application___green___quake_1_1_views_1_1_eco_actions_1_1_energy_1_1_led_light_bulb_1ab4f04c120888e65f003f9e4c0635273f" prot="protected" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>override void</type>
+        <definition>override void Application_Green_Quake.Views.EcoActions.Energy.LedLightBulb.OnAppearing</definition>
+        <argsstring>()</argsstring>
+        <name>OnAppearing</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+<para>This function is called before the page is displayed and it created an object ans uses it&apos;s SetLvl method to set the players level in the app and display it in the navigation bar. </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake/Views/EcoActions/Energy/LedLightbulb.xaml.cs" line="61" column="33" bodyfile="Application Green Quake/Views/EcoActions/Energy/LedLightbulb.xaml.cs" bodystart="61" bodyend="67"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <inheritancegraph>
+      <node id="1">
+        <label>Application_Green_Quake.Views.EcoActions.Energy.LedLightBulb</label>
+        <link refid="class_application___green___quake_1_1_views_1_1_eco_actions_1_1_energy_1_1_led_light_bulb"/>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+        <childnode refid="3" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="3">
+        <label>ContentPage</label>
+      </node>
+      <node id="2">
+        <label>global::XamarinForms::ContentPage</label>
+      </node>
+    </inheritancegraph>
+    <collaborationgraph>
+      <node id="1">
+        <label>Application_Green_Quake.Views.EcoActions.Energy.LedLightBulb</label>
+        <link refid="class_application___green___quake_1_1_views_1_1_eco_actions_1_1_energy_1_1_led_light_bulb"/>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+        <childnode refid="3" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="3">
+        <label>ContentPage</label>
+      </node>
+      <node id="2">
+        <label>global::XamarinForms::ContentPage</label>
+      </node>
+    </collaborationgraph>
+    <location file="Application Green Quake/obj/Debug/netstandard2.0/Views/EcoActions/Energy/LedLightbulb.xaml.g.cs" line="17" column="19" bodyfile="Application Green Quake/obj/Debug/netstandard2.0/Views/EcoActions/Energy/LedLightbulb.xaml.g.cs" bodystart="17" bodyend="27"/>
+    <listofallmembers>
+      <member refid="class_application___green___quake_1_1_views_1_1_eco_actions_1_1_energy_1_1_led_light_bulb_1a72f458db3148c1c7d9e9a7cfe7c3af89" prot="private" virt="non-virtual"><scope>Application_Green_Quake::Views::EcoActions::Energy::LedLightBulb</scope><name>AddPointsClicked</name></member>
+      <member refid="class_application___green___quake_1_1_views_1_1_eco_actions_1_1_energy_1_1_led_light_bulb_1a272c32d4521bd2a4ff00e9a377da44cc" prot="private" virt="non-virtual"><scope>Application_Green_Quake::Views::EcoActions::Energy::LedLightBulb</scope><name>InitializeComponent</name></member>
+      <member refid="class_application___green___quake_1_1_views_1_1_eco_actions_1_1_energy_1_1_led_light_bulb_1a272c32d4521bd2a4ff00e9a377da44cc" prot="private" virt="non-virtual"><scope>Application_Green_Quake::Views::EcoActions::Energy::LedLightBulb</scope><name>InitializeComponent</name></member>
+      <member refid="class_application___green___quake_1_1_views_1_1_eco_actions_1_1_energy_1_1_led_light_bulb_1a021c3f512fe82a1ab41f6ec8168b0b48" prot="public" virt="non-virtual"><scope>Application_Green_Quake::Views::EcoActions::Energy::LedLightBulb</scope><name>LedLightBulb</name></member>
+      <member refid="class_application___green___quake_1_1_views_1_1_eco_actions_1_1_energy_1_1_led_light_bulb_1ab4f04c120888e65f003f9e4c0635273f" prot="protected" virt="non-virtual"><scope>Application_Green_Quake::Views::EcoActions::Energy::LedLightBulb</scope><name>OnAppearing</name></member>
+      <member refid="class_application___green___quake_1_1_views_1_1_eco_actions_1_1_energy_1_1_led_light_bulb_1ab2d1f5fba5efff81b5b655aa43cf8c5c" prot="private" virt="non-virtual"><scope>Application_Green_Quake::Views::EcoActions::Energy::LedLightBulb</scope><name>theLevel</name></member>
+    </listofallmembers>
+  </compounddef>
+</doxygen>

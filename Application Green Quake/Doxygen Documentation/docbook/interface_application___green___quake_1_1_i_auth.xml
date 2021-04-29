@@ -1,0 +1,78 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<section xmlns="http://docbook.org/ns/docbook" version="5.0" xmlns:xlink="http://www.w3.org/1999/xlink" xml:id="_interface_application___green___quake_1_1_i_auth" xml:lang="en-US">
+<title>Application_Green_Quake.IAuth Interface Reference</title>
+<indexterm><primary>Application_Green_Quake.IAuth</primary></indexterm>
+Inheritance diagram for Application_Green_Quake.IAuth:<para>
+    <informalfigure>
+        <mediaobject>
+            <imageobject>
+                <imagedata width="50%" align="center" valign="middle" scalefit="0" fileref="interface_application___green___quake_1_1_i_auth__inherit__graph.png"></imagedata>
+            </imageobject>
+        </mediaobject>
+    </informalfigure>
+</para>
+<simplesect>
+    <title>Public Member Functions    </title>
+        <itemizedlist>
+            <listitem><para>Task&lt; String &gt; <link linkend="_interface_application___green___quake_1_1_i_auth_1a3f7676e4f6afbe547fb36d74b2c2edf9">LoginWithEmailAndPassword</link> (string email, string password)</para>
+</listitem>
+            <listitem><para>Task&lt; String &gt; <link linkend="_interface_application___green___quake_1_1_i_auth_1a1234948f57f380107d1860299ff25c0c">SignUpWithEmailAndPassword</link> (string email, string password)</para>
+</listitem>
+            <listitem><para>Task <link linkend="_interface_application___green___quake_1_1_i_auth_1ab04ab7dc69464055c456dd936d484f5e">ResetPassword</link> (string email)</para>
+</listitem>
+            <listitem><para>bool <link linkend="_interface_application___green___quake_1_1_i_auth_1ae4297be973da95d7805ccd374804ef83">SignOut</link> ()</para>
+</listitem>
+            <listitem><para>bool <link linkend="_interface_application___green___quake_1_1_i_auth_1aeb37e28a39f6a8b339ddc53dbf3b8c8a">IsSignIn</link> ()</para>
+</listitem>
+            <listitem><para>string <link linkend="_interface_application___green___quake_1_1_i_auth_1afe8605d127f9305f37a2e7c542fc0b42">GetUid</link> ()</para>
+</listitem>
+        </itemizedlist>
+</simplesect>
+<section>
+<title>Detailed Description</title>
+<para>
+Definition at line 14 of file IAuth.cs.</para>
+</section>
+<section>
+<title>Member Function Documentation</title>
+<anchor xml:id="_interface_application___green___quake_1_1_i_auth_1afe8605d127f9305f37a2e7c542fc0b42"/>    <section>
+    <title>GetUid()</title>
+<indexterm><primary>GetUid</primary><secondary>Application_Green_Quake.IAuth</secondary></indexterm>
+<indexterm><primary>Application_Green_Quake.IAuth</primary><secondary>GetUid</secondary></indexterm>
+<para><computeroutput>string Application_Green_Quake.IAuth.GetUid ( )</computeroutput></para><para>
+Implemented in <link linkend="_class_application___green___quake_1_1_droid_1_1_auth_droid_1a550e9d0421ccb389e2ab767f67716565">Application_Green_Quake.Droid.AuthDroid</link>.</para>
+    </section><anchor xml:id="_interface_application___green___quake_1_1_i_auth_1aeb37e28a39f6a8b339ddc53dbf3b8c8a"/>    <section>
+    <title>IsSignIn()</title>
+<indexterm><primary>IsSignIn</primary><secondary>Application_Green_Quake.IAuth</secondary></indexterm>
+<indexterm><primary>Application_Green_Quake.IAuth</primary><secondary>IsSignIn</secondary></indexterm>
+<para><computeroutput>bool Application_Green_Quake.IAuth.IsSignIn ( )</computeroutput></para><para>
+Implemented in <link linkend="_class_application___green___quake_1_1i_o_s_1_1_authi_o_s_1a1a42426f18dad1fb8c55548b7e9edc9d">Application_Green_Quake.iOS.AuthiOS</link>, and <link linkend="_class_application___green___quake_1_1_droid_1_1_auth_droid_1ae5ce7fafed82954e4c0bd94d6d879d4e">Application_Green_Quake.Droid.AuthDroid</link>.</para>
+    </section><anchor xml:id="_interface_application___green___quake_1_1_i_auth_1a3f7676e4f6afbe547fb36d74b2c2edf9"/>    <section>
+    <title>LoginWithEmailAndPassword()</title>
+<indexterm><primary>LoginWithEmailAndPassword</primary><secondary>Application_Green_Quake.IAuth</secondary></indexterm>
+<indexterm><primary>Application_Green_Quake.IAuth</primary><secondary>LoginWithEmailAndPassword</secondary></indexterm>
+<para><computeroutput>Task&lt;String&gt; Application_Green_Quake.IAuth.LoginWithEmailAndPassword (string email, string password)</computeroutput></para><para>
+Implemented in <link linkend="_class_application___green___quake_1_1i_o_s_1_1_authi_o_s_1a4755d73463217e726dfd41cd97b5d06e">Application_Green_Quake.iOS.AuthiOS</link>, and <link linkend="_class_application___green___quake_1_1_droid_1_1_auth_droid_1ac6071acef495cd32423212dcb502948a">Application_Green_Quake.Droid.AuthDroid</link>.</para>
+    </section><anchor xml:id="_interface_application___green___quake_1_1_i_auth_1ab04ab7dc69464055c456dd936d484f5e"/>    <section>
+    <title>ResetPassword()</title>
+<indexterm><primary>ResetPassword</primary><secondary>Application_Green_Quake.IAuth</secondary></indexterm>
+<indexterm><primary>Application_Green_Quake.IAuth</primary><secondary>ResetPassword</secondary></indexterm>
+<para><computeroutput>Task Application_Green_Quake.IAuth.ResetPassword (string email)</computeroutput></para><para>
+Implemented in <link linkend="_class_application___green___quake_1_1_droid_1_1_auth_droid_1ae28762ddd6ed7b0587d377e9d9d663b1">Application_Green_Quake.Droid.AuthDroid</link>.</para>
+    </section><anchor xml:id="_interface_application___green___quake_1_1_i_auth_1ae4297be973da95d7805ccd374804ef83"/>    <section>
+    <title>SignOut()</title>
+<indexterm><primary>SignOut</primary><secondary>Application_Green_Quake.IAuth</secondary></indexterm>
+<indexterm><primary>Application_Green_Quake.IAuth</primary><secondary>SignOut</secondary></indexterm>
+<para><computeroutput>bool Application_Green_Quake.IAuth.SignOut ( )</computeroutput></para><para>
+Implemented in <link linkend="_class_application___green___quake_1_1i_o_s_1_1_authi_o_s_1a7b02b2e716c5b5d005e1b34cfc20d073">Application_Green_Quake.iOS.AuthiOS</link>, and <link linkend="_class_application___green___quake_1_1_droid_1_1_auth_droid_1a2c922cb5713997d73336cf571c845502">Application_Green_Quake.Droid.AuthDroid</link>.</para>
+    </section><anchor xml:id="_interface_application___green___quake_1_1_i_auth_1a1234948f57f380107d1860299ff25c0c"/>    <section>
+    <title>SignUpWithEmailAndPassword()</title>
+<indexterm><primary>SignUpWithEmailAndPassword</primary><secondary>Application_Green_Quake.IAuth</secondary></indexterm>
+<indexterm><primary>Application_Green_Quake.IAuth</primary><secondary>SignUpWithEmailAndPassword</secondary></indexterm>
+<para><computeroutput>Task&lt;String&gt; Application_Green_Quake.IAuth.SignUpWithEmailAndPassword (string email, string password)</computeroutput></para><para>
+Implemented in <link linkend="_class_application___green___quake_1_1i_o_s_1_1_authi_o_s_1ac6efad4f45fbf1e208552a716e153382">Application_Green_Quake.iOS.AuthiOS</link>, and <link linkend="_class_application___green___quake_1_1_droid_1_1_auth_droid_1ae6807ee86fb703d219de35cb444dfbcb">Application_Green_Quake.Droid.AuthDroid</link>.</para>
+</section>
+<para>
+The documentation for this interface was generated from the following file:</para>
+Application Green Quake/<link linkend="__i_auth_8cs">IAuth.cs</link></section>
+</section>

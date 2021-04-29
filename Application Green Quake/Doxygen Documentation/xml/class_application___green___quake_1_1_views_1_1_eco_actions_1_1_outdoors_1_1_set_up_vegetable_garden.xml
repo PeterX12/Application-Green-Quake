@@ -1,0 +1,154 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.9.1" xml:lang="en-US">
+  <compounddef id="class_application___green___quake_1_1_views_1_1_eco_actions_1_1_outdoors_1_1_set_up_vegetable_garden" kind="class" language="C#" prot="public">
+    <compoundname>Application_Green_Quake::Views::EcoActions::Outdoors::SetUpVegetableGarden</compoundname>
+    <basecompoundref prot="public" virt="non-virtual">global.XamarinForms.ContentPage</basecompoundref>
+    <basecompoundref prot="public" virt="non-virtual">global.XamarinForms.ContentPage</basecompoundref>
+    <basecompoundref prot="public" virt="non-virtual">ContentPage</basecompoundref>
+      <sectiondef kind="private-attrib">
+      <memberdef kind="variable" id="class_application___green___quake_1_1_views_1_1_eco_actions_1_1_outdoors_1_1_set_up_vegetable_garden_1a4e97d8b5a64d8489839eb2889b9fd00a" prot="private" static="no" mutable="no">
+        <type>global::Xamarin.Forms.Label</type>
+        <definition>Xamarin Forms global::Label Application_Green_Quake.Views.EcoActions.Outdoors.SetUpVegetableGarden::theLevel</definition>
+        <argsstring></argsstring>
+        <name>theLevel</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake/obj/Debug/netstandard2.0/Views/EcoActions/Outdoors/SetUpVegetableGarden.xaml.g.cs" line="20" column="43" bodyfile="Application Green Quake/obj/Debug/netstandard2.0/Views/EcoActions/Outdoors/SetUpVegetableGarden.xaml.g.cs" bodystart="20" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="private-func">
+      <memberdef kind="function" id="class_application___green___quake_1_1_views_1_1_eco_actions_1_1_outdoors_1_1_set_up_vegetable_garden_1ab809bfe71dea1d76d03abcac0cfe4b80" prot="private" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void Application_Green_Quake.Views.EcoActions.Outdoors.SetUpVegetableGarden.InitializeComponent</definition>
+        <argsstring>()</argsstring>
+        <name>InitializeComponent</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake/obj/Debug/netstandard2.0/Views/EcoActions/Outdoors/SetUpVegetableGarden.xaml.g.cs" line="23" column="22" bodyfile="Application Green Quake/obj/Debug/netstandard2.0/Views/EcoActions/Outdoors/SetUpVegetableGarden.xaml.g.cs" bodystart="23" bodyend="26"/>
+      </memberdef>
+      <memberdef kind="function" id="class_application___green___quake_1_1_views_1_1_eco_actions_1_1_outdoors_1_1_set_up_vegetable_garden_1ab809bfe71dea1d76d03abcac0cfe4b80" prot="private" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void Application_Green_Quake.Views.EcoActions.Outdoors.SetUpVegetableGarden.InitializeComponent</definition>
+        <argsstring>()</argsstring>
+        <name>InitializeComponent</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake/obj/Release/netstandard2.0/Views/EcoActions/Outdoors/SetUpVegetableGarden.xaml.g.cs" line="23" column="22" bodyfile="Application Green Quake/obj/Release/netstandard2.0/Views/EcoActions/Outdoors/SetUpVegetableGarden.xaml.g.cs" bodystart="23" bodyend="26"/>
+      </memberdef>
+      <memberdef kind="function" id="class_application___green___quake_1_1_views_1_1_eco_actions_1_1_outdoors_1_1_set_up_vegetable_garden_1a82ed7a64975db45f6b81e5257bb9c242" prot="private" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>async void</type>
+        <definition>async void Application_Green_Quake.Views.EcoActions.Outdoors.SetUpVegetableGarden.AddPointsClicked</definition>
+        <argsstring>(object sender, EventArgs e)</argsstring>
+        <name>AddPointsClicked</name>
+        <param>
+          <type>object</type>
+          <declname>sender</declname>
+        </param>
+        <param>
+          <type>EventArgs</type>
+          <declname>e</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+<para>This function creates objects and calls their methods. First the security methods are called and if they return false call the points updating methods </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake/Views/EcoActions/Outdoors/SetUpVegetableGarden.xaml.cs" line="29" column="28" bodyfile="Application Green Quake/Views/EcoActions/Outdoors/SetUpVegetableGarden.xaml.cs" bodystart="29" bodyend="57"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="public-func">
+      <memberdef kind="function" id="class_application___green___quake_1_1_views_1_1_eco_actions_1_1_outdoors_1_1_set_up_vegetable_garden_1a712d6052384eedda09c2f39cc9311b76" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>Application_Green_Quake.Views.EcoActions.Outdoors.SetUpVegetableGarden.SetUpVegetableGarden</definition>
+        <argsstring>()</argsstring>
+        <name>SetUpVegetableGarden</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake/Views/EcoActions/Outdoors/SetUpVegetableGarden.xaml.cs" line="21" column="16" bodyfile="Application Green Quake/Views/EcoActions/Outdoors/SetUpVegetableGarden.xaml.cs" bodystart="21" bodyend="25"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="protected-func">
+      <memberdef kind="function" id="class_application___green___quake_1_1_views_1_1_eco_actions_1_1_outdoors_1_1_set_up_vegetable_garden_1a91db30f9588e9cc8487271a9148a58b8" prot="protected" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>override void</type>
+        <definition>override void Application_Green_Quake.Views.EcoActions.Outdoors.SetUpVegetableGarden.OnAppearing</definition>
+        <argsstring>()</argsstring>
+        <name>OnAppearing</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+<para>This function creates objects and calls their methods. First the security methods are called and if they return false call the points updating methods </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake/Views/EcoActions/Outdoors/SetUpVegetableGarden.xaml.cs" line="61" column="33" bodyfile="Application Green Quake/Views/EcoActions/Outdoors/SetUpVegetableGarden.xaml.cs" bodystart="61" bodyend="67"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <inheritancegraph>
+      <node id="3">
+        <label>ContentPage</label>
+      </node>
+      <node id="1">
+        <label>Application_Green_Quake.Views.EcoActions.Outdoors.SetUpVegetableGarden</label>
+        <link refid="class_application___green___quake_1_1_views_1_1_eco_actions_1_1_outdoors_1_1_set_up_vegetable_garden"/>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+        <childnode refid="3" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="2">
+        <label>global::XamarinForms::ContentPage</label>
+      </node>
+    </inheritancegraph>
+    <collaborationgraph>
+      <node id="3">
+        <label>ContentPage</label>
+      </node>
+      <node id="1">
+        <label>Application_Green_Quake.Views.EcoActions.Outdoors.SetUpVegetableGarden</label>
+        <link refid="class_application___green___quake_1_1_views_1_1_eco_actions_1_1_outdoors_1_1_set_up_vegetable_garden"/>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+        <childnode refid="3" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="2">
+        <label>global::XamarinForms::ContentPage</label>
+      </node>
+    </collaborationgraph>
+    <location file="Application Green Quake/obj/Debug/netstandard2.0/Views/EcoActions/Outdoors/SetUpVegetableGarden.xaml.g.cs" line="17" column="19" bodyfile="Application Green Quake/obj/Debug/netstandard2.0/Views/EcoActions/Outdoors/SetUpVegetableGarden.xaml.g.cs" bodystart="17" bodyend="27"/>
+    <listofallmembers>
+      <member refid="class_application___green___quake_1_1_views_1_1_eco_actions_1_1_outdoors_1_1_set_up_vegetable_garden_1a82ed7a64975db45f6b81e5257bb9c242" prot="private" virt="non-virtual"><scope>Application_Green_Quake::Views::EcoActions::Outdoors::SetUpVegetableGarden</scope><name>AddPointsClicked</name></member>
+      <member refid="class_application___green___quake_1_1_views_1_1_eco_actions_1_1_outdoors_1_1_set_up_vegetable_garden_1ab809bfe71dea1d76d03abcac0cfe4b80" prot="private" virt="non-virtual"><scope>Application_Green_Quake::Views::EcoActions::Outdoors::SetUpVegetableGarden</scope><name>InitializeComponent</name></member>
+      <member refid="class_application___green___quake_1_1_views_1_1_eco_actions_1_1_outdoors_1_1_set_up_vegetable_garden_1ab809bfe71dea1d76d03abcac0cfe4b80" prot="private" virt="non-virtual"><scope>Application_Green_Quake::Views::EcoActions::Outdoors::SetUpVegetableGarden</scope><name>InitializeComponent</name></member>
+      <member refid="class_application___green___quake_1_1_views_1_1_eco_actions_1_1_outdoors_1_1_set_up_vegetable_garden_1a91db30f9588e9cc8487271a9148a58b8" prot="protected" virt="non-virtual"><scope>Application_Green_Quake::Views::EcoActions::Outdoors::SetUpVegetableGarden</scope><name>OnAppearing</name></member>
+      <member refid="class_application___green___quake_1_1_views_1_1_eco_actions_1_1_outdoors_1_1_set_up_vegetable_garden_1a712d6052384eedda09c2f39cc9311b76" prot="public" virt="non-virtual"><scope>Application_Green_Quake::Views::EcoActions::Outdoors::SetUpVegetableGarden</scope><name>SetUpVegetableGarden</name></member>
+      <member refid="class_application___green___quake_1_1_views_1_1_eco_actions_1_1_outdoors_1_1_set_up_vegetable_garden_1a4e97d8b5a64d8489839eb2889b9fd00a" prot="private" virt="non-virtual"><scope>Application_Green_Quake::Views::EcoActions::Outdoors::SetUpVegetableGarden</scope><name>theLevel</name></member>
+    </listofallmembers>
+  </compounddef>
+</doxygen>

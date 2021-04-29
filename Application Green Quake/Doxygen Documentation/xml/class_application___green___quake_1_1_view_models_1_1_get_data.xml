@@ -1,0 +1,138 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.9.1" xml:lang="en-US">
+  <compounddef id="class_application___green___quake_1_1_view_models_1_1_get_data" kind="class" language="C#" prot="public">
+    <compoundname>Application_Green_Quake::ViewModels::GetData</compoundname>
+      <sectiondef kind="private-attrib">
+      <memberdef kind="variable" id="class_application___green___quake_1_1_view_models_1_1_get_data_1a2fcde5caabd3b30b7d593877086c9e44" prot="private" static="no" mutable="no">
+        <type><ref refid="interface_application___green___quake_1_1_i_auth" kindref="compound">IAuth</ref></type>
+        <definition>IAuth Application_Green_Quake.ViewModels.GetData.auth</definition>
+        <argsstring></argsstring>
+        <name>auth</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake/ViewModels/GetData.cs" line="18" column="15" bodyfile="Application Green Quake/ViewModels/GetData.cs" bodystart="18" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="public-static-attrib">
+      <memberdef kind="variable" id="class_application___green___quake_1_1_view_models_1_1_get_data_1a0dac79f32fffa3e7ace1a169d5328191" prot="public" static="yes" mutable="no">
+        <type>string</type>
+        <definition>string Application_Green_Quake.ViewModels.GetData.username</definition>
+        <argsstring></argsstring>
+        <name>username</name>
+        <initializer>= &quot;&quot;</initializer>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake/ViewModels/GetData.cs" line="19" column="30" bodyfile="Application Green Quake/ViewModels/GetData.cs" bodystart="19" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_application___green___quake_1_1_view_models_1_1_get_data_1aa586f190c492ced84d0454a837728b56" prot="public" static="yes" mutable="no">
+        <type>string</type>
+        <definition>string Application_Green_Quake.ViewModels.GetData.bio</definition>
+        <argsstring></argsstring>
+        <name>bio</name>
+        <initializer>= &quot;&quot;</initializer>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake/ViewModels/GetData.cs" line="20" column="30" bodyfile="Application Green Quake/ViewModels/GetData.cs" bodystart="20" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_application___green___quake_1_1_view_models_1_1_get_data_1a87038fb053b4cfd7208ea78e2857d356" prot="public" static="yes" mutable="no">
+        <type>int</type>
+        <definition>int Application_Green_Quake.ViewModels.GetData.points</definition>
+        <argsstring></argsstring>
+        <name>points</name>
+        <initializer>= 0</initializer>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake/ViewModels/GetData.cs" line="21" column="27" bodyfile="Application Green Quake/ViewModels/GetData.cs" bodystart="21" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_application___green___quake_1_1_view_models_1_1_get_data_1ace7ced54c824920940aabcdf490c8045" prot="public" static="yes" mutable="no">
+        <type>int</type>
+        <definition>int Application_Green_Quake.ViewModels.GetData.lvl</definition>
+        <argsstring></argsstring>
+        <name>lvl</name>
+        <initializer>= 0</initializer>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake/ViewModels/GetData.cs" line="22" column="27" bodyfile="Application Green Quake/ViewModels/GetData.cs" bodystart="22" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_application___green___quake_1_1_view_models_1_1_get_data_1a8e84620b5538de6a08cafe96b87acc8a" prot="public" static="yes" mutable="no">
+        <type>string</type>
+        <definition>string Application_Green_Quake.ViewModels.GetData.nation</definition>
+        <argsstring></argsstring>
+        <name>nation</name>
+        <initializer>= &quot;&quot;</initializer>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake/ViewModels/GetData.cs" line="23" column="30" bodyfile="Application Green Quake/ViewModels/GetData.cs" bodystart="23" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="public-func">
+      <memberdef kind="function" id="class_application___green___quake_1_1_view_models_1_1_get_data_1ab413c82b4dbf7cee376d809f7fdb4bad" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>async void</type>
+        <definition>async void Application_Green_Quake.ViewModels.GetData.SetData</definition>
+        <argsstring>()</argsstring>
+        <name>SetData</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+<para>This function sets the data to be used for the font end in this application. It sets the username, bio, points, nation and lvl for the logged in user. These are saved in global public variables that are used across the application for front end. </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake/ViewModels/GetData.cs" line="29" column="27" bodyfile="Application Green Quake/ViewModels/GetData.cs" bodystart="29" bodyend="62"/>
+      </memberdef>
+      <memberdef kind="function" id="class_application___green___quake_1_1_view_models_1_1_get_data_1a1bc45595e149512ed5dce14c982e496d" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>async void</type>
+        <definition>async void Application_Green_Quake.ViewModels.GetData.SetLvl</definition>
+        <argsstring>()</argsstring>
+        <name>SetLvl</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+<para>This function just sets the level of the user in a global static variable shared across all the classes to be displayed for the front end. </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake/ViewModels/GetData.cs" line="66" column="27" bodyfile="Application Green Quake/ViewModels/GetData.cs" bodystart="66" bodyend="85"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <location file="Application Green Quake/ViewModels/GetData.cs" line="16" column="5" bodyfile="Application Green Quake/ViewModels/GetData.cs" bodystart="17" bodyend="86"/>
+    <listofallmembers>
+      <member refid="class_application___green___quake_1_1_view_models_1_1_get_data_1a2fcde5caabd3b30b7d593877086c9e44" prot="private" virt="non-virtual"><scope>Application_Green_Quake::ViewModels::GetData</scope><name>auth</name></member>
+      <member refid="class_application___green___quake_1_1_view_models_1_1_get_data_1aa586f190c492ced84d0454a837728b56" prot="public" virt="non-virtual"><scope>Application_Green_Quake::ViewModels::GetData</scope><name>bio</name></member>
+      <member refid="class_application___green___quake_1_1_view_models_1_1_get_data_1ace7ced54c824920940aabcdf490c8045" prot="public" virt="non-virtual"><scope>Application_Green_Quake::ViewModels::GetData</scope><name>lvl</name></member>
+      <member refid="class_application___green___quake_1_1_view_models_1_1_get_data_1a8e84620b5538de6a08cafe96b87acc8a" prot="public" virt="non-virtual"><scope>Application_Green_Quake::ViewModels::GetData</scope><name>nation</name></member>
+      <member refid="class_application___green___quake_1_1_view_models_1_1_get_data_1a87038fb053b4cfd7208ea78e2857d356" prot="public" virt="non-virtual"><scope>Application_Green_Quake::ViewModels::GetData</scope><name>points</name></member>
+      <member refid="class_application___green___quake_1_1_view_models_1_1_get_data_1ab413c82b4dbf7cee376d809f7fdb4bad" prot="public" virt="non-virtual"><scope>Application_Green_Quake::ViewModels::GetData</scope><name>SetData</name></member>
+      <member refid="class_application___green___quake_1_1_view_models_1_1_get_data_1a1bc45595e149512ed5dce14c982e496d" prot="public" virt="non-virtual"><scope>Application_Green_Quake::ViewModels::GetData</scope><name>SetLvl</name></member>
+      <member refid="class_application___green___quake_1_1_view_models_1_1_get_data_1a0dac79f32fffa3e7ace1a169d5328191" prot="public" virt="non-virtual"><scope>Application_Green_Quake::ViewModels::GetData</scope><name>username</name></member>
+    </listofallmembers>
+  </compounddef>
+</doxygen>

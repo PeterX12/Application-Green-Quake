@@ -1,0 +1,111 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<section xmlns="http://docbook.org/ns/docbook" version="5.0" xmlns:xlink="http://www.w3.org/1999/xlink" xml:id="_class_application___green___quake_1_1_droid_1_1_auth_droid" xml:lang="en-US">
+<title>Application_Green_Quake.Droid.AuthDroid Class Reference</title>
+<indexterm><primary>Application_Green_Quake.Droid.AuthDroid</primary></indexterm>
+Inheritance diagram for Application_Green_Quake.Droid.AuthDroid:<para>
+    <informalfigure>
+        <mediaobject>
+            <imageobject>
+                <imagedata width="50%" align="center" valign="middle" scalefit="0" fileref="class_application___green___quake_1_1_droid_1_1_auth_droid__inherit__graph.png"></imagedata>
+            </imageobject>
+        </mediaobject>
+    </informalfigure>
+</para>
+Collaboration diagram for Application_Green_Quake.Droid.AuthDroid:<para>
+    <informalfigure>
+        <mediaobject>
+            <imageobject>
+                <imagedata width="50%" align="center" valign="middle" scalefit="0" fileref="class_application___green___quake_1_1_droid_1_1_auth_droid__coll__graph.png"></imagedata>
+            </imageobject>
+        </mediaobject>
+    </informalfigure>
+</para>
+<simplesect>
+    <title>Public Member Functions    </title>
+        <itemizedlist>
+            <listitem><para>bool <link linkend="_class_application___green___quake_1_1_droid_1_1_auth_droid_1ae5ce7fafed82954e4c0bd94d6d879d4e">IsSignIn</link> ()</para>
+</listitem>
+            <listitem><para>async Task&lt; string &gt; <link linkend="_class_application___green___quake_1_1_droid_1_1_auth_droid_1ac6071acef495cd32423212dcb502948a">LoginWithEmailAndPassword</link> (string email, string password)</para>
+</listitem>
+            <listitem><para>bool <link linkend="_class_application___green___quake_1_1_droid_1_1_auth_droid_1a2c922cb5713997d73336cf571c845502">SignOut</link> ()</para>
+</listitem>
+            <listitem><para>async Task&lt; string &gt; <link linkend="_class_application___green___quake_1_1_droid_1_1_auth_droid_1ae6807ee86fb703d219de35cb444dfbcb">SignUpWithEmailAndPassword</link> (string email, string password)</para>
+</listitem>
+            <listitem><para>string <link linkend="_class_application___green___quake_1_1_droid_1_1_auth_droid_1a550e9d0421ccb389e2ab767f67716565">GetUid</link> ()</para>
+</listitem>
+            <listitem><para>async Task <link linkend="_class_application___green___quake_1_1_droid_1_1_auth_droid_1ae28762ddd6ed7b0587d377e9d9d663b1">ResetPassword</link> (string email)</para>
+</listitem>
+        </itemizedlist>
+</simplesect>
+<section>
+<title>Detailed Description</title>
+<para>
+Definition at line 19 of file AuthDroid.cs.</para>
+</section>
+<section>
+<title>Member Function Documentation</title>
+<anchor xml:id="_class_application___green___quake_1_1_droid_1_1_auth_droid_1a550e9d0421ccb389e2ab767f67716565"/>    <section>
+    <title>GetUid()</title>
+<indexterm><primary>GetUid</primary><secondary>Application_Green_Quake.Droid.AuthDroid</secondary></indexterm>
+<indexterm><primary>Application_Green_Quake.Droid.AuthDroid</primary><secondary>GetUid</secondary></indexterm>
+<para><computeroutput>string Application_Green_Quake.Droid.AuthDroid.GetUid ( )</computeroutput></para>
+<para>This function gets the currently signed in users UID. </para>
+<para>
+Implements <link linkend="_interface_application___green___quake_1_1_i_auth_1afe8605d127f9305f37a2e7c542fc0b42">Application_Green_Quake.IAuth</link>.</para>
+<para>
+Definition at line 93 of file AuthDroid.cs.</para>
+    </section><anchor xml:id="_class_application___green___quake_1_1_droid_1_1_auth_droid_1ae5ce7fafed82954e4c0bd94d6d879d4e"/>    <section>
+    <title>IsSignIn()</title>
+<indexterm><primary>IsSignIn</primary><secondary>Application_Green_Quake.Droid.AuthDroid</secondary></indexterm>
+<indexterm><primary>Application_Green_Quake.Droid.AuthDroid</primary><secondary>IsSignIn</secondary></indexterm>
+<para><computeroutput>bool Application_Green_Quake.Droid.AuthDroid.IsSignIn ( )</computeroutput></para>
+<para>This function checks if a user is signed in. </para>
+<para>
+Implements <link linkend="_interface_application___green___quake_1_1_i_auth_1aeb37e28a39f6a8b339ddc53dbf3b8c8a">Application_Green_Quake.IAuth</link>.</para>
+<para>
+Definition at line 23 of file AuthDroid.cs.</para>
+    </section><anchor xml:id="_class_application___green___quake_1_1_droid_1_1_auth_droid_1ac6071acef495cd32423212dcb502948a"/>    <section>
+    <title>LoginWithEmailAndPassword()</title>
+<indexterm><primary>LoginWithEmailAndPassword</primary><secondary>Application_Green_Quake.Droid.AuthDroid</secondary></indexterm>
+<indexterm><primary>Application_Green_Quake.Droid.AuthDroid</primary><secondary>LoginWithEmailAndPassword</secondary></indexterm>
+<para><computeroutput>async Task&lt;string&gt; Application_Green_Quake.Droid.AuthDroid.LoginWithEmailAndPassword (string email, string password)</computeroutput></para>
+<para>This function logs a user into the application </para>
+<para>
+Implements <link linkend="_interface_application___green___quake_1_1_i_auth_1a3f7676e4f6afbe547fb36d74b2c2edf9">Application_Green_Quake.IAuth</link>.</para>
+<para>
+Definition at line 31 of file AuthDroid.cs.</para>
+    </section><anchor xml:id="_class_application___green___quake_1_1_droid_1_1_auth_droid_1ae28762ddd6ed7b0587d377e9d9d663b1"/>    <section>
+    <title>ResetPassword()</title>
+<indexterm><primary>ResetPassword</primary><secondary>Application_Green_Quake.Droid.AuthDroid</secondary></indexterm>
+<indexterm><primary>Application_Green_Quake.Droid.AuthDroid</primary><secondary>ResetPassword</secondary></indexterm>
+<para><computeroutput>async Task Application_Green_Quake.Droid.AuthDroid.ResetPassword (string email)</computeroutput></para>
+<para>This function sends the password reset email. </para>
+<para>
+Implements <link linkend="_interface_application___green___quake_1_1_i_auth_1ab04ab7dc69464055c456dd936d484f5e">Application_Green_Quake.IAuth</link>.</para>
+<para>
+Definition at line 121 of file AuthDroid.cs.</para>
+    </section><anchor xml:id="_class_application___green___quake_1_1_droid_1_1_auth_droid_1a2c922cb5713997d73336cf571c845502"/>    <section>
+    <title>SignOut()</title>
+<indexterm><primary>SignOut</primary><secondary>Application_Green_Quake.Droid.AuthDroid</secondary></indexterm>
+<indexterm><primary>Application_Green_Quake.Droid.AuthDroid</primary><secondary>SignOut</secondary></indexterm>
+<para><computeroutput>bool Application_Green_Quake.Droid.AuthDroid.SignOut ( )</computeroutput></para>
+<para>This function signs a user out of the application. </para>
+<para>
+Implements <link linkend="_interface_application___green___quake_1_1_i_auth_1ae4297be973da95d7805ccd374804ef83">Application_Green_Quake.IAuth</link>.</para>
+<para>
+Definition at line 52 of file AuthDroid.cs.</para>
+    </section><anchor xml:id="_class_application___green___quake_1_1_droid_1_1_auth_droid_1ae6807ee86fb703d219de35cb444dfbcb"/>    <section>
+    <title>SignUpWithEmailAndPassword()</title>
+<indexterm><primary>SignUpWithEmailAndPassword</primary><secondary>Application_Green_Quake.Droid.AuthDroid</secondary></indexterm>
+<indexterm><primary>Application_Green_Quake.Droid.AuthDroid</primary><secondary>SignUpWithEmailAndPassword</secondary></indexterm>
+<para><computeroutput>async Task&lt;string&gt; Application_Green_Quake.Droid.AuthDroid.SignUpWithEmailAndPassword (string email, string password)</computeroutput></para>
+<para>This function allows a user to sign up into the app. </para>
+<para>
+Implements <link linkend="_interface_application___green___quake_1_1_i_auth_1a1234948f57f380107d1860299ff25c0c">Application_Green_Quake.IAuth</link>.</para>
+<para>
+Definition at line 67 of file AuthDroid.cs.</para>
+</section>
+<para>
+The documentation for this class was generated from the following file:</para>
+Application Green Quake.Android/<link linkend="__auth_droid_8cs">AuthDroid.cs</link></section>
+</section>

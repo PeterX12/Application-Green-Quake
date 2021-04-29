@@ -1,0 +1,4 @@
+var namespacemono_1_1com_1_1microsoft_1_1appcenter_1_1analytics_1_1channel =
+[
+    [ "AnalyticsListenerImplementor", "classmono_1_1com_1_1microsoft_1_1appcenter_1_1analytics_1_1channel_1_1_analytics_listener_implementor.html", "classmono_1_1com_1_1microsoft_1_1appcenter_1_1analytics_1_1channel_1_1_analytics_listener_implementor" ]
+];

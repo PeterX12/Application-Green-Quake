@@ -1,0 +1,822 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.9.1" xml:lang="en-US">
+  <compounddef id="classcrc64a0e0a82d0db9a07d_1_1_sensor_listener" kind="class" language="Java" prot="public">
+    <compoundname>crc64a0e0a82d0db9a07d::SensorListener</compoundname>
+    <basecompoundref prot="public" virt="non-virtual">java.lang.Object</basecompoundref>
+    <basecompoundref prot="public" virt="non-virtual">mono.android.IGCUserPeer</basecompoundref>
+    <basecompoundref prot="public" virt="non-virtual">android.hardware.SensorEventListener</basecompoundref>
+    <basecompoundref prot="public" virt="non-virtual">java.lang.Object</basecompoundref>
+    <basecompoundref prot="public" virt="non-virtual">mono.android.IGCUserPeer</basecompoundref>
+    <basecompoundref prot="public" virt="non-virtual">android.hardware.SensorEventListener</basecompoundref>
+    <basecompoundref prot="public" virt="non-virtual">java.lang.Object</basecompoundref>
+    <basecompoundref prot="public" virt="non-virtual">mono.android.IGCUserPeer</basecompoundref>
+    <basecompoundref prot="public" virt="non-virtual">android.hardware.SensorEventListener</basecompoundref>
+    <basecompoundref prot="public" virt="non-virtual">java.lang.Object</basecompoundref>
+    <basecompoundref prot="public" virt="non-virtual">mono.android.IGCUserPeer</basecompoundref>
+    <basecompoundref prot="public" virt="non-virtual">android.hardware.SensorEventListener</basecompoundref>
+      <sectiondef kind="public-static-attrib">
+      <memberdef kind="variable" id="classcrc64a0e0a82d0db9a07d_1_1_sensor_listener_1a89db2a3e3fb34f8a0636e258fea6e11f" prot="public" static="yes" mutable="no">
+        <type>final String</type>
+        <definition>static final String crc64a0e0a82d0db9a07d.SensorListener::__md_methods</definition>
+        <argsstring></argsstring>
+        <name>__md_methods</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+<para>@hide </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/100/android/src/crc64a0e0a82d0db9a07d/SensorListener.java" line="11" column="28" bodyfile="Application Green Quake.Android/obj/Debug/100/android/src/crc64a0e0a82d0db9a07d/SensorListener.java" bodystart="11" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="private-attrib">
+      <memberdef kind="variable" id="classcrc64a0e0a82d0db9a07d_1_1_sensor_listener_1a21a96819c4dbe9b7704ec879eb20fd60" prot="private" static="no" mutable="no">
+        <type>java.util.ArrayList</type>
+        <definition>java util ArrayList crc64a0e0a82d0db9a07d.SensorListener::refList</definition>
+        <argsstring></argsstring>
+        <name>refList</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/100/android/src/crc64a0e0a82d0db9a07d/SensorListener.java" line="51" column="27" bodyfile="Application Green Quake.Android/obj/Debug/100/android/src/crc64a0e0a82d0db9a07d/SensorListener.java" bodystart="51" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="package-static-func">
+      <memberdef kind="function" id="classcrc64a0e0a82d0db9a07d_1_1_sensor_listener_1a31ccfa7d65c9624e352c1ca0bfc428ad" prot="package" static="yes" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>crc64a0e0a82d0db9a07d.SensorListener.[static initializer]</definition>
+        <argsstring></argsstring>
+        <name>[static initializer]</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/100/android/src/crc64a0e0a82d0db9a07d/SensorListener.java" line="11" column="28"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc64a0e0a82d0db9a07d_1_1_sensor_listener_1a31ccfa7d65c9624e352c1ca0bfc428ad" prot="package" static="yes" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>crc64a0e0a82d0db9a07d.SensorListener.[static initializer]</definition>
+        <argsstring></argsstring>
+        <name>[static initializer]</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/110/android/src/crc64a0e0a82d0db9a07d/SensorListener.java" line="11" column="28"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc64a0e0a82d0db9a07d_1_1_sensor_listener_1a31ccfa7d65c9624e352c1ca0bfc428ad" prot="package" static="yes" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>crc64a0e0a82d0db9a07d.SensorListener.[static initializer]</definition>
+        <argsstring></argsstring>
+        <name>[static initializer]</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/100/android/src/crc64a0e0a82d0db9a07d/SensorListener.java" line="11" column="28"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc64a0e0a82d0db9a07d_1_1_sensor_listener_1a31ccfa7d65c9624e352c1ca0bfc428ad" prot="package" static="yes" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>crc64a0e0a82d0db9a07d.SensorListener.[static initializer]</definition>
+        <argsstring></argsstring>
+        <name>[static initializer]</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/110/android/src/crc64a0e0a82d0db9a07d/SensorListener.java" line="11" column="28"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="public-func">
+      <memberdef kind="function" id="classcrc64a0e0a82d0db9a07d_1_1_sensor_listener_1aaf1c957ec3fc2c40b8acca35e28c3f48" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>crc64a0e0a82d0db9a07d.SensorListener.SensorListener</definition>
+        <argsstring>()</argsstring>
+        <name>SensorListener</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/100/android/src/crc64a0e0a82d0db9a07d/SensorListener.java" line="21" column="8" bodyfile="Application Green Quake.Android/obj/Debug/100/android/src/crc64a0e0a82d0db9a07d/SensorListener.java" bodystart="21" bodyend="26"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc64a0e0a82d0db9a07d_1_1_sensor_listener_1a4974307f452308a61b3150d12f25090e" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>crc64a0e0a82d0db9a07d.SensorListener.SensorListener</definition>
+        <argsstring>(java.lang.String p0, java.lang.String p1, int p2, boolean p3)</argsstring>
+        <name>SensorListener</name>
+        <param>
+          <type>java.lang.String</type>
+          <declname>p0</declname>
+        </param>
+        <param>
+          <type>java.lang.String</type>
+          <declname>p1</declname>
+        </param>
+        <param>
+          <type>int</type>
+          <declname>p2</declname>
+        </param>
+        <param>
+          <type>boolean</type>
+          <declname>p3</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/100/android/src/crc64a0e0a82d0db9a07d/SensorListener.java" line="28" column="8" bodyfile="Application Green Quake.Android/obj/Debug/100/android/src/crc64a0e0a82d0db9a07d/SensorListener.java" bodystart="28" bodyend="33"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc64a0e0a82d0db9a07d_1_1_sensor_listener_1aa6e863d6525d572147b0d7bbf5c907e7" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void crc64a0e0a82d0db9a07d.SensorListener.onAccuracyChanged</definition>
+        <argsstring>(android.hardware.Sensor p0, int p1)</argsstring>
+        <name>onAccuracyChanged</name>
+        <param>
+          <type>android.hardware.Sensor</type>
+          <declname>p0</declname>
+        </param>
+        <param>
+          <type>int</type>
+          <declname>p1</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/100/android/src/crc64a0e0a82d0db9a07d/SensorListener.java" line="36" column="13" bodyfile="Application Green Quake.Android/obj/Debug/100/android/src/crc64a0e0a82d0db9a07d/SensorListener.java" bodystart="36" bodyend="39"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc64a0e0a82d0db9a07d_1_1_sensor_listener_1a08cd066e3f316a825637efde60a42239" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void crc64a0e0a82d0db9a07d.SensorListener.onSensorChanged</definition>
+        <argsstring>(android.hardware.SensorEvent p0)</argsstring>
+        <name>onSensorChanged</name>
+        <param>
+          <type>android.hardware.SensorEvent</type>
+          <declname>p0</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/100/android/src/crc64a0e0a82d0db9a07d/SensorListener.java" line="44" column="13" bodyfile="Application Green Quake.Android/obj/Debug/100/android/src/crc64a0e0a82d0db9a07d/SensorListener.java" bodystart="44" bodyend="47"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc64a0e0a82d0db9a07d_1_1_sensor_listener_1adb3ca969496fcfa33294ea2d665890db" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void crc64a0e0a82d0db9a07d.SensorListener.monodroidAddReference</definition>
+        <argsstring>(java.lang.Object obj)</argsstring>
+        <name>monodroidAddReference</name>
+        <param>
+          <type>java.lang.Object</type>
+          <declname>obj</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/100/android/src/crc64a0e0a82d0db9a07d/SensorListener.java" line="52" column="13" bodyfile="Application Green Quake.Android/obj/Debug/100/android/src/crc64a0e0a82d0db9a07d/SensorListener.java" bodystart="52" bodyend="57"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc64a0e0a82d0db9a07d_1_1_sensor_listener_1a832828e0d67607e0a8184935b1e3315d" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void crc64a0e0a82d0db9a07d.SensorListener.monodroidClearReferences</definition>
+        <argsstring>()</argsstring>
+        <name>monodroidClearReferences</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/100/android/src/crc64a0e0a82d0db9a07d/SensorListener.java" line="59" column="13" bodyfile="Application Green Quake.Android/obj/Debug/100/android/src/crc64a0e0a82d0db9a07d/SensorListener.java" bodystart="59" bodyend="63"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc64a0e0a82d0db9a07d_1_1_sensor_listener_1aaf1c957ec3fc2c40b8acca35e28c3f48" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>crc64a0e0a82d0db9a07d.SensorListener.SensorListener</definition>
+        <argsstring>()</argsstring>
+        <name>SensorListener</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/110/android/src/crc64a0e0a82d0db9a07d/SensorListener.java" line="21" column="8" bodyfile="Application Green Quake.Android/obj/Debug/110/android/src/crc64a0e0a82d0db9a07d/SensorListener.java" bodystart="21" bodyend="26"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc64a0e0a82d0db9a07d_1_1_sensor_listener_1a4974307f452308a61b3150d12f25090e" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>crc64a0e0a82d0db9a07d.SensorListener.SensorListener</definition>
+        <argsstring>(java.lang.String p0, java.lang.String p1, int p2, boolean p3)</argsstring>
+        <name>SensorListener</name>
+        <param>
+          <type>java.lang.String</type>
+          <declname>p0</declname>
+        </param>
+        <param>
+          <type>java.lang.String</type>
+          <declname>p1</declname>
+        </param>
+        <param>
+          <type>int</type>
+          <declname>p2</declname>
+        </param>
+        <param>
+          <type>boolean</type>
+          <declname>p3</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/110/android/src/crc64a0e0a82d0db9a07d/SensorListener.java" line="28" column="8" bodyfile="Application Green Quake.Android/obj/Debug/110/android/src/crc64a0e0a82d0db9a07d/SensorListener.java" bodystart="28" bodyend="33"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc64a0e0a82d0db9a07d_1_1_sensor_listener_1aa6e863d6525d572147b0d7bbf5c907e7" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void crc64a0e0a82d0db9a07d.SensorListener.onAccuracyChanged</definition>
+        <argsstring>(android.hardware.Sensor p0, int p1)</argsstring>
+        <name>onAccuracyChanged</name>
+        <param>
+          <type>android.hardware.Sensor</type>
+          <declname>p0</declname>
+        </param>
+        <param>
+          <type>int</type>
+          <declname>p1</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/110/android/src/crc64a0e0a82d0db9a07d/SensorListener.java" line="36" column="13" bodyfile="Application Green Quake.Android/obj/Debug/110/android/src/crc64a0e0a82d0db9a07d/SensorListener.java" bodystart="36" bodyend="39"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc64a0e0a82d0db9a07d_1_1_sensor_listener_1a08cd066e3f316a825637efde60a42239" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void crc64a0e0a82d0db9a07d.SensorListener.onSensorChanged</definition>
+        <argsstring>(android.hardware.SensorEvent p0)</argsstring>
+        <name>onSensorChanged</name>
+        <param>
+          <type>android.hardware.SensorEvent</type>
+          <declname>p0</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/110/android/src/crc64a0e0a82d0db9a07d/SensorListener.java" line="44" column="13" bodyfile="Application Green Quake.Android/obj/Debug/110/android/src/crc64a0e0a82d0db9a07d/SensorListener.java" bodystart="44" bodyend="47"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc64a0e0a82d0db9a07d_1_1_sensor_listener_1adb3ca969496fcfa33294ea2d665890db" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void crc64a0e0a82d0db9a07d.SensorListener.monodroidAddReference</definition>
+        <argsstring>(java.lang.Object obj)</argsstring>
+        <name>monodroidAddReference</name>
+        <param>
+          <type>java.lang.Object</type>
+          <declname>obj</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/110/android/src/crc64a0e0a82d0db9a07d/SensorListener.java" line="52" column="13" bodyfile="Application Green Quake.Android/obj/Debug/110/android/src/crc64a0e0a82d0db9a07d/SensorListener.java" bodystart="52" bodyend="57"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc64a0e0a82d0db9a07d_1_1_sensor_listener_1a832828e0d67607e0a8184935b1e3315d" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void crc64a0e0a82d0db9a07d.SensorListener.monodroidClearReferences</definition>
+        <argsstring>()</argsstring>
+        <name>monodroidClearReferences</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/110/android/src/crc64a0e0a82d0db9a07d/SensorListener.java" line="59" column="13" bodyfile="Application Green Quake.Android/obj/Debug/110/android/src/crc64a0e0a82d0db9a07d/SensorListener.java" bodystart="59" bodyend="63"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc64a0e0a82d0db9a07d_1_1_sensor_listener_1aaf1c957ec3fc2c40b8acca35e28c3f48" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>crc64a0e0a82d0db9a07d.SensorListener.SensorListener</definition>
+        <argsstring>()</argsstring>
+        <name>SensorListener</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/100/android/src/crc64a0e0a82d0db9a07d/SensorListener.java" line="21" column="8" bodyfile="Application Green Quake.Android/obj/Release/100/android/src/crc64a0e0a82d0db9a07d/SensorListener.java" bodystart="21" bodyend="26"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc64a0e0a82d0db9a07d_1_1_sensor_listener_1a4974307f452308a61b3150d12f25090e" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>crc64a0e0a82d0db9a07d.SensorListener.SensorListener</definition>
+        <argsstring>(java.lang.String p0, java.lang.String p1, int p2, boolean p3)</argsstring>
+        <name>SensorListener</name>
+        <param>
+          <type>java.lang.String</type>
+          <declname>p0</declname>
+        </param>
+        <param>
+          <type>java.lang.String</type>
+          <declname>p1</declname>
+        </param>
+        <param>
+          <type>int</type>
+          <declname>p2</declname>
+        </param>
+        <param>
+          <type>boolean</type>
+          <declname>p3</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/100/android/src/crc64a0e0a82d0db9a07d/SensorListener.java" line="28" column="8" bodyfile="Application Green Quake.Android/obj/Release/100/android/src/crc64a0e0a82d0db9a07d/SensorListener.java" bodystart="28" bodyend="33"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc64a0e0a82d0db9a07d_1_1_sensor_listener_1aa6e863d6525d572147b0d7bbf5c907e7" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void crc64a0e0a82d0db9a07d.SensorListener.onAccuracyChanged</definition>
+        <argsstring>(android.hardware.Sensor p0, int p1)</argsstring>
+        <name>onAccuracyChanged</name>
+        <param>
+          <type>android.hardware.Sensor</type>
+          <declname>p0</declname>
+        </param>
+        <param>
+          <type>int</type>
+          <declname>p1</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/100/android/src/crc64a0e0a82d0db9a07d/SensorListener.java" line="36" column="13" bodyfile="Application Green Quake.Android/obj/Release/100/android/src/crc64a0e0a82d0db9a07d/SensorListener.java" bodystart="36" bodyend="39"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc64a0e0a82d0db9a07d_1_1_sensor_listener_1a08cd066e3f316a825637efde60a42239" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void crc64a0e0a82d0db9a07d.SensorListener.onSensorChanged</definition>
+        <argsstring>(android.hardware.SensorEvent p0)</argsstring>
+        <name>onSensorChanged</name>
+        <param>
+          <type>android.hardware.SensorEvent</type>
+          <declname>p0</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/100/android/src/crc64a0e0a82d0db9a07d/SensorListener.java" line="44" column="13" bodyfile="Application Green Quake.Android/obj/Release/100/android/src/crc64a0e0a82d0db9a07d/SensorListener.java" bodystart="44" bodyend="47"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc64a0e0a82d0db9a07d_1_1_sensor_listener_1adb3ca969496fcfa33294ea2d665890db" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void crc64a0e0a82d0db9a07d.SensorListener.monodroidAddReference</definition>
+        <argsstring>(java.lang.Object obj)</argsstring>
+        <name>monodroidAddReference</name>
+        <param>
+          <type>java.lang.Object</type>
+          <declname>obj</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/100/android/src/crc64a0e0a82d0db9a07d/SensorListener.java" line="52" column="13" bodyfile="Application Green Quake.Android/obj/Release/100/android/src/crc64a0e0a82d0db9a07d/SensorListener.java" bodystart="52" bodyend="57"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc64a0e0a82d0db9a07d_1_1_sensor_listener_1a832828e0d67607e0a8184935b1e3315d" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void crc64a0e0a82d0db9a07d.SensorListener.monodroidClearReferences</definition>
+        <argsstring>()</argsstring>
+        <name>monodroidClearReferences</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/100/android/src/crc64a0e0a82d0db9a07d/SensorListener.java" line="59" column="13" bodyfile="Application Green Quake.Android/obj/Release/100/android/src/crc64a0e0a82d0db9a07d/SensorListener.java" bodystart="59" bodyend="63"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc64a0e0a82d0db9a07d_1_1_sensor_listener_1aaf1c957ec3fc2c40b8acca35e28c3f48" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>crc64a0e0a82d0db9a07d.SensorListener.SensorListener</definition>
+        <argsstring>()</argsstring>
+        <name>SensorListener</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/110/android/src/crc64a0e0a82d0db9a07d/SensorListener.java" line="21" column="8" bodyfile="Application Green Quake.Android/obj/Release/110/android/src/crc64a0e0a82d0db9a07d/SensorListener.java" bodystart="21" bodyend="26"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc64a0e0a82d0db9a07d_1_1_sensor_listener_1a4974307f452308a61b3150d12f25090e" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>crc64a0e0a82d0db9a07d.SensorListener.SensorListener</definition>
+        <argsstring>(java.lang.String p0, java.lang.String p1, int p2, boolean p3)</argsstring>
+        <name>SensorListener</name>
+        <param>
+          <type>java.lang.String</type>
+          <declname>p0</declname>
+        </param>
+        <param>
+          <type>java.lang.String</type>
+          <declname>p1</declname>
+        </param>
+        <param>
+          <type>int</type>
+          <declname>p2</declname>
+        </param>
+        <param>
+          <type>boolean</type>
+          <declname>p3</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/110/android/src/crc64a0e0a82d0db9a07d/SensorListener.java" line="28" column="8" bodyfile="Application Green Quake.Android/obj/Release/110/android/src/crc64a0e0a82d0db9a07d/SensorListener.java" bodystart="28" bodyend="33"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc64a0e0a82d0db9a07d_1_1_sensor_listener_1aa6e863d6525d572147b0d7bbf5c907e7" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void crc64a0e0a82d0db9a07d.SensorListener.onAccuracyChanged</definition>
+        <argsstring>(android.hardware.Sensor p0, int p1)</argsstring>
+        <name>onAccuracyChanged</name>
+        <param>
+          <type>android.hardware.Sensor</type>
+          <declname>p0</declname>
+        </param>
+        <param>
+          <type>int</type>
+          <declname>p1</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/110/android/src/crc64a0e0a82d0db9a07d/SensorListener.java" line="36" column="13" bodyfile="Application Green Quake.Android/obj/Release/110/android/src/crc64a0e0a82d0db9a07d/SensorListener.java" bodystart="36" bodyend="39"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc64a0e0a82d0db9a07d_1_1_sensor_listener_1a08cd066e3f316a825637efde60a42239" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void crc64a0e0a82d0db9a07d.SensorListener.onSensorChanged</definition>
+        <argsstring>(android.hardware.SensorEvent p0)</argsstring>
+        <name>onSensorChanged</name>
+        <param>
+          <type>android.hardware.SensorEvent</type>
+          <declname>p0</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/110/android/src/crc64a0e0a82d0db9a07d/SensorListener.java" line="44" column="13" bodyfile="Application Green Quake.Android/obj/Release/110/android/src/crc64a0e0a82d0db9a07d/SensorListener.java" bodystart="44" bodyend="47"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc64a0e0a82d0db9a07d_1_1_sensor_listener_1adb3ca969496fcfa33294ea2d665890db" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void crc64a0e0a82d0db9a07d.SensorListener.monodroidAddReference</definition>
+        <argsstring>(java.lang.Object obj)</argsstring>
+        <name>monodroidAddReference</name>
+        <param>
+          <type>java.lang.Object</type>
+          <declname>obj</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/110/android/src/crc64a0e0a82d0db9a07d/SensorListener.java" line="52" column="13" bodyfile="Application Green Quake.Android/obj/Release/110/android/src/crc64a0e0a82d0db9a07d/SensorListener.java" bodystart="52" bodyend="57"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc64a0e0a82d0db9a07d_1_1_sensor_listener_1a832828e0d67607e0a8184935b1e3315d" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void crc64a0e0a82d0db9a07d.SensorListener.monodroidClearReferences</definition>
+        <argsstring>()</argsstring>
+        <name>monodroidClearReferences</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/110/android/src/crc64a0e0a82d0db9a07d/SensorListener.java" line="59" column="13" bodyfile="Application Green Quake.Android/obj/Release/110/android/src/crc64a0e0a82d0db9a07d/SensorListener.java" bodystart="59" bodyend="63"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="private-func">
+      <memberdef kind="function" id="classcrc64a0e0a82d0db9a07d_1_1_sensor_listener_1a03c749723b018d1a4908f144f08c897e" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>native void</type>
+        <definition>native void crc64a0e0a82d0db9a07d.SensorListener.n_onAccuracyChanged</definition>
+        <argsstring>(android.hardware.Sensor p0, int p1)</argsstring>
+        <name>n_onAccuracyChanged</name>
+        <param>
+          <type>android.hardware.Sensor</type>
+          <declname>p0</declname>
+        </param>
+        <param>
+          <type>int</type>
+          <declname>p1</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/100/android/src/crc64a0e0a82d0db9a07d/SensorListener.java" line="41" column="21"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc64a0e0a82d0db9a07d_1_1_sensor_listener_1a19d8b1628b393c3396cef8aef18afe93" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>native void</type>
+        <definition>native void crc64a0e0a82d0db9a07d.SensorListener.n_onSensorChanged</definition>
+        <argsstring>(android.hardware.SensorEvent p0)</argsstring>
+        <name>n_onSensorChanged</name>
+        <param>
+          <type>android.hardware.SensorEvent</type>
+          <declname>p0</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/100/android/src/crc64a0e0a82d0db9a07d/SensorListener.java" line="49" column="21"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc64a0e0a82d0db9a07d_1_1_sensor_listener_1a03c749723b018d1a4908f144f08c897e" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>native void</type>
+        <definition>native void crc64a0e0a82d0db9a07d.SensorListener.n_onAccuracyChanged</definition>
+        <argsstring>(android.hardware.Sensor p0, int p1)</argsstring>
+        <name>n_onAccuracyChanged</name>
+        <param>
+          <type>android.hardware.Sensor</type>
+          <declname>p0</declname>
+        </param>
+        <param>
+          <type>int</type>
+          <declname>p1</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/110/android/src/crc64a0e0a82d0db9a07d/SensorListener.java" line="41" column="21"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc64a0e0a82d0db9a07d_1_1_sensor_listener_1a19d8b1628b393c3396cef8aef18afe93" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>native void</type>
+        <definition>native void crc64a0e0a82d0db9a07d.SensorListener.n_onSensorChanged</definition>
+        <argsstring>(android.hardware.SensorEvent p0)</argsstring>
+        <name>n_onSensorChanged</name>
+        <param>
+          <type>android.hardware.SensorEvent</type>
+          <declname>p0</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/110/android/src/crc64a0e0a82d0db9a07d/SensorListener.java" line="49" column="21"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc64a0e0a82d0db9a07d_1_1_sensor_listener_1a03c749723b018d1a4908f144f08c897e" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>native void</type>
+        <definition>native void crc64a0e0a82d0db9a07d.SensorListener.n_onAccuracyChanged</definition>
+        <argsstring>(android.hardware.Sensor p0, int p1)</argsstring>
+        <name>n_onAccuracyChanged</name>
+        <param>
+          <type>android.hardware.Sensor</type>
+          <declname>p0</declname>
+        </param>
+        <param>
+          <type>int</type>
+          <declname>p1</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/100/android/src/crc64a0e0a82d0db9a07d/SensorListener.java" line="41" column="21"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc64a0e0a82d0db9a07d_1_1_sensor_listener_1a19d8b1628b393c3396cef8aef18afe93" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>native void</type>
+        <definition>native void crc64a0e0a82d0db9a07d.SensorListener.n_onSensorChanged</definition>
+        <argsstring>(android.hardware.SensorEvent p0)</argsstring>
+        <name>n_onSensorChanged</name>
+        <param>
+          <type>android.hardware.SensorEvent</type>
+          <declname>p0</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/100/android/src/crc64a0e0a82d0db9a07d/SensorListener.java" line="49" column="21"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc64a0e0a82d0db9a07d_1_1_sensor_listener_1a03c749723b018d1a4908f144f08c897e" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>native void</type>
+        <definition>native void crc64a0e0a82d0db9a07d.SensorListener.n_onAccuracyChanged</definition>
+        <argsstring>(android.hardware.Sensor p0, int p1)</argsstring>
+        <name>n_onAccuracyChanged</name>
+        <param>
+          <type>android.hardware.Sensor</type>
+          <declname>p0</declname>
+        </param>
+        <param>
+          <type>int</type>
+          <declname>p1</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/110/android/src/crc64a0e0a82d0db9a07d/SensorListener.java" line="41" column="21"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc64a0e0a82d0db9a07d_1_1_sensor_listener_1a19d8b1628b393c3396cef8aef18afe93" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>native void</type>
+        <definition>native void crc64a0e0a82d0db9a07d.SensorListener.n_onSensorChanged</definition>
+        <argsstring>(android.hardware.SensorEvent p0)</argsstring>
+        <name>n_onSensorChanged</name>
+        <param>
+          <type>android.hardware.SensorEvent</type>
+          <declname>p0</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/110/android/src/crc64a0e0a82d0db9a07d/SensorListener.java" line="49" column="21"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <inheritancegraph>
+      <node id="1">
+        <label>crc64a0e0a82d0db9a07d.SensorListener</label>
+        <link refid="classcrc64a0e0a82d0db9a07d_1_1_sensor_listener"/>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+        <childnode refid="3" relation="public-inheritance">
+        </childnode>
+        <childnode refid="4" relation="public-inheritance">
+        </childnode>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+        <childnode refid="3" relation="public-inheritance">
+        </childnode>
+        <childnode refid="4" relation="public-inheritance">
+        </childnode>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+        <childnode refid="3" relation="public-inheritance">
+        </childnode>
+        <childnode refid="4" relation="public-inheritance">
+        </childnode>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+        <childnode refid="3" relation="public-inheritance">
+        </childnode>
+        <childnode refid="4" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="4">
+        <label>android.hardware.SensorEventListener</label>
+      </node>
+      <node id="3">
+        <label>mono.android.IGCUserPeer</label>
+      </node>
+      <node id="2">
+        <label>java.lang.Object</label>
+      </node>
+    </inheritancegraph>
+    <collaborationgraph>
+      <node id="1">
+        <label>crc64a0e0a82d0db9a07d.SensorListener</label>
+        <link refid="classcrc64a0e0a82d0db9a07d_1_1_sensor_listener"/>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+        <childnode refid="3" relation="public-inheritance">
+        </childnode>
+        <childnode refid="4" relation="public-inheritance">
+        </childnode>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+        <childnode refid="3" relation="public-inheritance">
+        </childnode>
+        <childnode refid="4" relation="public-inheritance">
+        </childnode>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+        <childnode refid="3" relation="public-inheritance">
+        </childnode>
+        <childnode refid="4" relation="public-inheritance">
+        </childnode>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+        <childnode refid="3" relation="public-inheritance">
+        </childnode>
+        <childnode refid="4" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="4">
+        <label>android.hardware.SensorEventListener</label>
+      </node>
+      <node id="3">
+        <label>mono.android.IGCUserPeer</label>
+      </node>
+      <node id="2">
+        <label>java.lang.Object</label>
+      </node>
+    </collaborationgraph>
+    <location file="Application Green Quake.Android/obj/Debug/100/android/src/crc64a0e0a82d0db9a07d/SensorListener.java" line="4" column="7" bodyfile="Application Green Quake.Android/obj/Debug/100/android/src/crc64a0e0a82d0db9a07d/SensorListener.java" bodystart="9" bodyend="64"/>
+    <listofallmembers>
+      <member refid="classcrc64a0e0a82d0db9a07d_1_1_sensor_listener_1a31ccfa7d65c9624e352c1ca0bfc428ad" prot="package" virt="non-virtual"><scope>crc64a0e0a82d0db9a07d::SensorListener</scope><name>[static initializer]</name></member>
+      <member refid="classcrc64a0e0a82d0db9a07d_1_1_sensor_listener_1a31ccfa7d65c9624e352c1ca0bfc428ad" prot="package" virt="non-virtual"><scope>crc64a0e0a82d0db9a07d::SensorListener</scope><name>[static initializer]</name></member>
+      <member refid="classcrc64a0e0a82d0db9a07d_1_1_sensor_listener_1a31ccfa7d65c9624e352c1ca0bfc428ad" prot="package" virt="non-virtual"><scope>crc64a0e0a82d0db9a07d::SensorListener</scope><name>[static initializer]</name></member>
+      <member refid="classcrc64a0e0a82d0db9a07d_1_1_sensor_listener_1a31ccfa7d65c9624e352c1ca0bfc428ad" prot="package" virt="non-virtual"><scope>crc64a0e0a82d0db9a07d::SensorListener</scope><name>[static initializer]</name></member>
+      <member refid="classcrc64a0e0a82d0db9a07d_1_1_sensor_listener_1a89db2a3e3fb34f8a0636e258fea6e11f" prot="public" virt="non-virtual"><scope>crc64a0e0a82d0db9a07d::SensorListener</scope><name>__md_methods</name></member>
+      <member refid="classcrc64a0e0a82d0db9a07d_1_1_sensor_listener_1adb3ca969496fcfa33294ea2d665890db" prot="public" virt="non-virtual"><scope>crc64a0e0a82d0db9a07d::SensorListener</scope><name>monodroidAddReference</name></member>
+      <member refid="classcrc64a0e0a82d0db9a07d_1_1_sensor_listener_1adb3ca969496fcfa33294ea2d665890db" prot="public" virt="non-virtual"><scope>crc64a0e0a82d0db9a07d::SensorListener</scope><name>monodroidAddReference</name></member>
+      <member refid="classcrc64a0e0a82d0db9a07d_1_1_sensor_listener_1adb3ca969496fcfa33294ea2d665890db" prot="public" virt="non-virtual"><scope>crc64a0e0a82d0db9a07d::SensorListener</scope><name>monodroidAddReference</name></member>
+      <member refid="classcrc64a0e0a82d0db9a07d_1_1_sensor_listener_1adb3ca969496fcfa33294ea2d665890db" prot="public" virt="non-virtual"><scope>crc64a0e0a82d0db9a07d::SensorListener</scope><name>monodroidAddReference</name></member>
+      <member refid="classcrc64a0e0a82d0db9a07d_1_1_sensor_listener_1a832828e0d67607e0a8184935b1e3315d" prot="public" virt="non-virtual"><scope>crc64a0e0a82d0db9a07d::SensorListener</scope><name>monodroidClearReferences</name></member>
+      <member refid="classcrc64a0e0a82d0db9a07d_1_1_sensor_listener_1a832828e0d67607e0a8184935b1e3315d" prot="public" virt="non-virtual"><scope>crc64a0e0a82d0db9a07d::SensorListener</scope><name>monodroidClearReferences</name></member>
+      <member refid="classcrc64a0e0a82d0db9a07d_1_1_sensor_listener_1a832828e0d67607e0a8184935b1e3315d" prot="public" virt="non-virtual"><scope>crc64a0e0a82d0db9a07d::SensorListener</scope><name>monodroidClearReferences</name></member>
+      <member refid="classcrc64a0e0a82d0db9a07d_1_1_sensor_listener_1a832828e0d67607e0a8184935b1e3315d" prot="public" virt="non-virtual"><scope>crc64a0e0a82d0db9a07d::SensorListener</scope><name>monodroidClearReferences</name></member>
+      <member refid="classcrc64a0e0a82d0db9a07d_1_1_sensor_listener_1a03c749723b018d1a4908f144f08c897e" prot="private" virt="non-virtual"><scope>crc64a0e0a82d0db9a07d::SensorListener</scope><name>n_onAccuracyChanged</name></member>
+      <member refid="classcrc64a0e0a82d0db9a07d_1_1_sensor_listener_1a03c749723b018d1a4908f144f08c897e" prot="private" virt="non-virtual"><scope>crc64a0e0a82d0db9a07d::SensorListener</scope><name>n_onAccuracyChanged</name></member>
+      <member refid="classcrc64a0e0a82d0db9a07d_1_1_sensor_listener_1a03c749723b018d1a4908f144f08c897e" prot="private" virt="non-virtual"><scope>crc64a0e0a82d0db9a07d::SensorListener</scope><name>n_onAccuracyChanged</name></member>
+      <member refid="classcrc64a0e0a82d0db9a07d_1_1_sensor_listener_1a03c749723b018d1a4908f144f08c897e" prot="private" virt="non-virtual"><scope>crc64a0e0a82d0db9a07d::SensorListener</scope><name>n_onAccuracyChanged</name></member>
+      <member refid="classcrc64a0e0a82d0db9a07d_1_1_sensor_listener_1a19d8b1628b393c3396cef8aef18afe93" prot="private" virt="non-virtual"><scope>crc64a0e0a82d0db9a07d::SensorListener</scope><name>n_onSensorChanged</name></member>
+      <member refid="classcrc64a0e0a82d0db9a07d_1_1_sensor_listener_1a19d8b1628b393c3396cef8aef18afe93" prot="private" virt="non-virtual"><scope>crc64a0e0a82d0db9a07d::SensorListener</scope><name>n_onSensorChanged</name></member>
+      <member refid="classcrc64a0e0a82d0db9a07d_1_1_sensor_listener_1a19d8b1628b393c3396cef8aef18afe93" prot="private" virt="non-virtual"><scope>crc64a0e0a82d0db9a07d::SensorListener</scope><name>n_onSensorChanged</name></member>
+      <member refid="classcrc64a0e0a82d0db9a07d_1_1_sensor_listener_1a19d8b1628b393c3396cef8aef18afe93" prot="private" virt="non-virtual"><scope>crc64a0e0a82d0db9a07d::SensorListener</scope><name>n_onSensorChanged</name></member>
+      <member refid="classcrc64a0e0a82d0db9a07d_1_1_sensor_listener_1aa6e863d6525d572147b0d7bbf5c907e7" prot="public" virt="non-virtual"><scope>crc64a0e0a82d0db9a07d::SensorListener</scope><name>onAccuracyChanged</name></member>
+      <member refid="classcrc64a0e0a82d0db9a07d_1_1_sensor_listener_1aa6e863d6525d572147b0d7bbf5c907e7" prot="public" virt="non-virtual"><scope>crc64a0e0a82d0db9a07d::SensorListener</scope><name>onAccuracyChanged</name></member>
+      <member refid="classcrc64a0e0a82d0db9a07d_1_1_sensor_listener_1aa6e863d6525d572147b0d7bbf5c907e7" prot="public" virt="non-virtual"><scope>crc64a0e0a82d0db9a07d::SensorListener</scope><name>onAccuracyChanged</name></member>
+      <member refid="classcrc64a0e0a82d0db9a07d_1_1_sensor_listener_1aa6e863d6525d572147b0d7bbf5c907e7" prot="public" virt="non-virtual"><scope>crc64a0e0a82d0db9a07d::SensorListener</scope><name>onAccuracyChanged</name></member>
+      <member refid="classcrc64a0e0a82d0db9a07d_1_1_sensor_listener_1a08cd066e3f316a825637efde60a42239" prot="public" virt="non-virtual"><scope>crc64a0e0a82d0db9a07d::SensorListener</scope><name>onSensorChanged</name></member>
+      <member refid="classcrc64a0e0a82d0db9a07d_1_1_sensor_listener_1a08cd066e3f316a825637efde60a42239" prot="public" virt="non-virtual"><scope>crc64a0e0a82d0db9a07d::SensorListener</scope><name>onSensorChanged</name></member>
+      <member refid="classcrc64a0e0a82d0db9a07d_1_1_sensor_listener_1a08cd066e3f316a825637efde60a42239" prot="public" virt="non-virtual"><scope>crc64a0e0a82d0db9a07d::SensorListener</scope><name>onSensorChanged</name></member>
+      <member refid="classcrc64a0e0a82d0db9a07d_1_1_sensor_listener_1a08cd066e3f316a825637efde60a42239" prot="public" virt="non-virtual"><scope>crc64a0e0a82d0db9a07d::SensorListener</scope><name>onSensorChanged</name></member>
+      <member refid="classcrc64a0e0a82d0db9a07d_1_1_sensor_listener_1a21a96819c4dbe9b7704ec879eb20fd60" prot="private" virt="non-virtual"><scope>crc64a0e0a82d0db9a07d::SensorListener</scope><name>refList</name></member>
+      <member refid="classcrc64a0e0a82d0db9a07d_1_1_sensor_listener_1aaf1c957ec3fc2c40b8acca35e28c3f48" prot="public" virt="non-virtual"><scope>crc64a0e0a82d0db9a07d::SensorListener</scope><name>SensorListener</name></member>
+      <member refid="classcrc64a0e0a82d0db9a07d_1_1_sensor_listener_1a4974307f452308a61b3150d12f25090e" prot="public" virt="non-virtual"><scope>crc64a0e0a82d0db9a07d::SensorListener</scope><name>SensorListener</name></member>
+      <member refid="classcrc64a0e0a82d0db9a07d_1_1_sensor_listener_1aaf1c957ec3fc2c40b8acca35e28c3f48" prot="public" virt="non-virtual"><scope>crc64a0e0a82d0db9a07d::SensorListener</scope><name>SensorListener</name></member>
+      <member refid="classcrc64a0e0a82d0db9a07d_1_1_sensor_listener_1a4974307f452308a61b3150d12f25090e" prot="public" virt="non-virtual"><scope>crc64a0e0a82d0db9a07d::SensorListener</scope><name>SensorListener</name></member>
+      <member refid="classcrc64a0e0a82d0db9a07d_1_1_sensor_listener_1aaf1c957ec3fc2c40b8acca35e28c3f48" prot="public" virt="non-virtual"><scope>crc64a0e0a82d0db9a07d::SensorListener</scope><name>SensorListener</name></member>
+      <member refid="classcrc64a0e0a82d0db9a07d_1_1_sensor_listener_1a4974307f452308a61b3150d12f25090e" prot="public" virt="non-virtual"><scope>crc64a0e0a82d0db9a07d::SensorListener</scope><name>SensorListener</name></member>
+      <member refid="classcrc64a0e0a82d0db9a07d_1_1_sensor_listener_1aaf1c957ec3fc2c40b8acca35e28c3f48" prot="public" virt="non-virtual"><scope>crc64a0e0a82d0db9a07d::SensorListener</scope><name>SensorListener</name></member>
+      <member refid="classcrc64a0e0a82d0db9a07d_1_1_sensor_listener_1a4974307f452308a61b3150d12f25090e" prot="public" virt="non-virtual"><scope>crc64a0e0a82d0db9a07d::SensorListener</scope><name>SensorListener</name></member>
+    </listofallmembers>
+  </compounddef>
+</doxygen>

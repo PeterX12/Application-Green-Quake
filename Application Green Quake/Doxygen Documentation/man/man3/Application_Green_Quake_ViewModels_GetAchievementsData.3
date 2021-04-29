@@ -1,0 +1,594 @@
+.TH "Application_Green_Quake.ViewModels.GetAchievementsData" 3 "Thu Apr 29 2021" "Version 1.0" "Green Quake" \" -*- nroff -*-
+.ad l
+.nh
+.SH NAME
+Application_Green_Quake.ViewModels.GetAchievementsData
+.SH SYNOPSIS
+.br
+.PP
+.SS "Public Member Functions"
+
+.in +1c
+.ti -1c
+.RI "async void \fBSetAchievementsData\fP ()"
+.br
+.in -1c
+.SS "Static Public Attributes"
+
+.in +1c
+.ti -1c
+.RI "static int \fBfixCount\fP = 0"
+.br
+.ti -1c
+.RI "static int \fBwSShowerHeadCount\fP = 0"
+.br
+.ti -1c
+.RI "static int \fBwaterOverFizzyCount\fP = 0"
+.br
+.ti -1c
+.RI "static int \fBcreateGroupCount\fP = 0"
+.br
+.ti -1c
+.RI "static int \fBcommunityCount\fP = 0"
+.br
+.ti -1c
+.RI "static int \fBdonateCount\fP = 0"
+.br
+.ti -1c
+.RI "static int \fBgroupCount\fP = 0"
+.br
+.ti -1c
+.RI "static int \fBshareCount\fP = 0"
+.br
+.ti -1c
+.RI "static int \fBawarenessCount\fP = 0"
+.br
+.ti -1c
+.RI "static int \fBfullDryerCount\fP = 0"
+.br
+.ti -1c
+.RI "static int \fBinsulateWaterCount\fP = 0"
+.br
+.ti -1c
+.RI "static int \fBefficientThermostatCount\fP = 0"
+.br
+.ti -1c
+.RI "static int \fBisolateHomeCount\fP = 0"
+.br
+.ti -1c
+.RI "static int \fBledLightBulbCount\fP = 0"
+.br
+.ti -1c
+.RI "static int \fBmicrowaveCount\fP = 0"
+.br
+.ti -1c
+.RI "static int \fBoffSocketCount\fP = 0"
+.br
+.ti -1c
+.RI "static int \fBreBatteriesCount\fP = 0"
+.br
+.ti -1c
+.RI "static int \fBreBatCount\fP = 0"
+.br
+.ti -1c
+.RI "static int \fBfridgeCount\fP = 0"
+.br
+.ti -1c
+.RI "static int \fBdraftSealCount\fP = 0"
+.br
+.ti -1c
+.RI "static int \fBductSealCount\fP = 0"
+.br
+.ti -1c
+.RI "static int \fBsolarPanelCount\fP = 0"
+.br
+.ti -1c
+.RI "static int \fBeatAllCount\fP = 0"
+.br
+.ti -1c
+.RI "static int \fBfoodDeliverCount\fP = 0"
+.br
+.ti -1c
+.RI "static int \fBnoMeatCount\fP = 0"
+.br
+.ti -1c
+.RI "static int \fBownCoffeeCount\fP = 0"
+.br
+.ti -1c
+.RI "static int \fBreCoffeeMugCount\fP = 0"
+.br
+.ti -1c
+.RI "static int \fBsaveLeftOversCount\fP = 0"
+.br
+.ti -1c
+.RI "static int \fBsteelStrawCount\fP = 0"
+.br
+.ti -1c
+.RI "static int \fBbrushingCount\fP = 0"
+.br
+.ti -1c
+.RI "static int \fBfullWasherCount\fP = 0"
+.br
+.ti -1c
+.RI "static int \fBshowerCount\fP = 0"
+.br
+.ti -1c
+.RI "static int \fBtimedShowerCount\fP = 0"
+.br
+.ti -1c
+.RI "static int \fBoffLigtsCount\fP = 0"
+.br
+.ti -1c
+.RI "static int \fBmatchesCount\fP = 0"
+.br
+.ti -1c
+.RI "static int \fBairOutCount\fP = 0"
+.br
+.ti -1c
+.RI "static int \fBnonHarmCount\fP = 0"
+.br
+.ti -1c
+.RI "static int \fBoutsideCount\fP = 0"
+.br
+.ti -1c
+.RI "static int \fBplantIntoHomeCount\fP = 0"
+.br
+.ti -1c
+.RI "static int \fBtoiletFlushCount\fP = 0"
+.br
+.ti -1c
+.RI "static int \fBcampingCount\fP = 0"
+.br
+.ti -1c
+.RI "static int \fBpicnicCount\fP = 0"
+.br
+.ti -1c
+.RI "static int \fBplantBushCount\fP = 0"
+.br
+.ti -1c
+.RI "static int \fBplantFlowerCount\fP = 0"
+.br
+.ti -1c
+.RI "static int \fBplantTreeCount\fP = 0"
+.br
+.ti -1c
+.RI "static int \fBscoopCount\fP = 0"
+.br
+.ti -1c
+.RI "static int \fBfruitGardenCount\fP = 0"
+.br
+.ti -1c
+.RI "static int \fBherbGardenCount\fP = 0"
+.br
+.ti -1c
+.RI "static int \fBvegetableGardenCount\fP = 0"
+.br
+.ti -1c
+.RI "static int \fBbirdFeederCount\fP = 0"
+.br
+.ti -1c
+.RI "static int \fBclothNapkinCount\fP = 0"
+.br
+.ti -1c
+.RI "static int \fBclothTowelCount\fP = 0"
+.br
+.ti -1c
+.RI "static int \fBapplianceCount\fP = 0"
+.br
+.ti -1c
+.RI "static int \fBproductCount\fP = 0"
+.br
+.ti -1c
+.RI "static int \fBtoothbrushCount\fP = 0"
+.br
+.ti -1c
+.RI "static int \fBclothesCount\fP = 0"
+.br
+.ti -1c
+.RI "static int \fBlocalCount\fP = 0"
+.br
+.ti -1c
+.RI "static int \fBlooseLeafCount\fP = 0"
+.br
+.ti -1c
+.RI "static int \fBorganicFoodCount\fP = 0"
+.br
+.ti -1c
+.RI "static int \fBreusableCount\fP = 0"
+.br
+.ti -1c
+.RI "static int \fBreBagCount\fP = 0"
+.br
+.ti -1c
+.RI "static int \fBcarpoolCount\fP = 0"
+.br
+.ti -1c
+.RI "static int \fBcycleCount\fP = 0"
+.br
+.ti -1c
+.RI "static int \fBecoCarCount\fP = 0"
+.br
+.ti -1c
+.RI "static int \fBtransportCount\fP = 0"
+.br
+.ti -1c
+.RI "static int \fBwalkCount\fP = 0"
+.br
+.ti -1c
+.RI "static int \fBbillsCount\fP = 0"
+.br
+.ti -1c
+.RI "static int \fBcompostCount\fP = 0"
+.br
+.ti -1c
+.RI "static int \fBsetUpRecyclingBinCount\fP = 0"
+.br
+.ti -1c
+.RI "static int \fBbioBinBagsCount\fP = 0"
+.br
+.ti -1c
+.RI "static int \fBrecyclingBinCount\fP = 0"
+.br
+.ti -1c
+.RI "static int \fBcisternCount\fP = 0"
+.br
+.ti -1c
+.RI "static int \fBrainBarrelCount\fP = 0"
+.br
+.ti -1c
+.RI "static int \fBreWaterCount\fP = 0"
+.br
+.ti -1c
+.RI "static int \fBshowerBucketCount\fP = 0"
+.br
+.ti -1c
+.RI "static int \fBpaperCount\fP = 0"
+.br
+.ti -1c
+.RI "static int \fBoffElectronicsCount\fP = 0"
+.br
+.ti -1c
+.RI "static int \fBremoteWorkCount\fP = 0"
+.br
+.ti -1c
+.RI "static int \fBhangDryCount\fP = 0"
+.br
+.ti -1c
+.RI "static int \fBfoodCount\fP = 0"
+.br
+.in -1c
+.SH "Detailed Description"
+.PP 
+Definition at line 16 of file GetAchievementsData\&.cs\&.
+.SH "Member Function Documentation"
+.PP 
+.SS "async void Application_Green_Quake\&.ViewModels\&.GetAchievementsData\&.SetAchievementsData ()"
+This function sets the data that is needed for the Achievements Screen 
+.PP
+Definition at line 103 of file GetAchievementsData\&.cs\&.
+.SH "Member Data Documentation"
+.PP 
+.SS "int Application_Green_Quake\&.ViewModels\&.GetAchievementsData\&.airOutCount = 0\fC [static]\fP"
+
+.PP
+Definition at line 54 of file GetAchievementsData\&.cs\&.
+.SS "int Application_Green_Quake\&.ViewModels\&.GetAchievementsData\&.applianceCount = 0\fC [static]\fP"
+
+.PP
+Definition at line 71 of file GetAchievementsData\&.cs\&.
+.SS "int Application_Green_Quake\&.ViewModels\&.GetAchievementsData\&.awarenessCount = 0\fC [static]\fP"
+
+.PP
+Definition at line 27 of file GetAchievementsData\&.cs\&.
+.SS "int Application_Green_Quake\&.ViewModels\&.GetAchievementsData\&.billsCount = 0\fC [static]\fP"
+
+.PP
+Definition at line 85 of file GetAchievementsData\&.cs\&.
+.SS "int Application_Green_Quake\&.ViewModels\&.GetAchievementsData\&.bioBinBagsCount = 0\fC [static]\fP"
+
+.PP
+Definition at line 88 of file GetAchievementsData\&.cs\&.
+.SS "int Application_Green_Quake\&.ViewModels\&.GetAchievementsData\&.birdFeederCount = 0\fC [static]\fP"
+
+.PP
+Definition at line 68 of file GetAchievementsData\&.cs\&.
+.SS "int Application_Green_Quake\&.ViewModels\&.GetAchievementsData\&.brushingCount = 0\fC [static]\fP"
+
+.PP
+Definition at line 48 of file GetAchievementsData\&.cs\&.
+.SS "int Application_Green_Quake\&.ViewModels\&.GetAchievementsData\&.campingCount = 0\fC [static]\fP"
+
+.PP
+Definition at line 59 of file GetAchievementsData\&.cs\&.
+.SS "int Application_Green_Quake\&.ViewModels\&.GetAchievementsData\&.carpoolCount = 0\fC [static]\fP"
+
+.PP
+Definition at line 80 of file GetAchievementsData\&.cs\&.
+.SS "int Application_Green_Quake\&.ViewModels\&.GetAchievementsData\&.cisternCount = 0\fC [static]\fP"
+
+.PP
+Definition at line 90 of file GetAchievementsData\&.cs\&.
+.SS "int Application_Green_Quake\&.ViewModels\&.GetAchievementsData\&.clothesCount = 0\fC [static]\fP"
+
+.PP
+Definition at line 74 of file GetAchievementsData\&.cs\&.
+.SS "int Application_Green_Quake\&.ViewModels\&.GetAchievementsData\&.clothNapkinCount = 0\fC [static]\fP"
+
+.PP
+Definition at line 69 of file GetAchievementsData\&.cs\&.
+.SS "int Application_Green_Quake\&.ViewModels\&.GetAchievementsData\&.clothTowelCount = 0\fC [static]\fP"
+
+.PP
+Definition at line 70 of file GetAchievementsData\&.cs\&.
+.SS "int Application_Green_Quake\&.ViewModels\&.GetAchievementsData\&.communityCount = 0\fC [static]\fP"
+
+.PP
+Definition at line 23 of file GetAchievementsData\&.cs\&.
+.SS "int Application_Green_Quake\&.ViewModels\&.GetAchievementsData\&.compostCount = 0\fC [static]\fP"
+
+.PP
+Definition at line 86 of file GetAchievementsData\&.cs\&.
+.SS "int Application_Green_Quake\&.ViewModels\&.GetAchievementsData\&.createGroupCount = 0\fC [static]\fP"
+
+.PP
+Definition at line 22 of file GetAchievementsData\&.cs\&.
+.SS "int Application_Green_Quake\&.ViewModels\&.GetAchievementsData\&.cycleCount = 0\fC [static]\fP"
+
+.PP
+Definition at line 81 of file GetAchievementsData\&.cs\&.
+.SS "int Application_Green_Quake\&.ViewModels\&.GetAchievementsData\&.donateCount = 0\fC [static]\fP"
+
+.PP
+Definition at line 24 of file GetAchievementsData\&.cs\&.
+.SS "int Application_Green_Quake\&.ViewModels\&.GetAchievementsData\&.draftSealCount = 0\fC [static]\fP"
+
+.PP
+Definition at line 38 of file GetAchievementsData\&.cs\&.
+.SS "int Application_Green_Quake\&.ViewModels\&.GetAchievementsData\&.ductSealCount = 0\fC [static]\fP"
+
+.PP
+Definition at line 39 of file GetAchievementsData\&.cs\&.
+.SS "int Application_Green_Quake\&.ViewModels\&.GetAchievementsData\&.eatAllCount = 0\fC [static]\fP"
+
+.PP
+Definition at line 41 of file GetAchievementsData\&.cs\&.
+.SS "int Application_Green_Quake\&.ViewModels\&.GetAchievementsData\&.ecoCarCount = 0\fC [static]\fP"
+
+.PP
+Definition at line 82 of file GetAchievementsData\&.cs\&.
+.SS "int Application_Green_Quake\&.ViewModels\&.GetAchievementsData\&.efficientThermostatCount = 0\fC [static]\fP"
+
+.PP
+Definition at line 30 of file GetAchievementsData\&.cs\&.
+.SS "int Application_Green_Quake\&.ViewModels\&.GetAchievementsData\&.fixCount = 0\fC [static]\fP"
+
+.PP
+Definition at line 19 of file GetAchievementsData\&.cs\&.
+.SS "int Application_Green_Quake\&.ViewModels\&.GetAchievementsData\&.foodCount = 0\fC [static]\fP"
+
+.PP
+Definition at line 98 of file GetAchievementsData\&.cs\&.
+.SS "int Application_Green_Quake\&.ViewModels\&.GetAchievementsData\&.foodDeliverCount = 0\fC [static]\fP"
+
+.PP
+Definition at line 42 of file GetAchievementsData\&.cs\&.
+.SS "int Application_Green_Quake\&.ViewModels\&.GetAchievementsData\&.fridgeCount = 0\fC [static]\fP"
+
+.PP
+Definition at line 37 of file GetAchievementsData\&.cs\&.
+.SS "int Application_Green_Quake\&.ViewModels\&.GetAchievementsData\&.fruitGardenCount = 0\fC [static]\fP"
+
+.PP
+Definition at line 65 of file GetAchievementsData\&.cs\&.
+.SS "int Application_Green_Quake\&.ViewModels\&.GetAchievementsData\&.fullDryerCount = 0\fC [static]\fP"
+
+.PP
+Definition at line 28 of file GetAchievementsData\&.cs\&.
+.SS "int Application_Green_Quake\&.ViewModels\&.GetAchievementsData\&.fullWasherCount = 0\fC [static]\fP"
+
+.PP
+Definition at line 49 of file GetAchievementsData\&.cs\&.
+.SS "int Application_Green_Quake\&.ViewModels\&.GetAchievementsData\&.groupCount = 0\fC [static]\fP"
+
+.PP
+Definition at line 25 of file GetAchievementsData\&.cs\&.
+.SS "int Application_Green_Quake\&.ViewModels\&.GetAchievementsData\&.hangDryCount = 0\fC [static]\fP"
+
+.PP
+Definition at line 97 of file GetAchievementsData\&.cs\&.
+.SS "int Application_Green_Quake\&.ViewModels\&.GetAchievementsData\&.herbGardenCount = 0\fC [static]\fP"
+
+.PP
+Definition at line 66 of file GetAchievementsData\&.cs\&.
+.SS "int Application_Green_Quake\&.ViewModels\&.GetAchievementsData\&.insulateWaterCount = 0\fC [static]\fP"
+
+.PP
+Definition at line 29 of file GetAchievementsData\&.cs\&.
+.SS "int Application_Green_Quake\&.ViewModels\&.GetAchievementsData\&.isolateHomeCount = 0\fC [static]\fP"
+
+.PP
+Definition at line 31 of file GetAchievementsData\&.cs\&.
+.SS "int Application_Green_Quake\&.ViewModels\&.GetAchievementsData\&.ledLightBulbCount = 0\fC [static]\fP"
+
+.PP
+Definition at line 32 of file GetAchievementsData\&.cs\&.
+.SS "int Application_Green_Quake\&.ViewModels\&.GetAchievementsData\&.localCount = 0\fC [static]\fP"
+
+.PP
+Definition at line 75 of file GetAchievementsData\&.cs\&.
+.SS "int Application_Green_Quake\&.ViewModels\&.GetAchievementsData\&.looseLeafCount = 0\fC [static]\fP"
+
+.PP
+Definition at line 76 of file GetAchievementsData\&.cs\&.
+.SS "int Application_Green_Quake\&.ViewModels\&.GetAchievementsData\&.matchesCount = 0\fC [static]\fP"
+
+.PP
+Definition at line 53 of file GetAchievementsData\&.cs\&.
+.SS "int Application_Green_Quake\&.ViewModels\&.GetAchievementsData\&.microwaveCount = 0\fC [static]\fP"
+
+.PP
+Definition at line 33 of file GetAchievementsData\&.cs\&.
+.SS "int Application_Green_Quake\&.ViewModels\&.GetAchievementsData\&.noMeatCount = 0\fC [static]\fP"
+
+.PP
+Definition at line 43 of file GetAchievementsData\&.cs\&.
+.SS "int Application_Green_Quake\&.ViewModels\&.GetAchievementsData\&.nonHarmCount = 0\fC [static]\fP"
+
+.PP
+Definition at line 55 of file GetAchievementsData\&.cs\&.
+.SS "int Application_Green_Quake\&.ViewModels\&.GetAchievementsData\&.offElectronicsCount = 0\fC [static]\fP"
+
+.PP
+Definition at line 95 of file GetAchievementsData\&.cs\&.
+.SS "int Application_Green_Quake\&.ViewModels\&.GetAchievementsData\&.offLigtsCount = 0\fC [static]\fP"
+
+.PP
+Definition at line 52 of file GetAchievementsData\&.cs\&.
+.SS "int Application_Green_Quake\&.ViewModels\&.GetAchievementsData\&.offSocketCount = 0\fC [static]\fP"
+
+.PP
+Definition at line 34 of file GetAchievementsData\&.cs\&.
+.SS "int Application_Green_Quake\&.ViewModels\&.GetAchievementsData\&.organicFoodCount = 0\fC [static]\fP"
+
+.PP
+Definition at line 77 of file GetAchievementsData\&.cs\&.
+.SS "int Application_Green_Quake\&.ViewModels\&.GetAchievementsData\&.outsideCount = 0\fC [static]\fP"
+
+.PP
+Definition at line 56 of file GetAchievementsData\&.cs\&.
+.SS "int Application_Green_Quake\&.ViewModels\&.GetAchievementsData\&.ownCoffeeCount = 0\fC [static]\fP"
+
+.PP
+Definition at line 44 of file GetAchievementsData\&.cs\&.
+.SS "int Application_Green_Quake\&.ViewModels\&.GetAchievementsData\&.paperCount = 0\fC [static]\fP"
+
+.PP
+Definition at line 94 of file GetAchievementsData\&.cs\&.
+.SS "int Application_Green_Quake\&.ViewModels\&.GetAchievementsData\&.picnicCount = 0\fC [static]\fP"
+
+.PP
+Definition at line 60 of file GetAchievementsData\&.cs\&.
+.SS "int Application_Green_Quake\&.ViewModels\&.GetAchievementsData\&.plantBushCount = 0\fC [static]\fP"
+
+.PP
+Definition at line 61 of file GetAchievementsData\&.cs\&.
+.SS "int Application_Green_Quake\&.ViewModels\&.GetAchievementsData\&.plantFlowerCount = 0\fC [static]\fP"
+
+.PP
+Definition at line 62 of file GetAchievementsData\&.cs\&.
+.SS "int Application_Green_Quake\&.ViewModels\&.GetAchievementsData\&.plantIntoHomeCount = 0\fC [static]\fP"
+
+.PP
+Definition at line 57 of file GetAchievementsData\&.cs\&.
+.SS "int Application_Green_Quake\&.ViewModels\&.GetAchievementsData\&.plantTreeCount = 0\fC [static]\fP"
+
+.PP
+Definition at line 63 of file GetAchievementsData\&.cs\&.
+.SS "int Application_Green_Quake\&.ViewModels\&.GetAchievementsData\&.productCount = 0\fC [static]\fP"
+
+.PP
+Definition at line 72 of file GetAchievementsData\&.cs\&.
+.SS "int Application_Green_Quake\&.ViewModels\&.GetAchievementsData\&.rainBarrelCount = 0\fC [static]\fP"
+
+.PP
+Definition at line 91 of file GetAchievementsData\&.cs\&.
+.SS "int Application_Green_Quake\&.ViewModels\&.GetAchievementsData\&.reBagCount = 0\fC [static]\fP"
+
+.PP
+Definition at line 79 of file GetAchievementsData\&.cs\&.
+.SS "int Application_Green_Quake\&.ViewModels\&.GetAchievementsData\&.reBatCount = 0\fC [static]\fP"
+
+.PP
+Definition at line 36 of file GetAchievementsData\&.cs\&.
+.SS "int Application_Green_Quake\&.ViewModels\&.GetAchievementsData\&.reBatteriesCount = 0\fC [static]\fP"
+
+.PP
+Definition at line 35 of file GetAchievementsData\&.cs\&.
+.SS "int Application_Green_Quake\&.ViewModels\&.GetAchievementsData\&.reCoffeeMugCount = 0\fC [static]\fP"
+
+.PP
+Definition at line 45 of file GetAchievementsData\&.cs\&.
+.SS "int Application_Green_Quake\&.ViewModels\&.GetAchievementsData\&.recyclingBinCount = 0\fC [static]\fP"
+
+.PP
+Definition at line 89 of file GetAchievementsData\&.cs\&.
+.SS "int Application_Green_Quake\&.ViewModels\&.GetAchievementsData\&.remoteWorkCount = 0\fC [static]\fP"
+
+.PP
+Definition at line 96 of file GetAchievementsData\&.cs\&.
+.SS "int Application_Green_Quake\&.ViewModels\&.GetAchievementsData\&.reusableCount = 0\fC [static]\fP"
+
+.PP
+Definition at line 78 of file GetAchievementsData\&.cs\&.
+.SS "int Application_Green_Quake\&.ViewModels\&.GetAchievementsData\&.reWaterCount = 0\fC [static]\fP"
+
+.PP
+Definition at line 92 of file GetAchievementsData\&.cs\&.
+.SS "int Application_Green_Quake\&.ViewModels\&.GetAchievementsData\&.saveLeftOversCount = 0\fC [static]\fP"
+
+.PP
+Definition at line 46 of file GetAchievementsData\&.cs\&.
+.SS "int Application_Green_Quake\&.ViewModels\&.GetAchievementsData\&.scoopCount = 0\fC [static]\fP"
+
+.PP
+Definition at line 64 of file GetAchievementsData\&.cs\&.
+.SS "int Application_Green_Quake\&.ViewModels\&.GetAchievementsData\&.setUpRecyclingBinCount = 0\fC [static]\fP"
+
+.PP
+Definition at line 87 of file GetAchievementsData\&.cs\&.
+.SS "int Application_Green_Quake\&.ViewModels\&.GetAchievementsData\&.shareCount = 0\fC [static]\fP"
+
+.PP
+Definition at line 26 of file GetAchievementsData\&.cs\&.
+.SS "int Application_Green_Quake\&.ViewModels\&.GetAchievementsData\&.showerBucketCount = 0\fC [static]\fP"
+
+.PP
+Definition at line 93 of file GetAchievementsData\&.cs\&.
+.SS "int Application_Green_Quake\&.ViewModels\&.GetAchievementsData\&.showerCount = 0\fC [static]\fP"
+
+.PP
+Definition at line 50 of file GetAchievementsData\&.cs\&.
+.SS "int Application_Green_Quake\&.ViewModels\&.GetAchievementsData\&.solarPanelCount = 0\fC [static]\fP"
+
+.PP
+Definition at line 40 of file GetAchievementsData\&.cs\&.
+.SS "int Application_Green_Quake\&.ViewModels\&.GetAchievementsData\&.steelStrawCount = 0\fC [static]\fP"
+
+.PP
+Definition at line 47 of file GetAchievementsData\&.cs\&.
+.SS "int Application_Green_Quake\&.ViewModels\&.GetAchievementsData\&.timedShowerCount = 0\fC [static]\fP"
+
+.PP
+Definition at line 51 of file GetAchievementsData\&.cs\&.
+.SS "int Application_Green_Quake\&.ViewModels\&.GetAchievementsData\&.toiletFlushCount = 0\fC [static]\fP"
+
+.PP
+Definition at line 58 of file GetAchievementsData\&.cs\&.
+.SS "int Application_Green_Quake\&.ViewModels\&.GetAchievementsData\&.toothbrushCount = 0\fC [static]\fP"
+
+.PP
+Definition at line 73 of file GetAchievementsData\&.cs\&.
+.SS "int Application_Green_Quake\&.ViewModels\&.GetAchievementsData\&.transportCount = 0\fC [static]\fP"
+
+.PP
+Definition at line 83 of file GetAchievementsData\&.cs\&.
+.SS "int Application_Green_Quake\&.ViewModels\&.GetAchievementsData\&.vegetableGardenCount = 0\fC [static]\fP"
+
+.PP
+Definition at line 67 of file GetAchievementsData\&.cs\&.
+.SS "int Application_Green_Quake\&.ViewModels\&.GetAchievementsData\&.walkCount = 0\fC [static]\fP"
+
+.PP
+Definition at line 84 of file GetAchievementsData\&.cs\&.
+.SS "int Application_Green_Quake\&.ViewModels\&.GetAchievementsData\&.waterOverFizzyCount = 0\fC [static]\fP"
+
+.PP
+Definition at line 21 of file GetAchievementsData\&.cs\&.
+.SS "int Application_Green_Quake\&.ViewModels\&.GetAchievementsData\&.wSShowerHeadCount = 0\fC [static]\fP"
+
+.PP
+Definition at line 20 of file GetAchievementsData\&.cs\&.
+
+.SH "Author"
+.PP 
+Generated automatically by Doxygen for Green Quake from the source code\&.

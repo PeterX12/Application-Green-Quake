@@ -1,0 +1,292 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.9.1" xml:lang="en-US">
+  <compounddef id="class_application___green___quake_1_1_views_1_1_eco_actions_1_1_eco_actions_sub_menu_1_1_home_page" kind="class" language="C#" prot="public">
+    <compoundname>Application_Green_Quake::Views::EcoActions::EcoActionsSubMenu::HomePage</compoundname>
+    <basecompoundref prot="public" virt="non-virtual">global.XamarinForms.ContentPage</basecompoundref>
+    <basecompoundref prot="public" virt="non-virtual">global.XamarinForms.ContentPage</basecompoundref>
+    <basecompoundref prot="public" virt="non-virtual">ContentPage</basecompoundref>
+      <sectiondef kind="private-attrib">
+      <memberdef kind="variable" id="class_application___green___quake_1_1_views_1_1_eco_actions_1_1_eco_actions_sub_menu_1_1_home_page_1aacbf5c748b97ba795b08ff9a311e3d8a" prot="private" static="no" mutable="no">
+        <type>global::Xamarin.Forms.Label</type>
+        <definition>Xamarin Forms global::Label Application_Green_Quake.Views.EcoActions.EcoActionsSubMenu.HomePage::theLevel</definition>
+        <argsstring></argsstring>
+        <name>theLevel</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake/obj/Debug/netstandard2.0/Views/EcoActions/EcoActionsSubMenu/HomePage.xaml.g.cs" line="20" column="43" bodyfile="Application Green Quake/obj/Debug/netstandard2.0/Views/EcoActions/EcoActionsSubMenu/HomePage.xaml.g.cs" bodystart="20" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="private-func">
+      <memberdef kind="function" id="class_application___green___quake_1_1_views_1_1_eco_actions_1_1_eco_actions_sub_menu_1_1_home_page_1a29445e4ff733cf7e7430dcf7cb1e3ef6" prot="private" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void Application_Green_Quake.Views.EcoActions.EcoActionsSubMenu.HomePage.InitializeComponent</definition>
+        <argsstring>()</argsstring>
+        <name>InitializeComponent</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake/obj/Debug/netstandard2.0/Views/EcoActions/EcoActionsSubMenu/HomePage.xaml.g.cs" line="23" column="22" bodyfile="Application Green Quake/obj/Debug/netstandard2.0/Views/EcoActions/EcoActionsSubMenu/HomePage.xaml.g.cs" bodystart="23" bodyend="26"/>
+      </memberdef>
+      <memberdef kind="function" id="class_application___green___quake_1_1_views_1_1_eco_actions_1_1_eco_actions_sub_menu_1_1_home_page_1a29445e4ff733cf7e7430dcf7cb1e3ef6" prot="private" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void Application_Green_Quake.Views.EcoActions.EcoActionsSubMenu.HomePage.InitializeComponent</definition>
+        <argsstring>()</argsstring>
+        <name>InitializeComponent</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake/obj/Release/netstandard2.0/Views/EcoActions/EcoActionsSubMenu/HomePage.xaml.g.cs" line="23" column="22" bodyfile="Application Green Quake/obj/Release/netstandard2.0/Views/EcoActions/EcoActionsSubMenu/HomePage.xaml.g.cs" bodystart="23" bodyend="26"/>
+      </memberdef>
+      <memberdef kind="function" id="class_application___green___quake_1_1_views_1_1_eco_actions_1_1_eco_actions_sub_menu_1_1_home_page_1a01b2bc2501a2ddcb90f06ca10c4b3f45" prot="private" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>async void</type>
+        <definition>async void Application_Green_Quake.Views.EcoActions.EcoActionsSubMenu.HomePage.NavigateToAirOutHome</definition>
+        <argsstring>(object sender, EventArgs e)</argsstring>
+        <name>NavigateToAirOutHome</name>
+        <param>
+          <type>object</type>
+          <declname>sender</declname>
+        </param>
+        <param>
+          <type>EventArgs</type>
+          <declname>e</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+<para>This function navigates to AirOutHome. </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake/Views/EcoActions/EcoActionsSubMenu/HomePage.xaml.cs" line="28" column="28" bodyfile="Application Green Quake/Views/EcoActions/EcoActionsSubMenu/HomePage.xaml.cs" bodystart="28" bodyend="32"/>
+      </memberdef>
+      <memberdef kind="function" id="class_application___green___quake_1_1_views_1_1_eco_actions_1_1_eco_actions_sub_menu_1_1_home_page_1a9747a847dc9ee4928e467086c0528b28" prot="private" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>async void</type>
+        <definition>async void Application_Green_Quake.Views.EcoActions.EcoActionsSubMenu.HomePage.NavigateToOutsideOnce</definition>
+        <argsstring>(object sender, EventArgs e)</argsstring>
+        <name>NavigateToOutsideOnce</name>
+        <param>
+          <type>object</type>
+          <declname>sender</declname>
+        </param>
+        <param>
+          <type>EventArgs</type>
+          <declname>e</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+<para>This function navigates to OutsideOnce. </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake/Views/EcoActions/EcoActionsSubMenu/HomePage.xaml.cs" line="35" column="28" bodyfile="Application Green Quake/Views/EcoActions/EcoActionsSubMenu/HomePage.xaml.cs" bodystart="35" bodyend="39"/>
+      </memberdef>
+      <memberdef kind="function" id="class_application___green___quake_1_1_views_1_1_eco_actions_1_1_eco_actions_sub_menu_1_1_home_page_1a98fd5d8206299ab3f5d5ab5ecf039ac6" prot="private" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>async void</type>
+        <definition>async void Application_Green_Quake.Views.EcoActions.EcoActionsSubMenu.HomePage.NavigateToPlantIntoHome</definition>
+        <argsstring>(object sender, EventArgs e)</argsstring>
+        <name>NavigateToPlantIntoHome</name>
+        <param>
+          <type>object</type>
+          <declname>sender</declname>
+        </param>
+        <param>
+          <type>EventArgs</type>
+          <declname>e</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+<para>This function navigates to PlantIntoHome. </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake/Views/EcoActions/EcoActionsSubMenu/HomePage.xaml.cs" line="42" column="28" bodyfile="Application Green Quake/Views/EcoActions/EcoActionsSubMenu/HomePage.xaml.cs" bodystart="42" bodyend="46"/>
+      </memberdef>
+      <memberdef kind="function" id="class_application___green___quake_1_1_views_1_1_eco_actions_1_1_eco_actions_sub_menu_1_1_home_page_1a494779534847f47df53f20f72fc8a289" prot="private" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>async void</type>
+        <definition>async void Application_Green_Quake.Views.EcoActions.EcoActionsSubMenu.HomePage.NavigateToNonHarmfulProducts</definition>
+        <argsstring>(object sender, EventArgs e)</argsstring>
+        <name>NavigateToNonHarmfulProducts</name>
+        <param>
+          <type>object</type>
+          <declname>sender</declname>
+        </param>
+        <param>
+          <type>EventArgs</type>
+          <declname>e</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+<para>This function navigates to NonHarmfulProducts. </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake/Views/EcoActions/EcoActionsSubMenu/HomePage.xaml.cs" line="49" column="28" bodyfile="Application Green Quake/Views/EcoActions/EcoActionsSubMenu/HomePage.xaml.cs" bodystart="49" bodyend="53"/>
+      </memberdef>
+      <memberdef kind="function" id="class_application___green___quake_1_1_views_1_1_eco_actions_1_1_eco_actions_sub_menu_1_1_home_page_1a2735d0f3566cc19b4fa286a4b3ac8ba9" prot="private" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>async void</type>
+        <definition>async void Application_Green_Quake.Views.EcoActions.EcoActionsSubMenu.HomePage.NavigateToSaveFlush</definition>
+        <argsstring>(object sender, EventArgs e)</argsstring>
+        <name>NavigateToSaveFlush</name>
+        <param>
+          <type>object</type>
+          <declname>sender</declname>
+        </param>
+        <param>
+          <type>EventArgs</type>
+          <declname>e</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+<para>This function navigates to ToiletFlushes. </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake/Views/EcoActions/EcoActionsSubMenu/HomePage.xaml.cs" line="56" column="28" bodyfile="Application Green Quake/Views/EcoActions/EcoActionsSubMenu/HomePage.xaml.cs" bodystart="56" bodyend="60"/>
+      </memberdef>
+      <memberdef kind="function" id="class_application___green___quake_1_1_views_1_1_eco_actions_1_1_eco_actions_sub_menu_1_1_home_page_1a544144e80ee02c33fdbd45981aa8f0ee" prot="private" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>async void</type>
+        <definition>async void Application_Green_Quake.Views.EcoActions.EcoActionsSubMenu.HomePage.NavigateToClothNapkins</definition>
+        <argsstring>(object sender, EventArgs e)</argsstring>
+        <name>NavigateToClothNapkins</name>
+        <param>
+          <type>object</type>
+          <declname>sender</declname>
+        </param>
+        <param>
+          <type>EventArgs</type>
+          <declname>e</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+<para>This function navigates to ClothNapkins. </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake/Views/EcoActions/EcoActionsSubMenu/HomePage.xaml.cs" line="63" column="28" bodyfile="Application Green Quake/Views/EcoActions/EcoActionsSubMenu/HomePage.xaml.cs" bodystart="63" bodyend="67"/>
+      </memberdef>
+      <memberdef kind="function" id="class_application___green___quake_1_1_views_1_1_eco_actions_1_1_eco_actions_sub_menu_1_1_home_page_1a52d1f80c5488f62426a07376370d6154" prot="private" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>async void</type>
+        <definition>async void Application_Green_Quake.Views.EcoActions.EcoActionsSubMenu.HomePage.NavigateToClothTowels</definition>
+        <argsstring>(object sender, EventArgs e)</argsstring>
+        <name>NavigateToClothTowels</name>
+        <param>
+          <type>object</type>
+          <declname>sender</declname>
+        </param>
+        <param>
+          <type>EventArgs</type>
+          <declname>e</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+<para>This function navigates to ClothTowels. </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake/Views/EcoActions/EcoActionsSubMenu/HomePage.xaml.cs" line="70" column="28" bodyfile="Application Green Quake/Views/EcoActions/EcoActionsSubMenu/HomePage.xaml.cs" bodystart="70" bodyend="74"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="public-func">
+      <memberdef kind="function" id="class_application___green___quake_1_1_views_1_1_eco_actions_1_1_eco_actions_sub_menu_1_1_home_page_1ab5875c773792d7635ead2ed1241f7a56" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>Application_Green_Quake.Views.EcoActions.EcoActionsSubMenu.HomePage.HomePage</definition>
+        <argsstring>()</argsstring>
+        <name>HomePage</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake/Views/EcoActions/EcoActionsSubMenu/HomePage.xaml.cs" line="21" column="16" bodyfile="Application Green Quake/Views/EcoActions/EcoActionsSubMenu/HomePage.xaml.cs" bodystart="21" bodyend="25"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="protected-func">
+      <memberdef kind="function" id="class_application___green___quake_1_1_views_1_1_eco_actions_1_1_eco_actions_sub_menu_1_1_home_page_1a7db976e1c682b3056c4ff632657d26ad" prot="protected" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>override void</type>
+        <definition>override void Application_Green_Quake.Views.EcoActions.EcoActionsSubMenu.HomePage.OnAppearing</definition>
+        <argsstring>()</argsstring>
+        <name>OnAppearing</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+<para>This function is called before the page is displayed and it created an object ans uses it&apos;s SetLvl method to set the players level in the app and display it in the navigation bar. </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake/Views/EcoActions/EcoActionsSubMenu/HomePage.xaml.cs" line="78" column="33" bodyfile="Application Green Quake/Views/EcoActions/EcoActionsSubMenu/HomePage.xaml.cs" bodystart="78" bodyend="84"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <inheritancegraph>
+      <node id="3">
+        <label>ContentPage</label>
+      </node>
+      <node id="1">
+        <label>Application_Green_Quake.Views.EcoActions.EcoActionsSubMenu.HomePage</label>
+        <link refid="class_application___green___quake_1_1_views_1_1_eco_actions_1_1_eco_actions_sub_menu_1_1_home_page"/>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+        <childnode refid="3" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="2">
+        <label>global::XamarinForms::ContentPage</label>
+      </node>
+    </inheritancegraph>
+    <collaborationgraph>
+      <node id="3">
+        <label>ContentPage</label>
+      </node>
+      <node id="1">
+        <label>Application_Green_Quake.Views.EcoActions.EcoActionsSubMenu.HomePage</label>
+        <link refid="class_application___green___quake_1_1_views_1_1_eco_actions_1_1_eco_actions_sub_menu_1_1_home_page"/>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+        <childnode refid="3" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="2">
+        <label>global::XamarinForms::ContentPage</label>
+      </node>
+    </collaborationgraph>
+    <location file="Application Green Quake/obj/Debug/netstandard2.0/Views/EcoActions/EcoActionsSubMenu/HomePage.xaml.g.cs" line="17" column="19" bodyfile="Application Green Quake/obj/Debug/netstandard2.0/Views/EcoActions/EcoActionsSubMenu/HomePage.xaml.g.cs" bodystart="17" bodyend="27"/>
+    <listofallmembers>
+      <member refid="class_application___green___quake_1_1_views_1_1_eco_actions_1_1_eco_actions_sub_menu_1_1_home_page_1ab5875c773792d7635ead2ed1241f7a56" prot="public" virt="non-virtual"><scope>Application_Green_Quake::Views::EcoActions::EcoActionsSubMenu::HomePage</scope><name>HomePage</name></member>
+      <member refid="class_application___green___quake_1_1_views_1_1_eco_actions_1_1_eco_actions_sub_menu_1_1_home_page_1a29445e4ff733cf7e7430dcf7cb1e3ef6" prot="private" virt="non-virtual"><scope>Application_Green_Quake::Views::EcoActions::EcoActionsSubMenu::HomePage</scope><name>InitializeComponent</name></member>
+      <member refid="class_application___green___quake_1_1_views_1_1_eco_actions_1_1_eco_actions_sub_menu_1_1_home_page_1a29445e4ff733cf7e7430dcf7cb1e3ef6" prot="private" virt="non-virtual"><scope>Application_Green_Quake::Views::EcoActions::EcoActionsSubMenu::HomePage</scope><name>InitializeComponent</name></member>
+      <member refid="class_application___green___quake_1_1_views_1_1_eco_actions_1_1_eco_actions_sub_menu_1_1_home_page_1a01b2bc2501a2ddcb90f06ca10c4b3f45" prot="private" virt="non-virtual"><scope>Application_Green_Quake::Views::EcoActions::EcoActionsSubMenu::HomePage</scope><name>NavigateToAirOutHome</name></member>
+      <member refid="class_application___green___quake_1_1_views_1_1_eco_actions_1_1_eco_actions_sub_menu_1_1_home_page_1a544144e80ee02c33fdbd45981aa8f0ee" prot="private" virt="non-virtual"><scope>Application_Green_Quake::Views::EcoActions::EcoActionsSubMenu::HomePage</scope><name>NavigateToClothNapkins</name></member>
+      <member refid="class_application___green___quake_1_1_views_1_1_eco_actions_1_1_eco_actions_sub_menu_1_1_home_page_1a52d1f80c5488f62426a07376370d6154" prot="private" virt="non-virtual"><scope>Application_Green_Quake::Views::EcoActions::EcoActionsSubMenu::HomePage</scope><name>NavigateToClothTowels</name></member>
+      <member refid="class_application___green___quake_1_1_views_1_1_eco_actions_1_1_eco_actions_sub_menu_1_1_home_page_1a494779534847f47df53f20f72fc8a289" prot="private" virt="non-virtual"><scope>Application_Green_Quake::Views::EcoActions::EcoActionsSubMenu::HomePage</scope><name>NavigateToNonHarmfulProducts</name></member>
+      <member refid="class_application___green___quake_1_1_views_1_1_eco_actions_1_1_eco_actions_sub_menu_1_1_home_page_1a9747a847dc9ee4928e467086c0528b28" prot="private" virt="non-virtual"><scope>Application_Green_Quake::Views::EcoActions::EcoActionsSubMenu::HomePage</scope><name>NavigateToOutsideOnce</name></member>
+      <member refid="class_application___green___quake_1_1_views_1_1_eco_actions_1_1_eco_actions_sub_menu_1_1_home_page_1a98fd5d8206299ab3f5d5ab5ecf039ac6" prot="private" virt="non-virtual"><scope>Application_Green_Quake::Views::EcoActions::EcoActionsSubMenu::HomePage</scope><name>NavigateToPlantIntoHome</name></member>
+      <member refid="class_application___green___quake_1_1_views_1_1_eco_actions_1_1_eco_actions_sub_menu_1_1_home_page_1a2735d0f3566cc19b4fa286a4b3ac8ba9" prot="private" virt="non-virtual"><scope>Application_Green_Quake::Views::EcoActions::EcoActionsSubMenu::HomePage</scope><name>NavigateToSaveFlush</name></member>
+      <member refid="class_application___green___quake_1_1_views_1_1_eco_actions_1_1_eco_actions_sub_menu_1_1_home_page_1a7db976e1c682b3056c4ff632657d26ad" prot="protected" virt="non-virtual"><scope>Application_Green_Quake::Views::EcoActions::EcoActionsSubMenu::HomePage</scope><name>OnAppearing</name></member>
+      <member refid="class_application___green___quake_1_1_views_1_1_eco_actions_1_1_eco_actions_sub_menu_1_1_home_page_1aacbf5c748b97ba795b08ff9a311e3d8a" prot="private" virt="non-virtual"><scope>Application_Green_Quake::Views::EcoActions::EcoActionsSubMenu::HomePage</scope><name>theLevel</name></member>
+    </listofallmembers>
+  </compounddef>
+</doxygen>

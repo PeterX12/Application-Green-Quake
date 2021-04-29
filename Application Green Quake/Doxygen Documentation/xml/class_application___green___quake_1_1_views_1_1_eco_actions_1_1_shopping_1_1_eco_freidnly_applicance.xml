@@ -1,0 +1,154 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.9.1" xml:lang="en-US">
+  <compounddef id="class_application___green___quake_1_1_views_1_1_eco_actions_1_1_shopping_1_1_eco_freidnly_applicance" kind="class" language="C#" prot="public">
+    <compoundname>Application_Green_Quake::Views::EcoActions::Shopping::EcoFreidnlyApplicance</compoundname>
+    <basecompoundref prot="public" virt="non-virtual">global.XamarinForms.ContentPage</basecompoundref>
+    <basecompoundref prot="public" virt="non-virtual">global.XamarinForms.ContentPage</basecompoundref>
+    <basecompoundref prot="public" virt="non-virtual">ContentPage</basecompoundref>
+      <sectiondef kind="private-attrib">
+      <memberdef kind="variable" id="class_application___green___quake_1_1_views_1_1_eco_actions_1_1_shopping_1_1_eco_freidnly_applicance_1a29fc77da7c460dcaef051158045400c9" prot="private" static="no" mutable="no">
+        <type>global::Xamarin.Forms.Label</type>
+        <definition>Xamarin Forms global::Label Application_Green_Quake.Views.EcoActions.Shopping.EcoFreidnlyApplicance::theLevel</definition>
+        <argsstring></argsstring>
+        <name>theLevel</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake/obj/Debug/netstandard2.0/Views/EcoActions/Shopping/EcoFreidnlyApplicance.xaml.g.cs" line="20" column="43" bodyfile="Application Green Quake/obj/Debug/netstandard2.0/Views/EcoActions/Shopping/EcoFreidnlyApplicance.xaml.g.cs" bodystart="20" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="private-func">
+      <memberdef kind="function" id="class_application___green___quake_1_1_views_1_1_eco_actions_1_1_shopping_1_1_eco_freidnly_applicance_1ad2e826cad099d7d3ca5c9d2af154b38d" prot="private" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void Application_Green_Quake.Views.EcoActions.Shopping.EcoFreidnlyApplicance.InitializeComponent</definition>
+        <argsstring>()</argsstring>
+        <name>InitializeComponent</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake/obj/Debug/netstandard2.0/Views/EcoActions/Shopping/EcoFreidnlyApplicance.xaml.g.cs" line="23" column="22" bodyfile="Application Green Quake/obj/Debug/netstandard2.0/Views/EcoActions/Shopping/EcoFreidnlyApplicance.xaml.g.cs" bodystart="23" bodyend="26"/>
+      </memberdef>
+      <memberdef kind="function" id="class_application___green___quake_1_1_views_1_1_eco_actions_1_1_shopping_1_1_eco_freidnly_applicance_1ad2e826cad099d7d3ca5c9d2af154b38d" prot="private" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void Application_Green_Quake.Views.EcoActions.Shopping.EcoFreidnlyApplicance.InitializeComponent</definition>
+        <argsstring>()</argsstring>
+        <name>InitializeComponent</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake/obj/Release/netstandard2.0/Views/EcoActions/Shopping/EcoFreidnlyApplicance.xaml.g.cs" line="23" column="22" bodyfile="Application Green Quake/obj/Release/netstandard2.0/Views/EcoActions/Shopping/EcoFreidnlyApplicance.xaml.g.cs" bodystart="23" bodyend="26"/>
+      </memberdef>
+      <memberdef kind="function" id="class_application___green___quake_1_1_views_1_1_eco_actions_1_1_shopping_1_1_eco_freidnly_applicance_1a3ccb9b0072fc0951b1f3be01318dfc70" prot="private" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>async void</type>
+        <definition>async void Application_Green_Quake.Views.EcoActions.Shopping.EcoFreidnlyApplicance.AddPointsClicked</definition>
+        <argsstring>(object sender, EventArgs e)</argsstring>
+        <name>AddPointsClicked</name>
+        <param>
+          <type>object</type>
+          <declname>sender</declname>
+        </param>
+        <param>
+          <type>EventArgs</type>
+          <declname>e</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+<para>This function creates objects and calls their methods. First the security methods are called and if they return false call the points updating methods </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake/Views/EcoActions/Shopping/EcoFreidnlyApplicance.xaml.cs" line="29" column="28" bodyfile="Application Green Quake/Views/EcoActions/Shopping/EcoFreidnlyApplicance.xaml.cs" bodystart="29" bodyend="57"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="public-func">
+      <memberdef kind="function" id="class_application___green___quake_1_1_views_1_1_eco_actions_1_1_shopping_1_1_eco_freidnly_applicance_1aefdecae13d8969d7ceb78f7231b808e1" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>Application_Green_Quake.Views.EcoActions.Shopping.EcoFreidnlyApplicance.EcoFreidnlyApplicance</definition>
+        <argsstring>()</argsstring>
+        <name>EcoFreidnlyApplicance</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake/Views/EcoActions/Shopping/EcoFreidnlyApplicance.xaml.cs" line="21" column="16" bodyfile="Application Green Quake/Views/EcoActions/Shopping/EcoFreidnlyApplicance.xaml.cs" bodystart="21" bodyend="25"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="protected-func">
+      <memberdef kind="function" id="class_application___green___quake_1_1_views_1_1_eco_actions_1_1_shopping_1_1_eco_freidnly_applicance_1a40c0b357875e9f3de5b7a14a78a7dc73" prot="protected" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>override void</type>
+        <definition>override void Application_Green_Quake.Views.EcoActions.Shopping.EcoFreidnlyApplicance.OnAppearing</definition>
+        <argsstring>()</argsstring>
+        <name>OnAppearing</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+<para>This function creates objects and calls their methods. First the security methods are called and if they return false call the points updating methods </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake/Views/EcoActions/Shopping/EcoFreidnlyApplicance.xaml.cs" line="61" column="33" bodyfile="Application Green Quake/Views/EcoActions/Shopping/EcoFreidnlyApplicance.xaml.cs" bodystart="61" bodyend="67"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <inheritancegraph>
+      <node id="3">
+        <label>ContentPage</label>
+      </node>
+      <node id="1">
+        <label>Application_Green_Quake.Views.EcoActions.Shopping.EcoFreidnlyApplicance</label>
+        <link refid="class_application___green___quake_1_1_views_1_1_eco_actions_1_1_shopping_1_1_eco_freidnly_applicance"/>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+        <childnode refid="3" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="2">
+        <label>global::XamarinForms::ContentPage</label>
+      </node>
+    </inheritancegraph>
+    <collaborationgraph>
+      <node id="3">
+        <label>ContentPage</label>
+      </node>
+      <node id="1">
+        <label>Application_Green_Quake.Views.EcoActions.Shopping.EcoFreidnlyApplicance</label>
+        <link refid="class_application___green___quake_1_1_views_1_1_eco_actions_1_1_shopping_1_1_eco_freidnly_applicance"/>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+        <childnode refid="3" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="2">
+        <label>global::XamarinForms::ContentPage</label>
+      </node>
+    </collaborationgraph>
+    <location file="Application Green Quake/obj/Debug/netstandard2.0/Views/EcoActions/Shopping/EcoFreidnlyApplicance.xaml.g.cs" line="17" column="19" bodyfile="Application Green Quake/obj/Debug/netstandard2.0/Views/EcoActions/Shopping/EcoFreidnlyApplicance.xaml.g.cs" bodystart="17" bodyend="27"/>
+    <listofallmembers>
+      <member refid="class_application___green___quake_1_1_views_1_1_eco_actions_1_1_shopping_1_1_eco_freidnly_applicance_1a3ccb9b0072fc0951b1f3be01318dfc70" prot="private" virt="non-virtual"><scope>Application_Green_Quake::Views::EcoActions::Shopping::EcoFreidnlyApplicance</scope><name>AddPointsClicked</name></member>
+      <member refid="class_application___green___quake_1_1_views_1_1_eco_actions_1_1_shopping_1_1_eco_freidnly_applicance_1aefdecae13d8969d7ceb78f7231b808e1" prot="public" virt="non-virtual"><scope>Application_Green_Quake::Views::EcoActions::Shopping::EcoFreidnlyApplicance</scope><name>EcoFreidnlyApplicance</name></member>
+      <member refid="class_application___green___quake_1_1_views_1_1_eco_actions_1_1_shopping_1_1_eco_freidnly_applicance_1ad2e826cad099d7d3ca5c9d2af154b38d" prot="private" virt="non-virtual"><scope>Application_Green_Quake::Views::EcoActions::Shopping::EcoFreidnlyApplicance</scope><name>InitializeComponent</name></member>
+      <member refid="class_application___green___quake_1_1_views_1_1_eco_actions_1_1_shopping_1_1_eco_freidnly_applicance_1ad2e826cad099d7d3ca5c9d2af154b38d" prot="private" virt="non-virtual"><scope>Application_Green_Quake::Views::EcoActions::Shopping::EcoFreidnlyApplicance</scope><name>InitializeComponent</name></member>
+      <member refid="class_application___green___quake_1_1_views_1_1_eco_actions_1_1_shopping_1_1_eco_freidnly_applicance_1a40c0b357875e9f3de5b7a14a78a7dc73" prot="protected" virt="non-virtual"><scope>Application_Green_Quake::Views::EcoActions::Shopping::EcoFreidnlyApplicance</scope><name>OnAppearing</name></member>
+      <member refid="class_application___green___quake_1_1_views_1_1_eco_actions_1_1_shopping_1_1_eco_freidnly_applicance_1a29fc77da7c460dcaef051158045400c9" prot="private" virt="non-virtual"><scope>Application_Green_Quake::Views::EcoActions::Shopping::EcoFreidnlyApplicance</scope><name>theLevel</name></member>
+    </listofallmembers>
+  </compounddef>
+</doxygen>

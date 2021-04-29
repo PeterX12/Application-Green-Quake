@@ -1,0 +1,1108 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.9.1" xml:lang="en-US">
+  <compounddef id="classcrc643f46942d9dd1fff9_1_1_forms_edit_text_base" kind="class" language="Java" prot="public">
+    <compoundname>crc643f46942d9dd1fff9::FormsEditTextBase</compoundname>
+    <basecompoundref prot="public" virt="non-virtual">android.widget.EditText</basecompoundref>
+    <basecompoundref prot="public" virt="non-virtual">mono.android.IGCUserPeer</basecompoundref>
+    <basecompoundref prot="public" virt="non-virtual">android.widget.EditText</basecompoundref>
+    <basecompoundref prot="public" virt="non-virtual">mono.android.IGCUserPeer</basecompoundref>
+    <basecompoundref prot="public" virt="non-virtual">android.widget.EditText</basecompoundref>
+    <basecompoundref prot="public" virt="non-virtual">mono.android.IGCUserPeer</basecompoundref>
+    <basecompoundref prot="public" virt="non-virtual">android.widget.EditText</basecompoundref>
+    <basecompoundref prot="public" virt="non-virtual">mono.android.IGCUserPeer</basecompoundref>
+    <derivedcompoundref refid="classcrc643f46942d9dd1fff9_1_1_forms_edit_text" prot="public" virt="non-virtual">crc643f46942d9dd1fff9.FormsEditText</derivedcompoundref>
+    <derivedcompoundref refid="classcrc643f46942d9dd1fff9_1_1_forms_edit_text" prot="public" virt="non-virtual">crc643f46942d9dd1fff9.FormsEditText</derivedcompoundref>
+    <derivedcompoundref refid="classcrc643f46942d9dd1fff9_1_1_forms_edit_text" prot="public" virt="non-virtual">crc643f46942d9dd1fff9.FormsEditText</derivedcompoundref>
+    <derivedcompoundref refid="classcrc643f46942d9dd1fff9_1_1_forms_edit_text" prot="public" virt="non-virtual">crc643f46942d9dd1fff9.FormsEditText</derivedcompoundref>
+    <derivedcompoundref refid="classcrc643f46942d9dd1fff9_1_1_picker_edit_text" prot="public" virt="non-virtual">crc643f46942d9dd1fff9.PickerEditText</derivedcompoundref>
+    <derivedcompoundref refid="classcrc643f46942d9dd1fff9_1_1_picker_edit_text" prot="public" virt="non-virtual">crc643f46942d9dd1fff9.PickerEditText</derivedcompoundref>
+    <derivedcompoundref refid="classcrc643f46942d9dd1fff9_1_1_picker_edit_text" prot="public" virt="non-virtual">crc643f46942d9dd1fff9.PickerEditText</derivedcompoundref>
+    <derivedcompoundref refid="classcrc643f46942d9dd1fff9_1_1_picker_edit_text" prot="public" virt="non-virtual">crc643f46942d9dd1fff9.PickerEditText</derivedcompoundref>
+      <sectiondef kind="public-static-attrib">
+      <memberdef kind="variable" id="classcrc643f46942d9dd1fff9_1_1_forms_edit_text_base_1a3b89908644e9f14a7a6c02fdfc247559" prot="public" static="yes" mutable="no">
+        <type>final String</type>
+        <definition>static final String crc643f46942d9dd1fff9.FormsEditTextBase::__md_methods</definition>
+        <argsstring></argsstring>
+        <name>__md_methods</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+<para>@hide </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/100/android/src/crc643f46942d9dd1fff9/FormsEditTextBase.java" line="10" column="28" bodyfile="Application Green Quake.Android/obj/Debug/100/android/src/crc643f46942d9dd1fff9/FormsEditTextBase.java" bodystart="10" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="private-attrib">
+      <memberdef kind="variable" id="classcrc643f46942d9dd1fff9_1_1_forms_edit_text_base_1abfb9d745fcc5602a76d307e3149ba340" prot="private" static="no" mutable="no">
+        <type>java.util.ArrayList</type>
+        <definition>java util ArrayList crc643f46942d9dd1fff9.FormsEditTextBase::refList</definition>
+        <argsstring></argsstring>
+        <name>refList</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/100/android/src/crc643f46942d9dd1fff9/FormsEditTextBase.java" line="58" column="27" bodyfile="Application Green Quake.Android/obj/Debug/100/android/src/crc643f46942d9dd1fff9/FormsEditTextBase.java" bodystart="58" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="package-static-func">
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_forms_edit_text_base_1a80582e37b07fc699165b98b4b08611df" prot="package" static="yes" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>crc643f46942d9dd1fff9.FormsEditTextBase.[static initializer]</definition>
+        <argsstring></argsstring>
+        <name>[static initializer]</name>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_editor_edit_text_1a44e0d2b98ebcb2a92b6929b2cf0a1ee2">[static initializer]</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_entry_edit_text_1a4c4af6c2714cccc5549a6b6bc4755c6b">[static initializer]</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_forms_edit_text_1a3560d875e69b2390e08f01cb7a1ca59e">[static initializer]</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_picker_edit_text_1a0b5fe86f73a5811ff41bd15d2401610e">[static initializer]</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_editor_edit_text_1a44e0d2b98ebcb2a92b6929b2cf0a1ee2">[static initializer]</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_entry_edit_text_1a4c4af6c2714cccc5549a6b6bc4755c6b">[static initializer]</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_forms_edit_text_1a3560d875e69b2390e08f01cb7a1ca59e">[static initializer]</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_picker_edit_text_1a0b5fe86f73a5811ff41bd15d2401610e">[static initializer]</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_editor_edit_text_1a44e0d2b98ebcb2a92b6929b2cf0a1ee2">[static initializer]</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_entry_edit_text_1a4c4af6c2714cccc5549a6b6bc4755c6b">[static initializer]</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_forms_edit_text_1a3560d875e69b2390e08f01cb7a1ca59e">[static initializer]</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_picker_edit_text_1a0b5fe86f73a5811ff41bd15d2401610e">[static initializer]</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_editor_edit_text_1a44e0d2b98ebcb2a92b6929b2cf0a1ee2">[static initializer]</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_entry_edit_text_1a4c4af6c2714cccc5549a6b6bc4755c6b">[static initializer]</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_forms_edit_text_1a3560d875e69b2390e08f01cb7a1ca59e">[static initializer]</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_picker_edit_text_1a0b5fe86f73a5811ff41bd15d2401610e">[static initializer]</reimplementedby>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/100/android/src/crc643f46942d9dd1fff9/FormsEditTextBase.java" line="10" column="28"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_forms_edit_text_base_1a80582e37b07fc699165b98b4b08611df" prot="package" static="yes" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>crc643f46942d9dd1fff9.FormsEditTextBase.[static initializer]</definition>
+        <argsstring></argsstring>
+        <name>[static initializer]</name>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_editor_edit_text_1a44e0d2b98ebcb2a92b6929b2cf0a1ee2">[static initializer]</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_entry_edit_text_1a4c4af6c2714cccc5549a6b6bc4755c6b">[static initializer]</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_forms_edit_text_1a3560d875e69b2390e08f01cb7a1ca59e">[static initializer]</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_picker_edit_text_1a0b5fe86f73a5811ff41bd15d2401610e">[static initializer]</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_editor_edit_text_1a44e0d2b98ebcb2a92b6929b2cf0a1ee2">[static initializer]</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_entry_edit_text_1a4c4af6c2714cccc5549a6b6bc4755c6b">[static initializer]</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_forms_edit_text_1a3560d875e69b2390e08f01cb7a1ca59e">[static initializer]</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_picker_edit_text_1a0b5fe86f73a5811ff41bd15d2401610e">[static initializer]</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_editor_edit_text_1a44e0d2b98ebcb2a92b6929b2cf0a1ee2">[static initializer]</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_entry_edit_text_1a4c4af6c2714cccc5549a6b6bc4755c6b">[static initializer]</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_forms_edit_text_1a3560d875e69b2390e08f01cb7a1ca59e">[static initializer]</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_picker_edit_text_1a0b5fe86f73a5811ff41bd15d2401610e">[static initializer]</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_editor_edit_text_1a44e0d2b98ebcb2a92b6929b2cf0a1ee2">[static initializer]</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_entry_edit_text_1a4c4af6c2714cccc5549a6b6bc4755c6b">[static initializer]</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_forms_edit_text_1a3560d875e69b2390e08f01cb7a1ca59e">[static initializer]</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_picker_edit_text_1a0b5fe86f73a5811ff41bd15d2401610e">[static initializer]</reimplementedby>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/110/android/src/crc643f46942d9dd1fff9/FormsEditTextBase.java" line="10" column="28"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_forms_edit_text_base_1a80582e37b07fc699165b98b4b08611df" prot="package" static="yes" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>crc643f46942d9dd1fff9.FormsEditTextBase.[static initializer]</definition>
+        <argsstring></argsstring>
+        <name>[static initializer]</name>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_editor_edit_text_1a44e0d2b98ebcb2a92b6929b2cf0a1ee2">[static initializer]</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_entry_edit_text_1a4c4af6c2714cccc5549a6b6bc4755c6b">[static initializer]</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_forms_edit_text_1a3560d875e69b2390e08f01cb7a1ca59e">[static initializer]</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_picker_edit_text_1a0b5fe86f73a5811ff41bd15d2401610e">[static initializer]</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_editor_edit_text_1a44e0d2b98ebcb2a92b6929b2cf0a1ee2">[static initializer]</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_entry_edit_text_1a4c4af6c2714cccc5549a6b6bc4755c6b">[static initializer]</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_forms_edit_text_1a3560d875e69b2390e08f01cb7a1ca59e">[static initializer]</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_picker_edit_text_1a0b5fe86f73a5811ff41bd15d2401610e">[static initializer]</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_editor_edit_text_1a44e0d2b98ebcb2a92b6929b2cf0a1ee2">[static initializer]</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_entry_edit_text_1a4c4af6c2714cccc5549a6b6bc4755c6b">[static initializer]</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_forms_edit_text_1a3560d875e69b2390e08f01cb7a1ca59e">[static initializer]</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_picker_edit_text_1a0b5fe86f73a5811ff41bd15d2401610e">[static initializer]</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_editor_edit_text_1a44e0d2b98ebcb2a92b6929b2cf0a1ee2">[static initializer]</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_entry_edit_text_1a4c4af6c2714cccc5549a6b6bc4755c6b">[static initializer]</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_forms_edit_text_1a3560d875e69b2390e08f01cb7a1ca59e">[static initializer]</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_picker_edit_text_1a0b5fe86f73a5811ff41bd15d2401610e">[static initializer]</reimplementedby>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/100/android/src/crc643f46942d9dd1fff9/FormsEditTextBase.java" line="10" column="28"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_forms_edit_text_base_1a80582e37b07fc699165b98b4b08611df" prot="package" static="yes" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>crc643f46942d9dd1fff9.FormsEditTextBase.[static initializer]</definition>
+        <argsstring></argsstring>
+        <name>[static initializer]</name>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_editor_edit_text_1a44e0d2b98ebcb2a92b6929b2cf0a1ee2">[static initializer]</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_entry_edit_text_1a4c4af6c2714cccc5549a6b6bc4755c6b">[static initializer]</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_forms_edit_text_1a3560d875e69b2390e08f01cb7a1ca59e">[static initializer]</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_picker_edit_text_1a0b5fe86f73a5811ff41bd15d2401610e">[static initializer]</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_editor_edit_text_1a44e0d2b98ebcb2a92b6929b2cf0a1ee2">[static initializer]</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_entry_edit_text_1a4c4af6c2714cccc5549a6b6bc4755c6b">[static initializer]</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_forms_edit_text_1a3560d875e69b2390e08f01cb7a1ca59e">[static initializer]</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_picker_edit_text_1a0b5fe86f73a5811ff41bd15d2401610e">[static initializer]</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_editor_edit_text_1a44e0d2b98ebcb2a92b6929b2cf0a1ee2">[static initializer]</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_entry_edit_text_1a4c4af6c2714cccc5549a6b6bc4755c6b">[static initializer]</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_forms_edit_text_1a3560d875e69b2390e08f01cb7a1ca59e">[static initializer]</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_picker_edit_text_1a0b5fe86f73a5811ff41bd15d2401610e">[static initializer]</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_editor_edit_text_1a44e0d2b98ebcb2a92b6929b2cf0a1ee2">[static initializer]</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_entry_edit_text_1a4c4af6c2714cccc5549a6b6bc4755c6b">[static initializer]</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_forms_edit_text_1a3560d875e69b2390e08f01cb7a1ca59e">[static initializer]</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_picker_edit_text_1a0b5fe86f73a5811ff41bd15d2401610e">[static initializer]</reimplementedby>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/110/android/src/crc643f46942d9dd1fff9/FormsEditTextBase.java" line="10" column="28"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="public-func">
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_forms_edit_text_base_1ab7ca534aa1098d8620317dafa9625ec6" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>crc643f46942d9dd1fff9.FormsEditTextBase.FormsEditTextBase</definition>
+        <argsstring>(android.content.Context p0)</argsstring>
+        <name>FormsEditTextBase</name>
+        <param>
+          <type>android.content.Context</type>
+          <declname>p0</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/100/android/src/crc643f46942d9dd1fff9/FormsEditTextBase.java" line="19" column="8" bodyfile="Application Green Quake.Android/obj/Debug/100/android/src/crc643f46942d9dd1fff9/FormsEditTextBase.java" bodystart="19" bodyend="24"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_forms_edit_text_base_1a5874d79b63a67e5d8c38cc45e47087ff" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>crc643f46942d9dd1fff9.FormsEditTextBase.FormsEditTextBase</definition>
+        <argsstring>(android.content.Context p0, android.util.AttributeSet p1)</argsstring>
+        <name>FormsEditTextBase</name>
+        <param>
+          <type>android.content.Context</type>
+          <declname>p0</declname>
+        </param>
+        <param>
+          <type>android.util.AttributeSet</type>
+          <declname>p1</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/100/android/src/crc643f46942d9dd1fff9/FormsEditTextBase.java" line="27" column="8" bodyfile="Application Green Quake.Android/obj/Debug/100/android/src/crc643f46942d9dd1fff9/FormsEditTextBase.java" bodystart="27" bodyend="32"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_forms_edit_text_base_1ab61dc0f3a5640d25b607bc1bde0ef06b" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>crc643f46942d9dd1fff9.FormsEditTextBase.FormsEditTextBase</definition>
+        <argsstring>(android.content.Context p0, android.util.AttributeSet p1, int p2)</argsstring>
+        <name>FormsEditTextBase</name>
+        <param>
+          <type>android.content.Context</type>
+          <declname>p0</declname>
+        </param>
+        <param>
+          <type>android.util.AttributeSet</type>
+          <declname>p1</declname>
+        </param>
+        <param>
+          <type>int</type>
+          <declname>p2</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/100/android/src/crc643f46942d9dd1fff9/FormsEditTextBase.java" line="35" column="8" bodyfile="Application Green Quake.Android/obj/Debug/100/android/src/crc643f46942d9dd1fff9/FormsEditTextBase.java" bodystart="35" bodyend="40"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_forms_edit_text_base_1ae4cad2cf2780772a1851f2946e35e54f" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>crc643f46942d9dd1fff9.FormsEditTextBase.FormsEditTextBase</definition>
+        <argsstring>(android.content.Context p0, android.util.AttributeSet p1, int p2, int p3)</argsstring>
+        <name>FormsEditTextBase</name>
+        <param>
+          <type>android.content.Context</type>
+          <declname>p0</declname>
+        </param>
+        <param>
+          <type>android.util.AttributeSet</type>
+          <declname>p1</declname>
+        </param>
+        <param>
+          <type>int</type>
+          <declname>p2</declname>
+        </param>
+        <param>
+          <type>int</type>
+          <declname>p3</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/100/android/src/crc643f46942d9dd1fff9/FormsEditTextBase.java" line="43" column="8" bodyfile="Application Green Quake.Android/obj/Debug/100/android/src/crc643f46942d9dd1fff9/FormsEditTextBase.java" bodystart="43" bodyend="48"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_forms_edit_text_base_1afd9835fa6d71209afdc8aba27bb45e98" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>boolean</type>
+        <definition>boolean crc643f46942d9dd1fff9.FormsEditTextBase.requestFocus</definition>
+        <argsstring>(int p0, android.graphics.Rect p1)</argsstring>
+        <name>requestFocus</name>
+        <param>
+          <type>int</type>
+          <declname>p0</declname>
+        </param>
+        <param>
+          <type>android.graphics.Rect</type>
+          <declname>p1</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/100/android/src/crc643f46942d9dd1fff9/FormsEditTextBase.java" line="51" column="16" bodyfile="Application Green Quake.Android/obj/Debug/100/android/src/crc643f46942d9dd1fff9/FormsEditTextBase.java" bodystart="51" bodyend="54"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_forms_edit_text_base_1a4db2975fa63dd99d5af921432d3e00ed" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void crc643f46942d9dd1fff9.FormsEditTextBase.monodroidAddReference</definition>
+        <argsstring>(java.lang.Object obj)</argsstring>
+        <name>monodroidAddReference</name>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_editor_edit_text_1ad4fbe0a643b45f788454e14288275d17">monodroidAddReference</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_entry_edit_text_1a5f8f88202086f46b832f4544963a426f">monodroidAddReference</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_forms_edit_text_1ad3c1eb3e791dffbac062e05e0894e994">monodroidAddReference</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_picker_edit_text_1af4d4de06fe116c3ed3e1ac63788bcdb7">monodroidAddReference</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_editor_edit_text_1ad4fbe0a643b45f788454e14288275d17">monodroidAddReference</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_entry_edit_text_1a5f8f88202086f46b832f4544963a426f">monodroidAddReference</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_forms_edit_text_1ad3c1eb3e791dffbac062e05e0894e994">monodroidAddReference</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_picker_edit_text_1af4d4de06fe116c3ed3e1ac63788bcdb7">monodroidAddReference</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_editor_edit_text_1ad4fbe0a643b45f788454e14288275d17">monodroidAddReference</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_entry_edit_text_1a5f8f88202086f46b832f4544963a426f">monodroidAddReference</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_forms_edit_text_1ad3c1eb3e791dffbac062e05e0894e994">monodroidAddReference</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_picker_edit_text_1af4d4de06fe116c3ed3e1ac63788bcdb7">monodroidAddReference</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_editor_edit_text_1ad4fbe0a643b45f788454e14288275d17">monodroidAddReference</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_entry_edit_text_1a5f8f88202086f46b832f4544963a426f">monodroidAddReference</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_forms_edit_text_1ad3c1eb3e791dffbac062e05e0894e994">monodroidAddReference</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_picker_edit_text_1af4d4de06fe116c3ed3e1ac63788bcdb7">monodroidAddReference</reimplementedby>
+        <param>
+          <type>java.lang.Object</type>
+          <declname>obj</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/100/android/src/crc643f46942d9dd1fff9/FormsEditTextBase.java" line="59" column="13" bodyfile="Application Green Quake.Android/obj/Debug/100/android/src/crc643f46942d9dd1fff9/FormsEditTextBase.java" bodystart="59" bodyend="64"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_forms_edit_text_base_1adbd08f0e3747ae7b4c51562c89e8c200" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void crc643f46942d9dd1fff9.FormsEditTextBase.monodroidClearReferences</definition>
+        <argsstring>()</argsstring>
+        <name>monodroidClearReferences</name>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_editor_edit_text_1a4afa61c489d2fc2ef2625b37163acb83">monodroidClearReferences</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_entry_edit_text_1a5dbd55674fd87e2a32325e6a13bc4fd9">monodroidClearReferences</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_forms_edit_text_1aab74cb9fe571474749de2153c91bb54b">monodroidClearReferences</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_picker_edit_text_1a2c35dcb49b2afae9b86ef2a840dc4b9e">monodroidClearReferences</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_editor_edit_text_1a4afa61c489d2fc2ef2625b37163acb83">monodroidClearReferences</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_entry_edit_text_1a5dbd55674fd87e2a32325e6a13bc4fd9">monodroidClearReferences</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_forms_edit_text_1aab74cb9fe571474749de2153c91bb54b">monodroidClearReferences</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_picker_edit_text_1a2c35dcb49b2afae9b86ef2a840dc4b9e">monodroidClearReferences</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_editor_edit_text_1a4afa61c489d2fc2ef2625b37163acb83">monodroidClearReferences</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_entry_edit_text_1a5dbd55674fd87e2a32325e6a13bc4fd9">monodroidClearReferences</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_forms_edit_text_1aab74cb9fe571474749de2153c91bb54b">monodroidClearReferences</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_picker_edit_text_1a2c35dcb49b2afae9b86ef2a840dc4b9e">monodroidClearReferences</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_editor_edit_text_1a4afa61c489d2fc2ef2625b37163acb83">monodroidClearReferences</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_entry_edit_text_1a5dbd55674fd87e2a32325e6a13bc4fd9">monodroidClearReferences</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_forms_edit_text_1aab74cb9fe571474749de2153c91bb54b">monodroidClearReferences</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_picker_edit_text_1a2c35dcb49b2afae9b86ef2a840dc4b9e">monodroidClearReferences</reimplementedby>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/100/android/src/crc643f46942d9dd1fff9/FormsEditTextBase.java" line="66" column="13" bodyfile="Application Green Quake.Android/obj/Debug/100/android/src/crc643f46942d9dd1fff9/FormsEditTextBase.java" bodystart="66" bodyend="70"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_forms_edit_text_base_1ab7ca534aa1098d8620317dafa9625ec6" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>crc643f46942d9dd1fff9.FormsEditTextBase.FormsEditTextBase</definition>
+        <argsstring>(android.content.Context p0)</argsstring>
+        <name>FormsEditTextBase</name>
+        <param>
+          <type>android.content.Context</type>
+          <declname>p0</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/110/android/src/crc643f46942d9dd1fff9/FormsEditTextBase.java" line="19" column="8" bodyfile="Application Green Quake.Android/obj/Debug/110/android/src/crc643f46942d9dd1fff9/FormsEditTextBase.java" bodystart="19" bodyend="24"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_forms_edit_text_base_1a5874d79b63a67e5d8c38cc45e47087ff" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>crc643f46942d9dd1fff9.FormsEditTextBase.FormsEditTextBase</definition>
+        <argsstring>(android.content.Context p0, android.util.AttributeSet p1)</argsstring>
+        <name>FormsEditTextBase</name>
+        <param>
+          <type>android.content.Context</type>
+          <declname>p0</declname>
+        </param>
+        <param>
+          <type>android.util.AttributeSet</type>
+          <declname>p1</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/110/android/src/crc643f46942d9dd1fff9/FormsEditTextBase.java" line="27" column="8" bodyfile="Application Green Quake.Android/obj/Debug/110/android/src/crc643f46942d9dd1fff9/FormsEditTextBase.java" bodystart="27" bodyend="32"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_forms_edit_text_base_1ab61dc0f3a5640d25b607bc1bde0ef06b" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>crc643f46942d9dd1fff9.FormsEditTextBase.FormsEditTextBase</definition>
+        <argsstring>(android.content.Context p0, android.util.AttributeSet p1, int p2)</argsstring>
+        <name>FormsEditTextBase</name>
+        <param>
+          <type>android.content.Context</type>
+          <declname>p0</declname>
+        </param>
+        <param>
+          <type>android.util.AttributeSet</type>
+          <declname>p1</declname>
+        </param>
+        <param>
+          <type>int</type>
+          <declname>p2</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/110/android/src/crc643f46942d9dd1fff9/FormsEditTextBase.java" line="35" column="8" bodyfile="Application Green Quake.Android/obj/Debug/110/android/src/crc643f46942d9dd1fff9/FormsEditTextBase.java" bodystart="35" bodyend="40"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_forms_edit_text_base_1ae4cad2cf2780772a1851f2946e35e54f" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>crc643f46942d9dd1fff9.FormsEditTextBase.FormsEditTextBase</definition>
+        <argsstring>(android.content.Context p0, android.util.AttributeSet p1, int p2, int p3)</argsstring>
+        <name>FormsEditTextBase</name>
+        <param>
+          <type>android.content.Context</type>
+          <declname>p0</declname>
+        </param>
+        <param>
+          <type>android.util.AttributeSet</type>
+          <declname>p1</declname>
+        </param>
+        <param>
+          <type>int</type>
+          <declname>p2</declname>
+        </param>
+        <param>
+          <type>int</type>
+          <declname>p3</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/110/android/src/crc643f46942d9dd1fff9/FormsEditTextBase.java" line="43" column="8" bodyfile="Application Green Quake.Android/obj/Debug/110/android/src/crc643f46942d9dd1fff9/FormsEditTextBase.java" bodystart="43" bodyend="48"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_forms_edit_text_base_1afd9835fa6d71209afdc8aba27bb45e98" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>boolean</type>
+        <definition>boolean crc643f46942d9dd1fff9.FormsEditTextBase.requestFocus</definition>
+        <argsstring>(int p0, android.graphics.Rect p1)</argsstring>
+        <name>requestFocus</name>
+        <param>
+          <type>int</type>
+          <declname>p0</declname>
+        </param>
+        <param>
+          <type>android.graphics.Rect</type>
+          <declname>p1</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/110/android/src/crc643f46942d9dd1fff9/FormsEditTextBase.java" line="51" column="16" bodyfile="Application Green Quake.Android/obj/Debug/110/android/src/crc643f46942d9dd1fff9/FormsEditTextBase.java" bodystart="51" bodyend="54"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_forms_edit_text_base_1a4db2975fa63dd99d5af921432d3e00ed" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void crc643f46942d9dd1fff9.FormsEditTextBase.monodroidAddReference</definition>
+        <argsstring>(java.lang.Object obj)</argsstring>
+        <name>monodroidAddReference</name>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_editor_edit_text_1ad4fbe0a643b45f788454e14288275d17">monodroidAddReference</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_entry_edit_text_1a5f8f88202086f46b832f4544963a426f">monodroidAddReference</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_forms_edit_text_1ad3c1eb3e791dffbac062e05e0894e994">monodroidAddReference</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_picker_edit_text_1af4d4de06fe116c3ed3e1ac63788bcdb7">monodroidAddReference</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_editor_edit_text_1ad4fbe0a643b45f788454e14288275d17">monodroidAddReference</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_entry_edit_text_1a5f8f88202086f46b832f4544963a426f">monodroidAddReference</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_forms_edit_text_1ad3c1eb3e791dffbac062e05e0894e994">monodroidAddReference</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_picker_edit_text_1af4d4de06fe116c3ed3e1ac63788bcdb7">monodroidAddReference</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_editor_edit_text_1ad4fbe0a643b45f788454e14288275d17">monodroidAddReference</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_entry_edit_text_1a5f8f88202086f46b832f4544963a426f">monodroidAddReference</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_forms_edit_text_1ad3c1eb3e791dffbac062e05e0894e994">monodroidAddReference</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_picker_edit_text_1af4d4de06fe116c3ed3e1ac63788bcdb7">monodroidAddReference</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_editor_edit_text_1ad4fbe0a643b45f788454e14288275d17">monodroidAddReference</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_entry_edit_text_1a5f8f88202086f46b832f4544963a426f">monodroidAddReference</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_forms_edit_text_1ad3c1eb3e791dffbac062e05e0894e994">monodroidAddReference</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_picker_edit_text_1af4d4de06fe116c3ed3e1ac63788bcdb7">monodroidAddReference</reimplementedby>
+        <param>
+          <type>java.lang.Object</type>
+          <declname>obj</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/110/android/src/crc643f46942d9dd1fff9/FormsEditTextBase.java" line="59" column="13" bodyfile="Application Green Quake.Android/obj/Debug/110/android/src/crc643f46942d9dd1fff9/FormsEditTextBase.java" bodystart="59" bodyend="64"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_forms_edit_text_base_1adbd08f0e3747ae7b4c51562c89e8c200" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void crc643f46942d9dd1fff9.FormsEditTextBase.monodroidClearReferences</definition>
+        <argsstring>()</argsstring>
+        <name>monodroidClearReferences</name>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_editor_edit_text_1a4afa61c489d2fc2ef2625b37163acb83">monodroidClearReferences</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_entry_edit_text_1a5dbd55674fd87e2a32325e6a13bc4fd9">monodroidClearReferences</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_forms_edit_text_1aab74cb9fe571474749de2153c91bb54b">monodroidClearReferences</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_picker_edit_text_1a2c35dcb49b2afae9b86ef2a840dc4b9e">monodroidClearReferences</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_editor_edit_text_1a4afa61c489d2fc2ef2625b37163acb83">monodroidClearReferences</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_entry_edit_text_1a5dbd55674fd87e2a32325e6a13bc4fd9">monodroidClearReferences</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_forms_edit_text_1aab74cb9fe571474749de2153c91bb54b">monodroidClearReferences</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_picker_edit_text_1a2c35dcb49b2afae9b86ef2a840dc4b9e">monodroidClearReferences</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_editor_edit_text_1a4afa61c489d2fc2ef2625b37163acb83">monodroidClearReferences</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_entry_edit_text_1a5dbd55674fd87e2a32325e6a13bc4fd9">monodroidClearReferences</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_forms_edit_text_1aab74cb9fe571474749de2153c91bb54b">monodroidClearReferences</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_picker_edit_text_1a2c35dcb49b2afae9b86ef2a840dc4b9e">monodroidClearReferences</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_editor_edit_text_1a4afa61c489d2fc2ef2625b37163acb83">monodroidClearReferences</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_entry_edit_text_1a5dbd55674fd87e2a32325e6a13bc4fd9">monodroidClearReferences</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_forms_edit_text_1aab74cb9fe571474749de2153c91bb54b">monodroidClearReferences</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_picker_edit_text_1a2c35dcb49b2afae9b86ef2a840dc4b9e">monodroidClearReferences</reimplementedby>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/110/android/src/crc643f46942d9dd1fff9/FormsEditTextBase.java" line="66" column="13" bodyfile="Application Green Quake.Android/obj/Debug/110/android/src/crc643f46942d9dd1fff9/FormsEditTextBase.java" bodystart="66" bodyend="70"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_forms_edit_text_base_1ab7ca534aa1098d8620317dafa9625ec6" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>crc643f46942d9dd1fff9.FormsEditTextBase.FormsEditTextBase</definition>
+        <argsstring>(android.content.Context p0)</argsstring>
+        <name>FormsEditTextBase</name>
+        <param>
+          <type>android.content.Context</type>
+          <declname>p0</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/100/android/src/crc643f46942d9dd1fff9/FormsEditTextBase.java" line="19" column="8" bodyfile="Application Green Quake.Android/obj/Release/100/android/src/crc643f46942d9dd1fff9/FormsEditTextBase.java" bodystart="19" bodyend="24"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_forms_edit_text_base_1a5874d79b63a67e5d8c38cc45e47087ff" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>crc643f46942d9dd1fff9.FormsEditTextBase.FormsEditTextBase</definition>
+        <argsstring>(android.content.Context p0, android.util.AttributeSet p1)</argsstring>
+        <name>FormsEditTextBase</name>
+        <param>
+          <type>android.content.Context</type>
+          <declname>p0</declname>
+        </param>
+        <param>
+          <type>android.util.AttributeSet</type>
+          <declname>p1</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/100/android/src/crc643f46942d9dd1fff9/FormsEditTextBase.java" line="27" column="8" bodyfile="Application Green Quake.Android/obj/Release/100/android/src/crc643f46942d9dd1fff9/FormsEditTextBase.java" bodystart="27" bodyend="32"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_forms_edit_text_base_1ab61dc0f3a5640d25b607bc1bde0ef06b" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>crc643f46942d9dd1fff9.FormsEditTextBase.FormsEditTextBase</definition>
+        <argsstring>(android.content.Context p0, android.util.AttributeSet p1, int p2)</argsstring>
+        <name>FormsEditTextBase</name>
+        <param>
+          <type>android.content.Context</type>
+          <declname>p0</declname>
+        </param>
+        <param>
+          <type>android.util.AttributeSet</type>
+          <declname>p1</declname>
+        </param>
+        <param>
+          <type>int</type>
+          <declname>p2</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/100/android/src/crc643f46942d9dd1fff9/FormsEditTextBase.java" line="35" column="8" bodyfile="Application Green Quake.Android/obj/Release/100/android/src/crc643f46942d9dd1fff9/FormsEditTextBase.java" bodystart="35" bodyend="40"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_forms_edit_text_base_1ae4cad2cf2780772a1851f2946e35e54f" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>crc643f46942d9dd1fff9.FormsEditTextBase.FormsEditTextBase</definition>
+        <argsstring>(android.content.Context p0, android.util.AttributeSet p1, int p2, int p3)</argsstring>
+        <name>FormsEditTextBase</name>
+        <param>
+          <type>android.content.Context</type>
+          <declname>p0</declname>
+        </param>
+        <param>
+          <type>android.util.AttributeSet</type>
+          <declname>p1</declname>
+        </param>
+        <param>
+          <type>int</type>
+          <declname>p2</declname>
+        </param>
+        <param>
+          <type>int</type>
+          <declname>p3</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/100/android/src/crc643f46942d9dd1fff9/FormsEditTextBase.java" line="43" column="8" bodyfile="Application Green Quake.Android/obj/Release/100/android/src/crc643f46942d9dd1fff9/FormsEditTextBase.java" bodystart="43" bodyend="48"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_forms_edit_text_base_1afd9835fa6d71209afdc8aba27bb45e98" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>boolean</type>
+        <definition>boolean crc643f46942d9dd1fff9.FormsEditTextBase.requestFocus</definition>
+        <argsstring>(int p0, android.graphics.Rect p1)</argsstring>
+        <name>requestFocus</name>
+        <param>
+          <type>int</type>
+          <declname>p0</declname>
+        </param>
+        <param>
+          <type>android.graphics.Rect</type>
+          <declname>p1</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/100/android/src/crc643f46942d9dd1fff9/FormsEditTextBase.java" line="51" column="16" bodyfile="Application Green Quake.Android/obj/Release/100/android/src/crc643f46942d9dd1fff9/FormsEditTextBase.java" bodystart="51" bodyend="54"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_forms_edit_text_base_1a4db2975fa63dd99d5af921432d3e00ed" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void crc643f46942d9dd1fff9.FormsEditTextBase.monodroidAddReference</definition>
+        <argsstring>(java.lang.Object obj)</argsstring>
+        <name>monodroidAddReference</name>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_editor_edit_text_1ad4fbe0a643b45f788454e14288275d17">monodroidAddReference</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_entry_edit_text_1a5f8f88202086f46b832f4544963a426f">monodroidAddReference</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_forms_edit_text_1ad3c1eb3e791dffbac062e05e0894e994">monodroidAddReference</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_picker_edit_text_1af4d4de06fe116c3ed3e1ac63788bcdb7">monodroidAddReference</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_editor_edit_text_1ad4fbe0a643b45f788454e14288275d17">monodroidAddReference</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_entry_edit_text_1a5f8f88202086f46b832f4544963a426f">monodroidAddReference</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_forms_edit_text_1ad3c1eb3e791dffbac062e05e0894e994">monodroidAddReference</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_picker_edit_text_1af4d4de06fe116c3ed3e1ac63788bcdb7">monodroidAddReference</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_editor_edit_text_1ad4fbe0a643b45f788454e14288275d17">monodroidAddReference</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_entry_edit_text_1a5f8f88202086f46b832f4544963a426f">monodroidAddReference</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_forms_edit_text_1ad3c1eb3e791dffbac062e05e0894e994">monodroidAddReference</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_picker_edit_text_1af4d4de06fe116c3ed3e1ac63788bcdb7">monodroidAddReference</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_editor_edit_text_1ad4fbe0a643b45f788454e14288275d17">monodroidAddReference</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_entry_edit_text_1a5f8f88202086f46b832f4544963a426f">monodroidAddReference</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_forms_edit_text_1ad3c1eb3e791dffbac062e05e0894e994">monodroidAddReference</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_picker_edit_text_1af4d4de06fe116c3ed3e1ac63788bcdb7">monodroidAddReference</reimplementedby>
+        <param>
+          <type>java.lang.Object</type>
+          <declname>obj</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/100/android/src/crc643f46942d9dd1fff9/FormsEditTextBase.java" line="59" column="13" bodyfile="Application Green Quake.Android/obj/Release/100/android/src/crc643f46942d9dd1fff9/FormsEditTextBase.java" bodystart="59" bodyend="64"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_forms_edit_text_base_1adbd08f0e3747ae7b4c51562c89e8c200" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void crc643f46942d9dd1fff9.FormsEditTextBase.monodroidClearReferences</definition>
+        <argsstring>()</argsstring>
+        <name>monodroidClearReferences</name>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_editor_edit_text_1a4afa61c489d2fc2ef2625b37163acb83">monodroidClearReferences</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_entry_edit_text_1a5dbd55674fd87e2a32325e6a13bc4fd9">monodroidClearReferences</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_forms_edit_text_1aab74cb9fe571474749de2153c91bb54b">monodroidClearReferences</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_picker_edit_text_1a2c35dcb49b2afae9b86ef2a840dc4b9e">monodroidClearReferences</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_editor_edit_text_1a4afa61c489d2fc2ef2625b37163acb83">monodroidClearReferences</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_entry_edit_text_1a5dbd55674fd87e2a32325e6a13bc4fd9">monodroidClearReferences</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_forms_edit_text_1aab74cb9fe571474749de2153c91bb54b">monodroidClearReferences</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_picker_edit_text_1a2c35dcb49b2afae9b86ef2a840dc4b9e">monodroidClearReferences</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_editor_edit_text_1a4afa61c489d2fc2ef2625b37163acb83">monodroidClearReferences</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_entry_edit_text_1a5dbd55674fd87e2a32325e6a13bc4fd9">monodroidClearReferences</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_forms_edit_text_1aab74cb9fe571474749de2153c91bb54b">monodroidClearReferences</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_picker_edit_text_1a2c35dcb49b2afae9b86ef2a840dc4b9e">monodroidClearReferences</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_editor_edit_text_1a4afa61c489d2fc2ef2625b37163acb83">monodroidClearReferences</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_entry_edit_text_1a5dbd55674fd87e2a32325e6a13bc4fd9">monodroidClearReferences</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_forms_edit_text_1aab74cb9fe571474749de2153c91bb54b">monodroidClearReferences</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_picker_edit_text_1a2c35dcb49b2afae9b86ef2a840dc4b9e">monodroidClearReferences</reimplementedby>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/100/android/src/crc643f46942d9dd1fff9/FormsEditTextBase.java" line="66" column="13" bodyfile="Application Green Quake.Android/obj/Release/100/android/src/crc643f46942d9dd1fff9/FormsEditTextBase.java" bodystart="66" bodyend="70"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_forms_edit_text_base_1ab7ca534aa1098d8620317dafa9625ec6" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>crc643f46942d9dd1fff9.FormsEditTextBase.FormsEditTextBase</definition>
+        <argsstring>(android.content.Context p0)</argsstring>
+        <name>FormsEditTextBase</name>
+        <param>
+          <type>android.content.Context</type>
+          <declname>p0</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/110/android/src/crc643f46942d9dd1fff9/FormsEditTextBase.java" line="19" column="8" bodyfile="Application Green Quake.Android/obj/Release/110/android/src/crc643f46942d9dd1fff9/FormsEditTextBase.java" bodystart="19" bodyend="24"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_forms_edit_text_base_1a5874d79b63a67e5d8c38cc45e47087ff" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>crc643f46942d9dd1fff9.FormsEditTextBase.FormsEditTextBase</definition>
+        <argsstring>(android.content.Context p0, android.util.AttributeSet p1)</argsstring>
+        <name>FormsEditTextBase</name>
+        <param>
+          <type>android.content.Context</type>
+          <declname>p0</declname>
+        </param>
+        <param>
+          <type>android.util.AttributeSet</type>
+          <declname>p1</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/110/android/src/crc643f46942d9dd1fff9/FormsEditTextBase.java" line="27" column="8" bodyfile="Application Green Quake.Android/obj/Release/110/android/src/crc643f46942d9dd1fff9/FormsEditTextBase.java" bodystart="27" bodyend="32"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_forms_edit_text_base_1ab61dc0f3a5640d25b607bc1bde0ef06b" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>crc643f46942d9dd1fff9.FormsEditTextBase.FormsEditTextBase</definition>
+        <argsstring>(android.content.Context p0, android.util.AttributeSet p1, int p2)</argsstring>
+        <name>FormsEditTextBase</name>
+        <param>
+          <type>android.content.Context</type>
+          <declname>p0</declname>
+        </param>
+        <param>
+          <type>android.util.AttributeSet</type>
+          <declname>p1</declname>
+        </param>
+        <param>
+          <type>int</type>
+          <declname>p2</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/110/android/src/crc643f46942d9dd1fff9/FormsEditTextBase.java" line="35" column="8" bodyfile="Application Green Quake.Android/obj/Release/110/android/src/crc643f46942d9dd1fff9/FormsEditTextBase.java" bodystart="35" bodyend="40"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_forms_edit_text_base_1ae4cad2cf2780772a1851f2946e35e54f" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>crc643f46942d9dd1fff9.FormsEditTextBase.FormsEditTextBase</definition>
+        <argsstring>(android.content.Context p0, android.util.AttributeSet p1, int p2, int p3)</argsstring>
+        <name>FormsEditTextBase</name>
+        <param>
+          <type>android.content.Context</type>
+          <declname>p0</declname>
+        </param>
+        <param>
+          <type>android.util.AttributeSet</type>
+          <declname>p1</declname>
+        </param>
+        <param>
+          <type>int</type>
+          <declname>p2</declname>
+        </param>
+        <param>
+          <type>int</type>
+          <declname>p3</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/110/android/src/crc643f46942d9dd1fff9/FormsEditTextBase.java" line="43" column="8" bodyfile="Application Green Quake.Android/obj/Release/110/android/src/crc643f46942d9dd1fff9/FormsEditTextBase.java" bodystart="43" bodyend="48"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_forms_edit_text_base_1afd9835fa6d71209afdc8aba27bb45e98" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>boolean</type>
+        <definition>boolean crc643f46942d9dd1fff9.FormsEditTextBase.requestFocus</definition>
+        <argsstring>(int p0, android.graphics.Rect p1)</argsstring>
+        <name>requestFocus</name>
+        <param>
+          <type>int</type>
+          <declname>p0</declname>
+        </param>
+        <param>
+          <type>android.graphics.Rect</type>
+          <declname>p1</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/110/android/src/crc643f46942d9dd1fff9/FormsEditTextBase.java" line="51" column="16" bodyfile="Application Green Quake.Android/obj/Release/110/android/src/crc643f46942d9dd1fff9/FormsEditTextBase.java" bodystart="51" bodyend="54"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_forms_edit_text_base_1a4db2975fa63dd99d5af921432d3e00ed" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void crc643f46942d9dd1fff9.FormsEditTextBase.monodroidAddReference</definition>
+        <argsstring>(java.lang.Object obj)</argsstring>
+        <name>monodroidAddReference</name>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_editor_edit_text_1ad4fbe0a643b45f788454e14288275d17">monodroidAddReference</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_entry_edit_text_1a5f8f88202086f46b832f4544963a426f">monodroidAddReference</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_forms_edit_text_1ad3c1eb3e791dffbac062e05e0894e994">monodroidAddReference</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_picker_edit_text_1af4d4de06fe116c3ed3e1ac63788bcdb7">monodroidAddReference</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_editor_edit_text_1ad4fbe0a643b45f788454e14288275d17">monodroidAddReference</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_entry_edit_text_1a5f8f88202086f46b832f4544963a426f">monodroidAddReference</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_forms_edit_text_1ad3c1eb3e791dffbac062e05e0894e994">monodroidAddReference</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_picker_edit_text_1af4d4de06fe116c3ed3e1ac63788bcdb7">monodroidAddReference</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_editor_edit_text_1ad4fbe0a643b45f788454e14288275d17">monodroidAddReference</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_entry_edit_text_1a5f8f88202086f46b832f4544963a426f">monodroidAddReference</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_forms_edit_text_1ad3c1eb3e791dffbac062e05e0894e994">monodroidAddReference</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_picker_edit_text_1af4d4de06fe116c3ed3e1ac63788bcdb7">monodroidAddReference</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_editor_edit_text_1ad4fbe0a643b45f788454e14288275d17">monodroidAddReference</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_entry_edit_text_1a5f8f88202086f46b832f4544963a426f">monodroidAddReference</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_forms_edit_text_1ad3c1eb3e791dffbac062e05e0894e994">monodroidAddReference</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_picker_edit_text_1af4d4de06fe116c3ed3e1ac63788bcdb7">monodroidAddReference</reimplementedby>
+        <param>
+          <type>java.lang.Object</type>
+          <declname>obj</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/110/android/src/crc643f46942d9dd1fff9/FormsEditTextBase.java" line="59" column="13" bodyfile="Application Green Quake.Android/obj/Release/110/android/src/crc643f46942d9dd1fff9/FormsEditTextBase.java" bodystart="59" bodyend="64"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_forms_edit_text_base_1adbd08f0e3747ae7b4c51562c89e8c200" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void crc643f46942d9dd1fff9.FormsEditTextBase.monodroidClearReferences</definition>
+        <argsstring>()</argsstring>
+        <name>monodroidClearReferences</name>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_editor_edit_text_1a4afa61c489d2fc2ef2625b37163acb83">monodroidClearReferences</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_entry_edit_text_1a5dbd55674fd87e2a32325e6a13bc4fd9">monodroidClearReferences</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_forms_edit_text_1aab74cb9fe571474749de2153c91bb54b">monodroidClearReferences</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_picker_edit_text_1a2c35dcb49b2afae9b86ef2a840dc4b9e">monodroidClearReferences</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_editor_edit_text_1a4afa61c489d2fc2ef2625b37163acb83">monodroidClearReferences</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_entry_edit_text_1a5dbd55674fd87e2a32325e6a13bc4fd9">monodroidClearReferences</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_forms_edit_text_1aab74cb9fe571474749de2153c91bb54b">monodroidClearReferences</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_picker_edit_text_1a2c35dcb49b2afae9b86ef2a840dc4b9e">monodroidClearReferences</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_editor_edit_text_1a4afa61c489d2fc2ef2625b37163acb83">monodroidClearReferences</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_entry_edit_text_1a5dbd55674fd87e2a32325e6a13bc4fd9">monodroidClearReferences</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_forms_edit_text_1aab74cb9fe571474749de2153c91bb54b">monodroidClearReferences</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_picker_edit_text_1a2c35dcb49b2afae9b86ef2a840dc4b9e">monodroidClearReferences</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_editor_edit_text_1a4afa61c489d2fc2ef2625b37163acb83">monodroidClearReferences</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_entry_edit_text_1a5dbd55674fd87e2a32325e6a13bc4fd9">monodroidClearReferences</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_forms_edit_text_1aab74cb9fe571474749de2153c91bb54b">monodroidClearReferences</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_picker_edit_text_1a2c35dcb49b2afae9b86ef2a840dc4b9e">monodroidClearReferences</reimplementedby>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/110/android/src/crc643f46942d9dd1fff9/FormsEditTextBase.java" line="66" column="13" bodyfile="Application Green Quake.Android/obj/Release/110/android/src/crc643f46942d9dd1fff9/FormsEditTextBase.java" bodystart="66" bodyend="70"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="private-func">
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_forms_edit_text_base_1a10c366c6af50416d8bac585ecf94f0ae" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>native boolean</type>
+        <definition>native boolean crc643f46942d9dd1fff9.FormsEditTextBase.n_requestFocus</definition>
+        <argsstring>(int p0, android.graphics.Rect p1)</argsstring>
+        <name>n_requestFocus</name>
+        <param>
+          <type>int</type>
+          <declname>p0</declname>
+        </param>
+        <param>
+          <type>android.graphics.Rect</type>
+          <declname>p1</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/100/android/src/crc643f46942d9dd1fff9/FormsEditTextBase.java" line="56" column="24"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_forms_edit_text_base_1a10c366c6af50416d8bac585ecf94f0ae" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>native boolean</type>
+        <definition>native boolean crc643f46942d9dd1fff9.FormsEditTextBase.n_requestFocus</definition>
+        <argsstring>(int p0, android.graphics.Rect p1)</argsstring>
+        <name>n_requestFocus</name>
+        <param>
+          <type>int</type>
+          <declname>p0</declname>
+        </param>
+        <param>
+          <type>android.graphics.Rect</type>
+          <declname>p1</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/110/android/src/crc643f46942d9dd1fff9/FormsEditTextBase.java" line="56" column="24"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_forms_edit_text_base_1a10c366c6af50416d8bac585ecf94f0ae" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>native boolean</type>
+        <definition>native boolean crc643f46942d9dd1fff9.FormsEditTextBase.n_requestFocus</definition>
+        <argsstring>(int p0, android.graphics.Rect p1)</argsstring>
+        <name>n_requestFocus</name>
+        <param>
+          <type>int</type>
+          <declname>p0</declname>
+        </param>
+        <param>
+          <type>android.graphics.Rect</type>
+          <declname>p1</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/100/android/src/crc643f46942d9dd1fff9/FormsEditTextBase.java" line="56" column="24"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_forms_edit_text_base_1a10c366c6af50416d8bac585ecf94f0ae" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>native boolean</type>
+        <definition>native boolean crc643f46942d9dd1fff9.FormsEditTextBase.n_requestFocus</definition>
+        <argsstring>(int p0, android.graphics.Rect p1)</argsstring>
+        <name>n_requestFocus</name>
+        <param>
+          <type>int</type>
+          <declname>p0</declname>
+        </param>
+        <param>
+          <type>android.graphics.Rect</type>
+          <declname>p1</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/110/android/src/crc643f46942d9dd1fff9/FormsEditTextBase.java" line="56" column="24"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <inheritancegraph>
+      <node id="5">
+        <label>crc643f46942d9dd1fff9.EditorEditText</label>
+        <link refid="classcrc643f46942d9dd1fff9_1_1_editor_edit_text"/>
+        <childnode refid="4" relation="public-inheritance">
+        </childnode>
+        <childnode refid="4" relation="public-inheritance">
+        </childnode>
+        <childnode refid="4" relation="public-inheritance">
+        </childnode>
+        <childnode refid="4" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="7">
+        <label>crc643f46942d9dd1fff9.PickerEditText</label>
+        <link refid="classcrc643f46942d9dd1fff9_1_1_picker_edit_text"/>
+        <childnode refid="1" relation="public-inheritance">
+        </childnode>
+        <childnode refid="1" relation="public-inheritance">
+        </childnode>
+        <childnode refid="1" relation="public-inheritance">
+        </childnode>
+        <childnode refid="1" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="6">
+        <label>crc643f46942d9dd1fff9.EntryEditText</label>
+        <link refid="classcrc643f46942d9dd1fff9_1_1_entry_edit_text"/>
+        <childnode refid="4" relation="public-inheritance">
+        </childnode>
+        <childnode refid="4" relation="public-inheritance">
+        </childnode>
+        <childnode refid="4" relation="public-inheritance">
+        </childnode>
+        <childnode refid="4" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="3">
+        <label>mono.android.IGCUserPeer</label>
+      </node>
+      <node id="1">
+        <label>crc643f46942d9dd1fff9.FormsEditTextBase</label>
+        <link refid="classcrc643f46942d9dd1fff9_1_1_forms_edit_text_base"/>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+        <childnode refid="3" relation="public-inheritance">
+        </childnode>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+        <childnode refid="3" relation="public-inheritance">
+        </childnode>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+        <childnode refid="3" relation="public-inheritance">
+        </childnode>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+        <childnode refid="3" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="4">
+        <label>crc643f46942d9dd1fff9.FormsEditText</label>
+        <link refid="classcrc643f46942d9dd1fff9_1_1_forms_edit_text"/>
+        <childnode refid="1" relation="public-inheritance">
+        </childnode>
+        <childnode refid="1" relation="public-inheritance">
+        </childnode>
+        <childnode refid="1" relation="public-inheritance">
+        </childnode>
+        <childnode refid="1" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="2">
+        <label>android.widget.EditText</label>
+      </node>
+    </inheritancegraph>
+    <collaborationgraph>
+      <node id="3">
+        <label>mono.android.IGCUserPeer</label>
+      </node>
+      <node id="1">
+        <label>crc643f46942d9dd1fff9.FormsEditTextBase</label>
+        <link refid="classcrc643f46942d9dd1fff9_1_1_forms_edit_text_base"/>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+        <childnode refid="3" relation="public-inheritance">
+        </childnode>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+        <childnode refid="3" relation="public-inheritance">
+        </childnode>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+        <childnode refid="3" relation="public-inheritance">
+        </childnode>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+        <childnode refid="3" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="2">
+        <label>android.widget.EditText</label>
+      </node>
+    </collaborationgraph>
+    <location file="Application Green Quake.Android/obj/Debug/100/android/src/crc643f46942d9dd1fff9/FormsEditTextBase.java" line="4" column="7" bodyfile="Application Green Quake.Android/obj/Debug/100/android/src/crc643f46942d9dd1fff9/FormsEditTextBase.java" bodystart="8" bodyend="71"/>
+    <listofallmembers>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_forms_edit_text_base_1a80582e37b07fc699165b98b4b08611df" prot="package" virt="non-virtual"><scope>crc643f46942d9dd1fff9::FormsEditTextBase</scope><name>[static initializer]</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_forms_edit_text_base_1a80582e37b07fc699165b98b4b08611df" prot="package" virt="non-virtual"><scope>crc643f46942d9dd1fff9::FormsEditTextBase</scope><name>[static initializer]</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_forms_edit_text_base_1a80582e37b07fc699165b98b4b08611df" prot="package" virt="non-virtual"><scope>crc643f46942d9dd1fff9::FormsEditTextBase</scope><name>[static initializer]</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_forms_edit_text_base_1a80582e37b07fc699165b98b4b08611df" prot="package" virt="non-virtual"><scope>crc643f46942d9dd1fff9::FormsEditTextBase</scope><name>[static initializer]</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_forms_edit_text_base_1a3b89908644e9f14a7a6c02fdfc247559" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::FormsEditTextBase</scope><name>__md_methods</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_forms_edit_text_base_1ab7ca534aa1098d8620317dafa9625ec6" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::FormsEditTextBase</scope><name>FormsEditTextBase</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_forms_edit_text_base_1a5874d79b63a67e5d8c38cc45e47087ff" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::FormsEditTextBase</scope><name>FormsEditTextBase</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_forms_edit_text_base_1ab61dc0f3a5640d25b607bc1bde0ef06b" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::FormsEditTextBase</scope><name>FormsEditTextBase</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_forms_edit_text_base_1ae4cad2cf2780772a1851f2946e35e54f" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::FormsEditTextBase</scope><name>FormsEditTextBase</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_forms_edit_text_base_1ab7ca534aa1098d8620317dafa9625ec6" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::FormsEditTextBase</scope><name>FormsEditTextBase</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_forms_edit_text_base_1a5874d79b63a67e5d8c38cc45e47087ff" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::FormsEditTextBase</scope><name>FormsEditTextBase</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_forms_edit_text_base_1ab61dc0f3a5640d25b607bc1bde0ef06b" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::FormsEditTextBase</scope><name>FormsEditTextBase</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_forms_edit_text_base_1ae4cad2cf2780772a1851f2946e35e54f" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::FormsEditTextBase</scope><name>FormsEditTextBase</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_forms_edit_text_base_1ab7ca534aa1098d8620317dafa9625ec6" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::FormsEditTextBase</scope><name>FormsEditTextBase</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_forms_edit_text_base_1a5874d79b63a67e5d8c38cc45e47087ff" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::FormsEditTextBase</scope><name>FormsEditTextBase</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_forms_edit_text_base_1ab61dc0f3a5640d25b607bc1bde0ef06b" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::FormsEditTextBase</scope><name>FormsEditTextBase</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_forms_edit_text_base_1ae4cad2cf2780772a1851f2946e35e54f" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::FormsEditTextBase</scope><name>FormsEditTextBase</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_forms_edit_text_base_1ab7ca534aa1098d8620317dafa9625ec6" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::FormsEditTextBase</scope><name>FormsEditTextBase</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_forms_edit_text_base_1a5874d79b63a67e5d8c38cc45e47087ff" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::FormsEditTextBase</scope><name>FormsEditTextBase</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_forms_edit_text_base_1ab61dc0f3a5640d25b607bc1bde0ef06b" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::FormsEditTextBase</scope><name>FormsEditTextBase</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_forms_edit_text_base_1ae4cad2cf2780772a1851f2946e35e54f" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::FormsEditTextBase</scope><name>FormsEditTextBase</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_forms_edit_text_base_1a4db2975fa63dd99d5af921432d3e00ed" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::FormsEditTextBase</scope><name>monodroidAddReference</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_forms_edit_text_base_1a4db2975fa63dd99d5af921432d3e00ed" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::FormsEditTextBase</scope><name>monodroidAddReference</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_forms_edit_text_base_1a4db2975fa63dd99d5af921432d3e00ed" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::FormsEditTextBase</scope><name>monodroidAddReference</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_forms_edit_text_base_1a4db2975fa63dd99d5af921432d3e00ed" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::FormsEditTextBase</scope><name>monodroidAddReference</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_forms_edit_text_base_1adbd08f0e3747ae7b4c51562c89e8c200" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::FormsEditTextBase</scope><name>monodroidClearReferences</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_forms_edit_text_base_1adbd08f0e3747ae7b4c51562c89e8c200" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::FormsEditTextBase</scope><name>monodroidClearReferences</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_forms_edit_text_base_1adbd08f0e3747ae7b4c51562c89e8c200" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::FormsEditTextBase</scope><name>monodroidClearReferences</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_forms_edit_text_base_1adbd08f0e3747ae7b4c51562c89e8c200" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::FormsEditTextBase</scope><name>monodroidClearReferences</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_forms_edit_text_base_1a10c366c6af50416d8bac585ecf94f0ae" prot="private" virt="non-virtual"><scope>crc643f46942d9dd1fff9::FormsEditTextBase</scope><name>n_requestFocus</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_forms_edit_text_base_1a10c366c6af50416d8bac585ecf94f0ae" prot="private" virt="non-virtual"><scope>crc643f46942d9dd1fff9::FormsEditTextBase</scope><name>n_requestFocus</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_forms_edit_text_base_1a10c366c6af50416d8bac585ecf94f0ae" prot="private" virt="non-virtual"><scope>crc643f46942d9dd1fff9::FormsEditTextBase</scope><name>n_requestFocus</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_forms_edit_text_base_1a10c366c6af50416d8bac585ecf94f0ae" prot="private" virt="non-virtual"><scope>crc643f46942d9dd1fff9::FormsEditTextBase</scope><name>n_requestFocus</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_forms_edit_text_base_1abfb9d745fcc5602a76d307e3149ba340" prot="private" virt="non-virtual"><scope>crc643f46942d9dd1fff9::FormsEditTextBase</scope><name>refList</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_forms_edit_text_base_1afd9835fa6d71209afdc8aba27bb45e98" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::FormsEditTextBase</scope><name>requestFocus</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_forms_edit_text_base_1afd9835fa6d71209afdc8aba27bb45e98" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::FormsEditTextBase</scope><name>requestFocus</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_forms_edit_text_base_1afd9835fa6d71209afdc8aba27bb45e98" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::FormsEditTextBase</scope><name>requestFocus</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_forms_edit_text_base_1afd9835fa6d71209afdc8aba27bb45e98" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::FormsEditTextBase</scope><name>requestFocus</name></member>
+    </listofallmembers>
+  </compounddef>
+</doxygen>

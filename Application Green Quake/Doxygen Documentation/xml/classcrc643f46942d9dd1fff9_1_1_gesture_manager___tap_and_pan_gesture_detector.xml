@@ -1,0 +1,922 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.9.1" xml:lang="en-US">
+  <compounddef id="classcrc643f46942d9dd1fff9_1_1_gesture_manager___tap_and_pan_gesture_detector" kind="class" language="Java" prot="public">
+    <compoundname>crc643f46942d9dd1fff9::GestureManager_TapAndPanGestureDetector</compoundname>
+    <basecompoundref prot="public" virt="non-virtual">android.view.GestureDetector</basecompoundref>
+    <basecompoundref prot="public" virt="non-virtual">mono.android.IGCUserPeer</basecompoundref>
+    <basecompoundref prot="public" virt="non-virtual">android.view.GestureDetector</basecompoundref>
+    <basecompoundref prot="public" virt="non-virtual">mono.android.IGCUserPeer</basecompoundref>
+    <basecompoundref prot="public" virt="non-virtual">android.view.GestureDetector</basecompoundref>
+    <basecompoundref prot="public" virt="non-virtual">mono.android.IGCUserPeer</basecompoundref>
+    <basecompoundref prot="public" virt="non-virtual">android.view.GestureDetector</basecompoundref>
+    <basecompoundref prot="public" virt="non-virtual">mono.android.IGCUserPeer</basecompoundref>
+      <sectiondef kind="public-static-attrib">
+      <memberdef kind="variable" id="classcrc643f46942d9dd1fff9_1_1_gesture_manager___tap_and_pan_gesture_detector_1a6b2b53ac92cbc6e5aa65d5a5ec5e854f" prot="public" static="yes" mutable="no">
+        <type>final String</type>
+        <definition>static final String crc643f46942d9dd1fff9.GestureManager_TapAndPanGestureDetector::__md_methods</definition>
+        <argsstring></argsstring>
+        <name>__md_methods</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+<para>@hide </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/100/android/src/crc643f46942d9dd1fff9/GestureManager_TapAndPanGestureDetector.java" line="10" column="28" bodyfile="Application Green Quake.Android/obj/Debug/100/android/src/crc643f46942d9dd1fff9/GestureManager_TapAndPanGestureDetector.java" bodystart="10" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="private-attrib">
+      <memberdef kind="variable" id="classcrc643f46942d9dd1fff9_1_1_gesture_manager___tap_and_pan_gesture_detector_1a3d7687b6fc57182e4c0c105c3646ba13" prot="private" static="no" mutable="no">
+        <type>java.util.ArrayList</type>
+        <definition>java util ArrayList crc643f46942d9dd1fff9.GestureManager_TapAndPanGestureDetector::refList</definition>
+        <argsstring></argsstring>
+        <name>refList</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/100/android/src/crc643f46942d9dd1fff9/GestureManager_TapAndPanGestureDetector.java" line="66" column="27" bodyfile="Application Green Quake.Android/obj/Debug/100/android/src/crc643f46942d9dd1fff9/GestureManager_TapAndPanGestureDetector.java" bodystart="66" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="package-static-func">
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_gesture_manager___tap_and_pan_gesture_detector_1ad5019b3ee16b45d575db27d3c240923b" prot="package" static="yes" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>crc643f46942d9dd1fff9.GestureManager_TapAndPanGestureDetector.[static initializer]</definition>
+        <argsstring></argsstring>
+        <name>[static initializer]</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/100/android/src/crc643f46942d9dd1fff9/GestureManager_TapAndPanGestureDetector.java" line="10" column="28"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_gesture_manager___tap_and_pan_gesture_detector_1ad5019b3ee16b45d575db27d3c240923b" prot="package" static="yes" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>crc643f46942d9dd1fff9.GestureManager_TapAndPanGestureDetector.[static initializer]</definition>
+        <argsstring></argsstring>
+        <name>[static initializer]</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/110/android/src/crc643f46942d9dd1fff9/GestureManager_TapAndPanGestureDetector.java" line="10" column="28"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_gesture_manager___tap_and_pan_gesture_detector_1ad5019b3ee16b45d575db27d3c240923b" prot="package" static="yes" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>crc643f46942d9dd1fff9.GestureManager_TapAndPanGestureDetector.[static initializer]</definition>
+        <argsstring></argsstring>
+        <name>[static initializer]</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/100/android/src/crc643f46942d9dd1fff9/GestureManager_TapAndPanGestureDetector.java" line="10" column="28"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_gesture_manager___tap_and_pan_gesture_detector_1ad5019b3ee16b45d575db27d3c240923b" prot="package" static="yes" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>crc643f46942d9dd1fff9.GestureManager_TapAndPanGestureDetector.[static initializer]</definition>
+        <argsstring></argsstring>
+        <name>[static initializer]</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/110/android/src/crc643f46942d9dd1fff9/GestureManager_TapAndPanGestureDetector.java" line="10" column="28"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="public-func">
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_gesture_manager___tap_and_pan_gesture_detector_1a8def26d8ef0c3e199f4a3e7b97aee351" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>crc643f46942d9dd1fff9.GestureManager_TapAndPanGestureDetector.GestureManager_TapAndPanGestureDetector</definition>
+        <argsstring>(android.content.Context p0, android.view.GestureDetector.OnGestureListener p1)</argsstring>
+        <name>GestureManager_TapAndPanGestureDetector</name>
+        <param>
+          <type>android.content.Context</type>
+          <declname>p0</declname>
+        </param>
+        <param>
+          <type>android.view.GestureDetector.OnGestureListener</type>
+          <declname>p1</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/100/android/src/crc643f46942d9dd1fff9/GestureManager_TapAndPanGestureDetector.java" line="19" column="8" bodyfile="Application Green Quake.Android/obj/Debug/100/android/src/crc643f46942d9dd1fff9/GestureManager_TapAndPanGestureDetector.java" bodystart="19" bodyend="24"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_gesture_manager___tap_and_pan_gesture_detector_1a2cd6fde3245a9fc959c34355741d18cf" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>crc643f46942d9dd1fff9.GestureManager_TapAndPanGestureDetector.GestureManager_TapAndPanGestureDetector</definition>
+        <argsstring>(android.content.Context p0, android.view.GestureDetector.OnGestureListener p1, android.os.Handler p2)</argsstring>
+        <name>GestureManager_TapAndPanGestureDetector</name>
+        <param>
+          <type>android.content.Context</type>
+          <declname>p0</declname>
+        </param>
+        <param>
+          <type>android.view.GestureDetector.OnGestureListener</type>
+          <declname>p1</declname>
+        </param>
+        <param>
+          <type>android.os.Handler</type>
+          <declname>p2</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/100/android/src/crc643f46942d9dd1fff9/GestureManager_TapAndPanGestureDetector.java" line="27" column="8" bodyfile="Application Green Quake.Android/obj/Debug/100/android/src/crc643f46942d9dd1fff9/GestureManager_TapAndPanGestureDetector.java" bodystart="27" bodyend="32"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_gesture_manager___tap_and_pan_gesture_detector_1ace42672f3be240b342453356eb4e536c" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>crc643f46942d9dd1fff9.GestureManager_TapAndPanGestureDetector.GestureManager_TapAndPanGestureDetector</definition>
+        <argsstring>(android.content.Context p0, android.view.GestureDetector.OnGestureListener p1, android.os.Handler p2, boolean p3)</argsstring>
+        <name>GestureManager_TapAndPanGestureDetector</name>
+        <param>
+          <type>android.content.Context</type>
+          <declname>p0</declname>
+        </param>
+        <param>
+          <type>android.view.GestureDetector.OnGestureListener</type>
+          <declname>p1</declname>
+        </param>
+        <param>
+          <type>android.os.Handler</type>
+          <declname>p2</declname>
+        </param>
+        <param>
+          <type>boolean</type>
+          <declname>p3</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/100/android/src/crc643f46942d9dd1fff9/GestureManager_TapAndPanGestureDetector.java" line="35" column="8" bodyfile="Application Green Quake.Android/obj/Debug/100/android/src/crc643f46942d9dd1fff9/GestureManager_TapAndPanGestureDetector.java" bodystart="35" bodyend="40"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_gesture_manager___tap_and_pan_gesture_detector_1ad1fe5871d30be3fb96f014ef398c6f7c" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>crc643f46942d9dd1fff9.GestureManager_TapAndPanGestureDetector.GestureManager_TapAndPanGestureDetector</definition>
+        <argsstring>(android.view.GestureDetector.OnGestureListener p0)</argsstring>
+        <name>GestureManager_TapAndPanGestureDetector</name>
+        <param>
+          <type>android.view.GestureDetector.OnGestureListener</type>
+          <declname>p0</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/100/android/src/crc643f46942d9dd1fff9/GestureManager_TapAndPanGestureDetector.java" line="43" column="8" bodyfile="Application Green Quake.Android/obj/Debug/100/android/src/crc643f46942d9dd1fff9/GestureManager_TapAndPanGestureDetector.java" bodystart="43" bodyend="48"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_gesture_manager___tap_and_pan_gesture_detector_1a7c22521b85a52054ab5b33c19ef5d27e" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>crc643f46942d9dd1fff9.GestureManager_TapAndPanGestureDetector.GestureManager_TapAndPanGestureDetector</definition>
+        <argsstring>(android.view.GestureDetector.OnGestureListener p0, android.os.Handler p1)</argsstring>
+        <name>GestureManager_TapAndPanGestureDetector</name>
+        <param>
+          <type>android.view.GestureDetector.OnGestureListener</type>
+          <declname>p0</declname>
+        </param>
+        <param>
+          <type>android.os.Handler</type>
+          <declname>p1</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/100/android/src/crc643f46942d9dd1fff9/GestureManager_TapAndPanGestureDetector.java" line="51" column="8" bodyfile="Application Green Quake.Android/obj/Debug/100/android/src/crc643f46942d9dd1fff9/GestureManager_TapAndPanGestureDetector.java" bodystart="51" bodyend="56"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_gesture_manager___tap_and_pan_gesture_detector_1a1e5c3b28395f75f0efb713e2abad62bb" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>boolean</type>
+        <definition>boolean crc643f46942d9dd1fff9.GestureManager_TapAndPanGestureDetector.onTouchEvent</definition>
+        <argsstring>(android.view.MotionEvent p0)</argsstring>
+        <name>onTouchEvent</name>
+        <param>
+          <type>android.view.MotionEvent</type>
+          <declname>p0</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/100/android/src/crc643f46942d9dd1fff9/GestureManager_TapAndPanGestureDetector.java" line="59" column="16" bodyfile="Application Green Quake.Android/obj/Debug/100/android/src/crc643f46942d9dd1fff9/GestureManager_TapAndPanGestureDetector.java" bodystart="59" bodyend="62"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_gesture_manager___tap_and_pan_gesture_detector_1ada831686062b51ddc2bf65a4fda4ca37" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void crc643f46942d9dd1fff9.GestureManager_TapAndPanGestureDetector.monodroidAddReference</definition>
+        <argsstring>(java.lang.Object obj)</argsstring>
+        <name>monodroidAddReference</name>
+        <param>
+          <type>java.lang.Object</type>
+          <declname>obj</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/100/android/src/crc643f46942d9dd1fff9/GestureManager_TapAndPanGestureDetector.java" line="67" column="13" bodyfile="Application Green Quake.Android/obj/Debug/100/android/src/crc643f46942d9dd1fff9/GestureManager_TapAndPanGestureDetector.java" bodystart="67" bodyend="72"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_gesture_manager___tap_and_pan_gesture_detector_1adce9c7eee81206c0d35c0a4a92fbb346" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void crc643f46942d9dd1fff9.GestureManager_TapAndPanGestureDetector.monodroidClearReferences</definition>
+        <argsstring>()</argsstring>
+        <name>monodroidClearReferences</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/100/android/src/crc643f46942d9dd1fff9/GestureManager_TapAndPanGestureDetector.java" line="74" column="13" bodyfile="Application Green Quake.Android/obj/Debug/100/android/src/crc643f46942d9dd1fff9/GestureManager_TapAndPanGestureDetector.java" bodystart="74" bodyend="78"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_gesture_manager___tap_and_pan_gesture_detector_1a8def26d8ef0c3e199f4a3e7b97aee351" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>crc643f46942d9dd1fff9.GestureManager_TapAndPanGestureDetector.GestureManager_TapAndPanGestureDetector</definition>
+        <argsstring>(android.content.Context p0, android.view.GestureDetector.OnGestureListener p1)</argsstring>
+        <name>GestureManager_TapAndPanGestureDetector</name>
+        <param>
+          <type>android.content.Context</type>
+          <declname>p0</declname>
+        </param>
+        <param>
+          <type>android.view.GestureDetector.OnGestureListener</type>
+          <declname>p1</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/110/android/src/crc643f46942d9dd1fff9/GestureManager_TapAndPanGestureDetector.java" line="19" column="8" bodyfile="Application Green Quake.Android/obj/Debug/110/android/src/crc643f46942d9dd1fff9/GestureManager_TapAndPanGestureDetector.java" bodystart="19" bodyend="24"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_gesture_manager___tap_and_pan_gesture_detector_1a2cd6fde3245a9fc959c34355741d18cf" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>crc643f46942d9dd1fff9.GestureManager_TapAndPanGestureDetector.GestureManager_TapAndPanGestureDetector</definition>
+        <argsstring>(android.content.Context p0, android.view.GestureDetector.OnGestureListener p1, android.os.Handler p2)</argsstring>
+        <name>GestureManager_TapAndPanGestureDetector</name>
+        <param>
+          <type>android.content.Context</type>
+          <declname>p0</declname>
+        </param>
+        <param>
+          <type>android.view.GestureDetector.OnGestureListener</type>
+          <declname>p1</declname>
+        </param>
+        <param>
+          <type>android.os.Handler</type>
+          <declname>p2</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/110/android/src/crc643f46942d9dd1fff9/GestureManager_TapAndPanGestureDetector.java" line="27" column="8" bodyfile="Application Green Quake.Android/obj/Debug/110/android/src/crc643f46942d9dd1fff9/GestureManager_TapAndPanGestureDetector.java" bodystart="27" bodyend="32"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_gesture_manager___tap_and_pan_gesture_detector_1ace42672f3be240b342453356eb4e536c" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>crc643f46942d9dd1fff9.GestureManager_TapAndPanGestureDetector.GestureManager_TapAndPanGestureDetector</definition>
+        <argsstring>(android.content.Context p0, android.view.GestureDetector.OnGestureListener p1, android.os.Handler p2, boolean p3)</argsstring>
+        <name>GestureManager_TapAndPanGestureDetector</name>
+        <param>
+          <type>android.content.Context</type>
+          <declname>p0</declname>
+        </param>
+        <param>
+          <type>android.view.GestureDetector.OnGestureListener</type>
+          <declname>p1</declname>
+        </param>
+        <param>
+          <type>android.os.Handler</type>
+          <declname>p2</declname>
+        </param>
+        <param>
+          <type>boolean</type>
+          <declname>p3</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/110/android/src/crc643f46942d9dd1fff9/GestureManager_TapAndPanGestureDetector.java" line="35" column="8" bodyfile="Application Green Quake.Android/obj/Debug/110/android/src/crc643f46942d9dd1fff9/GestureManager_TapAndPanGestureDetector.java" bodystart="35" bodyend="40"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_gesture_manager___tap_and_pan_gesture_detector_1ad1fe5871d30be3fb96f014ef398c6f7c" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>crc643f46942d9dd1fff9.GestureManager_TapAndPanGestureDetector.GestureManager_TapAndPanGestureDetector</definition>
+        <argsstring>(android.view.GestureDetector.OnGestureListener p0)</argsstring>
+        <name>GestureManager_TapAndPanGestureDetector</name>
+        <param>
+          <type>android.view.GestureDetector.OnGestureListener</type>
+          <declname>p0</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/110/android/src/crc643f46942d9dd1fff9/GestureManager_TapAndPanGestureDetector.java" line="43" column="8" bodyfile="Application Green Quake.Android/obj/Debug/110/android/src/crc643f46942d9dd1fff9/GestureManager_TapAndPanGestureDetector.java" bodystart="43" bodyend="48"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_gesture_manager___tap_and_pan_gesture_detector_1a7c22521b85a52054ab5b33c19ef5d27e" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>crc643f46942d9dd1fff9.GestureManager_TapAndPanGestureDetector.GestureManager_TapAndPanGestureDetector</definition>
+        <argsstring>(android.view.GestureDetector.OnGestureListener p0, android.os.Handler p1)</argsstring>
+        <name>GestureManager_TapAndPanGestureDetector</name>
+        <param>
+          <type>android.view.GestureDetector.OnGestureListener</type>
+          <declname>p0</declname>
+        </param>
+        <param>
+          <type>android.os.Handler</type>
+          <declname>p1</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/110/android/src/crc643f46942d9dd1fff9/GestureManager_TapAndPanGestureDetector.java" line="51" column="8" bodyfile="Application Green Quake.Android/obj/Debug/110/android/src/crc643f46942d9dd1fff9/GestureManager_TapAndPanGestureDetector.java" bodystart="51" bodyend="56"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_gesture_manager___tap_and_pan_gesture_detector_1a1e5c3b28395f75f0efb713e2abad62bb" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>boolean</type>
+        <definition>boolean crc643f46942d9dd1fff9.GestureManager_TapAndPanGestureDetector.onTouchEvent</definition>
+        <argsstring>(android.view.MotionEvent p0)</argsstring>
+        <name>onTouchEvent</name>
+        <param>
+          <type>android.view.MotionEvent</type>
+          <declname>p0</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/110/android/src/crc643f46942d9dd1fff9/GestureManager_TapAndPanGestureDetector.java" line="59" column="16" bodyfile="Application Green Quake.Android/obj/Debug/110/android/src/crc643f46942d9dd1fff9/GestureManager_TapAndPanGestureDetector.java" bodystart="59" bodyend="62"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_gesture_manager___tap_and_pan_gesture_detector_1ada831686062b51ddc2bf65a4fda4ca37" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void crc643f46942d9dd1fff9.GestureManager_TapAndPanGestureDetector.monodroidAddReference</definition>
+        <argsstring>(java.lang.Object obj)</argsstring>
+        <name>monodroidAddReference</name>
+        <param>
+          <type>java.lang.Object</type>
+          <declname>obj</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/110/android/src/crc643f46942d9dd1fff9/GestureManager_TapAndPanGestureDetector.java" line="67" column="13" bodyfile="Application Green Quake.Android/obj/Debug/110/android/src/crc643f46942d9dd1fff9/GestureManager_TapAndPanGestureDetector.java" bodystart="67" bodyend="72"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_gesture_manager___tap_and_pan_gesture_detector_1adce9c7eee81206c0d35c0a4a92fbb346" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void crc643f46942d9dd1fff9.GestureManager_TapAndPanGestureDetector.monodroidClearReferences</definition>
+        <argsstring>()</argsstring>
+        <name>monodroidClearReferences</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/110/android/src/crc643f46942d9dd1fff9/GestureManager_TapAndPanGestureDetector.java" line="74" column="13" bodyfile="Application Green Quake.Android/obj/Debug/110/android/src/crc643f46942d9dd1fff9/GestureManager_TapAndPanGestureDetector.java" bodystart="74" bodyend="78"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_gesture_manager___tap_and_pan_gesture_detector_1a8def26d8ef0c3e199f4a3e7b97aee351" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>crc643f46942d9dd1fff9.GestureManager_TapAndPanGestureDetector.GestureManager_TapAndPanGestureDetector</definition>
+        <argsstring>(android.content.Context p0, android.view.GestureDetector.OnGestureListener p1)</argsstring>
+        <name>GestureManager_TapAndPanGestureDetector</name>
+        <param>
+          <type>android.content.Context</type>
+          <declname>p0</declname>
+        </param>
+        <param>
+          <type>android.view.GestureDetector.OnGestureListener</type>
+          <declname>p1</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/100/android/src/crc643f46942d9dd1fff9/GestureManager_TapAndPanGestureDetector.java" line="19" column="8" bodyfile="Application Green Quake.Android/obj/Release/100/android/src/crc643f46942d9dd1fff9/GestureManager_TapAndPanGestureDetector.java" bodystart="19" bodyend="24"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_gesture_manager___tap_and_pan_gesture_detector_1a2cd6fde3245a9fc959c34355741d18cf" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>crc643f46942d9dd1fff9.GestureManager_TapAndPanGestureDetector.GestureManager_TapAndPanGestureDetector</definition>
+        <argsstring>(android.content.Context p0, android.view.GestureDetector.OnGestureListener p1, android.os.Handler p2)</argsstring>
+        <name>GestureManager_TapAndPanGestureDetector</name>
+        <param>
+          <type>android.content.Context</type>
+          <declname>p0</declname>
+        </param>
+        <param>
+          <type>android.view.GestureDetector.OnGestureListener</type>
+          <declname>p1</declname>
+        </param>
+        <param>
+          <type>android.os.Handler</type>
+          <declname>p2</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/100/android/src/crc643f46942d9dd1fff9/GestureManager_TapAndPanGestureDetector.java" line="27" column="8" bodyfile="Application Green Quake.Android/obj/Release/100/android/src/crc643f46942d9dd1fff9/GestureManager_TapAndPanGestureDetector.java" bodystart="27" bodyend="32"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_gesture_manager___tap_and_pan_gesture_detector_1ace42672f3be240b342453356eb4e536c" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>crc643f46942d9dd1fff9.GestureManager_TapAndPanGestureDetector.GestureManager_TapAndPanGestureDetector</definition>
+        <argsstring>(android.content.Context p0, android.view.GestureDetector.OnGestureListener p1, android.os.Handler p2, boolean p3)</argsstring>
+        <name>GestureManager_TapAndPanGestureDetector</name>
+        <param>
+          <type>android.content.Context</type>
+          <declname>p0</declname>
+        </param>
+        <param>
+          <type>android.view.GestureDetector.OnGestureListener</type>
+          <declname>p1</declname>
+        </param>
+        <param>
+          <type>android.os.Handler</type>
+          <declname>p2</declname>
+        </param>
+        <param>
+          <type>boolean</type>
+          <declname>p3</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/100/android/src/crc643f46942d9dd1fff9/GestureManager_TapAndPanGestureDetector.java" line="35" column="8" bodyfile="Application Green Quake.Android/obj/Release/100/android/src/crc643f46942d9dd1fff9/GestureManager_TapAndPanGestureDetector.java" bodystart="35" bodyend="40"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_gesture_manager___tap_and_pan_gesture_detector_1ad1fe5871d30be3fb96f014ef398c6f7c" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>crc643f46942d9dd1fff9.GestureManager_TapAndPanGestureDetector.GestureManager_TapAndPanGestureDetector</definition>
+        <argsstring>(android.view.GestureDetector.OnGestureListener p0)</argsstring>
+        <name>GestureManager_TapAndPanGestureDetector</name>
+        <param>
+          <type>android.view.GestureDetector.OnGestureListener</type>
+          <declname>p0</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/100/android/src/crc643f46942d9dd1fff9/GestureManager_TapAndPanGestureDetector.java" line="43" column="8" bodyfile="Application Green Quake.Android/obj/Release/100/android/src/crc643f46942d9dd1fff9/GestureManager_TapAndPanGestureDetector.java" bodystart="43" bodyend="48"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_gesture_manager___tap_and_pan_gesture_detector_1a7c22521b85a52054ab5b33c19ef5d27e" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>crc643f46942d9dd1fff9.GestureManager_TapAndPanGestureDetector.GestureManager_TapAndPanGestureDetector</definition>
+        <argsstring>(android.view.GestureDetector.OnGestureListener p0, android.os.Handler p1)</argsstring>
+        <name>GestureManager_TapAndPanGestureDetector</name>
+        <param>
+          <type>android.view.GestureDetector.OnGestureListener</type>
+          <declname>p0</declname>
+        </param>
+        <param>
+          <type>android.os.Handler</type>
+          <declname>p1</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/100/android/src/crc643f46942d9dd1fff9/GestureManager_TapAndPanGestureDetector.java" line="51" column="8" bodyfile="Application Green Quake.Android/obj/Release/100/android/src/crc643f46942d9dd1fff9/GestureManager_TapAndPanGestureDetector.java" bodystart="51" bodyend="56"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_gesture_manager___tap_and_pan_gesture_detector_1a1e5c3b28395f75f0efb713e2abad62bb" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>boolean</type>
+        <definition>boolean crc643f46942d9dd1fff9.GestureManager_TapAndPanGestureDetector.onTouchEvent</definition>
+        <argsstring>(android.view.MotionEvent p0)</argsstring>
+        <name>onTouchEvent</name>
+        <param>
+          <type>android.view.MotionEvent</type>
+          <declname>p0</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/100/android/src/crc643f46942d9dd1fff9/GestureManager_TapAndPanGestureDetector.java" line="59" column="16" bodyfile="Application Green Quake.Android/obj/Release/100/android/src/crc643f46942d9dd1fff9/GestureManager_TapAndPanGestureDetector.java" bodystart="59" bodyend="62"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_gesture_manager___tap_and_pan_gesture_detector_1ada831686062b51ddc2bf65a4fda4ca37" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void crc643f46942d9dd1fff9.GestureManager_TapAndPanGestureDetector.monodroidAddReference</definition>
+        <argsstring>(java.lang.Object obj)</argsstring>
+        <name>monodroidAddReference</name>
+        <param>
+          <type>java.lang.Object</type>
+          <declname>obj</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/100/android/src/crc643f46942d9dd1fff9/GestureManager_TapAndPanGestureDetector.java" line="67" column="13" bodyfile="Application Green Quake.Android/obj/Release/100/android/src/crc643f46942d9dd1fff9/GestureManager_TapAndPanGestureDetector.java" bodystart="67" bodyend="72"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_gesture_manager___tap_and_pan_gesture_detector_1adce9c7eee81206c0d35c0a4a92fbb346" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void crc643f46942d9dd1fff9.GestureManager_TapAndPanGestureDetector.monodroidClearReferences</definition>
+        <argsstring>()</argsstring>
+        <name>monodroidClearReferences</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/100/android/src/crc643f46942d9dd1fff9/GestureManager_TapAndPanGestureDetector.java" line="74" column="13" bodyfile="Application Green Quake.Android/obj/Release/100/android/src/crc643f46942d9dd1fff9/GestureManager_TapAndPanGestureDetector.java" bodystart="74" bodyend="78"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_gesture_manager___tap_and_pan_gesture_detector_1a8def26d8ef0c3e199f4a3e7b97aee351" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>crc643f46942d9dd1fff9.GestureManager_TapAndPanGestureDetector.GestureManager_TapAndPanGestureDetector</definition>
+        <argsstring>(android.content.Context p0, android.view.GestureDetector.OnGestureListener p1)</argsstring>
+        <name>GestureManager_TapAndPanGestureDetector</name>
+        <param>
+          <type>android.content.Context</type>
+          <declname>p0</declname>
+        </param>
+        <param>
+          <type>android.view.GestureDetector.OnGestureListener</type>
+          <declname>p1</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/110/android/src/crc643f46942d9dd1fff9/GestureManager_TapAndPanGestureDetector.java" line="19" column="8" bodyfile="Application Green Quake.Android/obj/Release/110/android/src/crc643f46942d9dd1fff9/GestureManager_TapAndPanGestureDetector.java" bodystart="19" bodyend="24"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_gesture_manager___tap_and_pan_gesture_detector_1a2cd6fde3245a9fc959c34355741d18cf" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>crc643f46942d9dd1fff9.GestureManager_TapAndPanGestureDetector.GestureManager_TapAndPanGestureDetector</definition>
+        <argsstring>(android.content.Context p0, android.view.GestureDetector.OnGestureListener p1, android.os.Handler p2)</argsstring>
+        <name>GestureManager_TapAndPanGestureDetector</name>
+        <param>
+          <type>android.content.Context</type>
+          <declname>p0</declname>
+        </param>
+        <param>
+          <type>android.view.GestureDetector.OnGestureListener</type>
+          <declname>p1</declname>
+        </param>
+        <param>
+          <type>android.os.Handler</type>
+          <declname>p2</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/110/android/src/crc643f46942d9dd1fff9/GestureManager_TapAndPanGestureDetector.java" line="27" column="8" bodyfile="Application Green Quake.Android/obj/Release/110/android/src/crc643f46942d9dd1fff9/GestureManager_TapAndPanGestureDetector.java" bodystart="27" bodyend="32"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_gesture_manager___tap_and_pan_gesture_detector_1ace42672f3be240b342453356eb4e536c" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>crc643f46942d9dd1fff9.GestureManager_TapAndPanGestureDetector.GestureManager_TapAndPanGestureDetector</definition>
+        <argsstring>(android.content.Context p0, android.view.GestureDetector.OnGestureListener p1, android.os.Handler p2, boolean p3)</argsstring>
+        <name>GestureManager_TapAndPanGestureDetector</name>
+        <param>
+          <type>android.content.Context</type>
+          <declname>p0</declname>
+        </param>
+        <param>
+          <type>android.view.GestureDetector.OnGestureListener</type>
+          <declname>p1</declname>
+        </param>
+        <param>
+          <type>android.os.Handler</type>
+          <declname>p2</declname>
+        </param>
+        <param>
+          <type>boolean</type>
+          <declname>p3</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/110/android/src/crc643f46942d9dd1fff9/GestureManager_TapAndPanGestureDetector.java" line="35" column="8" bodyfile="Application Green Quake.Android/obj/Release/110/android/src/crc643f46942d9dd1fff9/GestureManager_TapAndPanGestureDetector.java" bodystart="35" bodyend="40"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_gesture_manager___tap_and_pan_gesture_detector_1ad1fe5871d30be3fb96f014ef398c6f7c" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>crc643f46942d9dd1fff9.GestureManager_TapAndPanGestureDetector.GestureManager_TapAndPanGestureDetector</definition>
+        <argsstring>(android.view.GestureDetector.OnGestureListener p0)</argsstring>
+        <name>GestureManager_TapAndPanGestureDetector</name>
+        <param>
+          <type>android.view.GestureDetector.OnGestureListener</type>
+          <declname>p0</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/110/android/src/crc643f46942d9dd1fff9/GestureManager_TapAndPanGestureDetector.java" line="43" column="8" bodyfile="Application Green Quake.Android/obj/Release/110/android/src/crc643f46942d9dd1fff9/GestureManager_TapAndPanGestureDetector.java" bodystart="43" bodyend="48"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_gesture_manager___tap_and_pan_gesture_detector_1a7c22521b85a52054ab5b33c19ef5d27e" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>crc643f46942d9dd1fff9.GestureManager_TapAndPanGestureDetector.GestureManager_TapAndPanGestureDetector</definition>
+        <argsstring>(android.view.GestureDetector.OnGestureListener p0, android.os.Handler p1)</argsstring>
+        <name>GestureManager_TapAndPanGestureDetector</name>
+        <param>
+          <type>android.view.GestureDetector.OnGestureListener</type>
+          <declname>p0</declname>
+        </param>
+        <param>
+          <type>android.os.Handler</type>
+          <declname>p1</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/110/android/src/crc643f46942d9dd1fff9/GestureManager_TapAndPanGestureDetector.java" line="51" column="8" bodyfile="Application Green Quake.Android/obj/Release/110/android/src/crc643f46942d9dd1fff9/GestureManager_TapAndPanGestureDetector.java" bodystart="51" bodyend="56"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_gesture_manager___tap_and_pan_gesture_detector_1a1e5c3b28395f75f0efb713e2abad62bb" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>boolean</type>
+        <definition>boolean crc643f46942d9dd1fff9.GestureManager_TapAndPanGestureDetector.onTouchEvent</definition>
+        <argsstring>(android.view.MotionEvent p0)</argsstring>
+        <name>onTouchEvent</name>
+        <param>
+          <type>android.view.MotionEvent</type>
+          <declname>p0</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/110/android/src/crc643f46942d9dd1fff9/GestureManager_TapAndPanGestureDetector.java" line="59" column="16" bodyfile="Application Green Quake.Android/obj/Release/110/android/src/crc643f46942d9dd1fff9/GestureManager_TapAndPanGestureDetector.java" bodystart="59" bodyend="62"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_gesture_manager___tap_and_pan_gesture_detector_1ada831686062b51ddc2bf65a4fda4ca37" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void crc643f46942d9dd1fff9.GestureManager_TapAndPanGestureDetector.monodroidAddReference</definition>
+        <argsstring>(java.lang.Object obj)</argsstring>
+        <name>monodroidAddReference</name>
+        <param>
+          <type>java.lang.Object</type>
+          <declname>obj</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/110/android/src/crc643f46942d9dd1fff9/GestureManager_TapAndPanGestureDetector.java" line="67" column="13" bodyfile="Application Green Quake.Android/obj/Release/110/android/src/crc643f46942d9dd1fff9/GestureManager_TapAndPanGestureDetector.java" bodystart="67" bodyend="72"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_gesture_manager___tap_and_pan_gesture_detector_1adce9c7eee81206c0d35c0a4a92fbb346" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void crc643f46942d9dd1fff9.GestureManager_TapAndPanGestureDetector.monodroidClearReferences</definition>
+        <argsstring>()</argsstring>
+        <name>monodroidClearReferences</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/110/android/src/crc643f46942d9dd1fff9/GestureManager_TapAndPanGestureDetector.java" line="74" column="13" bodyfile="Application Green Quake.Android/obj/Release/110/android/src/crc643f46942d9dd1fff9/GestureManager_TapAndPanGestureDetector.java" bodystart="74" bodyend="78"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="private-func">
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_gesture_manager___tap_and_pan_gesture_detector_1a3d18158387f4607c6658cfaff272e172" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>native boolean</type>
+        <definition>native boolean crc643f46942d9dd1fff9.GestureManager_TapAndPanGestureDetector.n_onTouchEvent</definition>
+        <argsstring>(android.view.MotionEvent p0)</argsstring>
+        <name>n_onTouchEvent</name>
+        <param>
+          <type>android.view.MotionEvent</type>
+          <declname>p0</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/100/android/src/crc643f46942d9dd1fff9/GestureManager_TapAndPanGestureDetector.java" line="64" column="24"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_gesture_manager___tap_and_pan_gesture_detector_1a3d18158387f4607c6658cfaff272e172" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>native boolean</type>
+        <definition>native boolean crc643f46942d9dd1fff9.GestureManager_TapAndPanGestureDetector.n_onTouchEvent</definition>
+        <argsstring>(android.view.MotionEvent p0)</argsstring>
+        <name>n_onTouchEvent</name>
+        <param>
+          <type>android.view.MotionEvent</type>
+          <declname>p0</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/110/android/src/crc643f46942d9dd1fff9/GestureManager_TapAndPanGestureDetector.java" line="64" column="24"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_gesture_manager___tap_and_pan_gesture_detector_1a3d18158387f4607c6658cfaff272e172" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>native boolean</type>
+        <definition>native boolean crc643f46942d9dd1fff9.GestureManager_TapAndPanGestureDetector.n_onTouchEvent</definition>
+        <argsstring>(android.view.MotionEvent p0)</argsstring>
+        <name>n_onTouchEvent</name>
+        <param>
+          <type>android.view.MotionEvent</type>
+          <declname>p0</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/100/android/src/crc643f46942d9dd1fff9/GestureManager_TapAndPanGestureDetector.java" line="64" column="24"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_gesture_manager___tap_and_pan_gesture_detector_1a3d18158387f4607c6658cfaff272e172" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>native boolean</type>
+        <definition>native boolean crc643f46942d9dd1fff9.GestureManager_TapAndPanGestureDetector.n_onTouchEvent</definition>
+        <argsstring>(android.view.MotionEvent p0)</argsstring>
+        <name>n_onTouchEvent</name>
+        <param>
+          <type>android.view.MotionEvent</type>
+          <declname>p0</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/110/android/src/crc643f46942d9dd1fff9/GestureManager_TapAndPanGestureDetector.java" line="64" column="24"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <inheritancegraph>
+      <node id="2">
+        <label>android::view::GestureDetector</label>
+      </node>
+      <node id="1">
+        <label>crc643f46942d9dd1fff9.GestureManager_TapAndPanGestureDetector</label>
+        <link refid="classcrc643f46942d9dd1fff9_1_1_gesture_manager___tap_and_pan_gesture_detector"/>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+        <childnode refid="3" relation="public-inheritance">
+        </childnode>
+        <childnode refid="4" relation="public-inheritance">
+        </childnode>
+        <childnode refid="3" relation="public-inheritance">
+        </childnode>
+        <childnode refid="4" relation="public-inheritance">
+        </childnode>
+        <childnode refid="3" relation="public-inheritance">
+        </childnode>
+        <childnode refid="4" relation="public-inheritance">
+        </childnode>
+        <childnode refid="3" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="4">
+        <label>android.view.GestureDetector</label>
+      </node>
+      <node id="3">
+        <label>mono.android.IGCUserPeer</label>
+      </node>
+    </inheritancegraph>
+    <collaborationgraph>
+      <node id="2">
+        <label>android::view::GestureDetector</label>
+      </node>
+      <node id="1">
+        <label>crc643f46942d9dd1fff9.GestureManager_TapAndPanGestureDetector</label>
+        <link refid="classcrc643f46942d9dd1fff9_1_1_gesture_manager___tap_and_pan_gesture_detector"/>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+        <childnode refid="3" relation="public-inheritance">
+        </childnode>
+        <childnode refid="4" relation="public-inheritance">
+        </childnode>
+        <childnode refid="3" relation="public-inheritance">
+        </childnode>
+        <childnode refid="4" relation="public-inheritance">
+        </childnode>
+        <childnode refid="3" relation="public-inheritance">
+        </childnode>
+        <childnode refid="4" relation="public-inheritance">
+        </childnode>
+        <childnode refid="3" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="4">
+        <label>android.view.GestureDetector</label>
+      </node>
+      <node id="3">
+        <label>mono.android.IGCUserPeer</label>
+      </node>
+    </collaborationgraph>
+    <location file="Application Green Quake.Android/obj/Debug/100/android/src/crc643f46942d9dd1fff9/GestureManager_TapAndPanGestureDetector.java" line="4" column="7" bodyfile="Application Green Quake.Android/obj/Debug/100/android/src/crc643f46942d9dd1fff9/GestureManager_TapAndPanGestureDetector.java" bodystart="8" bodyend="79"/>
+    <listofallmembers>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_gesture_manager___tap_and_pan_gesture_detector_1ad5019b3ee16b45d575db27d3c240923b" prot="package" virt="non-virtual"><scope>crc643f46942d9dd1fff9::GestureManager_TapAndPanGestureDetector</scope><name>[static initializer]</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_gesture_manager___tap_and_pan_gesture_detector_1ad5019b3ee16b45d575db27d3c240923b" prot="package" virt="non-virtual"><scope>crc643f46942d9dd1fff9::GestureManager_TapAndPanGestureDetector</scope><name>[static initializer]</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_gesture_manager___tap_and_pan_gesture_detector_1ad5019b3ee16b45d575db27d3c240923b" prot="package" virt="non-virtual"><scope>crc643f46942d9dd1fff9::GestureManager_TapAndPanGestureDetector</scope><name>[static initializer]</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_gesture_manager___tap_and_pan_gesture_detector_1ad5019b3ee16b45d575db27d3c240923b" prot="package" virt="non-virtual"><scope>crc643f46942d9dd1fff9::GestureManager_TapAndPanGestureDetector</scope><name>[static initializer]</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_gesture_manager___tap_and_pan_gesture_detector_1a6b2b53ac92cbc6e5aa65d5a5ec5e854f" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::GestureManager_TapAndPanGestureDetector</scope><name>__md_methods</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_gesture_manager___tap_and_pan_gesture_detector_1a8def26d8ef0c3e199f4a3e7b97aee351" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::GestureManager_TapAndPanGestureDetector</scope><name>GestureManager_TapAndPanGestureDetector</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_gesture_manager___tap_and_pan_gesture_detector_1a2cd6fde3245a9fc959c34355741d18cf" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::GestureManager_TapAndPanGestureDetector</scope><name>GestureManager_TapAndPanGestureDetector</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_gesture_manager___tap_and_pan_gesture_detector_1ace42672f3be240b342453356eb4e536c" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::GestureManager_TapAndPanGestureDetector</scope><name>GestureManager_TapAndPanGestureDetector</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_gesture_manager___tap_and_pan_gesture_detector_1ad1fe5871d30be3fb96f014ef398c6f7c" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::GestureManager_TapAndPanGestureDetector</scope><name>GestureManager_TapAndPanGestureDetector</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_gesture_manager___tap_and_pan_gesture_detector_1a7c22521b85a52054ab5b33c19ef5d27e" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::GestureManager_TapAndPanGestureDetector</scope><name>GestureManager_TapAndPanGestureDetector</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_gesture_manager___tap_and_pan_gesture_detector_1a8def26d8ef0c3e199f4a3e7b97aee351" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::GestureManager_TapAndPanGestureDetector</scope><name>GestureManager_TapAndPanGestureDetector</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_gesture_manager___tap_and_pan_gesture_detector_1a2cd6fde3245a9fc959c34355741d18cf" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::GestureManager_TapAndPanGestureDetector</scope><name>GestureManager_TapAndPanGestureDetector</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_gesture_manager___tap_and_pan_gesture_detector_1ace42672f3be240b342453356eb4e536c" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::GestureManager_TapAndPanGestureDetector</scope><name>GestureManager_TapAndPanGestureDetector</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_gesture_manager___tap_and_pan_gesture_detector_1ad1fe5871d30be3fb96f014ef398c6f7c" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::GestureManager_TapAndPanGestureDetector</scope><name>GestureManager_TapAndPanGestureDetector</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_gesture_manager___tap_and_pan_gesture_detector_1a7c22521b85a52054ab5b33c19ef5d27e" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::GestureManager_TapAndPanGestureDetector</scope><name>GestureManager_TapAndPanGestureDetector</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_gesture_manager___tap_and_pan_gesture_detector_1a8def26d8ef0c3e199f4a3e7b97aee351" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::GestureManager_TapAndPanGestureDetector</scope><name>GestureManager_TapAndPanGestureDetector</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_gesture_manager___tap_and_pan_gesture_detector_1a2cd6fde3245a9fc959c34355741d18cf" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::GestureManager_TapAndPanGestureDetector</scope><name>GestureManager_TapAndPanGestureDetector</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_gesture_manager___tap_and_pan_gesture_detector_1ace42672f3be240b342453356eb4e536c" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::GestureManager_TapAndPanGestureDetector</scope><name>GestureManager_TapAndPanGestureDetector</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_gesture_manager___tap_and_pan_gesture_detector_1ad1fe5871d30be3fb96f014ef398c6f7c" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::GestureManager_TapAndPanGestureDetector</scope><name>GestureManager_TapAndPanGestureDetector</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_gesture_manager___tap_and_pan_gesture_detector_1a7c22521b85a52054ab5b33c19ef5d27e" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::GestureManager_TapAndPanGestureDetector</scope><name>GestureManager_TapAndPanGestureDetector</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_gesture_manager___tap_and_pan_gesture_detector_1a8def26d8ef0c3e199f4a3e7b97aee351" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::GestureManager_TapAndPanGestureDetector</scope><name>GestureManager_TapAndPanGestureDetector</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_gesture_manager___tap_and_pan_gesture_detector_1a2cd6fde3245a9fc959c34355741d18cf" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::GestureManager_TapAndPanGestureDetector</scope><name>GestureManager_TapAndPanGestureDetector</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_gesture_manager___tap_and_pan_gesture_detector_1ace42672f3be240b342453356eb4e536c" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::GestureManager_TapAndPanGestureDetector</scope><name>GestureManager_TapAndPanGestureDetector</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_gesture_manager___tap_and_pan_gesture_detector_1ad1fe5871d30be3fb96f014ef398c6f7c" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::GestureManager_TapAndPanGestureDetector</scope><name>GestureManager_TapAndPanGestureDetector</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_gesture_manager___tap_and_pan_gesture_detector_1a7c22521b85a52054ab5b33c19ef5d27e" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::GestureManager_TapAndPanGestureDetector</scope><name>GestureManager_TapAndPanGestureDetector</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_gesture_manager___tap_and_pan_gesture_detector_1ada831686062b51ddc2bf65a4fda4ca37" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::GestureManager_TapAndPanGestureDetector</scope><name>monodroidAddReference</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_gesture_manager___tap_and_pan_gesture_detector_1ada831686062b51ddc2bf65a4fda4ca37" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::GestureManager_TapAndPanGestureDetector</scope><name>monodroidAddReference</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_gesture_manager___tap_and_pan_gesture_detector_1ada831686062b51ddc2bf65a4fda4ca37" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::GestureManager_TapAndPanGestureDetector</scope><name>monodroidAddReference</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_gesture_manager___tap_and_pan_gesture_detector_1ada831686062b51ddc2bf65a4fda4ca37" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::GestureManager_TapAndPanGestureDetector</scope><name>monodroidAddReference</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_gesture_manager___tap_and_pan_gesture_detector_1adce9c7eee81206c0d35c0a4a92fbb346" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::GestureManager_TapAndPanGestureDetector</scope><name>monodroidClearReferences</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_gesture_manager___tap_and_pan_gesture_detector_1adce9c7eee81206c0d35c0a4a92fbb346" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::GestureManager_TapAndPanGestureDetector</scope><name>monodroidClearReferences</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_gesture_manager___tap_and_pan_gesture_detector_1adce9c7eee81206c0d35c0a4a92fbb346" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::GestureManager_TapAndPanGestureDetector</scope><name>monodroidClearReferences</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_gesture_manager___tap_and_pan_gesture_detector_1adce9c7eee81206c0d35c0a4a92fbb346" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::GestureManager_TapAndPanGestureDetector</scope><name>monodroidClearReferences</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_gesture_manager___tap_and_pan_gesture_detector_1a3d18158387f4607c6658cfaff272e172" prot="private" virt="non-virtual"><scope>crc643f46942d9dd1fff9::GestureManager_TapAndPanGestureDetector</scope><name>n_onTouchEvent</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_gesture_manager___tap_and_pan_gesture_detector_1a3d18158387f4607c6658cfaff272e172" prot="private" virt="non-virtual"><scope>crc643f46942d9dd1fff9::GestureManager_TapAndPanGestureDetector</scope><name>n_onTouchEvent</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_gesture_manager___tap_and_pan_gesture_detector_1a3d18158387f4607c6658cfaff272e172" prot="private" virt="non-virtual"><scope>crc643f46942d9dd1fff9::GestureManager_TapAndPanGestureDetector</scope><name>n_onTouchEvent</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_gesture_manager___tap_and_pan_gesture_detector_1a3d18158387f4607c6658cfaff272e172" prot="private" virt="non-virtual"><scope>crc643f46942d9dd1fff9::GestureManager_TapAndPanGestureDetector</scope><name>n_onTouchEvent</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_gesture_manager___tap_and_pan_gesture_detector_1a1e5c3b28395f75f0efb713e2abad62bb" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::GestureManager_TapAndPanGestureDetector</scope><name>onTouchEvent</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_gesture_manager___tap_and_pan_gesture_detector_1a1e5c3b28395f75f0efb713e2abad62bb" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::GestureManager_TapAndPanGestureDetector</scope><name>onTouchEvent</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_gesture_manager___tap_and_pan_gesture_detector_1a1e5c3b28395f75f0efb713e2abad62bb" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::GestureManager_TapAndPanGestureDetector</scope><name>onTouchEvent</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_gesture_manager___tap_and_pan_gesture_detector_1a1e5c3b28395f75f0efb713e2abad62bb" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::GestureManager_TapAndPanGestureDetector</scope><name>onTouchEvent</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_gesture_manager___tap_and_pan_gesture_detector_1a3d7687b6fc57182e4c0c105c3646ba13" prot="private" virt="non-virtual"><scope>crc643f46942d9dd1fff9::GestureManager_TapAndPanGestureDetector</scope><name>refList</name></member>
+    </listofallmembers>
+  </compounddef>
+</doxygen>

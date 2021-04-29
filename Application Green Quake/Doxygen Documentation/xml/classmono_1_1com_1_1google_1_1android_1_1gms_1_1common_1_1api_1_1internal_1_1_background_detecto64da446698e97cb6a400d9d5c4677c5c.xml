@@ -1,0 +1,532 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.9.1" xml:lang="en-US">
+  <compounddef id="classmono_1_1com_1_1google_1_1android_1_1gms_1_1common_1_1api_1_1internal_1_1_background_detecto64da446698e97cb6a400d9d5c4677c5c" kind="class" language="Java" prot="public">
+    <compoundname>mono::com::google::android::gms::common::api::internal::BackgroundDetector_BackgroundStateChangeListenerImplementor</compoundname>
+    <basecompoundref prot="public" virt="non-virtual">java.lang.Object</basecompoundref>
+    <basecompoundref prot="public" virt="non-virtual">mono.android.IGCUserPeer</basecompoundref>
+    <basecompoundref prot="public" virt="non-virtual">com.google.android.gms.common.api.internal.BackgroundDetector.BackgroundStateChangeListener</basecompoundref>
+    <basecompoundref prot="public" virt="non-virtual">java.lang.Object</basecompoundref>
+    <basecompoundref prot="public" virt="non-virtual">mono.android.IGCUserPeer</basecompoundref>
+    <basecompoundref prot="public" virt="non-virtual">com.google.android.gms.common.api.internal.BackgroundDetector.BackgroundStateChangeListener</basecompoundref>
+    <basecompoundref prot="public" virt="non-virtual">java.lang.Object</basecompoundref>
+    <basecompoundref prot="public" virt="non-virtual">mono.android.IGCUserPeer</basecompoundref>
+    <basecompoundref prot="public" virt="non-virtual">com.google.android.gms.common.api.internal.BackgroundDetector.BackgroundStateChangeListener</basecompoundref>
+    <basecompoundref prot="public" virt="non-virtual">java.lang.Object</basecompoundref>
+    <basecompoundref prot="public" virt="non-virtual">mono.android.IGCUserPeer</basecompoundref>
+    <basecompoundref prot="public" virt="non-virtual">com.google.android.gms.common.api.internal.BackgroundDetector.BackgroundStateChangeListener</basecompoundref>
+      <sectiondef kind="public-static-attrib">
+      <memberdef kind="variable" id="classmono_1_1com_1_1google_1_1android_1_1gms_1_1common_1_1api_1_1internal_1_1_background_detecto64da446698e97cb6a400d9d5c4677c5c_1abf0eb65ac81401acae06f9d7d8c2a1bf" prot="public" static="yes" mutable="no">
+        <type>final String</type>
+        <definition>static final String mono.com.google.android.gms.common.api.internal.BackgroundDetector_BackgroundStateChangeListenerImplementor::__md_methods</definition>
+        <argsstring></argsstring>
+        <name>__md_methods</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+<para>@hide </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/100/android/src/mono/com/google/android/gms/common/api/internal/BackgroundDetector_BackgroundStateChangeListenerImplementor.java" line="11" column="28" bodyfile="Application Green Quake.Android/obj/Debug/100/android/src/mono/com/google/android/gms/common/api/internal/BackgroundDetector_BackgroundStateChangeListenerImplementor.java" bodystart="11" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="private-attrib">
+      <memberdef kind="variable" id="classmono_1_1com_1_1google_1_1android_1_1gms_1_1common_1_1api_1_1internal_1_1_background_detecto64da446698e97cb6a400d9d5c4677c5c_1ac44fe46f279efdd7995df374aedfa2a5" prot="private" static="no" mutable="no">
+        <type>java.util.ArrayList</type>
+        <definition>java util ArrayList mono.com.google.android.gms.common.api.internal.BackgroundDetector_BackgroundStateChangeListenerImplementor::refList</definition>
+        <argsstring></argsstring>
+        <name>refList</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/100/android/src/mono/com/google/android/gms/common/api/internal/BackgroundDetector_BackgroundStateChangeListenerImplementor.java" line="35" column="27" bodyfile="Application Green Quake.Android/obj/Debug/100/android/src/mono/com/google/android/gms/common/api/internal/BackgroundDetector_BackgroundStateChangeListenerImplementor.java" bodystart="35" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="package-static-func">
+      <memberdef kind="function" id="classmono_1_1com_1_1google_1_1android_1_1gms_1_1common_1_1api_1_1internal_1_1_background_detecto64da446698e97cb6a400d9d5c4677c5c_1a02cadbc4b9b8d7b19764172b3a383b02" prot="package" static="yes" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>mono.com.google.android.gms.common.api.internal.BackgroundDetector_BackgroundStateChangeListenerImplementor.[static initializer]</definition>
+        <argsstring></argsstring>
+        <name>[static initializer]</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/100/android/src/mono/com/google/android/gms/common/api/internal/BackgroundDetector_BackgroundStateChangeListenerImplementor.java" line="11" column="28"/>
+      </memberdef>
+      <memberdef kind="function" id="classmono_1_1com_1_1google_1_1android_1_1gms_1_1common_1_1api_1_1internal_1_1_background_detecto64da446698e97cb6a400d9d5c4677c5c_1a02cadbc4b9b8d7b19764172b3a383b02" prot="package" static="yes" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>mono.com.google.android.gms.common.api.internal.BackgroundDetector_BackgroundStateChangeListenerImplementor.[static initializer]</definition>
+        <argsstring></argsstring>
+        <name>[static initializer]</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/110/android/src/mono/com/google/android/gms/common/api/internal/BackgroundDetector_BackgroundStateChangeListenerImplementor.java" line="11" column="28"/>
+      </memberdef>
+      <memberdef kind="function" id="classmono_1_1com_1_1google_1_1android_1_1gms_1_1common_1_1api_1_1internal_1_1_background_detecto64da446698e97cb6a400d9d5c4677c5c_1a02cadbc4b9b8d7b19764172b3a383b02" prot="package" static="yes" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>mono.com.google.android.gms.common.api.internal.BackgroundDetector_BackgroundStateChangeListenerImplementor.[static initializer]</definition>
+        <argsstring></argsstring>
+        <name>[static initializer]</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/100/android/src/mono/com/google/android/gms/common/api/internal/BackgroundDetector_BackgroundStateChangeListenerImplementor.java" line="11" column="28"/>
+      </memberdef>
+      <memberdef kind="function" id="classmono_1_1com_1_1google_1_1android_1_1gms_1_1common_1_1api_1_1internal_1_1_background_detecto64da446698e97cb6a400d9d5c4677c5c_1a02cadbc4b9b8d7b19764172b3a383b02" prot="package" static="yes" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>mono.com.google.android.gms.common.api.internal.BackgroundDetector_BackgroundStateChangeListenerImplementor.[static initializer]</definition>
+        <argsstring></argsstring>
+        <name>[static initializer]</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/110/android/src/mono/com/google/android/gms/common/api/internal/BackgroundDetector_BackgroundStateChangeListenerImplementor.java" line="11" column="28"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="public-func">
+      <memberdef kind="function" id="classmono_1_1com_1_1google_1_1android_1_1gms_1_1common_1_1api_1_1internal_1_1_background_detecto64da446698e97cb6a400d9d5c4677c5c_1a1db075ebbf842075e07c13d587ea5053" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>mono.com.google.android.gms.common.api.internal.BackgroundDetector_BackgroundStateChangeListenerImplementor.BackgroundDetector_BackgroundStateChangeListenerImplementor</definition>
+        <argsstring>()</argsstring>
+        <name>BackgroundDetector_BackgroundStateChangeListenerImplementor</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/100/android/src/mono/com/google/android/gms/common/api/internal/BackgroundDetector_BackgroundStateChangeListenerImplementor.java" line="20" column="8" bodyfile="Application Green Quake.Android/obj/Debug/100/android/src/mono/com/google/android/gms/common/api/internal/BackgroundDetector_BackgroundStateChangeListenerImplementor.java" bodystart="20" bodyend="25"/>
+      </memberdef>
+      <memberdef kind="function" id="classmono_1_1com_1_1google_1_1android_1_1gms_1_1common_1_1api_1_1internal_1_1_background_detecto64da446698e97cb6a400d9d5c4677c5c_1a3f5a966e326bc04c19814c9841c69827" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void mono.com.google.android.gms.common.api.internal.BackgroundDetector_BackgroundStateChangeListenerImplementor.onBackgroundStateChanged</definition>
+        <argsstring>(boolean p0)</argsstring>
+        <name>onBackgroundStateChanged</name>
+        <param>
+          <type>boolean</type>
+          <declname>p0</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/100/android/src/mono/com/google/android/gms/common/api/internal/BackgroundDetector_BackgroundStateChangeListenerImplementor.java" line="28" column="13" bodyfile="Application Green Quake.Android/obj/Debug/100/android/src/mono/com/google/android/gms/common/api/internal/BackgroundDetector_BackgroundStateChangeListenerImplementor.java" bodystart="28" bodyend="31"/>
+      </memberdef>
+      <memberdef kind="function" id="classmono_1_1com_1_1google_1_1android_1_1gms_1_1common_1_1api_1_1internal_1_1_background_detecto64da446698e97cb6a400d9d5c4677c5c_1a153c5057936f7e260e6170b33e2911d9" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void mono.com.google.android.gms.common.api.internal.BackgroundDetector_BackgroundStateChangeListenerImplementor.monodroidAddReference</definition>
+        <argsstring>(java.lang.Object obj)</argsstring>
+        <name>monodroidAddReference</name>
+        <param>
+          <type>java.lang.Object</type>
+          <declname>obj</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/100/android/src/mono/com/google/android/gms/common/api/internal/BackgroundDetector_BackgroundStateChangeListenerImplementor.java" line="36" column="13" bodyfile="Application Green Quake.Android/obj/Debug/100/android/src/mono/com/google/android/gms/common/api/internal/BackgroundDetector_BackgroundStateChangeListenerImplementor.java" bodystart="36" bodyend="41"/>
+      </memberdef>
+      <memberdef kind="function" id="classmono_1_1com_1_1google_1_1android_1_1gms_1_1common_1_1api_1_1internal_1_1_background_detecto64da446698e97cb6a400d9d5c4677c5c_1a386d7be0267da426b3dc80a6639eab62" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void mono.com.google.android.gms.common.api.internal.BackgroundDetector_BackgroundStateChangeListenerImplementor.monodroidClearReferences</definition>
+        <argsstring>()</argsstring>
+        <name>monodroidClearReferences</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/100/android/src/mono/com/google/android/gms/common/api/internal/BackgroundDetector_BackgroundStateChangeListenerImplementor.java" line="43" column="13" bodyfile="Application Green Quake.Android/obj/Debug/100/android/src/mono/com/google/android/gms/common/api/internal/BackgroundDetector_BackgroundStateChangeListenerImplementor.java" bodystart="43" bodyend="47"/>
+      </memberdef>
+      <memberdef kind="function" id="classmono_1_1com_1_1google_1_1android_1_1gms_1_1common_1_1api_1_1internal_1_1_background_detecto64da446698e97cb6a400d9d5c4677c5c_1a1db075ebbf842075e07c13d587ea5053" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>mono.com.google.android.gms.common.api.internal.BackgroundDetector_BackgroundStateChangeListenerImplementor.BackgroundDetector_BackgroundStateChangeListenerImplementor</definition>
+        <argsstring>()</argsstring>
+        <name>BackgroundDetector_BackgroundStateChangeListenerImplementor</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/110/android/src/mono/com/google/android/gms/common/api/internal/BackgroundDetector_BackgroundStateChangeListenerImplementor.java" line="20" column="8" bodyfile="Application Green Quake.Android/obj/Debug/110/android/src/mono/com/google/android/gms/common/api/internal/BackgroundDetector_BackgroundStateChangeListenerImplementor.java" bodystart="20" bodyend="25"/>
+      </memberdef>
+      <memberdef kind="function" id="classmono_1_1com_1_1google_1_1android_1_1gms_1_1common_1_1api_1_1internal_1_1_background_detecto64da446698e97cb6a400d9d5c4677c5c_1a3f5a966e326bc04c19814c9841c69827" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void mono.com.google.android.gms.common.api.internal.BackgroundDetector_BackgroundStateChangeListenerImplementor.onBackgroundStateChanged</definition>
+        <argsstring>(boolean p0)</argsstring>
+        <name>onBackgroundStateChanged</name>
+        <param>
+          <type>boolean</type>
+          <declname>p0</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/110/android/src/mono/com/google/android/gms/common/api/internal/BackgroundDetector_BackgroundStateChangeListenerImplementor.java" line="28" column="13" bodyfile="Application Green Quake.Android/obj/Debug/110/android/src/mono/com/google/android/gms/common/api/internal/BackgroundDetector_BackgroundStateChangeListenerImplementor.java" bodystart="28" bodyend="31"/>
+      </memberdef>
+      <memberdef kind="function" id="classmono_1_1com_1_1google_1_1android_1_1gms_1_1common_1_1api_1_1internal_1_1_background_detecto64da446698e97cb6a400d9d5c4677c5c_1a153c5057936f7e260e6170b33e2911d9" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void mono.com.google.android.gms.common.api.internal.BackgroundDetector_BackgroundStateChangeListenerImplementor.monodroidAddReference</definition>
+        <argsstring>(java.lang.Object obj)</argsstring>
+        <name>monodroidAddReference</name>
+        <param>
+          <type>java.lang.Object</type>
+          <declname>obj</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/110/android/src/mono/com/google/android/gms/common/api/internal/BackgroundDetector_BackgroundStateChangeListenerImplementor.java" line="36" column="13" bodyfile="Application Green Quake.Android/obj/Debug/110/android/src/mono/com/google/android/gms/common/api/internal/BackgroundDetector_BackgroundStateChangeListenerImplementor.java" bodystart="36" bodyend="41"/>
+      </memberdef>
+      <memberdef kind="function" id="classmono_1_1com_1_1google_1_1android_1_1gms_1_1common_1_1api_1_1internal_1_1_background_detecto64da446698e97cb6a400d9d5c4677c5c_1a386d7be0267da426b3dc80a6639eab62" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void mono.com.google.android.gms.common.api.internal.BackgroundDetector_BackgroundStateChangeListenerImplementor.monodroidClearReferences</definition>
+        <argsstring>()</argsstring>
+        <name>monodroidClearReferences</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/110/android/src/mono/com/google/android/gms/common/api/internal/BackgroundDetector_BackgroundStateChangeListenerImplementor.java" line="43" column="13" bodyfile="Application Green Quake.Android/obj/Debug/110/android/src/mono/com/google/android/gms/common/api/internal/BackgroundDetector_BackgroundStateChangeListenerImplementor.java" bodystart="43" bodyend="47"/>
+      </memberdef>
+      <memberdef kind="function" id="classmono_1_1com_1_1google_1_1android_1_1gms_1_1common_1_1api_1_1internal_1_1_background_detecto64da446698e97cb6a400d9d5c4677c5c_1a1db075ebbf842075e07c13d587ea5053" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>mono.com.google.android.gms.common.api.internal.BackgroundDetector_BackgroundStateChangeListenerImplementor.BackgroundDetector_BackgroundStateChangeListenerImplementor</definition>
+        <argsstring>()</argsstring>
+        <name>BackgroundDetector_BackgroundStateChangeListenerImplementor</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/100/android/src/mono/com/google/android/gms/common/api/internal/BackgroundDetector_BackgroundStateChangeListenerImplementor.java" line="20" column="8" bodyfile="Application Green Quake.Android/obj/Release/100/android/src/mono/com/google/android/gms/common/api/internal/BackgroundDetector_BackgroundStateChangeListenerImplementor.java" bodystart="20" bodyend="25"/>
+      </memberdef>
+      <memberdef kind="function" id="classmono_1_1com_1_1google_1_1android_1_1gms_1_1common_1_1api_1_1internal_1_1_background_detecto64da446698e97cb6a400d9d5c4677c5c_1a3f5a966e326bc04c19814c9841c69827" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void mono.com.google.android.gms.common.api.internal.BackgroundDetector_BackgroundStateChangeListenerImplementor.onBackgroundStateChanged</definition>
+        <argsstring>(boolean p0)</argsstring>
+        <name>onBackgroundStateChanged</name>
+        <param>
+          <type>boolean</type>
+          <declname>p0</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/100/android/src/mono/com/google/android/gms/common/api/internal/BackgroundDetector_BackgroundStateChangeListenerImplementor.java" line="28" column="13" bodyfile="Application Green Quake.Android/obj/Release/100/android/src/mono/com/google/android/gms/common/api/internal/BackgroundDetector_BackgroundStateChangeListenerImplementor.java" bodystart="28" bodyend="31"/>
+      </memberdef>
+      <memberdef kind="function" id="classmono_1_1com_1_1google_1_1android_1_1gms_1_1common_1_1api_1_1internal_1_1_background_detecto64da446698e97cb6a400d9d5c4677c5c_1a153c5057936f7e260e6170b33e2911d9" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void mono.com.google.android.gms.common.api.internal.BackgroundDetector_BackgroundStateChangeListenerImplementor.monodroidAddReference</definition>
+        <argsstring>(java.lang.Object obj)</argsstring>
+        <name>monodroidAddReference</name>
+        <param>
+          <type>java.lang.Object</type>
+          <declname>obj</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/100/android/src/mono/com/google/android/gms/common/api/internal/BackgroundDetector_BackgroundStateChangeListenerImplementor.java" line="36" column="13" bodyfile="Application Green Quake.Android/obj/Release/100/android/src/mono/com/google/android/gms/common/api/internal/BackgroundDetector_BackgroundStateChangeListenerImplementor.java" bodystart="36" bodyend="41"/>
+      </memberdef>
+      <memberdef kind="function" id="classmono_1_1com_1_1google_1_1android_1_1gms_1_1common_1_1api_1_1internal_1_1_background_detecto64da446698e97cb6a400d9d5c4677c5c_1a386d7be0267da426b3dc80a6639eab62" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void mono.com.google.android.gms.common.api.internal.BackgroundDetector_BackgroundStateChangeListenerImplementor.monodroidClearReferences</definition>
+        <argsstring>()</argsstring>
+        <name>monodroidClearReferences</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/100/android/src/mono/com/google/android/gms/common/api/internal/BackgroundDetector_BackgroundStateChangeListenerImplementor.java" line="43" column="13" bodyfile="Application Green Quake.Android/obj/Release/100/android/src/mono/com/google/android/gms/common/api/internal/BackgroundDetector_BackgroundStateChangeListenerImplementor.java" bodystart="43" bodyend="47"/>
+      </memberdef>
+      <memberdef kind="function" id="classmono_1_1com_1_1google_1_1android_1_1gms_1_1common_1_1api_1_1internal_1_1_background_detecto64da446698e97cb6a400d9d5c4677c5c_1a1db075ebbf842075e07c13d587ea5053" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>mono.com.google.android.gms.common.api.internal.BackgroundDetector_BackgroundStateChangeListenerImplementor.BackgroundDetector_BackgroundStateChangeListenerImplementor</definition>
+        <argsstring>()</argsstring>
+        <name>BackgroundDetector_BackgroundStateChangeListenerImplementor</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/110/android/src/mono/com/google/android/gms/common/api/internal/BackgroundDetector_BackgroundStateChangeListenerImplementor.java" line="20" column="8" bodyfile="Application Green Quake.Android/obj/Release/110/android/src/mono/com/google/android/gms/common/api/internal/BackgroundDetector_BackgroundStateChangeListenerImplementor.java" bodystart="20" bodyend="25"/>
+      </memberdef>
+      <memberdef kind="function" id="classmono_1_1com_1_1google_1_1android_1_1gms_1_1common_1_1api_1_1internal_1_1_background_detecto64da446698e97cb6a400d9d5c4677c5c_1a3f5a966e326bc04c19814c9841c69827" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void mono.com.google.android.gms.common.api.internal.BackgroundDetector_BackgroundStateChangeListenerImplementor.onBackgroundStateChanged</definition>
+        <argsstring>(boolean p0)</argsstring>
+        <name>onBackgroundStateChanged</name>
+        <param>
+          <type>boolean</type>
+          <declname>p0</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/110/android/src/mono/com/google/android/gms/common/api/internal/BackgroundDetector_BackgroundStateChangeListenerImplementor.java" line="28" column="13" bodyfile="Application Green Quake.Android/obj/Release/110/android/src/mono/com/google/android/gms/common/api/internal/BackgroundDetector_BackgroundStateChangeListenerImplementor.java" bodystart="28" bodyend="31"/>
+      </memberdef>
+      <memberdef kind="function" id="classmono_1_1com_1_1google_1_1android_1_1gms_1_1common_1_1api_1_1internal_1_1_background_detecto64da446698e97cb6a400d9d5c4677c5c_1a153c5057936f7e260e6170b33e2911d9" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void mono.com.google.android.gms.common.api.internal.BackgroundDetector_BackgroundStateChangeListenerImplementor.monodroidAddReference</definition>
+        <argsstring>(java.lang.Object obj)</argsstring>
+        <name>monodroidAddReference</name>
+        <param>
+          <type>java.lang.Object</type>
+          <declname>obj</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/110/android/src/mono/com/google/android/gms/common/api/internal/BackgroundDetector_BackgroundStateChangeListenerImplementor.java" line="36" column="13" bodyfile="Application Green Quake.Android/obj/Release/110/android/src/mono/com/google/android/gms/common/api/internal/BackgroundDetector_BackgroundStateChangeListenerImplementor.java" bodystart="36" bodyend="41"/>
+      </memberdef>
+      <memberdef kind="function" id="classmono_1_1com_1_1google_1_1android_1_1gms_1_1common_1_1api_1_1internal_1_1_background_detecto64da446698e97cb6a400d9d5c4677c5c_1a386d7be0267da426b3dc80a6639eab62" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void mono.com.google.android.gms.common.api.internal.BackgroundDetector_BackgroundStateChangeListenerImplementor.monodroidClearReferences</definition>
+        <argsstring>()</argsstring>
+        <name>monodroidClearReferences</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/110/android/src/mono/com/google/android/gms/common/api/internal/BackgroundDetector_BackgroundStateChangeListenerImplementor.java" line="43" column="13" bodyfile="Application Green Quake.Android/obj/Release/110/android/src/mono/com/google/android/gms/common/api/internal/BackgroundDetector_BackgroundStateChangeListenerImplementor.java" bodystart="43" bodyend="47"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="private-func">
+      <memberdef kind="function" id="classmono_1_1com_1_1google_1_1android_1_1gms_1_1common_1_1api_1_1internal_1_1_background_detecto64da446698e97cb6a400d9d5c4677c5c_1a047803cf119facfdff87c9bbd1051438" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>native void</type>
+        <definition>native void mono.com.google.android.gms.common.api.internal.BackgroundDetector_BackgroundStateChangeListenerImplementor.n_onBackgroundStateChanged</definition>
+        <argsstring>(boolean p0)</argsstring>
+        <name>n_onBackgroundStateChanged</name>
+        <param>
+          <type>boolean</type>
+          <declname>p0</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/100/android/src/mono/com/google/android/gms/common/api/internal/BackgroundDetector_BackgroundStateChangeListenerImplementor.java" line="33" column="21"/>
+      </memberdef>
+      <memberdef kind="function" id="classmono_1_1com_1_1google_1_1android_1_1gms_1_1common_1_1api_1_1internal_1_1_background_detecto64da446698e97cb6a400d9d5c4677c5c_1a047803cf119facfdff87c9bbd1051438" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>native void</type>
+        <definition>native void mono.com.google.android.gms.common.api.internal.BackgroundDetector_BackgroundStateChangeListenerImplementor.n_onBackgroundStateChanged</definition>
+        <argsstring>(boolean p0)</argsstring>
+        <name>n_onBackgroundStateChanged</name>
+        <param>
+          <type>boolean</type>
+          <declname>p0</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/110/android/src/mono/com/google/android/gms/common/api/internal/BackgroundDetector_BackgroundStateChangeListenerImplementor.java" line="33" column="21"/>
+      </memberdef>
+      <memberdef kind="function" id="classmono_1_1com_1_1google_1_1android_1_1gms_1_1common_1_1api_1_1internal_1_1_background_detecto64da446698e97cb6a400d9d5c4677c5c_1a047803cf119facfdff87c9bbd1051438" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>native void</type>
+        <definition>native void mono.com.google.android.gms.common.api.internal.BackgroundDetector_BackgroundStateChangeListenerImplementor.n_onBackgroundStateChanged</definition>
+        <argsstring>(boolean p0)</argsstring>
+        <name>n_onBackgroundStateChanged</name>
+        <param>
+          <type>boolean</type>
+          <declname>p0</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/100/android/src/mono/com/google/android/gms/common/api/internal/BackgroundDetector_BackgroundStateChangeListenerImplementor.java" line="33" column="21"/>
+      </memberdef>
+      <memberdef kind="function" id="classmono_1_1com_1_1google_1_1android_1_1gms_1_1common_1_1api_1_1internal_1_1_background_detecto64da446698e97cb6a400d9d5c4677c5c_1a047803cf119facfdff87c9bbd1051438" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>native void</type>
+        <definition>native void mono.com.google.android.gms.common.api.internal.BackgroundDetector_BackgroundStateChangeListenerImplementor.n_onBackgroundStateChanged</definition>
+        <argsstring>(boolean p0)</argsstring>
+        <name>n_onBackgroundStateChanged</name>
+        <param>
+          <type>boolean</type>
+          <declname>p0</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/110/android/src/mono/com/google/android/gms/common/api/internal/BackgroundDetector_BackgroundStateChangeListenerImplementor.java" line="33" column="21"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <inheritancegraph>
+      <node id="1">
+        <label>mono.com.google.android.gms.common.api.internal.BackgroundDetector_BackgroundStateChangeListenerImplementor</label>
+        <link refid="classmono_1_1com_1_1google_1_1android_1_1gms_1_1common_1_1api_1_1internal_1_1_background_detecto64da446698e97cb6a400d9d5c4677c5c"/>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+        <childnode refid="3" relation="public-inheritance">
+        </childnode>
+        <childnode refid="4" relation="public-inheritance">
+        </childnode>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+        <childnode refid="3" relation="public-inheritance">
+        </childnode>
+        <childnode refid="5" relation="public-inheritance">
+        </childnode>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+        <childnode refid="3" relation="public-inheritance">
+        </childnode>
+        <childnode refid="5" relation="public-inheritance">
+        </childnode>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+        <childnode refid="3" relation="public-inheritance">
+        </childnode>
+        <childnode refid="5" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="5">
+        <label>com.google.android.gms.common.api.internal.BackgroundDetector.BackgroundStateChangeListener</label>
+      </node>
+      <node id="4">
+        <label>com::google::android::gms::common::api::internal::BackgroundDetector::BackgroundStateChangeListener</label>
+      </node>
+      <node id="3">
+        <label>mono.android.IGCUserPeer</label>
+      </node>
+      <node id="2">
+        <label>java.lang.Object</label>
+      </node>
+    </inheritancegraph>
+    <collaborationgraph>
+      <node id="1">
+        <label>mono.com.google.android.gms.common.api.internal.BackgroundDetector_BackgroundStateChangeListenerImplementor</label>
+        <link refid="classmono_1_1com_1_1google_1_1android_1_1gms_1_1common_1_1api_1_1internal_1_1_background_detecto64da446698e97cb6a400d9d5c4677c5c"/>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+        <childnode refid="3" relation="public-inheritance">
+        </childnode>
+        <childnode refid="4" relation="public-inheritance">
+        </childnode>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+        <childnode refid="3" relation="public-inheritance">
+        </childnode>
+        <childnode refid="5" relation="public-inheritance">
+        </childnode>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+        <childnode refid="3" relation="public-inheritance">
+        </childnode>
+        <childnode refid="5" relation="public-inheritance">
+        </childnode>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+        <childnode refid="3" relation="public-inheritance">
+        </childnode>
+        <childnode refid="5" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="5">
+        <label>com.google.android.gms.common.api.internal.BackgroundDetector.BackgroundStateChangeListener</label>
+      </node>
+      <node id="4">
+        <label>com::google::android::gms::common::api::internal::BackgroundDetector::BackgroundStateChangeListener</label>
+      </node>
+      <node id="3">
+        <label>mono.android.IGCUserPeer</label>
+      </node>
+      <node id="2">
+        <label>java.lang.Object</label>
+      </node>
+    </collaborationgraph>
+    <location file="Application Green Quake.Android/obj/Debug/100/android/src/mono/com/google/android/gms/common/api/internal/BackgroundDetector_BackgroundStateChangeListenerImplementor.java" line="4" column="7" bodyfile="Application Green Quake.Android/obj/Debug/100/android/src/mono/com/google/android/gms/common/api/internal/BackgroundDetector_BackgroundStateChangeListenerImplementor.java" bodystart="9" bodyend="48"/>
+    <listofallmembers>
+      <member refid="classmono_1_1com_1_1google_1_1android_1_1gms_1_1common_1_1api_1_1internal_1_1_background_detecto64da446698e97cb6a400d9d5c4677c5c_1a02cadbc4b9b8d7b19764172b3a383b02" prot="package" virt="non-virtual"><scope>mono::com::google::android::gms::common::api::internal::BackgroundDetector_BackgroundStateChangeListenerImplementor</scope><name>[static initializer]</name></member>
+      <member refid="classmono_1_1com_1_1google_1_1android_1_1gms_1_1common_1_1api_1_1internal_1_1_background_detecto64da446698e97cb6a400d9d5c4677c5c_1a02cadbc4b9b8d7b19764172b3a383b02" prot="package" virt="non-virtual"><scope>mono::com::google::android::gms::common::api::internal::BackgroundDetector_BackgroundStateChangeListenerImplementor</scope><name>[static initializer]</name></member>
+      <member refid="classmono_1_1com_1_1google_1_1android_1_1gms_1_1common_1_1api_1_1internal_1_1_background_detecto64da446698e97cb6a400d9d5c4677c5c_1a02cadbc4b9b8d7b19764172b3a383b02" prot="package" virt="non-virtual"><scope>mono::com::google::android::gms::common::api::internal::BackgroundDetector_BackgroundStateChangeListenerImplementor</scope><name>[static initializer]</name></member>
+      <member refid="classmono_1_1com_1_1google_1_1android_1_1gms_1_1common_1_1api_1_1internal_1_1_background_detecto64da446698e97cb6a400d9d5c4677c5c_1a02cadbc4b9b8d7b19764172b3a383b02" prot="package" virt="non-virtual"><scope>mono::com::google::android::gms::common::api::internal::BackgroundDetector_BackgroundStateChangeListenerImplementor</scope><name>[static initializer]</name></member>
+      <member refid="classmono_1_1com_1_1google_1_1android_1_1gms_1_1common_1_1api_1_1internal_1_1_background_detecto64da446698e97cb6a400d9d5c4677c5c_1abf0eb65ac81401acae06f9d7d8c2a1bf" prot="public" virt="non-virtual"><scope>mono::com::google::android::gms::common::api::internal::BackgroundDetector_BackgroundStateChangeListenerImplementor</scope><name>__md_methods</name></member>
+      <member refid="classmono_1_1com_1_1google_1_1android_1_1gms_1_1common_1_1api_1_1internal_1_1_background_detecto64da446698e97cb6a400d9d5c4677c5c_1a1db075ebbf842075e07c13d587ea5053" prot="public" virt="non-virtual"><scope>mono::com::google::android::gms::common::api::internal::BackgroundDetector_BackgroundStateChangeListenerImplementor</scope><name>BackgroundDetector_BackgroundStateChangeListenerImplementor</name></member>
+      <member refid="classmono_1_1com_1_1google_1_1android_1_1gms_1_1common_1_1api_1_1internal_1_1_background_detecto64da446698e97cb6a400d9d5c4677c5c_1a1db075ebbf842075e07c13d587ea5053" prot="public" virt="non-virtual"><scope>mono::com::google::android::gms::common::api::internal::BackgroundDetector_BackgroundStateChangeListenerImplementor</scope><name>BackgroundDetector_BackgroundStateChangeListenerImplementor</name></member>
+      <member refid="classmono_1_1com_1_1google_1_1android_1_1gms_1_1common_1_1api_1_1internal_1_1_background_detecto64da446698e97cb6a400d9d5c4677c5c_1a1db075ebbf842075e07c13d587ea5053" prot="public" virt="non-virtual"><scope>mono::com::google::android::gms::common::api::internal::BackgroundDetector_BackgroundStateChangeListenerImplementor</scope><name>BackgroundDetector_BackgroundStateChangeListenerImplementor</name></member>
+      <member refid="classmono_1_1com_1_1google_1_1android_1_1gms_1_1common_1_1api_1_1internal_1_1_background_detecto64da446698e97cb6a400d9d5c4677c5c_1a1db075ebbf842075e07c13d587ea5053" prot="public" virt="non-virtual"><scope>mono::com::google::android::gms::common::api::internal::BackgroundDetector_BackgroundStateChangeListenerImplementor</scope><name>BackgroundDetector_BackgroundStateChangeListenerImplementor</name></member>
+      <member refid="classmono_1_1com_1_1google_1_1android_1_1gms_1_1common_1_1api_1_1internal_1_1_background_detecto64da446698e97cb6a400d9d5c4677c5c_1a153c5057936f7e260e6170b33e2911d9" prot="public" virt="non-virtual"><scope>mono::com::google::android::gms::common::api::internal::BackgroundDetector_BackgroundStateChangeListenerImplementor</scope><name>monodroidAddReference</name></member>
+      <member refid="classmono_1_1com_1_1google_1_1android_1_1gms_1_1common_1_1api_1_1internal_1_1_background_detecto64da446698e97cb6a400d9d5c4677c5c_1a153c5057936f7e260e6170b33e2911d9" prot="public" virt="non-virtual"><scope>mono::com::google::android::gms::common::api::internal::BackgroundDetector_BackgroundStateChangeListenerImplementor</scope><name>monodroidAddReference</name></member>
+      <member refid="classmono_1_1com_1_1google_1_1android_1_1gms_1_1common_1_1api_1_1internal_1_1_background_detecto64da446698e97cb6a400d9d5c4677c5c_1a153c5057936f7e260e6170b33e2911d9" prot="public" virt="non-virtual"><scope>mono::com::google::android::gms::common::api::internal::BackgroundDetector_BackgroundStateChangeListenerImplementor</scope><name>monodroidAddReference</name></member>
+      <member refid="classmono_1_1com_1_1google_1_1android_1_1gms_1_1common_1_1api_1_1internal_1_1_background_detecto64da446698e97cb6a400d9d5c4677c5c_1a153c5057936f7e260e6170b33e2911d9" prot="public" virt="non-virtual"><scope>mono::com::google::android::gms::common::api::internal::BackgroundDetector_BackgroundStateChangeListenerImplementor</scope><name>monodroidAddReference</name></member>
+      <member refid="classmono_1_1com_1_1google_1_1android_1_1gms_1_1common_1_1api_1_1internal_1_1_background_detecto64da446698e97cb6a400d9d5c4677c5c_1a386d7be0267da426b3dc80a6639eab62" prot="public" virt="non-virtual"><scope>mono::com::google::android::gms::common::api::internal::BackgroundDetector_BackgroundStateChangeListenerImplementor</scope><name>monodroidClearReferences</name></member>
+      <member refid="classmono_1_1com_1_1google_1_1android_1_1gms_1_1common_1_1api_1_1internal_1_1_background_detecto64da446698e97cb6a400d9d5c4677c5c_1a386d7be0267da426b3dc80a6639eab62" prot="public" virt="non-virtual"><scope>mono::com::google::android::gms::common::api::internal::BackgroundDetector_BackgroundStateChangeListenerImplementor</scope><name>monodroidClearReferences</name></member>
+      <member refid="classmono_1_1com_1_1google_1_1android_1_1gms_1_1common_1_1api_1_1internal_1_1_background_detecto64da446698e97cb6a400d9d5c4677c5c_1a386d7be0267da426b3dc80a6639eab62" prot="public" virt="non-virtual"><scope>mono::com::google::android::gms::common::api::internal::BackgroundDetector_BackgroundStateChangeListenerImplementor</scope><name>monodroidClearReferences</name></member>
+      <member refid="classmono_1_1com_1_1google_1_1android_1_1gms_1_1common_1_1api_1_1internal_1_1_background_detecto64da446698e97cb6a400d9d5c4677c5c_1a386d7be0267da426b3dc80a6639eab62" prot="public" virt="non-virtual"><scope>mono::com::google::android::gms::common::api::internal::BackgroundDetector_BackgroundStateChangeListenerImplementor</scope><name>monodroidClearReferences</name></member>
+      <member refid="classmono_1_1com_1_1google_1_1android_1_1gms_1_1common_1_1api_1_1internal_1_1_background_detecto64da446698e97cb6a400d9d5c4677c5c_1a047803cf119facfdff87c9bbd1051438" prot="private" virt="non-virtual"><scope>mono::com::google::android::gms::common::api::internal::BackgroundDetector_BackgroundStateChangeListenerImplementor</scope><name>n_onBackgroundStateChanged</name></member>
+      <member refid="classmono_1_1com_1_1google_1_1android_1_1gms_1_1common_1_1api_1_1internal_1_1_background_detecto64da446698e97cb6a400d9d5c4677c5c_1a047803cf119facfdff87c9bbd1051438" prot="private" virt="non-virtual"><scope>mono::com::google::android::gms::common::api::internal::BackgroundDetector_BackgroundStateChangeListenerImplementor</scope><name>n_onBackgroundStateChanged</name></member>
+      <member refid="classmono_1_1com_1_1google_1_1android_1_1gms_1_1common_1_1api_1_1internal_1_1_background_detecto64da446698e97cb6a400d9d5c4677c5c_1a047803cf119facfdff87c9bbd1051438" prot="private" virt="non-virtual"><scope>mono::com::google::android::gms::common::api::internal::BackgroundDetector_BackgroundStateChangeListenerImplementor</scope><name>n_onBackgroundStateChanged</name></member>
+      <member refid="classmono_1_1com_1_1google_1_1android_1_1gms_1_1common_1_1api_1_1internal_1_1_background_detecto64da446698e97cb6a400d9d5c4677c5c_1a047803cf119facfdff87c9bbd1051438" prot="private" virt="non-virtual"><scope>mono::com::google::android::gms::common::api::internal::BackgroundDetector_BackgroundStateChangeListenerImplementor</scope><name>n_onBackgroundStateChanged</name></member>
+      <member refid="classmono_1_1com_1_1google_1_1android_1_1gms_1_1common_1_1api_1_1internal_1_1_background_detecto64da446698e97cb6a400d9d5c4677c5c_1a3f5a966e326bc04c19814c9841c69827" prot="public" virt="non-virtual"><scope>mono::com::google::android::gms::common::api::internal::BackgroundDetector_BackgroundStateChangeListenerImplementor</scope><name>onBackgroundStateChanged</name></member>
+      <member refid="classmono_1_1com_1_1google_1_1android_1_1gms_1_1common_1_1api_1_1internal_1_1_background_detecto64da446698e97cb6a400d9d5c4677c5c_1a3f5a966e326bc04c19814c9841c69827" prot="public" virt="non-virtual"><scope>mono::com::google::android::gms::common::api::internal::BackgroundDetector_BackgroundStateChangeListenerImplementor</scope><name>onBackgroundStateChanged</name></member>
+      <member refid="classmono_1_1com_1_1google_1_1android_1_1gms_1_1common_1_1api_1_1internal_1_1_background_detecto64da446698e97cb6a400d9d5c4677c5c_1a3f5a966e326bc04c19814c9841c69827" prot="public" virt="non-virtual"><scope>mono::com::google::android::gms::common::api::internal::BackgroundDetector_BackgroundStateChangeListenerImplementor</scope><name>onBackgroundStateChanged</name></member>
+      <member refid="classmono_1_1com_1_1google_1_1android_1_1gms_1_1common_1_1api_1_1internal_1_1_background_detecto64da446698e97cb6a400d9d5c4677c5c_1a3f5a966e326bc04c19814c9841c69827" prot="public" virt="non-virtual"><scope>mono::com::google::android::gms::common::api::internal::BackgroundDetector_BackgroundStateChangeListenerImplementor</scope><name>onBackgroundStateChanged</name></member>
+      <member refid="classmono_1_1com_1_1google_1_1android_1_1gms_1_1common_1_1api_1_1internal_1_1_background_detecto64da446698e97cb6a400d9d5c4677c5c_1ac44fe46f279efdd7995df374aedfa2a5" prot="private" virt="non-virtual"><scope>mono::com::google::android::gms::common::api::internal::BackgroundDetector_BackgroundStateChangeListenerImplementor</scope><name>refList</name></member>
+    </listofallmembers>
+  </compounddef>
+</doxygen>

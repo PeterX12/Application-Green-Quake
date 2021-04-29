@@ -1,0 +1,846 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.9.1" xml:lang="en-US">
+  <compounddef id="classcrc64720bb2db43a66fe9_1_1_picker_renderer_base__1" kind="class" language="Java" prot="public" abstract="yes">
+    <compoundname>crc64720bb2db43a66fe9::PickerRendererBase_1</compoundname>
+    <basecompoundref refid="classcrc64720bb2db43a66fe9_1_1_view_renderer__2" prot="public" virt="non-virtual">crc64720bb2db43a66fe9.ViewRenderer_2</basecompoundref>
+    <basecompoundref prot="public" virt="non-virtual">mono.android.IGCUserPeer</basecompoundref>
+    <basecompoundref refid="classcrc64720bb2db43a66fe9_1_1_view_renderer__2" prot="public" virt="non-virtual">crc64720bb2db43a66fe9.ViewRenderer_2</basecompoundref>
+    <basecompoundref prot="public" virt="non-virtual">mono.android.IGCUserPeer</basecompoundref>
+    <basecompoundref refid="classcrc64720bb2db43a66fe9_1_1_view_renderer__2" prot="public" virt="non-virtual">crc64720bb2db43a66fe9.ViewRenderer_2</basecompoundref>
+    <basecompoundref prot="public" virt="non-virtual">mono.android.IGCUserPeer</basecompoundref>
+    <basecompoundref refid="classcrc64720bb2db43a66fe9_1_1_view_renderer__2" prot="public" virt="non-virtual">crc64720bb2db43a66fe9.ViewRenderer_2</basecompoundref>
+    <basecompoundref prot="public" virt="non-virtual">mono.android.IGCUserPeer</basecompoundref>
+    <derivedcompoundref refid="classcrc64720bb2db43a66fe9_1_1_picker_renderer" prot="public" virt="non-virtual">crc64720bb2db43a66fe9.PickerRenderer</derivedcompoundref>
+    <derivedcompoundref refid="classcrc64720bb2db43a66fe9_1_1_picker_renderer" prot="public" virt="non-virtual">crc64720bb2db43a66fe9.PickerRenderer</derivedcompoundref>
+    <derivedcompoundref refid="classcrc64720bb2db43a66fe9_1_1_picker_renderer" prot="public" virt="non-virtual">crc64720bb2db43a66fe9.PickerRenderer</derivedcompoundref>
+    <derivedcompoundref refid="classcrc64720bb2db43a66fe9_1_1_picker_renderer" prot="public" virt="non-virtual">crc64720bb2db43a66fe9.PickerRenderer</derivedcompoundref>
+      <sectiondef kind="public-static-attrib">
+      <memberdef kind="variable" id="classcrc64720bb2db43a66fe9_1_1_picker_renderer_base__1_1a3362dd56c1531ceb54aabe1a7097fc80" prot="public" static="yes" mutable="no">
+        <type>final String</type>
+        <definition>static final String crc64720bb2db43a66fe9.PickerRendererBase_1::__md_methods</definition>
+        <argsstring></argsstring>
+        <name>__md_methods</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+<para>@hide </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/100/android/src/crc64720bb2db43a66fe9/PickerRendererBase_1.java" line="10" column="28" bodyfile="Application Green Quake.Android/obj/Debug/100/android/src/crc64720bb2db43a66fe9/PickerRendererBase_1.java" bodystart="10" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="private-attrib">
+      <memberdef kind="variable" id="classcrc64720bb2db43a66fe9_1_1_picker_renderer_base__1_1a97032f5a9341dd50efb0203f8d5a8d31" prot="private" static="no" mutable="no">
+        <type>java.util.ArrayList</type>
+        <definition>java util ArrayList crc64720bb2db43a66fe9.PickerRendererBase_1::refList</definition>
+        <argsstring></argsstring>
+        <name>refList</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/100/android/src/crc64720bb2db43a66fe9/PickerRendererBase_1.java" line="41" column="27" bodyfile="Application Green Quake.Android/obj/Debug/100/android/src/crc64720bb2db43a66fe9/PickerRendererBase_1.java" bodystart="41" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="package-static-func">
+      <memberdef kind="function" id="classcrc64720bb2db43a66fe9_1_1_picker_renderer_base__1_1a8a556d78c6a22b98b2cda045bb6abf56" prot="package" static="yes" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>crc64720bb2db43a66fe9.PickerRendererBase_1.[static initializer]</definition>
+        <argsstring></argsstring>
+        <name>[static initializer]</name>
+        <reimplements refid="classcrc64720bb2db43a66fe9_1_1_view_renderer__2_1a5f0fbe13bde43be5eeb6ccf31aa935d8">[static initializer]</reimplements>
+        <reimplementedby refid="classcrc64720bb2db43a66fe9_1_1_picker_renderer_1a4b3998548a4338e6839ac3c7bc63e0df">[static initializer]</reimplementedby>
+        <reimplementedby refid="classcrc64720bb2db43a66fe9_1_1_picker_renderer_1a4b3998548a4338e6839ac3c7bc63e0df">[static initializer]</reimplementedby>
+        <reimplementedby refid="classcrc64720bb2db43a66fe9_1_1_picker_renderer_1a4b3998548a4338e6839ac3c7bc63e0df">[static initializer]</reimplementedby>
+        <reimplementedby refid="classcrc64720bb2db43a66fe9_1_1_picker_renderer_1a4b3998548a4338e6839ac3c7bc63e0df">[static initializer]</reimplementedby>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/100/android/src/crc64720bb2db43a66fe9/PickerRendererBase_1.java" line="10" column="28"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc64720bb2db43a66fe9_1_1_picker_renderer_base__1_1a8a556d78c6a22b98b2cda045bb6abf56" prot="package" static="yes" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>crc64720bb2db43a66fe9.PickerRendererBase_1.[static initializer]</definition>
+        <argsstring></argsstring>
+        <name>[static initializer]</name>
+        <reimplements refid="classcrc64720bb2db43a66fe9_1_1_view_renderer__2_1a5f0fbe13bde43be5eeb6ccf31aa935d8">[static initializer]</reimplements>
+        <reimplementedby refid="classcrc64720bb2db43a66fe9_1_1_picker_renderer_1a4b3998548a4338e6839ac3c7bc63e0df">[static initializer]</reimplementedby>
+        <reimplementedby refid="classcrc64720bb2db43a66fe9_1_1_picker_renderer_1a4b3998548a4338e6839ac3c7bc63e0df">[static initializer]</reimplementedby>
+        <reimplementedby refid="classcrc64720bb2db43a66fe9_1_1_picker_renderer_1a4b3998548a4338e6839ac3c7bc63e0df">[static initializer]</reimplementedby>
+        <reimplementedby refid="classcrc64720bb2db43a66fe9_1_1_picker_renderer_1a4b3998548a4338e6839ac3c7bc63e0df">[static initializer]</reimplementedby>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/110/android/src/crc64720bb2db43a66fe9/PickerRendererBase_1.java" line="10" column="28"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc64720bb2db43a66fe9_1_1_picker_renderer_base__1_1a8a556d78c6a22b98b2cda045bb6abf56" prot="package" static="yes" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>crc64720bb2db43a66fe9.PickerRendererBase_1.[static initializer]</definition>
+        <argsstring></argsstring>
+        <name>[static initializer]</name>
+        <reimplements refid="classcrc64720bb2db43a66fe9_1_1_view_renderer__2_1a5f0fbe13bde43be5eeb6ccf31aa935d8">[static initializer]</reimplements>
+        <reimplementedby refid="classcrc64720bb2db43a66fe9_1_1_picker_renderer_1a4b3998548a4338e6839ac3c7bc63e0df">[static initializer]</reimplementedby>
+        <reimplementedby refid="classcrc64720bb2db43a66fe9_1_1_picker_renderer_1a4b3998548a4338e6839ac3c7bc63e0df">[static initializer]</reimplementedby>
+        <reimplementedby refid="classcrc64720bb2db43a66fe9_1_1_picker_renderer_1a4b3998548a4338e6839ac3c7bc63e0df">[static initializer]</reimplementedby>
+        <reimplementedby refid="classcrc64720bb2db43a66fe9_1_1_picker_renderer_1a4b3998548a4338e6839ac3c7bc63e0df">[static initializer]</reimplementedby>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/100/android/src/crc64720bb2db43a66fe9/PickerRendererBase_1.java" line="10" column="28"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc64720bb2db43a66fe9_1_1_picker_renderer_base__1_1a8a556d78c6a22b98b2cda045bb6abf56" prot="package" static="yes" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>crc64720bb2db43a66fe9.PickerRendererBase_1.[static initializer]</definition>
+        <argsstring></argsstring>
+        <name>[static initializer]</name>
+        <reimplements refid="classcrc64720bb2db43a66fe9_1_1_view_renderer__2_1a5f0fbe13bde43be5eeb6ccf31aa935d8">[static initializer]</reimplements>
+        <reimplementedby refid="classcrc64720bb2db43a66fe9_1_1_picker_renderer_1a4b3998548a4338e6839ac3c7bc63e0df">[static initializer]</reimplementedby>
+        <reimplementedby refid="classcrc64720bb2db43a66fe9_1_1_picker_renderer_1a4b3998548a4338e6839ac3c7bc63e0df">[static initializer]</reimplementedby>
+        <reimplementedby refid="classcrc64720bb2db43a66fe9_1_1_picker_renderer_1a4b3998548a4338e6839ac3c7bc63e0df">[static initializer]</reimplementedby>
+        <reimplementedby refid="classcrc64720bb2db43a66fe9_1_1_picker_renderer_1a4b3998548a4338e6839ac3c7bc63e0df">[static initializer]</reimplementedby>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/110/android/src/crc64720bb2db43a66fe9/PickerRendererBase_1.java" line="10" column="28"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="public-func">
+      <memberdef kind="function" id="classcrc64720bb2db43a66fe9_1_1_picker_renderer_base__1_1a472f856a581850b6c536fa5311d0cfe2" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>crc64720bb2db43a66fe9.PickerRendererBase_1.PickerRendererBase_1</definition>
+        <argsstring>(android.content.Context p0, android.util.AttributeSet p1, int p2)</argsstring>
+        <name>PickerRendererBase_1</name>
+        <param>
+          <type>android.content.Context</type>
+          <declname>p0</declname>
+        </param>
+        <param>
+          <type>android.util.AttributeSet</type>
+          <declname>p1</declname>
+        </param>
+        <param>
+          <type>int</type>
+          <declname>p2</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/100/android/src/crc64720bb2db43a66fe9/PickerRendererBase_1.java" line="18" column="8" bodyfile="Application Green Quake.Android/obj/Debug/100/android/src/crc64720bb2db43a66fe9/PickerRendererBase_1.java" bodystart="18" bodyend="23"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc64720bb2db43a66fe9_1_1_picker_renderer_base__1_1a6554dcf3bfa1ae1a5f636be1745e9e51" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>crc64720bb2db43a66fe9.PickerRendererBase_1.PickerRendererBase_1</definition>
+        <argsstring>(android.content.Context p0, android.util.AttributeSet p1)</argsstring>
+        <name>PickerRendererBase_1</name>
+        <param>
+          <type>android.content.Context</type>
+          <declname>p0</declname>
+        </param>
+        <param>
+          <type>android.util.AttributeSet</type>
+          <declname>p1</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/100/android/src/crc64720bb2db43a66fe9/PickerRendererBase_1.java" line="26" column="8" bodyfile="Application Green Quake.Android/obj/Debug/100/android/src/crc64720bb2db43a66fe9/PickerRendererBase_1.java" bodystart="26" bodyend="31"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc64720bb2db43a66fe9_1_1_picker_renderer_base__1_1a96bba8eae78f82dfa351033180976cfc" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>crc64720bb2db43a66fe9.PickerRendererBase_1.PickerRendererBase_1</definition>
+        <argsstring>(android.content.Context p0)</argsstring>
+        <name>PickerRendererBase_1</name>
+        <param>
+          <type>android.content.Context</type>
+          <declname>p0</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/100/android/src/crc64720bb2db43a66fe9/PickerRendererBase_1.java" line="34" column="8" bodyfile="Application Green Quake.Android/obj/Debug/100/android/src/crc64720bb2db43a66fe9/PickerRendererBase_1.java" bodystart="34" bodyend="39"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc64720bb2db43a66fe9_1_1_picker_renderer_base__1_1a8a678720af74d237b9696b7a18378e90" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void crc64720bb2db43a66fe9.PickerRendererBase_1.monodroidAddReference</definition>
+        <argsstring>(java.lang.Object obj)</argsstring>
+        <name>monodroidAddReference</name>
+        <reimplements refid="classcrc64720bb2db43a66fe9_1_1_view_renderer__2_1a39cc74f26fce43b835aa1301ac828dc0">monodroidAddReference</reimplements>
+        <reimplementedby refid="classcrc64720bb2db43a66fe9_1_1_picker_renderer_1a11224c81586554b2364fbd093507dd1b">monodroidAddReference</reimplementedby>
+        <reimplementedby refid="classcrc64720bb2db43a66fe9_1_1_picker_renderer_1a11224c81586554b2364fbd093507dd1b">monodroidAddReference</reimplementedby>
+        <reimplementedby refid="classcrc64720bb2db43a66fe9_1_1_picker_renderer_1a11224c81586554b2364fbd093507dd1b">monodroidAddReference</reimplementedby>
+        <reimplementedby refid="classcrc64720bb2db43a66fe9_1_1_picker_renderer_1a11224c81586554b2364fbd093507dd1b">monodroidAddReference</reimplementedby>
+        <param>
+          <type>java.lang.Object</type>
+          <declname>obj</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/100/android/src/crc64720bb2db43a66fe9/PickerRendererBase_1.java" line="42" column="13" bodyfile="Application Green Quake.Android/obj/Debug/100/android/src/crc64720bb2db43a66fe9/PickerRendererBase_1.java" bodystart="42" bodyend="47"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc64720bb2db43a66fe9_1_1_picker_renderer_base__1_1a0b87deeaf76a5d07ff89e643829d18ee" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void crc64720bb2db43a66fe9.PickerRendererBase_1.monodroidClearReferences</definition>
+        <argsstring>()</argsstring>
+        <name>monodroidClearReferences</name>
+        <reimplements refid="classcrc64720bb2db43a66fe9_1_1_view_renderer__2_1a24d066faa636faa75c999abaf2f9c7ca">monodroidClearReferences</reimplements>
+        <reimplementedby refid="classcrc64720bb2db43a66fe9_1_1_picker_renderer_1aa20b7240b52c81b3ef234bf7c445b557">monodroidClearReferences</reimplementedby>
+        <reimplementedby refid="classcrc64720bb2db43a66fe9_1_1_picker_renderer_1aa20b7240b52c81b3ef234bf7c445b557">monodroidClearReferences</reimplementedby>
+        <reimplementedby refid="classcrc64720bb2db43a66fe9_1_1_picker_renderer_1aa20b7240b52c81b3ef234bf7c445b557">monodroidClearReferences</reimplementedby>
+        <reimplementedby refid="classcrc64720bb2db43a66fe9_1_1_picker_renderer_1aa20b7240b52c81b3ef234bf7c445b557">monodroidClearReferences</reimplementedby>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/100/android/src/crc64720bb2db43a66fe9/PickerRendererBase_1.java" line="49" column="13" bodyfile="Application Green Quake.Android/obj/Debug/100/android/src/crc64720bb2db43a66fe9/PickerRendererBase_1.java" bodystart="49" bodyend="53"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc64720bb2db43a66fe9_1_1_picker_renderer_base__1_1a472f856a581850b6c536fa5311d0cfe2" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>crc64720bb2db43a66fe9.PickerRendererBase_1.PickerRendererBase_1</definition>
+        <argsstring>(android.content.Context p0, android.util.AttributeSet p1, int p2)</argsstring>
+        <name>PickerRendererBase_1</name>
+        <param>
+          <type>android.content.Context</type>
+          <declname>p0</declname>
+        </param>
+        <param>
+          <type>android.util.AttributeSet</type>
+          <declname>p1</declname>
+        </param>
+        <param>
+          <type>int</type>
+          <declname>p2</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/110/android/src/crc64720bb2db43a66fe9/PickerRendererBase_1.java" line="18" column="8" bodyfile="Application Green Quake.Android/obj/Debug/110/android/src/crc64720bb2db43a66fe9/PickerRendererBase_1.java" bodystart="18" bodyend="23"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc64720bb2db43a66fe9_1_1_picker_renderer_base__1_1a6554dcf3bfa1ae1a5f636be1745e9e51" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>crc64720bb2db43a66fe9.PickerRendererBase_1.PickerRendererBase_1</definition>
+        <argsstring>(android.content.Context p0, android.util.AttributeSet p1)</argsstring>
+        <name>PickerRendererBase_1</name>
+        <param>
+          <type>android.content.Context</type>
+          <declname>p0</declname>
+        </param>
+        <param>
+          <type>android.util.AttributeSet</type>
+          <declname>p1</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/110/android/src/crc64720bb2db43a66fe9/PickerRendererBase_1.java" line="26" column="8" bodyfile="Application Green Quake.Android/obj/Debug/110/android/src/crc64720bb2db43a66fe9/PickerRendererBase_1.java" bodystart="26" bodyend="31"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc64720bb2db43a66fe9_1_1_picker_renderer_base__1_1a96bba8eae78f82dfa351033180976cfc" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>crc64720bb2db43a66fe9.PickerRendererBase_1.PickerRendererBase_1</definition>
+        <argsstring>(android.content.Context p0)</argsstring>
+        <name>PickerRendererBase_1</name>
+        <param>
+          <type>android.content.Context</type>
+          <declname>p0</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/110/android/src/crc64720bb2db43a66fe9/PickerRendererBase_1.java" line="34" column="8" bodyfile="Application Green Quake.Android/obj/Debug/110/android/src/crc64720bb2db43a66fe9/PickerRendererBase_1.java" bodystart="34" bodyend="39"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc64720bb2db43a66fe9_1_1_picker_renderer_base__1_1a8a678720af74d237b9696b7a18378e90" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void crc64720bb2db43a66fe9.PickerRendererBase_1.monodroidAddReference</definition>
+        <argsstring>(java.lang.Object obj)</argsstring>
+        <name>monodroidAddReference</name>
+        <reimplements refid="classcrc64720bb2db43a66fe9_1_1_view_renderer__2_1a39cc74f26fce43b835aa1301ac828dc0">monodroidAddReference</reimplements>
+        <reimplementedby refid="classcrc64720bb2db43a66fe9_1_1_picker_renderer_1a11224c81586554b2364fbd093507dd1b">monodroidAddReference</reimplementedby>
+        <reimplementedby refid="classcrc64720bb2db43a66fe9_1_1_picker_renderer_1a11224c81586554b2364fbd093507dd1b">monodroidAddReference</reimplementedby>
+        <reimplementedby refid="classcrc64720bb2db43a66fe9_1_1_picker_renderer_1a11224c81586554b2364fbd093507dd1b">monodroidAddReference</reimplementedby>
+        <reimplementedby refid="classcrc64720bb2db43a66fe9_1_1_picker_renderer_1a11224c81586554b2364fbd093507dd1b">monodroidAddReference</reimplementedby>
+        <param>
+          <type>java.lang.Object</type>
+          <declname>obj</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/110/android/src/crc64720bb2db43a66fe9/PickerRendererBase_1.java" line="42" column="13" bodyfile="Application Green Quake.Android/obj/Debug/110/android/src/crc64720bb2db43a66fe9/PickerRendererBase_1.java" bodystart="42" bodyend="47"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc64720bb2db43a66fe9_1_1_picker_renderer_base__1_1a0b87deeaf76a5d07ff89e643829d18ee" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void crc64720bb2db43a66fe9.PickerRendererBase_1.monodroidClearReferences</definition>
+        <argsstring>()</argsstring>
+        <name>monodroidClearReferences</name>
+        <reimplements refid="classcrc64720bb2db43a66fe9_1_1_view_renderer__2_1a24d066faa636faa75c999abaf2f9c7ca">monodroidClearReferences</reimplements>
+        <reimplementedby refid="classcrc64720bb2db43a66fe9_1_1_picker_renderer_1aa20b7240b52c81b3ef234bf7c445b557">monodroidClearReferences</reimplementedby>
+        <reimplementedby refid="classcrc64720bb2db43a66fe9_1_1_picker_renderer_1aa20b7240b52c81b3ef234bf7c445b557">monodroidClearReferences</reimplementedby>
+        <reimplementedby refid="classcrc64720bb2db43a66fe9_1_1_picker_renderer_1aa20b7240b52c81b3ef234bf7c445b557">monodroidClearReferences</reimplementedby>
+        <reimplementedby refid="classcrc64720bb2db43a66fe9_1_1_picker_renderer_1aa20b7240b52c81b3ef234bf7c445b557">monodroidClearReferences</reimplementedby>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/110/android/src/crc64720bb2db43a66fe9/PickerRendererBase_1.java" line="49" column="13" bodyfile="Application Green Quake.Android/obj/Debug/110/android/src/crc64720bb2db43a66fe9/PickerRendererBase_1.java" bodystart="49" bodyend="53"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc64720bb2db43a66fe9_1_1_picker_renderer_base__1_1a472f856a581850b6c536fa5311d0cfe2" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>crc64720bb2db43a66fe9.PickerRendererBase_1.PickerRendererBase_1</definition>
+        <argsstring>(android.content.Context p0, android.util.AttributeSet p1, int p2)</argsstring>
+        <name>PickerRendererBase_1</name>
+        <param>
+          <type>android.content.Context</type>
+          <declname>p0</declname>
+        </param>
+        <param>
+          <type>android.util.AttributeSet</type>
+          <declname>p1</declname>
+        </param>
+        <param>
+          <type>int</type>
+          <declname>p2</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/100/android/src/crc64720bb2db43a66fe9/PickerRendererBase_1.java" line="18" column="8" bodyfile="Application Green Quake.Android/obj/Release/100/android/src/crc64720bb2db43a66fe9/PickerRendererBase_1.java" bodystart="18" bodyend="23"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc64720bb2db43a66fe9_1_1_picker_renderer_base__1_1a6554dcf3bfa1ae1a5f636be1745e9e51" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>crc64720bb2db43a66fe9.PickerRendererBase_1.PickerRendererBase_1</definition>
+        <argsstring>(android.content.Context p0, android.util.AttributeSet p1)</argsstring>
+        <name>PickerRendererBase_1</name>
+        <param>
+          <type>android.content.Context</type>
+          <declname>p0</declname>
+        </param>
+        <param>
+          <type>android.util.AttributeSet</type>
+          <declname>p1</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/100/android/src/crc64720bb2db43a66fe9/PickerRendererBase_1.java" line="26" column="8" bodyfile="Application Green Quake.Android/obj/Release/100/android/src/crc64720bb2db43a66fe9/PickerRendererBase_1.java" bodystart="26" bodyend="31"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc64720bb2db43a66fe9_1_1_picker_renderer_base__1_1a96bba8eae78f82dfa351033180976cfc" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>crc64720bb2db43a66fe9.PickerRendererBase_1.PickerRendererBase_1</definition>
+        <argsstring>(android.content.Context p0)</argsstring>
+        <name>PickerRendererBase_1</name>
+        <param>
+          <type>android.content.Context</type>
+          <declname>p0</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/100/android/src/crc64720bb2db43a66fe9/PickerRendererBase_1.java" line="34" column="8" bodyfile="Application Green Quake.Android/obj/Release/100/android/src/crc64720bb2db43a66fe9/PickerRendererBase_1.java" bodystart="34" bodyend="39"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc64720bb2db43a66fe9_1_1_picker_renderer_base__1_1a8a678720af74d237b9696b7a18378e90" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void crc64720bb2db43a66fe9.PickerRendererBase_1.monodroidAddReference</definition>
+        <argsstring>(java.lang.Object obj)</argsstring>
+        <name>monodroidAddReference</name>
+        <reimplements refid="classcrc64720bb2db43a66fe9_1_1_view_renderer__2_1a39cc74f26fce43b835aa1301ac828dc0">monodroidAddReference</reimplements>
+        <reimplementedby refid="classcrc64720bb2db43a66fe9_1_1_picker_renderer_1a11224c81586554b2364fbd093507dd1b">monodroidAddReference</reimplementedby>
+        <reimplementedby refid="classcrc64720bb2db43a66fe9_1_1_picker_renderer_1a11224c81586554b2364fbd093507dd1b">monodroidAddReference</reimplementedby>
+        <reimplementedby refid="classcrc64720bb2db43a66fe9_1_1_picker_renderer_1a11224c81586554b2364fbd093507dd1b">monodroidAddReference</reimplementedby>
+        <reimplementedby refid="classcrc64720bb2db43a66fe9_1_1_picker_renderer_1a11224c81586554b2364fbd093507dd1b">monodroidAddReference</reimplementedby>
+        <param>
+          <type>java.lang.Object</type>
+          <declname>obj</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/100/android/src/crc64720bb2db43a66fe9/PickerRendererBase_1.java" line="42" column="13" bodyfile="Application Green Quake.Android/obj/Release/100/android/src/crc64720bb2db43a66fe9/PickerRendererBase_1.java" bodystart="42" bodyend="47"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc64720bb2db43a66fe9_1_1_picker_renderer_base__1_1a0b87deeaf76a5d07ff89e643829d18ee" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void crc64720bb2db43a66fe9.PickerRendererBase_1.monodroidClearReferences</definition>
+        <argsstring>()</argsstring>
+        <name>monodroidClearReferences</name>
+        <reimplements refid="classcrc64720bb2db43a66fe9_1_1_view_renderer__2_1a24d066faa636faa75c999abaf2f9c7ca">monodroidClearReferences</reimplements>
+        <reimplementedby refid="classcrc64720bb2db43a66fe9_1_1_picker_renderer_1aa20b7240b52c81b3ef234bf7c445b557">monodroidClearReferences</reimplementedby>
+        <reimplementedby refid="classcrc64720bb2db43a66fe9_1_1_picker_renderer_1aa20b7240b52c81b3ef234bf7c445b557">monodroidClearReferences</reimplementedby>
+        <reimplementedby refid="classcrc64720bb2db43a66fe9_1_1_picker_renderer_1aa20b7240b52c81b3ef234bf7c445b557">monodroidClearReferences</reimplementedby>
+        <reimplementedby refid="classcrc64720bb2db43a66fe9_1_1_picker_renderer_1aa20b7240b52c81b3ef234bf7c445b557">monodroidClearReferences</reimplementedby>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/100/android/src/crc64720bb2db43a66fe9/PickerRendererBase_1.java" line="49" column="13" bodyfile="Application Green Quake.Android/obj/Release/100/android/src/crc64720bb2db43a66fe9/PickerRendererBase_1.java" bodystart="49" bodyend="53"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc64720bb2db43a66fe9_1_1_picker_renderer_base__1_1a472f856a581850b6c536fa5311d0cfe2" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>crc64720bb2db43a66fe9.PickerRendererBase_1.PickerRendererBase_1</definition>
+        <argsstring>(android.content.Context p0, android.util.AttributeSet p1, int p2)</argsstring>
+        <name>PickerRendererBase_1</name>
+        <param>
+          <type>android.content.Context</type>
+          <declname>p0</declname>
+        </param>
+        <param>
+          <type>android.util.AttributeSet</type>
+          <declname>p1</declname>
+        </param>
+        <param>
+          <type>int</type>
+          <declname>p2</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/110/android/src/crc64720bb2db43a66fe9/PickerRendererBase_1.java" line="18" column="8" bodyfile="Application Green Quake.Android/obj/Release/110/android/src/crc64720bb2db43a66fe9/PickerRendererBase_1.java" bodystart="18" bodyend="23"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc64720bb2db43a66fe9_1_1_picker_renderer_base__1_1a6554dcf3bfa1ae1a5f636be1745e9e51" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>crc64720bb2db43a66fe9.PickerRendererBase_1.PickerRendererBase_1</definition>
+        <argsstring>(android.content.Context p0, android.util.AttributeSet p1)</argsstring>
+        <name>PickerRendererBase_1</name>
+        <param>
+          <type>android.content.Context</type>
+          <declname>p0</declname>
+        </param>
+        <param>
+          <type>android.util.AttributeSet</type>
+          <declname>p1</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/110/android/src/crc64720bb2db43a66fe9/PickerRendererBase_1.java" line="26" column="8" bodyfile="Application Green Quake.Android/obj/Release/110/android/src/crc64720bb2db43a66fe9/PickerRendererBase_1.java" bodystart="26" bodyend="31"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc64720bb2db43a66fe9_1_1_picker_renderer_base__1_1a96bba8eae78f82dfa351033180976cfc" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>crc64720bb2db43a66fe9.PickerRendererBase_1.PickerRendererBase_1</definition>
+        <argsstring>(android.content.Context p0)</argsstring>
+        <name>PickerRendererBase_1</name>
+        <param>
+          <type>android.content.Context</type>
+          <declname>p0</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/110/android/src/crc64720bb2db43a66fe9/PickerRendererBase_1.java" line="34" column="8" bodyfile="Application Green Quake.Android/obj/Release/110/android/src/crc64720bb2db43a66fe9/PickerRendererBase_1.java" bodystart="34" bodyend="39"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc64720bb2db43a66fe9_1_1_picker_renderer_base__1_1a8a678720af74d237b9696b7a18378e90" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void crc64720bb2db43a66fe9.PickerRendererBase_1.monodroidAddReference</definition>
+        <argsstring>(java.lang.Object obj)</argsstring>
+        <name>monodroidAddReference</name>
+        <reimplements refid="classcrc64720bb2db43a66fe9_1_1_view_renderer__2_1a39cc74f26fce43b835aa1301ac828dc0">monodroidAddReference</reimplements>
+        <reimplementedby refid="classcrc64720bb2db43a66fe9_1_1_picker_renderer_1a11224c81586554b2364fbd093507dd1b">monodroidAddReference</reimplementedby>
+        <reimplementedby refid="classcrc64720bb2db43a66fe9_1_1_picker_renderer_1a11224c81586554b2364fbd093507dd1b">monodroidAddReference</reimplementedby>
+        <reimplementedby refid="classcrc64720bb2db43a66fe9_1_1_picker_renderer_1a11224c81586554b2364fbd093507dd1b">monodroidAddReference</reimplementedby>
+        <reimplementedby refid="classcrc64720bb2db43a66fe9_1_1_picker_renderer_1a11224c81586554b2364fbd093507dd1b">monodroidAddReference</reimplementedby>
+        <param>
+          <type>java.lang.Object</type>
+          <declname>obj</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/110/android/src/crc64720bb2db43a66fe9/PickerRendererBase_1.java" line="42" column="13" bodyfile="Application Green Quake.Android/obj/Release/110/android/src/crc64720bb2db43a66fe9/PickerRendererBase_1.java" bodystart="42" bodyend="47"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc64720bb2db43a66fe9_1_1_picker_renderer_base__1_1a0b87deeaf76a5d07ff89e643829d18ee" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void crc64720bb2db43a66fe9.PickerRendererBase_1.monodroidClearReferences</definition>
+        <argsstring>()</argsstring>
+        <name>monodroidClearReferences</name>
+        <reimplements refid="classcrc64720bb2db43a66fe9_1_1_view_renderer__2_1a24d066faa636faa75c999abaf2f9c7ca">monodroidClearReferences</reimplements>
+        <reimplementedby refid="classcrc64720bb2db43a66fe9_1_1_picker_renderer_1aa20b7240b52c81b3ef234bf7c445b557">monodroidClearReferences</reimplementedby>
+        <reimplementedby refid="classcrc64720bb2db43a66fe9_1_1_picker_renderer_1aa20b7240b52c81b3ef234bf7c445b557">monodroidClearReferences</reimplementedby>
+        <reimplementedby refid="classcrc64720bb2db43a66fe9_1_1_picker_renderer_1aa20b7240b52c81b3ef234bf7c445b557">monodroidClearReferences</reimplementedby>
+        <reimplementedby refid="classcrc64720bb2db43a66fe9_1_1_picker_renderer_1aa20b7240b52c81b3ef234bf7c445b557">monodroidClearReferences</reimplementedby>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/110/android/src/crc64720bb2db43a66fe9/PickerRendererBase_1.java" line="49" column="13" bodyfile="Application Green Quake.Android/obj/Release/110/android/src/crc64720bb2db43a66fe9/PickerRendererBase_1.java" bodystart="49" bodyend="53"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <inheritancegraph>
+      <node id="2">
+        <label>crc64720bb2db43a66fe9.ViewRenderer_2</label>
+        <link refid="classcrc64720bb2db43a66fe9_1_1_view_renderer__2"/>
+        <childnode refid="3" relation="public-inheritance">
+        </childnode>
+        <childnode refid="6" relation="public-inheritance">
+        </childnode>
+        <childnode refid="3" relation="public-inheritance">
+        </childnode>
+        <childnode refid="6" relation="public-inheritance">
+        </childnode>
+        <childnode refid="3" relation="public-inheritance">
+        </childnode>
+        <childnode refid="6" relation="public-inheritance">
+        </childnode>
+        <childnode refid="3" relation="public-inheritance">
+        </childnode>
+        <childnode refid="6" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="7">
+        <label>com.xamarin.forms.platform.android.FormsViewGroup</label>
+      </node>
+      <node id="9">
+        <label>crc64720bb2db43a66fe9.PickerRenderer</label>
+        <link refid="classcrc64720bb2db43a66fe9_1_1_picker_renderer"/>
+        <childnode refid="1" relation="public-inheritance">
+        </childnode>
+        <childnode refid="1" relation="public-inheritance">
+        </childnode>
+        <childnode refid="1" relation="public-inheritance">
+        </childnode>
+        <childnode refid="1" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="1">
+        <label>crc64720bb2db43a66fe9.PickerRendererBase_1</label>
+        <link refid="classcrc64720bb2db43a66fe9_1_1_picker_renderer_base__1"/>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+        <childnode refid="6" relation="public-inheritance">
+        </childnode>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+        <childnode refid="6" relation="public-inheritance">
+        </childnode>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+        <childnode refid="6" relation="public-inheritance">
+        </childnode>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+        <childnode refid="6" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="3">
+        <label>crc643f46942d9dd1fff9.ViewRenderer_2</label>
+        <link refid="classcrc643f46942d9dd1fff9_1_1_view_renderer__2"/>
+        <childnode refid="4" relation="public-inheritance">
+        </childnode>
+        <childnode refid="6" relation="public-inheritance">
+        </childnode>
+        <childnode refid="8" relation="public-inheritance">
+        </childnode>
+        <childnode refid="4" relation="public-inheritance">
+        </childnode>
+        <childnode refid="6" relation="public-inheritance">
+        </childnode>
+        <childnode refid="8" relation="public-inheritance">
+        </childnode>
+        <childnode refid="4" relation="public-inheritance">
+        </childnode>
+        <childnode refid="6" relation="public-inheritance">
+        </childnode>
+        <childnode refid="8" relation="public-inheritance">
+        </childnode>
+        <childnode refid="4" relation="public-inheritance">
+        </childnode>
+        <childnode refid="6" relation="public-inheritance">
+        </childnode>
+        <childnode refid="8" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="5">
+        <label>com::xamarin::forms::platform::android::FormsViewGroup</label>
+      </node>
+      <node id="6">
+        <label>mono.android.IGCUserPeer</label>
+      </node>
+      <node id="4">
+        <label>crc643f46942d9dd1fff9.VisualElementRenderer_1</label>
+        <link refid="classcrc643f46942d9dd1fff9_1_1_visual_element_renderer__1"/>
+        <childnode refid="5" relation="public-inheritance">
+        </childnode>
+        <childnode refid="6" relation="public-inheritance">
+        </childnode>
+        <childnode refid="7" relation="public-inheritance">
+        </childnode>
+        <childnode refid="6" relation="public-inheritance">
+        </childnode>
+        <childnode refid="7" relation="public-inheritance">
+        </childnode>
+        <childnode refid="6" relation="public-inheritance">
+        </childnode>
+        <childnode refid="7" relation="public-inheritance">
+        </childnode>
+        <childnode refid="6" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="8">
+        <label>android.view.View.OnFocusChangeListener</label>
+      </node>
+    </inheritancegraph>
+    <collaborationgraph>
+      <node id="2">
+        <label>crc64720bb2db43a66fe9.ViewRenderer_2</label>
+        <link refid="classcrc64720bb2db43a66fe9_1_1_view_renderer__2"/>
+        <childnode refid="3" relation="public-inheritance">
+        </childnode>
+        <childnode refid="6" relation="public-inheritance">
+        </childnode>
+        <childnode refid="3" relation="public-inheritance">
+        </childnode>
+        <childnode refid="6" relation="public-inheritance">
+        </childnode>
+        <childnode refid="3" relation="public-inheritance">
+        </childnode>
+        <childnode refid="6" relation="public-inheritance">
+        </childnode>
+        <childnode refid="3" relation="public-inheritance">
+        </childnode>
+        <childnode refid="6" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="7">
+        <label>com.xamarin.forms.platform.android.FormsViewGroup</label>
+      </node>
+      <node id="1">
+        <label>crc64720bb2db43a66fe9.PickerRendererBase_1</label>
+        <link refid="classcrc64720bb2db43a66fe9_1_1_picker_renderer_base__1"/>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+        <childnode refid="6" relation="public-inheritance">
+        </childnode>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+        <childnode refid="6" relation="public-inheritance">
+        </childnode>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+        <childnode refid="6" relation="public-inheritance">
+        </childnode>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+        <childnode refid="6" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="3">
+        <label>crc643f46942d9dd1fff9.ViewRenderer_2</label>
+        <link refid="classcrc643f46942d9dd1fff9_1_1_view_renderer__2"/>
+        <childnode refid="4" relation="public-inheritance">
+        </childnode>
+        <childnode refid="6" relation="public-inheritance">
+        </childnode>
+        <childnode refid="8" relation="public-inheritance">
+        </childnode>
+        <childnode refid="4" relation="public-inheritance">
+        </childnode>
+        <childnode refid="6" relation="public-inheritance">
+        </childnode>
+        <childnode refid="8" relation="public-inheritance">
+        </childnode>
+        <childnode refid="4" relation="public-inheritance">
+        </childnode>
+        <childnode refid="6" relation="public-inheritance">
+        </childnode>
+        <childnode refid="8" relation="public-inheritance">
+        </childnode>
+        <childnode refid="4" relation="public-inheritance">
+        </childnode>
+        <childnode refid="6" relation="public-inheritance">
+        </childnode>
+        <childnode refid="8" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="5">
+        <label>com::xamarin::forms::platform::android::FormsViewGroup</label>
+      </node>
+      <node id="6">
+        <label>mono.android.IGCUserPeer</label>
+      </node>
+      <node id="4">
+        <label>crc643f46942d9dd1fff9.VisualElementRenderer_1</label>
+        <link refid="classcrc643f46942d9dd1fff9_1_1_visual_element_renderer__1"/>
+        <childnode refid="5" relation="public-inheritance">
+        </childnode>
+        <childnode refid="6" relation="public-inheritance">
+        </childnode>
+        <childnode refid="7" relation="public-inheritance">
+        </childnode>
+        <childnode refid="6" relation="public-inheritance">
+        </childnode>
+        <childnode refid="7" relation="public-inheritance">
+        </childnode>
+        <childnode refid="6" relation="public-inheritance">
+        </childnode>
+        <childnode refid="7" relation="public-inheritance">
+        </childnode>
+        <childnode refid="6" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="8">
+        <label>android.view.View.OnFocusChangeListener</label>
+      </node>
+    </collaborationgraph>
+    <location file="Application Green Quake.Android/obj/Debug/100/android/src/crc64720bb2db43a66fe9/PickerRendererBase_1.java" line="4" column="17" bodyfile="Application Green Quake.Android/obj/Debug/100/android/src/crc64720bb2db43a66fe9/PickerRendererBase_1.java" bodystart="8" bodyend="54"/>
+    <listofallmembers>
+      <member refid="classcrc64720bb2db43a66fe9_1_1_picker_renderer_base__1_1a8a556d78c6a22b98b2cda045bb6abf56" prot="package" virt="non-virtual"><scope>crc64720bb2db43a66fe9::PickerRendererBase_1</scope><name>[static initializer]</name></member>
+      <member refid="classcrc64720bb2db43a66fe9_1_1_picker_renderer_base__1_1a8a556d78c6a22b98b2cda045bb6abf56" prot="package" virt="non-virtual"><scope>crc64720bb2db43a66fe9::PickerRendererBase_1</scope><name>[static initializer]</name></member>
+      <member refid="classcrc64720bb2db43a66fe9_1_1_picker_renderer_base__1_1a8a556d78c6a22b98b2cda045bb6abf56" prot="package" virt="non-virtual"><scope>crc64720bb2db43a66fe9::PickerRendererBase_1</scope><name>[static initializer]</name></member>
+      <member refid="classcrc64720bb2db43a66fe9_1_1_picker_renderer_base__1_1a8a556d78c6a22b98b2cda045bb6abf56" prot="package" virt="non-virtual"><scope>crc64720bb2db43a66fe9::PickerRendererBase_1</scope><name>[static initializer]</name></member>
+      <member refid="classcrc64720bb2db43a66fe9_1_1_picker_renderer_base__1_1a3362dd56c1531ceb54aabe1a7097fc80" prot="public" virt="non-virtual"><scope>crc64720bb2db43a66fe9::PickerRendererBase_1</scope><name>__md_methods</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_visual_element_renderer__1_1a8b3a1f18416ee5d553d54d8c51f238bd" prot="public" virt="non-virtual"><scope>crc64720bb2db43a66fe9::PickerRendererBase_1</scope><name>dispatchTouchEvent</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_visual_element_renderer__1_1a8b3a1f18416ee5d553d54d8c51f238bd" prot="public" virt="non-virtual"><scope>crc64720bb2db43a66fe9::PickerRendererBase_1</scope><name>dispatchTouchEvent</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_visual_element_renderer__1_1a8b3a1f18416ee5d553d54d8c51f238bd" prot="public" virt="non-virtual"><scope>crc64720bb2db43a66fe9::PickerRendererBase_1</scope><name>dispatchTouchEvent</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_visual_element_renderer__1_1a8b3a1f18416ee5d553d54d8c51f238bd" prot="public" virt="non-virtual"><scope>crc64720bb2db43a66fe9::PickerRendererBase_1</scope><name>dispatchTouchEvent</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_visual_element_renderer__1_1a4fbfdc5e36e0aac29f8113eddde3ffa8" prot="public" virt="non-virtual"><scope>crc64720bb2db43a66fe9::PickerRendererBase_1</scope><name>draw</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_visual_element_renderer__1_1a4fbfdc5e36e0aac29f8113eddde3ffa8" prot="public" virt="non-virtual"><scope>crc64720bb2db43a66fe9::PickerRendererBase_1</scope><name>draw</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_visual_element_renderer__1_1a4fbfdc5e36e0aac29f8113eddde3ffa8" prot="public" virt="non-virtual"><scope>crc64720bb2db43a66fe9::PickerRendererBase_1</scope><name>draw</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_visual_element_renderer__1_1a4fbfdc5e36e0aac29f8113eddde3ffa8" prot="public" virt="non-virtual"><scope>crc64720bb2db43a66fe9::PickerRendererBase_1</scope><name>draw</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_visual_element_renderer__1_1a9f734e4b4776dc9d9ed904a0922d26f7" prot="public" virt="non-virtual"><scope>crc64720bb2db43a66fe9::PickerRendererBase_1</scope><name>focusSearch</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_visual_element_renderer__1_1a9f734e4b4776dc9d9ed904a0922d26f7" prot="public" virt="non-virtual"><scope>crc64720bb2db43a66fe9::PickerRendererBase_1</scope><name>focusSearch</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_visual_element_renderer__1_1a9f734e4b4776dc9d9ed904a0922d26f7" prot="public" virt="non-virtual"><scope>crc64720bb2db43a66fe9::PickerRendererBase_1</scope><name>focusSearch</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_visual_element_renderer__1_1a9f734e4b4776dc9d9ed904a0922d26f7" prot="public" virt="non-virtual"><scope>crc64720bb2db43a66fe9::PickerRendererBase_1</scope><name>focusSearch</name></member>
+      <member refid="classcrc64720bb2db43a66fe9_1_1_picker_renderer_base__1_1a8a678720af74d237b9696b7a18378e90" prot="public" virt="non-virtual"><scope>crc64720bb2db43a66fe9::PickerRendererBase_1</scope><name>monodroidAddReference</name></member>
+      <member refid="classcrc64720bb2db43a66fe9_1_1_picker_renderer_base__1_1a8a678720af74d237b9696b7a18378e90" prot="public" virt="non-virtual"><scope>crc64720bb2db43a66fe9::PickerRendererBase_1</scope><name>monodroidAddReference</name></member>
+      <member refid="classcrc64720bb2db43a66fe9_1_1_picker_renderer_base__1_1a8a678720af74d237b9696b7a18378e90" prot="public" virt="non-virtual"><scope>crc64720bb2db43a66fe9::PickerRendererBase_1</scope><name>monodroidAddReference</name></member>
+      <member refid="classcrc64720bb2db43a66fe9_1_1_picker_renderer_base__1_1a8a678720af74d237b9696b7a18378e90" prot="public" virt="non-virtual"><scope>crc64720bb2db43a66fe9::PickerRendererBase_1</scope><name>monodroidAddReference</name></member>
+      <member refid="classcrc64720bb2db43a66fe9_1_1_picker_renderer_base__1_1a0b87deeaf76a5d07ff89e643829d18ee" prot="public" virt="non-virtual"><scope>crc64720bb2db43a66fe9::PickerRendererBase_1</scope><name>monodroidClearReferences</name></member>
+      <member refid="classcrc64720bb2db43a66fe9_1_1_picker_renderer_base__1_1a0b87deeaf76a5d07ff89e643829d18ee" prot="public" virt="non-virtual"><scope>crc64720bb2db43a66fe9::PickerRendererBase_1</scope><name>monodroidClearReferences</name></member>
+      <member refid="classcrc64720bb2db43a66fe9_1_1_picker_renderer_base__1_1a0b87deeaf76a5d07ff89e643829d18ee" prot="public" virt="non-virtual"><scope>crc64720bb2db43a66fe9::PickerRendererBase_1</scope><name>monodroidClearReferences</name></member>
+      <member refid="classcrc64720bb2db43a66fe9_1_1_picker_renderer_base__1_1a0b87deeaf76a5d07ff89e643829d18ee" prot="public" virt="non-virtual"><scope>crc64720bb2db43a66fe9::PickerRendererBase_1</scope><name>monodroidClearReferences</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_visual_element_renderer__1_1a31a32c8d1668368e4b13d7933a626833" prot="public" virt="non-virtual"><scope>crc64720bb2db43a66fe9::PickerRendererBase_1</scope><name>onConfigurationChanged</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_visual_element_renderer__1_1a31a32c8d1668368e4b13d7933a626833" prot="public" virt="non-virtual"><scope>crc64720bb2db43a66fe9::PickerRendererBase_1</scope><name>onConfigurationChanged</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_visual_element_renderer__1_1a31a32c8d1668368e4b13d7933a626833" prot="public" virt="non-virtual"><scope>crc64720bb2db43a66fe9::PickerRendererBase_1</scope><name>onConfigurationChanged</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_visual_element_renderer__1_1a31a32c8d1668368e4b13d7933a626833" prot="public" virt="non-virtual"><scope>crc64720bb2db43a66fe9::PickerRendererBase_1</scope><name>onConfigurationChanged</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_view_renderer__2_1af7a9cd1b5635deaf68179fcdc4ee9275" prot="public" virt="non-virtual"><scope>crc64720bb2db43a66fe9::PickerRendererBase_1</scope><name>onFocusChange</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_view_renderer__2_1af7a9cd1b5635deaf68179fcdc4ee9275" prot="public" virt="non-virtual"><scope>crc64720bb2db43a66fe9::PickerRendererBase_1</scope><name>onFocusChange</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_view_renderer__2_1af7a9cd1b5635deaf68179fcdc4ee9275" prot="public" virt="non-virtual"><scope>crc64720bb2db43a66fe9::PickerRendererBase_1</scope><name>onFocusChange</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_view_renderer__2_1af7a9cd1b5635deaf68179fcdc4ee9275" prot="public" virt="non-virtual"><scope>crc64720bb2db43a66fe9::PickerRendererBase_1</scope><name>onFocusChange</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_visual_element_renderer__1_1ade33eb4d0895f2536faf5f3e57830bc2" prot="public" virt="non-virtual"><scope>crc64720bb2db43a66fe9::PickerRendererBase_1</scope><name>onInterceptTouchEvent</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_visual_element_renderer__1_1ade33eb4d0895f2536faf5f3e57830bc2" prot="public" virt="non-virtual"><scope>crc64720bb2db43a66fe9::PickerRendererBase_1</scope><name>onInterceptTouchEvent</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_visual_element_renderer__1_1ade33eb4d0895f2536faf5f3e57830bc2" prot="public" virt="non-virtual"><scope>crc64720bb2db43a66fe9::PickerRendererBase_1</scope><name>onInterceptTouchEvent</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_visual_element_renderer__1_1ade33eb4d0895f2536faf5f3e57830bc2" prot="public" virt="non-virtual"><scope>crc64720bb2db43a66fe9::PickerRendererBase_1</scope><name>onInterceptTouchEvent</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_view_renderer__2_1a1e8de2d40d787901b8f14839810a5721" prot="public" virt="non-virtual"><scope>crc64720bb2db43a66fe9::PickerRendererBase_1</scope><name>onLayout</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_view_renderer__2_1a1e8de2d40d787901b8f14839810a5721" prot="public" virt="non-virtual"><scope>crc64720bb2db43a66fe9::PickerRendererBase_1</scope><name>onLayout</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_view_renderer__2_1a1e8de2d40d787901b8f14839810a5721" prot="public" virt="non-virtual"><scope>crc64720bb2db43a66fe9::PickerRendererBase_1</scope><name>onLayout</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_view_renderer__2_1a1e8de2d40d787901b8f14839810a5721" prot="public" virt="non-virtual"><scope>crc64720bb2db43a66fe9::PickerRendererBase_1</scope><name>onLayout</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_visual_element_renderer__1_1a68f705864fbd52c60cb4c29f5372aa76" prot="public" virt="non-virtual"><scope>crc64720bb2db43a66fe9::PickerRendererBase_1</scope><name>onMeasure</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_visual_element_renderer__1_1a68f705864fbd52c60cb4c29f5372aa76" prot="public" virt="non-virtual"><scope>crc64720bb2db43a66fe9::PickerRendererBase_1</scope><name>onMeasure</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_visual_element_renderer__1_1a68f705864fbd52c60cb4c29f5372aa76" prot="public" virt="non-virtual"><scope>crc64720bb2db43a66fe9::PickerRendererBase_1</scope><name>onMeasure</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_visual_element_renderer__1_1a68f705864fbd52c60cb4c29f5372aa76" prot="public" virt="non-virtual"><scope>crc64720bb2db43a66fe9::PickerRendererBase_1</scope><name>onMeasure</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_visual_element_renderer__1_1a11426581e099109c3f05f848cd0f55a4" prot="public" virt="non-virtual"><scope>crc64720bb2db43a66fe9::PickerRendererBase_1</scope><name>onTouchEvent</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_visual_element_renderer__1_1a11426581e099109c3f05f848cd0f55a4" prot="public" virt="non-virtual"><scope>crc64720bb2db43a66fe9::PickerRendererBase_1</scope><name>onTouchEvent</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_visual_element_renderer__1_1a11426581e099109c3f05f848cd0f55a4" prot="public" virt="non-virtual"><scope>crc64720bb2db43a66fe9::PickerRendererBase_1</scope><name>onTouchEvent</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_visual_element_renderer__1_1a11426581e099109c3f05f848cd0f55a4" prot="public" virt="non-virtual"><scope>crc64720bb2db43a66fe9::PickerRendererBase_1</scope><name>onTouchEvent</name></member>
+      <member refid="classcrc64720bb2db43a66fe9_1_1_picker_renderer_base__1_1a472f856a581850b6c536fa5311d0cfe2" prot="public" virt="non-virtual"><scope>crc64720bb2db43a66fe9::PickerRendererBase_1</scope><name>PickerRendererBase_1</name></member>
+      <member refid="classcrc64720bb2db43a66fe9_1_1_picker_renderer_base__1_1a6554dcf3bfa1ae1a5f636be1745e9e51" prot="public" virt="non-virtual"><scope>crc64720bb2db43a66fe9::PickerRendererBase_1</scope><name>PickerRendererBase_1</name></member>
+      <member refid="classcrc64720bb2db43a66fe9_1_1_picker_renderer_base__1_1a96bba8eae78f82dfa351033180976cfc" prot="public" virt="non-virtual"><scope>crc64720bb2db43a66fe9::PickerRendererBase_1</scope><name>PickerRendererBase_1</name></member>
+      <member refid="classcrc64720bb2db43a66fe9_1_1_picker_renderer_base__1_1a472f856a581850b6c536fa5311d0cfe2" prot="public" virt="non-virtual"><scope>crc64720bb2db43a66fe9::PickerRendererBase_1</scope><name>PickerRendererBase_1</name></member>
+      <member refid="classcrc64720bb2db43a66fe9_1_1_picker_renderer_base__1_1a6554dcf3bfa1ae1a5f636be1745e9e51" prot="public" virt="non-virtual"><scope>crc64720bb2db43a66fe9::PickerRendererBase_1</scope><name>PickerRendererBase_1</name></member>
+      <member refid="classcrc64720bb2db43a66fe9_1_1_picker_renderer_base__1_1a96bba8eae78f82dfa351033180976cfc" prot="public" virt="non-virtual"><scope>crc64720bb2db43a66fe9::PickerRendererBase_1</scope><name>PickerRendererBase_1</name></member>
+      <member refid="classcrc64720bb2db43a66fe9_1_1_picker_renderer_base__1_1a472f856a581850b6c536fa5311d0cfe2" prot="public" virt="non-virtual"><scope>crc64720bb2db43a66fe9::PickerRendererBase_1</scope><name>PickerRendererBase_1</name></member>
+      <member refid="classcrc64720bb2db43a66fe9_1_1_picker_renderer_base__1_1a6554dcf3bfa1ae1a5f636be1745e9e51" prot="public" virt="non-virtual"><scope>crc64720bb2db43a66fe9::PickerRendererBase_1</scope><name>PickerRendererBase_1</name></member>
+      <member refid="classcrc64720bb2db43a66fe9_1_1_picker_renderer_base__1_1a96bba8eae78f82dfa351033180976cfc" prot="public" virt="non-virtual"><scope>crc64720bb2db43a66fe9::PickerRendererBase_1</scope><name>PickerRendererBase_1</name></member>
+      <member refid="classcrc64720bb2db43a66fe9_1_1_picker_renderer_base__1_1a472f856a581850b6c536fa5311d0cfe2" prot="public" virt="non-virtual"><scope>crc64720bb2db43a66fe9::PickerRendererBase_1</scope><name>PickerRendererBase_1</name></member>
+      <member refid="classcrc64720bb2db43a66fe9_1_1_picker_renderer_base__1_1a6554dcf3bfa1ae1a5f636be1745e9e51" prot="public" virt="non-virtual"><scope>crc64720bb2db43a66fe9::PickerRendererBase_1</scope><name>PickerRendererBase_1</name></member>
+      <member refid="classcrc64720bb2db43a66fe9_1_1_picker_renderer_base__1_1a96bba8eae78f82dfa351033180976cfc" prot="public" virt="non-virtual"><scope>crc64720bb2db43a66fe9::PickerRendererBase_1</scope><name>PickerRendererBase_1</name></member>
+      <member refid="classcrc64720bb2db43a66fe9_1_1_picker_renderer_base__1_1a97032f5a9341dd50efb0203f8d5a8d31" prot="private" virt="non-virtual"><scope>crc64720bb2db43a66fe9::PickerRendererBase_1</scope><name>refList</name></member>
+      <member refid="classcrc64720bb2db43a66fe9_1_1_view_renderer__2_1aa393285c20976d8f4668b1d516e27f21" prot="public" virt="non-virtual"><scope>crc64720bb2db43a66fe9::PickerRendererBase_1</scope><name>ViewRenderer_2</name></member>
+      <member refid="classcrc64720bb2db43a66fe9_1_1_view_renderer__2_1ab48081082956bca2392a89088b66822a" prot="public" virt="non-virtual"><scope>crc64720bb2db43a66fe9::PickerRendererBase_1</scope><name>ViewRenderer_2</name></member>
+      <member refid="classcrc64720bb2db43a66fe9_1_1_view_renderer__2_1aa66b6816b0b6e4882d5a6f58db86fad2" prot="public" virt="non-virtual"><scope>crc64720bb2db43a66fe9::PickerRendererBase_1</scope><name>ViewRenderer_2</name></member>
+      <member refid="classcrc64720bb2db43a66fe9_1_1_view_renderer__2_1aa393285c20976d8f4668b1d516e27f21" prot="public" virt="non-virtual"><scope>crc64720bb2db43a66fe9::PickerRendererBase_1</scope><name>ViewRenderer_2</name></member>
+      <member refid="classcrc64720bb2db43a66fe9_1_1_view_renderer__2_1ab48081082956bca2392a89088b66822a" prot="public" virt="non-virtual"><scope>crc64720bb2db43a66fe9::PickerRendererBase_1</scope><name>ViewRenderer_2</name></member>
+      <member refid="classcrc64720bb2db43a66fe9_1_1_view_renderer__2_1aa66b6816b0b6e4882d5a6f58db86fad2" prot="public" virt="non-virtual"><scope>crc64720bb2db43a66fe9::PickerRendererBase_1</scope><name>ViewRenderer_2</name></member>
+      <member refid="classcrc64720bb2db43a66fe9_1_1_view_renderer__2_1aa393285c20976d8f4668b1d516e27f21" prot="public" virt="non-virtual"><scope>crc64720bb2db43a66fe9::PickerRendererBase_1</scope><name>ViewRenderer_2</name></member>
+      <member refid="classcrc64720bb2db43a66fe9_1_1_view_renderer__2_1ab48081082956bca2392a89088b66822a" prot="public" virt="non-virtual"><scope>crc64720bb2db43a66fe9::PickerRendererBase_1</scope><name>ViewRenderer_2</name></member>
+      <member refid="classcrc64720bb2db43a66fe9_1_1_view_renderer__2_1aa66b6816b0b6e4882d5a6f58db86fad2" prot="public" virt="non-virtual"><scope>crc64720bb2db43a66fe9::PickerRendererBase_1</scope><name>ViewRenderer_2</name></member>
+      <member refid="classcrc64720bb2db43a66fe9_1_1_view_renderer__2_1aa393285c20976d8f4668b1d516e27f21" prot="public" virt="non-virtual"><scope>crc64720bb2db43a66fe9::PickerRendererBase_1</scope><name>ViewRenderer_2</name></member>
+      <member refid="classcrc64720bb2db43a66fe9_1_1_view_renderer__2_1ab48081082956bca2392a89088b66822a" prot="public" virt="non-virtual"><scope>crc64720bb2db43a66fe9::PickerRendererBase_1</scope><name>ViewRenderer_2</name></member>
+      <member refid="classcrc64720bb2db43a66fe9_1_1_view_renderer__2_1aa66b6816b0b6e4882d5a6f58db86fad2" prot="public" virt="non-virtual"><scope>crc64720bb2db43a66fe9::PickerRendererBase_1</scope><name>ViewRenderer_2</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_visual_element_renderer__1_1a347f18991a486c5b5f1c4dcd83475f21" prot="public" virt="non-virtual"><scope>crc64720bb2db43a66fe9::PickerRendererBase_1</scope><name>VisualElementRenderer_1</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_visual_element_renderer__1_1a42957113957987d17592ba290f118ec5" prot="public" virt="non-virtual"><scope>crc64720bb2db43a66fe9::PickerRendererBase_1</scope><name>VisualElementRenderer_1</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_visual_element_renderer__1_1a92a3ec4e374dfc2f8b16cfccb9b83c7f" prot="public" virt="non-virtual"><scope>crc64720bb2db43a66fe9::PickerRendererBase_1</scope><name>VisualElementRenderer_1</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_visual_element_renderer__1_1a347f18991a486c5b5f1c4dcd83475f21" prot="public" virt="non-virtual"><scope>crc64720bb2db43a66fe9::PickerRendererBase_1</scope><name>VisualElementRenderer_1</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_visual_element_renderer__1_1a42957113957987d17592ba290f118ec5" prot="public" virt="non-virtual"><scope>crc64720bb2db43a66fe9::PickerRendererBase_1</scope><name>VisualElementRenderer_1</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_visual_element_renderer__1_1a92a3ec4e374dfc2f8b16cfccb9b83c7f" prot="public" virt="non-virtual"><scope>crc64720bb2db43a66fe9::PickerRendererBase_1</scope><name>VisualElementRenderer_1</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_visual_element_renderer__1_1a347f18991a486c5b5f1c4dcd83475f21" prot="public" virt="non-virtual"><scope>crc64720bb2db43a66fe9::PickerRendererBase_1</scope><name>VisualElementRenderer_1</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_visual_element_renderer__1_1a42957113957987d17592ba290f118ec5" prot="public" virt="non-virtual"><scope>crc64720bb2db43a66fe9::PickerRendererBase_1</scope><name>VisualElementRenderer_1</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_visual_element_renderer__1_1a92a3ec4e374dfc2f8b16cfccb9b83c7f" prot="public" virt="non-virtual"><scope>crc64720bb2db43a66fe9::PickerRendererBase_1</scope><name>VisualElementRenderer_1</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_visual_element_renderer__1_1a347f18991a486c5b5f1c4dcd83475f21" prot="public" virt="non-virtual"><scope>crc64720bb2db43a66fe9::PickerRendererBase_1</scope><name>VisualElementRenderer_1</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_visual_element_renderer__1_1a42957113957987d17592ba290f118ec5" prot="public" virt="non-virtual"><scope>crc64720bb2db43a66fe9::PickerRendererBase_1</scope><name>VisualElementRenderer_1</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_visual_element_renderer__1_1a92a3ec4e374dfc2f8b16cfccb9b83c7f" prot="public" virt="non-virtual"><scope>crc64720bb2db43a66fe9::PickerRendererBase_1</scope><name>VisualElementRenderer_1</name></member>
+    </listofallmembers>
+  </compounddef>
+</doxygen>

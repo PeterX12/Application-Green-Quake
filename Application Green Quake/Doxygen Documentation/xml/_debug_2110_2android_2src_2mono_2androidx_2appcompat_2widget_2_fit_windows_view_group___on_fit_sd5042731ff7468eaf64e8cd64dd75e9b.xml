@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.9.1" xml:lang="en-US">
+  <compounddef id="_debug_2110_2android_2src_2mono_2androidx_2appcompat_2widget_2_fit_windows_view_group___on_fit_sd5042731ff7468eaf64e8cd64dd75e9b" kind="file" language="Java">
+    <compoundname>FitWindowsViewGroup_OnFitSystemWindowsListenerImplementor.java</compoundname>
+    <innerclass refid="classmono_1_1androidx_1_1appcompat_1_1widget_1_1_fit_windows_view_group___on_fit_system_windows_listener_implementor" prot="public">mono::androidx::appcompat::widget::FitWindowsViewGroup_OnFitSystemWindowsListenerImplementor</innerclass>
+    <innernamespace refid="namespacemono_1_1androidx_1_1appcompat_1_1widget">mono::androidx::appcompat::widget</innernamespace>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <programlisting>
+<codeline lineno="1"><highlight class="keyword">package<sp/></highlight><highlight class="normal">mono.androidx.appcompat.widget;</highlight></codeline>
+<codeline lineno="2"><highlight class="normal"></highlight></codeline>
+<codeline lineno="3"><highlight class="normal"></highlight></codeline>
+<codeline lineno="4"><highlight class="normal"></highlight><highlight class="keyword">public</highlight><highlight class="normal"><sp/></highlight><highlight class="keyword">class<sp/></highlight><highlight class="normal">FitWindowsViewGroup_OnFitSystemWindowsListenerImplementor</highlight></codeline>
+<codeline lineno="5"><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">extends</highlight><highlight class="normal"><sp/>java.lang.Object</highlight></codeline>
+<codeline lineno="6"><highlight class="normal"><sp/><sp/><sp/><sp/>implements</highlight></codeline>
+<codeline lineno="7"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>mono.android.IGCUserPeer,</highlight></codeline>
+<codeline lineno="8"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>androidx.appcompat.widget.FitWindowsViewGroup.OnFitSystemWindowsListener</highlight></codeline>
+<codeline lineno="9"><highlight class="normal">{</highlight></codeline>
+<codeline lineno="11"><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">public</highlight><highlight class="normal"><sp/></highlight><highlight class="keyword">static</highlight><highlight class="normal"><sp/></highlight><highlight class="keyword">final</highlight><highlight class="normal"><sp/>String<sp/><ref refid="classmono_1_1androidx_1_1appcompat_1_1widget_1_1_fit_windows_view_group___on_fit_system_windows_listener_implementor_1af8204f07911eb47adfa90a25cf5e880d" kindref="member">__md_methods</ref>;</highlight></codeline>
+<codeline lineno="12"><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">static</highlight><highlight class="normal"><sp/>{</highlight></codeline>
+<codeline lineno="13"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><ref refid="classmono_1_1androidx_1_1appcompat_1_1widget_1_1_fit_windows_view_group___on_fit_system_windows_listener_implementor_1af8204f07911eb47adfa90a25cf5e880d" kindref="member">__md_methods</ref><sp/>=<sp/></highlight></codeline>
+<codeline lineno="14"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="stringliteral">&quot;n_onFitSystemWindows:(Landroid/graphics/Rect;)V:GetOnFitSystemWindows_Landroid_graphics_Rect_Handler:AndroidX.AppCompat.Widget.IFitWindowsViewGroupOnFitSystemWindowsListenerInvoker,<sp/>Xamarin.AndroidX.AppCompat\n&quot;</highlight><highlight class="normal"><sp/>+</highlight></codeline>
+<codeline lineno="15"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="stringliteral">&quot;&quot;</highlight><highlight class="normal">;</highlight></codeline>
+<codeline lineno="16"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>mono.android.Runtime.register<sp/>(</highlight><highlight class="stringliteral">&quot;AndroidX.AppCompat.Widget.IFitWindowsViewGroupOnFitSystemWindowsListenerImplementor,<sp/>Xamarin.AndroidX.AppCompat&quot;</highlight><highlight class="normal">,<sp/><ref refid="classmono_1_1androidx_1_1appcompat_1_1widget_1_1_fit_windows_view_group___on_fit_system_windows_listener_implementor_1a39ff4bdb498cdc298cae0703a7a40cec" kindref="member">FitWindowsViewGroup_OnFitSystemWindowsListenerImplementor</ref>.class,<sp/><ref refid="classmono_1_1androidx_1_1appcompat_1_1widget_1_1_fit_windows_view_group___on_fit_system_windows_listener_implementor_1af8204f07911eb47adfa90a25cf5e880d" kindref="member">__md_methods</ref>);</highlight></codeline>
+<codeline lineno="17"><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline lineno="18"><highlight class="normal"></highlight></codeline>
+<codeline lineno="19"><highlight class="normal"></highlight></codeline>
+<codeline lineno="20" refid="classmono_1_1androidx_1_1appcompat_1_1widget_1_1_fit_windows_view_group___on_fit_system_windows_listener_implementor_1a39ff4bdb498cdc298cae0703a7a40cec" refkind="member"><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">public</highlight><highlight class="normal"><sp/><ref refid="classmono_1_1androidx_1_1appcompat_1_1widget_1_1_fit_windows_view_group___on_fit_system_windows_listener_implementor_1a39ff4bdb498cdc298cae0703a7a40cec" kindref="member">FitWindowsViewGroup_OnFitSystemWindowsListenerImplementor</ref><sp/>()</highlight></codeline>
+<codeline lineno="21"><highlight class="normal"><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline lineno="22"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>super<sp/>();</highlight></codeline>
+<codeline lineno="23"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">if</highlight><highlight class="normal"><sp/>(getClass<sp/>()<sp/>==<sp/><ref refid="classmono_1_1androidx_1_1appcompat_1_1widget_1_1_fit_windows_view_group___on_fit_system_windows_listener_implementor" kindref="compound">FitWindowsViewGroup_OnFitSystemWindowsListenerImplementor</ref>.class)</highlight></codeline>
+<codeline lineno="24"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>mono.android.TypeManager.Activate<sp/>(</highlight><highlight class="stringliteral">&quot;AndroidX.AppCompat.Widget.IFitWindowsViewGroupOnFitSystemWindowsListenerImplementor,<sp/>Xamarin.AndroidX.AppCompat&quot;</highlight><highlight class="normal">,<sp/></highlight><highlight class="stringliteral">&quot;&quot;</highlight><highlight class="normal">,<sp/></highlight><highlight class="keyword">this</highlight><highlight class="normal">,<sp/></highlight><highlight class="keyword">new</highlight><highlight class="normal"><sp/>java.lang.Object[]<sp/>{<sp/><sp/>});</highlight></codeline>
+<codeline lineno="25"><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline lineno="26"><highlight class="normal"></highlight></codeline>
+<codeline lineno="27"><highlight class="normal"></highlight></codeline>
+<codeline lineno="28" refid="classmono_1_1androidx_1_1appcompat_1_1widget_1_1_fit_windows_view_group___on_fit_system_windows_listener_implementor_1af2c5c408f917d5e851a7e5ffbe53d4e3" refkind="member"><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">public</highlight><highlight class="normal"><sp/></highlight><highlight class="keywordtype">void</highlight><highlight class="normal"><sp/><ref refid="classmono_1_1androidx_1_1appcompat_1_1widget_1_1_fit_windows_view_group___on_fit_system_windows_listener_implementor_1af2c5c408f917d5e851a7e5ffbe53d4e3" kindref="member">onFitSystemWindows</ref><sp/>(android.graphics.Rect<sp/>p0)</highlight></codeline>
+<codeline lineno="29"><highlight class="normal"><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline lineno="30"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>n_onFitSystemWindows<sp/>(p0);</highlight></codeline>
+<codeline lineno="31"><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline lineno="32"><highlight class="normal"></highlight></codeline>
+<codeline lineno="33"><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">private</highlight><highlight class="normal"><sp/>native<sp/></highlight><highlight class="keywordtype">void</highlight><highlight class="normal"><sp/>n_onFitSystemWindows<sp/>(android.graphics.Rect<sp/>p0);</highlight></codeline>
+<codeline lineno="34"><highlight class="normal"></highlight></codeline>
+<codeline lineno="35"><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">private</highlight><highlight class="normal"><sp/>java.util.ArrayList<sp/>refList;</highlight></codeline>
+<codeline lineno="36" refid="classmono_1_1androidx_1_1appcompat_1_1widget_1_1_fit_windows_view_group___on_fit_system_windows_listener_implementor_1a4833d3c29ef3e2630b916e57a2689ccd" refkind="member"><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">public</highlight><highlight class="normal"><sp/></highlight><highlight class="keywordtype">void</highlight><highlight class="normal"><sp/><ref refid="classmono_1_1androidx_1_1appcompat_1_1widget_1_1_fit_windows_view_group___on_fit_system_windows_listener_implementor_1a4833d3c29ef3e2630b916e57a2689ccd" kindref="member">monodroidAddReference</ref><sp/>(java.lang.Object<sp/>obj)</highlight></codeline>
+<codeline lineno="37"><highlight class="normal"><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline lineno="38"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">if</highlight><highlight class="normal"><sp/>(refList<sp/>==<sp/></highlight><highlight class="keyword">null</highlight><highlight class="normal">)</highlight></codeline>
+<codeline lineno="39"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>refList<sp/>=<sp/></highlight><highlight class="keyword">new</highlight><highlight class="normal"><sp/>java.util.ArrayList<sp/>();</highlight></codeline>
+<codeline lineno="40"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>refList.add<sp/>(obj);</highlight></codeline>
+<codeline lineno="41"><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline lineno="42"><highlight class="normal"></highlight></codeline>
+<codeline lineno="43" refid="classmono_1_1androidx_1_1appcompat_1_1widget_1_1_fit_windows_view_group___on_fit_system_windows_listener_implementor_1aaa6e1f552e17203f992303b2a906c5fe" refkind="member"><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">public</highlight><highlight class="normal"><sp/></highlight><highlight class="keywordtype">void</highlight><highlight class="normal"><sp/><ref refid="classmono_1_1androidx_1_1appcompat_1_1widget_1_1_fit_windows_view_group___on_fit_system_windows_listener_implementor_1aaa6e1f552e17203f992303b2a906c5fe" kindref="member">monodroidClearReferences</ref><sp/>()</highlight></codeline>
+<codeline lineno="44"><highlight class="normal"><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline lineno="45"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">if</highlight><highlight class="normal"><sp/>(refList<sp/>!=<sp/></highlight><highlight class="keyword">null</highlight><highlight class="normal">)</highlight></codeline>
+<codeline lineno="46"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>refList.clear<sp/>();</highlight></codeline>
+<codeline lineno="47"><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline lineno="48"><highlight class="normal">}</highlight></codeline>
+    </programlisting>
+    <location file="Application Green Quake.Android/obj/Debug/110/android/src/mono/androidx/appcompat/widget/FitWindowsViewGroup_OnFitSystemWindowsListenerImplementor.java"/>
+  </compounddef>
+</doxygen>

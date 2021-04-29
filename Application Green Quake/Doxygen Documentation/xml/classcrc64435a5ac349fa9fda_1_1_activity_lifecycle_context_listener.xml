@@ -1,0 +1,2532 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.9.1" xml:lang="en-US">
+  <compounddef id="classcrc64435a5ac349fa9fda_1_1_activity_lifecycle_context_listener" kind="class" language="Java" prot="public">
+    <compoundname>crc64435a5ac349fa9fda::ActivityLifecycleContextListener</compoundname>
+    <basecompoundref prot="public" virt="non-virtual">java.lang.Object</basecompoundref>
+    <basecompoundref prot="public" virt="non-virtual">mono.android.IGCUserPeer</basecompoundref>
+    <basecompoundref prot="public" virt="non-virtual">android.app.Application.ActivityLifecycleCallbacks</basecompoundref>
+    <basecompoundref prot="public" virt="non-virtual">java.lang.Object</basecompoundref>
+    <basecompoundref prot="public" virt="non-virtual">mono.android.IGCUserPeer</basecompoundref>
+    <basecompoundref prot="public" virt="non-virtual">android.app.Application.ActivityLifecycleCallbacks</basecompoundref>
+    <basecompoundref prot="public" virt="non-virtual">java.lang.Object</basecompoundref>
+    <basecompoundref prot="public" virt="non-virtual">mono.android.IGCUserPeer</basecompoundref>
+    <basecompoundref prot="public" virt="non-virtual">android.app.Application.ActivityLifecycleCallbacks</basecompoundref>
+    <basecompoundref prot="public" virt="non-virtual">java.lang.Object</basecompoundref>
+    <basecompoundref prot="public" virt="non-virtual">mono.android.IGCUserPeer</basecompoundref>
+    <basecompoundref prot="public" virt="non-virtual">android.app.Application.ActivityLifecycleCallbacks</basecompoundref>
+      <sectiondef kind="public-static-attrib">
+      <memberdef kind="variable" id="classcrc64435a5ac349fa9fda_1_1_activity_lifecycle_context_listener_1a746c5590109554b666eb9f7f8af93be4" prot="public" static="yes" mutable="no">
+        <type>final String</type>
+        <definition>static final String crc64435a5ac349fa9fda.ActivityLifecycleContextListener::__md_methods</definition>
+        <argsstring></argsstring>
+        <name>__md_methods</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+<para>@hide </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/100/android/src/crc64435a5ac349fa9fda/ActivityLifecycleContextListener.java" line="11" column="28" bodyfile="Application Green Quake.Android/obj/Debug/100/android/src/crc64435a5ac349fa9fda/ActivityLifecycleContextListener.java" bodystart="11" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="private-attrib">
+      <memberdef kind="variable" id="classcrc64435a5ac349fa9fda_1_1_activity_lifecycle_context_listener_1a16e12b8107b6a37eb2cbff0f8ddfb15d" prot="private" static="no" mutable="no">
+        <type>java.util.ArrayList</type>
+        <definition>java util ArrayList crc64435a5ac349fa9fda.ActivityLifecycleContextListener::refList</definition>
+        <argsstring></argsstring>
+        <name>refList</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/100/android/src/crc64435a5ac349fa9fda/ActivityLifecycleContextListener.java" line="89" column="27" bodyfile="Application Green Quake.Android/obj/Debug/100/android/src/crc64435a5ac349fa9fda/ActivityLifecycleContextListener.java" bodystart="89" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="package-static-func">
+      <memberdef kind="function" id="classcrc64435a5ac349fa9fda_1_1_activity_lifecycle_context_listener_1ae88e79da0dca7f72a6f3289eb6c5b49b" prot="package" static="yes" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>crc64435a5ac349fa9fda.ActivityLifecycleContextListener.[static initializer]</definition>
+        <argsstring></argsstring>
+        <name>[static initializer]</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/100/android/src/crc64435a5ac349fa9fda/ActivityLifecycleContextListener.java" line="11" column="28"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc64435a5ac349fa9fda_1_1_activity_lifecycle_context_listener_1ae88e79da0dca7f72a6f3289eb6c5b49b" prot="package" static="yes" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>crc64435a5ac349fa9fda.ActivityLifecycleContextListener.[static initializer]</definition>
+        <argsstring></argsstring>
+        <name>[static initializer]</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/110/android/src/crc64435a5ac349fa9fda/ActivityLifecycleContextListener.java" line="11" column="28"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc64435a5ac349fa9fda_1_1_activity_lifecycle_context_listener_1ae88e79da0dca7f72a6f3289eb6c5b49b" prot="package" static="yes" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>crc64435a5ac349fa9fda.ActivityLifecycleContextListener.[static initializer]</definition>
+        <argsstring></argsstring>
+        <name>[static initializer]</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/100/android/src/crc64435a5ac349fa9fda/ActivityLifecycleContextListener.java" line="11" column="28"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc64435a5ac349fa9fda_1_1_activity_lifecycle_context_listener_1ae88e79da0dca7f72a6f3289eb6c5b49b" prot="package" static="yes" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>crc64435a5ac349fa9fda.ActivityLifecycleContextListener.[static initializer]</definition>
+        <argsstring></argsstring>
+        <name>[static initializer]</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/110/android/src/crc64435a5ac349fa9fda/ActivityLifecycleContextListener.java" line="11" column="28"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="public-func">
+      <memberdef kind="function" id="classcrc64435a5ac349fa9fda_1_1_activity_lifecycle_context_listener_1a56553a445c70d3e7fdbb1200d58aee6b" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>crc64435a5ac349fa9fda.ActivityLifecycleContextListener.ActivityLifecycleContextListener</definition>
+        <argsstring>()</argsstring>
+        <name>ActivityLifecycleContextListener</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/100/android/src/crc64435a5ac349fa9fda/ActivityLifecycleContextListener.java" line="26" column="8" bodyfile="Application Green Quake.Android/obj/Debug/100/android/src/crc64435a5ac349fa9fda/ActivityLifecycleContextListener.java" bodystart="26" bodyend="31"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc64435a5ac349fa9fda_1_1_activity_lifecycle_context_listener_1ac810b4055e207ad49166e9ea20eb5b58" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void crc64435a5ac349fa9fda.ActivityLifecycleContextListener.onActivityCreated</definition>
+        <argsstring>(android.app.Activity p0, android.os.Bundle p1)</argsstring>
+        <name>onActivityCreated</name>
+        <param>
+          <type>android.app.Activity</type>
+          <declname>p0</declname>
+        </param>
+        <param>
+          <type>android.os.Bundle</type>
+          <declname>p1</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/100/android/src/crc64435a5ac349fa9fda/ActivityLifecycleContextListener.java" line="34" column="13" bodyfile="Application Green Quake.Android/obj/Debug/100/android/src/crc64435a5ac349fa9fda/ActivityLifecycleContextListener.java" bodystart="34" bodyend="37"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc64435a5ac349fa9fda_1_1_activity_lifecycle_context_listener_1ae04cbd8248a953807d2941342db40a08" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void crc64435a5ac349fa9fda.ActivityLifecycleContextListener.onActivityDestroyed</definition>
+        <argsstring>(android.app.Activity p0)</argsstring>
+        <name>onActivityDestroyed</name>
+        <param>
+          <type>android.app.Activity</type>
+          <declname>p0</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/100/android/src/crc64435a5ac349fa9fda/ActivityLifecycleContextListener.java" line="42" column="13" bodyfile="Application Green Quake.Android/obj/Debug/100/android/src/crc64435a5ac349fa9fda/ActivityLifecycleContextListener.java" bodystart="42" bodyend="45"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc64435a5ac349fa9fda_1_1_activity_lifecycle_context_listener_1a732de5cf42f099cc3650829a6c9cbcfe" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void crc64435a5ac349fa9fda.ActivityLifecycleContextListener.onActivityPaused</definition>
+        <argsstring>(android.app.Activity p0)</argsstring>
+        <name>onActivityPaused</name>
+        <param>
+          <type>android.app.Activity</type>
+          <declname>p0</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/100/android/src/crc64435a5ac349fa9fda/ActivityLifecycleContextListener.java" line="50" column="13" bodyfile="Application Green Quake.Android/obj/Debug/100/android/src/crc64435a5ac349fa9fda/ActivityLifecycleContextListener.java" bodystart="50" bodyend="53"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc64435a5ac349fa9fda_1_1_activity_lifecycle_context_listener_1aafb43ce09381d1535c2a69b90f8011c6" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void crc64435a5ac349fa9fda.ActivityLifecycleContextListener.onActivityResumed</definition>
+        <argsstring>(android.app.Activity p0)</argsstring>
+        <name>onActivityResumed</name>
+        <param>
+          <type>android.app.Activity</type>
+          <declname>p0</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/100/android/src/crc64435a5ac349fa9fda/ActivityLifecycleContextListener.java" line="58" column="13" bodyfile="Application Green Quake.Android/obj/Debug/100/android/src/crc64435a5ac349fa9fda/ActivityLifecycleContextListener.java" bodystart="58" bodyend="61"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc64435a5ac349fa9fda_1_1_activity_lifecycle_context_listener_1af7bd2d82d341ea788c8481a1ec984716" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void crc64435a5ac349fa9fda.ActivityLifecycleContextListener.onActivitySaveInstanceState</definition>
+        <argsstring>(android.app.Activity p0, android.os.Bundle p1)</argsstring>
+        <name>onActivitySaveInstanceState</name>
+        <param>
+          <type>android.app.Activity</type>
+          <declname>p0</declname>
+        </param>
+        <param>
+          <type>android.os.Bundle</type>
+          <declname>p1</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/100/android/src/crc64435a5ac349fa9fda/ActivityLifecycleContextListener.java" line="66" column="13" bodyfile="Application Green Quake.Android/obj/Debug/100/android/src/crc64435a5ac349fa9fda/ActivityLifecycleContextListener.java" bodystart="66" bodyend="69"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc64435a5ac349fa9fda_1_1_activity_lifecycle_context_listener_1a0f384b95946d49375ff3e52cf7661419" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void crc64435a5ac349fa9fda.ActivityLifecycleContextListener.onActivityStarted</definition>
+        <argsstring>(android.app.Activity p0)</argsstring>
+        <name>onActivityStarted</name>
+        <param>
+          <type>android.app.Activity</type>
+          <declname>p0</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/100/android/src/crc64435a5ac349fa9fda/ActivityLifecycleContextListener.java" line="74" column="13" bodyfile="Application Green Quake.Android/obj/Debug/100/android/src/crc64435a5ac349fa9fda/ActivityLifecycleContextListener.java" bodystart="74" bodyend="77"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc64435a5ac349fa9fda_1_1_activity_lifecycle_context_listener_1a9761d5ad3c5c9bb5e2de5efd83fe2e8d" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void crc64435a5ac349fa9fda.ActivityLifecycleContextListener.onActivityStopped</definition>
+        <argsstring>(android.app.Activity p0)</argsstring>
+        <name>onActivityStopped</name>
+        <param>
+          <type>android.app.Activity</type>
+          <declname>p0</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/100/android/src/crc64435a5ac349fa9fda/ActivityLifecycleContextListener.java" line="82" column="13" bodyfile="Application Green Quake.Android/obj/Debug/100/android/src/crc64435a5ac349fa9fda/ActivityLifecycleContextListener.java" bodystart="82" bodyend="85"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc64435a5ac349fa9fda_1_1_activity_lifecycle_context_listener_1ae7222d600976e2303ab7c38f6598ba38" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void crc64435a5ac349fa9fda.ActivityLifecycleContextListener.monodroidAddReference</definition>
+        <argsstring>(java.lang.Object obj)</argsstring>
+        <name>monodroidAddReference</name>
+        <param>
+          <type>java.lang.Object</type>
+          <declname>obj</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/100/android/src/crc64435a5ac349fa9fda/ActivityLifecycleContextListener.java" line="90" column="13" bodyfile="Application Green Quake.Android/obj/Debug/100/android/src/crc64435a5ac349fa9fda/ActivityLifecycleContextListener.java" bodystart="90" bodyend="95"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc64435a5ac349fa9fda_1_1_activity_lifecycle_context_listener_1abccb905dc1cb309518d5c98fc9f5f70a" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void crc64435a5ac349fa9fda.ActivityLifecycleContextListener.monodroidClearReferences</definition>
+        <argsstring>()</argsstring>
+        <name>monodroidClearReferences</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/100/android/src/crc64435a5ac349fa9fda/ActivityLifecycleContextListener.java" line="97" column="13" bodyfile="Application Green Quake.Android/obj/Debug/100/android/src/crc64435a5ac349fa9fda/ActivityLifecycleContextListener.java" bodystart="97" bodyend="101"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc64435a5ac349fa9fda_1_1_activity_lifecycle_context_listener_1a56553a445c70d3e7fdbb1200d58aee6b" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>crc64435a5ac349fa9fda.ActivityLifecycleContextListener.ActivityLifecycleContextListener</definition>
+        <argsstring>()</argsstring>
+        <name>ActivityLifecycleContextListener</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/110/android/src/crc64435a5ac349fa9fda/ActivityLifecycleContextListener.java" line="40" column="8" bodyfile="Application Green Quake.Android/obj/Debug/110/android/src/crc64435a5ac349fa9fda/ActivityLifecycleContextListener.java" bodystart="40" bodyend="45"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc64435a5ac349fa9fda_1_1_activity_lifecycle_context_listener_1ac810b4055e207ad49166e9ea20eb5b58" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void crc64435a5ac349fa9fda.ActivityLifecycleContextListener.onActivityCreated</definition>
+        <argsstring>(android.app.Activity p0, android.os.Bundle p1)</argsstring>
+        <name>onActivityCreated</name>
+        <param>
+          <type>android.app.Activity</type>
+          <declname>p0</declname>
+        </param>
+        <param>
+          <type>android.os.Bundle</type>
+          <declname>p1</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/110/android/src/crc64435a5ac349fa9fda/ActivityLifecycleContextListener.java" line="48" column="13" bodyfile="Application Green Quake.Android/obj/Debug/110/android/src/crc64435a5ac349fa9fda/ActivityLifecycleContextListener.java" bodystart="48" bodyend="51"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc64435a5ac349fa9fda_1_1_activity_lifecycle_context_listener_1ae04cbd8248a953807d2941342db40a08" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void crc64435a5ac349fa9fda.ActivityLifecycleContextListener.onActivityDestroyed</definition>
+        <argsstring>(android.app.Activity p0)</argsstring>
+        <name>onActivityDestroyed</name>
+        <param>
+          <type>android.app.Activity</type>
+          <declname>p0</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/110/android/src/crc64435a5ac349fa9fda/ActivityLifecycleContextListener.java" line="56" column="13" bodyfile="Application Green Quake.Android/obj/Debug/110/android/src/crc64435a5ac349fa9fda/ActivityLifecycleContextListener.java" bodystart="56" bodyend="59"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc64435a5ac349fa9fda_1_1_activity_lifecycle_context_listener_1a732de5cf42f099cc3650829a6c9cbcfe" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void crc64435a5ac349fa9fda.ActivityLifecycleContextListener.onActivityPaused</definition>
+        <argsstring>(android.app.Activity p0)</argsstring>
+        <name>onActivityPaused</name>
+        <param>
+          <type>android.app.Activity</type>
+          <declname>p0</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/110/android/src/crc64435a5ac349fa9fda/ActivityLifecycleContextListener.java" line="64" column="13" bodyfile="Application Green Quake.Android/obj/Debug/110/android/src/crc64435a5ac349fa9fda/ActivityLifecycleContextListener.java" bodystart="64" bodyend="67"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc64435a5ac349fa9fda_1_1_activity_lifecycle_context_listener_1aafb43ce09381d1535c2a69b90f8011c6" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void crc64435a5ac349fa9fda.ActivityLifecycleContextListener.onActivityResumed</definition>
+        <argsstring>(android.app.Activity p0)</argsstring>
+        <name>onActivityResumed</name>
+        <param>
+          <type>android.app.Activity</type>
+          <declname>p0</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/110/android/src/crc64435a5ac349fa9fda/ActivityLifecycleContextListener.java" line="72" column="13" bodyfile="Application Green Quake.Android/obj/Debug/110/android/src/crc64435a5ac349fa9fda/ActivityLifecycleContextListener.java" bodystart="72" bodyend="75"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc64435a5ac349fa9fda_1_1_activity_lifecycle_context_listener_1af7bd2d82d341ea788c8481a1ec984716" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void crc64435a5ac349fa9fda.ActivityLifecycleContextListener.onActivitySaveInstanceState</definition>
+        <argsstring>(android.app.Activity p0, android.os.Bundle p1)</argsstring>
+        <name>onActivitySaveInstanceState</name>
+        <param>
+          <type>android.app.Activity</type>
+          <declname>p0</declname>
+        </param>
+        <param>
+          <type>android.os.Bundle</type>
+          <declname>p1</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/110/android/src/crc64435a5ac349fa9fda/ActivityLifecycleContextListener.java" line="80" column="13" bodyfile="Application Green Quake.Android/obj/Debug/110/android/src/crc64435a5ac349fa9fda/ActivityLifecycleContextListener.java" bodystart="80" bodyend="83"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc64435a5ac349fa9fda_1_1_activity_lifecycle_context_listener_1a0f384b95946d49375ff3e52cf7661419" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void crc64435a5ac349fa9fda.ActivityLifecycleContextListener.onActivityStarted</definition>
+        <argsstring>(android.app.Activity p0)</argsstring>
+        <name>onActivityStarted</name>
+        <param>
+          <type>android.app.Activity</type>
+          <declname>p0</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/110/android/src/crc64435a5ac349fa9fda/ActivityLifecycleContextListener.java" line="88" column="13" bodyfile="Application Green Quake.Android/obj/Debug/110/android/src/crc64435a5ac349fa9fda/ActivityLifecycleContextListener.java" bodystart="88" bodyend="91"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc64435a5ac349fa9fda_1_1_activity_lifecycle_context_listener_1a9761d5ad3c5c9bb5e2de5efd83fe2e8d" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void crc64435a5ac349fa9fda.ActivityLifecycleContextListener.onActivityStopped</definition>
+        <argsstring>(android.app.Activity p0)</argsstring>
+        <name>onActivityStopped</name>
+        <param>
+          <type>android.app.Activity</type>
+          <declname>p0</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/110/android/src/crc64435a5ac349fa9fda/ActivityLifecycleContextListener.java" line="96" column="13" bodyfile="Application Green Quake.Android/obj/Debug/110/android/src/crc64435a5ac349fa9fda/ActivityLifecycleContextListener.java" bodystart="96" bodyend="99"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc64435a5ac349fa9fda_1_1_activity_lifecycle_context_listener_1ad80b5d3c6d9d1022858eb922e7563f56" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void crc64435a5ac349fa9fda.ActivityLifecycleContextListener.onActivityPostCreated</definition>
+        <argsstring>(android.app.Activity p0, android.os.Bundle p1)</argsstring>
+        <name>onActivityPostCreated</name>
+        <param>
+          <type>android.app.Activity</type>
+          <declname>p0</declname>
+        </param>
+        <param>
+          <type>android.os.Bundle</type>
+          <declname>p1</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/110/android/src/crc64435a5ac349fa9fda/ActivityLifecycleContextListener.java" line="104" column="13" bodyfile="Application Green Quake.Android/obj/Debug/110/android/src/crc64435a5ac349fa9fda/ActivityLifecycleContextListener.java" bodystart="104" bodyend="107"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc64435a5ac349fa9fda_1_1_activity_lifecycle_context_listener_1a565ec4c39804653dd47d8f51fe834e2b" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void crc64435a5ac349fa9fda.ActivityLifecycleContextListener.onActivityPostDestroyed</definition>
+        <argsstring>(android.app.Activity p0)</argsstring>
+        <name>onActivityPostDestroyed</name>
+        <param>
+          <type>android.app.Activity</type>
+          <declname>p0</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/110/android/src/crc64435a5ac349fa9fda/ActivityLifecycleContextListener.java" line="112" column="13" bodyfile="Application Green Quake.Android/obj/Debug/110/android/src/crc64435a5ac349fa9fda/ActivityLifecycleContextListener.java" bodystart="112" bodyend="115"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc64435a5ac349fa9fda_1_1_activity_lifecycle_context_listener_1a2475ea46f712fdb635239600b82df6c6" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void crc64435a5ac349fa9fda.ActivityLifecycleContextListener.onActivityPostPaused</definition>
+        <argsstring>(android.app.Activity p0)</argsstring>
+        <name>onActivityPostPaused</name>
+        <param>
+          <type>android.app.Activity</type>
+          <declname>p0</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/110/android/src/crc64435a5ac349fa9fda/ActivityLifecycleContextListener.java" line="120" column="13" bodyfile="Application Green Quake.Android/obj/Debug/110/android/src/crc64435a5ac349fa9fda/ActivityLifecycleContextListener.java" bodystart="120" bodyend="123"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc64435a5ac349fa9fda_1_1_activity_lifecycle_context_listener_1a74664f9e9ce3d8bd81670f6d717bc4b2" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void crc64435a5ac349fa9fda.ActivityLifecycleContextListener.onActivityPostResumed</definition>
+        <argsstring>(android.app.Activity p0)</argsstring>
+        <name>onActivityPostResumed</name>
+        <param>
+          <type>android.app.Activity</type>
+          <declname>p0</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/110/android/src/crc64435a5ac349fa9fda/ActivityLifecycleContextListener.java" line="128" column="13" bodyfile="Application Green Quake.Android/obj/Debug/110/android/src/crc64435a5ac349fa9fda/ActivityLifecycleContextListener.java" bodystart="128" bodyend="131"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc64435a5ac349fa9fda_1_1_activity_lifecycle_context_listener_1a947a85298742cf5b758b6c722265ec37" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void crc64435a5ac349fa9fda.ActivityLifecycleContextListener.onActivityPostSaveInstanceState</definition>
+        <argsstring>(android.app.Activity p0, android.os.Bundle p1)</argsstring>
+        <name>onActivityPostSaveInstanceState</name>
+        <param>
+          <type>android.app.Activity</type>
+          <declname>p0</declname>
+        </param>
+        <param>
+          <type>android.os.Bundle</type>
+          <declname>p1</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/110/android/src/crc64435a5ac349fa9fda/ActivityLifecycleContextListener.java" line="136" column="13" bodyfile="Application Green Quake.Android/obj/Debug/110/android/src/crc64435a5ac349fa9fda/ActivityLifecycleContextListener.java" bodystart="136" bodyend="139"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc64435a5ac349fa9fda_1_1_activity_lifecycle_context_listener_1ab10e8ce831c9c8eeb27130812f60c169" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void crc64435a5ac349fa9fda.ActivityLifecycleContextListener.onActivityPostStarted</definition>
+        <argsstring>(android.app.Activity p0)</argsstring>
+        <name>onActivityPostStarted</name>
+        <param>
+          <type>android.app.Activity</type>
+          <declname>p0</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/110/android/src/crc64435a5ac349fa9fda/ActivityLifecycleContextListener.java" line="144" column="13" bodyfile="Application Green Quake.Android/obj/Debug/110/android/src/crc64435a5ac349fa9fda/ActivityLifecycleContextListener.java" bodystart="144" bodyend="147"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc64435a5ac349fa9fda_1_1_activity_lifecycle_context_listener_1a7e6da41fe440f07058d4a5851e9eb787" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void crc64435a5ac349fa9fda.ActivityLifecycleContextListener.onActivityPostStopped</definition>
+        <argsstring>(android.app.Activity p0)</argsstring>
+        <name>onActivityPostStopped</name>
+        <param>
+          <type>android.app.Activity</type>
+          <declname>p0</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/110/android/src/crc64435a5ac349fa9fda/ActivityLifecycleContextListener.java" line="152" column="13" bodyfile="Application Green Quake.Android/obj/Debug/110/android/src/crc64435a5ac349fa9fda/ActivityLifecycleContextListener.java" bodystart="152" bodyend="155"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc64435a5ac349fa9fda_1_1_activity_lifecycle_context_listener_1aa6321f59d5d2d092c8e187369c56630b" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void crc64435a5ac349fa9fda.ActivityLifecycleContextListener.onActivityPreCreated</definition>
+        <argsstring>(android.app.Activity p0, android.os.Bundle p1)</argsstring>
+        <name>onActivityPreCreated</name>
+        <param>
+          <type>android.app.Activity</type>
+          <declname>p0</declname>
+        </param>
+        <param>
+          <type>android.os.Bundle</type>
+          <declname>p1</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/110/android/src/crc64435a5ac349fa9fda/ActivityLifecycleContextListener.java" line="160" column="13" bodyfile="Application Green Quake.Android/obj/Debug/110/android/src/crc64435a5ac349fa9fda/ActivityLifecycleContextListener.java" bodystart="160" bodyend="163"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc64435a5ac349fa9fda_1_1_activity_lifecycle_context_listener_1aa13627e0b0e5fce16138606d86825c5b" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void crc64435a5ac349fa9fda.ActivityLifecycleContextListener.onActivityPreDestroyed</definition>
+        <argsstring>(android.app.Activity p0)</argsstring>
+        <name>onActivityPreDestroyed</name>
+        <param>
+          <type>android.app.Activity</type>
+          <declname>p0</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/110/android/src/crc64435a5ac349fa9fda/ActivityLifecycleContextListener.java" line="168" column="13" bodyfile="Application Green Quake.Android/obj/Debug/110/android/src/crc64435a5ac349fa9fda/ActivityLifecycleContextListener.java" bodystart="168" bodyend="171"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc64435a5ac349fa9fda_1_1_activity_lifecycle_context_listener_1ac91fcb96aa6d2b9f3a105645d5580c06" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void crc64435a5ac349fa9fda.ActivityLifecycleContextListener.onActivityPrePaused</definition>
+        <argsstring>(android.app.Activity p0)</argsstring>
+        <name>onActivityPrePaused</name>
+        <param>
+          <type>android.app.Activity</type>
+          <declname>p0</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/110/android/src/crc64435a5ac349fa9fda/ActivityLifecycleContextListener.java" line="176" column="13" bodyfile="Application Green Quake.Android/obj/Debug/110/android/src/crc64435a5ac349fa9fda/ActivityLifecycleContextListener.java" bodystart="176" bodyend="179"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc64435a5ac349fa9fda_1_1_activity_lifecycle_context_listener_1aeab8bedc1fa4de524fe2697460af06fa" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void crc64435a5ac349fa9fda.ActivityLifecycleContextListener.onActivityPreResumed</definition>
+        <argsstring>(android.app.Activity p0)</argsstring>
+        <name>onActivityPreResumed</name>
+        <param>
+          <type>android.app.Activity</type>
+          <declname>p0</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/110/android/src/crc64435a5ac349fa9fda/ActivityLifecycleContextListener.java" line="184" column="13" bodyfile="Application Green Quake.Android/obj/Debug/110/android/src/crc64435a5ac349fa9fda/ActivityLifecycleContextListener.java" bodystart="184" bodyend="187"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc64435a5ac349fa9fda_1_1_activity_lifecycle_context_listener_1afbda1e8f9f9e2a65c7937710f0b5bb01" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void crc64435a5ac349fa9fda.ActivityLifecycleContextListener.onActivityPreSaveInstanceState</definition>
+        <argsstring>(android.app.Activity p0, android.os.Bundle p1)</argsstring>
+        <name>onActivityPreSaveInstanceState</name>
+        <param>
+          <type>android.app.Activity</type>
+          <declname>p0</declname>
+        </param>
+        <param>
+          <type>android.os.Bundle</type>
+          <declname>p1</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/110/android/src/crc64435a5ac349fa9fda/ActivityLifecycleContextListener.java" line="192" column="13" bodyfile="Application Green Quake.Android/obj/Debug/110/android/src/crc64435a5ac349fa9fda/ActivityLifecycleContextListener.java" bodystart="192" bodyend="195"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc64435a5ac349fa9fda_1_1_activity_lifecycle_context_listener_1a60768891dd7bde4578200f99379dff77" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void crc64435a5ac349fa9fda.ActivityLifecycleContextListener.onActivityPreStarted</definition>
+        <argsstring>(android.app.Activity p0)</argsstring>
+        <name>onActivityPreStarted</name>
+        <param>
+          <type>android.app.Activity</type>
+          <declname>p0</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/110/android/src/crc64435a5ac349fa9fda/ActivityLifecycleContextListener.java" line="200" column="13" bodyfile="Application Green Quake.Android/obj/Debug/110/android/src/crc64435a5ac349fa9fda/ActivityLifecycleContextListener.java" bodystart="200" bodyend="203"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc64435a5ac349fa9fda_1_1_activity_lifecycle_context_listener_1ad273469049d63b5a42c5c8ade6521572" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void crc64435a5ac349fa9fda.ActivityLifecycleContextListener.onActivityPreStopped</definition>
+        <argsstring>(android.app.Activity p0)</argsstring>
+        <name>onActivityPreStopped</name>
+        <param>
+          <type>android.app.Activity</type>
+          <declname>p0</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/110/android/src/crc64435a5ac349fa9fda/ActivityLifecycleContextListener.java" line="208" column="13" bodyfile="Application Green Quake.Android/obj/Debug/110/android/src/crc64435a5ac349fa9fda/ActivityLifecycleContextListener.java" bodystart="208" bodyend="211"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc64435a5ac349fa9fda_1_1_activity_lifecycle_context_listener_1ae7222d600976e2303ab7c38f6598ba38" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void crc64435a5ac349fa9fda.ActivityLifecycleContextListener.monodroidAddReference</definition>
+        <argsstring>(java.lang.Object obj)</argsstring>
+        <name>monodroidAddReference</name>
+        <param>
+          <type>java.lang.Object</type>
+          <declname>obj</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/110/android/src/crc64435a5ac349fa9fda/ActivityLifecycleContextListener.java" line="216" column="13" bodyfile="Application Green Quake.Android/obj/Debug/110/android/src/crc64435a5ac349fa9fda/ActivityLifecycleContextListener.java" bodystart="216" bodyend="221"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc64435a5ac349fa9fda_1_1_activity_lifecycle_context_listener_1abccb905dc1cb309518d5c98fc9f5f70a" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void crc64435a5ac349fa9fda.ActivityLifecycleContextListener.monodroidClearReferences</definition>
+        <argsstring>()</argsstring>
+        <name>monodroidClearReferences</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/110/android/src/crc64435a5ac349fa9fda/ActivityLifecycleContextListener.java" line="223" column="13" bodyfile="Application Green Quake.Android/obj/Debug/110/android/src/crc64435a5ac349fa9fda/ActivityLifecycleContextListener.java" bodystart="223" bodyend="227"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc64435a5ac349fa9fda_1_1_activity_lifecycle_context_listener_1a56553a445c70d3e7fdbb1200d58aee6b" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>crc64435a5ac349fa9fda.ActivityLifecycleContextListener.ActivityLifecycleContextListener</definition>
+        <argsstring>()</argsstring>
+        <name>ActivityLifecycleContextListener</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/100/android/src/crc64435a5ac349fa9fda/ActivityLifecycleContextListener.java" line="26" column="8" bodyfile="Application Green Quake.Android/obj/Release/100/android/src/crc64435a5ac349fa9fda/ActivityLifecycleContextListener.java" bodystart="26" bodyend="31"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc64435a5ac349fa9fda_1_1_activity_lifecycle_context_listener_1ac810b4055e207ad49166e9ea20eb5b58" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void crc64435a5ac349fa9fda.ActivityLifecycleContextListener.onActivityCreated</definition>
+        <argsstring>(android.app.Activity p0, android.os.Bundle p1)</argsstring>
+        <name>onActivityCreated</name>
+        <param>
+          <type>android.app.Activity</type>
+          <declname>p0</declname>
+        </param>
+        <param>
+          <type>android.os.Bundle</type>
+          <declname>p1</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/100/android/src/crc64435a5ac349fa9fda/ActivityLifecycleContextListener.java" line="34" column="13" bodyfile="Application Green Quake.Android/obj/Release/100/android/src/crc64435a5ac349fa9fda/ActivityLifecycleContextListener.java" bodystart="34" bodyend="37"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc64435a5ac349fa9fda_1_1_activity_lifecycle_context_listener_1ae04cbd8248a953807d2941342db40a08" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void crc64435a5ac349fa9fda.ActivityLifecycleContextListener.onActivityDestroyed</definition>
+        <argsstring>(android.app.Activity p0)</argsstring>
+        <name>onActivityDestroyed</name>
+        <param>
+          <type>android.app.Activity</type>
+          <declname>p0</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/100/android/src/crc64435a5ac349fa9fda/ActivityLifecycleContextListener.java" line="42" column="13" bodyfile="Application Green Quake.Android/obj/Release/100/android/src/crc64435a5ac349fa9fda/ActivityLifecycleContextListener.java" bodystart="42" bodyend="45"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc64435a5ac349fa9fda_1_1_activity_lifecycle_context_listener_1a732de5cf42f099cc3650829a6c9cbcfe" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void crc64435a5ac349fa9fda.ActivityLifecycleContextListener.onActivityPaused</definition>
+        <argsstring>(android.app.Activity p0)</argsstring>
+        <name>onActivityPaused</name>
+        <param>
+          <type>android.app.Activity</type>
+          <declname>p0</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/100/android/src/crc64435a5ac349fa9fda/ActivityLifecycleContextListener.java" line="50" column="13" bodyfile="Application Green Quake.Android/obj/Release/100/android/src/crc64435a5ac349fa9fda/ActivityLifecycleContextListener.java" bodystart="50" bodyend="53"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc64435a5ac349fa9fda_1_1_activity_lifecycle_context_listener_1aafb43ce09381d1535c2a69b90f8011c6" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void crc64435a5ac349fa9fda.ActivityLifecycleContextListener.onActivityResumed</definition>
+        <argsstring>(android.app.Activity p0)</argsstring>
+        <name>onActivityResumed</name>
+        <param>
+          <type>android.app.Activity</type>
+          <declname>p0</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/100/android/src/crc64435a5ac349fa9fda/ActivityLifecycleContextListener.java" line="58" column="13" bodyfile="Application Green Quake.Android/obj/Release/100/android/src/crc64435a5ac349fa9fda/ActivityLifecycleContextListener.java" bodystart="58" bodyend="61"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc64435a5ac349fa9fda_1_1_activity_lifecycle_context_listener_1af7bd2d82d341ea788c8481a1ec984716" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void crc64435a5ac349fa9fda.ActivityLifecycleContextListener.onActivitySaveInstanceState</definition>
+        <argsstring>(android.app.Activity p0, android.os.Bundle p1)</argsstring>
+        <name>onActivitySaveInstanceState</name>
+        <param>
+          <type>android.app.Activity</type>
+          <declname>p0</declname>
+        </param>
+        <param>
+          <type>android.os.Bundle</type>
+          <declname>p1</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/100/android/src/crc64435a5ac349fa9fda/ActivityLifecycleContextListener.java" line="66" column="13" bodyfile="Application Green Quake.Android/obj/Release/100/android/src/crc64435a5ac349fa9fda/ActivityLifecycleContextListener.java" bodystart="66" bodyend="69"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc64435a5ac349fa9fda_1_1_activity_lifecycle_context_listener_1a0f384b95946d49375ff3e52cf7661419" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void crc64435a5ac349fa9fda.ActivityLifecycleContextListener.onActivityStarted</definition>
+        <argsstring>(android.app.Activity p0)</argsstring>
+        <name>onActivityStarted</name>
+        <param>
+          <type>android.app.Activity</type>
+          <declname>p0</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/100/android/src/crc64435a5ac349fa9fda/ActivityLifecycleContextListener.java" line="74" column="13" bodyfile="Application Green Quake.Android/obj/Release/100/android/src/crc64435a5ac349fa9fda/ActivityLifecycleContextListener.java" bodystart="74" bodyend="77"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc64435a5ac349fa9fda_1_1_activity_lifecycle_context_listener_1a9761d5ad3c5c9bb5e2de5efd83fe2e8d" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void crc64435a5ac349fa9fda.ActivityLifecycleContextListener.onActivityStopped</definition>
+        <argsstring>(android.app.Activity p0)</argsstring>
+        <name>onActivityStopped</name>
+        <param>
+          <type>android.app.Activity</type>
+          <declname>p0</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/100/android/src/crc64435a5ac349fa9fda/ActivityLifecycleContextListener.java" line="82" column="13" bodyfile="Application Green Quake.Android/obj/Release/100/android/src/crc64435a5ac349fa9fda/ActivityLifecycleContextListener.java" bodystart="82" bodyend="85"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc64435a5ac349fa9fda_1_1_activity_lifecycle_context_listener_1ae7222d600976e2303ab7c38f6598ba38" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void crc64435a5ac349fa9fda.ActivityLifecycleContextListener.monodroidAddReference</definition>
+        <argsstring>(java.lang.Object obj)</argsstring>
+        <name>monodroidAddReference</name>
+        <param>
+          <type>java.lang.Object</type>
+          <declname>obj</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/100/android/src/crc64435a5ac349fa9fda/ActivityLifecycleContextListener.java" line="90" column="13" bodyfile="Application Green Quake.Android/obj/Release/100/android/src/crc64435a5ac349fa9fda/ActivityLifecycleContextListener.java" bodystart="90" bodyend="95"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc64435a5ac349fa9fda_1_1_activity_lifecycle_context_listener_1abccb905dc1cb309518d5c98fc9f5f70a" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void crc64435a5ac349fa9fda.ActivityLifecycleContextListener.monodroidClearReferences</definition>
+        <argsstring>()</argsstring>
+        <name>monodroidClearReferences</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/100/android/src/crc64435a5ac349fa9fda/ActivityLifecycleContextListener.java" line="97" column="13" bodyfile="Application Green Quake.Android/obj/Release/100/android/src/crc64435a5ac349fa9fda/ActivityLifecycleContextListener.java" bodystart="97" bodyend="101"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc64435a5ac349fa9fda_1_1_activity_lifecycle_context_listener_1a56553a445c70d3e7fdbb1200d58aee6b" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>crc64435a5ac349fa9fda.ActivityLifecycleContextListener.ActivityLifecycleContextListener</definition>
+        <argsstring>()</argsstring>
+        <name>ActivityLifecycleContextListener</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/110/android/src/crc64435a5ac349fa9fda/ActivityLifecycleContextListener.java" line="40" column="8" bodyfile="Application Green Quake.Android/obj/Release/110/android/src/crc64435a5ac349fa9fda/ActivityLifecycleContextListener.java" bodystart="40" bodyend="45"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc64435a5ac349fa9fda_1_1_activity_lifecycle_context_listener_1ac810b4055e207ad49166e9ea20eb5b58" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void crc64435a5ac349fa9fda.ActivityLifecycleContextListener.onActivityCreated</definition>
+        <argsstring>(android.app.Activity p0, android.os.Bundle p1)</argsstring>
+        <name>onActivityCreated</name>
+        <param>
+          <type>android.app.Activity</type>
+          <declname>p0</declname>
+        </param>
+        <param>
+          <type>android.os.Bundle</type>
+          <declname>p1</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/110/android/src/crc64435a5ac349fa9fda/ActivityLifecycleContextListener.java" line="48" column="13" bodyfile="Application Green Quake.Android/obj/Release/110/android/src/crc64435a5ac349fa9fda/ActivityLifecycleContextListener.java" bodystart="48" bodyend="51"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc64435a5ac349fa9fda_1_1_activity_lifecycle_context_listener_1ae04cbd8248a953807d2941342db40a08" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void crc64435a5ac349fa9fda.ActivityLifecycleContextListener.onActivityDestroyed</definition>
+        <argsstring>(android.app.Activity p0)</argsstring>
+        <name>onActivityDestroyed</name>
+        <param>
+          <type>android.app.Activity</type>
+          <declname>p0</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/110/android/src/crc64435a5ac349fa9fda/ActivityLifecycleContextListener.java" line="56" column="13" bodyfile="Application Green Quake.Android/obj/Release/110/android/src/crc64435a5ac349fa9fda/ActivityLifecycleContextListener.java" bodystart="56" bodyend="59"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc64435a5ac349fa9fda_1_1_activity_lifecycle_context_listener_1a732de5cf42f099cc3650829a6c9cbcfe" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void crc64435a5ac349fa9fda.ActivityLifecycleContextListener.onActivityPaused</definition>
+        <argsstring>(android.app.Activity p0)</argsstring>
+        <name>onActivityPaused</name>
+        <param>
+          <type>android.app.Activity</type>
+          <declname>p0</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/110/android/src/crc64435a5ac349fa9fda/ActivityLifecycleContextListener.java" line="64" column="13" bodyfile="Application Green Quake.Android/obj/Release/110/android/src/crc64435a5ac349fa9fda/ActivityLifecycleContextListener.java" bodystart="64" bodyend="67"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc64435a5ac349fa9fda_1_1_activity_lifecycle_context_listener_1aafb43ce09381d1535c2a69b90f8011c6" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void crc64435a5ac349fa9fda.ActivityLifecycleContextListener.onActivityResumed</definition>
+        <argsstring>(android.app.Activity p0)</argsstring>
+        <name>onActivityResumed</name>
+        <param>
+          <type>android.app.Activity</type>
+          <declname>p0</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/110/android/src/crc64435a5ac349fa9fda/ActivityLifecycleContextListener.java" line="72" column="13" bodyfile="Application Green Quake.Android/obj/Release/110/android/src/crc64435a5ac349fa9fda/ActivityLifecycleContextListener.java" bodystart="72" bodyend="75"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc64435a5ac349fa9fda_1_1_activity_lifecycle_context_listener_1af7bd2d82d341ea788c8481a1ec984716" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void crc64435a5ac349fa9fda.ActivityLifecycleContextListener.onActivitySaveInstanceState</definition>
+        <argsstring>(android.app.Activity p0, android.os.Bundle p1)</argsstring>
+        <name>onActivitySaveInstanceState</name>
+        <param>
+          <type>android.app.Activity</type>
+          <declname>p0</declname>
+        </param>
+        <param>
+          <type>android.os.Bundle</type>
+          <declname>p1</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/110/android/src/crc64435a5ac349fa9fda/ActivityLifecycleContextListener.java" line="80" column="13" bodyfile="Application Green Quake.Android/obj/Release/110/android/src/crc64435a5ac349fa9fda/ActivityLifecycleContextListener.java" bodystart="80" bodyend="83"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc64435a5ac349fa9fda_1_1_activity_lifecycle_context_listener_1a0f384b95946d49375ff3e52cf7661419" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void crc64435a5ac349fa9fda.ActivityLifecycleContextListener.onActivityStarted</definition>
+        <argsstring>(android.app.Activity p0)</argsstring>
+        <name>onActivityStarted</name>
+        <param>
+          <type>android.app.Activity</type>
+          <declname>p0</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/110/android/src/crc64435a5ac349fa9fda/ActivityLifecycleContextListener.java" line="88" column="13" bodyfile="Application Green Quake.Android/obj/Release/110/android/src/crc64435a5ac349fa9fda/ActivityLifecycleContextListener.java" bodystart="88" bodyend="91"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc64435a5ac349fa9fda_1_1_activity_lifecycle_context_listener_1a9761d5ad3c5c9bb5e2de5efd83fe2e8d" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void crc64435a5ac349fa9fda.ActivityLifecycleContextListener.onActivityStopped</definition>
+        <argsstring>(android.app.Activity p0)</argsstring>
+        <name>onActivityStopped</name>
+        <param>
+          <type>android.app.Activity</type>
+          <declname>p0</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/110/android/src/crc64435a5ac349fa9fda/ActivityLifecycleContextListener.java" line="96" column="13" bodyfile="Application Green Quake.Android/obj/Release/110/android/src/crc64435a5ac349fa9fda/ActivityLifecycleContextListener.java" bodystart="96" bodyend="99"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc64435a5ac349fa9fda_1_1_activity_lifecycle_context_listener_1ad80b5d3c6d9d1022858eb922e7563f56" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void crc64435a5ac349fa9fda.ActivityLifecycleContextListener.onActivityPostCreated</definition>
+        <argsstring>(android.app.Activity p0, android.os.Bundle p1)</argsstring>
+        <name>onActivityPostCreated</name>
+        <param>
+          <type>android.app.Activity</type>
+          <declname>p0</declname>
+        </param>
+        <param>
+          <type>android.os.Bundle</type>
+          <declname>p1</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/110/android/src/crc64435a5ac349fa9fda/ActivityLifecycleContextListener.java" line="104" column="13" bodyfile="Application Green Quake.Android/obj/Release/110/android/src/crc64435a5ac349fa9fda/ActivityLifecycleContextListener.java" bodystart="104" bodyend="107"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc64435a5ac349fa9fda_1_1_activity_lifecycle_context_listener_1a565ec4c39804653dd47d8f51fe834e2b" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void crc64435a5ac349fa9fda.ActivityLifecycleContextListener.onActivityPostDestroyed</definition>
+        <argsstring>(android.app.Activity p0)</argsstring>
+        <name>onActivityPostDestroyed</name>
+        <param>
+          <type>android.app.Activity</type>
+          <declname>p0</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/110/android/src/crc64435a5ac349fa9fda/ActivityLifecycleContextListener.java" line="112" column="13" bodyfile="Application Green Quake.Android/obj/Release/110/android/src/crc64435a5ac349fa9fda/ActivityLifecycleContextListener.java" bodystart="112" bodyend="115"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc64435a5ac349fa9fda_1_1_activity_lifecycle_context_listener_1a2475ea46f712fdb635239600b82df6c6" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void crc64435a5ac349fa9fda.ActivityLifecycleContextListener.onActivityPostPaused</definition>
+        <argsstring>(android.app.Activity p0)</argsstring>
+        <name>onActivityPostPaused</name>
+        <param>
+          <type>android.app.Activity</type>
+          <declname>p0</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/110/android/src/crc64435a5ac349fa9fda/ActivityLifecycleContextListener.java" line="120" column="13" bodyfile="Application Green Quake.Android/obj/Release/110/android/src/crc64435a5ac349fa9fda/ActivityLifecycleContextListener.java" bodystart="120" bodyend="123"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc64435a5ac349fa9fda_1_1_activity_lifecycle_context_listener_1a74664f9e9ce3d8bd81670f6d717bc4b2" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void crc64435a5ac349fa9fda.ActivityLifecycleContextListener.onActivityPostResumed</definition>
+        <argsstring>(android.app.Activity p0)</argsstring>
+        <name>onActivityPostResumed</name>
+        <param>
+          <type>android.app.Activity</type>
+          <declname>p0</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/110/android/src/crc64435a5ac349fa9fda/ActivityLifecycleContextListener.java" line="128" column="13" bodyfile="Application Green Quake.Android/obj/Release/110/android/src/crc64435a5ac349fa9fda/ActivityLifecycleContextListener.java" bodystart="128" bodyend="131"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc64435a5ac349fa9fda_1_1_activity_lifecycle_context_listener_1a947a85298742cf5b758b6c722265ec37" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void crc64435a5ac349fa9fda.ActivityLifecycleContextListener.onActivityPostSaveInstanceState</definition>
+        <argsstring>(android.app.Activity p0, android.os.Bundle p1)</argsstring>
+        <name>onActivityPostSaveInstanceState</name>
+        <param>
+          <type>android.app.Activity</type>
+          <declname>p0</declname>
+        </param>
+        <param>
+          <type>android.os.Bundle</type>
+          <declname>p1</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/110/android/src/crc64435a5ac349fa9fda/ActivityLifecycleContextListener.java" line="136" column="13" bodyfile="Application Green Quake.Android/obj/Release/110/android/src/crc64435a5ac349fa9fda/ActivityLifecycleContextListener.java" bodystart="136" bodyend="139"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc64435a5ac349fa9fda_1_1_activity_lifecycle_context_listener_1ab10e8ce831c9c8eeb27130812f60c169" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void crc64435a5ac349fa9fda.ActivityLifecycleContextListener.onActivityPostStarted</definition>
+        <argsstring>(android.app.Activity p0)</argsstring>
+        <name>onActivityPostStarted</name>
+        <param>
+          <type>android.app.Activity</type>
+          <declname>p0</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/110/android/src/crc64435a5ac349fa9fda/ActivityLifecycleContextListener.java" line="144" column="13" bodyfile="Application Green Quake.Android/obj/Release/110/android/src/crc64435a5ac349fa9fda/ActivityLifecycleContextListener.java" bodystart="144" bodyend="147"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc64435a5ac349fa9fda_1_1_activity_lifecycle_context_listener_1a7e6da41fe440f07058d4a5851e9eb787" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void crc64435a5ac349fa9fda.ActivityLifecycleContextListener.onActivityPostStopped</definition>
+        <argsstring>(android.app.Activity p0)</argsstring>
+        <name>onActivityPostStopped</name>
+        <param>
+          <type>android.app.Activity</type>
+          <declname>p0</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/110/android/src/crc64435a5ac349fa9fda/ActivityLifecycleContextListener.java" line="152" column="13" bodyfile="Application Green Quake.Android/obj/Release/110/android/src/crc64435a5ac349fa9fda/ActivityLifecycleContextListener.java" bodystart="152" bodyend="155"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc64435a5ac349fa9fda_1_1_activity_lifecycle_context_listener_1aa6321f59d5d2d092c8e187369c56630b" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void crc64435a5ac349fa9fda.ActivityLifecycleContextListener.onActivityPreCreated</definition>
+        <argsstring>(android.app.Activity p0, android.os.Bundle p1)</argsstring>
+        <name>onActivityPreCreated</name>
+        <param>
+          <type>android.app.Activity</type>
+          <declname>p0</declname>
+        </param>
+        <param>
+          <type>android.os.Bundle</type>
+          <declname>p1</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/110/android/src/crc64435a5ac349fa9fda/ActivityLifecycleContextListener.java" line="160" column="13" bodyfile="Application Green Quake.Android/obj/Release/110/android/src/crc64435a5ac349fa9fda/ActivityLifecycleContextListener.java" bodystart="160" bodyend="163"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc64435a5ac349fa9fda_1_1_activity_lifecycle_context_listener_1aa13627e0b0e5fce16138606d86825c5b" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void crc64435a5ac349fa9fda.ActivityLifecycleContextListener.onActivityPreDestroyed</definition>
+        <argsstring>(android.app.Activity p0)</argsstring>
+        <name>onActivityPreDestroyed</name>
+        <param>
+          <type>android.app.Activity</type>
+          <declname>p0</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/110/android/src/crc64435a5ac349fa9fda/ActivityLifecycleContextListener.java" line="168" column="13" bodyfile="Application Green Quake.Android/obj/Release/110/android/src/crc64435a5ac349fa9fda/ActivityLifecycleContextListener.java" bodystart="168" bodyend="171"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc64435a5ac349fa9fda_1_1_activity_lifecycle_context_listener_1ac91fcb96aa6d2b9f3a105645d5580c06" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void crc64435a5ac349fa9fda.ActivityLifecycleContextListener.onActivityPrePaused</definition>
+        <argsstring>(android.app.Activity p0)</argsstring>
+        <name>onActivityPrePaused</name>
+        <param>
+          <type>android.app.Activity</type>
+          <declname>p0</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/110/android/src/crc64435a5ac349fa9fda/ActivityLifecycleContextListener.java" line="176" column="13" bodyfile="Application Green Quake.Android/obj/Release/110/android/src/crc64435a5ac349fa9fda/ActivityLifecycleContextListener.java" bodystart="176" bodyend="179"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc64435a5ac349fa9fda_1_1_activity_lifecycle_context_listener_1aeab8bedc1fa4de524fe2697460af06fa" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void crc64435a5ac349fa9fda.ActivityLifecycleContextListener.onActivityPreResumed</definition>
+        <argsstring>(android.app.Activity p0)</argsstring>
+        <name>onActivityPreResumed</name>
+        <param>
+          <type>android.app.Activity</type>
+          <declname>p0</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/110/android/src/crc64435a5ac349fa9fda/ActivityLifecycleContextListener.java" line="184" column="13" bodyfile="Application Green Quake.Android/obj/Release/110/android/src/crc64435a5ac349fa9fda/ActivityLifecycleContextListener.java" bodystart="184" bodyend="187"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc64435a5ac349fa9fda_1_1_activity_lifecycle_context_listener_1afbda1e8f9f9e2a65c7937710f0b5bb01" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void crc64435a5ac349fa9fda.ActivityLifecycleContextListener.onActivityPreSaveInstanceState</definition>
+        <argsstring>(android.app.Activity p0, android.os.Bundle p1)</argsstring>
+        <name>onActivityPreSaveInstanceState</name>
+        <param>
+          <type>android.app.Activity</type>
+          <declname>p0</declname>
+        </param>
+        <param>
+          <type>android.os.Bundle</type>
+          <declname>p1</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/110/android/src/crc64435a5ac349fa9fda/ActivityLifecycleContextListener.java" line="192" column="13" bodyfile="Application Green Quake.Android/obj/Release/110/android/src/crc64435a5ac349fa9fda/ActivityLifecycleContextListener.java" bodystart="192" bodyend="195"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc64435a5ac349fa9fda_1_1_activity_lifecycle_context_listener_1a60768891dd7bde4578200f99379dff77" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void crc64435a5ac349fa9fda.ActivityLifecycleContextListener.onActivityPreStarted</definition>
+        <argsstring>(android.app.Activity p0)</argsstring>
+        <name>onActivityPreStarted</name>
+        <param>
+          <type>android.app.Activity</type>
+          <declname>p0</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/110/android/src/crc64435a5ac349fa9fda/ActivityLifecycleContextListener.java" line="200" column="13" bodyfile="Application Green Quake.Android/obj/Release/110/android/src/crc64435a5ac349fa9fda/ActivityLifecycleContextListener.java" bodystart="200" bodyend="203"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc64435a5ac349fa9fda_1_1_activity_lifecycle_context_listener_1ad273469049d63b5a42c5c8ade6521572" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void crc64435a5ac349fa9fda.ActivityLifecycleContextListener.onActivityPreStopped</definition>
+        <argsstring>(android.app.Activity p0)</argsstring>
+        <name>onActivityPreStopped</name>
+        <param>
+          <type>android.app.Activity</type>
+          <declname>p0</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/110/android/src/crc64435a5ac349fa9fda/ActivityLifecycleContextListener.java" line="208" column="13" bodyfile="Application Green Quake.Android/obj/Release/110/android/src/crc64435a5ac349fa9fda/ActivityLifecycleContextListener.java" bodystart="208" bodyend="211"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc64435a5ac349fa9fda_1_1_activity_lifecycle_context_listener_1ae7222d600976e2303ab7c38f6598ba38" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void crc64435a5ac349fa9fda.ActivityLifecycleContextListener.monodroidAddReference</definition>
+        <argsstring>(java.lang.Object obj)</argsstring>
+        <name>monodroidAddReference</name>
+        <param>
+          <type>java.lang.Object</type>
+          <declname>obj</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/110/android/src/crc64435a5ac349fa9fda/ActivityLifecycleContextListener.java" line="216" column="13" bodyfile="Application Green Quake.Android/obj/Release/110/android/src/crc64435a5ac349fa9fda/ActivityLifecycleContextListener.java" bodystart="216" bodyend="221"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc64435a5ac349fa9fda_1_1_activity_lifecycle_context_listener_1abccb905dc1cb309518d5c98fc9f5f70a" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void crc64435a5ac349fa9fda.ActivityLifecycleContextListener.monodroidClearReferences</definition>
+        <argsstring>()</argsstring>
+        <name>monodroidClearReferences</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/110/android/src/crc64435a5ac349fa9fda/ActivityLifecycleContextListener.java" line="223" column="13" bodyfile="Application Green Quake.Android/obj/Release/110/android/src/crc64435a5ac349fa9fda/ActivityLifecycleContextListener.java" bodystart="223" bodyend="227"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="private-func">
+      <memberdef kind="function" id="classcrc64435a5ac349fa9fda_1_1_activity_lifecycle_context_listener_1abee524a56d38b4962ccbee177b20bef5" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>native void</type>
+        <definition>native void crc64435a5ac349fa9fda.ActivityLifecycleContextListener.n_onActivityCreated</definition>
+        <argsstring>(android.app.Activity p0, android.os.Bundle p1)</argsstring>
+        <name>n_onActivityCreated</name>
+        <param>
+          <type>android.app.Activity</type>
+          <declname>p0</declname>
+        </param>
+        <param>
+          <type>android.os.Bundle</type>
+          <declname>p1</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/100/android/src/crc64435a5ac349fa9fda/ActivityLifecycleContextListener.java" line="39" column="21"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc64435a5ac349fa9fda_1_1_activity_lifecycle_context_listener_1a51211fa45a29b9de2146dfffca937a78" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>native void</type>
+        <definition>native void crc64435a5ac349fa9fda.ActivityLifecycleContextListener.n_onActivityDestroyed</definition>
+        <argsstring>(android.app.Activity p0)</argsstring>
+        <name>n_onActivityDestroyed</name>
+        <param>
+          <type>android.app.Activity</type>
+          <declname>p0</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/100/android/src/crc64435a5ac349fa9fda/ActivityLifecycleContextListener.java" line="47" column="21"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc64435a5ac349fa9fda_1_1_activity_lifecycle_context_listener_1acd61b6e9ae4b58304cb7ccaed9dcc4d5" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>native void</type>
+        <definition>native void crc64435a5ac349fa9fda.ActivityLifecycleContextListener.n_onActivityPaused</definition>
+        <argsstring>(android.app.Activity p0)</argsstring>
+        <name>n_onActivityPaused</name>
+        <param>
+          <type>android.app.Activity</type>
+          <declname>p0</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/100/android/src/crc64435a5ac349fa9fda/ActivityLifecycleContextListener.java" line="55" column="21"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc64435a5ac349fa9fda_1_1_activity_lifecycle_context_listener_1a815fcf95f8821c7d97fd53425d7a7691" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>native void</type>
+        <definition>native void crc64435a5ac349fa9fda.ActivityLifecycleContextListener.n_onActivityResumed</definition>
+        <argsstring>(android.app.Activity p0)</argsstring>
+        <name>n_onActivityResumed</name>
+        <param>
+          <type>android.app.Activity</type>
+          <declname>p0</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/100/android/src/crc64435a5ac349fa9fda/ActivityLifecycleContextListener.java" line="63" column="21"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc64435a5ac349fa9fda_1_1_activity_lifecycle_context_listener_1a15ead7c860c063bef2a05e0671bdf58c" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>native void</type>
+        <definition>native void crc64435a5ac349fa9fda.ActivityLifecycleContextListener.n_onActivitySaveInstanceState</definition>
+        <argsstring>(android.app.Activity p0, android.os.Bundle p1)</argsstring>
+        <name>n_onActivitySaveInstanceState</name>
+        <param>
+          <type>android.app.Activity</type>
+          <declname>p0</declname>
+        </param>
+        <param>
+          <type>android.os.Bundle</type>
+          <declname>p1</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/100/android/src/crc64435a5ac349fa9fda/ActivityLifecycleContextListener.java" line="71" column="21"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc64435a5ac349fa9fda_1_1_activity_lifecycle_context_listener_1a01d882730f021bf8b9ca14eafe5ab03c" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>native void</type>
+        <definition>native void crc64435a5ac349fa9fda.ActivityLifecycleContextListener.n_onActivityStarted</definition>
+        <argsstring>(android.app.Activity p0)</argsstring>
+        <name>n_onActivityStarted</name>
+        <param>
+          <type>android.app.Activity</type>
+          <declname>p0</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/100/android/src/crc64435a5ac349fa9fda/ActivityLifecycleContextListener.java" line="79" column="21"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc64435a5ac349fa9fda_1_1_activity_lifecycle_context_listener_1a7b576ec343e235256691d5c5ac71e920" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>native void</type>
+        <definition>native void crc64435a5ac349fa9fda.ActivityLifecycleContextListener.n_onActivityStopped</definition>
+        <argsstring>(android.app.Activity p0)</argsstring>
+        <name>n_onActivityStopped</name>
+        <param>
+          <type>android.app.Activity</type>
+          <declname>p0</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/100/android/src/crc64435a5ac349fa9fda/ActivityLifecycleContextListener.java" line="87" column="21"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc64435a5ac349fa9fda_1_1_activity_lifecycle_context_listener_1abee524a56d38b4962ccbee177b20bef5" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>native void</type>
+        <definition>native void crc64435a5ac349fa9fda.ActivityLifecycleContextListener.n_onActivityCreated</definition>
+        <argsstring>(android.app.Activity p0, android.os.Bundle p1)</argsstring>
+        <name>n_onActivityCreated</name>
+        <param>
+          <type>android.app.Activity</type>
+          <declname>p0</declname>
+        </param>
+        <param>
+          <type>android.os.Bundle</type>
+          <declname>p1</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/110/android/src/crc64435a5ac349fa9fda/ActivityLifecycleContextListener.java" line="53" column="21"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc64435a5ac349fa9fda_1_1_activity_lifecycle_context_listener_1a51211fa45a29b9de2146dfffca937a78" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>native void</type>
+        <definition>native void crc64435a5ac349fa9fda.ActivityLifecycleContextListener.n_onActivityDestroyed</definition>
+        <argsstring>(android.app.Activity p0)</argsstring>
+        <name>n_onActivityDestroyed</name>
+        <param>
+          <type>android.app.Activity</type>
+          <declname>p0</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/110/android/src/crc64435a5ac349fa9fda/ActivityLifecycleContextListener.java" line="61" column="21"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc64435a5ac349fa9fda_1_1_activity_lifecycle_context_listener_1acd61b6e9ae4b58304cb7ccaed9dcc4d5" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>native void</type>
+        <definition>native void crc64435a5ac349fa9fda.ActivityLifecycleContextListener.n_onActivityPaused</definition>
+        <argsstring>(android.app.Activity p0)</argsstring>
+        <name>n_onActivityPaused</name>
+        <param>
+          <type>android.app.Activity</type>
+          <declname>p0</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/110/android/src/crc64435a5ac349fa9fda/ActivityLifecycleContextListener.java" line="69" column="21"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc64435a5ac349fa9fda_1_1_activity_lifecycle_context_listener_1a815fcf95f8821c7d97fd53425d7a7691" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>native void</type>
+        <definition>native void crc64435a5ac349fa9fda.ActivityLifecycleContextListener.n_onActivityResumed</definition>
+        <argsstring>(android.app.Activity p0)</argsstring>
+        <name>n_onActivityResumed</name>
+        <param>
+          <type>android.app.Activity</type>
+          <declname>p0</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/110/android/src/crc64435a5ac349fa9fda/ActivityLifecycleContextListener.java" line="77" column="21"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc64435a5ac349fa9fda_1_1_activity_lifecycle_context_listener_1a15ead7c860c063bef2a05e0671bdf58c" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>native void</type>
+        <definition>native void crc64435a5ac349fa9fda.ActivityLifecycleContextListener.n_onActivitySaveInstanceState</definition>
+        <argsstring>(android.app.Activity p0, android.os.Bundle p1)</argsstring>
+        <name>n_onActivitySaveInstanceState</name>
+        <param>
+          <type>android.app.Activity</type>
+          <declname>p0</declname>
+        </param>
+        <param>
+          <type>android.os.Bundle</type>
+          <declname>p1</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/110/android/src/crc64435a5ac349fa9fda/ActivityLifecycleContextListener.java" line="85" column="21"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc64435a5ac349fa9fda_1_1_activity_lifecycle_context_listener_1a01d882730f021bf8b9ca14eafe5ab03c" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>native void</type>
+        <definition>native void crc64435a5ac349fa9fda.ActivityLifecycleContextListener.n_onActivityStarted</definition>
+        <argsstring>(android.app.Activity p0)</argsstring>
+        <name>n_onActivityStarted</name>
+        <param>
+          <type>android.app.Activity</type>
+          <declname>p0</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/110/android/src/crc64435a5ac349fa9fda/ActivityLifecycleContextListener.java" line="93" column="21"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc64435a5ac349fa9fda_1_1_activity_lifecycle_context_listener_1a7b576ec343e235256691d5c5ac71e920" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>native void</type>
+        <definition>native void crc64435a5ac349fa9fda.ActivityLifecycleContextListener.n_onActivityStopped</definition>
+        <argsstring>(android.app.Activity p0)</argsstring>
+        <name>n_onActivityStopped</name>
+        <param>
+          <type>android.app.Activity</type>
+          <declname>p0</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/110/android/src/crc64435a5ac349fa9fda/ActivityLifecycleContextListener.java" line="101" column="21"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc64435a5ac349fa9fda_1_1_activity_lifecycle_context_listener_1a17750c25d2752489d3cf9d3056e39ead" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>native void</type>
+        <definition>native void crc64435a5ac349fa9fda.ActivityLifecycleContextListener.n_onActivityPostCreated</definition>
+        <argsstring>(android.app.Activity p0, android.os.Bundle p1)</argsstring>
+        <name>n_onActivityPostCreated</name>
+        <param>
+          <type>android.app.Activity</type>
+          <declname>p0</declname>
+        </param>
+        <param>
+          <type>android.os.Bundle</type>
+          <declname>p1</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/110/android/src/crc64435a5ac349fa9fda/ActivityLifecycleContextListener.java" line="109" column="21"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc64435a5ac349fa9fda_1_1_activity_lifecycle_context_listener_1a13ca3c7a5c7105066e82b04bfbec64cd" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>native void</type>
+        <definition>native void crc64435a5ac349fa9fda.ActivityLifecycleContextListener.n_onActivityPostDestroyed</definition>
+        <argsstring>(android.app.Activity p0)</argsstring>
+        <name>n_onActivityPostDestroyed</name>
+        <param>
+          <type>android.app.Activity</type>
+          <declname>p0</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/110/android/src/crc64435a5ac349fa9fda/ActivityLifecycleContextListener.java" line="117" column="21"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc64435a5ac349fa9fda_1_1_activity_lifecycle_context_listener_1a919e7626edee9ab0581e81458f7f5f05" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>native void</type>
+        <definition>native void crc64435a5ac349fa9fda.ActivityLifecycleContextListener.n_onActivityPostPaused</definition>
+        <argsstring>(android.app.Activity p0)</argsstring>
+        <name>n_onActivityPostPaused</name>
+        <param>
+          <type>android.app.Activity</type>
+          <declname>p0</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/110/android/src/crc64435a5ac349fa9fda/ActivityLifecycleContextListener.java" line="125" column="21"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc64435a5ac349fa9fda_1_1_activity_lifecycle_context_listener_1aeff02ea5bc278d551e75ac46ab4388a2" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>native void</type>
+        <definition>native void crc64435a5ac349fa9fda.ActivityLifecycleContextListener.n_onActivityPostResumed</definition>
+        <argsstring>(android.app.Activity p0)</argsstring>
+        <name>n_onActivityPostResumed</name>
+        <param>
+          <type>android.app.Activity</type>
+          <declname>p0</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/110/android/src/crc64435a5ac349fa9fda/ActivityLifecycleContextListener.java" line="133" column="21"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc64435a5ac349fa9fda_1_1_activity_lifecycle_context_listener_1aaf2432188b5ed2ffabdfe18b5694d2cb" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>native void</type>
+        <definition>native void crc64435a5ac349fa9fda.ActivityLifecycleContextListener.n_onActivityPostSaveInstanceState</definition>
+        <argsstring>(android.app.Activity p0, android.os.Bundle p1)</argsstring>
+        <name>n_onActivityPostSaveInstanceState</name>
+        <param>
+          <type>android.app.Activity</type>
+          <declname>p0</declname>
+        </param>
+        <param>
+          <type>android.os.Bundle</type>
+          <declname>p1</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/110/android/src/crc64435a5ac349fa9fda/ActivityLifecycleContextListener.java" line="141" column="21"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc64435a5ac349fa9fda_1_1_activity_lifecycle_context_listener_1af7248acd8f5a031fc3818de2135d40ee" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>native void</type>
+        <definition>native void crc64435a5ac349fa9fda.ActivityLifecycleContextListener.n_onActivityPostStarted</definition>
+        <argsstring>(android.app.Activity p0)</argsstring>
+        <name>n_onActivityPostStarted</name>
+        <param>
+          <type>android.app.Activity</type>
+          <declname>p0</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/110/android/src/crc64435a5ac349fa9fda/ActivityLifecycleContextListener.java" line="149" column="21"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc64435a5ac349fa9fda_1_1_activity_lifecycle_context_listener_1a24739d5fc77819840647f04a09d8ab8f" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>native void</type>
+        <definition>native void crc64435a5ac349fa9fda.ActivityLifecycleContextListener.n_onActivityPostStopped</definition>
+        <argsstring>(android.app.Activity p0)</argsstring>
+        <name>n_onActivityPostStopped</name>
+        <param>
+          <type>android.app.Activity</type>
+          <declname>p0</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/110/android/src/crc64435a5ac349fa9fda/ActivityLifecycleContextListener.java" line="157" column="21"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc64435a5ac349fa9fda_1_1_activity_lifecycle_context_listener_1afed7433d1e852457f8cbcc2bc810f1b9" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>native void</type>
+        <definition>native void crc64435a5ac349fa9fda.ActivityLifecycleContextListener.n_onActivityPreCreated</definition>
+        <argsstring>(android.app.Activity p0, android.os.Bundle p1)</argsstring>
+        <name>n_onActivityPreCreated</name>
+        <param>
+          <type>android.app.Activity</type>
+          <declname>p0</declname>
+        </param>
+        <param>
+          <type>android.os.Bundle</type>
+          <declname>p1</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/110/android/src/crc64435a5ac349fa9fda/ActivityLifecycleContextListener.java" line="165" column="21"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc64435a5ac349fa9fda_1_1_activity_lifecycle_context_listener_1a0eb467bf394ecde87a55f81fd280f156" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>native void</type>
+        <definition>native void crc64435a5ac349fa9fda.ActivityLifecycleContextListener.n_onActivityPreDestroyed</definition>
+        <argsstring>(android.app.Activity p0)</argsstring>
+        <name>n_onActivityPreDestroyed</name>
+        <param>
+          <type>android.app.Activity</type>
+          <declname>p0</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/110/android/src/crc64435a5ac349fa9fda/ActivityLifecycleContextListener.java" line="173" column="21"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc64435a5ac349fa9fda_1_1_activity_lifecycle_context_listener_1a43e94bd0627a5c036be7498ef5d4a8bf" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>native void</type>
+        <definition>native void crc64435a5ac349fa9fda.ActivityLifecycleContextListener.n_onActivityPrePaused</definition>
+        <argsstring>(android.app.Activity p0)</argsstring>
+        <name>n_onActivityPrePaused</name>
+        <param>
+          <type>android.app.Activity</type>
+          <declname>p0</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/110/android/src/crc64435a5ac349fa9fda/ActivityLifecycleContextListener.java" line="181" column="21"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc64435a5ac349fa9fda_1_1_activity_lifecycle_context_listener_1a8b3bb9f18404ffc76a3dc6373e8c9882" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>native void</type>
+        <definition>native void crc64435a5ac349fa9fda.ActivityLifecycleContextListener.n_onActivityPreResumed</definition>
+        <argsstring>(android.app.Activity p0)</argsstring>
+        <name>n_onActivityPreResumed</name>
+        <param>
+          <type>android.app.Activity</type>
+          <declname>p0</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/110/android/src/crc64435a5ac349fa9fda/ActivityLifecycleContextListener.java" line="189" column="21"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc64435a5ac349fa9fda_1_1_activity_lifecycle_context_listener_1a0c63ca233c53f46f40762b1c745120ce" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>native void</type>
+        <definition>native void crc64435a5ac349fa9fda.ActivityLifecycleContextListener.n_onActivityPreSaveInstanceState</definition>
+        <argsstring>(android.app.Activity p0, android.os.Bundle p1)</argsstring>
+        <name>n_onActivityPreSaveInstanceState</name>
+        <param>
+          <type>android.app.Activity</type>
+          <declname>p0</declname>
+        </param>
+        <param>
+          <type>android.os.Bundle</type>
+          <declname>p1</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/110/android/src/crc64435a5ac349fa9fda/ActivityLifecycleContextListener.java" line="197" column="21"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc64435a5ac349fa9fda_1_1_activity_lifecycle_context_listener_1acfd2eaa00c6f2d616778f543ce072f9b" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>native void</type>
+        <definition>native void crc64435a5ac349fa9fda.ActivityLifecycleContextListener.n_onActivityPreStarted</definition>
+        <argsstring>(android.app.Activity p0)</argsstring>
+        <name>n_onActivityPreStarted</name>
+        <param>
+          <type>android.app.Activity</type>
+          <declname>p0</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/110/android/src/crc64435a5ac349fa9fda/ActivityLifecycleContextListener.java" line="205" column="21"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc64435a5ac349fa9fda_1_1_activity_lifecycle_context_listener_1a1b5fe47cc9b2498dbf783a252140ad0b" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>native void</type>
+        <definition>native void crc64435a5ac349fa9fda.ActivityLifecycleContextListener.n_onActivityPreStopped</definition>
+        <argsstring>(android.app.Activity p0)</argsstring>
+        <name>n_onActivityPreStopped</name>
+        <param>
+          <type>android.app.Activity</type>
+          <declname>p0</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/110/android/src/crc64435a5ac349fa9fda/ActivityLifecycleContextListener.java" line="213" column="21"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc64435a5ac349fa9fda_1_1_activity_lifecycle_context_listener_1abee524a56d38b4962ccbee177b20bef5" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>native void</type>
+        <definition>native void crc64435a5ac349fa9fda.ActivityLifecycleContextListener.n_onActivityCreated</definition>
+        <argsstring>(android.app.Activity p0, android.os.Bundle p1)</argsstring>
+        <name>n_onActivityCreated</name>
+        <param>
+          <type>android.app.Activity</type>
+          <declname>p0</declname>
+        </param>
+        <param>
+          <type>android.os.Bundle</type>
+          <declname>p1</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/100/android/src/crc64435a5ac349fa9fda/ActivityLifecycleContextListener.java" line="39" column="21"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc64435a5ac349fa9fda_1_1_activity_lifecycle_context_listener_1a51211fa45a29b9de2146dfffca937a78" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>native void</type>
+        <definition>native void crc64435a5ac349fa9fda.ActivityLifecycleContextListener.n_onActivityDestroyed</definition>
+        <argsstring>(android.app.Activity p0)</argsstring>
+        <name>n_onActivityDestroyed</name>
+        <param>
+          <type>android.app.Activity</type>
+          <declname>p0</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/100/android/src/crc64435a5ac349fa9fda/ActivityLifecycleContextListener.java" line="47" column="21"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc64435a5ac349fa9fda_1_1_activity_lifecycle_context_listener_1acd61b6e9ae4b58304cb7ccaed9dcc4d5" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>native void</type>
+        <definition>native void crc64435a5ac349fa9fda.ActivityLifecycleContextListener.n_onActivityPaused</definition>
+        <argsstring>(android.app.Activity p0)</argsstring>
+        <name>n_onActivityPaused</name>
+        <param>
+          <type>android.app.Activity</type>
+          <declname>p0</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/100/android/src/crc64435a5ac349fa9fda/ActivityLifecycleContextListener.java" line="55" column="21"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc64435a5ac349fa9fda_1_1_activity_lifecycle_context_listener_1a815fcf95f8821c7d97fd53425d7a7691" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>native void</type>
+        <definition>native void crc64435a5ac349fa9fda.ActivityLifecycleContextListener.n_onActivityResumed</definition>
+        <argsstring>(android.app.Activity p0)</argsstring>
+        <name>n_onActivityResumed</name>
+        <param>
+          <type>android.app.Activity</type>
+          <declname>p0</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/100/android/src/crc64435a5ac349fa9fda/ActivityLifecycleContextListener.java" line="63" column="21"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc64435a5ac349fa9fda_1_1_activity_lifecycle_context_listener_1a15ead7c860c063bef2a05e0671bdf58c" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>native void</type>
+        <definition>native void crc64435a5ac349fa9fda.ActivityLifecycleContextListener.n_onActivitySaveInstanceState</definition>
+        <argsstring>(android.app.Activity p0, android.os.Bundle p1)</argsstring>
+        <name>n_onActivitySaveInstanceState</name>
+        <param>
+          <type>android.app.Activity</type>
+          <declname>p0</declname>
+        </param>
+        <param>
+          <type>android.os.Bundle</type>
+          <declname>p1</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/100/android/src/crc64435a5ac349fa9fda/ActivityLifecycleContextListener.java" line="71" column="21"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc64435a5ac349fa9fda_1_1_activity_lifecycle_context_listener_1a01d882730f021bf8b9ca14eafe5ab03c" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>native void</type>
+        <definition>native void crc64435a5ac349fa9fda.ActivityLifecycleContextListener.n_onActivityStarted</definition>
+        <argsstring>(android.app.Activity p0)</argsstring>
+        <name>n_onActivityStarted</name>
+        <param>
+          <type>android.app.Activity</type>
+          <declname>p0</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/100/android/src/crc64435a5ac349fa9fda/ActivityLifecycleContextListener.java" line="79" column="21"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc64435a5ac349fa9fda_1_1_activity_lifecycle_context_listener_1a7b576ec343e235256691d5c5ac71e920" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>native void</type>
+        <definition>native void crc64435a5ac349fa9fda.ActivityLifecycleContextListener.n_onActivityStopped</definition>
+        <argsstring>(android.app.Activity p0)</argsstring>
+        <name>n_onActivityStopped</name>
+        <param>
+          <type>android.app.Activity</type>
+          <declname>p0</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/100/android/src/crc64435a5ac349fa9fda/ActivityLifecycleContextListener.java" line="87" column="21"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc64435a5ac349fa9fda_1_1_activity_lifecycle_context_listener_1abee524a56d38b4962ccbee177b20bef5" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>native void</type>
+        <definition>native void crc64435a5ac349fa9fda.ActivityLifecycleContextListener.n_onActivityCreated</definition>
+        <argsstring>(android.app.Activity p0, android.os.Bundle p1)</argsstring>
+        <name>n_onActivityCreated</name>
+        <param>
+          <type>android.app.Activity</type>
+          <declname>p0</declname>
+        </param>
+        <param>
+          <type>android.os.Bundle</type>
+          <declname>p1</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/110/android/src/crc64435a5ac349fa9fda/ActivityLifecycleContextListener.java" line="53" column="21"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc64435a5ac349fa9fda_1_1_activity_lifecycle_context_listener_1a51211fa45a29b9de2146dfffca937a78" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>native void</type>
+        <definition>native void crc64435a5ac349fa9fda.ActivityLifecycleContextListener.n_onActivityDestroyed</definition>
+        <argsstring>(android.app.Activity p0)</argsstring>
+        <name>n_onActivityDestroyed</name>
+        <param>
+          <type>android.app.Activity</type>
+          <declname>p0</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/110/android/src/crc64435a5ac349fa9fda/ActivityLifecycleContextListener.java" line="61" column="21"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc64435a5ac349fa9fda_1_1_activity_lifecycle_context_listener_1acd61b6e9ae4b58304cb7ccaed9dcc4d5" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>native void</type>
+        <definition>native void crc64435a5ac349fa9fda.ActivityLifecycleContextListener.n_onActivityPaused</definition>
+        <argsstring>(android.app.Activity p0)</argsstring>
+        <name>n_onActivityPaused</name>
+        <param>
+          <type>android.app.Activity</type>
+          <declname>p0</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/110/android/src/crc64435a5ac349fa9fda/ActivityLifecycleContextListener.java" line="69" column="21"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc64435a5ac349fa9fda_1_1_activity_lifecycle_context_listener_1a815fcf95f8821c7d97fd53425d7a7691" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>native void</type>
+        <definition>native void crc64435a5ac349fa9fda.ActivityLifecycleContextListener.n_onActivityResumed</definition>
+        <argsstring>(android.app.Activity p0)</argsstring>
+        <name>n_onActivityResumed</name>
+        <param>
+          <type>android.app.Activity</type>
+          <declname>p0</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/110/android/src/crc64435a5ac349fa9fda/ActivityLifecycleContextListener.java" line="77" column="21"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc64435a5ac349fa9fda_1_1_activity_lifecycle_context_listener_1a15ead7c860c063bef2a05e0671bdf58c" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>native void</type>
+        <definition>native void crc64435a5ac349fa9fda.ActivityLifecycleContextListener.n_onActivitySaveInstanceState</definition>
+        <argsstring>(android.app.Activity p0, android.os.Bundle p1)</argsstring>
+        <name>n_onActivitySaveInstanceState</name>
+        <param>
+          <type>android.app.Activity</type>
+          <declname>p0</declname>
+        </param>
+        <param>
+          <type>android.os.Bundle</type>
+          <declname>p1</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/110/android/src/crc64435a5ac349fa9fda/ActivityLifecycleContextListener.java" line="85" column="21"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc64435a5ac349fa9fda_1_1_activity_lifecycle_context_listener_1a01d882730f021bf8b9ca14eafe5ab03c" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>native void</type>
+        <definition>native void crc64435a5ac349fa9fda.ActivityLifecycleContextListener.n_onActivityStarted</definition>
+        <argsstring>(android.app.Activity p0)</argsstring>
+        <name>n_onActivityStarted</name>
+        <param>
+          <type>android.app.Activity</type>
+          <declname>p0</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/110/android/src/crc64435a5ac349fa9fda/ActivityLifecycleContextListener.java" line="93" column="21"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc64435a5ac349fa9fda_1_1_activity_lifecycle_context_listener_1a7b576ec343e235256691d5c5ac71e920" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>native void</type>
+        <definition>native void crc64435a5ac349fa9fda.ActivityLifecycleContextListener.n_onActivityStopped</definition>
+        <argsstring>(android.app.Activity p0)</argsstring>
+        <name>n_onActivityStopped</name>
+        <param>
+          <type>android.app.Activity</type>
+          <declname>p0</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/110/android/src/crc64435a5ac349fa9fda/ActivityLifecycleContextListener.java" line="101" column="21"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc64435a5ac349fa9fda_1_1_activity_lifecycle_context_listener_1a17750c25d2752489d3cf9d3056e39ead" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>native void</type>
+        <definition>native void crc64435a5ac349fa9fda.ActivityLifecycleContextListener.n_onActivityPostCreated</definition>
+        <argsstring>(android.app.Activity p0, android.os.Bundle p1)</argsstring>
+        <name>n_onActivityPostCreated</name>
+        <param>
+          <type>android.app.Activity</type>
+          <declname>p0</declname>
+        </param>
+        <param>
+          <type>android.os.Bundle</type>
+          <declname>p1</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/110/android/src/crc64435a5ac349fa9fda/ActivityLifecycleContextListener.java" line="109" column="21"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc64435a5ac349fa9fda_1_1_activity_lifecycle_context_listener_1a13ca3c7a5c7105066e82b04bfbec64cd" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>native void</type>
+        <definition>native void crc64435a5ac349fa9fda.ActivityLifecycleContextListener.n_onActivityPostDestroyed</definition>
+        <argsstring>(android.app.Activity p0)</argsstring>
+        <name>n_onActivityPostDestroyed</name>
+        <param>
+          <type>android.app.Activity</type>
+          <declname>p0</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/110/android/src/crc64435a5ac349fa9fda/ActivityLifecycleContextListener.java" line="117" column="21"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc64435a5ac349fa9fda_1_1_activity_lifecycle_context_listener_1a919e7626edee9ab0581e81458f7f5f05" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>native void</type>
+        <definition>native void crc64435a5ac349fa9fda.ActivityLifecycleContextListener.n_onActivityPostPaused</definition>
+        <argsstring>(android.app.Activity p0)</argsstring>
+        <name>n_onActivityPostPaused</name>
+        <param>
+          <type>android.app.Activity</type>
+          <declname>p0</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/110/android/src/crc64435a5ac349fa9fda/ActivityLifecycleContextListener.java" line="125" column="21"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc64435a5ac349fa9fda_1_1_activity_lifecycle_context_listener_1aeff02ea5bc278d551e75ac46ab4388a2" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>native void</type>
+        <definition>native void crc64435a5ac349fa9fda.ActivityLifecycleContextListener.n_onActivityPostResumed</definition>
+        <argsstring>(android.app.Activity p0)</argsstring>
+        <name>n_onActivityPostResumed</name>
+        <param>
+          <type>android.app.Activity</type>
+          <declname>p0</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/110/android/src/crc64435a5ac349fa9fda/ActivityLifecycleContextListener.java" line="133" column="21"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc64435a5ac349fa9fda_1_1_activity_lifecycle_context_listener_1aaf2432188b5ed2ffabdfe18b5694d2cb" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>native void</type>
+        <definition>native void crc64435a5ac349fa9fda.ActivityLifecycleContextListener.n_onActivityPostSaveInstanceState</definition>
+        <argsstring>(android.app.Activity p0, android.os.Bundle p1)</argsstring>
+        <name>n_onActivityPostSaveInstanceState</name>
+        <param>
+          <type>android.app.Activity</type>
+          <declname>p0</declname>
+        </param>
+        <param>
+          <type>android.os.Bundle</type>
+          <declname>p1</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/110/android/src/crc64435a5ac349fa9fda/ActivityLifecycleContextListener.java" line="141" column="21"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc64435a5ac349fa9fda_1_1_activity_lifecycle_context_listener_1af7248acd8f5a031fc3818de2135d40ee" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>native void</type>
+        <definition>native void crc64435a5ac349fa9fda.ActivityLifecycleContextListener.n_onActivityPostStarted</definition>
+        <argsstring>(android.app.Activity p0)</argsstring>
+        <name>n_onActivityPostStarted</name>
+        <param>
+          <type>android.app.Activity</type>
+          <declname>p0</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/110/android/src/crc64435a5ac349fa9fda/ActivityLifecycleContextListener.java" line="149" column="21"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc64435a5ac349fa9fda_1_1_activity_lifecycle_context_listener_1a24739d5fc77819840647f04a09d8ab8f" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>native void</type>
+        <definition>native void crc64435a5ac349fa9fda.ActivityLifecycleContextListener.n_onActivityPostStopped</definition>
+        <argsstring>(android.app.Activity p0)</argsstring>
+        <name>n_onActivityPostStopped</name>
+        <param>
+          <type>android.app.Activity</type>
+          <declname>p0</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/110/android/src/crc64435a5ac349fa9fda/ActivityLifecycleContextListener.java" line="157" column="21"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc64435a5ac349fa9fda_1_1_activity_lifecycle_context_listener_1afed7433d1e852457f8cbcc2bc810f1b9" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>native void</type>
+        <definition>native void crc64435a5ac349fa9fda.ActivityLifecycleContextListener.n_onActivityPreCreated</definition>
+        <argsstring>(android.app.Activity p0, android.os.Bundle p1)</argsstring>
+        <name>n_onActivityPreCreated</name>
+        <param>
+          <type>android.app.Activity</type>
+          <declname>p0</declname>
+        </param>
+        <param>
+          <type>android.os.Bundle</type>
+          <declname>p1</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/110/android/src/crc64435a5ac349fa9fda/ActivityLifecycleContextListener.java" line="165" column="21"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc64435a5ac349fa9fda_1_1_activity_lifecycle_context_listener_1a0eb467bf394ecde87a55f81fd280f156" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>native void</type>
+        <definition>native void crc64435a5ac349fa9fda.ActivityLifecycleContextListener.n_onActivityPreDestroyed</definition>
+        <argsstring>(android.app.Activity p0)</argsstring>
+        <name>n_onActivityPreDestroyed</name>
+        <param>
+          <type>android.app.Activity</type>
+          <declname>p0</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/110/android/src/crc64435a5ac349fa9fda/ActivityLifecycleContextListener.java" line="173" column="21"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc64435a5ac349fa9fda_1_1_activity_lifecycle_context_listener_1a43e94bd0627a5c036be7498ef5d4a8bf" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>native void</type>
+        <definition>native void crc64435a5ac349fa9fda.ActivityLifecycleContextListener.n_onActivityPrePaused</definition>
+        <argsstring>(android.app.Activity p0)</argsstring>
+        <name>n_onActivityPrePaused</name>
+        <param>
+          <type>android.app.Activity</type>
+          <declname>p0</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/110/android/src/crc64435a5ac349fa9fda/ActivityLifecycleContextListener.java" line="181" column="21"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc64435a5ac349fa9fda_1_1_activity_lifecycle_context_listener_1a8b3bb9f18404ffc76a3dc6373e8c9882" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>native void</type>
+        <definition>native void crc64435a5ac349fa9fda.ActivityLifecycleContextListener.n_onActivityPreResumed</definition>
+        <argsstring>(android.app.Activity p0)</argsstring>
+        <name>n_onActivityPreResumed</name>
+        <param>
+          <type>android.app.Activity</type>
+          <declname>p0</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/110/android/src/crc64435a5ac349fa9fda/ActivityLifecycleContextListener.java" line="189" column="21"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc64435a5ac349fa9fda_1_1_activity_lifecycle_context_listener_1a0c63ca233c53f46f40762b1c745120ce" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>native void</type>
+        <definition>native void crc64435a5ac349fa9fda.ActivityLifecycleContextListener.n_onActivityPreSaveInstanceState</definition>
+        <argsstring>(android.app.Activity p0, android.os.Bundle p1)</argsstring>
+        <name>n_onActivityPreSaveInstanceState</name>
+        <param>
+          <type>android.app.Activity</type>
+          <declname>p0</declname>
+        </param>
+        <param>
+          <type>android.os.Bundle</type>
+          <declname>p1</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/110/android/src/crc64435a5ac349fa9fda/ActivityLifecycleContextListener.java" line="197" column="21"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc64435a5ac349fa9fda_1_1_activity_lifecycle_context_listener_1acfd2eaa00c6f2d616778f543ce072f9b" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>native void</type>
+        <definition>native void crc64435a5ac349fa9fda.ActivityLifecycleContextListener.n_onActivityPreStarted</definition>
+        <argsstring>(android.app.Activity p0)</argsstring>
+        <name>n_onActivityPreStarted</name>
+        <param>
+          <type>android.app.Activity</type>
+          <declname>p0</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/110/android/src/crc64435a5ac349fa9fda/ActivityLifecycleContextListener.java" line="205" column="21"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc64435a5ac349fa9fda_1_1_activity_lifecycle_context_listener_1a1b5fe47cc9b2498dbf783a252140ad0b" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>native void</type>
+        <definition>native void crc64435a5ac349fa9fda.ActivityLifecycleContextListener.n_onActivityPreStopped</definition>
+        <argsstring>(android.app.Activity p0)</argsstring>
+        <name>n_onActivityPreStopped</name>
+        <param>
+          <type>android.app.Activity</type>
+          <declname>p0</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/110/android/src/crc64435a5ac349fa9fda/ActivityLifecycleContextListener.java" line="213" column="21"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <inheritancegraph>
+      <node id="1">
+        <label>crc64435a5ac349fa9fda.ActivityLifecycleContextListener</label>
+        <link refid="classcrc64435a5ac349fa9fda_1_1_activity_lifecycle_context_listener"/>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+        <childnode refid="3" relation="public-inheritance">
+        </childnode>
+        <childnode refid="4" relation="public-inheritance">
+        </childnode>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+        <childnode refid="3" relation="public-inheritance">
+        </childnode>
+        <childnode refid="5" relation="public-inheritance">
+        </childnode>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+        <childnode refid="3" relation="public-inheritance">
+        </childnode>
+        <childnode refid="5" relation="public-inheritance">
+        </childnode>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+        <childnode refid="3" relation="public-inheritance">
+        </childnode>
+        <childnode refid="5" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="3">
+        <label>mono.android.IGCUserPeer</label>
+      </node>
+      <node id="2">
+        <label>java.lang.Object</label>
+      </node>
+      <node id="4">
+        <label>android::app::Application::ActivityLifecycleCallbacks</label>
+      </node>
+      <node id="5">
+        <label>android.app.Application.ActivityLifecycleCallbacks</label>
+      </node>
+    </inheritancegraph>
+    <collaborationgraph>
+      <node id="1">
+        <label>crc64435a5ac349fa9fda.ActivityLifecycleContextListener</label>
+        <link refid="classcrc64435a5ac349fa9fda_1_1_activity_lifecycle_context_listener"/>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+        <childnode refid="3" relation="public-inheritance">
+        </childnode>
+        <childnode refid="4" relation="public-inheritance">
+        </childnode>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+        <childnode refid="3" relation="public-inheritance">
+        </childnode>
+        <childnode refid="5" relation="public-inheritance">
+        </childnode>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+        <childnode refid="3" relation="public-inheritance">
+        </childnode>
+        <childnode refid="5" relation="public-inheritance">
+        </childnode>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+        <childnode refid="3" relation="public-inheritance">
+        </childnode>
+        <childnode refid="5" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="3">
+        <label>mono.android.IGCUserPeer</label>
+      </node>
+      <node id="2">
+        <label>java.lang.Object</label>
+      </node>
+      <node id="4">
+        <label>android::app::Application::ActivityLifecycleCallbacks</label>
+      </node>
+      <node id="5">
+        <label>android.app.Application.ActivityLifecycleCallbacks</label>
+      </node>
+    </collaborationgraph>
+    <location file="Application Green Quake.Android/obj/Debug/100/android/src/crc64435a5ac349fa9fda/ActivityLifecycleContextListener.java" line="4" column="7" bodyfile="Application Green Quake.Android/obj/Debug/100/android/src/crc64435a5ac349fa9fda/ActivityLifecycleContextListener.java" bodystart="9" bodyend="102"/>
+    <listofallmembers>
+      <member refid="classcrc64435a5ac349fa9fda_1_1_activity_lifecycle_context_listener_1ae88e79da0dca7f72a6f3289eb6c5b49b" prot="package" virt="non-virtual"><scope>crc64435a5ac349fa9fda::ActivityLifecycleContextListener</scope><name>[static initializer]</name></member>
+      <member refid="classcrc64435a5ac349fa9fda_1_1_activity_lifecycle_context_listener_1ae88e79da0dca7f72a6f3289eb6c5b49b" prot="package" virt="non-virtual"><scope>crc64435a5ac349fa9fda::ActivityLifecycleContextListener</scope><name>[static initializer]</name></member>
+      <member refid="classcrc64435a5ac349fa9fda_1_1_activity_lifecycle_context_listener_1ae88e79da0dca7f72a6f3289eb6c5b49b" prot="package" virt="non-virtual"><scope>crc64435a5ac349fa9fda::ActivityLifecycleContextListener</scope><name>[static initializer]</name></member>
+      <member refid="classcrc64435a5ac349fa9fda_1_1_activity_lifecycle_context_listener_1ae88e79da0dca7f72a6f3289eb6c5b49b" prot="package" virt="non-virtual"><scope>crc64435a5ac349fa9fda::ActivityLifecycleContextListener</scope><name>[static initializer]</name></member>
+      <member refid="classcrc64435a5ac349fa9fda_1_1_activity_lifecycle_context_listener_1a746c5590109554b666eb9f7f8af93be4" prot="public" virt="non-virtual"><scope>crc64435a5ac349fa9fda::ActivityLifecycleContextListener</scope><name>__md_methods</name></member>
+      <member refid="classcrc64435a5ac349fa9fda_1_1_activity_lifecycle_context_listener_1a56553a445c70d3e7fdbb1200d58aee6b" prot="public" virt="non-virtual"><scope>crc64435a5ac349fa9fda::ActivityLifecycleContextListener</scope><name>ActivityLifecycleContextListener</name></member>
+      <member refid="classcrc64435a5ac349fa9fda_1_1_activity_lifecycle_context_listener_1a56553a445c70d3e7fdbb1200d58aee6b" prot="public" virt="non-virtual"><scope>crc64435a5ac349fa9fda::ActivityLifecycleContextListener</scope><name>ActivityLifecycleContextListener</name></member>
+      <member refid="classcrc64435a5ac349fa9fda_1_1_activity_lifecycle_context_listener_1a56553a445c70d3e7fdbb1200d58aee6b" prot="public" virt="non-virtual"><scope>crc64435a5ac349fa9fda::ActivityLifecycleContextListener</scope><name>ActivityLifecycleContextListener</name></member>
+      <member refid="classcrc64435a5ac349fa9fda_1_1_activity_lifecycle_context_listener_1a56553a445c70d3e7fdbb1200d58aee6b" prot="public" virt="non-virtual"><scope>crc64435a5ac349fa9fda::ActivityLifecycleContextListener</scope><name>ActivityLifecycleContextListener</name></member>
+      <member refid="classcrc64435a5ac349fa9fda_1_1_activity_lifecycle_context_listener_1ae7222d600976e2303ab7c38f6598ba38" prot="public" virt="non-virtual"><scope>crc64435a5ac349fa9fda::ActivityLifecycleContextListener</scope><name>monodroidAddReference</name></member>
+      <member refid="classcrc64435a5ac349fa9fda_1_1_activity_lifecycle_context_listener_1ae7222d600976e2303ab7c38f6598ba38" prot="public" virt="non-virtual"><scope>crc64435a5ac349fa9fda::ActivityLifecycleContextListener</scope><name>monodroidAddReference</name></member>
+      <member refid="classcrc64435a5ac349fa9fda_1_1_activity_lifecycle_context_listener_1ae7222d600976e2303ab7c38f6598ba38" prot="public" virt="non-virtual"><scope>crc64435a5ac349fa9fda::ActivityLifecycleContextListener</scope><name>monodroidAddReference</name></member>
+      <member refid="classcrc64435a5ac349fa9fda_1_1_activity_lifecycle_context_listener_1ae7222d600976e2303ab7c38f6598ba38" prot="public" virt="non-virtual"><scope>crc64435a5ac349fa9fda::ActivityLifecycleContextListener</scope><name>monodroidAddReference</name></member>
+      <member refid="classcrc64435a5ac349fa9fda_1_1_activity_lifecycle_context_listener_1abccb905dc1cb309518d5c98fc9f5f70a" prot="public" virt="non-virtual"><scope>crc64435a5ac349fa9fda::ActivityLifecycleContextListener</scope><name>monodroidClearReferences</name></member>
+      <member refid="classcrc64435a5ac349fa9fda_1_1_activity_lifecycle_context_listener_1abccb905dc1cb309518d5c98fc9f5f70a" prot="public" virt="non-virtual"><scope>crc64435a5ac349fa9fda::ActivityLifecycleContextListener</scope><name>monodroidClearReferences</name></member>
+      <member refid="classcrc64435a5ac349fa9fda_1_1_activity_lifecycle_context_listener_1abccb905dc1cb309518d5c98fc9f5f70a" prot="public" virt="non-virtual"><scope>crc64435a5ac349fa9fda::ActivityLifecycleContextListener</scope><name>monodroidClearReferences</name></member>
+      <member refid="classcrc64435a5ac349fa9fda_1_1_activity_lifecycle_context_listener_1abccb905dc1cb309518d5c98fc9f5f70a" prot="public" virt="non-virtual"><scope>crc64435a5ac349fa9fda::ActivityLifecycleContextListener</scope><name>monodroidClearReferences</name></member>
+      <member refid="classcrc64435a5ac349fa9fda_1_1_activity_lifecycle_context_listener_1abee524a56d38b4962ccbee177b20bef5" prot="private" virt="non-virtual"><scope>crc64435a5ac349fa9fda::ActivityLifecycleContextListener</scope><name>n_onActivityCreated</name></member>
+      <member refid="classcrc64435a5ac349fa9fda_1_1_activity_lifecycle_context_listener_1abee524a56d38b4962ccbee177b20bef5" prot="private" virt="non-virtual"><scope>crc64435a5ac349fa9fda::ActivityLifecycleContextListener</scope><name>n_onActivityCreated</name></member>
+      <member refid="classcrc64435a5ac349fa9fda_1_1_activity_lifecycle_context_listener_1abee524a56d38b4962ccbee177b20bef5" prot="private" virt="non-virtual"><scope>crc64435a5ac349fa9fda::ActivityLifecycleContextListener</scope><name>n_onActivityCreated</name></member>
+      <member refid="classcrc64435a5ac349fa9fda_1_1_activity_lifecycle_context_listener_1abee524a56d38b4962ccbee177b20bef5" prot="private" virt="non-virtual"><scope>crc64435a5ac349fa9fda::ActivityLifecycleContextListener</scope><name>n_onActivityCreated</name></member>
+      <member refid="classcrc64435a5ac349fa9fda_1_1_activity_lifecycle_context_listener_1a51211fa45a29b9de2146dfffca937a78" prot="private" virt="non-virtual"><scope>crc64435a5ac349fa9fda::ActivityLifecycleContextListener</scope><name>n_onActivityDestroyed</name></member>
+      <member refid="classcrc64435a5ac349fa9fda_1_1_activity_lifecycle_context_listener_1a51211fa45a29b9de2146dfffca937a78" prot="private" virt="non-virtual"><scope>crc64435a5ac349fa9fda::ActivityLifecycleContextListener</scope><name>n_onActivityDestroyed</name></member>
+      <member refid="classcrc64435a5ac349fa9fda_1_1_activity_lifecycle_context_listener_1a51211fa45a29b9de2146dfffca937a78" prot="private" virt="non-virtual"><scope>crc64435a5ac349fa9fda::ActivityLifecycleContextListener</scope><name>n_onActivityDestroyed</name></member>
+      <member refid="classcrc64435a5ac349fa9fda_1_1_activity_lifecycle_context_listener_1a51211fa45a29b9de2146dfffca937a78" prot="private" virt="non-virtual"><scope>crc64435a5ac349fa9fda::ActivityLifecycleContextListener</scope><name>n_onActivityDestroyed</name></member>
+      <member refid="classcrc64435a5ac349fa9fda_1_1_activity_lifecycle_context_listener_1acd61b6e9ae4b58304cb7ccaed9dcc4d5" prot="private" virt="non-virtual"><scope>crc64435a5ac349fa9fda::ActivityLifecycleContextListener</scope><name>n_onActivityPaused</name></member>
+      <member refid="classcrc64435a5ac349fa9fda_1_1_activity_lifecycle_context_listener_1acd61b6e9ae4b58304cb7ccaed9dcc4d5" prot="private" virt="non-virtual"><scope>crc64435a5ac349fa9fda::ActivityLifecycleContextListener</scope><name>n_onActivityPaused</name></member>
+      <member refid="classcrc64435a5ac349fa9fda_1_1_activity_lifecycle_context_listener_1acd61b6e9ae4b58304cb7ccaed9dcc4d5" prot="private" virt="non-virtual"><scope>crc64435a5ac349fa9fda::ActivityLifecycleContextListener</scope><name>n_onActivityPaused</name></member>
+      <member refid="classcrc64435a5ac349fa9fda_1_1_activity_lifecycle_context_listener_1acd61b6e9ae4b58304cb7ccaed9dcc4d5" prot="private" virt="non-virtual"><scope>crc64435a5ac349fa9fda::ActivityLifecycleContextListener</scope><name>n_onActivityPaused</name></member>
+      <member refid="classcrc64435a5ac349fa9fda_1_1_activity_lifecycle_context_listener_1a17750c25d2752489d3cf9d3056e39ead" prot="private" virt="non-virtual"><scope>crc64435a5ac349fa9fda::ActivityLifecycleContextListener</scope><name>n_onActivityPostCreated</name></member>
+      <member refid="classcrc64435a5ac349fa9fda_1_1_activity_lifecycle_context_listener_1a17750c25d2752489d3cf9d3056e39ead" prot="private" virt="non-virtual"><scope>crc64435a5ac349fa9fda::ActivityLifecycleContextListener</scope><name>n_onActivityPostCreated</name></member>
+      <member refid="classcrc64435a5ac349fa9fda_1_1_activity_lifecycle_context_listener_1a13ca3c7a5c7105066e82b04bfbec64cd" prot="private" virt="non-virtual"><scope>crc64435a5ac349fa9fda::ActivityLifecycleContextListener</scope><name>n_onActivityPostDestroyed</name></member>
+      <member refid="classcrc64435a5ac349fa9fda_1_1_activity_lifecycle_context_listener_1a13ca3c7a5c7105066e82b04bfbec64cd" prot="private" virt="non-virtual"><scope>crc64435a5ac349fa9fda::ActivityLifecycleContextListener</scope><name>n_onActivityPostDestroyed</name></member>
+      <member refid="classcrc64435a5ac349fa9fda_1_1_activity_lifecycle_context_listener_1a919e7626edee9ab0581e81458f7f5f05" prot="private" virt="non-virtual"><scope>crc64435a5ac349fa9fda::ActivityLifecycleContextListener</scope><name>n_onActivityPostPaused</name></member>
+      <member refid="classcrc64435a5ac349fa9fda_1_1_activity_lifecycle_context_listener_1a919e7626edee9ab0581e81458f7f5f05" prot="private" virt="non-virtual"><scope>crc64435a5ac349fa9fda::ActivityLifecycleContextListener</scope><name>n_onActivityPostPaused</name></member>
+      <member refid="classcrc64435a5ac349fa9fda_1_1_activity_lifecycle_context_listener_1aeff02ea5bc278d551e75ac46ab4388a2" prot="private" virt="non-virtual"><scope>crc64435a5ac349fa9fda::ActivityLifecycleContextListener</scope><name>n_onActivityPostResumed</name></member>
+      <member refid="classcrc64435a5ac349fa9fda_1_1_activity_lifecycle_context_listener_1aeff02ea5bc278d551e75ac46ab4388a2" prot="private" virt="non-virtual"><scope>crc64435a5ac349fa9fda::ActivityLifecycleContextListener</scope><name>n_onActivityPostResumed</name></member>
+      <member refid="classcrc64435a5ac349fa9fda_1_1_activity_lifecycle_context_listener_1aaf2432188b5ed2ffabdfe18b5694d2cb" prot="private" virt="non-virtual"><scope>crc64435a5ac349fa9fda::ActivityLifecycleContextListener</scope><name>n_onActivityPostSaveInstanceState</name></member>
+      <member refid="classcrc64435a5ac349fa9fda_1_1_activity_lifecycle_context_listener_1aaf2432188b5ed2ffabdfe18b5694d2cb" prot="private" virt="non-virtual"><scope>crc64435a5ac349fa9fda::ActivityLifecycleContextListener</scope><name>n_onActivityPostSaveInstanceState</name></member>
+      <member refid="classcrc64435a5ac349fa9fda_1_1_activity_lifecycle_context_listener_1af7248acd8f5a031fc3818de2135d40ee" prot="private" virt="non-virtual"><scope>crc64435a5ac349fa9fda::ActivityLifecycleContextListener</scope><name>n_onActivityPostStarted</name></member>
+      <member refid="classcrc64435a5ac349fa9fda_1_1_activity_lifecycle_context_listener_1af7248acd8f5a031fc3818de2135d40ee" prot="private" virt="non-virtual"><scope>crc64435a5ac349fa9fda::ActivityLifecycleContextListener</scope><name>n_onActivityPostStarted</name></member>
+      <member refid="classcrc64435a5ac349fa9fda_1_1_activity_lifecycle_context_listener_1a24739d5fc77819840647f04a09d8ab8f" prot="private" virt="non-virtual"><scope>crc64435a5ac349fa9fda::ActivityLifecycleContextListener</scope><name>n_onActivityPostStopped</name></member>
+      <member refid="classcrc64435a5ac349fa9fda_1_1_activity_lifecycle_context_listener_1a24739d5fc77819840647f04a09d8ab8f" prot="private" virt="non-virtual"><scope>crc64435a5ac349fa9fda::ActivityLifecycleContextListener</scope><name>n_onActivityPostStopped</name></member>
+      <member refid="classcrc64435a5ac349fa9fda_1_1_activity_lifecycle_context_listener_1afed7433d1e852457f8cbcc2bc810f1b9" prot="private" virt="non-virtual"><scope>crc64435a5ac349fa9fda::ActivityLifecycleContextListener</scope><name>n_onActivityPreCreated</name></member>
+      <member refid="classcrc64435a5ac349fa9fda_1_1_activity_lifecycle_context_listener_1afed7433d1e852457f8cbcc2bc810f1b9" prot="private" virt="non-virtual"><scope>crc64435a5ac349fa9fda::ActivityLifecycleContextListener</scope><name>n_onActivityPreCreated</name></member>
+      <member refid="classcrc64435a5ac349fa9fda_1_1_activity_lifecycle_context_listener_1a0eb467bf394ecde87a55f81fd280f156" prot="private" virt="non-virtual"><scope>crc64435a5ac349fa9fda::ActivityLifecycleContextListener</scope><name>n_onActivityPreDestroyed</name></member>
+      <member refid="classcrc64435a5ac349fa9fda_1_1_activity_lifecycle_context_listener_1a0eb467bf394ecde87a55f81fd280f156" prot="private" virt="non-virtual"><scope>crc64435a5ac349fa9fda::ActivityLifecycleContextListener</scope><name>n_onActivityPreDestroyed</name></member>
+      <member refid="classcrc64435a5ac349fa9fda_1_1_activity_lifecycle_context_listener_1a43e94bd0627a5c036be7498ef5d4a8bf" prot="private" virt="non-virtual"><scope>crc64435a5ac349fa9fda::ActivityLifecycleContextListener</scope><name>n_onActivityPrePaused</name></member>
+      <member refid="classcrc64435a5ac349fa9fda_1_1_activity_lifecycle_context_listener_1a43e94bd0627a5c036be7498ef5d4a8bf" prot="private" virt="non-virtual"><scope>crc64435a5ac349fa9fda::ActivityLifecycleContextListener</scope><name>n_onActivityPrePaused</name></member>
+      <member refid="classcrc64435a5ac349fa9fda_1_1_activity_lifecycle_context_listener_1a8b3bb9f18404ffc76a3dc6373e8c9882" prot="private" virt="non-virtual"><scope>crc64435a5ac349fa9fda::ActivityLifecycleContextListener</scope><name>n_onActivityPreResumed</name></member>
+      <member refid="classcrc64435a5ac349fa9fda_1_1_activity_lifecycle_context_listener_1a8b3bb9f18404ffc76a3dc6373e8c9882" prot="private" virt="non-virtual"><scope>crc64435a5ac349fa9fda::ActivityLifecycleContextListener</scope><name>n_onActivityPreResumed</name></member>
+      <member refid="classcrc64435a5ac349fa9fda_1_1_activity_lifecycle_context_listener_1a0c63ca233c53f46f40762b1c745120ce" prot="private" virt="non-virtual"><scope>crc64435a5ac349fa9fda::ActivityLifecycleContextListener</scope><name>n_onActivityPreSaveInstanceState</name></member>
+      <member refid="classcrc64435a5ac349fa9fda_1_1_activity_lifecycle_context_listener_1a0c63ca233c53f46f40762b1c745120ce" prot="private" virt="non-virtual"><scope>crc64435a5ac349fa9fda::ActivityLifecycleContextListener</scope><name>n_onActivityPreSaveInstanceState</name></member>
+      <member refid="classcrc64435a5ac349fa9fda_1_1_activity_lifecycle_context_listener_1acfd2eaa00c6f2d616778f543ce072f9b" prot="private" virt="non-virtual"><scope>crc64435a5ac349fa9fda::ActivityLifecycleContextListener</scope><name>n_onActivityPreStarted</name></member>
+      <member refid="classcrc64435a5ac349fa9fda_1_1_activity_lifecycle_context_listener_1acfd2eaa00c6f2d616778f543ce072f9b" prot="private" virt="non-virtual"><scope>crc64435a5ac349fa9fda::ActivityLifecycleContextListener</scope><name>n_onActivityPreStarted</name></member>
+      <member refid="classcrc64435a5ac349fa9fda_1_1_activity_lifecycle_context_listener_1a1b5fe47cc9b2498dbf783a252140ad0b" prot="private" virt="non-virtual"><scope>crc64435a5ac349fa9fda::ActivityLifecycleContextListener</scope><name>n_onActivityPreStopped</name></member>
+      <member refid="classcrc64435a5ac349fa9fda_1_1_activity_lifecycle_context_listener_1a1b5fe47cc9b2498dbf783a252140ad0b" prot="private" virt="non-virtual"><scope>crc64435a5ac349fa9fda::ActivityLifecycleContextListener</scope><name>n_onActivityPreStopped</name></member>
+      <member refid="classcrc64435a5ac349fa9fda_1_1_activity_lifecycle_context_listener_1a815fcf95f8821c7d97fd53425d7a7691" prot="private" virt="non-virtual"><scope>crc64435a5ac349fa9fda::ActivityLifecycleContextListener</scope><name>n_onActivityResumed</name></member>
+      <member refid="classcrc64435a5ac349fa9fda_1_1_activity_lifecycle_context_listener_1a815fcf95f8821c7d97fd53425d7a7691" prot="private" virt="non-virtual"><scope>crc64435a5ac349fa9fda::ActivityLifecycleContextListener</scope><name>n_onActivityResumed</name></member>
+      <member refid="classcrc64435a5ac349fa9fda_1_1_activity_lifecycle_context_listener_1a815fcf95f8821c7d97fd53425d7a7691" prot="private" virt="non-virtual"><scope>crc64435a5ac349fa9fda::ActivityLifecycleContextListener</scope><name>n_onActivityResumed</name></member>
+      <member refid="classcrc64435a5ac349fa9fda_1_1_activity_lifecycle_context_listener_1a815fcf95f8821c7d97fd53425d7a7691" prot="private" virt="non-virtual"><scope>crc64435a5ac349fa9fda::ActivityLifecycleContextListener</scope><name>n_onActivityResumed</name></member>
+      <member refid="classcrc64435a5ac349fa9fda_1_1_activity_lifecycle_context_listener_1a15ead7c860c063bef2a05e0671bdf58c" prot="private" virt="non-virtual"><scope>crc64435a5ac349fa9fda::ActivityLifecycleContextListener</scope><name>n_onActivitySaveInstanceState</name></member>
+      <member refid="classcrc64435a5ac349fa9fda_1_1_activity_lifecycle_context_listener_1a15ead7c860c063bef2a05e0671bdf58c" prot="private" virt="non-virtual"><scope>crc64435a5ac349fa9fda::ActivityLifecycleContextListener</scope><name>n_onActivitySaveInstanceState</name></member>
+      <member refid="classcrc64435a5ac349fa9fda_1_1_activity_lifecycle_context_listener_1a15ead7c860c063bef2a05e0671bdf58c" prot="private" virt="non-virtual"><scope>crc64435a5ac349fa9fda::ActivityLifecycleContextListener</scope><name>n_onActivitySaveInstanceState</name></member>
+      <member refid="classcrc64435a5ac349fa9fda_1_1_activity_lifecycle_context_listener_1a15ead7c860c063bef2a05e0671bdf58c" prot="private" virt="non-virtual"><scope>crc64435a5ac349fa9fda::ActivityLifecycleContextListener</scope><name>n_onActivitySaveInstanceState</name></member>
+      <member refid="classcrc64435a5ac349fa9fda_1_1_activity_lifecycle_context_listener_1a01d882730f021bf8b9ca14eafe5ab03c" prot="private" virt="non-virtual"><scope>crc64435a5ac349fa9fda::ActivityLifecycleContextListener</scope><name>n_onActivityStarted</name></member>
+      <member refid="classcrc64435a5ac349fa9fda_1_1_activity_lifecycle_context_listener_1a01d882730f021bf8b9ca14eafe5ab03c" prot="private" virt="non-virtual"><scope>crc64435a5ac349fa9fda::ActivityLifecycleContextListener</scope><name>n_onActivityStarted</name></member>
+      <member refid="classcrc64435a5ac349fa9fda_1_1_activity_lifecycle_context_listener_1a01d882730f021bf8b9ca14eafe5ab03c" prot="private" virt="non-virtual"><scope>crc64435a5ac349fa9fda::ActivityLifecycleContextListener</scope><name>n_onActivityStarted</name></member>
+      <member refid="classcrc64435a5ac349fa9fda_1_1_activity_lifecycle_context_listener_1a01d882730f021bf8b9ca14eafe5ab03c" prot="private" virt="non-virtual"><scope>crc64435a5ac349fa9fda::ActivityLifecycleContextListener</scope><name>n_onActivityStarted</name></member>
+      <member refid="classcrc64435a5ac349fa9fda_1_1_activity_lifecycle_context_listener_1a7b576ec343e235256691d5c5ac71e920" prot="private" virt="non-virtual"><scope>crc64435a5ac349fa9fda::ActivityLifecycleContextListener</scope><name>n_onActivityStopped</name></member>
+      <member refid="classcrc64435a5ac349fa9fda_1_1_activity_lifecycle_context_listener_1a7b576ec343e235256691d5c5ac71e920" prot="private" virt="non-virtual"><scope>crc64435a5ac349fa9fda::ActivityLifecycleContextListener</scope><name>n_onActivityStopped</name></member>
+      <member refid="classcrc64435a5ac349fa9fda_1_1_activity_lifecycle_context_listener_1a7b576ec343e235256691d5c5ac71e920" prot="private" virt="non-virtual"><scope>crc64435a5ac349fa9fda::ActivityLifecycleContextListener</scope><name>n_onActivityStopped</name></member>
+      <member refid="classcrc64435a5ac349fa9fda_1_1_activity_lifecycle_context_listener_1a7b576ec343e235256691d5c5ac71e920" prot="private" virt="non-virtual"><scope>crc64435a5ac349fa9fda::ActivityLifecycleContextListener</scope><name>n_onActivityStopped</name></member>
+      <member refid="classcrc64435a5ac349fa9fda_1_1_activity_lifecycle_context_listener_1ac810b4055e207ad49166e9ea20eb5b58" prot="public" virt="non-virtual"><scope>crc64435a5ac349fa9fda::ActivityLifecycleContextListener</scope><name>onActivityCreated</name></member>
+      <member refid="classcrc64435a5ac349fa9fda_1_1_activity_lifecycle_context_listener_1ac810b4055e207ad49166e9ea20eb5b58" prot="public" virt="non-virtual"><scope>crc64435a5ac349fa9fda::ActivityLifecycleContextListener</scope><name>onActivityCreated</name></member>
+      <member refid="classcrc64435a5ac349fa9fda_1_1_activity_lifecycle_context_listener_1ac810b4055e207ad49166e9ea20eb5b58" prot="public" virt="non-virtual"><scope>crc64435a5ac349fa9fda::ActivityLifecycleContextListener</scope><name>onActivityCreated</name></member>
+      <member refid="classcrc64435a5ac349fa9fda_1_1_activity_lifecycle_context_listener_1ac810b4055e207ad49166e9ea20eb5b58" prot="public" virt="non-virtual"><scope>crc64435a5ac349fa9fda::ActivityLifecycleContextListener</scope><name>onActivityCreated</name></member>
+      <member refid="classcrc64435a5ac349fa9fda_1_1_activity_lifecycle_context_listener_1ae04cbd8248a953807d2941342db40a08" prot="public" virt="non-virtual"><scope>crc64435a5ac349fa9fda::ActivityLifecycleContextListener</scope><name>onActivityDestroyed</name></member>
+      <member refid="classcrc64435a5ac349fa9fda_1_1_activity_lifecycle_context_listener_1ae04cbd8248a953807d2941342db40a08" prot="public" virt="non-virtual"><scope>crc64435a5ac349fa9fda::ActivityLifecycleContextListener</scope><name>onActivityDestroyed</name></member>
+      <member refid="classcrc64435a5ac349fa9fda_1_1_activity_lifecycle_context_listener_1ae04cbd8248a953807d2941342db40a08" prot="public" virt="non-virtual"><scope>crc64435a5ac349fa9fda::ActivityLifecycleContextListener</scope><name>onActivityDestroyed</name></member>
+      <member refid="classcrc64435a5ac349fa9fda_1_1_activity_lifecycle_context_listener_1ae04cbd8248a953807d2941342db40a08" prot="public" virt="non-virtual"><scope>crc64435a5ac349fa9fda::ActivityLifecycleContextListener</scope><name>onActivityDestroyed</name></member>
+      <member refid="classcrc64435a5ac349fa9fda_1_1_activity_lifecycle_context_listener_1a732de5cf42f099cc3650829a6c9cbcfe" prot="public" virt="non-virtual"><scope>crc64435a5ac349fa9fda::ActivityLifecycleContextListener</scope><name>onActivityPaused</name></member>
+      <member refid="classcrc64435a5ac349fa9fda_1_1_activity_lifecycle_context_listener_1a732de5cf42f099cc3650829a6c9cbcfe" prot="public" virt="non-virtual"><scope>crc64435a5ac349fa9fda::ActivityLifecycleContextListener</scope><name>onActivityPaused</name></member>
+      <member refid="classcrc64435a5ac349fa9fda_1_1_activity_lifecycle_context_listener_1a732de5cf42f099cc3650829a6c9cbcfe" prot="public" virt="non-virtual"><scope>crc64435a5ac349fa9fda::ActivityLifecycleContextListener</scope><name>onActivityPaused</name></member>
+      <member refid="classcrc64435a5ac349fa9fda_1_1_activity_lifecycle_context_listener_1a732de5cf42f099cc3650829a6c9cbcfe" prot="public" virt="non-virtual"><scope>crc64435a5ac349fa9fda::ActivityLifecycleContextListener</scope><name>onActivityPaused</name></member>
+      <member refid="classcrc64435a5ac349fa9fda_1_1_activity_lifecycle_context_listener_1ad80b5d3c6d9d1022858eb922e7563f56" prot="public" virt="non-virtual"><scope>crc64435a5ac349fa9fda::ActivityLifecycleContextListener</scope><name>onActivityPostCreated</name></member>
+      <member refid="classcrc64435a5ac349fa9fda_1_1_activity_lifecycle_context_listener_1ad80b5d3c6d9d1022858eb922e7563f56" prot="public" virt="non-virtual"><scope>crc64435a5ac349fa9fda::ActivityLifecycleContextListener</scope><name>onActivityPostCreated</name></member>
+      <member refid="classcrc64435a5ac349fa9fda_1_1_activity_lifecycle_context_listener_1a565ec4c39804653dd47d8f51fe834e2b" prot="public" virt="non-virtual"><scope>crc64435a5ac349fa9fda::ActivityLifecycleContextListener</scope><name>onActivityPostDestroyed</name></member>
+      <member refid="classcrc64435a5ac349fa9fda_1_1_activity_lifecycle_context_listener_1a565ec4c39804653dd47d8f51fe834e2b" prot="public" virt="non-virtual"><scope>crc64435a5ac349fa9fda::ActivityLifecycleContextListener</scope><name>onActivityPostDestroyed</name></member>
+      <member refid="classcrc64435a5ac349fa9fda_1_1_activity_lifecycle_context_listener_1a2475ea46f712fdb635239600b82df6c6" prot="public" virt="non-virtual"><scope>crc64435a5ac349fa9fda::ActivityLifecycleContextListener</scope><name>onActivityPostPaused</name></member>
+      <member refid="classcrc64435a5ac349fa9fda_1_1_activity_lifecycle_context_listener_1a2475ea46f712fdb635239600b82df6c6" prot="public" virt="non-virtual"><scope>crc64435a5ac349fa9fda::ActivityLifecycleContextListener</scope><name>onActivityPostPaused</name></member>
+      <member refid="classcrc64435a5ac349fa9fda_1_1_activity_lifecycle_context_listener_1a74664f9e9ce3d8bd81670f6d717bc4b2" prot="public" virt="non-virtual"><scope>crc64435a5ac349fa9fda::ActivityLifecycleContextListener</scope><name>onActivityPostResumed</name></member>
+      <member refid="classcrc64435a5ac349fa9fda_1_1_activity_lifecycle_context_listener_1a74664f9e9ce3d8bd81670f6d717bc4b2" prot="public" virt="non-virtual"><scope>crc64435a5ac349fa9fda::ActivityLifecycleContextListener</scope><name>onActivityPostResumed</name></member>
+      <member refid="classcrc64435a5ac349fa9fda_1_1_activity_lifecycle_context_listener_1a947a85298742cf5b758b6c722265ec37" prot="public" virt="non-virtual"><scope>crc64435a5ac349fa9fda::ActivityLifecycleContextListener</scope><name>onActivityPostSaveInstanceState</name></member>
+      <member refid="classcrc64435a5ac349fa9fda_1_1_activity_lifecycle_context_listener_1a947a85298742cf5b758b6c722265ec37" prot="public" virt="non-virtual"><scope>crc64435a5ac349fa9fda::ActivityLifecycleContextListener</scope><name>onActivityPostSaveInstanceState</name></member>
+      <member refid="classcrc64435a5ac349fa9fda_1_1_activity_lifecycle_context_listener_1ab10e8ce831c9c8eeb27130812f60c169" prot="public" virt="non-virtual"><scope>crc64435a5ac349fa9fda::ActivityLifecycleContextListener</scope><name>onActivityPostStarted</name></member>
+      <member refid="classcrc64435a5ac349fa9fda_1_1_activity_lifecycle_context_listener_1ab10e8ce831c9c8eeb27130812f60c169" prot="public" virt="non-virtual"><scope>crc64435a5ac349fa9fda::ActivityLifecycleContextListener</scope><name>onActivityPostStarted</name></member>
+      <member refid="classcrc64435a5ac349fa9fda_1_1_activity_lifecycle_context_listener_1a7e6da41fe440f07058d4a5851e9eb787" prot="public" virt="non-virtual"><scope>crc64435a5ac349fa9fda::ActivityLifecycleContextListener</scope><name>onActivityPostStopped</name></member>
+      <member refid="classcrc64435a5ac349fa9fda_1_1_activity_lifecycle_context_listener_1a7e6da41fe440f07058d4a5851e9eb787" prot="public" virt="non-virtual"><scope>crc64435a5ac349fa9fda::ActivityLifecycleContextListener</scope><name>onActivityPostStopped</name></member>
+      <member refid="classcrc64435a5ac349fa9fda_1_1_activity_lifecycle_context_listener_1aa6321f59d5d2d092c8e187369c56630b" prot="public" virt="non-virtual"><scope>crc64435a5ac349fa9fda::ActivityLifecycleContextListener</scope><name>onActivityPreCreated</name></member>
+      <member refid="classcrc64435a5ac349fa9fda_1_1_activity_lifecycle_context_listener_1aa6321f59d5d2d092c8e187369c56630b" prot="public" virt="non-virtual"><scope>crc64435a5ac349fa9fda::ActivityLifecycleContextListener</scope><name>onActivityPreCreated</name></member>
+      <member refid="classcrc64435a5ac349fa9fda_1_1_activity_lifecycle_context_listener_1aa13627e0b0e5fce16138606d86825c5b" prot="public" virt="non-virtual"><scope>crc64435a5ac349fa9fda::ActivityLifecycleContextListener</scope><name>onActivityPreDestroyed</name></member>
+      <member refid="classcrc64435a5ac349fa9fda_1_1_activity_lifecycle_context_listener_1aa13627e0b0e5fce16138606d86825c5b" prot="public" virt="non-virtual"><scope>crc64435a5ac349fa9fda::ActivityLifecycleContextListener</scope><name>onActivityPreDestroyed</name></member>
+      <member refid="classcrc64435a5ac349fa9fda_1_1_activity_lifecycle_context_listener_1ac91fcb96aa6d2b9f3a105645d5580c06" prot="public" virt="non-virtual"><scope>crc64435a5ac349fa9fda::ActivityLifecycleContextListener</scope><name>onActivityPrePaused</name></member>
+      <member refid="classcrc64435a5ac349fa9fda_1_1_activity_lifecycle_context_listener_1ac91fcb96aa6d2b9f3a105645d5580c06" prot="public" virt="non-virtual"><scope>crc64435a5ac349fa9fda::ActivityLifecycleContextListener</scope><name>onActivityPrePaused</name></member>
+      <member refid="classcrc64435a5ac349fa9fda_1_1_activity_lifecycle_context_listener_1aeab8bedc1fa4de524fe2697460af06fa" prot="public" virt="non-virtual"><scope>crc64435a5ac349fa9fda::ActivityLifecycleContextListener</scope><name>onActivityPreResumed</name></member>
+      <member refid="classcrc64435a5ac349fa9fda_1_1_activity_lifecycle_context_listener_1aeab8bedc1fa4de524fe2697460af06fa" prot="public" virt="non-virtual"><scope>crc64435a5ac349fa9fda::ActivityLifecycleContextListener</scope><name>onActivityPreResumed</name></member>
+      <member refid="classcrc64435a5ac349fa9fda_1_1_activity_lifecycle_context_listener_1afbda1e8f9f9e2a65c7937710f0b5bb01" prot="public" virt="non-virtual"><scope>crc64435a5ac349fa9fda::ActivityLifecycleContextListener</scope><name>onActivityPreSaveInstanceState</name></member>
+      <member refid="classcrc64435a5ac349fa9fda_1_1_activity_lifecycle_context_listener_1afbda1e8f9f9e2a65c7937710f0b5bb01" prot="public" virt="non-virtual"><scope>crc64435a5ac349fa9fda::ActivityLifecycleContextListener</scope><name>onActivityPreSaveInstanceState</name></member>
+      <member refid="classcrc64435a5ac349fa9fda_1_1_activity_lifecycle_context_listener_1a60768891dd7bde4578200f99379dff77" prot="public" virt="non-virtual"><scope>crc64435a5ac349fa9fda::ActivityLifecycleContextListener</scope><name>onActivityPreStarted</name></member>
+      <member refid="classcrc64435a5ac349fa9fda_1_1_activity_lifecycle_context_listener_1a60768891dd7bde4578200f99379dff77" prot="public" virt="non-virtual"><scope>crc64435a5ac349fa9fda::ActivityLifecycleContextListener</scope><name>onActivityPreStarted</name></member>
+      <member refid="classcrc64435a5ac349fa9fda_1_1_activity_lifecycle_context_listener_1ad273469049d63b5a42c5c8ade6521572" prot="public" virt="non-virtual"><scope>crc64435a5ac349fa9fda::ActivityLifecycleContextListener</scope><name>onActivityPreStopped</name></member>
+      <member refid="classcrc64435a5ac349fa9fda_1_1_activity_lifecycle_context_listener_1ad273469049d63b5a42c5c8ade6521572" prot="public" virt="non-virtual"><scope>crc64435a5ac349fa9fda::ActivityLifecycleContextListener</scope><name>onActivityPreStopped</name></member>
+      <member refid="classcrc64435a5ac349fa9fda_1_1_activity_lifecycle_context_listener_1aafb43ce09381d1535c2a69b90f8011c6" prot="public" virt="non-virtual"><scope>crc64435a5ac349fa9fda::ActivityLifecycleContextListener</scope><name>onActivityResumed</name></member>
+      <member refid="classcrc64435a5ac349fa9fda_1_1_activity_lifecycle_context_listener_1aafb43ce09381d1535c2a69b90f8011c6" prot="public" virt="non-virtual"><scope>crc64435a5ac349fa9fda::ActivityLifecycleContextListener</scope><name>onActivityResumed</name></member>
+      <member refid="classcrc64435a5ac349fa9fda_1_1_activity_lifecycle_context_listener_1aafb43ce09381d1535c2a69b90f8011c6" prot="public" virt="non-virtual"><scope>crc64435a5ac349fa9fda::ActivityLifecycleContextListener</scope><name>onActivityResumed</name></member>
+      <member refid="classcrc64435a5ac349fa9fda_1_1_activity_lifecycle_context_listener_1aafb43ce09381d1535c2a69b90f8011c6" prot="public" virt="non-virtual"><scope>crc64435a5ac349fa9fda::ActivityLifecycleContextListener</scope><name>onActivityResumed</name></member>
+      <member refid="classcrc64435a5ac349fa9fda_1_1_activity_lifecycle_context_listener_1af7bd2d82d341ea788c8481a1ec984716" prot="public" virt="non-virtual"><scope>crc64435a5ac349fa9fda::ActivityLifecycleContextListener</scope><name>onActivitySaveInstanceState</name></member>
+      <member refid="classcrc64435a5ac349fa9fda_1_1_activity_lifecycle_context_listener_1af7bd2d82d341ea788c8481a1ec984716" prot="public" virt="non-virtual"><scope>crc64435a5ac349fa9fda::ActivityLifecycleContextListener</scope><name>onActivitySaveInstanceState</name></member>
+      <member refid="classcrc64435a5ac349fa9fda_1_1_activity_lifecycle_context_listener_1af7bd2d82d341ea788c8481a1ec984716" prot="public" virt="non-virtual"><scope>crc64435a5ac349fa9fda::ActivityLifecycleContextListener</scope><name>onActivitySaveInstanceState</name></member>
+      <member refid="classcrc64435a5ac349fa9fda_1_1_activity_lifecycle_context_listener_1af7bd2d82d341ea788c8481a1ec984716" prot="public" virt="non-virtual"><scope>crc64435a5ac349fa9fda::ActivityLifecycleContextListener</scope><name>onActivitySaveInstanceState</name></member>
+      <member refid="classcrc64435a5ac349fa9fda_1_1_activity_lifecycle_context_listener_1a0f384b95946d49375ff3e52cf7661419" prot="public" virt="non-virtual"><scope>crc64435a5ac349fa9fda::ActivityLifecycleContextListener</scope><name>onActivityStarted</name></member>
+      <member refid="classcrc64435a5ac349fa9fda_1_1_activity_lifecycle_context_listener_1a0f384b95946d49375ff3e52cf7661419" prot="public" virt="non-virtual"><scope>crc64435a5ac349fa9fda::ActivityLifecycleContextListener</scope><name>onActivityStarted</name></member>
+      <member refid="classcrc64435a5ac349fa9fda_1_1_activity_lifecycle_context_listener_1a0f384b95946d49375ff3e52cf7661419" prot="public" virt="non-virtual"><scope>crc64435a5ac349fa9fda::ActivityLifecycleContextListener</scope><name>onActivityStarted</name></member>
+      <member refid="classcrc64435a5ac349fa9fda_1_1_activity_lifecycle_context_listener_1a0f384b95946d49375ff3e52cf7661419" prot="public" virt="non-virtual"><scope>crc64435a5ac349fa9fda::ActivityLifecycleContextListener</scope><name>onActivityStarted</name></member>
+      <member refid="classcrc64435a5ac349fa9fda_1_1_activity_lifecycle_context_listener_1a9761d5ad3c5c9bb5e2de5efd83fe2e8d" prot="public" virt="non-virtual"><scope>crc64435a5ac349fa9fda::ActivityLifecycleContextListener</scope><name>onActivityStopped</name></member>
+      <member refid="classcrc64435a5ac349fa9fda_1_1_activity_lifecycle_context_listener_1a9761d5ad3c5c9bb5e2de5efd83fe2e8d" prot="public" virt="non-virtual"><scope>crc64435a5ac349fa9fda::ActivityLifecycleContextListener</scope><name>onActivityStopped</name></member>
+      <member refid="classcrc64435a5ac349fa9fda_1_1_activity_lifecycle_context_listener_1a9761d5ad3c5c9bb5e2de5efd83fe2e8d" prot="public" virt="non-virtual"><scope>crc64435a5ac349fa9fda::ActivityLifecycleContextListener</scope><name>onActivityStopped</name></member>
+      <member refid="classcrc64435a5ac349fa9fda_1_1_activity_lifecycle_context_listener_1a9761d5ad3c5c9bb5e2de5efd83fe2e8d" prot="public" virt="non-virtual"><scope>crc64435a5ac349fa9fda::ActivityLifecycleContextListener</scope><name>onActivityStopped</name></member>
+      <member refid="classcrc64435a5ac349fa9fda_1_1_activity_lifecycle_context_listener_1a16e12b8107b6a37eb2cbff0f8ddfb15d" prot="private" virt="non-virtual"><scope>crc64435a5ac349fa9fda::ActivityLifecycleContextListener</scope><name>refList</name></member>
+    </listofallmembers>
+  </compounddef>
+</doxygen>

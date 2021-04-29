@@ -1,0 +1,1676 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.9.1" xml:lang="en-US">
+  <compounddef id="classcrc643f46942d9dd1fff9_1_1_items_view_adapter__2" kind="class" language="Java" prot="public">
+    <compoundname>crc643f46942d9dd1fff9::ItemsViewAdapter_2</compoundname>
+    <basecompoundref prot="public" virt="non-virtual">androidx.recyclerview.widget.RecyclerView.Adapter</basecompoundref>
+    <basecompoundref prot="public" virt="non-virtual">mono.android.IGCUserPeer</basecompoundref>
+    <basecompoundref prot="public" virt="non-virtual">androidx.recyclerview.widget.RecyclerView.Adapter</basecompoundref>
+    <basecompoundref prot="public" virt="non-virtual">mono.android.IGCUserPeer</basecompoundref>
+    <basecompoundref prot="public" virt="non-virtual">androidx.recyclerview.widget.RecyclerView.Adapter</basecompoundref>
+    <basecompoundref prot="public" virt="non-virtual">mono.android.IGCUserPeer</basecompoundref>
+    <basecompoundref prot="public" virt="non-virtual">androidx.recyclerview.widget.RecyclerView.Adapter</basecompoundref>
+    <basecompoundref prot="public" virt="non-virtual">mono.android.IGCUserPeer</basecompoundref>
+    <derivedcompoundref refid="classcrc6414252951f3f66c67_1_1_carousel_view_adapter__2" prot="public" virt="non-virtual">crc6414252951f3f66c67.CarouselViewAdapter_2</derivedcompoundref>
+    <derivedcompoundref refid="classcrc6414252951f3f66c67_1_1_carousel_view_adapter__2" prot="public" virt="non-virtual">crc6414252951f3f66c67.CarouselViewAdapter_2</derivedcompoundref>
+    <derivedcompoundref refid="classcrc6414252951f3f66c67_1_1_carousel_view_adapter__2" prot="public" virt="non-virtual">crc6414252951f3f66c67.CarouselViewAdapter_2</derivedcompoundref>
+    <derivedcompoundref refid="classcrc6414252951f3f66c67_1_1_carousel_view_adapter__2" prot="public" virt="non-virtual">crc6414252951f3f66c67.CarouselViewAdapter_2</derivedcompoundref>
+    <derivedcompoundref refid="classcrc643f46942d9dd1fff9_1_1_structured_items_view_adapter__2" prot="public" virt="non-virtual">crc643f46942d9dd1fff9.StructuredItemsViewAdapter_2</derivedcompoundref>
+    <derivedcompoundref refid="classcrc643f46942d9dd1fff9_1_1_structured_items_view_adapter__2" prot="public" virt="non-virtual">crc643f46942d9dd1fff9.StructuredItemsViewAdapter_2</derivedcompoundref>
+    <derivedcompoundref refid="classcrc643f46942d9dd1fff9_1_1_structured_items_view_adapter__2" prot="public" virt="non-virtual">crc643f46942d9dd1fff9.StructuredItemsViewAdapter_2</derivedcompoundref>
+    <derivedcompoundref refid="classcrc643f46942d9dd1fff9_1_1_structured_items_view_adapter__2" prot="public" virt="non-virtual">crc643f46942d9dd1fff9.StructuredItemsViewAdapter_2</derivedcompoundref>
+      <sectiondef kind="public-static-attrib">
+      <memberdef kind="variable" id="classcrc643f46942d9dd1fff9_1_1_items_view_adapter__2_1aad0ccfbba0d44ac922a27d076c4506b9" prot="public" static="yes" mutable="no">
+        <type>final String</type>
+        <definition>static final String crc643f46942d9dd1fff9.ItemsViewAdapter_2::__md_methods</definition>
+        <argsstring></argsstring>
+        <name>__md_methods</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+<para>@hide </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/100/android/src/crc643f46942d9dd1fff9/ItemsViewAdapter_2.java" line="10" column="28" bodyfile="Application Green Quake.Android/obj/Debug/100/android/src/crc643f46942d9dd1fff9/ItemsViewAdapter_2.java" bodystart="10" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="private-attrib">
+      <memberdef kind="variable" id="classcrc643f46942d9dd1fff9_1_1_items_view_adapter__2_1a865524f31a41c4161551d95d7cbf86c5" prot="private" static="no" mutable="no">
+        <type>java.util.ArrayList</type>
+        <definition>java util ArrayList crc643f46942d9dd1fff9.ItemsViewAdapter_2::refList</definition>
+        <argsstring></argsstring>
+        <name>refList</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/100/android/src/crc643f46942d9dd1fff9/ItemsViewAdapter_2.java" line="70" column="27" bodyfile="Application Green Quake.Android/obj/Debug/100/android/src/crc643f46942d9dd1fff9/ItemsViewAdapter_2.java" bodystart="70" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="package-static-func">
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_items_view_adapter__2_1a732d3ecaf1ead8b2ec96b9113eeb598a" prot="package" static="yes" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>crc643f46942d9dd1fff9.ItemsViewAdapter_2.[static initializer]</definition>
+        <argsstring></argsstring>
+        <name>[static initializer]</name>
+        <reimplementedby refid="classcrc6414252951f3f66c67_1_1_carousel_view_adapter__2_1a462b626965fd3eb32980ce36b6ba76b6">[static initializer]</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_groupable_items_view_adapter__2_1ae76a9801167891eb85eb5e2034948a23">[static initializer]</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_selectable_items_view_adapter__2_1a48bc991e809cd961dc2b3f06f1692ecf">[static initializer]</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_structured_items_view_adapter__2_1a04fdfcdb2c8564205531850890b20bc7">[static initializer]</reimplementedby>
+        <reimplementedby refid="classcrc6414252951f3f66c67_1_1_carousel_view_adapter__2_1a462b626965fd3eb32980ce36b6ba76b6">[static initializer]</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_groupable_items_view_adapter__2_1ae76a9801167891eb85eb5e2034948a23">[static initializer]</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_selectable_items_view_adapter__2_1a48bc991e809cd961dc2b3f06f1692ecf">[static initializer]</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_structured_items_view_adapter__2_1a04fdfcdb2c8564205531850890b20bc7">[static initializer]</reimplementedby>
+        <reimplementedby refid="classcrc6414252951f3f66c67_1_1_carousel_view_adapter__2_1a462b626965fd3eb32980ce36b6ba76b6">[static initializer]</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_groupable_items_view_adapter__2_1ae76a9801167891eb85eb5e2034948a23">[static initializer]</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_selectable_items_view_adapter__2_1a48bc991e809cd961dc2b3f06f1692ecf">[static initializer]</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_structured_items_view_adapter__2_1a04fdfcdb2c8564205531850890b20bc7">[static initializer]</reimplementedby>
+        <reimplementedby refid="classcrc6414252951f3f66c67_1_1_carousel_view_adapter__2_1a462b626965fd3eb32980ce36b6ba76b6">[static initializer]</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_groupable_items_view_adapter__2_1ae76a9801167891eb85eb5e2034948a23">[static initializer]</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_selectable_items_view_adapter__2_1a48bc991e809cd961dc2b3f06f1692ecf">[static initializer]</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_structured_items_view_adapter__2_1a04fdfcdb2c8564205531850890b20bc7">[static initializer]</reimplementedby>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/100/android/src/crc643f46942d9dd1fff9/ItemsViewAdapter_2.java" line="10" column="28"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_items_view_adapter__2_1a732d3ecaf1ead8b2ec96b9113eeb598a" prot="package" static="yes" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>crc643f46942d9dd1fff9.ItemsViewAdapter_2.[static initializer]</definition>
+        <argsstring></argsstring>
+        <name>[static initializer]</name>
+        <reimplementedby refid="classcrc6414252951f3f66c67_1_1_carousel_view_adapter__2_1a462b626965fd3eb32980ce36b6ba76b6">[static initializer]</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_groupable_items_view_adapter__2_1ae76a9801167891eb85eb5e2034948a23">[static initializer]</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_selectable_items_view_adapter__2_1a48bc991e809cd961dc2b3f06f1692ecf">[static initializer]</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_structured_items_view_adapter__2_1a04fdfcdb2c8564205531850890b20bc7">[static initializer]</reimplementedby>
+        <reimplementedby refid="classcrc6414252951f3f66c67_1_1_carousel_view_adapter__2_1a462b626965fd3eb32980ce36b6ba76b6">[static initializer]</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_groupable_items_view_adapter__2_1ae76a9801167891eb85eb5e2034948a23">[static initializer]</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_selectable_items_view_adapter__2_1a48bc991e809cd961dc2b3f06f1692ecf">[static initializer]</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_structured_items_view_adapter__2_1a04fdfcdb2c8564205531850890b20bc7">[static initializer]</reimplementedby>
+        <reimplementedby refid="classcrc6414252951f3f66c67_1_1_carousel_view_adapter__2_1a462b626965fd3eb32980ce36b6ba76b6">[static initializer]</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_groupable_items_view_adapter__2_1ae76a9801167891eb85eb5e2034948a23">[static initializer]</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_selectable_items_view_adapter__2_1a48bc991e809cd961dc2b3f06f1692ecf">[static initializer]</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_structured_items_view_adapter__2_1a04fdfcdb2c8564205531850890b20bc7">[static initializer]</reimplementedby>
+        <reimplementedby refid="classcrc6414252951f3f66c67_1_1_carousel_view_adapter__2_1a462b626965fd3eb32980ce36b6ba76b6">[static initializer]</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_groupable_items_view_adapter__2_1ae76a9801167891eb85eb5e2034948a23">[static initializer]</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_selectable_items_view_adapter__2_1a48bc991e809cd961dc2b3f06f1692ecf">[static initializer]</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_structured_items_view_adapter__2_1a04fdfcdb2c8564205531850890b20bc7">[static initializer]</reimplementedby>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/110/android/src/crc643f46942d9dd1fff9/ItemsViewAdapter_2.java" line="10" column="28"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_items_view_adapter__2_1a732d3ecaf1ead8b2ec96b9113eeb598a" prot="package" static="yes" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>crc643f46942d9dd1fff9.ItemsViewAdapter_2.[static initializer]</definition>
+        <argsstring></argsstring>
+        <name>[static initializer]</name>
+        <reimplementedby refid="classcrc6414252951f3f66c67_1_1_carousel_view_adapter__2_1a462b626965fd3eb32980ce36b6ba76b6">[static initializer]</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_groupable_items_view_adapter__2_1ae76a9801167891eb85eb5e2034948a23">[static initializer]</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_selectable_items_view_adapter__2_1a48bc991e809cd961dc2b3f06f1692ecf">[static initializer]</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_structured_items_view_adapter__2_1a04fdfcdb2c8564205531850890b20bc7">[static initializer]</reimplementedby>
+        <reimplementedby refid="classcrc6414252951f3f66c67_1_1_carousel_view_adapter__2_1a462b626965fd3eb32980ce36b6ba76b6">[static initializer]</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_groupable_items_view_adapter__2_1ae76a9801167891eb85eb5e2034948a23">[static initializer]</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_selectable_items_view_adapter__2_1a48bc991e809cd961dc2b3f06f1692ecf">[static initializer]</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_structured_items_view_adapter__2_1a04fdfcdb2c8564205531850890b20bc7">[static initializer]</reimplementedby>
+        <reimplementedby refid="classcrc6414252951f3f66c67_1_1_carousel_view_adapter__2_1a462b626965fd3eb32980ce36b6ba76b6">[static initializer]</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_groupable_items_view_adapter__2_1ae76a9801167891eb85eb5e2034948a23">[static initializer]</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_selectable_items_view_adapter__2_1a48bc991e809cd961dc2b3f06f1692ecf">[static initializer]</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_structured_items_view_adapter__2_1a04fdfcdb2c8564205531850890b20bc7">[static initializer]</reimplementedby>
+        <reimplementedby refid="classcrc6414252951f3f66c67_1_1_carousel_view_adapter__2_1a462b626965fd3eb32980ce36b6ba76b6">[static initializer]</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_groupable_items_view_adapter__2_1ae76a9801167891eb85eb5e2034948a23">[static initializer]</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_selectable_items_view_adapter__2_1a48bc991e809cd961dc2b3f06f1692ecf">[static initializer]</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_structured_items_view_adapter__2_1a04fdfcdb2c8564205531850890b20bc7">[static initializer]</reimplementedby>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/100/android/src/crc643f46942d9dd1fff9/ItemsViewAdapter_2.java" line="10" column="28"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_items_view_adapter__2_1a732d3ecaf1ead8b2ec96b9113eeb598a" prot="package" static="yes" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>crc643f46942d9dd1fff9.ItemsViewAdapter_2.[static initializer]</definition>
+        <argsstring></argsstring>
+        <name>[static initializer]</name>
+        <reimplementedby refid="classcrc6414252951f3f66c67_1_1_carousel_view_adapter__2_1a462b626965fd3eb32980ce36b6ba76b6">[static initializer]</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_groupable_items_view_adapter__2_1ae76a9801167891eb85eb5e2034948a23">[static initializer]</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_selectable_items_view_adapter__2_1a48bc991e809cd961dc2b3f06f1692ecf">[static initializer]</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_structured_items_view_adapter__2_1a04fdfcdb2c8564205531850890b20bc7">[static initializer]</reimplementedby>
+        <reimplementedby refid="classcrc6414252951f3f66c67_1_1_carousel_view_adapter__2_1a462b626965fd3eb32980ce36b6ba76b6">[static initializer]</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_groupable_items_view_adapter__2_1ae76a9801167891eb85eb5e2034948a23">[static initializer]</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_selectable_items_view_adapter__2_1a48bc991e809cd961dc2b3f06f1692ecf">[static initializer]</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_structured_items_view_adapter__2_1a04fdfcdb2c8564205531850890b20bc7">[static initializer]</reimplementedby>
+        <reimplementedby refid="classcrc6414252951f3f66c67_1_1_carousel_view_adapter__2_1a462b626965fd3eb32980ce36b6ba76b6">[static initializer]</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_groupable_items_view_adapter__2_1ae76a9801167891eb85eb5e2034948a23">[static initializer]</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_selectable_items_view_adapter__2_1a48bc991e809cd961dc2b3f06f1692ecf">[static initializer]</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_structured_items_view_adapter__2_1a04fdfcdb2c8564205531850890b20bc7">[static initializer]</reimplementedby>
+        <reimplementedby refid="classcrc6414252951f3f66c67_1_1_carousel_view_adapter__2_1a462b626965fd3eb32980ce36b6ba76b6">[static initializer]</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_groupable_items_view_adapter__2_1ae76a9801167891eb85eb5e2034948a23">[static initializer]</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_selectable_items_view_adapter__2_1a48bc991e809cd961dc2b3f06f1692ecf">[static initializer]</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_structured_items_view_adapter__2_1a04fdfcdb2c8564205531850890b20bc7">[static initializer]</reimplementedby>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/110/android/src/crc643f46942d9dd1fff9/ItemsViewAdapter_2.java" line="10" column="28"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="public-func">
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_items_view_adapter__2_1aa149a23593c825f5a4772ebaccaf4a28" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>crc643f46942d9dd1fff9.ItemsViewAdapter_2.ItemsViewAdapter_2</definition>
+        <argsstring>()</argsstring>
+        <name>ItemsViewAdapter_2</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/100/android/src/crc643f46942d9dd1fff9/ItemsViewAdapter_2.java" line="23" column="8" bodyfile="Application Green Quake.Android/obj/Debug/100/android/src/crc643f46942d9dd1fff9/ItemsViewAdapter_2.java" bodystart="23" bodyend="28"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_items_view_adapter__2_1a2116ce04bb54dc378ca790353d42e282" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void crc643f46942d9dd1fff9.ItemsViewAdapter_2.onViewRecycled</definition>
+        <argsstring>(androidx.recyclerview.widget.RecyclerView.ViewHolder p0)</argsstring>
+        <name>onViewRecycled</name>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_selectable_items_view_adapter__2_1ac97b7263daa23515ad275b7cf513eee5">onViewRecycled</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_selectable_items_view_adapter__2_1ac97b7263daa23515ad275b7cf513eee5">onViewRecycled</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_selectable_items_view_adapter__2_1ac97b7263daa23515ad275b7cf513eee5">onViewRecycled</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_selectable_items_view_adapter__2_1ac97b7263daa23515ad275b7cf513eee5">onViewRecycled</reimplementedby>
+        <param>
+          <type>androidx.recyclerview.widget.RecyclerView.ViewHolder</type>
+          <declname>p0</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/100/android/src/crc643f46942d9dd1fff9/ItemsViewAdapter_2.java" line="31" column="13" bodyfile="Application Green Quake.Android/obj/Debug/100/android/src/crc643f46942d9dd1fff9/ItemsViewAdapter_2.java" bodystart="31" bodyend="34"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_items_view_adapter__2_1aa56ea9e3ce48fc0e67cb5c6c66bcece6" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void crc643f46942d9dd1fff9.ItemsViewAdapter_2.onBindViewHolder</definition>
+        <argsstring>(androidx.recyclerview.widget.RecyclerView.ViewHolder p0, int p1)</argsstring>
+        <name>onBindViewHolder</name>
+        <reimplementedby refid="classcrc6414252951f3f66c67_1_1_carousel_view_adapter__2_1a12f9124e73b311a8baf641b3752d9e2d">onBindViewHolder</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_groupable_items_view_adapter__2_1a33d7222360663f0fe2c9cde7d483c327">onBindViewHolder</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_selectable_items_view_adapter__2_1a490dad8c71ea7b4c7c8146315a08ad9e">onBindViewHolder</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_structured_items_view_adapter__2_1a6b390e9ebb769fb561186d9780be6d64">onBindViewHolder</reimplementedby>
+        <reimplementedby refid="classcrc6414252951f3f66c67_1_1_carousel_view_adapter__2_1a12f9124e73b311a8baf641b3752d9e2d">onBindViewHolder</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_groupable_items_view_adapter__2_1a33d7222360663f0fe2c9cde7d483c327">onBindViewHolder</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_selectable_items_view_adapter__2_1a490dad8c71ea7b4c7c8146315a08ad9e">onBindViewHolder</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_structured_items_view_adapter__2_1a6b390e9ebb769fb561186d9780be6d64">onBindViewHolder</reimplementedby>
+        <reimplementedby refid="classcrc6414252951f3f66c67_1_1_carousel_view_adapter__2_1a12f9124e73b311a8baf641b3752d9e2d">onBindViewHolder</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_groupable_items_view_adapter__2_1a33d7222360663f0fe2c9cde7d483c327">onBindViewHolder</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_selectable_items_view_adapter__2_1a490dad8c71ea7b4c7c8146315a08ad9e">onBindViewHolder</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_structured_items_view_adapter__2_1a6b390e9ebb769fb561186d9780be6d64">onBindViewHolder</reimplementedby>
+        <reimplementedby refid="classcrc6414252951f3f66c67_1_1_carousel_view_adapter__2_1a12f9124e73b311a8baf641b3752d9e2d">onBindViewHolder</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_groupable_items_view_adapter__2_1a33d7222360663f0fe2c9cde7d483c327">onBindViewHolder</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_selectable_items_view_adapter__2_1a490dad8c71ea7b4c7c8146315a08ad9e">onBindViewHolder</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_structured_items_view_adapter__2_1a6b390e9ebb769fb561186d9780be6d64">onBindViewHolder</reimplementedby>
+        <param>
+          <type>androidx.recyclerview.widget.RecyclerView.ViewHolder</type>
+          <declname>p0</declname>
+        </param>
+        <param>
+          <type>int</type>
+          <declname>p1</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/100/android/src/crc643f46942d9dd1fff9/ItemsViewAdapter_2.java" line="39" column="13" bodyfile="Application Green Quake.Android/obj/Debug/100/android/src/crc643f46942d9dd1fff9/ItemsViewAdapter_2.java" bodystart="39" bodyend="42"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_items_view_adapter__2_1a2df7eb28927000984a71c9a0760b8487" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>androidx.recyclerview.widget.RecyclerView.ViewHolder</type>
+        <definition>androidx.recyclerview.widget.RecyclerView.ViewHolder crc643f46942d9dd1fff9.ItemsViewAdapter_2.onCreateViewHolder</definition>
+        <argsstring>(android.view.ViewGroup p0, int p1)</argsstring>
+        <name>onCreateViewHolder</name>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_groupable_items_view_adapter__2_1a18596e50de2cb0d134454561dda55eba">onCreateViewHolder</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_structured_items_view_adapter__2_1a98557f6c8c8f1c86f21694fdf8b75d8c">onCreateViewHolder</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_groupable_items_view_adapter__2_1a18596e50de2cb0d134454561dda55eba">onCreateViewHolder</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_structured_items_view_adapter__2_1a98557f6c8c8f1c86f21694fdf8b75d8c">onCreateViewHolder</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_groupable_items_view_adapter__2_1a18596e50de2cb0d134454561dda55eba">onCreateViewHolder</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_structured_items_view_adapter__2_1a98557f6c8c8f1c86f21694fdf8b75d8c">onCreateViewHolder</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_groupable_items_view_adapter__2_1a18596e50de2cb0d134454561dda55eba">onCreateViewHolder</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_structured_items_view_adapter__2_1a98557f6c8c8f1c86f21694fdf8b75d8c">onCreateViewHolder</reimplementedby>
+        <param>
+          <type>android.view.ViewGroup</type>
+          <declname>p0</declname>
+        </param>
+        <param>
+          <type>int</type>
+          <declname>p1</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/100/android/src/crc643f46942d9dd1fff9/ItemsViewAdapter_2.java" line="47" column="57" bodyfile="Application Green Quake.Android/obj/Debug/100/android/src/crc643f46942d9dd1fff9/ItemsViewAdapter_2.java" bodystart="47" bodyend="50"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_items_view_adapter__2_1a33fa4d33326a8d83e22682dc879491c2" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>int</type>
+        <definition>int crc643f46942d9dd1fff9.ItemsViewAdapter_2.getItemCount</definition>
+        <argsstring>()</argsstring>
+        <name>getItemCount</name>
+        <reimplementedby refid="classcrc6414252951f3f66c67_1_1_carousel_view_adapter__2_1a5b2f0653812c8a6714f5d985abecce09">getItemCount</reimplementedby>
+        <reimplementedby refid="classcrc6414252951f3f66c67_1_1_carousel_view_adapter__2_1a5b2f0653812c8a6714f5d985abecce09">getItemCount</reimplementedby>
+        <reimplementedby refid="classcrc6414252951f3f66c67_1_1_carousel_view_adapter__2_1a5b2f0653812c8a6714f5d985abecce09">getItemCount</reimplementedby>
+        <reimplementedby refid="classcrc6414252951f3f66c67_1_1_carousel_view_adapter__2_1a5b2f0653812c8a6714f5d985abecce09">getItemCount</reimplementedby>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/100/android/src/crc643f46942d9dd1fff9/ItemsViewAdapter_2.java" line="55" column="12" bodyfile="Application Green Quake.Android/obj/Debug/100/android/src/crc643f46942d9dd1fff9/ItemsViewAdapter_2.java" bodystart="55" bodyend="58"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_items_view_adapter__2_1a98da5f297a2f3eef8f58735d752d11d1" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>int</type>
+        <definition>int crc643f46942d9dd1fff9.ItemsViewAdapter_2.getItemViewType</definition>
+        <argsstring>(int p0)</argsstring>
+        <name>getItemViewType</name>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_groupable_items_view_adapter__2_1a39eccf0a8cfc8deee1ec1e9b82133e81">getItemViewType</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_structured_items_view_adapter__2_1a9fab525d8f9fbaaa5b475f49993325ac">getItemViewType</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_groupable_items_view_adapter__2_1a39eccf0a8cfc8deee1ec1e9b82133e81">getItemViewType</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_structured_items_view_adapter__2_1a9fab525d8f9fbaaa5b475f49993325ac">getItemViewType</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_groupable_items_view_adapter__2_1a39eccf0a8cfc8deee1ec1e9b82133e81">getItemViewType</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_structured_items_view_adapter__2_1a9fab525d8f9fbaaa5b475f49993325ac">getItemViewType</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_groupable_items_view_adapter__2_1a39eccf0a8cfc8deee1ec1e9b82133e81">getItemViewType</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_structured_items_view_adapter__2_1a9fab525d8f9fbaaa5b475f49993325ac">getItemViewType</reimplementedby>
+        <param>
+          <type>int</type>
+          <declname>p0</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/100/android/src/crc643f46942d9dd1fff9/ItemsViewAdapter_2.java" line="63" column="12" bodyfile="Application Green Quake.Android/obj/Debug/100/android/src/crc643f46942d9dd1fff9/ItemsViewAdapter_2.java" bodystart="63" bodyend="66"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_items_view_adapter__2_1af3fdbeecc7181ce65d4651f9f2b1639e" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void crc643f46942d9dd1fff9.ItemsViewAdapter_2.monodroidAddReference</definition>
+        <argsstring>(java.lang.Object obj)</argsstring>
+        <name>monodroidAddReference</name>
+        <reimplementedby refid="classcrc6414252951f3f66c67_1_1_carousel_view_adapter__2_1ae8ff7adc59108d0c3872e79696308966">monodroidAddReference</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_groupable_items_view_adapter__2_1a8f557c81247f26e367581df312497a53">monodroidAddReference</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_selectable_items_view_adapter__2_1a637d7057e8d6309b17ec765073b37598">monodroidAddReference</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_structured_items_view_adapter__2_1a902139eebf3f41bb3e466e00b91e2588">monodroidAddReference</reimplementedby>
+        <reimplementedby refid="classcrc6414252951f3f66c67_1_1_carousel_view_adapter__2_1ae8ff7adc59108d0c3872e79696308966">monodroidAddReference</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_groupable_items_view_adapter__2_1a8f557c81247f26e367581df312497a53">monodroidAddReference</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_selectable_items_view_adapter__2_1a637d7057e8d6309b17ec765073b37598">monodroidAddReference</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_structured_items_view_adapter__2_1a902139eebf3f41bb3e466e00b91e2588">monodroidAddReference</reimplementedby>
+        <reimplementedby refid="classcrc6414252951f3f66c67_1_1_carousel_view_adapter__2_1ae8ff7adc59108d0c3872e79696308966">monodroidAddReference</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_groupable_items_view_adapter__2_1a8f557c81247f26e367581df312497a53">monodroidAddReference</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_selectable_items_view_adapter__2_1a637d7057e8d6309b17ec765073b37598">monodroidAddReference</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_structured_items_view_adapter__2_1a902139eebf3f41bb3e466e00b91e2588">monodroidAddReference</reimplementedby>
+        <reimplementedby refid="classcrc6414252951f3f66c67_1_1_carousel_view_adapter__2_1ae8ff7adc59108d0c3872e79696308966">monodroidAddReference</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_groupable_items_view_adapter__2_1a8f557c81247f26e367581df312497a53">monodroidAddReference</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_selectable_items_view_adapter__2_1a637d7057e8d6309b17ec765073b37598">monodroidAddReference</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_structured_items_view_adapter__2_1a902139eebf3f41bb3e466e00b91e2588">monodroidAddReference</reimplementedby>
+        <param>
+          <type>java.lang.Object</type>
+          <declname>obj</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/100/android/src/crc643f46942d9dd1fff9/ItemsViewAdapter_2.java" line="71" column="13" bodyfile="Application Green Quake.Android/obj/Debug/100/android/src/crc643f46942d9dd1fff9/ItemsViewAdapter_2.java" bodystart="71" bodyend="76"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_items_view_adapter__2_1a9f150b3ad7c33b5812a550d3f4634976" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void crc643f46942d9dd1fff9.ItemsViewAdapter_2.monodroidClearReferences</definition>
+        <argsstring>()</argsstring>
+        <name>monodroidClearReferences</name>
+        <reimplementedby refid="classcrc6414252951f3f66c67_1_1_carousel_view_adapter__2_1a7260e4f52c6e5c7419733f0606d9d40c">monodroidClearReferences</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_groupable_items_view_adapter__2_1a18f6b054cbaaee474c3e1d26d94f3b83">monodroidClearReferences</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_selectable_items_view_adapter__2_1af45e6fef3aa09f1871b0b4f51c89ab35">monodroidClearReferences</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_structured_items_view_adapter__2_1ab334f385412c896f907a504989535c36">monodroidClearReferences</reimplementedby>
+        <reimplementedby refid="classcrc6414252951f3f66c67_1_1_carousel_view_adapter__2_1a7260e4f52c6e5c7419733f0606d9d40c">monodroidClearReferences</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_groupable_items_view_adapter__2_1a18f6b054cbaaee474c3e1d26d94f3b83">monodroidClearReferences</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_selectable_items_view_adapter__2_1af45e6fef3aa09f1871b0b4f51c89ab35">monodroidClearReferences</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_structured_items_view_adapter__2_1ab334f385412c896f907a504989535c36">monodroidClearReferences</reimplementedby>
+        <reimplementedby refid="classcrc6414252951f3f66c67_1_1_carousel_view_adapter__2_1a7260e4f52c6e5c7419733f0606d9d40c">monodroidClearReferences</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_groupable_items_view_adapter__2_1a18f6b054cbaaee474c3e1d26d94f3b83">monodroidClearReferences</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_selectable_items_view_adapter__2_1af45e6fef3aa09f1871b0b4f51c89ab35">monodroidClearReferences</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_structured_items_view_adapter__2_1ab334f385412c896f907a504989535c36">monodroidClearReferences</reimplementedby>
+        <reimplementedby refid="classcrc6414252951f3f66c67_1_1_carousel_view_adapter__2_1a7260e4f52c6e5c7419733f0606d9d40c">monodroidClearReferences</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_groupable_items_view_adapter__2_1a18f6b054cbaaee474c3e1d26d94f3b83">monodroidClearReferences</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_selectable_items_view_adapter__2_1af45e6fef3aa09f1871b0b4f51c89ab35">monodroidClearReferences</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_structured_items_view_adapter__2_1ab334f385412c896f907a504989535c36">monodroidClearReferences</reimplementedby>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/100/android/src/crc643f46942d9dd1fff9/ItemsViewAdapter_2.java" line="78" column="13" bodyfile="Application Green Quake.Android/obj/Debug/100/android/src/crc643f46942d9dd1fff9/ItemsViewAdapter_2.java" bodystart="78" bodyend="82"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_items_view_adapter__2_1aa149a23593c825f5a4772ebaccaf4a28" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>crc643f46942d9dd1fff9.ItemsViewAdapter_2.ItemsViewAdapter_2</definition>
+        <argsstring>()</argsstring>
+        <name>ItemsViewAdapter_2</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/110/android/src/crc643f46942d9dd1fff9/ItemsViewAdapter_2.java" line="23" column="8" bodyfile="Application Green Quake.Android/obj/Debug/110/android/src/crc643f46942d9dd1fff9/ItemsViewAdapter_2.java" bodystart="23" bodyend="28"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_items_view_adapter__2_1a2116ce04bb54dc378ca790353d42e282" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void crc643f46942d9dd1fff9.ItemsViewAdapter_2.onViewRecycled</definition>
+        <argsstring>(androidx.recyclerview.widget.RecyclerView.ViewHolder p0)</argsstring>
+        <name>onViewRecycled</name>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_selectable_items_view_adapter__2_1ac97b7263daa23515ad275b7cf513eee5">onViewRecycled</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_selectable_items_view_adapter__2_1ac97b7263daa23515ad275b7cf513eee5">onViewRecycled</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_selectable_items_view_adapter__2_1ac97b7263daa23515ad275b7cf513eee5">onViewRecycled</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_selectable_items_view_adapter__2_1ac97b7263daa23515ad275b7cf513eee5">onViewRecycled</reimplementedby>
+        <param>
+          <type>androidx.recyclerview.widget.RecyclerView.ViewHolder</type>
+          <declname>p0</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/110/android/src/crc643f46942d9dd1fff9/ItemsViewAdapter_2.java" line="31" column="13" bodyfile="Application Green Quake.Android/obj/Debug/110/android/src/crc643f46942d9dd1fff9/ItemsViewAdapter_2.java" bodystart="31" bodyend="34"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_items_view_adapter__2_1aa56ea9e3ce48fc0e67cb5c6c66bcece6" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void crc643f46942d9dd1fff9.ItemsViewAdapter_2.onBindViewHolder</definition>
+        <argsstring>(androidx.recyclerview.widget.RecyclerView.ViewHolder p0, int p1)</argsstring>
+        <name>onBindViewHolder</name>
+        <reimplementedby refid="classcrc6414252951f3f66c67_1_1_carousel_view_adapter__2_1a12f9124e73b311a8baf641b3752d9e2d">onBindViewHolder</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_groupable_items_view_adapter__2_1a33d7222360663f0fe2c9cde7d483c327">onBindViewHolder</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_selectable_items_view_adapter__2_1a490dad8c71ea7b4c7c8146315a08ad9e">onBindViewHolder</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_structured_items_view_adapter__2_1a6b390e9ebb769fb561186d9780be6d64">onBindViewHolder</reimplementedby>
+        <reimplementedby refid="classcrc6414252951f3f66c67_1_1_carousel_view_adapter__2_1a12f9124e73b311a8baf641b3752d9e2d">onBindViewHolder</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_groupable_items_view_adapter__2_1a33d7222360663f0fe2c9cde7d483c327">onBindViewHolder</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_selectable_items_view_adapter__2_1a490dad8c71ea7b4c7c8146315a08ad9e">onBindViewHolder</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_structured_items_view_adapter__2_1a6b390e9ebb769fb561186d9780be6d64">onBindViewHolder</reimplementedby>
+        <reimplementedby refid="classcrc6414252951f3f66c67_1_1_carousel_view_adapter__2_1a12f9124e73b311a8baf641b3752d9e2d">onBindViewHolder</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_groupable_items_view_adapter__2_1a33d7222360663f0fe2c9cde7d483c327">onBindViewHolder</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_selectable_items_view_adapter__2_1a490dad8c71ea7b4c7c8146315a08ad9e">onBindViewHolder</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_structured_items_view_adapter__2_1a6b390e9ebb769fb561186d9780be6d64">onBindViewHolder</reimplementedby>
+        <reimplementedby refid="classcrc6414252951f3f66c67_1_1_carousel_view_adapter__2_1a12f9124e73b311a8baf641b3752d9e2d">onBindViewHolder</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_groupable_items_view_adapter__2_1a33d7222360663f0fe2c9cde7d483c327">onBindViewHolder</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_selectable_items_view_adapter__2_1a490dad8c71ea7b4c7c8146315a08ad9e">onBindViewHolder</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_structured_items_view_adapter__2_1a6b390e9ebb769fb561186d9780be6d64">onBindViewHolder</reimplementedby>
+        <param>
+          <type>androidx.recyclerview.widget.RecyclerView.ViewHolder</type>
+          <declname>p0</declname>
+        </param>
+        <param>
+          <type>int</type>
+          <declname>p1</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/110/android/src/crc643f46942d9dd1fff9/ItemsViewAdapter_2.java" line="39" column="13" bodyfile="Application Green Quake.Android/obj/Debug/110/android/src/crc643f46942d9dd1fff9/ItemsViewAdapter_2.java" bodystart="39" bodyend="42"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_items_view_adapter__2_1a2df7eb28927000984a71c9a0760b8487" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>androidx.recyclerview.widget.RecyclerView.ViewHolder</type>
+        <definition>androidx.recyclerview.widget.RecyclerView.ViewHolder crc643f46942d9dd1fff9.ItemsViewAdapter_2.onCreateViewHolder</definition>
+        <argsstring>(android.view.ViewGroup p0, int p1)</argsstring>
+        <name>onCreateViewHolder</name>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_groupable_items_view_adapter__2_1a18596e50de2cb0d134454561dda55eba">onCreateViewHolder</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_structured_items_view_adapter__2_1a98557f6c8c8f1c86f21694fdf8b75d8c">onCreateViewHolder</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_groupable_items_view_adapter__2_1a18596e50de2cb0d134454561dda55eba">onCreateViewHolder</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_structured_items_view_adapter__2_1a98557f6c8c8f1c86f21694fdf8b75d8c">onCreateViewHolder</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_groupable_items_view_adapter__2_1a18596e50de2cb0d134454561dda55eba">onCreateViewHolder</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_structured_items_view_adapter__2_1a98557f6c8c8f1c86f21694fdf8b75d8c">onCreateViewHolder</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_groupable_items_view_adapter__2_1a18596e50de2cb0d134454561dda55eba">onCreateViewHolder</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_structured_items_view_adapter__2_1a98557f6c8c8f1c86f21694fdf8b75d8c">onCreateViewHolder</reimplementedby>
+        <param>
+          <type>android.view.ViewGroup</type>
+          <declname>p0</declname>
+        </param>
+        <param>
+          <type>int</type>
+          <declname>p1</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/110/android/src/crc643f46942d9dd1fff9/ItemsViewAdapter_2.java" line="47" column="57" bodyfile="Application Green Quake.Android/obj/Debug/110/android/src/crc643f46942d9dd1fff9/ItemsViewAdapter_2.java" bodystart="47" bodyend="50"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_items_view_adapter__2_1a33fa4d33326a8d83e22682dc879491c2" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>int</type>
+        <definition>int crc643f46942d9dd1fff9.ItemsViewAdapter_2.getItemCount</definition>
+        <argsstring>()</argsstring>
+        <name>getItemCount</name>
+        <reimplementedby refid="classcrc6414252951f3f66c67_1_1_carousel_view_adapter__2_1a5b2f0653812c8a6714f5d985abecce09">getItemCount</reimplementedby>
+        <reimplementedby refid="classcrc6414252951f3f66c67_1_1_carousel_view_adapter__2_1a5b2f0653812c8a6714f5d985abecce09">getItemCount</reimplementedby>
+        <reimplementedby refid="classcrc6414252951f3f66c67_1_1_carousel_view_adapter__2_1a5b2f0653812c8a6714f5d985abecce09">getItemCount</reimplementedby>
+        <reimplementedby refid="classcrc6414252951f3f66c67_1_1_carousel_view_adapter__2_1a5b2f0653812c8a6714f5d985abecce09">getItemCount</reimplementedby>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/110/android/src/crc643f46942d9dd1fff9/ItemsViewAdapter_2.java" line="55" column="12" bodyfile="Application Green Quake.Android/obj/Debug/110/android/src/crc643f46942d9dd1fff9/ItemsViewAdapter_2.java" bodystart="55" bodyend="58"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_items_view_adapter__2_1a98da5f297a2f3eef8f58735d752d11d1" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>int</type>
+        <definition>int crc643f46942d9dd1fff9.ItemsViewAdapter_2.getItemViewType</definition>
+        <argsstring>(int p0)</argsstring>
+        <name>getItemViewType</name>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_groupable_items_view_adapter__2_1a39eccf0a8cfc8deee1ec1e9b82133e81">getItemViewType</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_structured_items_view_adapter__2_1a9fab525d8f9fbaaa5b475f49993325ac">getItemViewType</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_groupable_items_view_adapter__2_1a39eccf0a8cfc8deee1ec1e9b82133e81">getItemViewType</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_structured_items_view_adapter__2_1a9fab525d8f9fbaaa5b475f49993325ac">getItemViewType</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_groupable_items_view_adapter__2_1a39eccf0a8cfc8deee1ec1e9b82133e81">getItemViewType</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_structured_items_view_adapter__2_1a9fab525d8f9fbaaa5b475f49993325ac">getItemViewType</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_groupable_items_view_adapter__2_1a39eccf0a8cfc8deee1ec1e9b82133e81">getItemViewType</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_structured_items_view_adapter__2_1a9fab525d8f9fbaaa5b475f49993325ac">getItemViewType</reimplementedby>
+        <param>
+          <type>int</type>
+          <declname>p0</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/110/android/src/crc643f46942d9dd1fff9/ItemsViewAdapter_2.java" line="63" column="12" bodyfile="Application Green Quake.Android/obj/Debug/110/android/src/crc643f46942d9dd1fff9/ItemsViewAdapter_2.java" bodystart="63" bodyend="66"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_items_view_adapter__2_1af3fdbeecc7181ce65d4651f9f2b1639e" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void crc643f46942d9dd1fff9.ItemsViewAdapter_2.monodroidAddReference</definition>
+        <argsstring>(java.lang.Object obj)</argsstring>
+        <name>monodroidAddReference</name>
+        <reimplementedby refid="classcrc6414252951f3f66c67_1_1_carousel_view_adapter__2_1ae8ff7adc59108d0c3872e79696308966">monodroidAddReference</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_groupable_items_view_adapter__2_1a8f557c81247f26e367581df312497a53">monodroidAddReference</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_selectable_items_view_adapter__2_1a637d7057e8d6309b17ec765073b37598">monodroidAddReference</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_structured_items_view_adapter__2_1a902139eebf3f41bb3e466e00b91e2588">monodroidAddReference</reimplementedby>
+        <reimplementedby refid="classcrc6414252951f3f66c67_1_1_carousel_view_adapter__2_1ae8ff7adc59108d0c3872e79696308966">monodroidAddReference</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_groupable_items_view_adapter__2_1a8f557c81247f26e367581df312497a53">monodroidAddReference</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_selectable_items_view_adapter__2_1a637d7057e8d6309b17ec765073b37598">monodroidAddReference</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_structured_items_view_adapter__2_1a902139eebf3f41bb3e466e00b91e2588">monodroidAddReference</reimplementedby>
+        <reimplementedby refid="classcrc6414252951f3f66c67_1_1_carousel_view_adapter__2_1ae8ff7adc59108d0c3872e79696308966">monodroidAddReference</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_groupable_items_view_adapter__2_1a8f557c81247f26e367581df312497a53">monodroidAddReference</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_selectable_items_view_adapter__2_1a637d7057e8d6309b17ec765073b37598">monodroidAddReference</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_structured_items_view_adapter__2_1a902139eebf3f41bb3e466e00b91e2588">monodroidAddReference</reimplementedby>
+        <reimplementedby refid="classcrc6414252951f3f66c67_1_1_carousel_view_adapter__2_1ae8ff7adc59108d0c3872e79696308966">monodroidAddReference</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_groupable_items_view_adapter__2_1a8f557c81247f26e367581df312497a53">monodroidAddReference</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_selectable_items_view_adapter__2_1a637d7057e8d6309b17ec765073b37598">monodroidAddReference</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_structured_items_view_adapter__2_1a902139eebf3f41bb3e466e00b91e2588">monodroidAddReference</reimplementedby>
+        <param>
+          <type>java.lang.Object</type>
+          <declname>obj</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/110/android/src/crc643f46942d9dd1fff9/ItemsViewAdapter_2.java" line="71" column="13" bodyfile="Application Green Quake.Android/obj/Debug/110/android/src/crc643f46942d9dd1fff9/ItemsViewAdapter_2.java" bodystart="71" bodyend="76"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_items_view_adapter__2_1a9f150b3ad7c33b5812a550d3f4634976" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void crc643f46942d9dd1fff9.ItemsViewAdapter_2.monodroidClearReferences</definition>
+        <argsstring>()</argsstring>
+        <name>monodroidClearReferences</name>
+        <reimplementedby refid="classcrc6414252951f3f66c67_1_1_carousel_view_adapter__2_1a7260e4f52c6e5c7419733f0606d9d40c">monodroidClearReferences</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_groupable_items_view_adapter__2_1a18f6b054cbaaee474c3e1d26d94f3b83">monodroidClearReferences</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_selectable_items_view_adapter__2_1af45e6fef3aa09f1871b0b4f51c89ab35">monodroidClearReferences</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_structured_items_view_adapter__2_1ab334f385412c896f907a504989535c36">monodroidClearReferences</reimplementedby>
+        <reimplementedby refid="classcrc6414252951f3f66c67_1_1_carousel_view_adapter__2_1a7260e4f52c6e5c7419733f0606d9d40c">monodroidClearReferences</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_groupable_items_view_adapter__2_1a18f6b054cbaaee474c3e1d26d94f3b83">monodroidClearReferences</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_selectable_items_view_adapter__2_1af45e6fef3aa09f1871b0b4f51c89ab35">monodroidClearReferences</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_structured_items_view_adapter__2_1ab334f385412c896f907a504989535c36">monodroidClearReferences</reimplementedby>
+        <reimplementedby refid="classcrc6414252951f3f66c67_1_1_carousel_view_adapter__2_1a7260e4f52c6e5c7419733f0606d9d40c">monodroidClearReferences</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_groupable_items_view_adapter__2_1a18f6b054cbaaee474c3e1d26d94f3b83">monodroidClearReferences</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_selectable_items_view_adapter__2_1af45e6fef3aa09f1871b0b4f51c89ab35">monodroidClearReferences</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_structured_items_view_adapter__2_1ab334f385412c896f907a504989535c36">monodroidClearReferences</reimplementedby>
+        <reimplementedby refid="classcrc6414252951f3f66c67_1_1_carousel_view_adapter__2_1a7260e4f52c6e5c7419733f0606d9d40c">monodroidClearReferences</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_groupable_items_view_adapter__2_1a18f6b054cbaaee474c3e1d26d94f3b83">monodroidClearReferences</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_selectable_items_view_adapter__2_1af45e6fef3aa09f1871b0b4f51c89ab35">monodroidClearReferences</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_structured_items_view_adapter__2_1ab334f385412c896f907a504989535c36">monodroidClearReferences</reimplementedby>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/110/android/src/crc643f46942d9dd1fff9/ItemsViewAdapter_2.java" line="78" column="13" bodyfile="Application Green Quake.Android/obj/Debug/110/android/src/crc643f46942d9dd1fff9/ItemsViewAdapter_2.java" bodystart="78" bodyend="82"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_items_view_adapter__2_1aa149a23593c825f5a4772ebaccaf4a28" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>crc643f46942d9dd1fff9.ItemsViewAdapter_2.ItemsViewAdapter_2</definition>
+        <argsstring>()</argsstring>
+        <name>ItemsViewAdapter_2</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/100/android/src/crc643f46942d9dd1fff9/ItemsViewAdapter_2.java" line="23" column="8" bodyfile="Application Green Quake.Android/obj/Release/100/android/src/crc643f46942d9dd1fff9/ItemsViewAdapter_2.java" bodystart="23" bodyend="28"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_items_view_adapter__2_1a2116ce04bb54dc378ca790353d42e282" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void crc643f46942d9dd1fff9.ItemsViewAdapter_2.onViewRecycled</definition>
+        <argsstring>(androidx.recyclerview.widget.RecyclerView.ViewHolder p0)</argsstring>
+        <name>onViewRecycled</name>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_selectable_items_view_adapter__2_1ac97b7263daa23515ad275b7cf513eee5">onViewRecycled</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_selectable_items_view_adapter__2_1ac97b7263daa23515ad275b7cf513eee5">onViewRecycled</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_selectable_items_view_adapter__2_1ac97b7263daa23515ad275b7cf513eee5">onViewRecycled</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_selectable_items_view_adapter__2_1ac97b7263daa23515ad275b7cf513eee5">onViewRecycled</reimplementedby>
+        <param>
+          <type>androidx.recyclerview.widget.RecyclerView.ViewHolder</type>
+          <declname>p0</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/100/android/src/crc643f46942d9dd1fff9/ItemsViewAdapter_2.java" line="31" column="13" bodyfile="Application Green Quake.Android/obj/Release/100/android/src/crc643f46942d9dd1fff9/ItemsViewAdapter_2.java" bodystart="31" bodyend="34"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_items_view_adapter__2_1aa56ea9e3ce48fc0e67cb5c6c66bcece6" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void crc643f46942d9dd1fff9.ItemsViewAdapter_2.onBindViewHolder</definition>
+        <argsstring>(androidx.recyclerview.widget.RecyclerView.ViewHolder p0, int p1)</argsstring>
+        <name>onBindViewHolder</name>
+        <reimplementedby refid="classcrc6414252951f3f66c67_1_1_carousel_view_adapter__2_1a12f9124e73b311a8baf641b3752d9e2d">onBindViewHolder</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_groupable_items_view_adapter__2_1a33d7222360663f0fe2c9cde7d483c327">onBindViewHolder</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_selectable_items_view_adapter__2_1a490dad8c71ea7b4c7c8146315a08ad9e">onBindViewHolder</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_structured_items_view_adapter__2_1a6b390e9ebb769fb561186d9780be6d64">onBindViewHolder</reimplementedby>
+        <reimplementedby refid="classcrc6414252951f3f66c67_1_1_carousel_view_adapter__2_1a12f9124e73b311a8baf641b3752d9e2d">onBindViewHolder</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_groupable_items_view_adapter__2_1a33d7222360663f0fe2c9cde7d483c327">onBindViewHolder</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_selectable_items_view_adapter__2_1a490dad8c71ea7b4c7c8146315a08ad9e">onBindViewHolder</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_structured_items_view_adapter__2_1a6b390e9ebb769fb561186d9780be6d64">onBindViewHolder</reimplementedby>
+        <reimplementedby refid="classcrc6414252951f3f66c67_1_1_carousel_view_adapter__2_1a12f9124e73b311a8baf641b3752d9e2d">onBindViewHolder</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_groupable_items_view_adapter__2_1a33d7222360663f0fe2c9cde7d483c327">onBindViewHolder</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_selectable_items_view_adapter__2_1a490dad8c71ea7b4c7c8146315a08ad9e">onBindViewHolder</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_structured_items_view_adapter__2_1a6b390e9ebb769fb561186d9780be6d64">onBindViewHolder</reimplementedby>
+        <reimplementedby refid="classcrc6414252951f3f66c67_1_1_carousel_view_adapter__2_1a12f9124e73b311a8baf641b3752d9e2d">onBindViewHolder</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_groupable_items_view_adapter__2_1a33d7222360663f0fe2c9cde7d483c327">onBindViewHolder</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_selectable_items_view_adapter__2_1a490dad8c71ea7b4c7c8146315a08ad9e">onBindViewHolder</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_structured_items_view_adapter__2_1a6b390e9ebb769fb561186d9780be6d64">onBindViewHolder</reimplementedby>
+        <param>
+          <type>androidx.recyclerview.widget.RecyclerView.ViewHolder</type>
+          <declname>p0</declname>
+        </param>
+        <param>
+          <type>int</type>
+          <declname>p1</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/100/android/src/crc643f46942d9dd1fff9/ItemsViewAdapter_2.java" line="39" column="13" bodyfile="Application Green Quake.Android/obj/Release/100/android/src/crc643f46942d9dd1fff9/ItemsViewAdapter_2.java" bodystart="39" bodyend="42"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_items_view_adapter__2_1a2df7eb28927000984a71c9a0760b8487" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>androidx.recyclerview.widget.RecyclerView.ViewHolder</type>
+        <definition>androidx.recyclerview.widget.RecyclerView.ViewHolder crc643f46942d9dd1fff9.ItemsViewAdapter_2.onCreateViewHolder</definition>
+        <argsstring>(android.view.ViewGroup p0, int p1)</argsstring>
+        <name>onCreateViewHolder</name>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_groupable_items_view_adapter__2_1a18596e50de2cb0d134454561dda55eba">onCreateViewHolder</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_structured_items_view_adapter__2_1a98557f6c8c8f1c86f21694fdf8b75d8c">onCreateViewHolder</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_groupable_items_view_adapter__2_1a18596e50de2cb0d134454561dda55eba">onCreateViewHolder</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_structured_items_view_adapter__2_1a98557f6c8c8f1c86f21694fdf8b75d8c">onCreateViewHolder</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_groupable_items_view_adapter__2_1a18596e50de2cb0d134454561dda55eba">onCreateViewHolder</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_structured_items_view_adapter__2_1a98557f6c8c8f1c86f21694fdf8b75d8c">onCreateViewHolder</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_groupable_items_view_adapter__2_1a18596e50de2cb0d134454561dda55eba">onCreateViewHolder</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_structured_items_view_adapter__2_1a98557f6c8c8f1c86f21694fdf8b75d8c">onCreateViewHolder</reimplementedby>
+        <param>
+          <type>android.view.ViewGroup</type>
+          <declname>p0</declname>
+        </param>
+        <param>
+          <type>int</type>
+          <declname>p1</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/100/android/src/crc643f46942d9dd1fff9/ItemsViewAdapter_2.java" line="47" column="57" bodyfile="Application Green Quake.Android/obj/Release/100/android/src/crc643f46942d9dd1fff9/ItemsViewAdapter_2.java" bodystart="47" bodyend="50"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_items_view_adapter__2_1a33fa4d33326a8d83e22682dc879491c2" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>int</type>
+        <definition>int crc643f46942d9dd1fff9.ItemsViewAdapter_2.getItemCount</definition>
+        <argsstring>()</argsstring>
+        <name>getItemCount</name>
+        <reimplementedby refid="classcrc6414252951f3f66c67_1_1_carousel_view_adapter__2_1a5b2f0653812c8a6714f5d985abecce09">getItemCount</reimplementedby>
+        <reimplementedby refid="classcrc6414252951f3f66c67_1_1_carousel_view_adapter__2_1a5b2f0653812c8a6714f5d985abecce09">getItemCount</reimplementedby>
+        <reimplementedby refid="classcrc6414252951f3f66c67_1_1_carousel_view_adapter__2_1a5b2f0653812c8a6714f5d985abecce09">getItemCount</reimplementedby>
+        <reimplementedby refid="classcrc6414252951f3f66c67_1_1_carousel_view_adapter__2_1a5b2f0653812c8a6714f5d985abecce09">getItemCount</reimplementedby>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/100/android/src/crc643f46942d9dd1fff9/ItemsViewAdapter_2.java" line="55" column="12" bodyfile="Application Green Quake.Android/obj/Release/100/android/src/crc643f46942d9dd1fff9/ItemsViewAdapter_2.java" bodystart="55" bodyend="58"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_items_view_adapter__2_1a98da5f297a2f3eef8f58735d752d11d1" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>int</type>
+        <definition>int crc643f46942d9dd1fff9.ItemsViewAdapter_2.getItemViewType</definition>
+        <argsstring>(int p0)</argsstring>
+        <name>getItemViewType</name>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_groupable_items_view_adapter__2_1a39eccf0a8cfc8deee1ec1e9b82133e81">getItemViewType</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_structured_items_view_adapter__2_1a9fab525d8f9fbaaa5b475f49993325ac">getItemViewType</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_groupable_items_view_adapter__2_1a39eccf0a8cfc8deee1ec1e9b82133e81">getItemViewType</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_structured_items_view_adapter__2_1a9fab525d8f9fbaaa5b475f49993325ac">getItemViewType</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_groupable_items_view_adapter__2_1a39eccf0a8cfc8deee1ec1e9b82133e81">getItemViewType</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_structured_items_view_adapter__2_1a9fab525d8f9fbaaa5b475f49993325ac">getItemViewType</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_groupable_items_view_adapter__2_1a39eccf0a8cfc8deee1ec1e9b82133e81">getItemViewType</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_structured_items_view_adapter__2_1a9fab525d8f9fbaaa5b475f49993325ac">getItemViewType</reimplementedby>
+        <param>
+          <type>int</type>
+          <declname>p0</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/100/android/src/crc643f46942d9dd1fff9/ItemsViewAdapter_2.java" line="63" column="12" bodyfile="Application Green Quake.Android/obj/Release/100/android/src/crc643f46942d9dd1fff9/ItemsViewAdapter_2.java" bodystart="63" bodyend="66"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_items_view_adapter__2_1af3fdbeecc7181ce65d4651f9f2b1639e" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void crc643f46942d9dd1fff9.ItemsViewAdapter_2.monodroidAddReference</definition>
+        <argsstring>(java.lang.Object obj)</argsstring>
+        <name>monodroidAddReference</name>
+        <reimplementedby refid="classcrc6414252951f3f66c67_1_1_carousel_view_adapter__2_1ae8ff7adc59108d0c3872e79696308966">monodroidAddReference</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_groupable_items_view_adapter__2_1a8f557c81247f26e367581df312497a53">monodroidAddReference</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_selectable_items_view_adapter__2_1a637d7057e8d6309b17ec765073b37598">monodroidAddReference</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_structured_items_view_adapter__2_1a902139eebf3f41bb3e466e00b91e2588">monodroidAddReference</reimplementedby>
+        <reimplementedby refid="classcrc6414252951f3f66c67_1_1_carousel_view_adapter__2_1ae8ff7adc59108d0c3872e79696308966">monodroidAddReference</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_groupable_items_view_adapter__2_1a8f557c81247f26e367581df312497a53">monodroidAddReference</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_selectable_items_view_adapter__2_1a637d7057e8d6309b17ec765073b37598">monodroidAddReference</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_structured_items_view_adapter__2_1a902139eebf3f41bb3e466e00b91e2588">monodroidAddReference</reimplementedby>
+        <reimplementedby refid="classcrc6414252951f3f66c67_1_1_carousel_view_adapter__2_1ae8ff7adc59108d0c3872e79696308966">monodroidAddReference</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_groupable_items_view_adapter__2_1a8f557c81247f26e367581df312497a53">monodroidAddReference</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_selectable_items_view_adapter__2_1a637d7057e8d6309b17ec765073b37598">monodroidAddReference</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_structured_items_view_adapter__2_1a902139eebf3f41bb3e466e00b91e2588">monodroidAddReference</reimplementedby>
+        <reimplementedby refid="classcrc6414252951f3f66c67_1_1_carousel_view_adapter__2_1ae8ff7adc59108d0c3872e79696308966">monodroidAddReference</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_groupable_items_view_adapter__2_1a8f557c81247f26e367581df312497a53">monodroidAddReference</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_selectable_items_view_adapter__2_1a637d7057e8d6309b17ec765073b37598">monodroidAddReference</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_structured_items_view_adapter__2_1a902139eebf3f41bb3e466e00b91e2588">monodroidAddReference</reimplementedby>
+        <param>
+          <type>java.lang.Object</type>
+          <declname>obj</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/100/android/src/crc643f46942d9dd1fff9/ItemsViewAdapter_2.java" line="71" column="13" bodyfile="Application Green Quake.Android/obj/Release/100/android/src/crc643f46942d9dd1fff9/ItemsViewAdapter_2.java" bodystart="71" bodyend="76"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_items_view_adapter__2_1a9f150b3ad7c33b5812a550d3f4634976" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void crc643f46942d9dd1fff9.ItemsViewAdapter_2.monodroidClearReferences</definition>
+        <argsstring>()</argsstring>
+        <name>monodroidClearReferences</name>
+        <reimplementedby refid="classcrc6414252951f3f66c67_1_1_carousel_view_adapter__2_1a7260e4f52c6e5c7419733f0606d9d40c">monodroidClearReferences</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_groupable_items_view_adapter__2_1a18f6b054cbaaee474c3e1d26d94f3b83">monodroidClearReferences</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_selectable_items_view_adapter__2_1af45e6fef3aa09f1871b0b4f51c89ab35">monodroidClearReferences</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_structured_items_view_adapter__2_1ab334f385412c896f907a504989535c36">monodroidClearReferences</reimplementedby>
+        <reimplementedby refid="classcrc6414252951f3f66c67_1_1_carousel_view_adapter__2_1a7260e4f52c6e5c7419733f0606d9d40c">monodroidClearReferences</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_groupable_items_view_adapter__2_1a18f6b054cbaaee474c3e1d26d94f3b83">monodroidClearReferences</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_selectable_items_view_adapter__2_1af45e6fef3aa09f1871b0b4f51c89ab35">monodroidClearReferences</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_structured_items_view_adapter__2_1ab334f385412c896f907a504989535c36">monodroidClearReferences</reimplementedby>
+        <reimplementedby refid="classcrc6414252951f3f66c67_1_1_carousel_view_adapter__2_1a7260e4f52c6e5c7419733f0606d9d40c">monodroidClearReferences</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_groupable_items_view_adapter__2_1a18f6b054cbaaee474c3e1d26d94f3b83">monodroidClearReferences</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_selectable_items_view_adapter__2_1af45e6fef3aa09f1871b0b4f51c89ab35">monodroidClearReferences</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_structured_items_view_adapter__2_1ab334f385412c896f907a504989535c36">monodroidClearReferences</reimplementedby>
+        <reimplementedby refid="classcrc6414252951f3f66c67_1_1_carousel_view_adapter__2_1a7260e4f52c6e5c7419733f0606d9d40c">monodroidClearReferences</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_groupable_items_view_adapter__2_1a18f6b054cbaaee474c3e1d26d94f3b83">monodroidClearReferences</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_selectable_items_view_adapter__2_1af45e6fef3aa09f1871b0b4f51c89ab35">monodroidClearReferences</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_structured_items_view_adapter__2_1ab334f385412c896f907a504989535c36">monodroidClearReferences</reimplementedby>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/100/android/src/crc643f46942d9dd1fff9/ItemsViewAdapter_2.java" line="78" column="13" bodyfile="Application Green Quake.Android/obj/Release/100/android/src/crc643f46942d9dd1fff9/ItemsViewAdapter_2.java" bodystart="78" bodyend="82"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_items_view_adapter__2_1aa149a23593c825f5a4772ebaccaf4a28" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>crc643f46942d9dd1fff9.ItemsViewAdapter_2.ItemsViewAdapter_2</definition>
+        <argsstring>()</argsstring>
+        <name>ItemsViewAdapter_2</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/110/android/src/crc643f46942d9dd1fff9/ItemsViewAdapter_2.java" line="23" column="8" bodyfile="Application Green Quake.Android/obj/Release/110/android/src/crc643f46942d9dd1fff9/ItemsViewAdapter_2.java" bodystart="23" bodyend="28"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_items_view_adapter__2_1a2116ce04bb54dc378ca790353d42e282" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void crc643f46942d9dd1fff9.ItemsViewAdapter_2.onViewRecycled</definition>
+        <argsstring>(androidx.recyclerview.widget.RecyclerView.ViewHolder p0)</argsstring>
+        <name>onViewRecycled</name>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_selectable_items_view_adapter__2_1ac97b7263daa23515ad275b7cf513eee5">onViewRecycled</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_selectable_items_view_adapter__2_1ac97b7263daa23515ad275b7cf513eee5">onViewRecycled</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_selectable_items_view_adapter__2_1ac97b7263daa23515ad275b7cf513eee5">onViewRecycled</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_selectable_items_view_adapter__2_1ac97b7263daa23515ad275b7cf513eee5">onViewRecycled</reimplementedby>
+        <param>
+          <type>androidx.recyclerview.widget.RecyclerView.ViewHolder</type>
+          <declname>p0</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/110/android/src/crc643f46942d9dd1fff9/ItemsViewAdapter_2.java" line="31" column="13" bodyfile="Application Green Quake.Android/obj/Release/110/android/src/crc643f46942d9dd1fff9/ItemsViewAdapter_2.java" bodystart="31" bodyend="34"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_items_view_adapter__2_1aa56ea9e3ce48fc0e67cb5c6c66bcece6" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void crc643f46942d9dd1fff9.ItemsViewAdapter_2.onBindViewHolder</definition>
+        <argsstring>(androidx.recyclerview.widget.RecyclerView.ViewHolder p0, int p1)</argsstring>
+        <name>onBindViewHolder</name>
+        <reimplementedby refid="classcrc6414252951f3f66c67_1_1_carousel_view_adapter__2_1a12f9124e73b311a8baf641b3752d9e2d">onBindViewHolder</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_groupable_items_view_adapter__2_1a33d7222360663f0fe2c9cde7d483c327">onBindViewHolder</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_selectable_items_view_adapter__2_1a490dad8c71ea7b4c7c8146315a08ad9e">onBindViewHolder</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_structured_items_view_adapter__2_1a6b390e9ebb769fb561186d9780be6d64">onBindViewHolder</reimplementedby>
+        <reimplementedby refid="classcrc6414252951f3f66c67_1_1_carousel_view_adapter__2_1a12f9124e73b311a8baf641b3752d9e2d">onBindViewHolder</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_groupable_items_view_adapter__2_1a33d7222360663f0fe2c9cde7d483c327">onBindViewHolder</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_selectable_items_view_adapter__2_1a490dad8c71ea7b4c7c8146315a08ad9e">onBindViewHolder</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_structured_items_view_adapter__2_1a6b390e9ebb769fb561186d9780be6d64">onBindViewHolder</reimplementedby>
+        <reimplementedby refid="classcrc6414252951f3f66c67_1_1_carousel_view_adapter__2_1a12f9124e73b311a8baf641b3752d9e2d">onBindViewHolder</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_groupable_items_view_adapter__2_1a33d7222360663f0fe2c9cde7d483c327">onBindViewHolder</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_selectable_items_view_adapter__2_1a490dad8c71ea7b4c7c8146315a08ad9e">onBindViewHolder</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_structured_items_view_adapter__2_1a6b390e9ebb769fb561186d9780be6d64">onBindViewHolder</reimplementedby>
+        <reimplementedby refid="classcrc6414252951f3f66c67_1_1_carousel_view_adapter__2_1a12f9124e73b311a8baf641b3752d9e2d">onBindViewHolder</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_groupable_items_view_adapter__2_1a33d7222360663f0fe2c9cde7d483c327">onBindViewHolder</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_selectable_items_view_adapter__2_1a490dad8c71ea7b4c7c8146315a08ad9e">onBindViewHolder</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_structured_items_view_adapter__2_1a6b390e9ebb769fb561186d9780be6d64">onBindViewHolder</reimplementedby>
+        <param>
+          <type>androidx.recyclerview.widget.RecyclerView.ViewHolder</type>
+          <declname>p0</declname>
+        </param>
+        <param>
+          <type>int</type>
+          <declname>p1</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/110/android/src/crc643f46942d9dd1fff9/ItemsViewAdapter_2.java" line="39" column="13" bodyfile="Application Green Quake.Android/obj/Release/110/android/src/crc643f46942d9dd1fff9/ItemsViewAdapter_2.java" bodystart="39" bodyend="42"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_items_view_adapter__2_1a2df7eb28927000984a71c9a0760b8487" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>androidx.recyclerview.widget.RecyclerView.ViewHolder</type>
+        <definition>androidx.recyclerview.widget.RecyclerView.ViewHolder crc643f46942d9dd1fff9.ItemsViewAdapter_2.onCreateViewHolder</definition>
+        <argsstring>(android.view.ViewGroup p0, int p1)</argsstring>
+        <name>onCreateViewHolder</name>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_groupable_items_view_adapter__2_1a18596e50de2cb0d134454561dda55eba">onCreateViewHolder</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_structured_items_view_adapter__2_1a98557f6c8c8f1c86f21694fdf8b75d8c">onCreateViewHolder</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_groupable_items_view_adapter__2_1a18596e50de2cb0d134454561dda55eba">onCreateViewHolder</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_structured_items_view_adapter__2_1a98557f6c8c8f1c86f21694fdf8b75d8c">onCreateViewHolder</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_groupable_items_view_adapter__2_1a18596e50de2cb0d134454561dda55eba">onCreateViewHolder</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_structured_items_view_adapter__2_1a98557f6c8c8f1c86f21694fdf8b75d8c">onCreateViewHolder</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_groupable_items_view_adapter__2_1a18596e50de2cb0d134454561dda55eba">onCreateViewHolder</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_structured_items_view_adapter__2_1a98557f6c8c8f1c86f21694fdf8b75d8c">onCreateViewHolder</reimplementedby>
+        <param>
+          <type>android.view.ViewGroup</type>
+          <declname>p0</declname>
+        </param>
+        <param>
+          <type>int</type>
+          <declname>p1</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/110/android/src/crc643f46942d9dd1fff9/ItemsViewAdapter_2.java" line="47" column="57" bodyfile="Application Green Quake.Android/obj/Release/110/android/src/crc643f46942d9dd1fff9/ItemsViewAdapter_2.java" bodystart="47" bodyend="50"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_items_view_adapter__2_1a33fa4d33326a8d83e22682dc879491c2" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>int</type>
+        <definition>int crc643f46942d9dd1fff9.ItemsViewAdapter_2.getItemCount</definition>
+        <argsstring>()</argsstring>
+        <name>getItemCount</name>
+        <reimplementedby refid="classcrc6414252951f3f66c67_1_1_carousel_view_adapter__2_1a5b2f0653812c8a6714f5d985abecce09">getItemCount</reimplementedby>
+        <reimplementedby refid="classcrc6414252951f3f66c67_1_1_carousel_view_adapter__2_1a5b2f0653812c8a6714f5d985abecce09">getItemCount</reimplementedby>
+        <reimplementedby refid="classcrc6414252951f3f66c67_1_1_carousel_view_adapter__2_1a5b2f0653812c8a6714f5d985abecce09">getItemCount</reimplementedby>
+        <reimplementedby refid="classcrc6414252951f3f66c67_1_1_carousel_view_adapter__2_1a5b2f0653812c8a6714f5d985abecce09">getItemCount</reimplementedby>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/110/android/src/crc643f46942d9dd1fff9/ItemsViewAdapter_2.java" line="55" column="12" bodyfile="Application Green Quake.Android/obj/Release/110/android/src/crc643f46942d9dd1fff9/ItemsViewAdapter_2.java" bodystart="55" bodyend="58"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_items_view_adapter__2_1a98da5f297a2f3eef8f58735d752d11d1" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>int</type>
+        <definition>int crc643f46942d9dd1fff9.ItemsViewAdapter_2.getItemViewType</definition>
+        <argsstring>(int p0)</argsstring>
+        <name>getItemViewType</name>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_groupable_items_view_adapter__2_1a39eccf0a8cfc8deee1ec1e9b82133e81">getItemViewType</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_structured_items_view_adapter__2_1a9fab525d8f9fbaaa5b475f49993325ac">getItemViewType</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_groupable_items_view_adapter__2_1a39eccf0a8cfc8deee1ec1e9b82133e81">getItemViewType</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_structured_items_view_adapter__2_1a9fab525d8f9fbaaa5b475f49993325ac">getItemViewType</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_groupable_items_view_adapter__2_1a39eccf0a8cfc8deee1ec1e9b82133e81">getItemViewType</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_structured_items_view_adapter__2_1a9fab525d8f9fbaaa5b475f49993325ac">getItemViewType</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_groupable_items_view_adapter__2_1a39eccf0a8cfc8deee1ec1e9b82133e81">getItemViewType</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_structured_items_view_adapter__2_1a9fab525d8f9fbaaa5b475f49993325ac">getItemViewType</reimplementedby>
+        <param>
+          <type>int</type>
+          <declname>p0</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/110/android/src/crc643f46942d9dd1fff9/ItemsViewAdapter_2.java" line="63" column="12" bodyfile="Application Green Quake.Android/obj/Release/110/android/src/crc643f46942d9dd1fff9/ItemsViewAdapter_2.java" bodystart="63" bodyend="66"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_items_view_adapter__2_1af3fdbeecc7181ce65d4651f9f2b1639e" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void crc643f46942d9dd1fff9.ItemsViewAdapter_2.monodroidAddReference</definition>
+        <argsstring>(java.lang.Object obj)</argsstring>
+        <name>monodroidAddReference</name>
+        <reimplementedby refid="classcrc6414252951f3f66c67_1_1_carousel_view_adapter__2_1ae8ff7adc59108d0c3872e79696308966">monodroidAddReference</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_groupable_items_view_adapter__2_1a8f557c81247f26e367581df312497a53">monodroidAddReference</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_selectable_items_view_adapter__2_1a637d7057e8d6309b17ec765073b37598">monodroidAddReference</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_structured_items_view_adapter__2_1a902139eebf3f41bb3e466e00b91e2588">monodroidAddReference</reimplementedby>
+        <reimplementedby refid="classcrc6414252951f3f66c67_1_1_carousel_view_adapter__2_1ae8ff7adc59108d0c3872e79696308966">monodroidAddReference</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_groupable_items_view_adapter__2_1a8f557c81247f26e367581df312497a53">monodroidAddReference</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_selectable_items_view_adapter__2_1a637d7057e8d6309b17ec765073b37598">monodroidAddReference</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_structured_items_view_adapter__2_1a902139eebf3f41bb3e466e00b91e2588">monodroidAddReference</reimplementedby>
+        <reimplementedby refid="classcrc6414252951f3f66c67_1_1_carousel_view_adapter__2_1ae8ff7adc59108d0c3872e79696308966">monodroidAddReference</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_groupable_items_view_adapter__2_1a8f557c81247f26e367581df312497a53">monodroidAddReference</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_selectable_items_view_adapter__2_1a637d7057e8d6309b17ec765073b37598">monodroidAddReference</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_structured_items_view_adapter__2_1a902139eebf3f41bb3e466e00b91e2588">monodroidAddReference</reimplementedby>
+        <reimplementedby refid="classcrc6414252951f3f66c67_1_1_carousel_view_adapter__2_1ae8ff7adc59108d0c3872e79696308966">monodroidAddReference</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_groupable_items_view_adapter__2_1a8f557c81247f26e367581df312497a53">monodroidAddReference</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_selectable_items_view_adapter__2_1a637d7057e8d6309b17ec765073b37598">monodroidAddReference</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_structured_items_view_adapter__2_1a902139eebf3f41bb3e466e00b91e2588">monodroidAddReference</reimplementedby>
+        <param>
+          <type>java.lang.Object</type>
+          <declname>obj</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/110/android/src/crc643f46942d9dd1fff9/ItemsViewAdapter_2.java" line="71" column="13" bodyfile="Application Green Quake.Android/obj/Release/110/android/src/crc643f46942d9dd1fff9/ItemsViewAdapter_2.java" bodystart="71" bodyend="76"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_items_view_adapter__2_1a9f150b3ad7c33b5812a550d3f4634976" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void crc643f46942d9dd1fff9.ItemsViewAdapter_2.monodroidClearReferences</definition>
+        <argsstring>()</argsstring>
+        <name>monodroidClearReferences</name>
+        <reimplementedby refid="classcrc6414252951f3f66c67_1_1_carousel_view_adapter__2_1a7260e4f52c6e5c7419733f0606d9d40c">monodroidClearReferences</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_groupable_items_view_adapter__2_1a18f6b054cbaaee474c3e1d26d94f3b83">monodroidClearReferences</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_selectable_items_view_adapter__2_1af45e6fef3aa09f1871b0b4f51c89ab35">monodroidClearReferences</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_structured_items_view_adapter__2_1ab334f385412c896f907a504989535c36">monodroidClearReferences</reimplementedby>
+        <reimplementedby refid="classcrc6414252951f3f66c67_1_1_carousel_view_adapter__2_1a7260e4f52c6e5c7419733f0606d9d40c">monodroidClearReferences</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_groupable_items_view_adapter__2_1a18f6b054cbaaee474c3e1d26d94f3b83">monodroidClearReferences</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_selectable_items_view_adapter__2_1af45e6fef3aa09f1871b0b4f51c89ab35">monodroidClearReferences</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_structured_items_view_adapter__2_1ab334f385412c896f907a504989535c36">monodroidClearReferences</reimplementedby>
+        <reimplementedby refid="classcrc6414252951f3f66c67_1_1_carousel_view_adapter__2_1a7260e4f52c6e5c7419733f0606d9d40c">monodroidClearReferences</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_groupable_items_view_adapter__2_1a18f6b054cbaaee474c3e1d26d94f3b83">monodroidClearReferences</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_selectable_items_view_adapter__2_1af45e6fef3aa09f1871b0b4f51c89ab35">monodroidClearReferences</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_structured_items_view_adapter__2_1ab334f385412c896f907a504989535c36">monodroidClearReferences</reimplementedby>
+        <reimplementedby refid="classcrc6414252951f3f66c67_1_1_carousel_view_adapter__2_1a7260e4f52c6e5c7419733f0606d9d40c">monodroidClearReferences</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_groupable_items_view_adapter__2_1a18f6b054cbaaee474c3e1d26d94f3b83">monodroidClearReferences</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_selectable_items_view_adapter__2_1af45e6fef3aa09f1871b0b4f51c89ab35">monodroidClearReferences</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_structured_items_view_adapter__2_1ab334f385412c896f907a504989535c36">monodroidClearReferences</reimplementedby>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/110/android/src/crc643f46942d9dd1fff9/ItemsViewAdapter_2.java" line="78" column="13" bodyfile="Application Green Quake.Android/obj/Release/110/android/src/crc643f46942d9dd1fff9/ItemsViewAdapter_2.java" bodystart="78" bodyend="82"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="private-func">
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_items_view_adapter__2_1a480e8cfb6c40babe3dd17bad31623668" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>native void</type>
+        <definition>native void crc643f46942d9dd1fff9.ItemsViewAdapter_2.n_onViewRecycled</definition>
+        <argsstring>(androidx.recyclerview.widget.RecyclerView.ViewHolder p0)</argsstring>
+        <name>n_onViewRecycled</name>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_selectable_items_view_adapter__2_1a46827535feb2ffa568bb7fc8d5af6d49">n_onViewRecycled</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_selectable_items_view_adapter__2_1a46827535feb2ffa568bb7fc8d5af6d49">n_onViewRecycled</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_selectable_items_view_adapter__2_1a46827535feb2ffa568bb7fc8d5af6d49">n_onViewRecycled</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_selectable_items_view_adapter__2_1a46827535feb2ffa568bb7fc8d5af6d49">n_onViewRecycled</reimplementedby>
+        <param>
+          <type>androidx.recyclerview.widget.RecyclerView.ViewHolder</type>
+          <declname>p0</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/100/android/src/crc643f46942d9dd1fff9/ItemsViewAdapter_2.java" line="36" column="21"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_items_view_adapter__2_1a485442ddbfc7778133808b84d010ba43" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>native void</type>
+        <definition>native void crc643f46942d9dd1fff9.ItemsViewAdapter_2.n_onBindViewHolder</definition>
+        <argsstring>(androidx.recyclerview.widget.RecyclerView.ViewHolder p0, int p1)</argsstring>
+        <name>n_onBindViewHolder</name>
+        <reimplementedby refid="classcrc6414252951f3f66c67_1_1_carousel_view_adapter__2_1ab22b21cfb6f83bc58ce344b5ef2576b7">n_onBindViewHolder</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_groupable_items_view_adapter__2_1ad1dcea89d043233aba0f58b00f12355c">n_onBindViewHolder</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_selectable_items_view_adapter__2_1a0cabb093298464c4689c28f79338d280">n_onBindViewHolder</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_structured_items_view_adapter__2_1a8405b4418e553e1286e91b84a5d2dada">n_onBindViewHolder</reimplementedby>
+        <reimplementedby refid="classcrc6414252951f3f66c67_1_1_carousel_view_adapter__2_1ab22b21cfb6f83bc58ce344b5ef2576b7">n_onBindViewHolder</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_groupable_items_view_adapter__2_1ad1dcea89d043233aba0f58b00f12355c">n_onBindViewHolder</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_selectable_items_view_adapter__2_1a0cabb093298464c4689c28f79338d280">n_onBindViewHolder</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_structured_items_view_adapter__2_1a8405b4418e553e1286e91b84a5d2dada">n_onBindViewHolder</reimplementedby>
+        <reimplementedby refid="classcrc6414252951f3f66c67_1_1_carousel_view_adapter__2_1ab22b21cfb6f83bc58ce344b5ef2576b7">n_onBindViewHolder</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_groupable_items_view_adapter__2_1ad1dcea89d043233aba0f58b00f12355c">n_onBindViewHolder</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_selectable_items_view_adapter__2_1a0cabb093298464c4689c28f79338d280">n_onBindViewHolder</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_structured_items_view_adapter__2_1a8405b4418e553e1286e91b84a5d2dada">n_onBindViewHolder</reimplementedby>
+        <reimplementedby refid="classcrc6414252951f3f66c67_1_1_carousel_view_adapter__2_1ab22b21cfb6f83bc58ce344b5ef2576b7">n_onBindViewHolder</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_groupable_items_view_adapter__2_1ad1dcea89d043233aba0f58b00f12355c">n_onBindViewHolder</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_selectable_items_view_adapter__2_1a0cabb093298464c4689c28f79338d280">n_onBindViewHolder</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_structured_items_view_adapter__2_1a8405b4418e553e1286e91b84a5d2dada">n_onBindViewHolder</reimplementedby>
+        <param>
+          <type>androidx.recyclerview.widget.RecyclerView.ViewHolder</type>
+          <declname>p0</declname>
+        </param>
+        <param>
+          <type>int</type>
+          <declname>p1</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/100/android/src/crc643f46942d9dd1fff9/ItemsViewAdapter_2.java" line="44" column="21"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_items_view_adapter__2_1a95bf0e8a2be52cc2135c0da6a9dbb22f" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>native androidx.recyclerview.widget.RecyclerView.ViewHolder</type>
+        <definition>native androidx.recyclerview.widget.RecyclerView.ViewHolder crc643f46942d9dd1fff9.ItemsViewAdapter_2.n_onCreateViewHolder</definition>
+        <argsstring>(android.view.ViewGroup p0, int p1)</argsstring>
+        <name>n_onCreateViewHolder</name>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_groupable_items_view_adapter__2_1a7129881efde91582f58611bc78239d95">n_onCreateViewHolder</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_structured_items_view_adapter__2_1ade4af50301e1e11a36dca689d4833baf">n_onCreateViewHolder</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_groupable_items_view_adapter__2_1a7129881efde91582f58611bc78239d95">n_onCreateViewHolder</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_structured_items_view_adapter__2_1ade4af50301e1e11a36dca689d4833baf">n_onCreateViewHolder</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_groupable_items_view_adapter__2_1a7129881efde91582f58611bc78239d95">n_onCreateViewHolder</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_structured_items_view_adapter__2_1ade4af50301e1e11a36dca689d4833baf">n_onCreateViewHolder</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_groupable_items_view_adapter__2_1a7129881efde91582f58611bc78239d95">n_onCreateViewHolder</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_structured_items_view_adapter__2_1ade4af50301e1e11a36dca689d4833baf">n_onCreateViewHolder</reimplementedby>
+        <param>
+          <type>android.view.ViewGroup</type>
+          <declname>p0</declname>
+        </param>
+        <param>
+          <type>int</type>
+          <declname>p1</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/100/android/src/crc643f46942d9dd1fff9/ItemsViewAdapter_2.java" line="52" column="65"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_items_view_adapter__2_1a9cd4847215ee1901b0620d1b9dae6df3" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>native int</type>
+        <definition>native int crc643f46942d9dd1fff9.ItemsViewAdapter_2.n_getItemCount</definition>
+        <argsstring>()</argsstring>
+        <name>n_getItemCount</name>
+        <reimplementedby refid="classcrc6414252951f3f66c67_1_1_carousel_view_adapter__2_1afd265d30476a4b187e3c83d8d4b5b9d2">n_getItemCount</reimplementedby>
+        <reimplementedby refid="classcrc6414252951f3f66c67_1_1_carousel_view_adapter__2_1afd265d30476a4b187e3c83d8d4b5b9d2">n_getItemCount</reimplementedby>
+        <reimplementedby refid="classcrc6414252951f3f66c67_1_1_carousel_view_adapter__2_1afd265d30476a4b187e3c83d8d4b5b9d2">n_getItemCount</reimplementedby>
+        <reimplementedby refid="classcrc6414252951f3f66c67_1_1_carousel_view_adapter__2_1afd265d30476a4b187e3c83d8d4b5b9d2">n_getItemCount</reimplementedby>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/100/android/src/crc643f46942d9dd1fff9/ItemsViewAdapter_2.java" line="60" column="20"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_items_view_adapter__2_1afb1c45a7d2d626b31743df90a6930b35" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>native int</type>
+        <definition>native int crc643f46942d9dd1fff9.ItemsViewAdapter_2.n_getItemViewType</definition>
+        <argsstring>(int p0)</argsstring>
+        <name>n_getItemViewType</name>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_groupable_items_view_adapter__2_1afe1f10a1c05eb9a0d84c73f06903cc74">n_getItemViewType</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_structured_items_view_adapter__2_1a4f38e0377ab95a5351b2831aa97a634b">n_getItemViewType</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_groupable_items_view_adapter__2_1afe1f10a1c05eb9a0d84c73f06903cc74">n_getItemViewType</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_structured_items_view_adapter__2_1a4f38e0377ab95a5351b2831aa97a634b">n_getItemViewType</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_groupable_items_view_adapter__2_1afe1f10a1c05eb9a0d84c73f06903cc74">n_getItemViewType</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_structured_items_view_adapter__2_1a4f38e0377ab95a5351b2831aa97a634b">n_getItemViewType</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_groupable_items_view_adapter__2_1afe1f10a1c05eb9a0d84c73f06903cc74">n_getItemViewType</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_structured_items_view_adapter__2_1a4f38e0377ab95a5351b2831aa97a634b">n_getItemViewType</reimplementedby>
+        <param>
+          <type>int</type>
+          <declname>p0</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/100/android/src/crc643f46942d9dd1fff9/ItemsViewAdapter_2.java" line="68" column="20"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_items_view_adapter__2_1a480e8cfb6c40babe3dd17bad31623668" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>native void</type>
+        <definition>native void crc643f46942d9dd1fff9.ItemsViewAdapter_2.n_onViewRecycled</definition>
+        <argsstring>(androidx.recyclerview.widget.RecyclerView.ViewHolder p0)</argsstring>
+        <name>n_onViewRecycled</name>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_selectable_items_view_adapter__2_1a46827535feb2ffa568bb7fc8d5af6d49">n_onViewRecycled</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_selectable_items_view_adapter__2_1a46827535feb2ffa568bb7fc8d5af6d49">n_onViewRecycled</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_selectable_items_view_adapter__2_1a46827535feb2ffa568bb7fc8d5af6d49">n_onViewRecycled</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_selectable_items_view_adapter__2_1a46827535feb2ffa568bb7fc8d5af6d49">n_onViewRecycled</reimplementedby>
+        <param>
+          <type>androidx.recyclerview.widget.RecyclerView.ViewHolder</type>
+          <declname>p0</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/110/android/src/crc643f46942d9dd1fff9/ItemsViewAdapter_2.java" line="36" column="21"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_items_view_adapter__2_1a485442ddbfc7778133808b84d010ba43" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>native void</type>
+        <definition>native void crc643f46942d9dd1fff9.ItemsViewAdapter_2.n_onBindViewHolder</definition>
+        <argsstring>(androidx.recyclerview.widget.RecyclerView.ViewHolder p0, int p1)</argsstring>
+        <name>n_onBindViewHolder</name>
+        <reimplementedby refid="classcrc6414252951f3f66c67_1_1_carousel_view_adapter__2_1ab22b21cfb6f83bc58ce344b5ef2576b7">n_onBindViewHolder</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_groupable_items_view_adapter__2_1ad1dcea89d043233aba0f58b00f12355c">n_onBindViewHolder</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_selectable_items_view_adapter__2_1a0cabb093298464c4689c28f79338d280">n_onBindViewHolder</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_structured_items_view_adapter__2_1a8405b4418e553e1286e91b84a5d2dada">n_onBindViewHolder</reimplementedby>
+        <reimplementedby refid="classcrc6414252951f3f66c67_1_1_carousel_view_adapter__2_1ab22b21cfb6f83bc58ce344b5ef2576b7">n_onBindViewHolder</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_groupable_items_view_adapter__2_1ad1dcea89d043233aba0f58b00f12355c">n_onBindViewHolder</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_selectable_items_view_adapter__2_1a0cabb093298464c4689c28f79338d280">n_onBindViewHolder</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_structured_items_view_adapter__2_1a8405b4418e553e1286e91b84a5d2dada">n_onBindViewHolder</reimplementedby>
+        <reimplementedby refid="classcrc6414252951f3f66c67_1_1_carousel_view_adapter__2_1ab22b21cfb6f83bc58ce344b5ef2576b7">n_onBindViewHolder</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_groupable_items_view_adapter__2_1ad1dcea89d043233aba0f58b00f12355c">n_onBindViewHolder</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_selectable_items_view_adapter__2_1a0cabb093298464c4689c28f79338d280">n_onBindViewHolder</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_structured_items_view_adapter__2_1a8405b4418e553e1286e91b84a5d2dada">n_onBindViewHolder</reimplementedby>
+        <reimplementedby refid="classcrc6414252951f3f66c67_1_1_carousel_view_adapter__2_1ab22b21cfb6f83bc58ce344b5ef2576b7">n_onBindViewHolder</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_groupable_items_view_adapter__2_1ad1dcea89d043233aba0f58b00f12355c">n_onBindViewHolder</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_selectable_items_view_adapter__2_1a0cabb093298464c4689c28f79338d280">n_onBindViewHolder</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_structured_items_view_adapter__2_1a8405b4418e553e1286e91b84a5d2dada">n_onBindViewHolder</reimplementedby>
+        <param>
+          <type>androidx.recyclerview.widget.RecyclerView.ViewHolder</type>
+          <declname>p0</declname>
+        </param>
+        <param>
+          <type>int</type>
+          <declname>p1</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/110/android/src/crc643f46942d9dd1fff9/ItemsViewAdapter_2.java" line="44" column="21"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_items_view_adapter__2_1a95bf0e8a2be52cc2135c0da6a9dbb22f" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>native androidx.recyclerview.widget.RecyclerView.ViewHolder</type>
+        <definition>native androidx.recyclerview.widget.RecyclerView.ViewHolder crc643f46942d9dd1fff9.ItemsViewAdapter_2.n_onCreateViewHolder</definition>
+        <argsstring>(android.view.ViewGroup p0, int p1)</argsstring>
+        <name>n_onCreateViewHolder</name>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_groupable_items_view_adapter__2_1a7129881efde91582f58611bc78239d95">n_onCreateViewHolder</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_structured_items_view_adapter__2_1ade4af50301e1e11a36dca689d4833baf">n_onCreateViewHolder</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_groupable_items_view_adapter__2_1a7129881efde91582f58611bc78239d95">n_onCreateViewHolder</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_structured_items_view_adapter__2_1ade4af50301e1e11a36dca689d4833baf">n_onCreateViewHolder</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_groupable_items_view_adapter__2_1a7129881efde91582f58611bc78239d95">n_onCreateViewHolder</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_structured_items_view_adapter__2_1ade4af50301e1e11a36dca689d4833baf">n_onCreateViewHolder</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_groupable_items_view_adapter__2_1a7129881efde91582f58611bc78239d95">n_onCreateViewHolder</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_structured_items_view_adapter__2_1ade4af50301e1e11a36dca689d4833baf">n_onCreateViewHolder</reimplementedby>
+        <param>
+          <type>android.view.ViewGroup</type>
+          <declname>p0</declname>
+        </param>
+        <param>
+          <type>int</type>
+          <declname>p1</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/110/android/src/crc643f46942d9dd1fff9/ItemsViewAdapter_2.java" line="52" column="65"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_items_view_adapter__2_1a9cd4847215ee1901b0620d1b9dae6df3" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>native int</type>
+        <definition>native int crc643f46942d9dd1fff9.ItemsViewAdapter_2.n_getItemCount</definition>
+        <argsstring>()</argsstring>
+        <name>n_getItemCount</name>
+        <reimplementedby refid="classcrc6414252951f3f66c67_1_1_carousel_view_adapter__2_1afd265d30476a4b187e3c83d8d4b5b9d2">n_getItemCount</reimplementedby>
+        <reimplementedby refid="classcrc6414252951f3f66c67_1_1_carousel_view_adapter__2_1afd265d30476a4b187e3c83d8d4b5b9d2">n_getItemCount</reimplementedby>
+        <reimplementedby refid="classcrc6414252951f3f66c67_1_1_carousel_view_adapter__2_1afd265d30476a4b187e3c83d8d4b5b9d2">n_getItemCount</reimplementedby>
+        <reimplementedby refid="classcrc6414252951f3f66c67_1_1_carousel_view_adapter__2_1afd265d30476a4b187e3c83d8d4b5b9d2">n_getItemCount</reimplementedby>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/110/android/src/crc643f46942d9dd1fff9/ItemsViewAdapter_2.java" line="60" column="20"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_items_view_adapter__2_1afb1c45a7d2d626b31743df90a6930b35" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>native int</type>
+        <definition>native int crc643f46942d9dd1fff9.ItemsViewAdapter_2.n_getItemViewType</definition>
+        <argsstring>(int p0)</argsstring>
+        <name>n_getItemViewType</name>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_groupable_items_view_adapter__2_1afe1f10a1c05eb9a0d84c73f06903cc74">n_getItemViewType</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_structured_items_view_adapter__2_1a4f38e0377ab95a5351b2831aa97a634b">n_getItemViewType</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_groupable_items_view_adapter__2_1afe1f10a1c05eb9a0d84c73f06903cc74">n_getItemViewType</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_structured_items_view_adapter__2_1a4f38e0377ab95a5351b2831aa97a634b">n_getItemViewType</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_groupable_items_view_adapter__2_1afe1f10a1c05eb9a0d84c73f06903cc74">n_getItemViewType</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_structured_items_view_adapter__2_1a4f38e0377ab95a5351b2831aa97a634b">n_getItemViewType</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_groupable_items_view_adapter__2_1afe1f10a1c05eb9a0d84c73f06903cc74">n_getItemViewType</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_structured_items_view_adapter__2_1a4f38e0377ab95a5351b2831aa97a634b">n_getItemViewType</reimplementedby>
+        <param>
+          <type>int</type>
+          <declname>p0</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/110/android/src/crc643f46942d9dd1fff9/ItemsViewAdapter_2.java" line="68" column="20"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_items_view_adapter__2_1a480e8cfb6c40babe3dd17bad31623668" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>native void</type>
+        <definition>native void crc643f46942d9dd1fff9.ItemsViewAdapter_2.n_onViewRecycled</definition>
+        <argsstring>(androidx.recyclerview.widget.RecyclerView.ViewHolder p0)</argsstring>
+        <name>n_onViewRecycled</name>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_selectable_items_view_adapter__2_1a46827535feb2ffa568bb7fc8d5af6d49">n_onViewRecycled</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_selectable_items_view_adapter__2_1a46827535feb2ffa568bb7fc8d5af6d49">n_onViewRecycled</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_selectable_items_view_adapter__2_1a46827535feb2ffa568bb7fc8d5af6d49">n_onViewRecycled</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_selectable_items_view_adapter__2_1a46827535feb2ffa568bb7fc8d5af6d49">n_onViewRecycled</reimplementedby>
+        <param>
+          <type>androidx.recyclerview.widget.RecyclerView.ViewHolder</type>
+          <declname>p0</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/100/android/src/crc643f46942d9dd1fff9/ItemsViewAdapter_2.java" line="36" column="21"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_items_view_adapter__2_1a485442ddbfc7778133808b84d010ba43" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>native void</type>
+        <definition>native void crc643f46942d9dd1fff9.ItemsViewAdapter_2.n_onBindViewHolder</definition>
+        <argsstring>(androidx.recyclerview.widget.RecyclerView.ViewHolder p0, int p1)</argsstring>
+        <name>n_onBindViewHolder</name>
+        <reimplementedby refid="classcrc6414252951f3f66c67_1_1_carousel_view_adapter__2_1ab22b21cfb6f83bc58ce344b5ef2576b7">n_onBindViewHolder</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_groupable_items_view_adapter__2_1ad1dcea89d043233aba0f58b00f12355c">n_onBindViewHolder</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_selectable_items_view_adapter__2_1a0cabb093298464c4689c28f79338d280">n_onBindViewHolder</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_structured_items_view_adapter__2_1a8405b4418e553e1286e91b84a5d2dada">n_onBindViewHolder</reimplementedby>
+        <reimplementedby refid="classcrc6414252951f3f66c67_1_1_carousel_view_adapter__2_1ab22b21cfb6f83bc58ce344b5ef2576b7">n_onBindViewHolder</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_groupable_items_view_adapter__2_1ad1dcea89d043233aba0f58b00f12355c">n_onBindViewHolder</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_selectable_items_view_adapter__2_1a0cabb093298464c4689c28f79338d280">n_onBindViewHolder</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_structured_items_view_adapter__2_1a8405b4418e553e1286e91b84a5d2dada">n_onBindViewHolder</reimplementedby>
+        <reimplementedby refid="classcrc6414252951f3f66c67_1_1_carousel_view_adapter__2_1ab22b21cfb6f83bc58ce344b5ef2576b7">n_onBindViewHolder</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_groupable_items_view_adapter__2_1ad1dcea89d043233aba0f58b00f12355c">n_onBindViewHolder</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_selectable_items_view_adapter__2_1a0cabb093298464c4689c28f79338d280">n_onBindViewHolder</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_structured_items_view_adapter__2_1a8405b4418e553e1286e91b84a5d2dada">n_onBindViewHolder</reimplementedby>
+        <reimplementedby refid="classcrc6414252951f3f66c67_1_1_carousel_view_adapter__2_1ab22b21cfb6f83bc58ce344b5ef2576b7">n_onBindViewHolder</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_groupable_items_view_adapter__2_1ad1dcea89d043233aba0f58b00f12355c">n_onBindViewHolder</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_selectable_items_view_adapter__2_1a0cabb093298464c4689c28f79338d280">n_onBindViewHolder</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_structured_items_view_adapter__2_1a8405b4418e553e1286e91b84a5d2dada">n_onBindViewHolder</reimplementedby>
+        <param>
+          <type>androidx.recyclerview.widget.RecyclerView.ViewHolder</type>
+          <declname>p0</declname>
+        </param>
+        <param>
+          <type>int</type>
+          <declname>p1</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/100/android/src/crc643f46942d9dd1fff9/ItemsViewAdapter_2.java" line="44" column="21"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_items_view_adapter__2_1a95bf0e8a2be52cc2135c0da6a9dbb22f" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>native androidx.recyclerview.widget.RecyclerView.ViewHolder</type>
+        <definition>native androidx.recyclerview.widget.RecyclerView.ViewHolder crc643f46942d9dd1fff9.ItemsViewAdapter_2.n_onCreateViewHolder</definition>
+        <argsstring>(android.view.ViewGroup p0, int p1)</argsstring>
+        <name>n_onCreateViewHolder</name>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_groupable_items_view_adapter__2_1a7129881efde91582f58611bc78239d95">n_onCreateViewHolder</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_structured_items_view_adapter__2_1ade4af50301e1e11a36dca689d4833baf">n_onCreateViewHolder</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_groupable_items_view_adapter__2_1a7129881efde91582f58611bc78239d95">n_onCreateViewHolder</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_structured_items_view_adapter__2_1ade4af50301e1e11a36dca689d4833baf">n_onCreateViewHolder</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_groupable_items_view_adapter__2_1a7129881efde91582f58611bc78239d95">n_onCreateViewHolder</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_structured_items_view_adapter__2_1ade4af50301e1e11a36dca689d4833baf">n_onCreateViewHolder</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_groupable_items_view_adapter__2_1a7129881efde91582f58611bc78239d95">n_onCreateViewHolder</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_structured_items_view_adapter__2_1ade4af50301e1e11a36dca689d4833baf">n_onCreateViewHolder</reimplementedby>
+        <param>
+          <type>android.view.ViewGroup</type>
+          <declname>p0</declname>
+        </param>
+        <param>
+          <type>int</type>
+          <declname>p1</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/100/android/src/crc643f46942d9dd1fff9/ItemsViewAdapter_2.java" line="52" column="65"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_items_view_adapter__2_1a9cd4847215ee1901b0620d1b9dae6df3" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>native int</type>
+        <definition>native int crc643f46942d9dd1fff9.ItemsViewAdapter_2.n_getItemCount</definition>
+        <argsstring>()</argsstring>
+        <name>n_getItemCount</name>
+        <reimplementedby refid="classcrc6414252951f3f66c67_1_1_carousel_view_adapter__2_1afd265d30476a4b187e3c83d8d4b5b9d2">n_getItemCount</reimplementedby>
+        <reimplementedby refid="classcrc6414252951f3f66c67_1_1_carousel_view_adapter__2_1afd265d30476a4b187e3c83d8d4b5b9d2">n_getItemCount</reimplementedby>
+        <reimplementedby refid="classcrc6414252951f3f66c67_1_1_carousel_view_adapter__2_1afd265d30476a4b187e3c83d8d4b5b9d2">n_getItemCount</reimplementedby>
+        <reimplementedby refid="classcrc6414252951f3f66c67_1_1_carousel_view_adapter__2_1afd265d30476a4b187e3c83d8d4b5b9d2">n_getItemCount</reimplementedby>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/100/android/src/crc643f46942d9dd1fff9/ItemsViewAdapter_2.java" line="60" column="20"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_items_view_adapter__2_1afb1c45a7d2d626b31743df90a6930b35" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>native int</type>
+        <definition>native int crc643f46942d9dd1fff9.ItemsViewAdapter_2.n_getItemViewType</definition>
+        <argsstring>(int p0)</argsstring>
+        <name>n_getItemViewType</name>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_groupable_items_view_adapter__2_1afe1f10a1c05eb9a0d84c73f06903cc74">n_getItemViewType</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_structured_items_view_adapter__2_1a4f38e0377ab95a5351b2831aa97a634b">n_getItemViewType</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_groupable_items_view_adapter__2_1afe1f10a1c05eb9a0d84c73f06903cc74">n_getItemViewType</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_structured_items_view_adapter__2_1a4f38e0377ab95a5351b2831aa97a634b">n_getItemViewType</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_groupable_items_view_adapter__2_1afe1f10a1c05eb9a0d84c73f06903cc74">n_getItemViewType</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_structured_items_view_adapter__2_1a4f38e0377ab95a5351b2831aa97a634b">n_getItemViewType</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_groupable_items_view_adapter__2_1afe1f10a1c05eb9a0d84c73f06903cc74">n_getItemViewType</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_structured_items_view_adapter__2_1a4f38e0377ab95a5351b2831aa97a634b">n_getItemViewType</reimplementedby>
+        <param>
+          <type>int</type>
+          <declname>p0</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/100/android/src/crc643f46942d9dd1fff9/ItemsViewAdapter_2.java" line="68" column="20"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_items_view_adapter__2_1a480e8cfb6c40babe3dd17bad31623668" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>native void</type>
+        <definition>native void crc643f46942d9dd1fff9.ItemsViewAdapter_2.n_onViewRecycled</definition>
+        <argsstring>(androidx.recyclerview.widget.RecyclerView.ViewHolder p0)</argsstring>
+        <name>n_onViewRecycled</name>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_selectable_items_view_adapter__2_1a46827535feb2ffa568bb7fc8d5af6d49">n_onViewRecycled</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_selectable_items_view_adapter__2_1a46827535feb2ffa568bb7fc8d5af6d49">n_onViewRecycled</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_selectable_items_view_adapter__2_1a46827535feb2ffa568bb7fc8d5af6d49">n_onViewRecycled</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_selectable_items_view_adapter__2_1a46827535feb2ffa568bb7fc8d5af6d49">n_onViewRecycled</reimplementedby>
+        <param>
+          <type>androidx.recyclerview.widget.RecyclerView.ViewHolder</type>
+          <declname>p0</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/110/android/src/crc643f46942d9dd1fff9/ItemsViewAdapter_2.java" line="36" column="21"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_items_view_adapter__2_1a485442ddbfc7778133808b84d010ba43" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>native void</type>
+        <definition>native void crc643f46942d9dd1fff9.ItemsViewAdapter_2.n_onBindViewHolder</definition>
+        <argsstring>(androidx.recyclerview.widget.RecyclerView.ViewHolder p0, int p1)</argsstring>
+        <name>n_onBindViewHolder</name>
+        <reimplementedby refid="classcrc6414252951f3f66c67_1_1_carousel_view_adapter__2_1ab22b21cfb6f83bc58ce344b5ef2576b7">n_onBindViewHolder</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_groupable_items_view_adapter__2_1ad1dcea89d043233aba0f58b00f12355c">n_onBindViewHolder</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_selectable_items_view_adapter__2_1a0cabb093298464c4689c28f79338d280">n_onBindViewHolder</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_structured_items_view_adapter__2_1a8405b4418e553e1286e91b84a5d2dada">n_onBindViewHolder</reimplementedby>
+        <reimplementedby refid="classcrc6414252951f3f66c67_1_1_carousel_view_adapter__2_1ab22b21cfb6f83bc58ce344b5ef2576b7">n_onBindViewHolder</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_groupable_items_view_adapter__2_1ad1dcea89d043233aba0f58b00f12355c">n_onBindViewHolder</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_selectable_items_view_adapter__2_1a0cabb093298464c4689c28f79338d280">n_onBindViewHolder</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_structured_items_view_adapter__2_1a8405b4418e553e1286e91b84a5d2dada">n_onBindViewHolder</reimplementedby>
+        <reimplementedby refid="classcrc6414252951f3f66c67_1_1_carousel_view_adapter__2_1ab22b21cfb6f83bc58ce344b5ef2576b7">n_onBindViewHolder</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_groupable_items_view_adapter__2_1ad1dcea89d043233aba0f58b00f12355c">n_onBindViewHolder</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_selectable_items_view_adapter__2_1a0cabb093298464c4689c28f79338d280">n_onBindViewHolder</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_structured_items_view_adapter__2_1a8405b4418e553e1286e91b84a5d2dada">n_onBindViewHolder</reimplementedby>
+        <reimplementedby refid="classcrc6414252951f3f66c67_1_1_carousel_view_adapter__2_1ab22b21cfb6f83bc58ce344b5ef2576b7">n_onBindViewHolder</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_groupable_items_view_adapter__2_1ad1dcea89d043233aba0f58b00f12355c">n_onBindViewHolder</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_selectable_items_view_adapter__2_1a0cabb093298464c4689c28f79338d280">n_onBindViewHolder</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_structured_items_view_adapter__2_1a8405b4418e553e1286e91b84a5d2dada">n_onBindViewHolder</reimplementedby>
+        <param>
+          <type>androidx.recyclerview.widget.RecyclerView.ViewHolder</type>
+          <declname>p0</declname>
+        </param>
+        <param>
+          <type>int</type>
+          <declname>p1</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/110/android/src/crc643f46942d9dd1fff9/ItemsViewAdapter_2.java" line="44" column="21"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_items_view_adapter__2_1a95bf0e8a2be52cc2135c0da6a9dbb22f" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>native androidx.recyclerview.widget.RecyclerView.ViewHolder</type>
+        <definition>native androidx.recyclerview.widget.RecyclerView.ViewHolder crc643f46942d9dd1fff9.ItemsViewAdapter_2.n_onCreateViewHolder</definition>
+        <argsstring>(android.view.ViewGroup p0, int p1)</argsstring>
+        <name>n_onCreateViewHolder</name>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_groupable_items_view_adapter__2_1a7129881efde91582f58611bc78239d95">n_onCreateViewHolder</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_structured_items_view_adapter__2_1ade4af50301e1e11a36dca689d4833baf">n_onCreateViewHolder</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_groupable_items_view_adapter__2_1a7129881efde91582f58611bc78239d95">n_onCreateViewHolder</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_structured_items_view_adapter__2_1ade4af50301e1e11a36dca689d4833baf">n_onCreateViewHolder</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_groupable_items_view_adapter__2_1a7129881efde91582f58611bc78239d95">n_onCreateViewHolder</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_structured_items_view_adapter__2_1ade4af50301e1e11a36dca689d4833baf">n_onCreateViewHolder</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_groupable_items_view_adapter__2_1a7129881efde91582f58611bc78239d95">n_onCreateViewHolder</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_structured_items_view_adapter__2_1ade4af50301e1e11a36dca689d4833baf">n_onCreateViewHolder</reimplementedby>
+        <param>
+          <type>android.view.ViewGroup</type>
+          <declname>p0</declname>
+        </param>
+        <param>
+          <type>int</type>
+          <declname>p1</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/110/android/src/crc643f46942d9dd1fff9/ItemsViewAdapter_2.java" line="52" column="65"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_items_view_adapter__2_1a9cd4847215ee1901b0620d1b9dae6df3" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>native int</type>
+        <definition>native int crc643f46942d9dd1fff9.ItemsViewAdapter_2.n_getItemCount</definition>
+        <argsstring>()</argsstring>
+        <name>n_getItemCount</name>
+        <reimplementedby refid="classcrc6414252951f3f66c67_1_1_carousel_view_adapter__2_1afd265d30476a4b187e3c83d8d4b5b9d2">n_getItemCount</reimplementedby>
+        <reimplementedby refid="classcrc6414252951f3f66c67_1_1_carousel_view_adapter__2_1afd265d30476a4b187e3c83d8d4b5b9d2">n_getItemCount</reimplementedby>
+        <reimplementedby refid="classcrc6414252951f3f66c67_1_1_carousel_view_adapter__2_1afd265d30476a4b187e3c83d8d4b5b9d2">n_getItemCount</reimplementedby>
+        <reimplementedby refid="classcrc6414252951f3f66c67_1_1_carousel_view_adapter__2_1afd265d30476a4b187e3c83d8d4b5b9d2">n_getItemCount</reimplementedby>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/110/android/src/crc643f46942d9dd1fff9/ItemsViewAdapter_2.java" line="60" column="20"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_items_view_adapter__2_1afb1c45a7d2d626b31743df90a6930b35" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>native int</type>
+        <definition>native int crc643f46942d9dd1fff9.ItemsViewAdapter_2.n_getItemViewType</definition>
+        <argsstring>(int p0)</argsstring>
+        <name>n_getItemViewType</name>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_groupable_items_view_adapter__2_1afe1f10a1c05eb9a0d84c73f06903cc74">n_getItemViewType</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_structured_items_view_adapter__2_1a4f38e0377ab95a5351b2831aa97a634b">n_getItemViewType</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_groupable_items_view_adapter__2_1afe1f10a1c05eb9a0d84c73f06903cc74">n_getItemViewType</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_structured_items_view_adapter__2_1a4f38e0377ab95a5351b2831aa97a634b">n_getItemViewType</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_groupable_items_view_adapter__2_1afe1f10a1c05eb9a0d84c73f06903cc74">n_getItemViewType</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_structured_items_view_adapter__2_1a4f38e0377ab95a5351b2831aa97a634b">n_getItemViewType</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_groupable_items_view_adapter__2_1afe1f10a1c05eb9a0d84c73f06903cc74">n_getItemViewType</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_structured_items_view_adapter__2_1a4f38e0377ab95a5351b2831aa97a634b">n_getItemViewType</reimplementedby>
+        <param>
+          <type>int</type>
+          <declname>p0</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/110/android/src/crc643f46942d9dd1fff9/ItemsViewAdapter_2.java" line="68" column="20"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <inheritancegraph>
+      <node id="4">
+        <label>crc6414252951f3f66c67.CarouselViewAdapter_2</label>
+        <link refid="classcrc6414252951f3f66c67_1_1_carousel_view_adapter__2"/>
+        <childnode refid="1" relation="public-inheritance">
+        </childnode>
+        <childnode refid="1" relation="public-inheritance">
+        </childnode>
+        <childnode refid="1" relation="public-inheritance">
+        </childnode>
+        <childnode refid="1" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="6">
+        <label>crc643f46942d9dd1fff9.SelectableItemsViewAdapter_2</label>
+        <link refid="classcrc643f46942d9dd1fff9_1_1_selectable_items_view_adapter__2"/>
+        <childnode refid="5" relation="public-inheritance">
+        </childnode>
+        <childnode refid="5" relation="public-inheritance">
+        </childnode>
+        <childnode refid="5" relation="public-inheritance">
+        </childnode>
+        <childnode refid="5" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="5">
+        <label>crc643f46942d9dd1fff9.StructuredItemsViewAdapter_2</label>
+        <link refid="classcrc643f46942d9dd1fff9_1_1_structured_items_view_adapter__2"/>
+        <childnode refid="1" relation="public-inheritance">
+        </childnode>
+        <childnode refid="1" relation="public-inheritance">
+        </childnode>
+        <childnode refid="1" relation="public-inheritance">
+        </childnode>
+        <childnode refid="1" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="2">
+        <label>androidx.recyclerview.widget.RecyclerView.Adapter</label>
+      </node>
+      <node id="3">
+        <label>mono.android.IGCUserPeer</label>
+      </node>
+      <node id="1">
+        <label>crc643f46942d9dd1fff9.ItemsViewAdapter_2</label>
+        <link refid="classcrc643f46942d9dd1fff9_1_1_items_view_adapter__2"/>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+        <childnode refid="3" relation="public-inheritance">
+        </childnode>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+        <childnode refid="3" relation="public-inheritance">
+        </childnode>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+        <childnode refid="3" relation="public-inheritance">
+        </childnode>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+        <childnode refid="3" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="7">
+        <label>crc643f46942d9dd1fff9.GroupableItemsViewAdapter_2</label>
+        <link refid="classcrc643f46942d9dd1fff9_1_1_groupable_items_view_adapter__2"/>
+        <childnode refid="6" relation="public-inheritance">
+        </childnode>
+        <childnode refid="6" relation="public-inheritance">
+        </childnode>
+        <childnode refid="6" relation="public-inheritance">
+        </childnode>
+        <childnode refid="6" relation="public-inheritance">
+        </childnode>
+      </node>
+    </inheritancegraph>
+    <collaborationgraph>
+      <node id="2">
+        <label>androidx.recyclerview.widget.RecyclerView.Adapter</label>
+      </node>
+      <node id="3">
+        <label>mono.android.IGCUserPeer</label>
+      </node>
+      <node id="1">
+        <label>crc643f46942d9dd1fff9.ItemsViewAdapter_2</label>
+        <link refid="classcrc643f46942d9dd1fff9_1_1_items_view_adapter__2"/>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+        <childnode refid="3" relation="public-inheritance">
+        </childnode>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+        <childnode refid="3" relation="public-inheritance">
+        </childnode>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+        <childnode refid="3" relation="public-inheritance">
+        </childnode>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+        <childnode refid="3" relation="public-inheritance">
+        </childnode>
+      </node>
+    </collaborationgraph>
+    <location file="Application Green Quake.Android/obj/Debug/100/android/src/crc643f46942d9dd1fff9/ItemsViewAdapter_2.java" line="4" column="7" bodyfile="Application Green Quake.Android/obj/Debug/100/android/src/crc643f46942d9dd1fff9/ItemsViewAdapter_2.java" bodystart="8" bodyend="83"/>
+    <listofallmembers>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_items_view_adapter__2_1a732d3ecaf1ead8b2ec96b9113eeb598a" prot="package" virt="non-virtual"><scope>crc643f46942d9dd1fff9::ItemsViewAdapter_2</scope><name>[static initializer]</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_items_view_adapter__2_1a732d3ecaf1ead8b2ec96b9113eeb598a" prot="package" virt="non-virtual"><scope>crc643f46942d9dd1fff9::ItemsViewAdapter_2</scope><name>[static initializer]</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_items_view_adapter__2_1a732d3ecaf1ead8b2ec96b9113eeb598a" prot="package" virt="non-virtual"><scope>crc643f46942d9dd1fff9::ItemsViewAdapter_2</scope><name>[static initializer]</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_items_view_adapter__2_1a732d3ecaf1ead8b2ec96b9113eeb598a" prot="package" virt="non-virtual"><scope>crc643f46942d9dd1fff9::ItemsViewAdapter_2</scope><name>[static initializer]</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_items_view_adapter__2_1aad0ccfbba0d44ac922a27d076c4506b9" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::ItemsViewAdapter_2</scope><name>__md_methods</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_items_view_adapter__2_1a33fa4d33326a8d83e22682dc879491c2" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::ItemsViewAdapter_2</scope><name>getItemCount</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_items_view_adapter__2_1a33fa4d33326a8d83e22682dc879491c2" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::ItemsViewAdapter_2</scope><name>getItemCount</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_items_view_adapter__2_1a33fa4d33326a8d83e22682dc879491c2" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::ItemsViewAdapter_2</scope><name>getItemCount</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_items_view_adapter__2_1a33fa4d33326a8d83e22682dc879491c2" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::ItemsViewAdapter_2</scope><name>getItemCount</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_items_view_adapter__2_1a98da5f297a2f3eef8f58735d752d11d1" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::ItemsViewAdapter_2</scope><name>getItemViewType</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_items_view_adapter__2_1a98da5f297a2f3eef8f58735d752d11d1" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::ItemsViewAdapter_2</scope><name>getItemViewType</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_items_view_adapter__2_1a98da5f297a2f3eef8f58735d752d11d1" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::ItemsViewAdapter_2</scope><name>getItemViewType</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_items_view_adapter__2_1a98da5f297a2f3eef8f58735d752d11d1" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::ItemsViewAdapter_2</scope><name>getItemViewType</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_items_view_adapter__2_1aa149a23593c825f5a4772ebaccaf4a28" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::ItemsViewAdapter_2</scope><name>ItemsViewAdapter_2</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_items_view_adapter__2_1aa149a23593c825f5a4772ebaccaf4a28" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::ItemsViewAdapter_2</scope><name>ItemsViewAdapter_2</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_items_view_adapter__2_1aa149a23593c825f5a4772ebaccaf4a28" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::ItemsViewAdapter_2</scope><name>ItemsViewAdapter_2</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_items_view_adapter__2_1aa149a23593c825f5a4772ebaccaf4a28" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::ItemsViewAdapter_2</scope><name>ItemsViewAdapter_2</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_items_view_adapter__2_1af3fdbeecc7181ce65d4651f9f2b1639e" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::ItemsViewAdapter_2</scope><name>monodroidAddReference</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_items_view_adapter__2_1af3fdbeecc7181ce65d4651f9f2b1639e" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::ItemsViewAdapter_2</scope><name>monodroidAddReference</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_items_view_adapter__2_1af3fdbeecc7181ce65d4651f9f2b1639e" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::ItemsViewAdapter_2</scope><name>monodroidAddReference</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_items_view_adapter__2_1af3fdbeecc7181ce65d4651f9f2b1639e" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::ItemsViewAdapter_2</scope><name>monodroidAddReference</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_items_view_adapter__2_1a9f150b3ad7c33b5812a550d3f4634976" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::ItemsViewAdapter_2</scope><name>monodroidClearReferences</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_items_view_adapter__2_1a9f150b3ad7c33b5812a550d3f4634976" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::ItemsViewAdapter_2</scope><name>monodroidClearReferences</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_items_view_adapter__2_1a9f150b3ad7c33b5812a550d3f4634976" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::ItemsViewAdapter_2</scope><name>monodroidClearReferences</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_items_view_adapter__2_1a9f150b3ad7c33b5812a550d3f4634976" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::ItemsViewAdapter_2</scope><name>monodroidClearReferences</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_items_view_adapter__2_1a9cd4847215ee1901b0620d1b9dae6df3" prot="private" virt="non-virtual"><scope>crc643f46942d9dd1fff9::ItemsViewAdapter_2</scope><name>n_getItemCount</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_items_view_adapter__2_1a9cd4847215ee1901b0620d1b9dae6df3" prot="private" virt="non-virtual"><scope>crc643f46942d9dd1fff9::ItemsViewAdapter_2</scope><name>n_getItemCount</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_items_view_adapter__2_1a9cd4847215ee1901b0620d1b9dae6df3" prot="private" virt="non-virtual"><scope>crc643f46942d9dd1fff9::ItemsViewAdapter_2</scope><name>n_getItemCount</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_items_view_adapter__2_1a9cd4847215ee1901b0620d1b9dae6df3" prot="private" virt="non-virtual"><scope>crc643f46942d9dd1fff9::ItemsViewAdapter_2</scope><name>n_getItemCount</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_items_view_adapter__2_1afb1c45a7d2d626b31743df90a6930b35" prot="private" virt="non-virtual"><scope>crc643f46942d9dd1fff9::ItemsViewAdapter_2</scope><name>n_getItemViewType</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_items_view_adapter__2_1afb1c45a7d2d626b31743df90a6930b35" prot="private" virt="non-virtual"><scope>crc643f46942d9dd1fff9::ItemsViewAdapter_2</scope><name>n_getItemViewType</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_items_view_adapter__2_1afb1c45a7d2d626b31743df90a6930b35" prot="private" virt="non-virtual"><scope>crc643f46942d9dd1fff9::ItemsViewAdapter_2</scope><name>n_getItemViewType</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_items_view_adapter__2_1afb1c45a7d2d626b31743df90a6930b35" prot="private" virt="non-virtual"><scope>crc643f46942d9dd1fff9::ItemsViewAdapter_2</scope><name>n_getItemViewType</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_items_view_adapter__2_1a485442ddbfc7778133808b84d010ba43" prot="private" virt="non-virtual"><scope>crc643f46942d9dd1fff9::ItemsViewAdapter_2</scope><name>n_onBindViewHolder</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_items_view_adapter__2_1a485442ddbfc7778133808b84d010ba43" prot="private" virt="non-virtual"><scope>crc643f46942d9dd1fff9::ItemsViewAdapter_2</scope><name>n_onBindViewHolder</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_items_view_adapter__2_1a485442ddbfc7778133808b84d010ba43" prot="private" virt="non-virtual"><scope>crc643f46942d9dd1fff9::ItemsViewAdapter_2</scope><name>n_onBindViewHolder</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_items_view_adapter__2_1a485442ddbfc7778133808b84d010ba43" prot="private" virt="non-virtual"><scope>crc643f46942d9dd1fff9::ItemsViewAdapter_2</scope><name>n_onBindViewHolder</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_items_view_adapter__2_1a95bf0e8a2be52cc2135c0da6a9dbb22f" prot="private" virt="non-virtual"><scope>crc643f46942d9dd1fff9::ItemsViewAdapter_2</scope><name>n_onCreateViewHolder</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_items_view_adapter__2_1a95bf0e8a2be52cc2135c0da6a9dbb22f" prot="private" virt="non-virtual"><scope>crc643f46942d9dd1fff9::ItemsViewAdapter_2</scope><name>n_onCreateViewHolder</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_items_view_adapter__2_1a95bf0e8a2be52cc2135c0da6a9dbb22f" prot="private" virt="non-virtual"><scope>crc643f46942d9dd1fff9::ItemsViewAdapter_2</scope><name>n_onCreateViewHolder</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_items_view_adapter__2_1a95bf0e8a2be52cc2135c0da6a9dbb22f" prot="private" virt="non-virtual"><scope>crc643f46942d9dd1fff9::ItemsViewAdapter_2</scope><name>n_onCreateViewHolder</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_items_view_adapter__2_1a480e8cfb6c40babe3dd17bad31623668" prot="private" virt="non-virtual"><scope>crc643f46942d9dd1fff9::ItemsViewAdapter_2</scope><name>n_onViewRecycled</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_items_view_adapter__2_1a480e8cfb6c40babe3dd17bad31623668" prot="private" virt="non-virtual"><scope>crc643f46942d9dd1fff9::ItemsViewAdapter_2</scope><name>n_onViewRecycled</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_items_view_adapter__2_1a480e8cfb6c40babe3dd17bad31623668" prot="private" virt="non-virtual"><scope>crc643f46942d9dd1fff9::ItemsViewAdapter_2</scope><name>n_onViewRecycled</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_items_view_adapter__2_1a480e8cfb6c40babe3dd17bad31623668" prot="private" virt="non-virtual"><scope>crc643f46942d9dd1fff9::ItemsViewAdapter_2</scope><name>n_onViewRecycled</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_items_view_adapter__2_1aa56ea9e3ce48fc0e67cb5c6c66bcece6" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::ItemsViewAdapter_2</scope><name>onBindViewHolder</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_items_view_adapter__2_1aa56ea9e3ce48fc0e67cb5c6c66bcece6" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::ItemsViewAdapter_2</scope><name>onBindViewHolder</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_items_view_adapter__2_1aa56ea9e3ce48fc0e67cb5c6c66bcece6" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::ItemsViewAdapter_2</scope><name>onBindViewHolder</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_items_view_adapter__2_1aa56ea9e3ce48fc0e67cb5c6c66bcece6" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::ItemsViewAdapter_2</scope><name>onBindViewHolder</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_items_view_adapter__2_1a2df7eb28927000984a71c9a0760b8487" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::ItemsViewAdapter_2</scope><name>onCreateViewHolder</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_items_view_adapter__2_1a2df7eb28927000984a71c9a0760b8487" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::ItemsViewAdapter_2</scope><name>onCreateViewHolder</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_items_view_adapter__2_1a2df7eb28927000984a71c9a0760b8487" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::ItemsViewAdapter_2</scope><name>onCreateViewHolder</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_items_view_adapter__2_1a2df7eb28927000984a71c9a0760b8487" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::ItemsViewAdapter_2</scope><name>onCreateViewHolder</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_items_view_adapter__2_1a2116ce04bb54dc378ca790353d42e282" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::ItemsViewAdapter_2</scope><name>onViewRecycled</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_items_view_adapter__2_1a2116ce04bb54dc378ca790353d42e282" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::ItemsViewAdapter_2</scope><name>onViewRecycled</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_items_view_adapter__2_1a2116ce04bb54dc378ca790353d42e282" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::ItemsViewAdapter_2</scope><name>onViewRecycled</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_items_view_adapter__2_1a2116ce04bb54dc378ca790353d42e282" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::ItemsViewAdapter_2</scope><name>onViewRecycled</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_items_view_adapter__2_1a865524f31a41c4161551d95d7cbf86c5" prot="private" virt="non-virtual"><scope>crc643f46942d9dd1fff9::ItemsViewAdapter_2</scope><name>refList</name></member>
+    </listofallmembers>
+  </compounddef>
+</doxygen>

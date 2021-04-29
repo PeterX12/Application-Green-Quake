@@ -1,0 +1,77 @@
+.TH "Application_Green_Quake.Droid.AuthDroid" 3 "Thu Apr 29 2021" "Version 1.0" "Green Quake" \" -*- nroff -*-
+.ad l
+.nh
+.SH NAME
+Application_Green_Quake.Droid.AuthDroid
+.SH SYNOPSIS
+.br
+.PP
+.PP
+Inherits \fBApplication_Green_Quake\&.IAuth\fP\&.
+.SS "Public Member Functions"
+
+.in +1c
+.ti -1c
+.RI "bool \fBIsSignIn\fP ()"
+.br
+.ti -1c
+.RI "async Task< string > \fBLoginWithEmailAndPassword\fP (string email, string password)"
+.br
+.ti -1c
+.RI "bool \fBSignOut\fP ()"
+.br
+.ti -1c
+.RI "async Task< string > \fBSignUpWithEmailAndPassword\fP (string email, string password)"
+.br
+.ti -1c
+.RI "string \fBGetUid\fP ()"
+.br
+.ti -1c
+.RI "async Task \fBResetPassword\fP (string email)"
+.br
+.in -1c
+.SH "Detailed Description"
+.PP 
+Definition at line 19 of file AuthDroid\&.cs\&.
+.SH "Member Function Documentation"
+.PP 
+.SS "string Application_Green_Quake\&.Droid\&.AuthDroid\&.GetUid ()"
+This function gets the currently signed in users UID\&. 
+.PP
+Implements \fBApplication_Green_Quake\&.IAuth\fP\&.
+.PP
+Definition at line 93 of file AuthDroid\&.cs\&.
+.SS "bool Application_Green_Quake\&.Droid\&.AuthDroid\&.IsSignIn ()"
+This function checks if a user is signed in\&. 
+.PP
+Implements \fBApplication_Green_Quake\&.IAuth\fP\&.
+.PP
+Definition at line 23 of file AuthDroid\&.cs\&.
+.SS "async Task<string> Application_Green_Quake\&.Droid\&.AuthDroid\&.LoginWithEmailAndPassword (string email, string password)"
+This function logs a user into the application 
+.PP
+Implements \fBApplication_Green_Quake\&.IAuth\fP\&.
+.PP
+Definition at line 31 of file AuthDroid\&.cs\&.
+.SS "async Task Application_Green_Quake\&.Droid\&.AuthDroid\&.ResetPassword (string email)"
+This function sends the password reset email\&. 
+.PP
+Implements \fBApplication_Green_Quake\&.IAuth\fP\&.
+.PP
+Definition at line 121 of file AuthDroid\&.cs\&.
+.SS "bool Application_Green_Quake\&.Droid\&.AuthDroid\&.SignOut ()"
+This function signs a user out of the application\&. 
+.PP
+Implements \fBApplication_Green_Quake\&.IAuth\fP\&.
+.PP
+Definition at line 52 of file AuthDroid\&.cs\&.
+.SS "async Task<string> Application_Green_Quake\&.Droid\&.AuthDroid\&.SignUpWithEmailAndPassword (string email, string password)"
+This function allows a user to sign up into the app\&. 
+.PP
+Implements \fBApplication_Green_Quake\&.IAuth\fP\&.
+.PP
+Definition at line 67 of file AuthDroid\&.cs\&.
+
+.SH "Author"
+.PP 
+Generated automatically by Doxygen for Green Quake from the source code\&.

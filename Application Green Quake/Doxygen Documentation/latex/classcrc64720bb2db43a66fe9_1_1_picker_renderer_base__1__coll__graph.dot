@@ -1,0 +1,51 @@
+digraph "crc64720bb2db43a66fe9.PickerRendererBase_1"
+{
+ // LATEX_PDF_SIZE
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  rankdir="LR";
+  Node1 [label="crc64720bb2db43a66fe9.Picker\lRendererBase_1",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black",tooltip=" "];
+  Node2 -> Node1 [dir="back",color="midnightblue",fontsize="10",style="solid"];
+  Node2 [label="crc64720bb2db43a66fe9.View\lRenderer_2",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classcrc64720bb2db43a66fe9_1_1_view_renderer__2.html",tooltip=" "];
+  Node3 -> Node2 [dir="back",color="midnightblue",fontsize="10",style="solid"];
+  Node3 [label="crc643f46942d9dd1fff9.View\lRenderer_2",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classcrc643f46942d9dd1fff9_1_1_view_renderer__2.html",tooltip=" "];
+  Node4 -> Node3 [dir="back",color="midnightblue",fontsize="10",style="solid"];
+  Node4 [label="crc643f46942d9dd1fff9.Visual\lElementRenderer_1",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classcrc643f46942d9dd1fff9_1_1_visual_element_renderer__1.html",tooltip=" "];
+  Node5 -> Node4 [dir="back",color="midnightblue",fontsize="10",style="solid"];
+  Node5 [label="com::xamarin::forms\l::platform::android\l::FormsViewGroup",height=0.2,width=0.4,color="grey75", fillcolor="white", style="filled",tooltip=" "];
+  Node6 -> Node4 [dir="back",color="midnightblue",fontsize="10",style="solid"];
+  Node6 [label="mono.android.IGCUserPeer",height=0.2,width=0.4,color="grey75", fillcolor="white", style="filled",tooltip=" "];
+  Node7 -> Node4 [dir="back",color="midnightblue",fontsize="10",style="solid"];
+  Node7 [label="com.xamarin.forms.platform.android.\lFormsViewGroup",height=0.2,width=0.4,color="grey75", fillcolor="white", style="filled",tooltip=" "];
+  Node6 -> Node4 [dir="back",color="midnightblue",fontsize="10",style="solid"];
+  Node7 -> Node4 [dir="back",color="midnightblue",fontsize="10",style="solid"];
+  Node6 -> Node4 [dir="back",color="midnightblue",fontsize="10",style="solid"];
+  Node7 -> Node4 [dir="back",color="midnightblue",fontsize="10",style="solid"];
+  Node6 -> Node4 [dir="back",color="midnightblue",fontsize="10",style="solid"];
+  Node6 -> Node3 [dir="back",color="midnightblue",fontsize="10",style="solid"];
+  Node8 -> Node3 [dir="back",color="midnightblue",fontsize="10",style="solid"];
+  Node8 [label="android.view.View.OnFocus\lChangeListener",height=0.2,width=0.4,color="grey75", fillcolor="white", style="filled",tooltip=" "];
+  Node4 -> Node3 [dir="back",color="midnightblue",fontsize="10",style="solid"];
+  Node6 -> Node3 [dir="back",color="midnightblue",fontsize="10",style="solid"];
+  Node8 -> Node3 [dir="back",color="midnightblue",fontsize="10",style="solid"];
+  Node4 -> Node3 [dir="back",color="midnightblue",fontsize="10",style="solid"];
+  Node6 -> Node3 [dir="back",color="midnightblue",fontsize="10",style="solid"];
+  Node8 -> Node3 [dir="back",color="midnightblue",fontsize="10",style="solid"];
+  Node4 -> Node3 [dir="back",color="midnightblue",fontsize="10",style="solid"];
+  Node6 -> Node3 [dir="back",color="midnightblue",fontsize="10",style="solid"];
+  Node8 -> Node3 [dir="back",color="midnightblue",fontsize="10",style="solid"];
+  Node6 -> Node2 [dir="back",color="midnightblue",fontsize="10",style="solid"];
+  Node3 -> Node2 [dir="back",color="midnightblue",fontsize="10",style="solid"];
+  Node6 -> Node2 [dir="back",color="midnightblue",fontsize="10",style="solid"];
+  Node3 -> Node2 [dir="back",color="midnightblue",fontsize="10",style="solid"];
+  Node6 -> Node2 [dir="back",color="midnightblue",fontsize="10",style="solid"];
+  Node3 -> Node2 [dir="back",color="midnightblue",fontsize="10",style="solid"];
+  Node6 -> Node2 [dir="back",color="midnightblue",fontsize="10",style="solid"];
+  Node6 -> Node1 [dir="back",color="midnightblue",fontsize="10",style="solid"];
+  Node2 -> Node1 [dir="back",color="midnightblue",fontsize="10",style="solid"];
+  Node6 -> Node1 [dir="back",color="midnightblue",fontsize="10",style="solid"];
+  Node2 -> Node1 [dir="back",color="midnightblue",fontsize="10",style="solid"];
+  Node6 -> Node1 [dir="back",color="midnightblue",fontsize="10",style="solid"];
+  Node2 -> Node1 [dir="back",color="midnightblue",fontsize="10",style="solid"];
+  Node6 -> Node1 [dir="back",color="midnightblue",fontsize="10",style="solid"];
+}

@@ -1,0 +1,361 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.9.1" xml:lang="en-US">
+  <compounddef id="class_application___green___quake_1_1_views_1_1_eco_actions_1_1_eco_actions_sub_menu_1_1_water_page" kind="class" language="C#" prot="public">
+    <compoundname>Application_Green_Quake::Views::EcoActions::EcoActionsSubMenu::WaterPage</compoundname>
+    <basecompoundref prot="public" virt="non-virtual">global.XamarinForms.ContentPage</basecompoundref>
+    <basecompoundref prot="public" virt="non-virtual">global.XamarinForms.ContentPage</basecompoundref>
+    <basecompoundref prot="public" virt="non-virtual">ContentPage</basecompoundref>
+      <sectiondef kind="private-attrib">
+      <memberdef kind="variable" id="class_application___green___quake_1_1_views_1_1_eco_actions_1_1_eco_actions_sub_menu_1_1_water_page_1add2d1b511888e6458b123a84de7d552a" prot="private" static="no" mutable="no">
+        <type>global::Xamarin.Forms.Label</type>
+        <definition>Xamarin Forms global::Label Application_Green_Quake.Views.EcoActions.EcoActionsSubMenu.WaterPage::theLevel</definition>
+        <argsstring></argsstring>
+        <name>theLevel</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake/obj/Debug/netstandard2.0/Views/EcoActions/EcoActionsSubMenu/WaterPage.xaml.g.cs" line="20" column="43" bodyfile="Application Green Quake/obj/Debug/netstandard2.0/Views/EcoActions/EcoActionsSubMenu/WaterPage.xaml.g.cs" bodystart="20" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="private-func">
+      <memberdef kind="function" id="class_application___green___quake_1_1_views_1_1_eco_actions_1_1_eco_actions_sub_menu_1_1_water_page_1a471bbecce6ae6dd8d3673f0c88773639" prot="private" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void Application_Green_Quake.Views.EcoActions.EcoActionsSubMenu.WaterPage.InitializeComponent</definition>
+        <argsstring>()</argsstring>
+        <name>InitializeComponent</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake/obj/Debug/netstandard2.0/Views/EcoActions/EcoActionsSubMenu/WaterPage.xaml.g.cs" line="23" column="22" bodyfile="Application Green Quake/obj/Debug/netstandard2.0/Views/EcoActions/EcoActionsSubMenu/WaterPage.xaml.g.cs" bodystart="23" bodyend="26"/>
+      </memberdef>
+      <memberdef kind="function" id="class_application___green___quake_1_1_views_1_1_eco_actions_1_1_eco_actions_sub_menu_1_1_water_page_1a471bbecce6ae6dd8d3673f0c88773639" prot="private" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void Application_Green_Quake.Views.EcoActions.EcoActionsSubMenu.WaterPage.InitializeComponent</definition>
+        <argsstring>()</argsstring>
+        <name>InitializeComponent</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake/obj/Release/netstandard2.0/Views/EcoActions/EcoActionsSubMenu/WaterPage.xaml.g.cs" line="23" column="22" bodyfile="Application Green Quake/obj/Release/netstandard2.0/Views/EcoActions/EcoActionsSubMenu/WaterPage.xaml.g.cs" bodystart="23" bodyend="26"/>
+      </memberdef>
+      <memberdef kind="function" id="class_application___green___quake_1_1_views_1_1_eco_actions_1_1_eco_actions_sub_menu_1_1_water_page_1a36933a830b807f105b4d7e866a59dcf0" prot="private" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>async void</type>
+        <definition>async void Application_Green_Quake.Views.EcoActions.EcoActionsSubMenu.WaterPage.NavigateToBrushingPage</definition>
+        <argsstring>(object sender, EventArgs e)</argsstring>
+        <name>NavigateToBrushingPage</name>
+        <param>
+          <type>object</type>
+          <declname>sender</declname>
+        </param>
+        <param>
+          <type>EventArgs</type>
+          <declname>e</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+<para>This function navigates to BrushingTeeth. </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake/Views/EcoActions/EcoActionsSubMenu/WaterPage.xaml.cs" line="29" column="28" bodyfile="Application Green Quake/Views/EcoActions/EcoActionsSubMenu/WaterPage.xaml.cs" bodystart="29" bodyend="32"/>
+      </memberdef>
+      <memberdef kind="function" id="class_application___green___quake_1_1_views_1_1_eco_actions_1_1_eco_actions_sub_menu_1_1_water_page_1a680b91099037120efe2e137fa4a58253" prot="private" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>async void</type>
+        <definition>async void Application_Green_Quake.Views.EcoActions.EcoActionsSubMenu.WaterPage.NavigateToTimedShowerPage</definition>
+        <argsstring>(object sender, EventArgs e)</argsstring>
+        <name>NavigateToTimedShowerPage</name>
+        <param>
+          <type>object</type>
+          <declname>sender</declname>
+        </param>
+        <param>
+          <type>EventArgs</type>
+          <declname>e</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+<para>This function navigates to TimedShower. </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake/Views/EcoActions/EcoActionsSubMenu/WaterPage.xaml.cs" line="35" column="28" bodyfile="Application Green Quake/Views/EcoActions/EcoActionsSubMenu/WaterPage.xaml.cs" bodystart="35" bodyend="38"/>
+      </memberdef>
+      <memberdef kind="function" id="class_application___green___quake_1_1_views_1_1_eco_actions_1_1_eco_actions_sub_menu_1_1_water_page_1a3cbe36befd87f95ccf5203aa6202bd4d" prot="private" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>async void</type>
+        <definition>async void Application_Green_Quake.Views.EcoActions.EcoActionsSubMenu.WaterPage.NavigateToShoweredInsteadOfBath</definition>
+        <argsstring>(object sender, EventArgs e)</argsstring>
+        <name>NavigateToShoweredInsteadOfBath</name>
+        <param>
+          <type>object</type>
+          <declname>sender</declname>
+        </param>
+        <param>
+          <type>EventArgs</type>
+          <declname>e</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+<para>This function navigates to ShowerInstead. </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake/Views/EcoActions/EcoActionsSubMenu/WaterPage.xaml.cs" line="41" column="28" bodyfile="Application Green Quake/Views/EcoActions/EcoActionsSubMenu/WaterPage.xaml.cs" bodystart="41" bodyend="44"/>
+      </memberdef>
+      <memberdef kind="function" id="class_application___green___quake_1_1_views_1_1_eco_actions_1_1_eco_actions_sub_menu_1_1_water_page_1a7c16981a650e815f02f359a549aa8b73" prot="private" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>async void</type>
+        <definition>async void Application_Green_Quake.Views.EcoActions.EcoActionsSubMenu.WaterPage.NavigateToDishwasherFull</definition>
+        <argsstring>(object sender, EventArgs e)</argsstring>
+        <name>NavigateToDishwasherFull</name>
+        <param>
+          <type>object</type>
+          <declname>sender</declname>
+        </param>
+        <param>
+          <type>EventArgs</type>
+          <declname>e</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+<para>This function navigates to DishwasherFull. </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake/Views/EcoActions/EcoActionsSubMenu/WaterPage.xaml.cs" line="47" column="28" bodyfile="Application Green Quake/Views/EcoActions/EcoActionsSubMenu/WaterPage.xaml.cs" bodystart="47" bodyend="51"/>
+      </memberdef>
+      <memberdef kind="function" id="class_application___green___quake_1_1_views_1_1_eco_actions_1_1_eco_actions_sub_menu_1_1_water_page_1a884ba945b0f767e6b53c50ad1f5475a5" prot="private" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>async void</type>
+        <definition>async void Application_Green_Quake.Views.EcoActions.EcoActionsSubMenu.WaterPage.NavigateToReusableWater</definition>
+        <argsstring>(object sender, EventArgs e)</argsstring>
+        <name>NavigateToReusableWater</name>
+        <param>
+          <type>object</type>
+          <declname>sender</declname>
+        </param>
+        <param>
+          <type>EventArgs</type>
+          <declname>e</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+<para>This function navigates to ReusableWater. </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake/Views/EcoActions/EcoActionsSubMenu/WaterPage.xaml.cs" line="54" column="28" bodyfile="Application Green Quake/Views/EcoActions/EcoActionsSubMenu/WaterPage.xaml.cs" bodystart="54" bodyend="57"/>
+      </memberdef>
+      <memberdef kind="function" id="class_application___green___quake_1_1_views_1_1_eco_actions_1_1_eco_actions_sub_menu_1_1_water_page_1ab6d6e55c94986a353a8197e2b0abd5d2" prot="private" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>async void</type>
+        <definition>async void Application_Green_Quake.Views.EcoActions.EcoActionsSubMenu.WaterPage.NavigateToWSShowerhead</definition>
+        <argsstring>(object sender, EventArgs e)</argsstring>
+        <name>NavigateToWSShowerhead</name>
+        <param>
+          <type>object</type>
+          <declname>sender</declname>
+        </param>
+        <param>
+          <type>EventArgs</type>
+          <declname>e</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+<para>This function navigates to WSShowerHead. </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake/Views/EcoActions/EcoActionsSubMenu/WaterPage.xaml.cs" line="60" column="28" bodyfile="Application Green Quake/Views/EcoActions/EcoActionsSubMenu/WaterPage.xaml.cs" bodystart="60" bodyend="63"/>
+      </memberdef>
+      <memberdef kind="function" id="class_application___green___quake_1_1_views_1_1_eco_actions_1_1_eco_actions_sub_menu_1_1_water_page_1a27915ff6e7c74e8f26253f322ec5a2a8" prot="private" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>async void</type>
+        <definition>async void Application_Green_Quake.Views.EcoActions.EcoActionsSubMenu.WaterPage.NavigateToCisternDisplacement</definition>
+        <argsstring>(object sender, EventArgs e)</argsstring>
+        <name>NavigateToCisternDisplacement</name>
+        <param>
+          <type>object</type>
+          <declname>sender</declname>
+        </param>
+        <param>
+          <type>EventArgs</type>
+          <declname>e</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+<para>This function navigates to CisternDisplacement. </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake/Views/EcoActions/EcoActionsSubMenu/WaterPage.xaml.cs" line="66" column="28" bodyfile="Application Green Quake/Views/EcoActions/EcoActionsSubMenu/WaterPage.xaml.cs" bodystart="66" bodyend="69"/>
+      </memberdef>
+      <memberdef kind="function" id="class_application___green___quake_1_1_views_1_1_eco_actions_1_1_eco_actions_sub_menu_1_1_water_page_1acb01edfbc732c4fefdbe1254506dd4c3" prot="private" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>async void</type>
+        <definition>async void Application_Green_Quake.Views.EcoActions.EcoActionsSubMenu.WaterPage.NavigateToShowerBucket</definition>
+        <argsstring>(object sender, EventArgs e)</argsstring>
+        <name>NavigateToShowerBucket</name>
+        <param>
+          <type>object</type>
+          <declname>sender</declname>
+        </param>
+        <param>
+          <type>EventArgs</type>
+          <declname>e</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+<para>This function navigates to ShowerBucket. </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake/Views/EcoActions/EcoActionsSubMenu/WaterPage.xaml.cs" line="72" column="28" bodyfile="Application Green Quake/Views/EcoActions/EcoActionsSubMenu/WaterPage.xaml.cs" bodystart="72" bodyend="75"/>
+      </memberdef>
+      <memberdef kind="function" id="class_application___green___quake_1_1_views_1_1_eco_actions_1_1_eco_actions_sub_menu_1_1_water_page_1a5a6f3478380e705d8138ab345575ab66" prot="private" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>async void</type>
+        <definition>async void Application_Green_Quake.Views.EcoActions.EcoActionsSubMenu.WaterPage.NavigateToRainBarrel</definition>
+        <argsstring>(object sender, EventArgs e)</argsstring>
+        <name>NavigateToRainBarrel</name>
+        <param>
+          <type>object</type>
+          <declname>sender</declname>
+        </param>
+        <param>
+          <type>EventArgs</type>
+          <declname>e</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+<para>This function navigates to RainBarrel. </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake/Views/EcoActions/EcoActionsSubMenu/WaterPage.xaml.cs" line="78" column="28" bodyfile="Application Green Quake/Views/EcoActions/EcoActionsSubMenu/WaterPage.xaml.cs" bodystart="78" bodyend="81"/>
+      </memberdef>
+      <memberdef kind="function" id="class_application___green___quake_1_1_views_1_1_eco_actions_1_1_eco_actions_sub_menu_1_1_water_page_1a00c0185b3e5c075e0e28c50026ddb4b4" prot="private" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>async void</type>
+        <definition>async void Application_Green_Quake.Views.EcoActions.EcoActionsSubMenu.WaterPage.NavigateToToiletFlushes</definition>
+        <argsstring>(object sender, EventArgs e)</argsstring>
+        <name>NavigateToToiletFlushes</name>
+        <param>
+          <type>object</type>
+          <declname>sender</declname>
+        </param>
+        <param>
+          <type>EventArgs</type>
+          <declname>e</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+<para>This function navigates to ToiletFlushes. </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake/Views/EcoActions/EcoActionsSubMenu/WaterPage.xaml.cs" line="84" column="28" bodyfile="Application Green Quake/Views/EcoActions/EcoActionsSubMenu/WaterPage.xaml.cs" bodystart="84" bodyend="87"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="public-func">
+      <memberdef kind="function" id="class_application___green___quake_1_1_views_1_1_eco_actions_1_1_eco_actions_sub_menu_1_1_water_page_1a0a677747fbce1c436f1d26128c10a097" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>Application_Green_Quake.Views.EcoActions.EcoActionsSubMenu.WaterPage.WaterPage</definition>
+        <argsstring>()</argsstring>
+        <name>WaterPage</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake/Views/EcoActions/EcoActionsSubMenu/WaterPage.xaml.cs" line="22" column="16" bodyfile="Application Green Quake/Views/EcoActions/EcoActionsSubMenu/WaterPage.xaml.cs" bodystart="22" bodyend="26"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="protected-func">
+      <memberdef kind="function" id="class_application___green___quake_1_1_views_1_1_eco_actions_1_1_eco_actions_sub_menu_1_1_water_page_1abb32140196b11d0ca403a7204bd33108" prot="protected" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>override void</type>
+        <definition>override void Application_Green_Quake.Views.EcoActions.EcoActionsSubMenu.WaterPage.OnAppearing</definition>
+        <argsstring>()</argsstring>
+        <name>OnAppearing</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+<para>This function is called before the page is displayed and it created an object ans uses it&apos;s SetLvl method to set the players level in the app and display it in the navigation bar. </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake/Views/EcoActions/EcoActionsSubMenu/WaterPage.xaml.cs" line="91" column="33" bodyfile="Application Green Quake/Views/EcoActions/EcoActionsSubMenu/WaterPage.xaml.cs" bodystart="91" bodyend="97"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <inheritancegraph>
+      <node id="3">
+        <label>ContentPage</label>
+      </node>
+      <node id="1">
+        <label>Application_Green_Quake.Views.EcoActions.EcoActionsSubMenu.WaterPage</label>
+        <link refid="class_application___green___quake_1_1_views_1_1_eco_actions_1_1_eco_actions_sub_menu_1_1_water_page"/>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+        <childnode refid="3" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="2">
+        <label>global::XamarinForms::ContentPage</label>
+      </node>
+    </inheritancegraph>
+    <collaborationgraph>
+      <node id="3">
+        <label>ContentPage</label>
+      </node>
+      <node id="1">
+        <label>Application_Green_Quake.Views.EcoActions.EcoActionsSubMenu.WaterPage</label>
+        <link refid="class_application___green___quake_1_1_views_1_1_eco_actions_1_1_eco_actions_sub_menu_1_1_water_page"/>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+        <childnode refid="3" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="2">
+        <label>global::XamarinForms::ContentPage</label>
+      </node>
+    </collaborationgraph>
+    <location file="Application Green Quake/obj/Debug/netstandard2.0/Views/EcoActions/EcoActionsSubMenu/WaterPage.xaml.g.cs" line="17" column="19" bodyfile="Application Green Quake/obj/Debug/netstandard2.0/Views/EcoActions/EcoActionsSubMenu/WaterPage.xaml.g.cs" bodystart="17" bodyend="27"/>
+    <listofallmembers>
+      <member refid="class_application___green___quake_1_1_views_1_1_eco_actions_1_1_eco_actions_sub_menu_1_1_water_page_1a471bbecce6ae6dd8d3673f0c88773639" prot="private" virt="non-virtual"><scope>Application_Green_Quake::Views::EcoActions::EcoActionsSubMenu::WaterPage</scope><name>InitializeComponent</name></member>
+      <member refid="class_application___green___quake_1_1_views_1_1_eco_actions_1_1_eco_actions_sub_menu_1_1_water_page_1a471bbecce6ae6dd8d3673f0c88773639" prot="private" virt="non-virtual"><scope>Application_Green_Quake::Views::EcoActions::EcoActionsSubMenu::WaterPage</scope><name>InitializeComponent</name></member>
+      <member refid="class_application___green___quake_1_1_views_1_1_eco_actions_1_1_eco_actions_sub_menu_1_1_water_page_1a36933a830b807f105b4d7e866a59dcf0" prot="private" virt="non-virtual"><scope>Application_Green_Quake::Views::EcoActions::EcoActionsSubMenu::WaterPage</scope><name>NavigateToBrushingPage</name></member>
+      <member refid="class_application___green___quake_1_1_views_1_1_eco_actions_1_1_eco_actions_sub_menu_1_1_water_page_1a27915ff6e7c74e8f26253f322ec5a2a8" prot="private" virt="non-virtual"><scope>Application_Green_Quake::Views::EcoActions::EcoActionsSubMenu::WaterPage</scope><name>NavigateToCisternDisplacement</name></member>
+      <member refid="class_application___green___quake_1_1_views_1_1_eco_actions_1_1_eco_actions_sub_menu_1_1_water_page_1a7c16981a650e815f02f359a549aa8b73" prot="private" virt="non-virtual"><scope>Application_Green_Quake::Views::EcoActions::EcoActionsSubMenu::WaterPage</scope><name>NavigateToDishwasherFull</name></member>
+      <member refid="class_application___green___quake_1_1_views_1_1_eco_actions_1_1_eco_actions_sub_menu_1_1_water_page_1a5a6f3478380e705d8138ab345575ab66" prot="private" virt="non-virtual"><scope>Application_Green_Quake::Views::EcoActions::EcoActionsSubMenu::WaterPage</scope><name>NavigateToRainBarrel</name></member>
+      <member refid="class_application___green___quake_1_1_views_1_1_eco_actions_1_1_eco_actions_sub_menu_1_1_water_page_1a884ba945b0f767e6b53c50ad1f5475a5" prot="private" virt="non-virtual"><scope>Application_Green_Quake::Views::EcoActions::EcoActionsSubMenu::WaterPage</scope><name>NavigateToReusableWater</name></member>
+      <member refid="class_application___green___quake_1_1_views_1_1_eco_actions_1_1_eco_actions_sub_menu_1_1_water_page_1acb01edfbc732c4fefdbe1254506dd4c3" prot="private" virt="non-virtual"><scope>Application_Green_Quake::Views::EcoActions::EcoActionsSubMenu::WaterPage</scope><name>NavigateToShowerBucket</name></member>
+      <member refid="class_application___green___quake_1_1_views_1_1_eco_actions_1_1_eco_actions_sub_menu_1_1_water_page_1a3cbe36befd87f95ccf5203aa6202bd4d" prot="private" virt="non-virtual"><scope>Application_Green_Quake::Views::EcoActions::EcoActionsSubMenu::WaterPage</scope><name>NavigateToShoweredInsteadOfBath</name></member>
+      <member refid="class_application___green___quake_1_1_views_1_1_eco_actions_1_1_eco_actions_sub_menu_1_1_water_page_1a680b91099037120efe2e137fa4a58253" prot="private" virt="non-virtual"><scope>Application_Green_Quake::Views::EcoActions::EcoActionsSubMenu::WaterPage</scope><name>NavigateToTimedShowerPage</name></member>
+      <member refid="class_application___green___quake_1_1_views_1_1_eco_actions_1_1_eco_actions_sub_menu_1_1_water_page_1a00c0185b3e5c075e0e28c50026ddb4b4" prot="private" virt="non-virtual"><scope>Application_Green_Quake::Views::EcoActions::EcoActionsSubMenu::WaterPage</scope><name>NavigateToToiletFlushes</name></member>
+      <member refid="class_application___green___quake_1_1_views_1_1_eco_actions_1_1_eco_actions_sub_menu_1_1_water_page_1ab6d6e55c94986a353a8197e2b0abd5d2" prot="private" virt="non-virtual"><scope>Application_Green_Quake::Views::EcoActions::EcoActionsSubMenu::WaterPage</scope><name>NavigateToWSShowerhead</name></member>
+      <member refid="class_application___green___quake_1_1_views_1_1_eco_actions_1_1_eco_actions_sub_menu_1_1_water_page_1abb32140196b11d0ca403a7204bd33108" prot="protected" virt="non-virtual"><scope>Application_Green_Quake::Views::EcoActions::EcoActionsSubMenu::WaterPage</scope><name>OnAppearing</name></member>
+      <member refid="class_application___green___quake_1_1_views_1_1_eco_actions_1_1_eco_actions_sub_menu_1_1_water_page_1add2d1b511888e6458b123a84de7d552a" prot="private" virt="non-virtual"><scope>Application_Green_Quake::Views::EcoActions::EcoActionsSubMenu::WaterPage</scope><name>theLevel</name></member>
+      <member refid="class_application___green___quake_1_1_views_1_1_eco_actions_1_1_eco_actions_sub_menu_1_1_water_page_1a0a677747fbce1c436f1d26128c10a097" prot="public" virt="non-virtual"><scope>Application_Green_Quake::Views::EcoActions::EcoActionsSubMenu::WaterPage</scope><name>WaterPage</name></member>
+    </listofallmembers>
+  </compounddef>
+</doxygen>

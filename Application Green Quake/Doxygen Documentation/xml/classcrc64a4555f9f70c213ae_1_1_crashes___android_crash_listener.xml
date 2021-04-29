@@ -1,0 +1,670 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.9.1" xml:lang="en-US">
+  <compounddef id="classcrc64a4555f9f70c213ae_1_1_crashes___android_crash_listener" kind="class" language="Java" prot="public">
+    <compoundname>crc64a4555f9f70c213ae::Crashes_AndroidCrashListener</compoundname>
+    <basecompoundref prot="public" virt="non-virtual">java.lang.Object</basecompoundref>
+    <basecompoundref prot="public" virt="non-virtual">mono.android.IGCUserPeer</basecompoundref>
+    <basecompoundref prot="public" virt="non-virtual">com.microsoft.appcenter.crashes.CrashesListener</basecompoundref>
+    <basecompoundref prot="public" virt="non-virtual">java.lang.Object</basecompoundref>
+    <basecompoundref prot="public" virt="non-virtual">mono.android.IGCUserPeer</basecompoundref>
+    <basecompoundref prot="public" virt="non-virtual">com.microsoft.appcenter.crashes.CrashesListener</basecompoundref>
+      <sectiondef kind="public-static-attrib">
+      <memberdef kind="variable" id="classcrc64a4555f9f70c213ae_1_1_crashes___android_crash_listener_1a3e582c467cfcf13868747a79d3e0992a" prot="public" static="yes" mutable="no">
+        <type>final String</type>
+        <definition>static final String crc64a4555f9f70c213ae.Crashes_AndroidCrashListener::__md_methods</definition>
+        <argsstring></argsstring>
+        <name>__md_methods</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+<para>@hide </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/110/android/src/crc64a4555f9f70c213ae/Crashes_AndroidCrashListener.java" line="11" column="28" bodyfile="Application Green Quake.Android/obj/Debug/110/android/src/crc64a4555f9f70c213ae/Crashes_AndroidCrashListener.java" bodystart="11" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="private-attrib">
+      <memberdef kind="variable" id="classcrc64a4555f9f70c213ae_1_1_crashes___android_crash_listener_1abc76ce9891939ed20d4177a2b515ce62" prot="private" static="no" mutable="no">
+        <type>java.util.ArrayList</type>
+        <definition>java util ArrayList crc64a4555f9f70c213ae.Crashes_AndroidCrashListener::refList</definition>
+        <argsstring></argsstring>
+        <name>refList</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/110/android/src/crc64a4555f9f70c213ae/Crashes_AndroidCrashListener.java" line="80" column="27" bodyfile="Application Green Quake.Android/obj/Debug/110/android/src/crc64a4555f9f70c213ae/Crashes_AndroidCrashListener.java" bodystart="80" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="package-static-func">
+      <memberdef kind="function" id="classcrc64a4555f9f70c213ae_1_1_crashes___android_crash_listener_1aa1b444d94cfe4b8efd11970a8175f008" prot="package" static="yes" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>crc64a4555f9f70c213ae.Crashes_AndroidCrashListener.[static initializer]</definition>
+        <argsstring></argsstring>
+        <name>[static initializer]</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/110/android/src/crc64a4555f9f70c213ae/Crashes_AndroidCrashListener.java" line="11" column="28"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc64a4555f9f70c213ae_1_1_crashes___android_crash_listener_1aa1b444d94cfe4b8efd11970a8175f008" prot="package" static="yes" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>crc64a4555f9f70c213ae.Crashes_AndroidCrashListener.[static initializer]</definition>
+        <argsstring></argsstring>
+        <name>[static initializer]</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/110/android/src/crc64a4555f9f70c213ae/Crashes_AndroidCrashListener.java" line="11" column="28"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="public-func">
+      <memberdef kind="function" id="classcrc64a4555f9f70c213ae_1_1_crashes___android_crash_listener_1ad7450fbf15196a62da8156820a421c1c" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>crc64a4555f9f70c213ae.Crashes_AndroidCrashListener.Crashes_AndroidCrashListener</definition>
+        <argsstring>()</argsstring>
+        <name>Crashes_AndroidCrashListener</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/110/android/src/crc64a4555f9f70c213ae/Crashes_AndroidCrashListener.java" line="25" column="8" bodyfile="Application Green Quake.Android/obj/Debug/110/android/src/crc64a4555f9f70c213ae/Crashes_AndroidCrashListener.java" bodystart="25" bodyend="30"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc64a4555f9f70c213ae_1_1_crashes___android_crash_listener_1a7f4c52f35c0f28ecd7795d97ed1f0cab" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>java.lang.Iterable</type>
+        <definition>java.lang.Iterable crc64a4555f9f70c213ae.Crashes_AndroidCrashListener.getErrorAttachments</definition>
+        <argsstring>(com.microsoft.appcenter.crashes.model.ErrorReport p0)</argsstring>
+        <name>getErrorAttachments</name>
+        <param>
+          <type>com.microsoft.appcenter.crashes.model.ErrorReport</type>
+          <declname>p0</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/110/android/src/crc64a4555f9f70c213ae/Crashes_AndroidCrashListener.java" line="33" column="25" bodyfile="Application Green Quake.Android/obj/Debug/110/android/src/crc64a4555f9f70c213ae/Crashes_AndroidCrashListener.java" bodystart="33" bodyend="36"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc64a4555f9f70c213ae_1_1_crashes___android_crash_listener_1a150d7e281c6d591c61939f3ae4bc0118" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void crc64a4555f9f70c213ae.Crashes_AndroidCrashListener.onBeforeSending</definition>
+        <argsstring>(com.microsoft.appcenter.crashes.model.ErrorReport p0)</argsstring>
+        <name>onBeforeSending</name>
+        <param>
+          <type>com.microsoft.appcenter.crashes.model.ErrorReport</type>
+          <declname>p0</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/110/android/src/crc64a4555f9f70c213ae/Crashes_AndroidCrashListener.java" line="41" column="13" bodyfile="Application Green Quake.Android/obj/Debug/110/android/src/crc64a4555f9f70c213ae/Crashes_AndroidCrashListener.java" bodystart="41" bodyend="44"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc64a4555f9f70c213ae_1_1_crashes___android_crash_listener_1a79f3defda1f361426dd63c6d449bfa9e" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void crc64a4555f9f70c213ae.Crashes_AndroidCrashListener.onSendingFailed</definition>
+        <argsstring>(com.microsoft.appcenter.crashes.model.ErrorReport p0, java.lang.Exception p1)</argsstring>
+        <name>onSendingFailed</name>
+        <param>
+          <type>com.microsoft.appcenter.crashes.model.ErrorReport</type>
+          <declname>p0</declname>
+        </param>
+        <param>
+          <type>java.lang.Exception</type>
+          <declname>p1</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/110/android/src/crc64a4555f9f70c213ae/Crashes_AndroidCrashListener.java" line="49" column="13" bodyfile="Application Green Quake.Android/obj/Debug/110/android/src/crc64a4555f9f70c213ae/Crashes_AndroidCrashListener.java" bodystart="49" bodyend="52"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc64a4555f9f70c213ae_1_1_crashes___android_crash_listener_1a5cf73b91ce94cbdd8dc557f792f3650a" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void crc64a4555f9f70c213ae.Crashes_AndroidCrashListener.onSendingSucceeded</definition>
+        <argsstring>(com.microsoft.appcenter.crashes.model.ErrorReport p0)</argsstring>
+        <name>onSendingSucceeded</name>
+        <param>
+          <type>com.microsoft.appcenter.crashes.model.ErrorReport</type>
+          <declname>p0</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/110/android/src/crc64a4555f9f70c213ae/Crashes_AndroidCrashListener.java" line="57" column="13" bodyfile="Application Green Quake.Android/obj/Debug/110/android/src/crc64a4555f9f70c213ae/Crashes_AndroidCrashListener.java" bodystart="57" bodyend="60"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc64a4555f9f70c213ae_1_1_crashes___android_crash_listener_1afc23cf2f6408ca4c24ac76191ba6c380" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>boolean</type>
+        <definition>boolean crc64a4555f9f70c213ae.Crashes_AndroidCrashListener.shouldAwaitUserConfirmation</definition>
+        <argsstring>()</argsstring>
+        <name>shouldAwaitUserConfirmation</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/110/android/src/crc64a4555f9f70c213ae/Crashes_AndroidCrashListener.java" line="65" column="16" bodyfile="Application Green Quake.Android/obj/Debug/110/android/src/crc64a4555f9f70c213ae/Crashes_AndroidCrashListener.java" bodystart="65" bodyend="68"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc64a4555f9f70c213ae_1_1_crashes___android_crash_listener_1a0d6575836c71f4a02636c6c5920576ab" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>boolean</type>
+        <definition>boolean crc64a4555f9f70c213ae.Crashes_AndroidCrashListener.shouldProcess</definition>
+        <argsstring>(com.microsoft.appcenter.crashes.model.ErrorReport p0)</argsstring>
+        <name>shouldProcess</name>
+        <param>
+          <type>com.microsoft.appcenter.crashes.model.ErrorReport</type>
+          <declname>p0</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/110/android/src/crc64a4555f9f70c213ae/Crashes_AndroidCrashListener.java" line="73" column="16" bodyfile="Application Green Quake.Android/obj/Debug/110/android/src/crc64a4555f9f70c213ae/Crashes_AndroidCrashListener.java" bodystart="73" bodyend="76"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc64a4555f9f70c213ae_1_1_crashes___android_crash_listener_1ae8817814f94a31ca329c33bc85b3c8ea" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void crc64a4555f9f70c213ae.Crashes_AndroidCrashListener.monodroidAddReference</definition>
+        <argsstring>(java.lang.Object obj)</argsstring>
+        <name>monodroidAddReference</name>
+        <param>
+          <type>java.lang.Object</type>
+          <declname>obj</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/110/android/src/crc64a4555f9f70c213ae/Crashes_AndroidCrashListener.java" line="81" column="13" bodyfile="Application Green Quake.Android/obj/Debug/110/android/src/crc64a4555f9f70c213ae/Crashes_AndroidCrashListener.java" bodystart="81" bodyend="86"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc64a4555f9f70c213ae_1_1_crashes___android_crash_listener_1acf8991ddf02faa0feffc4e257b9c19b2" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void crc64a4555f9f70c213ae.Crashes_AndroidCrashListener.monodroidClearReferences</definition>
+        <argsstring>()</argsstring>
+        <name>monodroidClearReferences</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/110/android/src/crc64a4555f9f70c213ae/Crashes_AndroidCrashListener.java" line="88" column="13" bodyfile="Application Green Quake.Android/obj/Debug/110/android/src/crc64a4555f9f70c213ae/Crashes_AndroidCrashListener.java" bodystart="88" bodyend="92"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc64a4555f9f70c213ae_1_1_crashes___android_crash_listener_1ad7450fbf15196a62da8156820a421c1c" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>crc64a4555f9f70c213ae.Crashes_AndroidCrashListener.Crashes_AndroidCrashListener</definition>
+        <argsstring>()</argsstring>
+        <name>Crashes_AndroidCrashListener</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/110/android/src/crc64a4555f9f70c213ae/Crashes_AndroidCrashListener.java" line="25" column="8" bodyfile="Application Green Quake.Android/obj/Release/110/android/src/crc64a4555f9f70c213ae/Crashes_AndroidCrashListener.java" bodystart="25" bodyend="30"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc64a4555f9f70c213ae_1_1_crashes___android_crash_listener_1a7f4c52f35c0f28ecd7795d97ed1f0cab" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>java.lang.Iterable</type>
+        <definition>java.lang.Iterable crc64a4555f9f70c213ae.Crashes_AndroidCrashListener.getErrorAttachments</definition>
+        <argsstring>(com.microsoft.appcenter.crashes.model.ErrorReport p0)</argsstring>
+        <name>getErrorAttachments</name>
+        <param>
+          <type>com.microsoft.appcenter.crashes.model.ErrorReport</type>
+          <declname>p0</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/110/android/src/crc64a4555f9f70c213ae/Crashes_AndroidCrashListener.java" line="33" column="25" bodyfile="Application Green Quake.Android/obj/Release/110/android/src/crc64a4555f9f70c213ae/Crashes_AndroidCrashListener.java" bodystart="33" bodyend="36"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc64a4555f9f70c213ae_1_1_crashes___android_crash_listener_1a150d7e281c6d591c61939f3ae4bc0118" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void crc64a4555f9f70c213ae.Crashes_AndroidCrashListener.onBeforeSending</definition>
+        <argsstring>(com.microsoft.appcenter.crashes.model.ErrorReport p0)</argsstring>
+        <name>onBeforeSending</name>
+        <param>
+          <type>com.microsoft.appcenter.crashes.model.ErrorReport</type>
+          <declname>p0</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/110/android/src/crc64a4555f9f70c213ae/Crashes_AndroidCrashListener.java" line="41" column="13" bodyfile="Application Green Quake.Android/obj/Release/110/android/src/crc64a4555f9f70c213ae/Crashes_AndroidCrashListener.java" bodystart="41" bodyend="44"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc64a4555f9f70c213ae_1_1_crashes___android_crash_listener_1a79f3defda1f361426dd63c6d449bfa9e" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void crc64a4555f9f70c213ae.Crashes_AndroidCrashListener.onSendingFailed</definition>
+        <argsstring>(com.microsoft.appcenter.crashes.model.ErrorReport p0, java.lang.Exception p1)</argsstring>
+        <name>onSendingFailed</name>
+        <param>
+          <type>com.microsoft.appcenter.crashes.model.ErrorReport</type>
+          <declname>p0</declname>
+        </param>
+        <param>
+          <type>java.lang.Exception</type>
+          <declname>p1</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/110/android/src/crc64a4555f9f70c213ae/Crashes_AndroidCrashListener.java" line="49" column="13" bodyfile="Application Green Quake.Android/obj/Release/110/android/src/crc64a4555f9f70c213ae/Crashes_AndroidCrashListener.java" bodystart="49" bodyend="52"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc64a4555f9f70c213ae_1_1_crashes___android_crash_listener_1a5cf73b91ce94cbdd8dc557f792f3650a" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void crc64a4555f9f70c213ae.Crashes_AndroidCrashListener.onSendingSucceeded</definition>
+        <argsstring>(com.microsoft.appcenter.crashes.model.ErrorReport p0)</argsstring>
+        <name>onSendingSucceeded</name>
+        <param>
+          <type>com.microsoft.appcenter.crashes.model.ErrorReport</type>
+          <declname>p0</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/110/android/src/crc64a4555f9f70c213ae/Crashes_AndroidCrashListener.java" line="57" column="13" bodyfile="Application Green Quake.Android/obj/Release/110/android/src/crc64a4555f9f70c213ae/Crashes_AndroidCrashListener.java" bodystart="57" bodyend="60"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc64a4555f9f70c213ae_1_1_crashes___android_crash_listener_1afc23cf2f6408ca4c24ac76191ba6c380" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>boolean</type>
+        <definition>boolean crc64a4555f9f70c213ae.Crashes_AndroidCrashListener.shouldAwaitUserConfirmation</definition>
+        <argsstring>()</argsstring>
+        <name>shouldAwaitUserConfirmation</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/110/android/src/crc64a4555f9f70c213ae/Crashes_AndroidCrashListener.java" line="65" column="16" bodyfile="Application Green Quake.Android/obj/Release/110/android/src/crc64a4555f9f70c213ae/Crashes_AndroidCrashListener.java" bodystart="65" bodyend="68"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc64a4555f9f70c213ae_1_1_crashes___android_crash_listener_1a0d6575836c71f4a02636c6c5920576ab" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>boolean</type>
+        <definition>boolean crc64a4555f9f70c213ae.Crashes_AndroidCrashListener.shouldProcess</definition>
+        <argsstring>(com.microsoft.appcenter.crashes.model.ErrorReport p0)</argsstring>
+        <name>shouldProcess</name>
+        <param>
+          <type>com.microsoft.appcenter.crashes.model.ErrorReport</type>
+          <declname>p0</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/110/android/src/crc64a4555f9f70c213ae/Crashes_AndroidCrashListener.java" line="73" column="16" bodyfile="Application Green Quake.Android/obj/Release/110/android/src/crc64a4555f9f70c213ae/Crashes_AndroidCrashListener.java" bodystart="73" bodyend="76"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc64a4555f9f70c213ae_1_1_crashes___android_crash_listener_1ae8817814f94a31ca329c33bc85b3c8ea" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void crc64a4555f9f70c213ae.Crashes_AndroidCrashListener.monodroidAddReference</definition>
+        <argsstring>(java.lang.Object obj)</argsstring>
+        <name>monodroidAddReference</name>
+        <param>
+          <type>java.lang.Object</type>
+          <declname>obj</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/110/android/src/crc64a4555f9f70c213ae/Crashes_AndroidCrashListener.java" line="81" column="13" bodyfile="Application Green Quake.Android/obj/Release/110/android/src/crc64a4555f9f70c213ae/Crashes_AndroidCrashListener.java" bodystart="81" bodyend="86"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc64a4555f9f70c213ae_1_1_crashes___android_crash_listener_1acf8991ddf02faa0feffc4e257b9c19b2" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void crc64a4555f9f70c213ae.Crashes_AndroidCrashListener.monodroidClearReferences</definition>
+        <argsstring>()</argsstring>
+        <name>monodroidClearReferences</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/110/android/src/crc64a4555f9f70c213ae/Crashes_AndroidCrashListener.java" line="88" column="13" bodyfile="Application Green Quake.Android/obj/Release/110/android/src/crc64a4555f9f70c213ae/Crashes_AndroidCrashListener.java" bodystart="88" bodyend="92"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="private-func">
+      <memberdef kind="function" id="classcrc64a4555f9f70c213ae_1_1_crashes___android_crash_listener_1af4f16ff8cdbfd7e78cb0fafd3645a59b" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>native java.lang.Iterable</type>
+        <definition>native java.lang.Iterable crc64a4555f9f70c213ae.Crashes_AndroidCrashListener.n_getErrorAttachments</definition>
+        <argsstring>(com.microsoft.appcenter.crashes.model.ErrorReport p0)</argsstring>
+        <name>n_getErrorAttachments</name>
+        <param>
+          <type>com.microsoft.appcenter.crashes.model.ErrorReport</type>
+          <declname>p0</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/110/android/src/crc64a4555f9f70c213ae/Crashes_AndroidCrashListener.java" line="38" column="33"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc64a4555f9f70c213ae_1_1_crashes___android_crash_listener_1a993e560ef662e3c8d22faa4d4ce423fb" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>native void</type>
+        <definition>native void crc64a4555f9f70c213ae.Crashes_AndroidCrashListener.n_onBeforeSending</definition>
+        <argsstring>(com.microsoft.appcenter.crashes.model.ErrorReport p0)</argsstring>
+        <name>n_onBeforeSending</name>
+        <param>
+          <type>com.microsoft.appcenter.crashes.model.ErrorReport</type>
+          <declname>p0</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/110/android/src/crc64a4555f9f70c213ae/Crashes_AndroidCrashListener.java" line="46" column="21"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc64a4555f9f70c213ae_1_1_crashes___android_crash_listener_1a2370ceaca98c271f9cbc5d07adf016d6" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>native void</type>
+        <definition>native void crc64a4555f9f70c213ae.Crashes_AndroidCrashListener.n_onSendingFailed</definition>
+        <argsstring>(com.microsoft.appcenter.crashes.model.ErrorReport p0, java.lang.Exception p1)</argsstring>
+        <name>n_onSendingFailed</name>
+        <param>
+          <type>com.microsoft.appcenter.crashes.model.ErrorReport</type>
+          <declname>p0</declname>
+        </param>
+        <param>
+          <type>java.lang.Exception</type>
+          <declname>p1</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/110/android/src/crc64a4555f9f70c213ae/Crashes_AndroidCrashListener.java" line="54" column="21"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc64a4555f9f70c213ae_1_1_crashes___android_crash_listener_1a3a0e5dc52eec0226e3ae34f1338df952" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>native void</type>
+        <definition>native void crc64a4555f9f70c213ae.Crashes_AndroidCrashListener.n_onSendingSucceeded</definition>
+        <argsstring>(com.microsoft.appcenter.crashes.model.ErrorReport p0)</argsstring>
+        <name>n_onSendingSucceeded</name>
+        <param>
+          <type>com.microsoft.appcenter.crashes.model.ErrorReport</type>
+          <declname>p0</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/110/android/src/crc64a4555f9f70c213ae/Crashes_AndroidCrashListener.java" line="62" column="21"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc64a4555f9f70c213ae_1_1_crashes___android_crash_listener_1af6f1fff66c48f1c44e4dec789cdb778e" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>native boolean</type>
+        <definition>native boolean crc64a4555f9f70c213ae.Crashes_AndroidCrashListener.n_shouldAwaitUserConfirmation</definition>
+        <argsstring>()</argsstring>
+        <name>n_shouldAwaitUserConfirmation</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/110/android/src/crc64a4555f9f70c213ae/Crashes_AndroidCrashListener.java" line="70" column="24"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc64a4555f9f70c213ae_1_1_crashes___android_crash_listener_1a0c6b863322cccbb98a1bdb41dcc7d4bc" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>native boolean</type>
+        <definition>native boolean crc64a4555f9f70c213ae.Crashes_AndroidCrashListener.n_shouldProcess</definition>
+        <argsstring>(com.microsoft.appcenter.crashes.model.ErrorReport p0)</argsstring>
+        <name>n_shouldProcess</name>
+        <param>
+          <type>com.microsoft.appcenter.crashes.model.ErrorReport</type>
+          <declname>p0</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/110/android/src/crc64a4555f9f70c213ae/Crashes_AndroidCrashListener.java" line="78" column="24"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc64a4555f9f70c213ae_1_1_crashes___android_crash_listener_1af4f16ff8cdbfd7e78cb0fafd3645a59b" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>native java.lang.Iterable</type>
+        <definition>native java.lang.Iterable crc64a4555f9f70c213ae.Crashes_AndroidCrashListener.n_getErrorAttachments</definition>
+        <argsstring>(com.microsoft.appcenter.crashes.model.ErrorReport p0)</argsstring>
+        <name>n_getErrorAttachments</name>
+        <param>
+          <type>com.microsoft.appcenter.crashes.model.ErrorReport</type>
+          <declname>p0</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/110/android/src/crc64a4555f9f70c213ae/Crashes_AndroidCrashListener.java" line="38" column="33"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc64a4555f9f70c213ae_1_1_crashes___android_crash_listener_1a993e560ef662e3c8d22faa4d4ce423fb" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>native void</type>
+        <definition>native void crc64a4555f9f70c213ae.Crashes_AndroidCrashListener.n_onBeforeSending</definition>
+        <argsstring>(com.microsoft.appcenter.crashes.model.ErrorReport p0)</argsstring>
+        <name>n_onBeforeSending</name>
+        <param>
+          <type>com.microsoft.appcenter.crashes.model.ErrorReport</type>
+          <declname>p0</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/110/android/src/crc64a4555f9f70c213ae/Crashes_AndroidCrashListener.java" line="46" column="21"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc64a4555f9f70c213ae_1_1_crashes___android_crash_listener_1a2370ceaca98c271f9cbc5d07adf016d6" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>native void</type>
+        <definition>native void crc64a4555f9f70c213ae.Crashes_AndroidCrashListener.n_onSendingFailed</definition>
+        <argsstring>(com.microsoft.appcenter.crashes.model.ErrorReport p0, java.lang.Exception p1)</argsstring>
+        <name>n_onSendingFailed</name>
+        <param>
+          <type>com.microsoft.appcenter.crashes.model.ErrorReport</type>
+          <declname>p0</declname>
+        </param>
+        <param>
+          <type>java.lang.Exception</type>
+          <declname>p1</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/110/android/src/crc64a4555f9f70c213ae/Crashes_AndroidCrashListener.java" line="54" column="21"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc64a4555f9f70c213ae_1_1_crashes___android_crash_listener_1a3a0e5dc52eec0226e3ae34f1338df952" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>native void</type>
+        <definition>native void crc64a4555f9f70c213ae.Crashes_AndroidCrashListener.n_onSendingSucceeded</definition>
+        <argsstring>(com.microsoft.appcenter.crashes.model.ErrorReport p0)</argsstring>
+        <name>n_onSendingSucceeded</name>
+        <param>
+          <type>com.microsoft.appcenter.crashes.model.ErrorReport</type>
+          <declname>p0</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/110/android/src/crc64a4555f9f70c213ae/Crashes_AndroidCrashListener.java" line="62" column="21"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc64a4555f9f70c213ae_1_1_crashes___android_crash_listener_1af6f1fff66c48f1c44e4dec789cdb778e" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>native boolean</type>
+        <definition>native boolean crc64a4555f9f70c213ae.Crashes_AndroidCrashListener.n_shouldAwaitUserConfirmation</definition>
+        <argsstring>()</argsstring>
+        <name>n_shouldAwaitUserConfirmation</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/110/android/src/crc64a4555f9f70c213ae/Crashes_AndroidCrashListener.java" line="70" column="24"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc64a4555f9f70c213ae_1_1_crashes___android_crash_listener_1a0c6b863322cccbb98a1bdb41dcc7d4bc" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>native boolean</type>
+        <definition>native boolean crc64a4555f9f70c213ae.Crashes_AndroidCrashListener.n_shouldProcess</definition>
+        <argsstring>(com.microsoft.appcenter.crashes.model.ErrorReport p0)</argsstring>
+        <name>n_shouldProcess</name>
+        <param>
+          <type>com.microsoft.appcenter.crashes.model.ErrorReport</type>
+          <declname>p0</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/110/android/src/crc64a4555f9f70c213ae/Crashes_AndroidCrashListener.java" line="78" column="24"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <inheritancegraph>
+      <node id="4">
+        <label>com::microsoft::appcenter::crashes::CrashesListener</label>
+      </node>
+      <node id="1">
+        <label>crc64a4555f9f70c213ae.Crashes_AndroidCrashListener</label>
+        <link refid="classcrc64a4555f9f70c213ae_1_1_crashes___android_crash_listener"/>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+        <childnode refid="3" relation="public-inheritance">
+        </childnode>
+        <childnode refid="4" relation="public-inheritance">
+        </childnode>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+        <childnode refid="3" relation="public-inheritance">
+        </childnode>
+        <childnode refid="5" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="5">
+        <label>com.microsoft.appcenter.crashes.CrashesListener</label>
+      </node>
+      <node id="3">
+        <label>mono.android.IGCUserPeer</label>
+      </node>
+      <node id="2">
+        <label>java.lang.Object</label>
+      </node>
+    </inheritancegraph>
+    <collaborationgraph>
+      <node id="4">
+        <label>com::microsoft::appcenter::crashes::CrashesListener</label>
+      </node>
+      <node id="1">
+        <label>crc64a4555f9f70c213ae.Crashes_AndroidCrashListener</label>
+        <link refid="classcrc64a4555f9f70c213ae_1_1_crashes___android_crash_listener"/>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+        <childnode refid="3" relation="public-inheritance">
+        </childnode>
+        <childnode refid="4" relation="public-inheritance">
+        </childnode>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+        <childnode refid="3" relation="public-inheritance">
+        </childnode>
+        <childnode refid="5" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="5">
+        <label>com.microsoft.appcenter.crashes.CrashesListener</label>
+      </node>
+      <node id="3">
+        <label>mono.android.IGCUserPeer</label>
+      </node>
+      <node id="2">
+        <label>java.lang.Object</label>
+      </node>
+    </collaborationgraph>
+    <location file="Application Green Quake.Android/obj/Debug/110/android/src/crc64a4555f9f70c213ae/Crashes_AndroidCrashListener.java" line="4" column="7" bodyfile="Application Green Quake.Android/obj/Debug/110/android/src/crc64a4555f9f70c213ae/Crashes_AndroidCrashListener.java" bodystart="9" bodyend="93"/>
+    <listofallmembers>
+      <member refid="classcrc64a4555f9f70c213ae_1_1_crashes___android_crash_listener_1aa1b444d94cfe4b8efd11970a8175f008" prot="package" virt="non-virtual"><scope>crc64a4555f9f70c213ae::Crashes_AndroidCrashListener</scope><name>[static initializer]</name></member>
+      <member refid="classcrc64a4555f9f70c213ae_1_1_crashes___android_crash_listener_1aa1b444d94cfe4b8efd11970a8175f008" prot="package" virt="non-virtual"><scope>crc64a4555f9f70c213ae::Crashes_AndroidCrashListener</scope><name>[static initializer]</name></member>
+      <member refid="classcrc64a4555f9f70c213ae_1_1_crashes___android_crash_listener_1a3e582c467cfcf13868747a79d3e0992a" prot="public" virt="non-virtual"><scope>crc64a4555f9f70c213ae::Crashes_AndroidCrashListener</scope><name>__md_methods</name></member>
+      <member refid="classcrc64a4555f9f70c213ae_1_1_crashes___android_crash_listener_1ad7450fbf15196a62da8156820a421c1c" prot="public" virt="non-virtual"><scope>crc64a4555f9f70c213ae::Crashes_AndroidCrashListener</scope><name>Crashes_AndroidCrashListener</name></member>
+      <member refid="classcrc64a4555f9f70c213ae_1_1_crashes___android_crash_listener_1ad7450fbf15196a62da8156820a421c1c" prot="public" virt="non-virtual"><scope>crc64a4555f9f70c213ae::Crashes_AndroidCrashListener</scope><name>Crashes_AndroidCrashListener</name></member>
+      <member refid="classcrc64a4555f9f70c213ae_1_1_crashes___android_crash_listener_1a7f4c52f35c0f28ecd7795d97ed1f0cab" prot="public" virt="non-virtual"><scope>crc64a4555f9f70c213ae::Crashes_AndroidCrashListener</scope><name>getErrorAttachments</name></member>
+      <member refid="classcrc64a4555f9f70c213ae_1_1_crashes___android_crash_listener_1a7f4c52f35c0f28ecd7795d97ed1f0cab" prot="public" virt="non-virtual"><scope>crc64a4555f9f70c213ae::Crashes_AndroidCrashListener</scope><name>getErrorAttachments</name></member>
+      <member refid="classcrc64a4555f9f70c213ae_1_1_crashes___android_crash_listener_1ae8817814f94a31ca329c33bc85b3c8ea" prot="public" virt="non-virtual"><scope>crc64a4555f9f70c213ae::Crashes_AndroidCrashListener</scope><name>monodroidAddReference</name></member>
+      <member refid="classcrc64a4555f9f70c213ae_1_1_crashes___android_crash_listener_1ae8817814f94a31ca329c33bc85b3c8ea" prot="public" virt="non-virtual"><scope>crc64a4555f9f70c213ae::Crashes_AndroidCrashListener</scope><name>monodroidAddReference</name></member>
+      <member refid="classcrc64a4555f9f70c213ae_1_1_crashes___android_crash_listener_1acf8991ddf02faa0feffc4e257b9c19b2" prot="public" virt="non-virtual"><scope>crc64a4555f9f70c213ae::Crashes_AndroidCrashListener</scope><name>monodroidClearReferences</name></member>
+      <member refid="classcrc64a4555f9f70c213ae_1_1_crashes___android_crash_listener_1acf8991ddf02faa0feffc4e257b9c19b2" prot="public" virt="non-virtual"><scope>crc64a4555f9f70c213ae::Crashes_AndroidCrashListener</scope><name>monodroidClearReferences</name></member>
+      <member refid="classcrc64a4555f9f70c213ae_1_1_crashes___android_crash_listener_1af4f16ff8cdbfd7e78cb0fafd3645a59b" prot="private" virt="non-virtual"><scope>crc64a4555f9f70c213ae::Crashes_AndroidCrashListener</scope><name>n_getErrorAttachments</name></member>
+      <member refid="classcrc64a4555f9f70c213ae_1_1_crashes___android_crash_listener_1af4f16ff8cdbfd7e78cb0fafd3645a59b" prot="private" virt="non-virtual"><scope>crc64a4555f9f70c213ae::Crashes_AndroidCrashListener</scope><name>n_getErrorAttachments</name></member>
+      <member refid="classcrc64a4555f9f70c213ae_1_1_crashes___android_crash_listener_1a993e560ef662e3c8d22faa4d4ce423fb" prot="private" virt="non-virtual"><scope>crc64a4555f9f70c213ae::Crashes_AndroidCrashListener</scope><name>n_onBeforeSending</name></member>
+      <member refid="classcrc64a4555f9f70c213ae_1_1_crashes___android_crash_listener_1a993e560ef662e3c8d22faa4d4ce423fb" prot="private" virt="non-virtual"><scope>crc64a4555f9f70c213ae::Crashes_AndroidCrashListener</scope><name>n_onBeforeSending</name></member>
+      <member refid="classcrc64a4555f9f70c213ae_1_1_crashes___android_crash_listener_1a2370ceaca98c271f9cbc5d07adf016d6" prot="private" virt="non-virtual"><scope>crc64a4555f9f70c213ae::Crashes_AndroidCrashListener</scope><name>n_onSendingFailed</name></member>
+      <member refid="classcrc64a4555f9f70c213ae_1_1_crashes___android_crash_listener_1a2370ceaca98c271f9cbc5d07adf016d6" prot="private" virt="non-virtual"><scope>crc64a4555f9f70c213ae::Crashes_AndroidCrashListener</scope><name>n_onSendingFailed</name></member>
+      <member refid="classcrc64a4555f9f70c213ae_1_1_crashes___android_crash_listener_1a3a0e5dc52eec0226e3ae34f1338df952" prot="private" virt="non-virtual"><scope>crc64a4555f9f70c213ae::Crashes_AndroidCrashListener</scope><name>n_onSendingSucceeded</name></member>
+      <member refid="classcrc64a4555f9f70c213ae_1_1_crashes___android_crash_listener_1a3a0e5dc52eec0226e3ae34f1338df952" prot="private" virt="non-virtual"><scope>crc64a4555f9f70c213ae::Crashes_AndroidCrashListener</scope><name>n_onSendingSucceeded</name></member>
+      <member refid="classcrc64a4555f9f70c213ae_1_1_crashes___android_crash_listener_1af6f1fff66c48f1c44e4dec789cdb778e" prot="private" virt="non-virtual"><scope>crc64a4555f9f70c213ae::Crashes_AndroidCrashListener</scope><name>n_shouldAwaitUserConfirmation</name></member>
+      <member refid="classcrc64a4555f9f70c213ae_1_1_crashes___android_crash_listener_1af6f1fff66c48f1c44e4dec789cdb778e" prot="private" virt="non-virtual"><scope>crc64a4555f9f70c213ae::Crashes_AndroidCrashListener</scope><name>n_shouldAwaitUserConfirmation</name></member>
+      <member refid="classcrc64a4555f9f70c213ae_1_1_crashes___android_crash_listener_1a0c6b863322cccbb98a1bdb41dcc7d4bc" prot="private" virt="non-virtual"><scope>crc64a4555f9f70c213ae::Crashes_AndroidCrashListener</scope><name>n_shouldProcess</name></member>
+      <member refid="classcrc64a4555f9f70c213ae_1_1_crashes___android_crash_listener_1a0c6b863322cccbb98a1bdb41dcc7d4bc" prot="private" virt="non-virtual"><scope>crc64a4555f9f70c213ae::Crashes_AndroidCrashListener</scope><name>n_shouldProcess</name></member>
+      <member refid="classcrc64a4555f9f70c213ae_1_1_crashes___android_crash_listener_1a150d7e281c6d591c61939f3ae4bc0118" prot="public" virt="non-virtual"><scope>crc64a4555f9f70c213ae::Crashes_AndroidCrashListener</scope><name>onBeforeSending</name></member>
+      <member refid="classcrc64a4555f9f70c213ae_1_1_crashes___android_crash_listener_1a150d7e281c6d591c61939f3ae4bc0118" prot="public" virt="non-virtual"><scope>crc64a4555f9f70c213ae::Crashes_AndroidCrashListener</scope><name>onBeforeSending</name></member>
+      <member refid="classcrc64a4555f9f70c213ae_1_1_crashes___android_crash_listener_1a79f3defda1f361426dd63c6d449bfa9e" prot="public" virt="non-virtual"><scope>crc64a4555f9f70c213ae::Crashes_AndroidCrashListener</scope><name>onSendingFailed</name></member>
+      <member refid="classcrc64a4555f9f70c213ae_1_1_crashes___android_crash_listener_1a79f3defda1f361426dd63c6d449bfa9e" prot="public" virt="non-virtual"><scope>crc64a4555f9f70c213ae::Crashes_AndroidCrashListener</scope><name>onSendingFailed</name></member>
+      <member refid="classcrc64a4555f9f70c213ae_1_1_crashes___android_crash_listener_1a5cf73b91ce94cbdd8dc557f792f3650a" prot="public" virt="non-virtual"><scope>crc64a4555f9f70c213ae::Crashes_AndroidCrashListener</scope><name>onSendingSucceeded</name></member>
+      <member refid="classcrc64a4555f9f70c213ae_1_1_crashes___android_crash_listener_1a5cf73b91ce94cbdd8dc557f792f3650a" prot="public" virt="non-virtual"><scope>crc64a4555f9f70c213ae::Crashes_AndroidCrashListener</scope><name>onSendingSucceeded</name></member>
+      <member refid="classcrc64a4555f9f70c213ae_1_1_crashes___android_crash_listener_1abc76ce9891939ed20d4177a2b515ce62" prot="private" virt="non-virtual"><scope>crc64a4555f9f70c213ae::Crashes_AndroidCrashListener</scope><name>refList</name></member>
+      <member refid="classcrc64a4555f9f70c213ae_1_1_crashes___android_crash_listener_1afc23cf2f6408ca4c24ac76191ba6c380" prot="public" virt="non-virtual"><scope>crc64a4555f9f70c213ae::Crashes_AndroidCrashListener</scope><name>shouldAwaitUserConfirmation</name></member>
+      <member refid="classcrc64a4555f9f70c213ae_1_1_crashes___android_crash_listener_1afc23cf2f6408ca4c24ac76191ba6c380" prot="public" virt="non-virtual"><scope>crc64a4555f9f70c213ae::Crashes_AndroidCrashListener</scope><name>shouldAwaitUserConfirmation</name></member>
+      <member refid="classcrc64a4555f9f70c213ae_1_1_crashes___android_crash_listener_1a0d6575836c71f4a02636c6c5920576ab" prot="public" virt="non-virtual"><scope>crc64a4555f9f70c213ae::Crashes_AndroidCrashListener</scope><name>shouldProcess</name></member>
+      <member refid="classcrc64a4555f9f70c213ae_1_1_crashes___android_crash_listener_1a0d6575836c71f4a02636c6c5920576ab" prot="public" virt="non-virtual"><scope>crc64a4555f9f70c213ae::Crashes_AndroidCrashListener</scope><name>shouldProcess</name></member>
+    </listofallmembers>
+  </compounddef>
+</doxygen>

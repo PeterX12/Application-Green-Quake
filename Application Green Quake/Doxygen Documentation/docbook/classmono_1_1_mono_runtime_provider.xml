@@ -1,0 +1,299 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<section xmlns="http://docbook.org/ns/docbook" version="5.0" xmlns:xlink="http://www.w3.org/1999/xlink" xml:id="_classmono_1_1_mono_runtime_provider" xml:lang="en-US">
+<title>mono.MonoRuntimeProvider Class Reference</title>
+<indexterm><primary>mono.MonoRuntimeProvider</primary></indexterm>
+Inheritance diagram for mono.MonoRuntimeProvider:<para>
+    <informalfigure>
+        <mediaobject>
+            <imageobject>
+                <imagedata width="50%" align="center" valign="middle" scalefit="0" fileref="classmono_1_1_mono_runtime_provider__inherit__graph.png"></imagedata>
+            </imageobject>
+        </mediaobject>
+    </informalfigure>
+</para>
+Collaboration diagram for mono.MonoRuntimeProvider:<para>
+    <informalfigure>
+        <mediaobject>
+            <imageobject>
+                <imagedata width="50%" align="center" valign="middle" scalefit="0" fileref="classmono_1_1_mono_runtime_provider__coll__graph.png"></imagedata>
+            </imageobject>
+        </mediaobject>
+    </informalfigure>
+</para>
+<simplesect>
+    <title>Public Member Functions    </title>
+        <itemizedlist>
+            <listitem><para><link linkend="_classmono_1_1_mono_runtime_provider_1a7a06cc58b7a7891aa5f1e523206a5249">MonoRuntimeProvider</link> ()</para>
+</listitem>
+            <listitem><para>boolean <link linkend="_classmono_1_1_mono_runtime_provider_1ac5640d3ce8472accc1953fe591e683c3">onCreate</link> ()</para>
+</listitem>
+            <listitem><para>void <link linkend="_classmono_1_1_mono_runtime_provider_1a4fb9f5a38268fb642d211e7ef0fd9228">attachInfo</link> (android.content.Context context, android.content.pm.ProviderInfo info)</para>
+</listitem>
+            <listitem><para>android.database.Cursor <link linkend="_classmono_1_1_mono_runtime_provider_1a5f038667e16324d54f940968f4abd86f">query</link> (android.net.Uri uri, String[] projection, String selection, String[] selectionArgs, String sortOrder)</para>
+</listitem>
+            <listitem><para>String <link linkend="_classmono_1_1_mono_runtime_provider_1ab7978ccd79378f86aabc9a1997bff129">getType</link> (android.net.Uri uri)</para>
+</listitem>
+            <listitem><para>android.net.Uri <link linkend="_classmono_1_1_mono_runtime_provider_1afbf0b2575d76132ac379064f3f695013">insert</link> (android.net.Uri uri, android.content.ContentValues initialValues)</para>
+</listitem>
+            <listitem><para>int <link linkend="_classmono_1_1_mono_runtime_provider_1a20fd29ee82e2fbc6ca8e3a7d53e89b9f">delete</link> (android.net.Uri uri, String where, String[] whereArgs)</para>
+</listitem>
+            <listitem><para>int <link linkend="_classmono_1_1_mono_runtime_provider_1a70342b01de97d26ab215db961f4a714c">update</link> (android.net.Uri uri, android.content.ContentValues values, String where, String[] whereArgs)</para>
+</listitem>
+            <listitem><para><link linkend="_classmono_1_1_mono_runtime_provider_1a7a06cc58b7a7891aa5f1e523206a5249">MonoRuntimeProvider</link> ()</para>
+</listitem>
+            <listitem><para>boolean <link linkend="_classmono_1_1_mono_runtime_provider_1ac5640d3ce8472accc1953fe591e683c3">onCreate</link> ()</para>
+</listitem>
+            <listitem><para>void <link linkend="_classmono_1_1_mono_runtime_provider_1a4fb9f5a38268fb642d211e7ef0fd9228">attachInfo</link> (android.content.Context context, android.content.pm.ProviderInfo info)</para>
+</listitem>
+            <listitem><para>android.database.Cursor <link linkend="_classmono_1_1_mono_runtime_provider_1a5f038667e16324d54f940968f4abd86f">query</link> (android.net.Uri uri, String[] projection, String selection, String[] selectionArgs, String sortOrder)</para>
+</listitem>
+            <listitem><para>String <link linkend="_classmono_1_1_mono_runtime_provider_1ab7978ccd79378f86aabc9a1997bff129">getType</link> (android.net.Uri uri)</para>
+</listitem>
+            <listitem><para>android.net.Uri <link linkend="_classmono_1_1_mono_runtime_provider_1afbf0b2575d76132ac379064f3f695013">insert</link> (android.net.Uri uri, android.content.ContentValues initialValues)</para>
+</listitem>
+            <listitem><para>int <link linkend="_classmono_1_1_mono_runtime_provider_1a20fd29ee82e2fbc6ca8e3a7d53e89b9f">delete</link> (android.net.Uri uri, String where, String[] whereArgs)</para>
+</listitem>
+            <listitem><para>int <link linkend="_classmono_1_1_mono_runtime_provider_1a70342b01de97d26ab215db961f4a714c">update</link> (android.net.Uri uri, android.content.ContentValues values, String where, String[] whereArgs)</para>
+</listitem>
+            <listitem><para><link linkend="_classmono_1_1_mono_runtime_provider_1a7a06cc58b7a7891aa5f1e523206a5249">MonoRuntimeProvider</link> ()</para>
+</listitem>
+            <listitem><para>boolean <link linkend="_classmono_1_1_mono_runtime_provider_1ac5640d3ce8472accc1953fe591e683c3">onCreate</link> ()</para>
+</listitem>
+            <listitem><para>void <link linkend="_classmono_1_1_mono_runtime_provider_1a4fb9f5a38268fb642d211e7ef0fd9228">attachInfo</link> (android.content.Context context, android.content.pm.ProviderInfo info)</para>
+</listitem>
+            <listitem><para>android.database.Cursor <link linkend="_classmono_1_1_mono_runtime_provider_1a5f038667e16324d54f940968f4abd86f">query</link> (android.net.Uri uri, String[] projection, String selection, String[] selectionArgs, String sortOrder)</para>
+</listitem>
+            <listitem><para>String <link linkend="_classmono_1_1_mono_runtime_provider_1ab7978ccd79378f86aabc9a1997bff129">getType</link> (android.net.Uri uri)</para>
+</listitem>
+            <listitem><para>android.net.Uri <link linkend="_classmono_1_1_mono_runtime_provider_1afbf0b2575d76132ac379064f3f695013">insert</link> (android.net.Uri uri, android.content.ContentValues initialValues)</para>
+</listitem>
+            <listitem><para>int <link linkend="_classmono_1_1_mono_runtime_provider_1a20fd29ee82e2fbc6ca8e3a7d53e89b9f">delete</link> (android.net.Uri uri, String where, String[] whereArgs)</para>
+</listitem>
+            <listitem><para>int <link linkend="_classmono_1_1_mono_runtime_provider_1a70342b01de97d26ab215db961f4a714c">update</link> (android.net.Uri uri, android.content.ContentValues values, String where, String[] whereArgs)</para>
+</listitem>
+            <listitem><para><link linkend="_classmono_1_1_mono_runtime_provider_1a7a06cc58b7a7891aa5f1e523206a5249">MonoRuntimeProvider</link> ()</para>
+</listitem>
+            <listitem><para>boolean <link linkend="_classmono_1_1_mono_runtime_provider_1ac5640d3ce8472accc1953fe591e683c3">onCreate</link> ()</para>
+</listitem>
+            <listitem><para>void <link linkend="_classmono_1_1_mono_runtime_provider_1a4fb9f5a38268fb642d211e7ef0fd9228">attachInfo</link> (android.content.Context context, android.content.pm.ProviderInfo info)</para>
+</listitem>
+            <listitem><para>android.database.Cursor <link linkend="_classmono_1_1_mono_runtime_provider_1a5f038667e16324d54f940968f4abd86f">query</link> (android.net.Uri uri, String[] projection, String selection, String[] selectionArgs, String sortOrder)</para>
+</listitem>
+            <listitem><para>String <link linkend="_classmono_1_1_mono_runtime_provider_1ab7978ccd79378f86aabc9a1997bff129">getType</link> (android.net.Uri uri)</para>
+</listitem>
+            <listitem><para>android.net.Uri <link linkend="_classmono_1_1_mono_runtime_provider_1afbf0b2575d76132ac379064f3f695013">insert</link> (android.net.Uri uri, android.content.ContentValues initialValues)</para>
+</listitem>
+            <listitem><para>int <link linkend="_classmono_1_1_mono_runtime_provider_1a20fd29ee82e2fbc6ca8e3a7d53e89b9f">delete</link> (android.net.Uri uri, String where, String[] whereArgs)</para>
+</listitem>
+            <listitem><para>int <link linkend="_classmono_1_1_mono_runtime_provider_1a70342b01de97d26ab215db961f4a714c">update</link> (android.net.Uri uri, android.content.ContentValues values, String where, String[] whereArgs)</para>
+</listitem>
+        </itemizedlist>
+</simplesect>
+<section>
+<title>Detailed Description</title>
+<para>
+Definition at line 5 of file MonoRuntimeProvider.java.</para>
+</section>
+<section>
+<title>Constructor &amp; Destructor Documentation</title>
+<anchor xml:id="_classmono_1_1_mono_runtime_provider_1a7a06cc58b7a7891aa5f1e523206a5249"/>    <section>
+    <title>MonoRuntimeProvider()<computeroutput>[1/4]</computeroutput></title>
+<indexterm><primary>MonoRuntimeProvider</primary><secondary>mono.MonoRuntimeProvider</secondary></indexterm>
+<indexterm><primary>mono.MonoRuntimeProvider</primary><secondary>MonoRuntimeProvider</secondary></indexterm>
+<para><computeroutput>mono.MonoRuntimeProvider.MonoRuntimeProvider ( )</computeroutput></para><para>
+Definition at line 8 of file MonoRuntimeProvider.java.</para>
+    </section><anchor xml:id="_classmono_1_1_mono_runtime_provider_1a7a06cc58b7a7891aa5f1e523206a5249"/>    <section>
+    <title>MonoRuntimeProvider()<computeroutput>[2/4]</computeroutput></title>
+<indexterm><primary>MonoRuntimeProvider</primary><secondary>mono.MonoRuntimeProvider</secondary></indexterm>
+<indexterm><primary>mono.MonoRuntimeProvider</primary><secondary>MonoRuntimeProvider</secondary></indexterm>
+<para><computeroutput>mono.MonoRuntimeProvider.MonoRuntimeProvider ( )</computeroutput></para><para>
+Definition at line 8 of file MonoRuntimeProvider.java.</para>
+    </section><anchor xml:id="_classmono_1_1_mono_runtime_provider_1a7a06cc58b7a7891aa5f1e523206a5249"/>    <section>
+    <title>MonoRuntimeProvider()<computeroutput>[3/4]</computeroutput></title>
+<indexterm><primary>MonoRuntimeProvider</primary><secondary>mono.MonoRuntimeProvider</secondary></indexterm>
+<indexterm><primary>mono.MonoRuntimeProvider</primary><secondary>MonoRuntimeProvider</secondary></indexterm>
+<para><computeroutput>mono.MonoRuntimeProvider.MonoRuntimeProvider ( )</computeroutput></para><para>
+Definition at line 8 of file MonoRuntimeProvider.java.</para>
+    </section><anchor xml:id="_classmono_1_1_mono_runtime_provider_1a7a06cc58b7a7891aa5f1e523206a5249"/>    <section>
+    <title>MonoRuntimeProvider()<computeroutput>[4/4]</computeroutput></title>
+<indexterm><primary>MonoRuntimeProvider</primary><secondary>mono.MonoRuntimeProvider</secondary></indexterm>
+<indexterm><primary>mono.MonoRuntimeProvider</primary><secondary>MonoRuntimeProvider</secondary></indexterm>
+<para><computeroutput>mono.MonoRuntimeProvider.MonoRuntimeProvider ( )</computeroutput></para><para>
+Definition at line 8 of file MonoRuntimeProvider.java.</para>
+</section>
+</section>
+<section>
+<title>Member Function Documentation</title>
+<anchor xml:id="_classmono_1_1_mono_runtime_provider_1a4fb9f5a38268fb642d211e7ef0fd9228"/>    <section>
+    <title>attachInfo()<computeroutput>[1/4]</computeroutput></title>
+<indexterm><primary>attachInfo</primary><secondary>mono.MonoRuntimeProvider</secondary></indexterm>
+<indexterm><primary>mono.MonoRuntimeProvider</primary><secondary>attachInfo</secondary></indexterm>
+<para><computeroutput>void mono.MonoRuntimeProvider.attachInfo (android.content.Context context, android.content.pm.ProviderInfo info)</computeroutput></para><para>
+Definition at line 19 of file MonoRuntimeProvider.java.</para>
+    </section><anchor xml:id="_classmono_1_1_mono_runtime_provider_1a4fb9f5a38268fb642d211e7ef0fd9228"/>    <section>
+    <title>attachInfo()<computeroutput>[2/4]</computeroutput></title>
+<indexterm><primary>attachInfo</primary><secondary>mono.MonoRuntimeProvider</secondary></indexterm>
+<indexterm><primary>mono.MonoRuntimeProvider</primary><secondary>attachInfo</secondary></indexterm>
+<para><computeroutput>void mono.MonoRuntimeProvider.attachInfo (android.content.Context context, android.content.pm.ProviderInfo info)</computeroutput></para><para>
+Definition at line 19 of file MonoRuntimeProvider.java.</para>
+    </section><anchor xml:id="_classmono_1_1_mono_runtime_provider_1a4fb9f5a38268fb642d211e7ef0fd9228"/>    <section>
+    <title>attachInfo()<computeroutput>[3/4]</computeroutput></title>
+<indexterm><primary>attachInfo</primary><secondary>mono.MonoRuntimeProvider</secondary></indexterm>
+<indexterm><primary>mono.MonoRuntimeProvider</primary><secondary>attachInfo</secondary></indexterm>
+<para><computeroutput>void mono.MonoRuntimeProvider.attachInfo (android.content.Context context, android.content.pm.ProviderInfo info)</computeroutput></para><para>
+Definition at line 19 of file MonoRuntimeProvider.java.</para>
+    </section><anchor xml:id="_classmono_1_1_mono_runtime_provider_1a4fb9f5a38268fb642d211e7ef0fd9228"/>    <section>
+    <title>attachInfo()<computeroutput>[4/4]</computeroutput></title>
+<indexterm><primary>attachInfo</primary><secondary>mono.MonoRuntimeProvider</secondary></indexterm>
+<indexterm><primary>mono.MonoRuntimeProvider</primary><secondary>attachInfo</secondary></indexterm>
+<para><computeroutput>void mono.MonoRuntimeProvider.attachInfo (android.content.Context context, android.content.pm.ProviderInfo info)</computeroutput></para><para>
+Definition at line 19 of file MonoRuntimeProvider.java.</para>
+    </section><anchor xml:id="_classmono_1_1_mono_runtime_provider_1a20fd29ee82e2fbc6ca8e3a7d53e89b9f"/>    <section>
+    <title>delete()<computeroutput>[1/4]</computeroutput></title>
+<indexterm><primary>delete</primary><secondary>mono.MonoRuntimeProvider</secondary></indexterm>
+<indexterm><primary>mono.MonoRuntimeProvider</primary><secondary>delete</secondary></indexterm>
+<para><computeroutput>int mono.MonoRuntimeProvider.delete (android.net.Uri uri, String where, String[] whereArgs)</computeroutput></para><para>
+Definition at line 59 of file MonoRuntimeProvider.java.</para>
+    </section><anchor xml:id="_classmono_1_1_mono_runtime_provider_1a20fd29ee82e2fbc6ca8e3a7d53e89b9f"/>    <section>
+    <title>delete()<computeroutput>[2/4]</computeroutput></title>
+<indexterm><primary>delete</primary><secondary>mono.MonoRuntimeProvider</secondary></indexterm>
+<indexterm><primary>mono.MonoRuntimeProvider</primary><secondary>delete</secondary></indexterm>
+<para><computeroutput>int mono.MonoRuntimeProvider.delete (android.net.Uri uri, String where, String[] whereArgs)</computeroutput></para><para>
+Definition at line 59 of file MonoRuntimeProvider.java.</para>
+    </section><anchor xml:id="_classmono_1_1_mono_runtime_provider_1a20fd29ee82e2fbc6ca8e3a7d53e89b9f"/>    <section>
+    <title>delete()<computeroutput>[3/4]</computeroutput></title>
+<indexterm><primary>delete</primary><secondary>mono.MonoRuntimeProvider</secondary></indexterm>
+<indexterm><primary>mono.MonoRuntimeProvider</primary><secondary>delete</secondary></indexterm>
+<para><computeroutput>int mono.MonoRuntimeProvider.delete (android.net.Uri uri, String where, String[] whereArgs)</computeroutput></para><para>
+Definition at line 59 of file MonoRuntimeProvider.java.</para>
+    </section><anchor xml:id="_classmono_1_1_mono_runtime_provider_1a20fd29ee82e2fbc6ca8e3a7d53e89b9f"/>    <section>
+    <title>delete()<computeroutput>[4/4]</computeroutput></title>
+<indexterm><primary>delete</primary><secondary>mono.MonoRuntimeProvider</secondary></indexterm>
+<indexterm><primary>mono.MonoRuntimeProvider</primary><secondary>delete</secondary></indexterm>
+<para><computeroutput>int mono.MonoRuntimeProvider.delete (android.net.Uri uri, String where, String[] whereArgs)</computeroutput></para><para>
+Definition at line 59 of file MonoRuntimeProvider.java.</para>
+    </section><anchor xml:id="_classmono_1_1_mono_runtime_provider_1ab7978ccd79378f86aabc9a1997bff129"/>    <section>
+    <title>getType()<computeroutput>[1/4]</computeroutput></title>
+<indexterm><primary>getType</primary><secondary>mono.MonoRuntimeProvider</secondary></indexterm>
+<indexterm><primary>mono.MonoRuntimeProvider</primary><secondary>getType</secondary></indexterm>
+<para><computeroutput>String mono.MonoRuntimeProvider.getType (android.net.Uri uri)</computeroutput></para><para>
+Definition at line 47 of file MonoRuntimeProvider.java.</para>
+    </section><anchor xml:id="_classmono_1_1_mono_runtime_provider_1ab7978ccd79378f86aabc9a1997bff129"/>    <section>
+    <title>getType()<computeroutput>[2/4]</computeroutput></title>
+<indexterm><primary>getType</primary><secondary>mono.MonoRuntimeProvider</secondary></indexterm>
+<indexterm><primary>mono.MonoRuntimeProvider</primary><secondary>getType</secondary></indexterm>
+<para><computeroutput>String mono.MonoRuntimeProvider.getType (android.net.Uri uri)</computeroutput></para><para>
+Definition at line 47 of file MonoRuntimeProvider.java.</para>
+    </section><anchor xml:id="_classmono_1_1_mono_runtime_provider_1ab7978ccd79378f86aabc9a1997bff129"/>    <section>
+    <title>getType()<computeroutput>[3/4]</computeroutput></title>
+<indexterm><primary>getType</primary><secondary>mono.MonoRuntimeProvider</secondary></indexterm>
+<indexterm><primary>mono.MonoRuntimeProvider</primary><secondary>getType</secondary></indexterm>
+<para><computeroutput>String mono.MonoRuntimeProvider.getType (android.net.Uri uri)</computeroutput></para><para>
+Definition at line 47 of file MonoRuntimeProvider.java.</para>
+    </section><anchor xml:id="_classmono_1_1_mono_runtime_provider_1ab7978ccd79378f86aabc9a1997bff129"/>    <section>
+    <title>getType()<computeroutput>[4/4]</computeroutput></title>
+<indexterm><primary>getType</primary><secondary>mono.MonoRuntimeProvider</secondary></indexterm>
+<indexterm><primary>mono.MonoRuntimeProvider</primary><secondary>getType</secondary></indexterm>
+<para><computeroutput>String mono.MonoRuntimeProvider.getType (android.net.Uri uri)</computeroutput></para><para>
+Definition at line 47 of file MonoRuntimeProvider.java.</para>
+    </section><anchor xml:id="_classmono_1_1_mono_runtime_provider_1afbf0b2575d76132ac379064f3f695013"/>    <section>
+    <title>insert()<computeroutput>[1/4]</computeroutput></title>
+<indexterm><primary>insert</primary><secondary>mono.MonoRuntimeProvider</secondary></indexterm>
+<indexterm><primary>mono.MonoRuntimeProvider</primary><secondary>insert</secondary></indexterm>
+<para><computeroutput>android.net.Uri mono.MonoRuntimeProvider.insert (android.net.Uri uri, android.content.ContentValues initialValues)</computeroutput></para><para>
+Definition at line 53 of file MonoRuntimeProvider.java.</para>
+    </section><anchor xml:id="_classmono_1_1_mono_runtime_provider_1afbf0b2575d76132ac379064f3f695013"/>    <section>
+    <title>insert()<computeroutput>[2/4]</computeroutput></title>
+<indexterm><primary>insert</primary><secondary>mono.MonoRuntimeProvider</secondary></indexterm>
+<indexterm><primary>mono.MonoRuntimeProvider</primary><secondary>insert</secondary></indexterm>
+<para><computeroutput>android.net.Uri mono.MonoRuntimeProvider.insert (android.net.Uri uri, android.content.ContentValues initialValues)</computeroutput></para><para>
+Definition at line 53 of file MonoRuntimeProvider.java.</para>
+    </section><anchor xml:id="_classmono_1_1_mono_runtime_provider_1afbf0b2575d76132ac379064f3f695013"/>    <section>
+    <title>insert()<computeroutput>[3/4]</computeroutput></title>
+<indexterm><primary>insert</primary><secondary>mono.MonoRuntimeProvider</secondary></indexterm>
+<indexterm><primary>mono.MonoRuntimeProvider</primary><secondary>insert</secondary></indexterm>
+<para><computeroutput>android.net.Uri mono.MonoRuntimeProvider.insert (android.net.Uri uri, android.content.ContentValues initialValues)</computeroutput></para><para>
+Definition at line 53 of file MonoRuntimeProvider.java.</para>
+    </section><anchor xml:id="_classmono_1_1_mono_runtime_provider_1afbf0b2575d76132ac379064f3f695013"/>    <section>
+    <title>insert()<computeroutput>[4/4]</computeroutput></title>
+<indexterm><primary>insert</primary><secondary>mono.MonoRuntimeProvider</secondary></indexterm>
+<indexterm><primary>mono.MonoRuntimeProvider</primary><secondary>insert</secondary></indexterm>
+<para><computeroutput>android.net.Uri mono.MonoRuntimeProvider.insert (android.net.Uri uri, android.content.ContentValues initialValues)</computeroutput></para><para>
+Definition at line 53 of file MonoRuntimeProvider.java.</para>
+    </section><anchor xml:id="_classmono_1_1_mono_runtime_provider_1ac5640d3ce8472accc1953fe591e683c3"/>    <section>
+    <title>onCreate()<computeroutput>[1/4]</computeroutput></title>
+<indexterm><primary>onCreate</primary><secondary>mono.MonoRuntimeProvider</secondary></indexterm>
+<indexterm><primary>mono.MonoRuntimeProvider</primary><secondary>onCreate</secondary></indexterm>
+<para><computeroutput>boolean mono.MonoRuntimeProvider.onCreate ( )</computeroutput></para><para>
+Definition at line 13 of file MonoRuntimeProvider.java.</para>
+    </section><anchor xml:id="_classmono_1_1_mono_runtime_provider_1ac5640d3ce8472accc1953fe591e683c3"/>    <section>
+    <title>onCreate()<computeroutput>[2/4]</computeroutput></title>
+<indexterm><primary>onCreate</primary><secondary>mono.MonoRuntimeProvider</secondary></indexterm>
+<indexterm><primary>mono.MonoRuntimeProvider</primary><secondary>onCreate</secondary></indexterm>
+<para><computeroutput>boolean mono.MonoRuntimeProvider.onCreate ( )</computeroutput></para><para>
+Definition at line 13 of file MonoRuntimeProvider.java.</para>
+    </section><anchor xml:id="_classmono_1_1_mono_runtime_provider_1ac5640d3ce8472accc1953fe591e683c3"/>    <section>
+    <title>onCreate()<computeroutput>[3/4]</computeroutput></title>
+<indexterm><primary>onCreate</primary><secondary>mono.MonoRuntimeProvider</secondary></indexterm>
+<indexterm><primary>mono.MonoRuntimeProvider</primary><secondary>onCreate</secondary></indexterm>
+<para><computeroutput>boolean mono.MonoRuntimeProvider.onCreate ( )</computeroutput></para><para>
+Definition at line 13 of file MonoRuntimeProvider.java.</para>
+    </section><anchor xml:id="_classmono_1_1_mono_runtime_provider_1ac5640d3ce8472accc1953fe591e683c3"/>    <section>
+    <title>onCreate()<computeroutput>[4/4]</computeroutput></title>
+<indexterm><primary>onCreate</primary><secondary>mono.MonoRuntimeProvider</secondary></indexterm>
+<indexterm><primary>mono.MonoRuntimeProvider</primary><secondary>onCreate</secondary></indexterm>
+<para><computeroutput>boolean mono.MonoRuntimeProvider.onCreate ( )</computeroutput></para><para>
+Definition at line 13 of file MonoRuntimeProvider.java.</para>
+    </section><anchor xml:id="_classmono_1_1_mono_runtime_provider_1a5f038667e16324d54f940968f4abd86f"/>    <section>
+    <title>query()<computeroutput>[1/4]</computeroutput></title>
+<indexterm><primary>query</primary><secondary>mono.MonoRuntimeProvider</secondary></indexterm>
+<indexterm><primary>mono.MonoRuntimeProvider</primary><secondary>query</secondary></indexterm>
+<para><computeroutput>android.database.Cursor mono.MonoRuntimeProvider.query (android.net.Uri uri, String[] projection, String selection, String[] selectionArgs, String sortOrder)</computeroutput></para><para>
+Definition at line 41 of file MonoRuntimeProvider.java.</para>
+    </section><anchor xml:id="_classmono_1_1_mono_runtime_provider_1a5f038667e16324d54f940968f4abd86f"/>    <section>
+    <title>query()<computeroutput>[2/4]</computeroutput></title>
+<indexterm><primary>query</primary><secondary>mono.MonoRuntimeProvider</secondary></indexterm>
+<indexterm><primary>mono.MonoRuntimeProvider</primary><secondary>query</secondary></indexterm>
+<para><computeroutput>android.database.Cursor mono.MonoRuntimeProvider.query (android.net.Uri uri, String[] projection, String selection, String[] selectionArgs, String sortOrder)</computeroutput></para><para>
+Definition at line 41 of file MonoRuntimeProvider.java.</para>
+    </section><anchor xml:id="_classmono_1_1_mono_runtime_provider_1a5f038667e16324d54f940968f4abd86f"/>    <section>
+    <title>query()<computeroutput>[3/4]</computeroutput></title>
+<indexterm><primary>query</primary><secondary>mono.MonoRuntimeProvider</secondary></indexterm>
+<indexterm><primary>mono.MonoRuntimeProvider</primary><secondary>query</secondary></indexterm>
+<para><computeroutput>android.database.Cursor mono.MonoRuntimeProvider.query (android.net.Uri uri, String[] projection, String selection, String[] selectionArgs, String sortOrder)</computeroutput></para><para>
+Definition at line 41 of file MonoRuntimeProvider.java.</para>
+    </section><anchor xml:id="_classmono_1_1_mono_runtime_provider_1a5f038667e16324d54f940968f4abd86f"/>    <section>
+    <title>query()<computeroutput>[4/4]</computeroutput></title>
+<indexterm><primary>query</primary><secondary>mono.MonoRuntimeProvider</secondary></indexterm>
+<indexterm><primary>mono.MonoRuntimeProvider</primary><secondary>query</secondary></indexterm>
+<para><computeroutput>android.database.Cursor mono.MonoRuntimeProvider.query (android.net.Uri uri, String[] projection, String selection, String[] selectionArgs, String sortOrder)</computeroutput></para><para>
+Definition at line 41 of file MonoRuntimeProvider.java.</para>
+    </section><anchor xml:id="_classmono_1_1_mono_runtime_provider_1a70342b01de97d26ab215db961f4a714c"/>    <section>
+    <title>update()<computeroutput>[1/4]</computeroutput></title>
+<indexterm><primary>update</primary><secondary>mono.MonoRuntimeProvider</secondary></indexterm>
+<indexterm><primary>mono.MonoRuntimeProvider</primary><secondary>update</secondary></indexterm>
+<para><computeroutput>int mono.MonoRuntimeProvider.update (android.net.Uri uri, android.content.ContentValues values, String where, String[] whereArgs)</computeroutput></para><para>
+Definition at line 65 of file MonoRuntimeProvider.java.</para>
+    </section><anchor xml:id="_classmono_1_1_mono_runtime_provider_1a70342b01de97d26ab215db961f4a714c"/>    <section>
+    <title>update()<computeroutput>[2/4]</computeroutput></title>
+<indexterm><primary>update</primary><secondary>mono.MonoRuntimeProvider</secondary></indexterm>
+<indexterm><primary>mono.MonoRuntimeProvider</primary><secondary>update</secondary></indexterm>
+<para><computeroutput>int mono.MonoRuntimeProvider.update (android.net.Uri uri, android.content.ContentValues values, String where, String[] whereArgs)</computeroutput></para><para>
+Definition at line 65 of file MonoRuntimeProvider.java.</para>
+    </section><anchor xml:id="_classmono_1_1_mono_runtime_provider_1a70342b01de97d26ab215db961f4a714c"/>    <section>
+    <title>update()<computeroutput>[3/4]</computeroutput></title>
+<indexterm><primary>update</primary><secondary>mono.MonoRuntimeProvider</secondary></indexterm>
+<indexterm><primary>mono.MonoRuntimeProvider</primary><secondary>update</secondary></indexterm>
+<para><computeroutput>int mono.MonoRuntimeProvider.update (android.net.Uri uri, android.content.ContentValues values, String where, String[] whereArgs)</computeroutput></para><para>
+Definition at line 65 of file MonoRuntimeProvider.java.</para>
+    </section><anchor xml:id="_classmono_1_1_mono_runtime_provider_1a70342b01de97d26ab215db961f4a714c"/>    <section>
+    <title>update()<computeroutput>[4/4]</computeroutput></title>
+<indexterm><primary>update</primary><secondary>mono.MonoRuntimeProvider</secondary></indexterm>
+<indexterm><primary>mono.MonoRuntimeProvider</primary><secondary>update</secondary></indexterm>
+<para><computeroutput>int mono.MonoRuntimeProvider.update (android.net.Uri uri, android.content.ContentValues values, String where, String[] whereArgs)</computeroutput></para><para>
+Definition at line 65 of file MonoRuntimeProvider.java.</para>
+</section>
+<para>
+The documentation for this class was generated from the following file:</para>
+Application Green Quake.Android/obj/Debug/100/android/src/mono/<link linkend="__debug_2100_2android_2src_2mono_2_mono_runtime_provider_8java">MonoRuntimeProvider.java</link></section>
+</section>

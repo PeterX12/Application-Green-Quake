@@ -1,0 +1,81 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.9.1" xml:lang="en-US">
+  <compounddef id="_release_2110_2android_2src_2crc64350623dcb797cc38_2_android_http_client_adapter_8java" kind="file" language="Java">
+    <compoundname>AndroidHttpClientAdapter.java</compoundname>
+    <innerclass refid="classcrc64350623dcb797cc38_1_1_android_http_client_adapter" prot="public">crc64350623dcb797cc38::AndroidHttpClientAdapter</innerclass>
+    <innernamespace refid="namespacecrc64350623dcb797cc38">crc64350623dcb797cc38</innernamespace>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <programlisting>
+<codeline lineno="1"><highlight class="keyword">package<sp/></highlight><highlight class="normal">crc64350623dcb797cc38;</highlight></codeline>
+<codeline lineno="2"><highlight class="normal"></highlight></codeline>
+<codeline lineno="3"><highlight class="normal"></highlight></codeline>
+<codeline lineno="4"><highlight class="normal"></highlight><highlight class="keyword">public</highlight><highlight class="normal"><sp/></highlight><highlight class="keyword">class<sp/></highlight><highlight class="normal">AndroidHttpClientAdapter</highlight></codeline>
+<codeline lineno="5"><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">extends</highlight><highlight class="normal"><sp/>java.lang.Object</highlight></codeline>
+<codeline lineno="6"><highlight class="normal"><sp/><sp/><sp/><sp/>implements</highlight></codeline>
+<codeline lineno="7"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>mono.android.IGCUserPeer,</highlight></codeline>
+<codeline lineno="8"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>com.microsoft.appcenter.http.HttpClient,</highlight></codeline>
+<codeline lineno="9"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>java.io.Closeable</highlight></codeline>
+<codeline lineno="10"><highlight class="normal">{</highlight></codeline>
+<codeline lineno="12"><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">public</highlight><highlight class="normal"><sp/></highlight><highlight class="keyword">static</highlight><highlight class="normal"><sp/></highlight><highlight class="keyword">final</highlight><highlight class="normal"><sp/>String<sp/><ref refid="classcrc64350623dcb797cc38_1_1_android_http_client_adapter_1ac821a4cb9e60dd7020a4fc02c111efb2" kindref="member">__md_methods</ref>;</highlight></codeline>
+<codeline lineno="13"><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">static</highlight><highlight class="normal"><sp/>{</highlight></codeline>
+<codeline lineno="14"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><ref refid="classcrc64350623dcb797cc38_1_1_android_http_client_adapter_1ac821a4cb9e60dd7020a4fc02c111efb2" kindref="member">__md_methods</ref><sp/>=<sp/></highlight></codeline>
+<codeline lineno="15"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="stringliteral">&quot;n_callAsync:(Ljava/lang/String;Ljava/lang/String;Ljava/util/Map;Lcom/microsoft/appcenter/http/HttpClient$CallTemplate;Lcom/microsoft/appcenter/http/ServiceCallback;)Lcom/microsoft/appcenter/http/ServiceCall;:GetCallAsync_Ljava_lang_String_Ljava_lang_String_Ljava_util_Map_Lcom_microsoft_appcenter_http_HttpClient_CallTemplate_Lcom_microsoft_appcenter_http_ServiceCallback_Handler:Com.Microsoft.Appcenter.Http.IAndroidHttpClientInvoker,<sp/>Microsoft.AppCenter.Android.Bindings\n&quot;</highlight><highlight class="normal"><sp/>+</highlight></codeline>
+<codeline lineno="16"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="stringliteral">&quot;n_reopen:()V:GetReopenHandler:Com.Microsoft.Appcenter.Http.IAndroidHttpClientInvoker,<sp/>Microsoft.AppCenter.Android.Bindings\n&quot;</highlight><highlight class="normal"><sp/>+</highlight></codeline>
+<codeline lineno="17"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="stringliteral">&quot;n_close:()V:GetCloseHandler:Java.IO.ICloseableInvoker,<sp/>Mono.Android,<sp/>Version=0.0.0.0,<sp/>Culture=neutral,<sp/>PublicKeyToken=null\n&quot;</highlight><highlight class="normal"><sp/>+</highlight></codeline>
+<codeline lineno="18"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="stringliteral">&quot;&quot;</highlight><highlight class="normal">;</highlight></codeline>
+<codeline lineno="19"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>mono.android.Runtime.register<sp/>(</highlight><highlight class="stringliteral">&quot;Microsoft.AppCenter.AndroidHttpClientAdapter,<sp/>Microsoft.AppCenter&quot;</highlight><highlight class="normal">,<sp/><ref refid="classcrc64350623dcb797cc38_1_1_android_http_client_adapter_1a8be04b9a1ce43cc393bc380e89253d67" kindref="member">AndroidHttpClientAdapter</ref>.class,<sp/><ref refid="classcrc64350623dcb797cc38_1_1_android_http_client_adapter_1ac821a4cb9e60dd7020a4fc02c111efb2" kindref="member">__md_methods</ref>);</highlight></codeline>
+<codeline lineno="20"><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline lineno="21"><highlight class="normal"></highlight></codeline>
+<codeline lineno="22"><highlight class="normal"></highlight></codeline>
+<codeline lineno="23" refid="classcrc64350623dcb797cc38_1_1_android_http_client_adapter_1a8be04b9a1ce43cc393bc380e89253d67" refkind="member"><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">public</highlight><highlight class="normal"><sp/><ref refid="classcrc64350623dcb797cc38_1_1_android_http_client_adapter_1a8be04b9a1ce43cc393bc380e89253d67" kindref="member">AndroidHttpClientAdapter</ref><sp/>()</highlight></codeline>
+<codeline lineno="24"><highlight class="normal"><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline lineno="25"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>super<sp/>();</highlight></codeline>
+<codeline lineno="26"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">if</highlight><highlight class="normal"><sp/>(getClass<sp/>()<sp/>==<sp/><ref refid="classcrc64350623dcb797cc38_1_1_android_http_client_adapter" kindref="compound">AndroidHttpClientAdapter</ref>.class)</highlight></codeline>
+<codeline lineno="27"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>mono.android.TypeManager.Activate<sp/>(</highlight><highlight class="stringliteral">&quot;Microsoft.AppCenter.AndroidHttpClientAdapter,<sp/>Microsoft.AppCenter&quot;</highlight><highlight class="normal">,<sp/></highlight><highlight class="stringliteral">&quot;&quot;</highlight><highlight class="normal">,<sp/></highlight><highlight class="keyword">this</highlight><highlight class="normal">,<sp/></highlight><highlight class="keyword">new</highlight><highlight class="normal"><sp/>java.lang.Object[]<sp/>{<sp/><sp/>});</highlight></codeline>
+<codeline lineno="28"><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline lineno="29"><highlight class="normal"></highlight></codeline>
+<codeline lineno="30"><highlight class="normal"></highlight></codeline>
+<codeline lineno="31" refid="classcrc64350623dcb797cc38_1_1_android_http_client_adapter_1a12138c7565f5ac3527de4a24dd097743" refkind="member"><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">public</highlight><highlight class="normal"><sp/>com.microsoft.appcenter.http.ServiceCall<sp/><ref refid="classcrc64350623dcb797cc38_1_1_android_http_client_adapter_1a12138c7565f5ac3527de4a24dd097743" kindref="member">callAsync</ref><sp/>(java.lang.String<sp/>p0,<sp/>java.lang.String<sp/>p1,<sp/>java.util.Map<sp/>p2,<sp/>com.microsoft.appcenter.http.HttpClient.CallTemplate<sp/>p3,<sp/>com.microsoft.appcenter.http.ServiceCallback<sp/>p4)</highlight></codeline>
+<codeline lineno="32"><highlight class="normal"><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline lineno="33"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">return</highlight><highlight class="normal"><sp/>n_callAsync<sp/>(p0,<sp/>p1,<sp/>p2,<sp/>p3,<sp/>p4);</highlight></codeline>
+<codeline lineno="34"><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline lineno="35"><highlight class="normal"></highlight></codeline>
+<codeline lineno="36"><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">private</highlight><highlight class="normal"><sp/>native<sp/>com.microsoft.appcenter.http.ServiceCall<sp/>n_callAsync<sp/>(java.lang.String<sp/>p0,<sp/>java.lang.String<sp/>p1,<sp/>java.util.Map<sp/>p2,<sp/>com.microsoft.appcenter.http.HttpClient.CallTemplate<sp/>p3,<sp/>com.microsoft.appcenter.http.ServiceCallback<sp/>p4);</highlight></codeline>
+<codeline lineno="37"><highlight class="normal"></highlight></codeline>
+<codeline lineno="38"><highlight class="normal"></highlight></codeline>
+<codeline lineno="39" refid="classcrc64350623dcb797cc38_1_1_android_http_client_adapter_1a34e9d7d9bb2c34606d4b3048ad63097e" refkind="member"><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">public</highlight><highlight class="normal"><sp/></highlight><highlight class="keywordtype">void</highlight><highlight class="normal"><sp/><ref refid="classcrc64350623dcb797cc38_1_1_android_http_client_adapter_1a34e9d7d9bb2c34606d4b3048ad63097e" kindref="member">reopen</ref><sp/>()</highlight></codeline>
+<codeline lineno="40"><highlight class="normal"><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline lineno="41"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>n_reopen<sp/>();</highlight></codeline>
+<codeline lineno="42"><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline lineno="43"><highlight class="normal"></highlight></codeline>
+<codeline lineno="44"><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">private</highlight><highlight class="normal"><sp/>native<sp/></highlight><highlight class="keywordtype">void</highlight><highlight class="normal"><sp/>n_reopen<sp/>();</highlight></codeline>
+<codeline lineno="45"><highlight class="normal"></highlight></codeline>
+<codeline lineno="46"><highlight class="normal"></highlight></codeline>
+<codeline lineno="47" refid="classcrc64350623dcb797cc38_1_1_android_http_client_adapter_1a64303b7f0834deda5f968a24a8653651" refkind="member"><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">public</highlight><highlight class="normal"><sp/></highlight><highlight class="keywordtype">void</highlight><highlight class="normal"><sp/><ref refid="classcrc64350623dcb797cc38_1_1_android_http_client_adapter_1a64303b7f0834deda5f968a24a8653651" kindref="member">close</ref><sp/>()</highlight></codeline>
+<codeline lineno="48"><highlight class="normal"><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline lineno="49"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>n_close<sp/>();</highlight></codeline>
+<codeline lineno="50"><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline lineno="51"><highlight class="normal"></highlight></codeline>
+<codeline lineno="52"><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">private</highlight><highlight class="normal"><sp/>native<sp/></highlight><highlight class="keywordtype">void</highlight><highlight class="normal"><sp/>n_close<sp/>();</highlight></codeline>
+<codeline lineno="53"><highlight class="normal"></highlight></codeline>
+<codeline lineno="54"><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">private</highlight><highlight class="normal"><sp/>java.util.ArrayList<sp/>refList;</highlight></codeline>
+<codeline lineno="55" refid="classcrc64350623dcb797cc38_1_1_android_http_client_adapter_1a0263e2c5d1c0a0ce53cd844a87df875a" refkind="member"><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">public</highlight><highlight class="normal"><sp/></highlight><highlight class="keywordtype">void</highlight><highlight class="normal"><sp/><ref refid="classcrc64350623dcb797cc38_1_1_android_http_client_adapter_1a0263e2c5d1c0a0ce53cd844a87df875a" kindref="member">monodroidAddReference</ref><sp/>(java.lang.Object<sp/>obj)</highlight></codeline>
+<codeline lineno="56"><highlight class="normal"><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline lineno="57"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">if</highlight><highlight class="normal"><sp/>(refList<sp/>==<sp/></highlight><highlight class="keyword">null</highlight><highlight class="normal">)</highlight></codeline>
+<codeline lineno="58"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>refList<sp/>=<sp/></highlight><highlight class="keyword">new</highlight><highlight class="normal"><sp/>java.util.ArrayList<sp/>();</highlight></codeline>
+<codeline lineno="59"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>refList.add<sp/>(obj);</highlight></codeline>
+<codeline lineno="60"><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline lineno="61"><highlight class="normal"></highlight></codeline>
+<codeline lineno="62" refid="classcrc64350623dcb797cc38_1_1_android_http_client_adapter_1a1453c264cbb9cefbb3c66aef880c415d" refkind="member"><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">public</highlight><highlight class="normal"><sp/></highlight><highlight class="keywordtype">void</highlight><highlight class="normal"><sp/><ref refid="classcrc64350623dcb797cc38_1_1_android_http_client_adapter_1a1453c264cbb9cefbb3c66aef880c415d" kindref="member">monodroidClearReferences</ref><sp/>()</highlight></codeline>
+<codeline lineno="63"><highlight class="normal"><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline lineno="64"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">if</highlight><highlight class="normal"><sp/>(refList<sp/>!=<sp/></highlight><highlight class="keyword">null</highlight><highlight class="normal">)</highlight></codeline>
+<codeline lineno="65"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>refList.clear<sp/>();</highlight></codeline>
+<codeline lineno="66"><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline lineno="67"><highlight class="normal">}</highlight></codeline>
+    </programlisting>
+    <location file="Application Green Quake.Android/obj/Release/110/android/src/crc64350623dcb797cc38/AndroidHttpClientAdapter.java"/>
+  </compounddef>
+</doxygen>

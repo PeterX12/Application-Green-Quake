@@ -1,0 +1,1248 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.9.1" xml:lang="en-US">
+  <compounddef id="class_application___green___quake_1_1_view_models_1_1_get_achievements_data" kind="class" language="C#" prot="public">
+    <compoundname>Application_Green_Quake::ViewModels::GetAchievementsData</compoundname>
+      <sectiondef kind="private-attrib">
+      <memberdef kind="variable" id="class_application___green___quake_1_1_view_models_1_1_get_achievements_data_1a0ed062ccdea1c4875b331879811121f1" prot="private" static="no" mutable="no">
+        <type><ref refid="interface_application___green___quake_1_1_i_auth" kindref="compound">IAuth</ref></type>
+        <definition>IAuth Application_Green_Quake.ViewModels.GetAchievementsData.auth</definition>
+        <argsstring></argsstring>
+        <name>auth</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake/ViewModels/GetAchievementsData.cs" line="18" column="15" bodyfile="Application Green Quake/ViewModels/GetAchievementsData.cs" bodystart="18" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="public-static-attrib">
+      <memberdef kind="variable" id="class_application___green___quake_1_1_view_models_1_1_get_achievements_data_1a0706e5b7c25d6f4edb786d6b79ac4b30" prot="public" static="yes" mutable="no">
+        <type>int</type>
+        <definition>int Application_Green_Quake.ViewModels.GetAchievementsData.fixCount</definition>
+        <argsstring></argsstring>
+        <name>fixCount</name>
+        <initializer>= 0</initializer>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake/ViewModels/GetAchievementsData.cs" line="19" column="27" bodyfile="Application Green Quake/ViewModels/GetAchievementsData.cs" bodystart="19" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_application___green___quake_1_1_view_models_1_1_get_achievements_data_1af53f44cf1e227f932badbfe6775ee6e0" prot="public" static="yes" mutable="no">
+        <type>int</type>
+        <definition>int Application_Green_Quake.ViewModels.GetAchievementsData.wSShowerHeadCount</definition>
+        <argsstring></argsstring>
+        <name>wSShowerHeadCount</name>
+        <initializer>= 0</initializer>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake/ViewModels/GetAchievementsData.cs" line="20" column="27" bodyfile="Application Green Quake/ViewModels/GetAchievementsData.cs" bodystart="20" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_application___green___quake_1_1_view_models_1_1_get_achievements_data_1a537d55c5c2eabd46641588331686e361" prot="public" static="yes" mutable="no">
+        <type>int</type>
+        <definition>int Application_Green_Quake.ViewModels.GetAchievementsData.waterOverFizzyCount</definition>
+        <argsstring></argsstring>
+        <name>waterOverFizzyCount</name>
+        <initializer>= 0</initializer>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake/ViewModels/GetAchievementsData.cs" line="21" column="27" bodyfile="Application Green Quake/ViewModels/GetAchievementsData.cs" bodystart="21" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_application___green___quake_1_1_view_models_1_1_get_achievements_data_1a465f82b61c9afd181760400e5659563c" prot="public" static="yes" mutable="no">
+        <type>int</type>
+        <definition>int Application_Green_Quake.ViewModels.GetAchievementsData.createGroupCount</definition>
+        <argsstring></argsstring>
+        <name>createGroupCount</name>
+        <initializer>= 0</initializer>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake/ViewModels/GetAchievementsData.cs" line="22" column="27" bodyfile="Application Green Quake/ViewModels/GetAchievementsData.cs" bodystart="22" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_application___green___quake_1_1_view_models_1_1_get_achievements_data_1a79836a9253b7142338d5fd2bbb34a5f9" prot="public" static="yes" mutable="no">
+        <type>int</type>
+        <definition>int Application_Green_Quake.ViewModels.GetAchievementsData.communityCount</definition>
+        <argsstring></argsstring>
+        <name>communityCount</name>
+        <initializer>= 0</initializer>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake/ViewModels/GetAchievementsData.cs" line="23" column="27" bodyfile="Application Green Quake/ViewModels/GetAchievementsData.cs" bodystart="23" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_application___green___quake_1_1_view_models_1_1_get_achievements_data_1a90f7ed787d9810e8f88961478270b584" prot="public" static="yes" mutable="no">
+        <type>int</type>
+        <definition>int Application_Green_Quake.ViewModels.GetAchievementsData.donateCount</definition>
+        <argsstring></argsstring>
+        <name>donateCount</name>
+        <initializer>= 0</initializer>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake/ViewModels/GetAchievementsData.cs" line="24" column="27" bodyfile="Application Green Quake/ViewModels/GetAchievementsData.cs" bodystart="24" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_application___green___quake_1_1_view_models_1_1_get_achievements_data_1ae91796287b678b249fa4302dfa8735ec" prot="public" static="yes" mutable="no">
+        <type>int</type>
+        <definition>int Application_Green_Quake.ViewModels.GetAchievementsData.groupCount</definition>
+        <argsstring></argsstring>
+        <name>groupCount</name>
+        <initializer>= 0</initializer>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake/ViewModels/GetAchievementsData.cs" line="25" column="27" bodyfile="Application Green Quake/ViewModels/GetAchievementsData.cs" bodystart="25" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_application___green___quake_1_1_view_models_1_1_get_achievements_data_1ac363b943cc6a95f382a4de11c6d1562b" prot="public" static="yes" mutable="no">
+        <type>int</type>
+        <definition>int Application_Green_Quake.ViewModels.GetAchievementsData.shareCount</definition>
+        <argsstring></argsstring>
+        <name>shareCount</name>
+        <initializer>= 0</initializer>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake/ViewModels/GetAchievementsData.cs" line="26" column="27" bodyfile="Application Green Quake/ViewModels/GetAchievementsData.cs" bodystart="26" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_application___green___quake_1_1_view_models_1_1_get_achievements_data_1a6265c7547d79214e489a708b192aa8a6" prot="public" static="yes" mutable="no">
+        <type>int</type>
+        <definition>int Application_Green_Quake.ViewModels.GetAchievementsData.awarenessCount</definition>
+        <argsstring></argsstring>
+        <name>awarenessCount</name>
+        <initializer>= 0</initializer>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake/ViewModels/GetAchievementsData.cs" line="27" column="27" bodyfile="Application Green Quake/ViewModels/GetAchievementsData.cs" bodystart="27" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_application___green___quake_1_1_view_models_1_1_get_achievements_data_1a09f670ccf6e6eeae0303d7836ec2562c" prot="public" static="yes" mutable="no">
+        <type>int</type>
+        <definition>int Application_Green_Quake.ViewModels.GetAchievementsData.fullDryerCount</definition>
+        <argsstring></argsstring>
+        <name>fullDryerCount</name>
+        <initializer>= 0</initializer>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake/ViewModels/GetAchievementsData.cs" line="28" column="27" bodyfile="Application Green Quake/ViewModels/GetAchievementsData.cs" bodystart="28" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_application___green___quake_1_1_view_models_1_1_get_achievements_data_1a32965bc2e77134dd7aa473e59b77278a" prot="public" static="yes" mutable="no">
+        <type>int</type>
+        <definition>int Application_Green_Quake.ViewModels.GetAchievementsData.insulateWaterCount</definition>
+        <argsstring></argsstring>
+        <name>insulateWaterCount</name>
+        <initializer>= 0</initializer>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake/ViewModels/GetAchievementsData.cs" line="29" column="27" bodyfile="Application Green Quake/ViewModels/GetAchievementsData.cs" bodystart="29" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_application___green___quake_1_1_view_models_1_1_get_achievements_data_1a6f6514accf094a1a319a6506456ed418" prot="public" static="yes" mutable="no">
+        <type>int</type>
+        <definition>int Application_Green_Quake.ViewModels.GetAchievementsData.efficientThermostatCount</definition>
+        <argsstring></argsstring>
+        <name>efficientThermostatCount</name>
+        <initializer>= 0</initializer>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake/ViewModels/GetAchievementsData.cs" line="30" column="27" bodyfile="Application Green Quake/ViewModels/GetAchievementsData.cs" bodystart="30" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_application___green___quake_1_1_view_models_1_1_get_achievements_data_1aeb7a4ac2be1e2e73c9af42604605443c" prot="public" static="yes" mutable="no">
+        <type>int</type>
+        <definition>int Application_Green_Quake.ViewModels.GetAchievementsData.isolateHomeCount</definition>
+        <argsstring></argsstring>
+        <name>isolateHomeCount</name>
+        <initializer>= 0</initializer>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake/ViewModels/GetAchievementsData.cs" line="31" column="27" bodyfile="Application Green Quake/ViewModels/GetAchievementsData.cs" bodystart="31" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_application___green___quake_1_1_view_models_1_1_get_achievements_data_1aadcf44bbf3536fb8dbe2d68696a6cdaf" prot="public" static="yes" mutable="no">
+        <type>int</type>
+        <definition>int Application_Green_Quake.ViewModels.GetAchievementsData.ledLightBulbCount</definition>
+        <argsstring></argsstring>
+        <name>ledLightBulbCount</name>
+        <initializer>= 0</initializer>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake/ViewModels/GetAchievementsData.cs" line="32" column="27" bodyfile="Application Green Quake/ViewModels/GetAchievementsData.cs" bodystart="32" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_application___green___quake_1_1_view_models_1_1_get_achievements_data_1a24ba085ce20330852ece50938748c57f" prot="public" static="yes" mutable="no">
+        <type>int</type>
+        <definition>int Application_Green_Quake.ViewModels.GetAchievementsData.microwaveCount</definition>
+        <argsstring></argsstring>
+        <name>microwaveCount</name>
+        <initializer>= 0</initializer>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake/ViewModels/GetAchievementsData.cs" line="33" column="27" bodyfile="Application Green Quake/ViewModels/GetAchievementsData.cs" bodystart="33" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_application___green___quake_1_1_view_models_1_1_get_achievements_data_1a59b872386338c0e1285efd9fb1bb1121" prot="public" static="yes" mutable="no">
+        <type>int</type>
+        <definition>int Application_Green_Quake.ViewModels.GetAchievementsData.offSocketCount</definition>
+        <argsstring></argsstring>
+        <name>offSocketCount</name>
+        <initializer>= 0</initializer>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake/ViewModels/GetAchievementsData.cs" line="34" column="27" bodyfile="Application Green Quake/ViewModels/GetAchievementsData.cs" bodystart="34" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_application___green___quake_1_1_view_models_1_1_get_achievements_data_1a3fafe98faa685a33518069ebdd4ed5dc" prot="public" static="yes" mutable="no">
+        <type>int</type>
+        <definition>int Application_Green_Quake.ViewModels.GetAchievementsData.reBatteriesCount</definition>
+        <argsstring></argsstring>
+        <name>reBatteriesCount</name>
+        <initializer>= 0</initializer>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake/ViewModels/GetAchievementsData.cs" line="35" column="27" bodyfile="Application Green Quake/ViewModels/GetAchievementsData.cs" bodystart="35" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_application___green___quake_1_1_view_models_1_1_get_achievements_data_1a2ccee26b51ff6157d18c10334496e96c" prot="public" static="yes" mutable="no">
+        <type>int</type>
+        <definition>int Application_Green_Quake.ViewModels.GetAchievementsData.reBatCount</definition>
+        <argsstring></argsstring>
+        <name>reBatCount</name>
+        <initializer>= 0</initializer>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake/ViewModels/GetAchievementsData.cs" line="36" column="27" bodyfile="Application Green Quake/ViewModels/GetAchievementsData.cs" bodystart="36" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_application___green___quake_1_1_view_models_1_1_get_achievements_data_1af0fc41d4a0b98f5b7b855938d2fb7a65" prot="public" static="yes" mutable="no">
+        <type>int</type>
+        <definition>int Application_Green_Quake.ViewModels.GetAchievementsData.fridgeCount</definition>
+        <argsstring></argsstring>
+        <name>fridgeCount</name>
+        <initializer>= 0</initializer>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake/ViewModels/GetAchievementsData.cs" line="37" column="27" bodyfile="Application Green Quake/ViewModels/GetAchievementsData.cs" bodystart="37" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_application___green___quake_1_1_view_models_1_1_get_achievements_data_1af787ce09392576e2fddbf89c367c20ea" prot="public" static="yes" mutable="no">
+        <type>int</type>
+        <definition>int Application_Green_Quake.ViewModels.GetAchievementsData.draftSealCount</definition>
+        <argsstring></argsstring>
+        <name>draftSealCount</name>
+        <initializer>= 0</initializer>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake/ViewModels/GetAchievementsData.cs" line="38" column="27" bodyfile="Application Green Quake/ViewModels/GetAchievementsData.cs" bodystart="38" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_application___green___quake_1_1_view_models_1_1_get_achievements_data_1aba244fb3806d9cdab02567cab73e87bd" prot="public" static="yes" mutable="no">
+        <type>int</type>
+        <definition>int Application_Green_Quake.ViewModels.GetAchievementsData.ductSealCount</definition>
+        <argsstring></argsstring>
+        <name>ductSealCount</name>
+        <initializer>= 0</initializer>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake/ViewModels/GetAchievementsData.cs" line="39" column="27" bodyfile="Application Green Quake/ViewModels/GetAchievementsData.cs" bodystart="39" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_application___green___quake_1_1_view_models_1_1_get_achievements_data_1aba1418390902d97f9577763b52c9aefe" prot="public" static="yes" mutable="no">
+        <type>int</type>
+        <definition>int Application_Green_Quake.ViewModels.GetAchievementsData.solarPanelCount</definition>
+        <argsstring></argsstring>
+        <name>solarPanelCount</name>
+        <initializer>= 0</initializer>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake/ViewModels/GetAchievementsData.cs" line="40" column="27" bodyfile="Application Green Quake/ViewModels/GetAchievementsData.cs" bodystart="40" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_application___green___quake_1_1_view_models_1_1_get_achievements_data_1aa42959782a7228594a6a9e13d45b858e" prot="public" static="yes" mutable="no">
+        <type>int</type>
+        <definition>int Application_Green_Quake.ViewModels.GetAchievementsData.eatAllCount</definition>
+        <argsstring></argsstring>
+        <name>eatAllCount</name>
+        <initializer>= 0</initializer>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake/ViewModels/GetAchievementsData.cs" line="41" column="27" bodyfile="Application Green Quake/ViewModels/GetAchievementsData.cs" bodystart="41" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_application___green___quake_1_1_view_models_1_1_get_achievements_data_1aabc38033863f259f6a61856c46f78c27" prot="public" static="yes" mutable="no">
+        <type>int</type>
+        <definition>int Application_Green_Quake.ViewModels.GetAchievementsData.foodDeliverCount</definition>
+        <argsstring></argsstring>
+        <name>foodDeliverCount</name>
+        <initializer>= 0</initializer>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake/ViewModels/GetAchievementsData.cs" line="42" column="27" bodyfile="Application Green Quake/ViewModels/GetAchievementsData.cs" bodystart="42" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_application___green___quake_1_1_view_models_1_1_get_achievements_data_1a32fd462e65f8b8d2fd2b5444d9f13089" prot="public" static="yes" mutable="no">
+        <type>int</type>
+        <definition>int Application_Green_Quake.ViewModels.GetAchievementsData.noMeatCount</definition>
+        <argsstring></argsstring>
+        <name>noMeatCount</name>
+        <initializer>= 0</initializer>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake/ViewModels/GetAchievementsData.cs" line="43" column="27" bodyfile="Application Green Quake/ViewModels/GetAchievementsData.cs" bodystart="43" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_application___green___quake_1_1_view_models_1_1_get_achievements_data_1a9677ad3738f006ea38ba31da28ce4b0f" prot="public" static="yes" mutable="no">
+        <type>int</type>
+        <definition>int Application_Green_Quake.ViewModels.GetAchievementsData.ownCoffeeCount</definition>
+        <argsstring></argsstring>
+        <name>ownCoffeeCount</name>
+        <initializer>= 0</initializer>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake/ViewModels/GetAchievementsData.cs" line="44" column="27" bodyfile="Application Green Quake/ViewModels/GetAchievementsData.cs" bodystart="44" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_application___green___quake_1_1_view_models_1_1_get_achievements_data_1a64bc5708a56f034b455e103462daefbb" prot="public" static="yes" mutable="no">
+        <type>int</type>
+        <definition>int Application_Green_Quake.ViewModels.GetAchievementsData.reCoffeeMugCount</definition>
+        <argsstring></argsstring>
+        <name>reCoffeeMugCount</name>
+        <initializer>= 0</initializer>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake/ViewModels/GetAchievementsData.cs" line="45" column="27" bodyfile="Application Green Quake/ViewModels/GetAchievementsData.cs" bodystart="45" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_application___green___quake_1_1_view_models_1_1_get_achievements_data_1a037f9ac09bc293ca5fde79ad3665886d" prot="public" static="yes" mutable="no">
+        <type>int</type>
+        <definition>int Application_Green_Quake.ViewModels.GetAchievementsData.saveLeftOversCount</definition>
+        <argsstring></argsstring>
+        <name>saveLeftOversCount</name>
+        <initializer>= 0</initializer>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake/ViewModels/GetAchievementsData.cs" line="46" column="27" bodyfile="Application Green Quake/ViewModels/GetAchievementsData.cs" bodystart="46" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_application___green___quake_1_1_view_models_1_1_get_achievements_data_1ac5bc9992923b0c99f465d503d7a5b386" prot="public" static="yes" mutable="no">
+        <type>int</type>
+        <definition>int Application_Green_Quake.ViewModels.GetAchievementsData.steelStrawCount</definition>
+        <argsstring></argsstring>
+        <name>steelStrawCount</name>
+        <initializer>= 0</initializer>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake/ViewModels/GetAchievementsData.cs" line="47" column="27" bodyfile="Application Green Quake/ViewModels/GetAchievementsData.cs" bodystart="47" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_application___green___quake_1_1_view_models_1_1_get_achievements_data_1aefdfaba3e493df300c6236400cfd7bba" prot="public" static="yes" mutable="no">
+        <type>int</type>
+        <definition>int Application_Green_Quake.ViewModels.GetAchievementsData.brushingCount</definition>
+        <argsstring></argsstring>
+        <name>brushingCount</name>
+        <initializer>= 0</initializer>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake/ViewModels/GetAchievementsData.cs" line="48" column="27" bodyfile="Application Green Quake/ViewModels/GetAchievementsData.cs" bodystart="48" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_application___green___quake_1_1_view_models_1_1_get_achievements_data_1abce2875ef7046cd7f3742f8bbaa299c0" prot="public" static="yes" mutable="no">
+        <type>int</type>
+        <definition>int Application_Green_Quake.ViewModels.GetAchievementsData.fullWasherCount</definition>
+        <argsstring></argsstring>
+        <name>fullWasherCount</name>
+        <initializer>= 0</initializer>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake/ViewModels/GetAchievementsData.cs" line="49" column="27" bodyfile="Application Green Quake/ViewModels/GetAchievementsData.cs" bodystart="49" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_application___green___quake_1_1_view_models_1_1_get_achievements_data_1a8f06c4eab10a00ad39e2c7c683721f64" prot="public" static="yes" mutable="no">
+        <type>int</type>
+        <definition>int Application_Green_Quake.ViewModels.GetAchievementsData.showerCount</definition>
+        <argsstring></argsstring>
+        <name>showerCount</name>
+        <initializer>= 0</initializer>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake/ViewModels/GetAchievementsData.cs" line="50" column="27" bodyfile="Application Green Quake/ViewModels/GetAchievementsData.cs" bodystart="50" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_application___green___quake_1_1_view_models_1_1_get_achievements_data_1aa077b5294da0c32c54a576643d41f4d5" prot="public" static="yes" mutable="no">
+        <type>int</type>
+        <definition>int Application_Green_Quake.ViewModels.GetAchievementsData.timedShowerCount</definition>
+        <argsstring></argsstring>
+        <name>timedShowerCount</name>
+        <initializer>= 0</initializer>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake/ViewModels/GetAchievementsData.cs" line="51" column="27" bodyfile="Application Green Quake/ViewModels/GetAchievementsData.cs" bodystart="51" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_application___green___quake_1_1_view_models_1_1_get_achievements_data_1a293ccbbee07c21a930bfae30df4f990a" prot="public" static="yes" mutable="no">
+        <type>int</type>
+        <definition>int Application_Green_Quake.ViewModels.GetAchievementsData.offLigtsCount</definition>
+        <argsstring></argsstring>
+        <name>offLigtsCount</name>
+        <initializer>= 0</initializer>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake/ViewModels/GetAchievementsData.cs" line="52" column="27" bodyfile="Application Green Quake/ViewModels/GetAchievementsData.cs" bodystart="52" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_application___green___quake_1_1_view_models_1_1_get_achievements_data_1ae89fcf9e29e2cb80ba0307adcdb72880" prot="public" static="yes" mutable="no">
+        <type>int</type>
+        <definition>int Application_Green_Quake.ViewModels.GetAchievementsData.matchesCount</definition>
+        <argsstring></argsstring>
+        <name>matchesCount</name>
+        <initializer>= 0</initializer>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake/ViewModels/GetAchievementsData.cs" line="53" column="27" bodyfile="Application Green Quake/ViewModels/GetAchievementsData.cs" bodystart="53" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_application___green___quake_1_1_view_models_1_1_get_achievements_data_1a1a7a6bbcd4406f9b1ee91e598852d3c8" prot="public" static="yes" mutable="no">
+        <type>int</type>
+        <definition>int Application_Green_Quake.ViewModels.GetAchievementsData.airOutCount</definition>
+        <argsstring></argsstring>
+        <name>airOutCount</name>
+        <initializer>= 0</initializer>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake/ViewModels/GetAchievementsData.cs" line="54" column="27" bodyfile="Application Green Quake/ViewModels/GetAchievementsData.cs" bodystart="54" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_application___green___quake_1_1_view_models_1_1_get_achievements_data_1a43a544e06a858cfa7d76b3d6395f2f57" prot="public" static="yes" mutable="no">
+        <type>int</type>
+        <definition>int Application_Green_Quake.ViewModels.GetAchievementsData.nonHarmCount</definition>
+        <argsstring></argsstring>
+        <name>nonHarmCount</name>
+        <initializer>= 0</initializer>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake/ViewModels/GetAchievementsData.cs" line="55" column="27" bodyfile="Application Green Quake/ViewModels/GetAchievementsData.cs" bodystart="55" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_application___green___quake_1_1_view_models_1_1_get_achievements_data_1a425a12cb8e07d1a2ef0b44188e988ee1" prot="public" static="yes" mutable="no">
+        <type>int</type>
+        <definition>int Application_Green_Quake.ViewModels.GetAchievementsData.outsideCount</definition>
+        <argsstring></argsstring>
+        <name>outsideCount</name>
+        <initializer>= 0</initializer>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake/ViewModels/GetAchievementsData.cs" line="56" column="27" bodyfile="Application Green Quake/ViewModels/GetAchievementsData.cs" bodystart="56" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_application___green___quake_1_1_view_models_1_1_get_achievements_data_1a3faa4187de8bd6fe4a017dd3db9e500a" prot="public" static="yes" mutable="no">
+        <type>int</type>
+        <definition>int Application_Green_Quake.ViewModels.GetAchievementsData.plantIntoHomeCount</definition>
+        <argsstring></argsstring>
+        <name>plantIntoHomeCount</name>
+        <initializer>= 0</initializer>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake/ViewModels/GetAchievementsData.cs" line="57" column="27" bodyfile="Application Green Quake/ViewModels/GetAchievementsData.cs" bodystart="57" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_application___green___quake_1_1_view_models_1_1_get_achievements_data_1a9589be38a86b8dd237dc06165a6a86aa" prot="public" static="yes" mutable="no">
+        <type>int</type>
+        <definition>int Application_Green_Quake.ViewModels.GetAchievementsData.toiletFlushCount</definition>
+        <argsstring></argsstring>
+        <name>toiletFlushCount</name>
+        <initializer>= 0</initializer>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake/ViewModels/GetAchievementsData.cs" line="58" column="27" bodyfile="Application Green Quake/ViewModels/GetAchievementsData.cs" bodystart="58" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_application___green___quake_1_1_view_models_1_1_get_achievements_data_1ab6451b0f7c444e85ea0fa69dd8657f45" prot="public" static="yes" mutable="no">
+        <type>int</type>
+        <definition>int Application_Green_Quake.ViewModels.GetAchievementsData.campingCount</definition>
+        <argsstring></argsstring>
+        <name>campingCount</name>
+        <initializer>= 0</initializer>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake/ViewModels/GetAchievementsData.cs" line="59" column="27" bodyfile="Application Green Quake/ViewModels/GetAchievementsData.cs" bodystart="59" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_application___green___quake_1_1_view_models_1_1_get_achievements_data_1af62b87b60b377191e74d7e3d11e1f611" prot="public" static="yes" mutable="no">
+        <type>int</type>
+        <definition>int Application_Green_Quake.ViewModels.GetAchievementsData.picnicCount</definition>
+        <argsstring></argsstring>
+        <name>picnicCount</name>
+        <initializer>= 0</initializer>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake/ViewModels/GetAchievementsData.cs" line="60" column="27" bodyfile="Application Green Quake/ViewModels/GetAchievementsData.cs" bodystart="60" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_application___green___quake_1_1_view_models_1_1_get_achievements_data_1a0882fe3ca6ca1b6a2051fb36930a55e9" prot="public" static="yes" mutable="no">
+        <type>int</type>
+        <definition>int Application_Green_Quake.ViewModels.GetAchievementsData.plantBushCount</definition>
+        <argsstring></argsstring>
+        <name>plantBushCount</name>
+        <initializer>= 0</initializer>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake/ViewModels/GetAchievementsData.cs" line="61" column="27" bodyfile="Application Green Quake/ViewModels/GetAchievementsData.cs" bodystart="61" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_application___green___quake_1_1_view_models_1_1_get_achievements_data_1ae67175ced691b604de3f9cca679fc2a3" prot="public" static="yes" mutable="no">
+        <type>int</type>
+        <definition>int Application_Green_Quake.ViewModels.GetAchievementsData.plantFlowerCount</definition>
+        <argsstring></argsstring>
+        <name>plantFlowerCount</name>
+        <initializer>= 0</initializer>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake/ViewModels/GetAchievementsData.cs" line="62" column="27" bodyfile="Application Green Quake/ViewModels/GetAchievementsData.cs" bodystart="62" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_application___green___quake_1_1_view_models_1_1_get_achievements_data_1a35afbbd85741fc5556353170d5f5d466" prot="public" static="yes" mutable="no">
+        <type>int</type>
+        <definition>int Application_Green_Quake.ViewModels.GetAchievementsData.plantTreeCount</definition>
+        <argsstring></argsstring>
+        <name>plantTreeCount</name>
+        <initializer>= 0</initializer>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake/ViewModels/GetAchievementsData.cs" line="63" column="27" bodyfile="Application Green Quake/ViewModels/GetAchievementsData.cs" bodystart="63" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_application___green___quake_1_1_view_models_1_1_get_achievements_data_1a3bd3179d7fe825a221b5af8960b56bbe" prot="public" static="yes" mutable="no">
+        <type>int</type>
+        <definition>int Application_Green_Quake.ViewModels.GetAchievementsData.scoopCount</definition>
+        <argsstring></argsstring>
+        <name>scoopCount</name>
+        <initializer>= 0</initializer>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake/ViewModels/GetAchievementsData.cs" line="64" column="27" bodyfile="Application Green Quake/ViewModels/GetAchievementsData.cs" bodystart="64" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_application___green___quake_1_1_view_models_1_1_get_achievements_data_1ae28f37fe4f260504d462999125033b51" prot="public" static="yes" mutable="no">
+        <type>int</type>
+        <definition>int Application_Green_Quake.ViewModels.GetAchievementsData.fruitGardenCount</definition>
+        <argsstring></argsstring>
+        <name>fruitGardenCount</name>
+        <initializer>= 0</initializer>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake/ViewModels/GetAchievementsData.cs" line="65" column="27" bodyfile="Application Green Quake/ViewModels/GetAchievementsData.cs" bodystart="65" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_application___green___quake_1_1_view_models_1_1_get_achievements_data_1a53cc4b1139201f6be974f77b515a6c42" prot="public" static="yes" mutable="no">
+        <type>int</type>
+        <definition>int Application_Green_Quake.ViewModels.GetAchievementsData.herbGardenCount</definition>
+        <argsstring></argsstring>
+        <name>herbGardenCount</name>
+        <initializer>= 0</initializer>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake/ViewModels/GetAchievementsData.cs" line="66" column="27" bodyfile="Application Green Quake/ViewModels/GetAchievementsData.cs" bodystart="66" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_application___green___quake_1_1_view_models_1_1_get_achievements_data_1af6a8a538b9ef8993723c63bc7a4f7ea6" prot="public" static="yes" mutable="no">
+        <type>int</type>
+        <definition>int Application_Green_Quake.ViewModels.GetAchievementsData.vegetableGardenCount</definition>
+        <argsstring></argsstring>
+        <name>vegetableGardenCount</name>
+        <initializer>= 0</initializer>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake/ViewModels/GetAchievementsData.cs" line="67" column="27" bodyfile="Application Green Quake/ViewModels/GetAchievementsData.cs" bodystart="67" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_application___green___quake_1_1_view_models_1_1_get_achievements_data_1a47f8318d20e3beba64c7332161e03884" prot="public" static="yes" mutable="no">
+        <type>int</type>
+        <definition>int Application_Green_Quake.ViewModels.GetAchievementsData.birdFeederCount</definition>
+        <argsstring></argsstring>
+        <name>birdFeederCount</name>
+        <initializer>= 0</initializer>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake/ViewModels/GetAchievementsData.cs" line="68" column="27" bodyfile="Application Green Quake/ViewModels/GetAchievementsData.cs" bodystart="68" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_application___green___quake_1_1_view_models_1_1_get_achievements_data_1abbe432317929744dee4e05362adf414b" prot="public" static="yes" mutable="no">
+        <type>int</type>
+        <definition>int Application_Green_Quake.ViewModels.GetAchievementsData.clothNapkinCount</definition>
+        <argsstring></argsstring>
+        <name>clothNapkinCount</name>
+        <initializer>= 0</initializer>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake/ViewModels/GetAchievementsData.cs" line="69" column="27" bodyfile="Application Green Quake/ViewModels/GetAchievementsData.cs" bodystart="69" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_application___green___quake_1_1_view_models_1_1_get_achievements_data_1a2bf7b9cba168fcba1762edfe5a13389a" prot="public" static="yes" mutable="no">
+        <type>int</type>
+        <definition>int Application_Green_Quake.ViewModels.GetAchievementsData.clothTowelCount</definition>
+        <argsstring></argsstring>
+        <name>clothTowelCount</name>
+        <initializer>= 0</initializer>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake/ViewModels/GetAchievementsData.cs" line="70" column="27" bodyfile="Application Green Quake/ViewModels/GetAchievementsData.cs" bodystart="70" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_application___green___quake_1_1_view_models_1_1_get_achievements_data_1aac14f87ed06922349369af058b3a1d9e" prot="public" static="yes" mutable="no">
+        <type>int</type>
+        <definition>int Application_Green_Quake.ViewModels.GetAchievementsData.applianceCount</definition>
+        <argsstring></argsstring>
+        <name>applianceCount</name>
+        <initializer>= 0</initializer>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake/ViewModels/GetAchievementsData.cs" line="71" column="27" bodyfile="Application Green Quake/ViewModels/GetAchievementsData.cs" bodystart="71" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_application___green___quake_1_1_view_models_1_1_get_achievements_data_1a35fafddbe7a2830b2b4298ba2e82ec9a" prot="public" static="yes" mutable="no">
+        <type>int</type>
+        <definition>int Application_Green_Quake.ViewModels.GetAchievementsData.productCount</definition>
+        <argsstring></argsstring>
+        <name>productCount</name>
+        <initializer>= 0</initializer>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake/ViewModels/GetAchievementsData.cs" line="72" column="27" bodyfile="Application Green Quake/ViewModels/GetAchievementsData.cs" bodystart="72" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_application___green___quake_1_1_view_models_1_1_get_achievements_data_1ac3140ceb524a2f45e70e361857d58710" prot="public" static="yes" mutable="no">
+        <type>int</type>
+        <definition>int Application_Green_Quake.ViewModels.GetAchievementsData.toothbrushCount</definition>
+        <argsstring></argsstring>
+        <name>toothbrushCount</name>
+        <initializer>= 0</initializer>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake/ViewModels/GetAchievementsData.cs" line="73" column="27" bodyfile="Application Green Quake/ViewModels/GetAchievementsData.cs" bodystart="73" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_application___green___quake_1_1_view_models_1_1_get_achievements_data_1a378c478d6c0fa5797e45bcb78a619e6c" prot="public" static="yes" mutable="no">
+        <type>int</type>
+        <definition>int Application_Green_Quake.ViewModels.GetAchievementsData.clothesCount</definition>
+        <argsstring></argsstring>
+        <name>clothesCount</name>
+        <initializer>= 0</initializer>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake/ViewModels/GetAchievementsData.cs" line="74" column="27" bodyfile="Application Green Quake/ViewModels/GetAchievementsData.cs" bodystart="74" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_application___green___quake_1_1_view_models_1_1_get_achievements_data_1aaebf72e15b08783eab30a72d487db02c" prot="public" static="yes" mutable="no">
+        <type>int</type>
+        <definition>int Application_Green_Quake.ViewModels.GetAchievementsData.localCount</definition>
+        <argsstring></argsstring>
+        <name>localCount</name>
+        <initializer>= 0</initializer>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake/ViewModels/GetAchievementsData.cs" line="75" column="27" bodyfile="Application Green Quake/ViewModels/GetAchievementsData.cs" bodystart="75" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_application___green___quake_1_1_view_models_1_1_get_achievements_data_1adfa13a38d232a84483dd6c215b2802f6" prot="public" static="yes" mutable="no">
+        <type>int</type>
+        <definition>int Application_Green_Quake.ViewModels.GetAchievementsData.looseLeafCount</definition>
+        <argsstring></argsstring>
+        <name>looseLeafCount</name>
+        <initializer>= 0</initializer>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake/ViewModels/GetAchievementsData.cs" line="76" column="27" bodyfile="Application Green Quake/ViewModels/GetAchievementsData.cs" bodystart="76" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_application___green___quake_1_1_view_models_1_1_get_achievements_data_1a2b4da0115b32aa8847ef5aa26d303b80" prot="public" static="yes" mutable="no">
+        <type>int</type>
+        <definition>int Application_Green_Quake.ViewModels.GetAchievementsData.organicFoodCount</definition>
+        <argsstring></argsstring>
+        <name>organicFoodCount</name>
+        <initializer>= 0</initializer>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake/ViewModels/GetAchievementsData.cs" line="77" column="27" bodyfile="Application Green Quake/ViewModels/GetAchievementsData.cs" bodystart="77" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_application___green___quake_1_1_view_models_1_1_get_achievements_data_1acdfcddda297ee3275fef27c8a407746c" prot="public" static="yes" mutable="no">
+        <type>int</type>
+        <definition>int Application_Green_Quake.ViewModels.GetAchievementsData.reusableCount</definition>
+        <argsstring></argsstring>
+        <name>reusableCount</name>
+        <initializer>= 0</initializer>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake/ViewModels/GetAchievementsData.cs" line="78" column="27" bodyfile="Application Green Quake/ViewModels/GetAchievementsData.cs" bodystart="78" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_application___green___quake_1_1_view_models_1_1_get_achievements_data_1a4dc733c1ef5a9919edb2213b25256e23" prot="public" static="yes" mutable="no">
+        <type>int</type>
+        <definition>int Application_Green_Quake.ViewModels.GetAchievementsData.reBagCount</definition>
+        <argsstring></argsstring>
+        <name>reBagCount</name>
+        <initializer>= 0</initializer>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake/ViewModels/GetAchievementsData.cs" line="79" column="27" bodyfile="Application Green Quake/ViewModels/GetAchievementsData.cs" bodystart="79" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_application___green___quake_1_1_view_models_1_1_get_achievements_data_1ad9279688681fa825a7f2b894fcd3e57a" prot="public" static="yes" mutable="no">
+        <type>int</type>
+        <definition>int Application_Green_Quake.ViewModels.GetAchievementsData.carpoolCount</definition>
+        <argsstring></argsstring>
+        <name>carpoolCount</name>
+        <initializer>= 0</initializer>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake/ViewModels/GetAchievementsData.cs" line="80" column="27" bodyfile="Application Green Quake/ViewModels/GetAchievementsData.cs" bodystart="80" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_application___green___quake_1_1_view_models_1_1_get_achievements_data_1a6e7b1c8f8b7c28292ac5a2959ee09798" prot="public" static="yes" mutable="no">
+        <type>int</type>
+        <definition>int Application_Green_Quake.ViewModels.GetAchievementsData.cycleCount</definition>
+        <argsstring></argsstring>
+        <name>cycleCount</name>
+        <initializer>= 0</initializer>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake/ViewModels/GetAchievementsData.cs" line="81" column="27" bodyfile="Application Green Quake/ViewModels/GetAchievementsData.cs" bodystart="81" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_application___green___quake_1_1_view_models_1_1_get_achievements_data_1ac569af29e048f150fe802bab767d46c0" prot="public" static="yes" mutable="no">
+        <type>int</type>
+        <definition>int Application_Green_Quake.ViewModels.GetAchievementsData.ecoCarCount</definition>
+        <argsstring></argsstring>
+        <name>ecoCarCount</name>
+        <initializer>= 0</initializer>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake/ViewModels/GetAchievementsData.cs" line="82" column="27" bodyfile="Application Green Quake/ViewModels/GetAchievementsData.cs" bodystart="82" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_application___green___quake_1_1_view_models_1_1_get_achievements_data_1a0ea5d4e184c489da7a377873ca2e28c7" prot="public" static="yes" mutable="no">
+        <type>int</type>
+        <definition>int Application_Green_Quake.ViewModels.GetAchievementsData.transportCount</definition>
+        <argsstring></argsstring>
+        <name>transportCount</name>
+        <initializer>= 0</initializer>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake/ViewModels/GetAchievementsData.cs" line="83" column="27" bodyfile="Application Green Quake/ViewModels/GetAchievementsData.cs" bodystart="83" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_application___green___quake_1_1_view_models_1_1_get_achievements_data_1a4997b99a43472826bc0bcd5062ce5f97" prot="public" static="yes" mutable="no">
+        <type>int</type>
+        <definition>int Application_Green_Quake.ViewModels.GetAchievementsData.walkCount</definition>
+        <argsstring></argsstring>
+        <name>walkCount</name>
+        <initializer>= 0</initializer>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake/ViewModels/GetAchievementsData.cs" line="84" column="27" bodyfile="Application Green Quake/ViewModels/GetAchievementsData.cs" bodystart="84" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_application___green___quake_1_1_view_models_1_1_get_achievements_data_1ab66cb57054b7e601a8f750eafdb2ac5b" prot="public" static="yes" mutable="no">
+        <type>int</type>
+        <definition>int Application_Green_Quake.ViewModels.GetAchievementsData.billsCount</definition>
+        <argsstring></argsstring>
+        <name>billsCount</name>
+        <initializer>= 0</initializer>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake/ViewModels/GetAchievementsData.cs" line="85" column="27" bodyfile="Application Green Quake/ViewModels/GetAchievementsData.cs" bodystart="85" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_application___green___quake_1_1_view_models_1_1_get_achievements_data_1a80ca94145ebe7492a2d445e9ae56d4fe" prot="public" static="yes" mutable="no">
+        <type>int</type>
+        <definition>int Application_Green_Quake.ViewModels.GetAchievementsData.compostCount</definition>
+        <argsstring></argsstring>
+        <name>compostCount</name>
+        <initializer>= 0</initializer>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake/ViewModels/GetAchievementsData.cs" line="86" column="27" bodyfile="Application Green Quake/ViewModels/GetAchievementsData.cs" bodystart="86" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_application___green___quake_1_1_view_models_1_1_get_achievements_data_1a50af8ad7c6516faf4190565e2efc6ffd" prot="public" static="yes" mutable="no">
+        <type>int</type>
+        <definition>int Application_Green_Quake.ViewModels.GetAchievementsData.setUpRecyclingBinCount</definition>
+        <argsstring></argsstring>
+        <name>setUpRecyclingBinCount</name>
+        <initializer>= 0</initializer>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake/ViewModels/GetAchievementsData.cs" line="87" column="27" bodyfile="Application Green Quake/ViewModels/GetAchievementsData.cs" bodystart="87" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_application___green___quake_1_1_view_models_1_1_get_achievements_data_1a078213e038a62fa72a23a4850d97effc" prot="public" static="yes" mutable="no">
+        <type>int</type>
+        <definition>int Application_Green_Quake.ViewModels.GetAchievementsData.bioBinBagsCount</definition>
+        <argsstring></argsstring>
+        <name>bioBinBagsCount</name>
+        <initializer>= 0</initializer>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake/ViewModels/GetAchievementsData.cs" line="88" column="27" bodyfile="Application Green Quake/ViewModels/GetAchievementsData.cs" bodystart="88" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_application___green___quake_1_1_view_models_1_1_get_achievements_data_1a4fdd70df3501738009752a4d8f86d856" prot="public" static="yes" mutable="no">
+        <type>int</type>
+        <definition>int Application_Green_Quake.ViewModels.GetAchievementsData.recyclingBinCount</definition>
+        <argsstring></argsstring>
+        <name>recyclingBinCount</name>
+        <initializer>= 0</initializer>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake/ViewModels/GetAchievementsData.cs" line="89" column="27" bodyfile="Application Green Quake/ViewModels/GetAchievementsData.cs" bodystart="89" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_application___green___quake_1_1_view_models_1_1_get_achievements_data_1a664ec1bcb8578d2d054ec3132a372cbd" prot="public" static="yes" mutable="no">
+        <type>int</type>
+        <definition>int Application_Green_Quake.ViewModels.GetAchievementsData.cisternCount</definition>
+        <argsstring></argsstring>
+        <name>cisternCount</name>
+        <initializer>= 0</initializer>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake/ViewModels/GetAchievementsData.cs" line="90" column="27" bodyfile="Application Green Quake/ViewModels/GetAchievementsData.cs" bodystart="90" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_application___green___quake_1_1_view_models_1_1_get_achievements_data_1a99ac38c24bccb455abbd22c55893ea94" prot="public" static="yes" mutable="no">
+        <type>int</type>
+        <definition>int Application_Green_Quake.ViewModels.GetAchievementsData.rainBarrelCount</definition>
+        <argsstring></argsstring>
+        <name>rainBarrelCount</name>
+        <initializer>= 0</initializer>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake/ViewModels/GetAchievementsData.cs" line="91" column="27" bodyfile="Application Green Quake/ViewModels/GetAchievementsData.cs" bodystart="91" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_application___green___quake_1_1_view_models_1_1_get_achievements_data_1a083322446dd006bfd904b3677236ed83" prot="public" static="yes" mutable="no">
+        <type>int</type>
+        <definition>int Application_Green_Quake.ViewModels.GetAchievementsData.reWaterCount</definition>
+        <argsstring></argsstring>
+        <name>reWaterCount</name>
+        <initializer>= 0</initializer>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake/ViewModels/GetAchievementsData.cs" line="92" column="27" bodyfile="Application Green Quake/ViewModels/GetAchievementsData.cs" bodystart="92" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_application___green___quake_1_1_view_models_1_1_get_achievements_data_1addfb475a35ced34ff5d9e0cc06150397" prot="public" static="yes" mutable="no">
+        <type>int</type>
+        <definition>int Application_Green_Quake.ViewModels.GetAchievementsData.showerBucketCount</definition>
+        <argsstring></argsstring>
+        <name>showerBucketCount</name>
+        <initializer>= 0</initializer>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake/ViewModels/GetAchievementsData.cs" line="93" column="27" bodyfile="Application Green Quake/ViewModels/GetAchievementsData.cs" bodystart="93" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_application___green___quake_1_1_view_models_1_1_get_achievements_data_1aa67166bd291aab5114515904802a83c8" prot="public" static="yes" mutable="no">
+        <type>int</type>
+        <definition>int Application_Green_Quake.ViewModels.GetAchievementsData.paperCount</definition>
+        <argsstring></argsstring>
+        <name>paperCount</name>
+        <initializer>= 0</initializer>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake/ViewModels/GetAchievementsData.cs" line="94" column="27" bodyfile="Application Green Quake/ViewModels/GetAchievementsData.cs" bodystart="94" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_application___green___quake_1_1_view_models_1_1_get_achievements_data_1afade0e60a99bf8f78bd434f66bef9027" prot="public" static="yes" mutable="no">
+        <type>int</type>
+        <definition>int Application_Green_Quake.ViewModels.GetAchievementsData.offElectronicsCount</definition>
+        <argsstring></argsstring>
+        <name>offElectronicsCount</name>
+        <initializer>= 0</initializer>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake/ViewModels/GetAchievementsData.cs" line="95" column="27" bodyfile="Application Green Quake/ViewModels/GetAchievementsData.cs" bodystart="95" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_application___green___quake_1_1_view_models_1_1_get_achievements_data_1aeec72049ac50c0c52b590fab233e235d" prot="public" static="yes" mutable="no">
+        <type>int</type>
+        <definition>int Application_Green_Quake.ViewModels.GetAchievementsData.remoteWorkCount</definition>
+        <argsstring></argsstring>
+        <name>remoteWorkCount</name>
+        <initializer>= 0</initializer>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake/ViewModels/GetAchievementsData.cs" line="96" column="27" bodyfile="Application Green Quake/ViewModels/GetAchievementsData.cs" bodystart="96" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_application___green___quake_1_1_view_models_1_1_get_achievements_data_1ad2bebb6337900d3dcee9dfe6effe47fa" prot="public" static="yes" mutable="no">
+        <type>int</type>
+        <definition>int Application_Green_Quake.ViewModels.GetAchievementsData.hangDryCount</definition>
+        <argsstring></argsstring>
+        <name>hangDryCount</name>
+        <initializer>= 0</initializer>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake/ViewModels/GetAchievementsData.cs" line="97" column="27" bodyfile="Application Green Quake/ViewModels/GetAchievementsData.cs" bodystart="97" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_application___green___quake_1_1_view_models_1_1_get_achievements_data_1a98f2f015693ef8e2a066d59aa9613e1b" prot="public" static="yes" mutable="no">
+        <type>int</type>
+        <definition>int Application_Green_Quake.ViewModels.GetAchievementsData.foodCount</definition>
+        <argsstring></argsstring>
+        <name>foodCount</name>
+        <initializer>= 0</initializer>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake/ViewModels/GetAchievementsData.cs" line="98" column="27" bodyfile="Application Green Quake/ViewModels/GetAchievementsData.cs" bodystart="98" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="public-func">
+      <memberdef kind="function" id="class_application___green___quake_1_1_view_models_1_1_get_achievements_data_1a3f4eb5195e701f9473fc5edf83c6d4c8" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>async void</type>
+        <definition>async void Application_Green_Quake.ViewModels.GetAchievementsData.SetAchievementsData</definition>
+        <argsstring>()</argsstring>
+        <name>SetAchievementsData</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+<para>This function sets the data that is needed for the Achievements Screen </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake/ViewModels/GetAchievementsData.cs" line="103" column="27" bodyfile="Application Green Quake/ViewModels/GetAchievementsData.cs" bodystart="103" bodyend="989"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <location file="Application Green Quake/ViewModels/GetAchievementsData.cs" line="16" column="5" bodyfile="Application Green Quake/ViewModels/GetAchievementsData.cs" bodystart="17" bodyend="990"/>
+    <listofallmembers>
+      <member refid="class_application___green___quake_1_1_view_models_1_1_get_achievements_data_1a1a7a6bbcd4406f9b1ee91e598852d3c8" prot="public" virt="non-virtual"><scope>Application_Green_Quake::ViewModels::GetAchievementsData</scope><name>airOutCount</name></member>
+      <member refid="class_application___green___quake_1_1_view_models_1_1_get_achievements_data_1aac14f87ed06922349369af058b3a1d9e" prot="public" virt="non-virtual"><scope>Application_Green_Quake::ViewModels::GetAchievementsData</scope><name>applianceCount</name></member>
+      <member refid="class_application___green___quake_1_1_view_models_1_1_get_achievements_data_1a0ed062ccdea1c4875b331879811121f1" prot="private" virt="non-virtual"><scope>Application_Green_Quake::ViewModels::GetAchievementsData</scope><name>auth</name></member>
+      <member refid="class_application___green___quake_1_1_view_models_1_1_get_achievements_data_1a6265c7547d79214e489a708b192aa8a6" prot="public" virt="non-virtual"><scope>Application_Green_Quake::ViewModels::GetAchievementsData</scope><name>awarenessCount</name></member>
+      <member refid="class_application___green___quake_1_1_view_models_1_1_get_achievements_data_1ab66cb57054b7e601a8f750eafdb2ac5b" prot="public" virt="non-virtual"><scope>Application_Green_Quake::ViewModels::GetAchievementsData</scope><name>billsCount</name></member>
+      <member refid="class_application___green___quake_1_1_view_models_1_1_get_achievements_data_1a078213e038a62fa72a23a4850d97effc" prot="public" virt="non-virtual"><scope>Application_Green_Quake::ViewModels::GetAchievementsData</scope><name>bioBinBagsCount</name></member>
+      <member refid="class_application___green___quake_1_1_view_models_1_1_get_achievements_data_1a47f8318d20e3beba64c7332161e03884" prot="public" virt="non-virtual"><scope>Application_Green_Quake::ViewModels::GetAchievementsData</scope><name>birdFeederCount</name></member>
+      <member refid="class_application___green___quake_1_1_view_models_1_1_get_achievements_data_1aefdfaba3e493df300c6236400cfd7bba" prot="public" virt="non-virtual"><scope>Application_Green_Quake::ViewModels::GetAchievementsData</scope><name>brushingCount</name></member>
+      <member refid="class_application___green___quake_1_1_view_models_1_1_get_achievements_data_1ab6451b0f7c444e85ea0fa69dd8657f45" prot="public" virt="non-virtual"><scope>Application_Green_Quake::ViewModels::GetAchievementsData</scope><name>campingCount</name></member>
+      <member refid="class_application___green___quake_1_1_view_models_1_1_get_achievements_data_1ad9279688681fa825a7f2b894fcd3e57a" prot="public" virt="non-virtual"><scope>Application_Green_Quake::ViewModels::GetAchievementsData</scope><name>carpoolCount</name></member>
+      <member refid="class_application___green___quake_1_1_view_models_1_1_get_achievements_data_1a664ec1bcb8578d2d054ec3132a372cbd" prot="public" virt="non-virtual"><scope>Application_Green_Quake::ViewModels::GetAchievementsData</scope><name>cisternCount</name></member>
+      <member refid="class_application___green___quake_1_1_view_models_1_1_get_achievements_data_1a378c478d6c0fa5797e45bcb78a619e6c" prot="public" virt="non-virtual"><scope>Application_Green_Quake::ViewModels::GetAchievementsData</scope><name>clothesCount</name></member>
+      <member refid="class_application___green___quake_1_1_view_models_1_1_get_achievements_data_1abbe432317929744dee4e05362adf414b" prot="public" virt="non-virtual"><scope>Application_Green_Quake::ViewModels::GetAchievementsData</scope><name>clothNapkinCount</name></member>
+      <member refid="class_application___green___quake_1_1_view_models_1_1_get_achievements_data_1a2bf7b9cba168fcba1762edfe5a13389a" prot="public" virt="non-virtual"><scope>Application_Green_Quake::ViewModels::GetAchievementsData</scope><name>clothTowelCount</name></member>
+      <member refid="class_application___green___quake_1_1_view_models_1_1_get_achievements_data_1a79836a9253b7142338d5fd2bbb34a5f9" prot="public" virt="non-virtual"><scope>Application_Green_Quake::ViewModels::GetAchievementsData</scope><name>communityCount</name></member>
+      <member refid="class_application___green___quake_1_1_view_models_1_1_get_achievements_data_1a80ca94145ebe7492a2d445e9ae56d4fe" prot="public" virt="non-virtual"><scope>Application_Green_Quake::ViewModels::GetAchievementsData</scope><name>compostCount</name></member>
+      <member refid="class_application___green___quake_1_1_view_models_1_1_get_achievements_data_1a465f82b61c9afd181760400e5659563c" prot="public" virt="non-virtual"><scope>Application_Green_Quake::ViewModels::GetAchievementsData</scope><name>createGroupCount</name></member>
+      <member refid="class_application___green___quake_1_1_view_models_1_1_get_achievements_data_1a6e7b1c8f8b7c28292ac5a2959ee09798" prot="public" virt="non-virtual"><scope>Application_Green_Quake::ViewModels::GetAchievementsData</scope><name>cycleCount</name></member>
+      <member refid="class_application___green___quake_1_1_view_models_1_1_get_achievements_data_1a90f7ed787d9810e8f88961478270b584" prot="public" virt="non-virtual"><scope>Application_Green_Quake::ViewModels::GetAchievementsData</scope><name>donateCount</name></member>
+      <member refid="class_application___green___quake_1_1_view_models_1_1_get_achievements_data_1af787ce09392576e2fddbf89c367c20ea" prot="public" virt="non-virtual"><scope>Application_Green_Quake::ViewModels::GetAchievementsData</scope><name>draftSealCount</name></member>
+      <member refid="class_application___green___quake_1_1_view_models_1_1_get_achievements_data_1aba244fb3806d9cdab02567cab73e87bd" prot="public" virt="non-virtual"><scope>Application_Green_Quake::ViewModels::GetAchievementsData</scope><name>ductSealCount</name></member>
+      <member refid="class_application___green___quake_1_1_view_models_1_1_get_achievements_data_1aa42959782a7228594a6a9e13d45b858e" prot="public" virt="non-virtual"><scope>Application_Green_Quake::ViewModels::GetAchievementsData</scope><name>eatAllCount</name></member>
+      <member refid="class_application___green___quake_1_1_view_models_1_1_get_achievements_data_1ac569af29e048f150fe802bab767d46c0" prot="public" virt="non-virtual"><scope>Application_Green_Quake::ViewModels::GetAchievementsData</scope><name>ecoCarCount</name></member>
+      <member refid="class_application___green___quake_1_1_view_models_1_1_get_achievements_data_1a6f6514accf094a1a319a6506456ed418" prot="public" virt="non-virtual"><scope>Application_Green_Quake::ViewModels::GetAchievementsData</scope><name>efficientThermostatCount</name></member>
+      <member refid="class_application___green___quake_1_1_view_models_1_1_get_achievements_data_1a0706e5b7c25d6f4edb786d6b79ac4b30" prot="public" virt="non-virtual"><scope>Application_Green_Quake::ViewModels::GetAchievementsData</scope><name>fixCount</name></member>
+      <member refid="class_application___green___quake_1_1_view_models_1_1_get_achievements_data_1a98f2f015693ef8e2a066d59aa9613e1b" prot="public" virt="non-virtual"><scope>Application_Green_Quake::ViewModels::GetAchievementsData</scope><name>foodCount</name></member>
+      <member refid="class_application___green___quake_1_1_view_models_1_1_get_achievements_data_1aabc38033863f259f6a61856c46f78c27" prot="public" virt="non-virtual"><scope>Application_Green_Quake::ViewModels::GetAchievementsData</scope><name>foodDeliverCount</name></member>
+      <member refid="class_application___green___quake_1_1_view_models_1_1_get_achievements_data_1af0fc41d4a0b98f5b7b855938d2fb7a65" prot="public" virt="non-virtual"><scope>Application_Green_Quake::ViewModels::GetAchievementsData</scope><name>fridgeCount</name></member>
+      <member refid="class_application___green___quake_1_1_view_models_1_1_get_achievements_data_1ae28f37fe4f260504d462999125033b51" prot="public" virt="non-virtual"><scope>Application_Green_Quake::ViewModels::GetAchievementsData</scope><name>fruitGardenCount</name></member>
+      <member refid="class_application___green___quake_1_1_view_models_1_1_get_achievements_data_1a09f670ccf6e6eeae0303d7836ec2562c" prot="public" virt="non-virtual"><scope>Application_Green_Quake::ViewModels::GetAchievementsData</scope><name>fullDryerCount</name></member>
+      <member refid="class_application___green___quake_1_1_view_models_1_1_get_achievements_data_1abce2875ef7046cd7f3742f8bbaa299c0" prot="public" virt="non-virtual"><scope>Application_Green_Quake::ViewModels::GetAchievementsData</scope><name>fullWasherCount</name></member>
+      <member refid="class_application___green___quake_1_1_view_models_1_1_get_achievements_data_1ae91796287b678b249fa4302dfa8735ec" prot="public" virt="non-virtual"><scope>Application_Green_Quake::ViewModels::GetAchievementsData</scope><name>groupCount</name></member>
+      <member refid="class_application___green___quake_1_1_view_models_1_1_get_achievements_data_1ad2bebb6337900d3dcee9dfe6effe47fa" prot="public" virt="non-virtual"><scope>Application_Green_Quake::ViewModels::GetAchievementsData</scope><name>hangDryCount</name></member>
+      <member refid="class_application___green___quake_1_1_view_models_1_1_get_achievements_data_1a53cc4b1139201f6be974f77b515a6c42" prot="public" virt="non-virtual"><scope>Application_Green_Quake::ViewModels::GetAchievementsData</scope><name>herbGardenCount</name></member>
+      <member refid="class_application___green___quake_1_1_view_models_1_1_get_achievements_data_1a32965bc2e77134dd7aa473e59b77278a" prot="public" virt="non-virtual"><scope>Application_Green_Quake::ViewModels::GetAchievementsData</scope><name>insulateWaterCount</name></member>
+      <member refid="class_application___green___quake_1_1_view_models_1_1_get_achievements_data_1aeb7a4ac2be1e2e73c9af42604605443c" prot="public" virt="non-virtual"><scope>Application_Green_Quake::ViewModels::GetAchievementsData</scope><name>isolateHomeCount</name></member>
+      <member refid="class_application___green___quake_1_1_view_models_1_1_get_achievements_data_1aadcf44bbf3536fb8dbe2d68696a6cdaf" prot="public" virt="non-virtual"><scope>Application_Green_Quake::ViewModels::GetAchievementsData</scope><name>ledLightBulbCount</name></member>
+      <member refid="class_application___green___quake_1_1_view_models_1_1_get_achievements_data_1aaebf72e15b08783eab30a72d487db02c" prot="public" virt="non-virtual"><scope>Application_Green_Quake::ViewModels::GetAchievementsData</scope><name>localCount</name></member>
+      <member refid="class_application___green___quake_1_1_view_models_1_1_get_achievements_data_1adfa13a38d232a84483dd6c215b2802f6" prot="public" virt="non-virtual"><scope>Application_Green_Quake::ViewModels::GetAchievementsData</scope><name>looseLeafCount</name></member>
+      <member refid="class_application___green___quake_1_1_view_models_1_1_get_achievements_data_1ae89fcf9e29e2cb80ba0307adcdb72880" prot="public" virt="non-virtual"><scope>Application_Green_Quake::ViewModels::GetAchievementsData</scope><name>matchesCount</name></member>
+      <member refid="class_application___green___quake_1_1_view_models_1_1_get_achievements_data_1a24ba085ce20330852ece50938748c57f" prot="public" virt="non-virtual"><scope>Application_Green_Quake::ViewModels::GetAchievementsData</scope><name>microwaveCount</name></member>
+      <member refid="class_application___green___quake_1_1_view_models_1_1_get_achievements_data_1a32fd462e65f8b8d2fd2b5444d9f13089" prot="public" virt="non-virtual"><scope>Application_Green_Quake::ViewModels::GetAchievementsData</scope><name>noMeatCount</name></member>
+      <member refid="class_application___green___quake_1_1_view_models_1_1_get_achievements_data_1a43a544e06a858cfa7d76b3d6395f2f57" prot="public" virt="non-virtual"><scope>Application_Green_Quake::ViewModels::GetAchievementsData</scope><name>nonHarmCount</name></member>
+      <member refid="class_application___green___quake_1_1_view_models_1_1_get_achievements_data_1afade0e60a99bf8f78bd434f66bef9027" prot="public" virt="non-virtual"><scope>Application_Green_Quake::ViewModels::GetAchievementsData</scope><name>offElectronicsCount</name></member>
+      <member refid="class_application___green___quake_1_1_view_models_1_1_get_achievements_data_1a293ccbbee07c21a930bfae30df4f990a" prot="public" virt="non-virtual"><scope>Application_Green_Quake::ViewModels::GetAchievementsData</scope><name>offLigtsCount</name></member>
+      <member refid="class_application___green___quake_1_1_view_models_1_1_get_achievements_data_1a59b872386338c0e1285efd9fb1bb1121" prot="public" virt="non-virtual"><scope>Application_Green_Quake::ViewModels::GetAchievementsData</scope><name>offSocketCount</name></member>
+      <member refid="class_application___green___quake_1_1_view_models_1_1_get_achievements_data_1a2b4da0115b32aa8847ef5aa26d303b80" prot="public" virt="non-virtual"><scope>Application_Green_Quake::ViewModels::GetAchievementsData</scope><name>organicFoodCount</name></member>
+      <member refid="class_application___green___quake_1_1_view_models_1_1_get_achievements_data_1a425a12cb8e07d1a2ef0b44188e988ee1" prot="public" virt="non-virtual"><scope>Application_Green_Quake::ViewModels::GetAchievementsData</scope><name>outsideCount</name></member>
+      <member refid="class_application___green___quake_1_1_view_models_1_1_get_achievements_data_1a9677ad3738f006ea38ba31da28ce4b0f" prot="public" virt="non-virtual"><scope>Application_Green_Quake::ViewModels::GetAchievementsData</scope><name>ownCoffeeCount</name></member>
+      <member refid="class_application___green___quake_1_1_view_models_1_1_get_achievements_data_1aa67166bd291aab5114515904802a83c8" prot="public" virt="non-virtual"><scope>Application_Green_Quake::ViewModels::GetAchievementsData</scope><name>paperCount</name></member>
+      <member refid="class_application___green___quake_1_1_view_models_1_1_get_achievements_data_1af62b87b60b377191e74d7e3d11e1f611" prot="public" virt="non-virtual"><scope>Application_Green_Quake::ViewModels::GetAchievementsData</scope><name>picnicCount</name></member>
+      <member refid="class_application___green___quake_1_1_view_models_1_1_get_achievements_data_1a0882fe3ca6ca1b6a2051fb36930a55e9" prot="public" virt="non-virtual"><scope>Application_Green_Quake::ViewModels::GetAchievementsData</scope><name>plantBushCount</name></member>
+      <member refid="class_application___green___quake_1_1_view_models_1_1_get_achievements_data_1ae67175ced691b604de3f9cca679fc2a3" prot="public" virt="non-virtual"><scope>Application_Green_Quake::ViewModels::GetAchievementsData</scope><name>plantFlowerCount</name></member>
+      <member refid="class_application___green___quake_1_1_view_models_1_1_get_achievements_data_1a3faa4187de8bd6fe4a017dd3db9e500a" prot="public" virt="non-virtual"><scope>Application_Green_Quake::ViewModels::GetAchievementsData</scope><name>plantIntoHomeCount</name></member>
+      <member refid="class_application___green___quake_1_1_view_models_1_1_get_achievements_data_1a35afbbd85741fc5556353170d5f5d466" prot="public" virt="non-virtual"><scope>Application_Green_Quake::ViewModels::GetAchievementsData</scope><name>plantTreeCount</name></member>
+      <member refid="class_application___green___quake_1_1_view_models_1_1_get_achievements_data_1a35fafddbe7a2830b2b4298ba2e82ec9a" prot="public" virt="non-virtual"><scope>Application_Green_Quake::ViewModels::GetAchievementsData</scope><name>productCount</name></member>
+      <member refid="class_application___green___quake_1_1_view_models_1_1_get_achievements_data_1a99ac38c24bccb455abbd22c55893ea94" prot="public" virt="non-virtual"><scope>Application_Green_Quake::ViewModels::GetAchievementsData</scope><name>rainBarrelCount</name></member>
+      <member refid="class_application___green___quake_1_1_view_models_1_1_get_achievements_data_1a4dc733c1ef5a9919edb2213b25256e23" prot="public" virt="non-virtual"><scope>Application_Green_Quake::ViewModels::GetAchievementsData</scope><name>reBagCount</name></member>
+      <member refid="class_application___green___quake_1_1_view_models_1_1_get_achievements_data_1a2ccee26b51ff6157d18c10334496e96c" prot="public" virt="non-virtual"><scope>Application_Green_Quake::ViewModels::GetAchievementsData</scope><name>reBatCount</name></member>
+      <member refid="class_application___green___quake_1_1_view_models_1_1_get_achievements_data_1a3fafe98faa685a33518069ebdd4ed5dc" prot="public" virt="non-virtual"><scope>Application_Green_Quake::ViewModels::GetAchievementsData</scope><name>reBatteriesCount</name></member>
+      <member refid="class_application___green___quake_1_1_view_models_1_1_get_achievements_data_1a64bc5708a56f034b455e103462daefbb" prot="public" virt="non-virtual"><scope>Application_Green_Quake::ViewModels::GetAchievementsData</scope><name>reCoffeeMugCount</name></member>
+      <member refid="class_application___green___quake_1_1_view_models_1_1_get_achievements_data_1a4fdd70df3501738009752a4d8f86d856" prot="public" virt="non-virtual"><scope>Application_Green_Quake::ViewModels::GetAchievementsData</scope><name>recyclingBinCount</name></member>
+      <member refid="class_application___green___quake_1_1_view_models_1_1_get_achievements_data_1aeec72049ac50c0c52b590fab233e235d" prot="public" virt="non-virtual"><scope>Application_Green_Quake::ViewModels::GetAchievementsData</scope><name>remoteWorkCount</name></member>
+      <member refid="class_application___green___quake_1_1_view_models_1_1_get_achievements_data_1acdfcddda297ee3275fef27c8a407746c" prot="public" virt="non-virtual"><scope>Application_Green_Quake::ViewModels::GetAchievementsData</scope><name>reusableCount</name></member>
+      <member refid="class_application___green___quake_1_1_view_models_1_1_get_achievements_data_1a083322446dd006bfd904b3677236ed83" prot="public" virt="non-virtual"><scope>Application_Green_Quake::ViewModels::GetAchievementsData</scope><name>reWaterCount</name></member>
+      <member refid="class_application___green___quake_1_1_view_models_1_1_get_achievements_data_1a037f9ac09bc293ca5fde79ad3665886d" prot="public" virt="non-virtual"><scope>Application_Green_Quake::ViewModels::GetAchievementsData</scope><name>saveLeftOversCount</name></member>
+      <member refid="class_application___green___quake_1_1_view_models_1_1_get_achievements_data_1a3bd3179d7fe825a221b5af8960b56bbe" prot="public" virt="non-virtual"><scope>Application_Green_Quake::ViewModels::GetAchievementsData</scope><name>scoopCount</name></member>
+      <member refid="class_application___green___quake_1_1_view_models_1_1_get_achievements_data_1a3f4eb5195e701f9473fc5edf83c6d4c8" prot="public" virt="non-virtual"><scope>Application_Green_Quake::ViewModels::GetAchievementsData</scope><name>SetAchievementsData</name></member>
+      <member refid="class_application___green___quake_1_1_view_models_1_1_get_achievements_data_1a50af8ad7c6516faf4190565e2efc6ffd" prot="public" virt="non-virtual"><scope>Application_Green_Quake::ViewModels::GetAchievementsData</scope><name>setUpRecyclingBinCount</name></member>
+      <member refid="class_application___green___quake_1_1_view_models_1_1_get_achievements_data_1ac363b943cc6a95f382a4de11c6d1562b" prot="public" virt="non-virtual"><scope>Application_Green_Quake::ViewModels::GetAchievementsData</scope><name>shareCount</name></member>
+      <member refid="class_application___green___quake_1_1_view_models_1_1_get_achievements_data_1addfb475a35ced34ff5d9e0cc06150397" prot="public" virt="non-virtual"><scope>Application_Green_Quake::ViewModels::GetAchievementsData</scope><name>showerBucketCount</name></member>
+      <member refid="class_application___green___quake_1_1_view_models_1_1_get_achievements_data_1a8f06c4eab10a00ad39e2c7c683721f64" prot="public" virt="non-virtual"><scope>Application_Green_Quake::ViewModels::GetAchievementsData</scope><name>showerCount</name></member>
+      <member refid="class_application___green___quake_1_1_view_models_1_1_get_achievements_data_1aba1418390902d97f9577763b52c9aefe" prot="public" virt="non-virtual"><scope>Application_Green_Quake::ViewModels::GetAchievementsData</scope><name>solarPanelCount</name></member>
+      <member refid="class_application___green___quake_1_1_view_models_1_1_get_achievements_data_1ac5bc9992923b0c99f465d503d7a5b386" prot="public" virt="non-virtual"><scope>Application_Green_Quake::ViewModels::GetAchievementsData</scope><name>steelStrawCount</name></member>
+      <member refid="class_application___green___quake_1_1_view_models_1_1_get_achievements_data_1aa077b5294da0c32c54a576643d41f4d5" prot="public" virt="non-virtual"><scope>Application_Green_Quake::ViewModels::GetAchievementsData</scope><name>timedShowerCount</name></member>
+      <member refid="class_application___green___quake_1_1_view_models_1_1_get_achievements_data_1a9589be38a86b8dd237dc06165a6a86aa" prot="public" virt="non-virtual"><scope>Application_Green_Quake::ViewModels::GetAchievementsData</scope><name>toiletFlushCount</name></member>
+      <member refid="class_application___green___quake_1_1_view_models_1_1_get_achievements_data_1ac3140ceb524a2f45e70e361857d58710" prot="public" virt="non-virtual"><scope>Application_Green_Quake::ViewModels::GetAchievementsData</scope><name>toothbrushCount</name></member>
+      <member refid="class_application___green___quake_1_1_view_models_1_1_get_achievements_data_1a0ea5d4e184c489da7a377873ca2e28c7" prot="public" virt="non-virtual"><scope>Application_Green_Quake::ViewModels::GetAchievementsData</scope><name>transportCount</name></member>
+      <member refid="class_application___green___quake_1_1_view_models_1_1_get_achievements_data_1af6a8a538b9ef8993723c63bc7a4f7ea6" prot="public" virt="non-virtual"><scope>Application_Green_Quake::ViewModels::GetAchievementsData</scope><name>vegetableGardenCount</name></member>
+      <member refid="class_application___green___quake_1_1_view_models_1_1_get_achievements_data_1a4997b99a43472826bc0bcd5062ce5f97" prot="public" virt="non-virtual"><scope>Application_Green_Quake::ViewModels::GetAchievementsData</scope><name>walkCount</name></member>
+      <member refid="class_application___green___quake_1_1_view_models_1_1_get_achievements_data_1a537d55c5c2eabd46641588331686e361" prot="public" virt="non-virtual"><scope>Application_Green_Quake::ViewModels::GetAchievementsData</scope><name>waterOverFizzyCount</name></member>
+      <member refid="class_application___green___quake_1_1_view_models_1_1_get_achievements_data_1af53f44cf1e227f932badbfe6775ee6e0" prot="public" virt="non-virtual"><scope>Application_Green_Quake::ViewModels::GetAchievementsData</scope><name>wSShowerHeadCount</name></member>
+    </listofallmembers>
+  </compounddef>
+</doxygen>

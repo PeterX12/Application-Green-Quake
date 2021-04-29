@@ -1,0 +1,548 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.9.1" xml:lang="en-US">
+  <compounddef id="classcrc643f46942d9dd1fff9_1_1_edge_snap_helper" kind="class" language="Java" prot="public" abstract="yes">
+    <compoundname>crc643f46942d9dd1fff9::EdgeSnapHelper</compoundname>
+    <basecompoundref refid="classcrc643f46942d9dd1fff9_1_1_nongreedy_snap_helper" prot="public" virt="non-virtual">crc643f46942d9dd1fff9.NongreedySnapHelper</basecompoundref>
+    <basecompoundref prot="public" virt="non-virtual">mono.android.IGCUserPeer</basecompoundref>
+    <basecompoundref refid="classcrc643f46942d9dd1fff9_1_1_nongreedy_snap_helper" prot="public" virt="non-virtual">crc643f46942d9dd1fff9.NongreedySnapHelper</basecompoundref>
+    <basecompoundref prot="public" virt="non-virtual">mono.android.IGCUserPeer</basecompoundref>
+    <basecompoundref refid="classcrc643f46942d9dd1fff9_1_1_nongreedy_snap_helper" prot="public" virt="non-virtual">crc643f46942d9dd1fff9.NongreedySnapHelper</basecompoundref>
+    <basecompoundref prot="public" virt="non-virtual">mono.android.IGCUserPeer</basecompoundref>
+    <basecompoundref refid="classcrc643f46942d9dd1fff9_1_1_nongreedy_snap_helper" prot="public" virt="non-virtual">crc643f46942d9dd1fff9.NongreedySnapHelper</basecompoundref>
+    <basecompoundref prot="public" virt="non-virtual">mono.android.IGCUserPeer</basecompoundref>
+    <derivedcompoundref refid="classcrc643f46942d9dd1fff9_1_1_end_snap_helper" prot="public" virt="non-virtual">crc643f46942d9dd1fff9.EndSnapHelper</derivedcompoundref>
+    <derivedcompoundref refid="classcrc643f46942d9dd1fff9_1_1_end_snap_helper" prot="public" virt="non-virtual">crc643f46942d9dd1fff9.EndSnapHelper</derivedcompoundref>
+    <derivedcompoundref refid="classcrc643f46942d9dd1fff9_1_1_end_snap_helper" prot="public" virt="non-virtual">crc643f46942d9dd1fff9.EndSnapHelper</derivedcompoundref>
+    <derivedcompoundref refid="classcrc643f46942d9dd1fff9_1_1_end_snap_helper" prot="public" virt="non-virtual">crc643f46942d9dd1fff9.EndSnapHelper</derivedcompoundref>
+    <derivedcompoundref refid="classcrc643f46942d9dd1fff9_1_1_start_snap_helper" prot="public" virt="non-virtual">crc643f46942d9dd1fff9.StartSnapHelper</derivedcompoundref>
+    <derivedcompoundref refid="classcrc643f46942d9dd1fff9_1_1_start_snap_helper" prot="public" virt="non-virtual">crc643f46942d9dd1fff9.StartSnapHelper</derivedcompoundref>
+    <derivedcompoundref refid="classcrc643f46942d9dd1fff9_1_1_start_snap_helper" prot="public" virt="non-virtual">crc643f46942d9dd1fff9.StartSnapHelper</derivedcompoundref>
+    <derivedcompoundref refid="classcrc643f46942d9dd1fff9_1_1_start_snap_helper" prot="public" virt="non-virtual">crc643f46942d9dd1fff9.StartSnapHelper</derivedcompoundref>
+      <sectiondef kind="public-static-attrib">
+      <memberdef kind="variable" id="classcrc643f46942d9dd1fff9_1_1_edge_snap_helper_1addaaab5cd89f62118fa1949019bf39e3" prot="public" static="yes" mutable="no">
+        <type>final String</type>
+        <definition>static final String crc643f46942d9dd1fff9.EdgeSnapHelper::__md_methods</definition>
+        <argsstring></argsstring>
+        <name>__md_methods</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+<para>@hide </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/100/android/src/crc643f46942d9dd1fff9/EdgeSnapHelper.java" line="10" column="28" bodyfile="Application Green Quake.Android/obj/Debug/100/android/src/crc643f46942d9dd1fff9/EdgeSnapHelper.java" bodystart="10" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="private-attrib">
+      <memberdef kind="variable" id="classcrc643f46942d9dd1fff9_1_1_edge_snap_helper_1a92987e7dc7002264ec7b44c1d5f32d30" prot="private" static="no" mutable="no">
+        <type>java.util.ArrayList</type>
+        <definition>java util ArrayList crc643f46942d9dd1fff9.EdgeSnapHelper::refList</definition>
+        <argsstring></argsstring>
+        <name>refList</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/100/android/src/crc643f46942d9dd1fff9/EdgeSnapHelper.java" line="25" column="27" bodyfile="Application Green Quake.Android/obj/Debug/100/android/src/crc643f46942d9dd1fff9/EdgeSnapHelper.java" bodystart="25" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="package-static-func">
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_edge_snap_helper_1a4d67e77139c2f7a7cbc6babf335943a0" prot="package" static="yes" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>crc643f46942d9dd1fff9.EdgeSnapHelper.[static initializer]</definition>
+        <argsstring></argsstring>
+        <name>[static initializer]</name>
+        <reimplements refid="classcrc643f46942d9dd1fff9_1_1_nongreedy_snap_helper_1a4dfc3e97355f599f7ed14e911729a703">[static initializer]</reimplements>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_end_snap_helper_1af8ce526475ca5e79d4bd4fe9ada19219">[static initializer]</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_start_snap_helper_1a382e170c73212a264cc558d65a18dd86">[static initializer]</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_end_snap_helper_1af8ce526475ca5e79d4bd4fe9ada19219">[static initializer]</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_start_snap_helper_1a382e170c73212a264cc558d65a18dd86">[static initializer]</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_end_snap_helper_1af8ce526475ca5e79d4bd4fe9ada19219">[static initializer]</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_start_snap_helper_1a382e170c73212a264cc558d65a18dd86">[static initializer]</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_end_snap_helper_1af8ce526475ca5e79d4bd4fe9ada19219">[static initializer]</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_start_snap_helper_1a382e170c73212a264cc558d65a18dd86">[static initializer]</reimplementedby>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/100/android/src/crc643f46942d9dd1fff9/EdgeSnapHelper.java" line="10" column="28"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_edge_snap_helper_1a4d67e77139c2f7a7cbc6babf335943a0" prot="package" static="yes" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>crc643f46942d9dd1fff9.EdgeSnapHelper.[static initializer]</definition>
+        <argsstring></argsstring>
+        <name>[static initializer]</name>
+        <reimplements refid="classcrc643f46942d9dd1fff9_1_1_nongreedy_snap_helper_1a4dfc3e97355f599f7ed14e911729a703">[static initializer]</reimplements>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_end_snap_helper_1af8ce526475ca5e79d4bd4fe9ada19219">[static initializer]</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_start_snap_helper_1a382e170c73212a264cc558d65a18dd86">[static initializer]</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_end_snap_helper_1af8ce526475ca5e79d4bd4fe9ada19219">[static initializer]</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_start_snap_helper_1a382e170c73212a264cc558d65a18dd86">[static initializer]</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_end_snap_helper_1af8ce526475ca5e79d4bd4fe9ada19219">[static initializer]</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_start_snap_helper_1a382e170c73212a264cc558d65a18dd86">[static initializer]</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_end_snap_helper_1af8ce526475ca5e79d4bd4fe9ada19219">[static initializer]</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_start_snap_helper_1a382e170c73212a264cc558d65a18dd86">[static initializer]</reimplementedby>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/110/android/src/crc643f46942d9dd1fff9/EdgeSnapHelper.java" line="10" column="28"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_edge_snap_helper_1a4d67e77139c2f7a7cbc6babf335943a0" prot="package" static="yes" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>crc643f46942d9dd1fff9.EdgeSnapHelper.[static initializer]</definition>
+        <argsstring></argsstring>
+        <name>[static initializer]</name>
+        <reimplements refid="classcrc643f46942d9dd1fff9_1_1_nongreedy_snap_helper_1a4dfc3e97355f599f7ed14e911729a703">[static initializer]</reimplements>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_end_snap_helper_1af8ce526475ca5e79d4bd4fe9ada19219">[static initializer]</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_start_snap_helper_1a382e170c73212a264cc558d65a18dd86">[static initializer]</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_end_snap_helper_1af8ce526475ca5e79d4bd4fe9ada19219">[static initializer]</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_start_snap_helper_1a382e170c73212a264cc558d65a18dd86">[static initializer]</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_end_snap_helper_1af8ce526475ca5e79d4bd4fe9ada19219">[static initializer]</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_start_snap_helper_1a382e170c73212a264cc558d65a18dd86">[static initializer]</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_end_snap_helper_1af8ce526475ca5e79d4bd4fe9ada19219">[static initializer]</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_start_snap_helper_1a382e170c73212a264cc558d65a18dd86">[static initializer]</reimplementedby>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/100/android/src/crc643f46942d9dd1fff9/EdgeSnapHelper.java" line="10" column="28"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_edge_snap_helper_1a4d67e77139c2f7a7cbc6babf335943a0" prot="package" static="yes" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>crc643f46942d9dd1fff9.EdgeSnapHelper.[static initializer]</definition>
+        <argsstring></argsstring>
+        <name>[static initializer]</name>
+        <reimplements refid="classcrc643f46942d9dd1fff9_1_1_nongreedy_snap_helper_1a4dfc3e97355f599f7ed14e911729a703">[static initializer]</reimplements>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_end_snap_helper_1af8ce526475ca5e79d4bd4fe9ada19219">[static initializer]</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_start_snap_helper_1a382e170c73212a264cc558d65a18dd86">[static initializer]</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_end_snap_helper_1af8ce526475ca5e79d4bd4fe9ada19219">[static initializer]</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_start_snap_helper_1a382e170c73212a264cc558d65a18dd86">[static initializer]</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_end_snap_helper_1af8ce526475ca5e79d4bd4fe9ada19219">[static initializer]</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_start_snap_helper_1a382e170c73212a264cc558d65a18dd86">[static initializer]</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_end_snap_helper_1af8ce526475ca5e79d4bd4fe9ada19219">[static initializer]</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_start_snap_helper_1a382e170c73212a264cc558d65a18dd86">[static initializer]</reimplementedby>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/110/android/src/crc643f46942d9dd1fff9/EdgeSnapHelper.java" line="10" column="28"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="public-func">
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_edge_snap_helper_1ad3dbb1f27c9ce04e9a3173774da0dce8" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>crc643f46942d9dd1fff9.EdgeSnapHelper.EdgeSnapHelper</definition>
+        <argsstring>()</argsstring>
+        <name>EdgeSnapHelper</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/100/android/src/crc643f46942d9dd1fff9/EdgeSnapHelper.java" line="18" column="8" bodyfile="Application Green Quake.Android/obj/Debug/100/android/src/crc643f46942d9dd1fff9/EdgeSnapHelper.java" bodystart="18" bodyend="23"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_edge_snap_helper_1aeb51a8471f66b826a12d25db94c00514" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void crc643f46942d9dd1fff9.EdgeSnapHelper.monodroidAddReference</definition>
+        <argsstring>(java.lang.Object obj)</argsstring>
+        <name>monodroidAddReference</name>
+        <reimplements refid="classcrc643f46942d9dd1fff9_1_1_nongreedy_snap_helper_1ae5829d1f1922e99f4932dec2880d47ea">monodroidAddReference</reimplements>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_end_snap_helper_1a89e2ac688d4e4ac6efe689a9c2dfe5bc">monodroidAddReference</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_start_snap_helper_1a28363ee63ccf53572c25217a868aa631">monodroidAddReference</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_end_snap_helper_1a89e2ac688d4e4ac6efe689a9c2dfe5bc">monodroidAddReference</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_start_snap_helper_1a28363ee63ccf53572c25217a868aa631">monodroidAddReference</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_end_snap_helper_1a89e2ac688d4e4ac6efe689a9c2dfe5bc">monodroidAddReference</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_start_snap_helper_1a28363ee63ccf53572c25217a868aa631">monodroidAddReference</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_end_snap_helper_1a89e2ac688d4e4ac6efe689a9c2dfe5bc">monodroidAddReference</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_start_snap_helper_1a28363ee63ccf53572c25217a868aa631">monodroidAddReference</reimplementedby>
+        <param>
+          <type>java.lang.Object</type>
+          <declname>obj</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/100/android/src/crc643f46942d9dd1fff9/EdgeSnapHelper.java" line="26" column="13" bodyfile="Application Green Quake.Android/obj/Debug/100/android/src/crc643f46942d9dd1fff9/EdgeSnapHelper.java" bodystart="26" bodyend="31"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_edge_snap_helper_1af497d3d76b8d01869af5e07fdb15e182" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void crc643f46942d9dd1fff9.EdgeSnapHelper.monodroidClearReferences</definition>
+        <argsstring>()</argsstring>
+        <name>monodroidClearReferences</name>
+        <reimplements refid="classcrc643f46942d9dd1fff9_1_1_nongreedy_snap_helper_1a8c56cae86ff7261e2ed7af6bb46bca23">monodroidClearReferences</reimplements>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_end_snap_helper_1acbac000bc8ad108f3f9225f0c0fa9031">monodroidClearReferences</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_start_snap_helper_1ae63a3911f3b909cb61cf9e8199be3be5">monodroidClearReferences</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_end_snap_helper_1acbac000bc8ad108f3f9225f0c0fa9031">monodroidClearReferences</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_start_snap_helper_1ae63a3911f3b909cb61cf9e8199be3be5">monodroidClearReferences</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_end_snap_helper_1acbac000bc8ad108f3f9225f0c0fa9031">monodroidClearReferences</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_start_snap_helper_1ae63a3911f3b909cb61cf9e8199be3be5">monodroidClearReferences</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_end_snap_helper_1acbac000bc8ad108f3f9225f0c0fa9031">monodroidClearReferences</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_start_snap_helper_1ae63a3911f3b909cb61cf9e8199be3be5">monodroidClearReferences</reimplementedby>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/100/android/src/crc643f46942d9dd1fff9/EdgeSnapHelper.java" line="33" column="13" bodyfile="Application Green Quake.Android/obj/Debug/100/android/src/crc643f46942d9dd1fff9/EdgeSnapHelper.java" bodystart="33" bodyend="37"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_edge_snap_helper_1ad3dbb1f27c9ce04e9a3173774da0dce8" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>crc643f46942d9dd1fff9.EdgeSnapHelper.EdgeSnapHelper</definition>
+        <argsstring>()</argsstring>
+        <name>EdgeSnapHelper</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/110/android/src/crc643f46942d9dd1fff9/EdgeSnapHelper.java" line="18" column="8" bodyfile="Application Green Quake.Android/obj/Debug/110/android/src/crc643f46942d9dd1fff9/EdgeSnapHelper.java" bodystart="18" bodyend="23"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_edge_snap_helper_1aeb51a8471f66b826a12d25db94c00514" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void crc643f46942d9dd1fff9.EdgeSnapHelper.monodroidAddReference</definition>
+        <argsstring>(java.lang.Object obj)</argsstring>
+        <name>monodroidAddReference</name>
+        <reimplements refid="classcrc643f46942d9dd1fff9_1_1_nongreedy_snap_helper_1ae5829d1f1922e99f4932dec2880d47ea">monodroidAddReference</reimplements>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_end_snap_helper_1a89e2ac688d4e4ac6efe689a9c2dfe5bc">monodroidAddReference</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_start_snap_helper_1a28363ee63ccf53572c25217a868aa631">monodroidAddReference</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_end_snap_helper_1a89e2ac688d4e4ac6efe689a9c2dfe5bc">monodroidAddReference</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_start_snap_helper_1a28363ee63ccf53572c25217a868aa631">monodroidAddReference</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_end_snap_helper_1a89e2ac688d4e4ac6efe689a9c2dfe5bc">monodroidAddReference</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_start_snap_helper_1a28363ee63ccf53572c25217a868aa631">monodroidAddReference</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_end_snap_helper_1a89e2ac688d4e4ac6efe689a9c2dfe5bc">monodroidAddReference</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_start_snap_helper_1a28363ee63ccf53572c25217a868aa631">monodroidAddReference</reimplementedby>
+        <param>
+          <type>java.lang.Object</type>
+          <declname>obj</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/110/android/src/crc643f46942d9dd1fff9/EdgeSnapHelper.java" line="26" column="13" bodyfile="Application Green Quake.Android/obj/Debug/110/android/src/crc643f46942d9dd1fff9/EdgeSnapHelper.java" bodystart="26" bodyend="31"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_edge_snap_helper_1af497d3d76b8d01869af5e07fdb15e182" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void crc643f46942d9dd1fff9.EdgeSnapHelper.monodroidClearReferences</definition>
+        <argsstring>()</argsstring>
+        <name>monodroidClearReferences</name>
+        <reimplements refid="classcrc643f46942d9dd1fff9_1_1_nongreedy_snap_helper_1a8c56cae86ff7261e2ed7af6bb46bca23">monodroidClearReferences</reimplements>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_end_snap_helper_1acbac000bc8ad108f3f9225f0c0fa9031">monodroidClearReferences</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_start_snap_helper_1ae63a3911f3b909cb61cf9e8199be3be5">monodroidClearReferences</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_end_snap_helper_1acbac000bc8ad108f3f9225f0c0fa9031">monodroidClearReferences</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_start_snap_helper_1ae63a3911f3b909cb61cf9e8199be3be5">monodroidClearReferences</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_end_snap_helper_1acbac000bc8ad108f3f9225f0c0fa9031">monodroidClearReferences</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_start_snap_helper_1ae63a3911f3b909cb61cf9e8199be3be5">monodroidClearReferences</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_end_snap_helper_1acbac000bc8ad108f3f9225f0c0fa9031">monodroidClearReferences</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_start_snap_helper_1ae63a3911f3b909cb61cf9e8199be3be5">monodroidClearReferences</reimplementedby>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/110/android/src/crc643f46942d9dd1fff9/EdgeSnapHelper.java" line="33" column="13" bodyfile="Application Green Quake.Android/obj/Debug/110/android/src/crc643f46942d9dd1fff9/EdgeSnapHelper.java" bodystart="33" bodyend="37"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_edge_snap_helper_1ad3dbb1f27c9ce04e9a3173774da0dce8" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>crc643f46942d9dd1fff9.EdgeSnapHelper.EdgeSnapHelper</definition>
+        <argsstring>()</argsstring>
+        <name>EdgeSnapHelper</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/100/android/src/crc643f46942d9dd1fff9/EdgeSnapHelper.java" line="18" column="8" bodyfile="Application Green Quake.Android/obj/Release/100/android/src/crc643f46942d9dd1fff9/EdgeSnapHelper.java" bodystart="18" bodyend="23"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_edge_snap_helper_1aeb51a8471f66b826a12d25db94c00514" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void crc643f46942d9dd1fff9.EdgeSnapHelper.monodroidAddReference</definition>
+        <argsstring>(java.lang.Object obj)</argsstring>
+        <name>monodroidAddReference</name>
+        <reimplements refid="classcrc643f46942d9dd1fff9_1_1_nongreedy_snap_helper_1ae5829d1f1922e99f4932dec2880d47ea">monodroidAddReference</reimplements>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_end_snap_helper_1a89e2ac688d4e4ac6efe689a9c2dfe5bc">monodroidAddReference</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_start_snap_helper_1a28363ee63ccf53572c25217a868aa631">monodroidAddReference</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_end_snap_helper_1a89e2ac688d4e4ac6efe689a9c2dfe5bc">monodroidAddReference</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_start_snap_helper_1a28363ee63ccf53572c25217a868aa631">monodroidAddReference</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_end_snap_helper_1a89e2ac688d4e4ac6efe689a9c2dfe5bc">monodroidAddReference</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_start_snap_helper_1a28363ee63ccf53572c25217a868aa631">monodroidAddReference</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_end_snap_helper_1a89e2ac688d4e4ac6efe689a9c2dfe5bc">monodroidAddReference</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_start_snap_helper_1a28363ee63ccf53572c25217a868aa631">monodroidAddReference</reimplementedby>
+        <param>
+          <type>java.lang.Object</type>
+          <declname>obj</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/100/android/src/crc643f46942d9dd1fff9/EdgeSnapHelper.java" line="26" column="13" bodyfile="Application Green Quake.Android/obj/Release/100/android/src/crc643f46942d9dd1fff9/EdgeSnapHelper.java" bodystart="26" bodyend="31"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_edge_snap_helper_1af497d3d76b8d01869af5e07fdb15e182" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void crc643f46942d9dd1fff9.EdgeSnapHelper.monodroidClearReferences</definition>
+        <argsstring>()</argsstring>
+        <name>monodroidClearReferences</name>
+        <reimplements refid="classcrc643f46942d9dd1fff9_1_1_nongreedy_snap_helper_1a8c56cae86ff7261e2ed7af6bb46bca23">monodroidClearReferences</reimplements>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_end_snap_helper_1acbac000bc8ad108f3f9225f0c0fa9031">monodroidClearReferences</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_start_snap_helper_1ae63a3911f3b909cb61cf9e8199be3be5">monodroidClearReferences</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_end_snap_helper_1acbac000bc8ad108f3f9225f0c0fa9031">monodroidClearReferences</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_start_snap_helper_1ae63a3911f3b909cb61cf9e8199be3be5">monodroidClearReferences</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_end_snap_helper_1acbac000bc8ad108f3f9225f0c0fa9031">monodroidClearReferences</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_start_snap_helper_1ae63a3911f3b909cb61cf9e8199be3be5">monodroidClearReferences</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_end_snap_helper_1acbac000bc8ad108f3f9225f0c0fa9031">monodroidClearReferences</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_start_snap_helper_1ae63a3911f3b909cb61cf9e8199be3be5">monodroidClearReferences</reimplementedby>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/100/android/src/crc643f46942d9dd1fff9/EdgeSnapHelper.java" line="33" column="13" bodyfile="Application Green Quake.Android/obj/Release/100/android/src/crc643f46942d9dd1fff9/EdgeSnapHelper.java" bodystart="33" bodyend="37"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_edge_snap_helper_1ad3dbb1f27c9ce04e9a3173774da0dce8" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>crc643f46942d9dd1fff9.EdgeSnapHelper.EdgeSnapHelper</definition>
+        <argsstring>()</argsstring>
+        <name>EdgeSnapHelper</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/110/android/src/crc643f46942d9dd1fff9/EdgeSnapHelper.java" line="18" column="8" bodyfile="Application Green Quake.Android/obj/Release/110/android/src/crc643f46942d9dd1fff9/EdgeSnapHelper.java" bodystart="18" bodyend="23"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_edge_snap_helper_1aeb51a8471f66b826a12d25db94c00514" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void crc643f46942d9dd1fff9.EdgeSnapHelper.monodroidAddReference</definition>
+        <argsstring>(java.lang.Object obj)</argsstring>
+        <name>monodroidAddReference</name>
+        <reimplements refid="classcrc643f46942d9dd1fff9_1_1_nongreedy_snap_helper_1ae5829d1f1922e99f4932dec2880d47ea">monodroidAddReference</reimplements>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_end_snap_helper_1a89e2ac688d4e4ac6efe689a9c2dfe5bc">monodroidAddReference</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_start_snap_helper_1a28363ee63ccf53572c25217a868aa631">monodroidAddReference</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_end_snap_helper_1a89e2ac688d4e4ac6efe689a9c2dfe5bc">monodroidAddReference</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_start_snap_helper_1a28363ee63ccf53572c25217a868aa631">monodroidAddReference</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_end_snap_helper_1a89e2ac688d4e4ac6efe689a9c2dfe5bc">monodroidAddReference</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_start_snap_helper_1a28363ee63ccf53572c25217a868aa631">monodroidAddReference</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_end_snap_helper_1a89e2ac688d4e4ac6efe689a9c2dfe5bc">monodroidAddReference</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_start_snap_helper_1a28363ee63ccf53572c25217a868aa631">monodroidAddReference</reimplementedby>
+        <param>
+          <type>java.lang.Object</type>
+          <declname>obj</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/110/android/src/crc643f46942d9dd1fff9/EdgeSnapHelper.java" line="26" column="13" bodyfile="Application Green Quake.Android/obj/Release/110/android/src/crc643f46942d9dd1fff9/EdgeSnapHelper.java" bodystart="26" bodyend="31"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_edge_snap_helper_1af497d3d76b8d01869af5e07fdb15e182" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void crc643f46942d9dd1fff9.EdgeSnapHelper.monodroidClearReferences</definition>
+        <argsstring>()</argsstring>
+        <name>monodroidClearReferences</name>
+        <reimplements refid="classcrc643f46942d9dd1fff9_1_1_nongreedy_snap_helper_1a8c56cae86ff7261e2ed7af6bb46bca23">monodroidClearReferences</reimplements>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_end_snap_helper_1acbac000bc8ad108f3f9225f0c0fa9031">monodroidClearReferences</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_start_snap_helper_1ae63a3911f3b909cb61cf9e8199be3be5">monodroidClearReferences</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_end_snap_helper_1acbac000bc8ad108f3f9225f0c0fa9031">monodroidClearReferences</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_start_snap_helper_1ae63a3911f3b909cb61cf9e8199be3be5">monodroidClearReferences</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_end_snap_helper_1acbac000bc8ad108f3f9225f0c0fa9031">monodroidClearReferences</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_start_snap_helper_1ae63a3911f3b909cb61cf9e8199be3be5">monodroidClearReferences</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_end_snap_helper_1acbac000bc8ad108f3f9225f0c0fa9031">monodroidClearReferences</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_start_snap_helper_1ae63a3911f3b909cb61cf9e8199be3be5">monodroidClearReferences</reimplementedby>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/110/android/src/crc643f46942d9dd1fff9/EdgeSnapHelper.java" line="33" column="13" bodyfile="Application Green Quake.Android/obj/Release/110/android/src/crc643f46942d9dd1fff9/EdgeSnapHelper.java" bodystart="33" bodyend="37"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <inheritancegraph>
+      <node id="7">
+        <label>crc643f46942d9dd1fff9.StartSnapHelper</label>
+        <link refid="classcrc643f46942d9dd1fff9_1_1_start_snap_helper"/>
+        <childnode refid="1" relation="public-inheritance">
+        </childnode>
+        <childnode refid="1" relation="public-inheritance">
+        </childnode>
+        <childnode refid="1" relation="public-inheritance">
+        </childnode>
+        <childnode refid="1" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="2">
+        <label>crc643f46942d9dd1fff9.NongreedySnapHelper</label>
+        <link refid="classcrc643f46942d9dd1fff9_1_1_nongreedy_snap_helper"/>
+        <childnode refid="3" relation="public-inheritance">
+        </childnode>
+        <childnode refid="4" relation="public-inheritance">
+        </childnode>
+        <childnode refid="5" relation="public-inheritance">
+        </childnode>
+        <childnode refid="4" relation="public-inheritance">
+        </childnode>
+        <childnode refid="5" relation="public-inheritance">
+        </childnode>
+        <childnode refid="4" relation="public-inheritance">
+        </childnode>
+        <childnode refid="5" relation="public-inheritance">
+        </childnode>
+        <childnode refid="4" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="6">
+        <label>crc643f46942d9dd1fff9.EndSnapHelper</label>
+        <link refid="classcrc643f46942d9dd1fff9_1_1_end_snap_helper"/>
+        <childnode refid="1" relation="public-inheritance">
+        </childnode>
+        <childnode refid="1" relation="public-inheritance">
+        </childnode>
+        <childnode refid="1" relation="public-inheritance">
+        </childnode>
+        <childnode refid="1" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="4">
+        <label>mono.android.IGCUserPeer</label>
+      </node>
+      <node id="1">
+        <label>crc643f46942d9dd1fff9.EdgeSnapHelper</label>
+        <link refid="classcrc643f46942d9dd1fff9_1_1_edge_snap_helper"/>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+        <childnode refid="4" relation="public-inheritance">
+        </childnode>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+        <childnode refid="4" relation="public-inheritance">
+        </childnode>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+        <childnode refid="4" relation="public-inheritance">
+        </childnode>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+        <childnode refid="4" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="5">
+        <label>androidx.recyclerview.widget.LinearSnapHelper</label>
+      </node>
+      <node id="3">
+        <label>androidx::recyclerview::widget::LinearSnapHelper</label>
+      </node>
+    </inheritancegraph>
+    <collaborationgraph>
+      <node id="2">
+        <label>crc643f46942d9dd1fff9.NongreedySnapHelper</label>
+        <link refid="classcrc643f46942d9dd1fff9_1_1_nongreedy_snap_helper"/>
+        <childnode refid="3" relation="public-inheritance">
+        </childnode>
+        <childnode refid="4" relation="public-inheritance">
+        </childnode>
+        <childnode refid="5" relation="public-inheritance">
+        </childnode>
+        <childnode refid="4" relation="public-inheritance">
+        </childnode>
+        <childnode refid="5" relation="public-inheritance">
+        </childnode>
+        <childnode refid="4" relation="public-inheritance">
+        </childnode>
+        <childnode refid="5" relation="public-inheritance">
+        </childnode>
+        <childnode refid="4" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="4">
+        <label>mono.android.IGCUserPeer</label>
+      </node>
+      <node id="1">
+        <label>crc643f46942d9dd1fff9.EdgeSnapHelper</label>
+        <link refid="classcrc643f46942d9dd1fff9_1_1_edge_snap_helper"/>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+        <childnode refid="4" relation="public-inheritance">
+        </childnode>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+        <childnode refid="4" relation="public-inheritance">
+        </childnode>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+        <childnode refid="4" relation="public-inheritance">
+        </childnode>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+        <childnode refid="4" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="5">
+        <label>androidx.recyclerview.widget.LinearSnapHelper</label>
+      </node>
+      <node id="3">
+        <label>androidx::recyclerview::widget::LinearSnapHelper</label>
+      </node>
+    </collaborationgraph>
+    <location file="Application Green Quake.Android/obj/Debug/100/android/src/crc643f46942d9dd1fff9/EdgeSnapHelper.java" line="4" column="17" bodyfile="Application Green Quake.Android/obj/Debug/100/android/src/crc643f46942d9dd1fff9/EdgeSnapHelper.java" bodystart="8" bodyend="38"/>
+    <listofallmembers>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_edge_snap_helper_1a4d67e77139c2f7a7cbc6babf335943a0" prot="package" virt="non-virtual"><scope>crc643f46942d9dd1fff9::EdgeSnapHelper</scope><name>[static initializer]</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_edge_snap_helper_1a4d67e77139c2f7a7cbc6babf335943a0" prot="package" virt="non-virtual"><scope>crc643f46942d9dd1fff9::EdgeSnapHelper</scope><name>[static initializer]</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_edge_snap_helper_1a4d67e77139c2f7a7cbc6babf335943a0" prot="package" virt="non-virtual"><scope>crc643f46942d9dd1fff9::EdgeSnapHelper</scope><name>[static initializer]</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_edge_snap_helper_1a4d67e77139c2f7a7cbc6babf335943a0" prot="package" virt="non-virtual"><scope>crc643f46942d9dd1fff9::EdgeSnapHelper</scope><name>[static initializer]</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_edge_snap_helper_1addaaab5cd89f62118fa1949019bf39e3" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::EdgeSnapHelper</scope><name>__md_methods</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_nongreedy_snap_helper_1ac9df4ba7a5c91878c49201d9237cdb0a" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::EdgeSnapHelper</scope><name>attachToRecyclerView</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_nongreedy_snap_helper_1ac9df4ba7a5c91878c49201d9237cdb0a" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::EdgeSnapHelper</scope><name>attachToRecyclerView</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_nongreedy_snap_helper_1ac9df4ba7a5c91878c49201d9237cdb0a" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::EdgeSnapHelper</scope><name>attachToRecyclerView</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_nongreedy_snap_helper_1ac9df4ba7a5c91878c49201d9237cdb0a" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::EdgeSnapHelper</scope><name>attachToRecyclerView</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_edge_snap_helper_1ad3dbb1f27c9ce04e9a3173774da0dce8" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::EdgeSnapHelper</scope><name>EdgeSnapHelper</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_edge_snap_helper_1ad3dbb1f27c9ce04e9a3173774da0dce8" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::EdgeSnapHelper</scope><name>EdgeSnapHelper</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_edge_snap_helper_1ad3dbb1f27c9ce04e9a3173774da0dce8" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::EdgeSnapHelper</scope><name>EdgeSnapHelper</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_edge_snap_helper_1ad3dbb1f27c9ce04e9a3173774da0dce8" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::EdgeSnapHelper</scope><name>EdgeSnapHelper</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_edge_snap_helper_1aeb51a8471f66b826a12d25db94c00514" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::EdgeSnapHelper</scope><name>monodroidAddReference</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_edge_snap_helper_1aeb51a8471f66b826a12d25db94c00514" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::EdgeSnapHelper</scope><name>monodroidAddReference</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_edge_snap_helper_1aeb51a8471f66b826a12d25db94c00514" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::EdgeSnapHelper</scope><name>monodroidAddReference</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_edge_snap_helper_1aeb51a8471f66b826a12d25db94c00514" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::EdgeSnapHelper</scope><name>monodroidAddReference</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_edge_snap_helper_1af497d3d76b8d01869af5e07fdb15e182" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::EdgeSnapHelper</scope><name>monodroidClearReferences</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_edge_snap_helper_1af497d3d76b8d01869af5e07fdb15e182" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::EdgeSnapHelper</scope><name>monodroidClearReferences</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_edge_snap_helper_1af497d3d76b8d01869af5e07fdb15e182" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::EdgeSnapHelper</scope><name>monodroidClearReferences</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_edge_snap_helper_1af497d3d76b8d01869af5e07fdb15e182" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::EdgeSnapHelper</scope><name>monodroidClearReferences</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_nongreedy_snap_helper_1a2ff669ade5ae36b5f48b95b3b882db15" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::EdgeSnapHelper</scope><name>NongreedySnapHelper</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_nongreedy_snap_helper_1a2ff669ade5ae36b5f48b95b3b882db15" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::EdgeSnapHelper</scope><name>NongreedySnapHelper</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_nongreedy_snap_helper_1a2ff669ade5ae36b5f48b95b3b882db15" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::EdgeSnapHelper</scope><name>NongreedySnapHelper</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_nongreedy_snap_helper_1a2ff669ade5ae36b5f48b95b3b882db15" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::EdgeSnapHelper</scope><name>NongreedySnapHelper</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_edge_snap_helper_1a92987e7dc7002264ec7b44c1d5f32d30" prot="private" virt="non-virtual"><scope>crc643f46942d9dd1fff9::EdgeSnapHelper</scope><name>refList</name></member>
+    </listofallmembers>
+  </compounddef>
+</doxygen>

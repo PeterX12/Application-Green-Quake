@@ -1,0 +1,81 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<section xmlns="http://docbook.org/ns/docbook" version="5.0" xmlns:xlink="http://www.w3.org/1999/xlink" xml:id="_class_application___green___quake_1_1_view_models_1_1_habits_points_update" xml:lang="en-US">
+<title>Application_Green_Quake.ViewModels.HabitsPointsUpdate Class Reference</title>
+<indexterm><primary>Application_Green_Quake.ViewModels.HabitsPointsUpdate</primary></indexterm>
+<simplesect>
+    <title>Public Member Functions    </title>
+        <itemizedlist>
+            <listitem><para>async void <link linkend="_class_application___green___quake_1_1_view_models_1_1_habits_points_update_1a1efeb3deafa40dbee66f6ccfef66df32">BrushingPoints</link> ()</para>
+</listitem>
+            <listitem><para>async void <link linkend="_class_application___green___quake_1_1_view_models_1_1_habits_points_update_1ae66dc7b742c4f07942f54b13ac38621d">DishWasherFullPoints</link> ()</para>
+</listitem>
+            <listitem><para>async void <link linkend="_class_application___green___quake_1_1_view_models_1_1_habits_points_update_1a7d57927f91f955ff8cc4cc90e65662f0">ShowerInsteadPoints</link> ()</para>
+</listitem>
+            <listitem><para>async void <link linkend="_class_application___green___quake_1_1_view_models_1_1_habits_points_update_1a55b365da6522b44d320dde38a86bc964">TimedShowerInsteadPoints</link> ()</para>
+</listitem>
+            <listitem><para>async void <link linkend="_class_application___green___quake_1_1_view_models_1_1_habits_points_update_1a90dc026faa6909b522209e5295ec237f">OffLightsPoints</link> ()</para>
+</listitem>
+            <listitem><para>async void <link linkend="_class_application___green___quake_1_1_view_models_1_1_habits_points_update_1a01d31899e5ffb140ce077ebc96e3665e">MatchesPoints</link> ()</para>
+</listitem>
+        </itemizedlist>
+</simplesect>
+<section>
+<title>Detailed Description</title>
+<para>
+Definition at line 18 of file HabitsPointsUpdate.cs.</para>
+</section>
+<section>
+<title>Member Function Documentation</title>
+<anchor xml:id="_class_application___green___quake_1_1_view_models_1_1_habits_points_update_1a1efeb3deafa40dbee66f6ccfef66df32"/>    <section>
+    <title>BrushingPoints()</title>
+<indexterm><primary>BrushingPoints</primary><secondary>Application_Green_Quake.ViewModels.HabitsPointsUpdate</secondary></indexterm>
+<indexterm><primary>Application_Green_Quake.ViewModels.HabitsPointsUpdate</primary><secondary>BrushingPoints</secondary></indexterm>
+<para><computeroutput>async void Application_Green_Quake.ViewModels.HabitsPointsUpdate.BrushingPoints ( )</computeroutput></para>
+<para>This function updates the points in the Habits category by two points. It also increments the number of logs logged in the Habits category by one and increments the number of times this particular action was logged by one and sends this data to Firebase. </para>
+<para>
+Definition at line 35 of file HabitsPointsUpdate.cs.</para>
+    </section><anchor xml:id="_class_application___green___quake_1_1_view_models_1_1_habits_points_update_1ae66dc7b742c4f07942f54b13ac38621d"/>    <section>
+    <title>DishWasherFullPoints()</title>
+<indexterm><primary>DishWasherFullPoints</primary><secondary>Application_Green_Quake.ViewModels.HabitsPointsUpdate</secondary></indexterm>
+<indexterm><primary>Application_Green_Quake.ViewModels.HabitsPointsUpdate</primary><secondary>DishWasherFullPoints</secondary></indexterm>
+<para><computeroutput>async void Application_Green_Quake.ViewModels.HabitsPointsUpdate.DishWasherFullPoints ( )</computeroutput></para>
+<para>This function updates the points in the Habits category by eight points. It also increments the number of logs logged in the Habits category by one and increments the number of times this particular action was logged by one and sends this data to Firebase. </para>
+<para>
+Definition at line 141 of file HabitsPointsUpdate.cs.</para>
+    </section><anchor xml:id="_class_application___green___quake_1_1_view_models_1_1_habits_points_update_1a01d31899e5ffb140ce077ebc96e3665e"/>    <section>
+    <title>MatchesPoints()</title>
+<indexterm><primary>MatchesPoints</primary><secondary>Application_Green_Quake.ViewModels.HabitsPointsUpdate</secondary></indexterm>
+<indexterm><primary>Application_Green_Quake.ViewModels.HabitsPointsUpdate</primary><secondary>MatchesPoints</secondary></indexterm>
+<para><computeroutput>async void Application_Green_Quake.ViewModels.HabitsPointsUpdate.MatchesPoints ( )</computeroutput></para>
+<para>This function updates the points in the Habits category by two points. It also increments the number of logs logged in the Habits category by one and increments the number of times this particular action was logged by one and sends this data to Firebase. </para>
+<para>
+Definition at line 565 of file HabitsPointsUpdate.cs.</para>
+    </section><anchor xml:id="_class_application___green___quake_1_1_view_models_1_1_habits_points_update_1a90dc026faa6909b522209e5295ec237f"/>    <section>
+    <title>OffLightsPoints()</title>
+<indexterm><primary>OffLightsPoints</primary><secondary>Application_Green_Quake.ViewModels.HabitsPointsUpdate</secondary></indexterm>
+<indexterm><primary>Application_Green_Quake.ViewModels.HabitsPointsUpdate</primary><secondary>OffLightsPoints</secondary></indexterm>
+<para><computeroutput>async void Application_Green_Quake.ViewModels.HabitsPointsUpdate.OffLightsPoints ( )</computeroutput></para>
+<para>This function updates the points in the Habits category by two points. It also increments the number of logs logged in the Habits category by one and increments the number of times this particular action was logged by one and sends this data to Firebase. </para>
+<para>
+Definition at line 459 of file HabitsPointsUpdate.cs.</para>
+    </section><anchor xml:id="_class_application___green___quake_1_1_view_models_1_1_habits_points_update_1a7d57927f91f955ff8cc4cc90e65662f0"/>    <section>
+    <title>ShowerInsteadPoints()</title>
+<indexterm><primary>ShowerInsteadPoints</primary><secondary>Application_Green_Quake.ViewModels.HabitsPointsUpdate</secondary></indexterm>
+<indexterm><primary>Application_Green_Quake.ViewModels.HabitsPointsUpdate</primary><secondary>ShowerInsteadPoints</secondary></indexterm>
+<para><computeroutput>async void Application_Green_Quake.ViewModels.HabitsPointsUpdate.ShowerInsteadPoints ( )</computeroutput></para>
+<para>This function updates the points in the Habits category by six points. It also increments the number of logs logged in the Habits category by one and increments the number of times this particular action was logged by one and sends this data to Firebase. </para>
+<para>
+Definition at line 247 of file HabitsPointsUpdate.cs.</para>
+    </section><anchor xml:id="_class_application___green___quake_1_1_view_models_1_1_habits_points_update_1a55b365da6522b44d320dde38a86bc964"/>    <section>
+    <title>TimedShowerInsteadPoints()</title>
+<indexterm><primary>TimedShowerInsteadPoints</primary><secondary>Application_Green_Quake.ViewModels.HabitsPointsUpdate</secondary></indexterm>
+<indexterm><primary>Application_Green_Quake.ViewModels.HabitsPointsUpdate</primary><secondary>TimedShowerInsteadPoints</secondary></indexterm>
+<para><computeroutput>async void Application_Green_Quake.ViewModels.HabitsPointsUpdate.TimedShowerInsteadPoints ( )</computeroutput></para>
+<para>This function updates the points in the Habits category by four points. It also increments the number of logs logged in the Habits category by one and increments the number of times this particular action was logged by one and sends this data to Firebase. </para>
+<para>
+Definition at line 353 of file HabitsPointsUpdate.cs.</para>
+</section>
+<para>
+The documentation for this class was generated from the following file:</para>
+Application Green Quake/ViewModels/<link linkend="__habits_points_update_8cs">HabitsPointsUpdate.cs</link></section>
+</section>

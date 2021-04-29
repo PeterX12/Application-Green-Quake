@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.9.1" xml:lang="en-US">
+  <compounddef id="_release_2110_2android_2src_2mono_2androidx_2recyclerview_2widget_2_recycler_view___item_animato25b7bf3d2b2d825b8debd6937226eac3" kind="file" language="Java">
+    <compoundname>RecyclerView_ItemAnimator_ItemAnimatorFinishedListenerImplementor.java</compoundname>
+    <innerclass refid="classmono_1_1androidx_1_1recyclerview_1_1widget_1_1_recycler_view___item_animator___item_animator_finished_listener_implementor" prot="public">mono::androidx::recyclerview::widget::RecyclerView_ItemAnimator_ItemAnimatorFinishedListenerImplementor</innerclass>
+    <innernamespace refid="namespacemono_1_1androidx_1_1recyclerview_1_1widget">mono::androidx::recyclerview::widget</innernamespace>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <programlisting>
+<codeline lineno="1"><highlight class="keyword">package<sp/></highlight><highlight class="normal">mono.androidx.recyclerview.widget;</highlight></codeline>
+<codeline lineno="2"><highlight class="normal"></highlight></codeline>
+<codeline lineno="3"><highlight class="normal"></highlight></codeline>
+<codeline lineno="4"><highlight class="normal"></highlight><highlight class="keyword">public</highlight><highlight class="normal"><sp/></highlight><highlight class="keyword">class<sp/></highlight><highlight class="normal">RecyclerView_ItemAnimator_ItemAnimatorFinishedListenerImplementor</highlight></codeline>
+<codeline lineno="5"><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">extends</highlight><highlight class="normal"><sp/>java.lang.Object</highlight></codeline>
+<codeline lineno="6"><highlight class="normal"><sp/><sp/><sp/><sp/>implements</highlight></codeline>
+<codeline lineno="7"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>mono.android.IGCUserPeer,</highlight></codeline>
+<codeline lineno="8"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>androidx.recyclerview.widget.RecyclerView.ItemAnimator.ItemAnimatorFinishedListener</highlight></codeline>
+<codeline lineno="9"><highlight class="normal">{</highlight></codeline>
+<codeline lineno="11"><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">public</highlight><highlight class="normal"><sp/></highlight><highlight class="keyword">static</highlight><highlight class="normal"><sp/></highlight><highlight class="keyword">final</highlight><highlight class="normal"><sp/>String<sp/><ref refid="classmono_1_1androidx_1_1recyclerview_1_1widget_1_1_recycler_view___item_animator___item_animator_finished_listener_implementor_1af7c0c21349bb78bba0944e5f638a5e9d" kindref="member">__md_methods</ref>;</highlight></codeline>
+<codeline lineno="12"><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">static</highlight><highlight class="normal"><sp/>{</highlight></codeline>
+<codeline lineno="13"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><ref refid="classmono_1_1androidx_1_1recyclerview_1_1widget_1_1_recycler_view___item_animator___item_animator_finished_listener_implementor_1af7c0c21349bb78bba0944e5f638a5e9d" kindref="member">__md_methods</ref><sp/>=<sp/></highlight></codeline>
+<codeline lineno="14"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="stringliteral">&quot;n_onAnimationsFinished:()V:GetOnAnimationsFinishedHandler:AndroidX.RecyclerView.Widget.RecyclerView/ItemAnimator/IItemAnimatorFinishedListenerInvoker,<sp/>Xamarin.AndroidX.RecyclerView\n&quot;</highlight><highlight class="normal"><sp/>+</highlight></codeline>
+<codeline lineno="15"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="stringliteral">&quot;&quot;</highlight><highlight class="normal">;</highlight></codeline>
+<codeline lineno="16"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>mono.android.Runtime.register<sp/>(</highlight><highlight class="stringliteral">&quot;AndroidX.RecyclerView.Widget.RecyclerView+ItemAnimator+IItemAnimatorFinishedListenerImplementor,<sp/>Xamarin.AndroidX.RecyclerView&quot;</highlight><highlight class="normal">,<sp/><ref refid="classmono_1_1androidx_1_1recyclerview_1_1widget_1_1_recycler_view___item_animator___item_animator_finished_listener_implementor_1ad68fb2c86056816100da05a458a96dc2" kindref="member">RecyclerView_ItemAnimator_ItemAnimatorFinishedListenerImplementor</ref>.class,<sp/><ref refid="classmono_1_1androidx_1_1recyclerview_1_1widget_1_1_recycler_view___item_animator___item_animator_finished_listener_implementor_1af7c0c21349bb78bba0944e5f638a5e9d" kindref="member">__md_methods</ref>);</highlight></codeline>
+<codeline lineno="17"><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline lineno="18"><highlight class="normal"></highlight></codeline>
+<codeline lineno="19"><highlight class="normal"></highlight></codeline>
+<codeline lineno="20" refid="classmono_1_1androidx_1_1recyclerview_1_1widget_1_1_recycler_view___item_animator___item_animator_finished_listener_implementor_1ad68fb2c86056816100da05a458a96dc2" refkind="member"><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">public</highlight><highlight class="normal"><sp/><ref refid="classmono_1_1androidx_1_1recyclerview_1_1widget_1_1_recycler_view___item_animator___item_animator_finished_listener_implementor_1ad68fb2c86056816100da05a458a96dc2" kindref="member">RecyclerView_ItemAnimator_ItemAnimatorFinishedListenerImplementor</ref><sp/>()</highlight></codeline>
+<codeline lineno="21"><highlight class="normal"><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline lineno="22"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>super<sp/>();</highlight></codeline>
+<codeline lineno="23"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">if</highlight><highlight class="normal"><sp/>(getClass<sp/>()<sp/>==<sp/><ref refid="classmono_1_1androidx_1_1recyclerview_1_1widget_1_1_recycler_view___item_animator___item_animator_finished_listener_implementor" kindref="compound">RecyclerView_ItemAnimator_ItemAnimatorFinishedListenerImplementor</ref>.class)</highlight></codeline>
+<codeline lineno="24"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>mono.android.TypeManager.Activate<sp/>(</highlight><highlight class="stringliteral">&quot;AndroidX.RecyclerView.Widget.RecyclerView+ItemAnimator+IItemAnimatorFinishedListenerImplementor,<sp/>Xamarin.AndroidX.RecyclerView&quot;</highlight><highlight class="normal">,<sp/></highlight><highlight class="stringliteral">&quot;&quot;</highlight><highlight class="normal">,<sp/></highlight><highlight class="keyword">this</highlight><highlight class="normal">,<sp/></highlight><highlight class="keyword">new</highlight><highlight class="normal"><sp/>java.lang.Object[]<sp/>{<sp/><sp/>});</highlight></codeline>
+<codeline lineno="25"><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline lineno="26"><highlight class="normal"></highlight></codeline>
+<codeline lineno="27"><highlight class="normal"></highlight></codeline>
+<codeline lineno="28" refid="classmono_1_1androidx_1_1recyclerview_1_1widget_1_1_recycler_view___item_animator___item_animator_finished_listener_implementor_1a20e31ab7cc70d244d9d33490d58a8698" refkind="member"><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">public</highlight><highlight class="normal"><sp/></highlight><highlight class="keywordtype">void</highlight><highlight class="normal"><sp/><ref refid="classmono_1_1androidx_1_1recyclerview_1_1widget_1_1_recycler_view___item_animator___item_animator_finished_listener_implementor_1a20e31ab7cc70d244d9d33490d58a8698" kindref="member">onAnimationsFinished</ref><sp/>()</highlight></codeline>
+<codeline lineno="29"><highlight class="normal"><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline lineno="30"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>n_onAnimationsFinished<sp/>();</highlight></codeline>
+<codeline lineno="31"><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline lineno="32"><highlight class="normal"></highlight></codeline>
+<codeline lineno="33"><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">private</highlight><highlight class="normal"><sp/>native<sp/></highlight><highlight class="keywordtype">void</highlight><highlight class="normal"><sp/>n_onAnimationsFinished<sp/>();</highlight></codeline>
+<codeline lineno="34"><highlight class="normal"></highlight></codeline>
+<codeline lineno="35"><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">private</highlight><highlight class="normal"><sp/>java.util.ArrayList<sp/>refList;</highlight></codeline>
+<codeline lineno="36" refid="classmono_1_1androidx_1_1recyclerview_1_1widget_1_1_recycler_view___item_animator___item_animator_finished_listener_implementor_1a9dff52a39944e78c7f8e3a9b7e433e09" refkind="member"><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">public</highlight><highlight class="normal"><sp/></highlight><highlight class="keywordtype">void</highlight><highlight class="normal"><sp/><ref refid="classmono_1_1androidx_1_1recyclerview_1_1widget_1_1_recycler_view___item_animator___item_animator_finished_listener_implementor_1a9dff52a39944e78c7f8e3a9b7e433e09" kindref="member">monodroidAddReference</ref><sp/>(java.lang.Object<sp/>obj)</highlight></codeline>
+<codeline lineno="37"><highlight class="normal"><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline lineno="38"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">if</highlight><highlight class="normal"><sp/>(refList<sp/>==<sp/></highlight><highlight class="keyword">null</highlight><highlight class="normal">)</highlight></codeline>
+<codeline lineno="39"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>refList<sp/>=<sp/></highlight><highlight class="keyword">new</highlight><highlight class="normal"><sp/>java.util.ArrayList<sp/>();</highlight></codeline>
+<codeline lineno="40"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>refList.add<sp/>(obj);</highlight></codeline>
+<codeline lineno="41"><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline lineno="42"><highlight class="normal"></highlight></codeline>
+<codeline lineno="43" refid="classmono_1_1androidx_1_1recyclerview_1_1widget_1_1_recycler_view___item_animator___item_animator_finished_listener_implementor_1a28f4a86d153f5b8481c8c368c4375a48" refkind="member"><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">public</highlight><highlight class="normal"><sp/></highlight><highlight class="keywordtype">void</highlight><highlight class="normal"><sp/><ref refid="classmono_1_1androidx_1_1recyclerview_1_1widget_1_1_recycler_view___item_animator___item_animator_finished_listener_implementor_1a28f4a86d153f5b8481c8c368c4375a48" kindref="member">monodroidClearReferences</ref><sp/>()</highlight></codeline>
+<codeline lineno="44"><highlight class="normal"><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline lineno="45"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">if</highlight><highlight class="normal"><sp/>(refList<sp/>!=<sp/></highlight><highlight class="keyword">null</highlight><highlight class="normal">)</highlight></codeline>
+<codeline lineno="46"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>refList.clear<sp/>();</highlight></codeline>
+<codeline lineno="47"><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline lineno="48"><highlight class="normal">}</highlight></codeline>
+    </programlisting>
+    <location file="Application Green Quake.Android/obj/Release/110/android/src/mono/androidx/recyclerview/widget/RecyclerView_ItemAnimator_ItemAnimatorFinishedListenerImplementor.java"/>
+  </compounddef>
+</doxygen>

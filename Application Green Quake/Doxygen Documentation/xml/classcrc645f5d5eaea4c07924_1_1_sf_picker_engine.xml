@@ -1,0 +1,404 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.9.1" xml:lang="en-US">
+  <compounddef id="classcrc645f5d5eaea4c07924_1_1_sf_picker_engine" kind="class" language="Java" prot="public">
+    <compoundname>crc645f5d5eaea4c07924::SfPickerEngine</compoundname>
+    <basecompoundref prot="public" virt="non-virtual">android.view.View</basecompoundref>
+    <basecompoundref prot="public" virt="non-virtual">mono.android.IGCUserPeer</basecompoundref>
+      <sectiondef kind="public-static-attrib">
+      <memberdef kind="variable" id="classcrc645f5d5eaea4c07924_1_1_sf_picker_engine_1ad0cc4ecb7f9d2489d77256ed0fa95274" prot="public" static="yes" mutable="no">
+        <type>final String</type>
+        <definition>final String crc645f5d5eaea4c07924.SfPickerEngine.__md_methods</definition>
+        <argsstring></argsstring>
+        <name>__md_methods</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+<para>@hide </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/110/android/src/crc645f5d5eaea4c07924/SfPickerEngine.java" line="10" column="28" bodyfile="Application Green Quake.Android/obj/Debug/110/android/src/crc645f5d5eaea4c07924/SfPickerEngine.java" bodystart="10" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="private-attrib">
+      <memberdef kind="variable" id="classcrc645f5d5eaea4c07924_1_1_sf_picker_engine_1ab03f54c6e80d83257f041442094ce73c" prot="private" static="no" mutable="no">
+        <type>java.util.ArrayList</type>
+        <definition>java.util.ArrayList crc645f5d5eaea4c07924.SfPickerEngine.refList</definition>
+        <argsstring></argsstring>
+        <name>refList</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/110/android/src/crc645f5d5eaea4c07924/SfPickerEngine.java" line="85" column="27" bodyfile="Application Green Quake.Android/obj/Debug/110/android/src/crc645f5d5eaea4c07924/SfPickerEngine.java" bodystart="85" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="package-static-func">
+      <memberdef kind="function" id="classcrc645f5d5eaea4c07924_1_1_sf_picker_engine_1a8960a70c368403deed32eacee8e41eca" prot="package" static="yes" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>crc645f5d5eaea4c07924.SfPickerEngine.[static initializer]</definition>
+        <argsstring></argsstring>
+        <name>[static initializer]</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/110/android/src/crc645f5d5eaea4c07924/SfPickerEngine.java" line="10" column="28"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="public-func">
+      <memberdef kind="function" id="classcrc645f5d5eaea4c07924_1_1_sf_picker_engine_1a3c4bda7bcdb4398bdc7170d97e1113ca" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>crc645f5d5eaea4c07924.SfPickerEngine.SfPickerEngine</definition>
+        <argsstring>(android.content.Context p0)</argsstring>
+        <name>SfPickerEngine</name>
+        <param>
+          <type>android.content.Context</type>
+          <declname>p0</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/110/android/src/crc645f5d5eaea4c07924/SfPickerEngine.java" line="22" column="8" bodyfile="Application Green Quake.Android/obj/Debug/110/android/src/crc645f5d5eaea4c07924/SfPickerEngine.java" bodystart="22" bodyend="27"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc645f5d5eaea4c07924_1_1_sf_picker_engine_1a9d46ef922d2caf97622c3901a574882b" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>crc645f5d5eaea4c07924.SfPickerEngine.SfPickerEngine</definition>
+        <argsstring>(android.content.Context p0, android.util.AttributeSet p1)</argsstring>
+        <name>SfPickerEngine</name>
+        <param>
+          <type>android.content.Context</type>
+          <declname>p0</declname>
+        </param>
+        <param>
+          <type>android.util.AttributeSet</type>
+          <declname>p1</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/110/android/src/crc645f5d5eaea4c07924/SfPickerEngine.java" line="30" column="8" bodyfile="Application Green Quake.Android/obj/Debug/110/android/src/crc645f5d5eaea4c07924/SfPickerEngine.java" bodystart="30" bodyend="35"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc645f5d5eaea4c07924_1_1_sf_picker_engine_1a7e157ff312f7596530a5f32ca98bf93d" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>crc645f5d5eaea4c07924.SfPickerEngine.SfPickerEngine</definition>
+        <argsstring>(android.content.Context p0, android.util.AttributeSet p1, int p2)</argsstring>
+        <name>SfPickerEngine</name>
+        <param>
+          <type>android.content.Context</type>
+          <declname>p0</declname>
+        </param>
+        <param>
+          <type>android.util.AttributeSet</type>
+          <declname>p1</declname>
+        </param>
+        <param>
+          <type>int</type>
+          <declname>p2</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/110/android/src/crc645f5d5eaea4c07924/SfPickerEngine.java" line="38" column="8" bodyfile="Application Green Quake.Android/obj/Debug/110/android/src/crc645f5d5eaea4c07924/SfPickerEngine.java" bodystart="38" bodyend="43"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc645f5d5eaea4c07924_1_1_sf_picker_engine_1a7ed46f7e68e9d15ef088d4baf7409078" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>crc645f5d5eaea4c07924.SfPickerEngine.SfPickerEngine</definition>
+        <argsstring>(android.content.Context p0, android.util.AttributeSet p1, int p2, int p3)</argsstring>
+        <name>SfPickerEngine</name>
+        <param>
+          <type>android.content.Context</type>
+          <declname>p0</declname>
+        </param>
+        <param>
+          <type>android.util.AttributeSet</type>
+          <declname>p1</declname>
+        </param>
+        <param>
+          <type>int</type>
+          <declname>p2</declname>
+        </param>
+        <param>
+          <type>int</type>
+          <declname>p3</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/110/android/src/crc645f5d5eaea4c07924/SfPickerEngine.java" line="46" column="8" bodyfile="Application Green Quake.Android/obj/Debug/110/android/src/crc645f5d5eaea4c07924/SfPickerEngine.java" bodystart="46" bodyend="51"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc645f5d5eaea4c07924_1_1_sf_picker_engine_1aac79c457129ba528f3ace8a1a516f50d" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>boolean</type>
+        <definition>boolean crc645f5d5eaea4c07924.SfPickerEngine.onTouchEvent</definition>
+        <argsstring>(android.view.MotionEvent p0)</argsstring>
+        <name>onTouchEvent</name>
+        <param>
+          <type>android.view.MotionEvent</type>
+          <declname>p0</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/110/android/src/crc645f5d5eaea4c07924/SfPickerEngine.java" line="54" column="16" bodyfile="Application Green Quake.Android/obj/Debug/110/android/src/crc645f5d5eaea4c07924/SfPickerEngine.java" bodystart="54" bodyend="57"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc645f5d5eaea4c07924_1_1_sf_picker_engine_1a106e0a264885dce0128b38cd0f65efd6" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void crc645f5d5eaea4c07924.SfPickerEngine.onMeasure</definition>
+        <argsstring>(int p0, int p1)</argsstring>
+        <name>onMeasure</name>
+        <param>
+          <type>int</type>
+          <declname>p0</declname>
+        </param>
+        <param>
+          <type>int</type>
+          <declname>p1</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/110/android/src/crc645f5d5eaea4c07924/SfPickerEngine.java" line="62" column="13" bodyfile="Application Green Quake.Android/obj/Debug/110/android/src/crc645f5d5eaea4c07924/SfPickerEngine.java" bodystart="62" bodyend="65"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc645f5d5eaea4c07924_1_1_sf_picker_engine_1a4e0e528cf6962a5e64fb7da5587583a4" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void crc645f5d5eaea4c07924.SfPickerEngine.onSizeChanged</definition>
+        <argsstring>(int p0, int p1, int p2, int p3)</argsstring>
+        <name>onSizeChanged</name>
+        <param>
+          <type>int</type>
+          <declname>p0</declname>
+        </param>
+        <param>
+          <type>int</type>
+          <declname>p1</declname>
+        </param>
+        <param>
+          <type>int</type>
+          <declname>p2</declname>
+        </param>
+        <param>
+          <type>int</type>
+          <declname>p3</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/110/android/src/crc645f5d5eaea4c07924/SfPickerEngine.java" line="70" column="13" bodyfile="Application Green Quake.Android/obj/Debug/110/android/src/crc645f5d5eaea4c07924/SfPickerEngine.java" bodystart="70" bodyend="73"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc645f5d5eaea4c07924_1_1_sf_picker_engine_1a25378a7e0613abbd68ea6ad926b8f7ea" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void crc645f5d5eaea4c07924.SfPickerEngine.onDraw</definition>
+        <argsstring>(android.graphics.Canvas p0)</argsstring>
+        <name>onDraw</name>
+        <param>
+          <type>android.graphics.Canvas</type>
+          <declname>p0</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/110/android/src/crc645f5d5eaea4c07924/SfPickerEngine.java" line="78" column="13" bodyfile="Application Green Quake.Android/obj/Debug/110/android/src/crc645f5d5eaea4c07924/SfPickerEngine.java" bodystart="78" bodyend="81"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc645f5d5eaea4c07924_1_1_sf_picker_engine_1ac9a0009087b188ae3c1a5979a09d5093" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void crc645f5d5eaea4c07924.SfPickerEngine.monodroidAddReference</definition>
+        <argsstring>(java.lang.Object obj)</argsstring>
+        <name>monodroidAddReference</name>
+        <param>
+          <type>java.lang.Object</type>
+          <declname>obj</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/110/android/src/crc645f5d5eaea4c07924/SfPickerEngine.java" line="86" column="13" bodyfile="Application Green Quake.Android/obj/Debug/110/android/src/crc645f5d5eaea4c07924/SfPickerEngine.java" bodystart="86" bodyend="91"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc645f5d5eaea4c07924_1_1_sf_picker_engine_1acd8b9a8a8f21b09991ee205b83cbfa33" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void crc645f5d5eaea4c07924.SfPickerEngine.monodroidClearReferences</definition>
+        <argsstring>()</argsstring>
+        <name>monodroidClearReferences</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/110/android/src/crc645f5d5eaea4c07924/SfPickerEngine.java" line="93" column="13" bodyfile="Application Green Quake.Android/obj/Debug/110/android/src/crc645f5d5eaea4c07924/SfPickerEngine.java" bodystart="93" bodyend="97"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="private-func">
+      <memberdef kind="function" id="classcrc645f5d5eaea4c07924_1_1_sf_picker_engine_1a1284cf2d7977bf16c79301383fece3bb" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>native boolean</type>
+        <definition>native boolean crc645f5d5eaea4c07924.SfPickerEngine.n_onTouchEvent</definition>
+        <argsstring>(android.view.MotionEvent p0)</argsstring>
+        <name>n_onTouchEvent</name>
+        <param>
+          <type>android.view.MotionEvent</type>
+          <declname>p0</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/110/android/src/crc645f5d5eaea4c07924/SfPickerEngine.java" line="59" column="24"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc645f5d5eaea4c07924_1_1_sf_picker_engine_1a5a9c739ff008f59f78624ef528b15353" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>native void</type>
+        <definition>native void crc645f5d5eaea4c07924.SfPickerEngine.n_onMeasure</definition>
+        <argsstring>(int p0, int p1)</argsstring>
+        <name>n_onMeasure</name>
+        <param>
+          <type>int</type>
+          <declname>p0</declname>
+        </param>
+        <param>
+          <type>int</type>
+          <declname>p1</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/110/android/src/crc645f5d5eaea4c07924/SfPickerEngine.java" line="67" column="21"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc645f5d5eaea4c07924_1_1_sf_picker_engine_1a2b5fc22146e32943e328a6d8635f71e9" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>native void</type>
+        <definition>native void crc645f5d5eaea4c07924.SfPickerEngine.n_onSizeChanged</definition>
+        <argsstring>(int p0, int p1, int p2, int p3)</argsstring>
+        <name>n_onSizeChanged</name>
+        <param>
+          <type>int</type>
+          <declname>p0</declname>
+        </param>
+        <param>
+          <type>int</type>
+          <declname>p1</declname>
+        </param>
+        <param>
+          <type>int</type>
+          <declname>p2</declname>
+        </param>
+        <param>
+          <type>int</type>
+          <declname>p3</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/110/android/src/crc645f5d5eaea4c07924/SfPickerEngine.java" line="75" column="21"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc645f5d5eaea4c07924_1_1_sf_picker_engine_1a4b6a2dfbc944648379c28010334dc491" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>native void</type>
+        <definition>native void crc645f5d5eaea4c07924.SfPickerEngine.n_onDraw</definition>
+        <argsstring>(android.graphics.Canvas p0)</argsstring>
+        <name>n_onDraw</name>
+        <param>
+          <type>android.graphics.Canvas</type>
+          <declname>p0</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/110/android/src/crc645f5d5eaea4c07924/SfPickerEngine.java" line="83" column="21"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <inheritancegraph>
+      <node id="1">
+        <label>crc645f5d5eaea4c07924.SfPickerEngine</label>
+        <link refid="classcrc645f5d5eaea4c07924_1_1_sf_picker_engine"/>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+        <childnode refid="3" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="3">
+        <label>mono.android.IGCUserPeer</label>
+      </node>
+      <node id="2">
+        <label>android.view.View</label>
+      </node>
+    </inheritancegraph>
+    <collaborationgraph>
+      <node id="1">
+        <label>crc645f5d5eaea4c07924.SfPickerEngine</label>
+        <link refid="classcrc645f5d5eaea4c07924_1_1_sf_picker_engine"/>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+        <childnode refid="3" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="3">
+        <label>mono.android.IGCUserPeer</label>
+      </node>
+      <node id="2">
+        <label>android.view.View</label>
+      </node>
+    </collaborationgraph>
+    <location file="Application Green Quake.Android/obj/Debug/110/android/src/crc645f5d5eaea4c07924/SfPickerEngine.java" line="4" column="7" bodyfile="Application Green Quake.Android/obj/Debug/110/android/src/crc645f5d5eaea4c07924/SfPickerEngine.java" bodystart="8" bodyend="98"/>
+    <listofallmembers>
+      <member refid="classcrc645f5d5eaea4c07924_1_1_sf_picker_engine_1a8960a70c368403deed32eacee8e41eca" prot="package" virt="non-virtual"><scope>crc645f5d5eaea4c07924::SfPickerEngine</scope><name>[static initializer]</name></member>
+      <member refid="classcrc645f5d5eaea4c07924_1_1_sf_picker_engine_1ad0cc4ecb7f9d2489d77256ed0fa95274" prot="public" virt="non-virtual"><scope>crc645f5d5eaea4c07924::SfPickerEngine</scope><name>__md_methods</name></member>
+      <member refid="classcrc645f5d5eaea4c07924_1_1_sf_picker_engine_1ac9a0009087b188ae3c1a5979a09d5093" prot="public" virt="non-virtual"><scope>crc645f5d5eaea4c07924::SfPickerEngine</scope><name>monodroidAddReference</name></member>
+      <member refid="classcrc645f5d5eaea4c07924_1_1_sf_picker_engine_1acd8b9a8a8f21b09991ee205b83cbfa33" prot="public" virt="non-virtual"><scope>crc645f5d5eaea4c07924::SfPickerEngine</scope><name>monodroidClearReferences</name></member>
+      <member refid="classcrc645f5d5eaea4c07924_1_1_sf_picker_engine_1a4b6a2dfbc944648379c28010334dc491" prot="private" virt="non-virtual"><scope>crc645f5d5eaea4c07924::SfPickerEngine</scope><name>n_onDraw</name></member>
+      <member refid="classcrc645f5d5eaea4c07924_1_1_sf_picker_engine_1a5a9c739ff008f59f78624ef528b15353" prot="private" virt="non-virtual"><scope>crc645f5d5eaea4c07924::SfPickerEngine</scope><name>n_onMeasure</name></member>
+      <member refid="classcrc645f5d5eaea4c07924_1_1_sf_picker_engine_1a2b5fc22146e32943e328a6d8635f71e9" prot="private" virt="non-virtual"><scope>crc645f5d5eaea4c07924::SfPickerEngine</scope><name>n_onSizeChanged</name></member>
+      <member refid="classcrc645f5d5eaea4c07924_1_1_sf_picker_engine_1a1284cf2d7977bf16c79301383fece3bb" prot="private" virt="non-virtual"><scope>crc645f5d5eaea4c07924::SfPickerEngine</scope><name>n_onTouchEvent</name></member>
+      <member refid="classcrc645f5d5eaea4c07924_1_1_sf_picker_engine_1a25378a7e0613abbd68ea6ad926b8f7ea" prot="public" virt="non-virtual"><scope>crc645f5d5eaea4c07924::SfPickerEngine</scope><name>onDraw</name></member>
+      <member refid="classcrc645f5d5eaea4c07924_1_1_sf_picker_engine_1a106e0a264885dce0128b38cd0f65efd6" prot="public" virt="non-virtual"><scope>crc645f5d5eaea4c07924::SfPickerEngine</scope><name>onMeasure</name></member>
+      <member refid="classcrc645f5d5eaea4c07924_1_1_sf_picker_engine_1a4e0e528cf6962a5e64fb7da5587583a4" prot="public" virt="non-virtual"><scope>crc645f5d5eaea4c07924::SfPickerEngine</scope><name>onSizeChanged</name></member>
+      <member refid="classcrc645f5d5eaea4c07924_1_1_sf_picker_engine_1aac79c457129ba528f3ace8a1a516f50d" prot="public" virt="non-virtual"><scope>crc645f5d5eaea4c07924::SfPickerEngine</scope><name>onTouchEvent</name></member>
+      <member refid="classcrc645f5d5eaea4c07924_1_1_sf_picker_engine_1ab03f54c6e80d83257f041442094ce73c" prot="private" virt="non-virtual"><scope>crc645f5d5eaea4c07924::SfPickerEngine</scope><name>refList</name></member>
+      <member refid="classcrc645f5d5eaea4c07924_1_1_sf_picker_engine_1a3c4bda7bcdb4398bdc7170d97e1113ca" prot="public" virt="non-virtual"><scope>crc645f5d5eaea4c07924::SfPickerEngine</scope><name>SfPickerEngine</name></member>
+      <member refid="classcrc645f5d5eaea4c07924_1_1_sf_picker_engine_1a9d46ef922d2caf97622c3901a574882b" prot="public" virt="non-virtual"><scope>crc645f5d5eaea4c07924::SfPickerEngine</scope><name>SfPickerEngine</name></member>
+      <member refid="classcrc645f5d5eaea4c07924_1_1_sf_picker_engine_1a7e157ff312f7596530a5f32ca98bf93d" prot="public" virt="non-virtual"><scope>crc645f5d5eaea4c07924::SfPickerEngine</scope><name>SfPickerEngine</name></member>
+      <member refid="classcrc645f5d5eaea4c07924_1_1_sf_picker_engine_1a7ed46f7e68e9d15ef088d4baf7409078" prot="public" virt="non-virtual"><scope>crc645f5d5eaea4c07924::SfPickerEngine</scope><name>SfPickerEngine</name></member>
+    </listofallmembers>
+  </compounddef>
+</doxygen>

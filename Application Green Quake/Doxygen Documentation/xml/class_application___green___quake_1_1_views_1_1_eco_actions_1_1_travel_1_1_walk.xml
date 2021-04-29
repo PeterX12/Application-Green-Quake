@@ -1,0 +1,154 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.9.1" xml:lang="en-US">
+  <compounddef id="class_application___green___quake_1_1_views_1_1_eco_actions_1_1_travel_1_1_walk" kind="class" language="C#" prot="public">
+    <compoundname>Application_Green_Quake::Views::EcoActions::Travel::Walk</compoundname>
+    <basecompoundref prot="public" virt="non-virtual">global.XamarinForms.ContentPage</basecompoundref>
+    <basecompoundref prot="public" virt="non-virtual">global.XamarinForms.ContentPage</basecompoundref>
+    <basecompoundref prot="public" virt="non-virtual">ContentPage</basecompoundref>
+      <sectiondef kind="private-attrib">
+      <memberdef kind="variable" id="class_application___green___quake_1_1_views_1_1_eco_actions_1_1_travel_1_1_walk_1adb00d6fb79930d5b7be7cd6bb176b3af" prot="private" static="no" mutable="no">
+        <type>global::Xamarin.Forms.Label</type>
+        <definition>Xamarin Forms global::Label Application_Green_Quake.Views.EcoActions.Travel.Walk::theLevel</definition>
+        <argsstring></argsstring>
+        <name>theLevel</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake/obj/Debug/netstandard2.0/Views/EcoActions/Travel/Walk.xaml.g.cs" line="20" column="43" bodyfile="Application Green Quake/obj/Debug/netstandard2.0/Views/EcoActions/Travel/Walk.xaml.g.cs" bodystart="20" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="private-func">
+      <memberdef kind="function" id="class_application___green___quake_1_1_views_1_1_eco_actions_1_1_travel_1_1_walk_1a83a5e021a71ff1ada15e96fe61f91151" prot="private" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void Application_Green_Quake.Views.EcoActions.Travel.Walk.InitializeComponent</definition>
+        <argsstring>()</argsstring>
+        <name>InitializeComponent</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake/obj/Debug/netstandard2.0/Views/EcoActions/Travel/Walk.xaml.g.cs" line="23" column="22" bodyfile="Application Green Quake/obj/Debug/netstandard2.0/Views/EcoActions/Travel/Walk.xaml.g.cs" bodystart="23" bodyend="26"/>
+      </memberdef>
+      <memberdef kind="function" id="class_application___green___quake_1_1_views_1_1_eco_actions_1_1_travel_1_1_walk_1a83a5e021a71ff1ada15e96fe61f91151" prot="private" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void Application_Green_Quake.Views.EcoActions.Travel.Walk.InitializeComponent</definition>
+        <argsstring>()</argsstring>
+        <name>InitializeComponent</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake/obj/Release/netstandard2.0/Views/EcoActions/Travel/Walk.xaml.g.cs" line="23" column="22" bodyfile="Application Green Quake/obj/Release/netstandard2.0/Views/EcoActions/Travel/Walk.xaml.g.cs" bodystart="23" bodyend="26"/>
+      </memberdef>
+      <memberdef kind="function" id="class_application___green___quake_1_1_views_1_1_eco_actions_1_1_travel_1_1_walk_1ac482451d3c2dcc4e368be09590c06058" prot="private" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>async void</type>
+        <definition>async void Application_Green_Quake.Views.EcoActions.Travel.Walk.AddPointsClicked</definition>
+        <argsstring>(object sender, EventArgs e)</argsstring>
+        <name>AddPointsClicked</name>
+        <param>
+          <type>object</type>
+          <declname>sender</declname>
+        </param>
+        <param>
+          <type>EventArgs</type>
+          <declname>e</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+<para>This function creates objects and calls their methods. First the security methods are called and if they return false call the points updating methods </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake/Views/EcoActions/Travel/Walk.xaml.cs" line="29" column="28" bodyfile="Application Green Quake/Views/EcoActions/Travel/Walk.xaml.cs" bodystart="29" bodyend="57"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="public-func">
+      <memberdef kind="function" id="class_application___green___quake_1_1_views_1_1_eco_actions_1_1_travel_1_1_walk_1aaa469b2b858964b2080329bec9ff9068" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>Application_Green_Quake.Views.EcoActions.Travel.Walk.Walk</definition>
+        <argsstring>()</argsstring>
+        <name>Walk</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake/Views/EcoActions/Travel/Walk.xaml.cs" line="21" column="16" bodyfile="Application Green Quake/Views/EcoActions/Travel/Walk.xaml.cs" bodystart="21" bodyend="25"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="protected-func">
+      <memberdef kind="function" id="class_application___green___quake_1_1_views_1_1_eco_actions_1_1_travel_1_1_walk_1ab5c4dc98ce457f9852c92cfde50e2343" prot="protected" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>override void</type>
+        <definition>override void Application_Green_Quake.Views.EcoActions.Travel.Walk.OnAppearing</definition>
+        <argsstring>()</argsstring>
+        <name>OnAppearing</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+<para>This function creates objects and calls their methods. First the security methods are called and if they return false call the points updating methods </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake/Views/EcoActions/Travel/Walk.xaml.cs" line="61" column="33" bodyfile="Application Green Quake/Views/EcoActions/Travel/Walk.xaml.cs" bodystart="61" bodyend="67"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <inheritancegraph>
+      <node id="3">
+        <label>ContentPage</label>
+      </node>
+      <node id="1">
+        <label>Application_Green_Quake.Views.EcoActions.Travel.Walk</label>
+        <link refid="class_application___green___quake_1_1_views_1_1_eco_actions_1_1_travel_1_1_walk"/>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+        <childnode refid="3" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="2">
+        <label>global::XamarinForms::ContentPage</label>
+      </node>
+    </inheritancegraph>
+    <collaborationgraph>
+      <node id="3">
+        <label>ContentPage</label>
+      </node>
+      <node id="1">
+        <label>Application_Green_Quake.Views.EcoActions.Travel.Walk</label>
+        <link refid="class_application___green___quake_1_1_views_1_1_eco_actions_1_1_travel_1_1_walk"/>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+        <childnode refid="3" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="2">
+        <label>global::XamarinForms::ContentPage</label>
+      </node>
+    </collaborationgraph>
+    <location file="Application Green Quake/obj/Debug/netstandard2.0/Views/EcoActions/Travel/Walk.xaml.g.cs" line="17" column="19" bodyfile="Application Green Quake/obj/Debug/netstandard2.0/Views/EcoActions/Travel/Walk.xaml.g.cs" bodystart="17" bodyend="27"/>
+    <listofallmembers>
+      <member refid="class_application___green___quake_1_1_views_1_1_eco_actions_1_1_travel_1_1_walk_1ac482451d3c2dcc4e368be09590c06058" prot="private" virt="non-virtual"><scope>Application_Green_Quake::Views::EcoActions::Travel::Walk</scope><name>AddPointsClicked</name></member>
+      <member refid="class_application___green___quake_1_1_views_1_1_eco_actions_1_1_travel_1_1_walk_1a83a5e021a71ff1ada15e96fe61f91151" prot="private" virt="non-virtual"><scope>Application_Green_Quake::Views::EcoActions::Travel::Walk</scope><name>InitializeComponent</name></member>
+      <member refid="class_application___green___quake_1_1_views_1_1_eco_actions_1_1_travel_1_1_walk_1a83a5e021a71ff1ada15e96fe61f91151" prot="private" virt="non-virtual"><scope>Application_Green_Quake::Views::EcoActions::Travel::Walk</scope><name>InitializeComponent</name></member>
+      <member refid="class_application___green___quake_1_1_views_1_1_eco_actions_1_1_travel_1_1_walk_1ab5c4dc98ce457f9852c92cfde50e2343" prot="protected" virt="non-virtual"><scope>Application_Green_Quake::Views::EcoActions::Travel::Walk</scope><name>OnAppearing</name></member>
+      <member refid="class_application___green___quake_1_1_views_1_1_eco_actions_1_1_travel_1_1_walk_1adb00d6fb79930d5b7be7cd6bb176b3af" prot="private" virt="non-virtual"><scope>Application_Green_Quake::Views::EcoActions::Travel::Walk</scope><name>theLevel</name></member>
+      <member refid="class_application___green___quake_1_1_views_1_1_eco_actions_1_1_travel_1_1_walk_1aaa469b2b858964b2080329bec9ff9068" prot="public" virt="non-virtual"><scope>Application_Green_Quake::Views::EcoActions::Travel::Walk</scope><name>Walk</name></member>
+    </listofallmembers>
+  </compounddef>
+</doxygen>

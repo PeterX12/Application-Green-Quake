@@ -1,0 +1,49 @@
+.TH "Application_Green_Quake.ViewModels.SecurityMethods" 3 "Thu Apr 29 2021" "Version 1.0" "Green Quake" \" -*- nroff -*-
+.ad l
+.nh
+.SH NAME
+Application_Green_Quake.ViewModels.SecurityMethods
+.SH SYNOPSIS
+.br
+.PP
+.SS "Public Member Functions"
+
+.in +1c
+.ti -1c
+.RI "async Task< bool > \fBDayLimitLock\fP ()"
+.br
+.ti -1c
+.RI "async Task< bool > \fBTimeLimitLock\fP ()"
+.br
+.in -1c
+.SH "Detailed Description"
+.PP 
+Definition at line 19 of file SecurityMethods\&.cs\&.
+.SH "Member Function Documentation"
+.PP 
+.SS "async Task<bool> Application_Green_Quake\&.ViewModels\&.SecurityMethods\&.DayLimitLock ()"
+This function gets the date and the count from the SecurityChecks Node in the database and compares the stored date to the current date\&. If the count is 15 and the date is the same as todays date the function returns true\&. Otherwise False\&. 
+.PP
+\fBReturns\fP
+.RS 4
+value return true/false 
+.RE
+.PP
+
+.PP
+Definition at line 34 of file SecurityMethods\&.cs\&.
+.SS "async Task<bool> Application_Green_Quake\&.ViewModels\&.SecurityMethods\&.TimeLimitLock ()"
+This function gets the time from the SecurityChecks Node in the database and compares the stored time to the current time\&. \fBThe\fP time difference is found by subtracting the time stored in the database from the current time and if the difference is not greater than or equal to 60 seconds then the function returns true otherwise it returns false\&. 
+.PP
+\fBReturns\fP
+.RS 4
+value return true/false 
+.RE
+.PP
+
+.PP
+Definition at line 74 of file SecurityMethods\&.cs\&.
+
+.SH "Author"
+.PP 
+Generated automatically by Doxygen for Green Quake from the source code\&.

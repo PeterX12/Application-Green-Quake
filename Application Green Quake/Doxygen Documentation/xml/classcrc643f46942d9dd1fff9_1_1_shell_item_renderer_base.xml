@@ -1,0 +1,636 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.9.1" xml:lang="en-US">
+  <compounddef id="classcrc643f46942d9dd1fff9_1_1_shell_item_renderer_base" kind="class" language="Java" prot="public" abstract="yes">
+    <compoundname>crc643f46942d9dd1fff9::ShellItemRendererBase</compoundname>
+    <basecompoundref prot="public" virt="non-virtual">androidx.fragment.app.Fragment</basecompoundref>
+    <basecompoundref prot="public" virt="non-virtual">mono.android.IGCUserPeer</basecompoundref>
+    <basecompoundref prot="public" virt="non-virtual">androidx.fragment.app.Fragment</basecompoundref>
+    <basecompoundref prot="public" virt="non-virtual">mono.android.IGCUserPeer</basecompoundref>
+    <basecompoundref prot="public" virt="non-virtual">androidx.fragment.app.Fragment</basecompoundref>
+    <basecompoundref prot="public" virt="non-virtual">mono.android.IGCUserPeer</basecompoundref>
+    <basecompoundref prot="public" virt="non-virtual">androidx.fragment.app.Fragment</basecompoundref>
+    <basecompoundref prot="public" virt="non-virtual">mono.android.IGCUserPeer</basecompoundref>
+    <derivedcompoundref refid="classcrc643f46942d9dd1fff9_1_1_shell_item_renderer" prot="public" virt="non-virtual">crc643f46942d9dd1fff9.ShellItemRenderer</derivedcompoundref>
+    <derivedcompoundref refid="classcrc643f46942d9dd1fff9_1_1_shell_item_renderer" prot="public" virt="non-virtual">crc643f46942d9dd1fff9.ShellItemRenderer</derivedcompoundref>
+    <derivedcompoundref refid="classcrc643f46942d9dd1fff9_1_1_shell_item_renderer" prot="public" virt="non-virtual">crc643f46942d9dd1fff9.ShellItemRenderer</derivedcompoundref>
+    <derivedcompoundref refid="classcrc643f46942d9dd1fff9_1_1_shell_item_renderer" prot="public" virt="non-virtual">crc643f46942d9dd1fff9.ShellItemRenderer</derivedcompoundref>
+      <sectiondef kind="public-static-attrib">
+      <memberdef kind="variable" id="classcrc643f46942d9dd1fff9_1_1_shell_item_renderer_base_1ae7a930ec189c772fe201cc0569e518ac" prot="public" static="yes" mutable="no">
+        <type>final String</type>
+        <definition>static final String crc643f46942d9dd1fff9.ShellItemRendererBase::__md_methods</definition>
+        <argsstring></argsstring>
+        <name>__md_methods</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+<para>@hide </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/100/android/src/crc643f46942d9dd1fff9/ShellItemRendererBase.java" line="10" column="28" bodyfile="Application Green Quake.Android/obj/Debug/100/android/src/crc643f46942d9dd1fff9/ShellItemRendererBase.java" bodystart="10" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="private-attrib">
+      <memberdef kind="variable" id="classcrc643f46942d9dd1fff9_1_1_shell_item_renderer_base_1a3cfddbea99a904bc158bdb526cb8d5d4" prot="private" static="no" mutable="no">
+        <type>java.util.ArrayList</type>
+        <definition>java util ArrayList crc643f46942d9dd1fff9.ShellItemRendererBase::refList</definition>
+        <argsstring></argsstring>
+        <name>refList</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/100/android/src/crc643f46942d9dd1fff9/ShellItemRendererBase.java" line="42" column="27" bodyfile="Application Green Quake.Android/obj/Debug/100/android/src/crc643f46942d9dd1fff9/ShellItemRendererBase.java" bodystart="42" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="package-static-func">
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_shell_item_renderer_base_1adbe0d9fa770fb99ed27756458db83961" prot="package" static="yes" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>crc643f46942d9dd1fff9.ShellItemRendererBase.[static initializer]</definition>
+        <argsstring></argsstring>
+        <name>[static initializer]</name>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_shell_item_renderer_1ad62087028783003087c90d1c629410c2">[static initializer]</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_shell_item_renderer_1ad62087028783003087c90d1c629410c2">[static initializer]</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_shell_item_renderer_1ad62087028783003087c90d1c629410c2">[static initializer]</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_shell_item_renderer_1ad62087028783003087c90d1c629410c2">[static initializer]</reimplementedby>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/100/android/src/crc643f46942d9dd1fff9/ShellItemRendererBase.java" line="10" column="28"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_shell_item_renderer_base_1adbe0d9fa770fb99ed27756458db83961" prot="package" static="yes" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>crc643f46942d9dd1fff9.ShellItemRendererBase.[static initializer]</definition>
+        <argsstring></argsstring>
+        <name>[static initializer]</name>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_shell_item_renderer_1ad62087028783003087c90d1c629410c2">[static initializer]</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_shell_item_renderer_1ad62087028783003087c90d1c629410c2">[static initializer]</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_shell_item_renderer_1ad62087028783003087c90d1c629410c2">[static initializer]</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_shell_item_renderer_1ad62087028783003087c90d1c629410c2">[static initializer]</reimplementedby>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/110/android/src/crc643f46942d9dd1fff9/ShellItemRendererBase.java" line="10" column="28"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_shell_item_renderer_base_1adbe0d9fa770fb99ed27756458db83961" prot="package" static="yes" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>crc643f46942d9dd1fff9.ShellItemRendererBase.[static initializer]</definition>
+        <argsstring></argsstring>
+        <name>[static initializer]</name>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_shell_item_renderer_1ad62087028783003087c90d1c629410c2">[static initializer]</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_shell_item_renderer_1ad62087028783003087c90d1c629410c2">[static initializer]</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_shell_item_renderer_1ad62087028783003087c90d1c629410c2">[static initializer]</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_shell_item_renderer_1ad62087028783003087c90d1c629410c2">[static initializer]</reimplementedby>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/100/android/src/crc643f46942d9dd1fff9/ShellItemRendererBase.java" line="10" column="28"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_shell_item_renderer_base_1adbe0d9fa770fb99ed27756458db83961" prot="package" static="yes" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>crc643f46942d9dd1fff9.ShellItemRendererBase.[static initializer]</definition>
+        <argsstring></argsstring>
+        <name>[static initializer]</name>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_shell_item_renderer_1ad62087028783003087c90d1c629410c2">[static initializer]</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_shell_item_renderer_1ad62087028783003087c90d1c629410c2">[static initializer]</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_shell_item_renderer_1ad62087028783003087c90d1c629410c2">[static initializer]</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_shell_item_renderer_1ad62087028783003087c90d1c629410c2">[static initializer]</reimplementedby>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/110/android/src/crc643f46942d9dd1fff9/ShellItemRendererBase.java" line="10" column="28"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="public-func">
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_shell_item_renderer_base_1a760695d14120d152317db0647d80aef7" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>crc643f46942d9dd1fff9.ShellItemRendererBase.ShellItemRendererBase</definition>
+        <argsstring>()</argsstring>
+        <name>ShellItemRendererBase</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/100/android/src/crc643f46942d9dd1fff9/ShellItemRendererBase.java" line="19" column="8" bodyfile="Application Green Quake.Android/obj/Debug/100/android/src/crc643f46942d9dd1fff9/ShellItemRendererBase.java" bodystart="19" bodyend="24"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_shell_item_renderer_base_1a8bdf0c3ae1d6d241a7b0a26c1ede56f0" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>crc643f46942d9dd1fff9.ShellItemRendererBase.ShellItemRendererBase</definition>
+        <argsstring>(int p0)</argsstring>
+        <name>ShellItemRendererBase</name>
+        <param>
+          <type>int</type>
+          <declname>p0</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/100/android/src/crc643f46942d9dd1fff9/ShellItemRendererBase.java" line="27" column="8" bodyfile="Application Green Quake.Android/obj/Debug/100/android/src/crc643f46942d9dd1fff9/ShellItemRendererBase.java" bodystart="27" bodyend="32"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_shell_item_renderer_base_1a81ae553ed19e2f5e94ed36faa32359bf" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void crc643f46942d9dd1fff9.ShellItemRendererBase.onDestroy</definition>
+        <argsstring>()</argsstring>
+        <name>onDestroy</name>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_shell_item_renderer_1a05f8bff6a59ff77950a64d52447ec51f">onDestroy</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_shell_item_renderer_1a05f8bff6a59ff77950a64d52447ec51f">onDestroy</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_shell_item_renderer_1a05f8bff6a59ff77950a64d52447ec51f">onDestroy</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_shell_item_renderer_1a05f8bff6a59ff77950a64d52447ec51f">onDestroy</reimplementedby>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/100/android/src/crc643f46942d9dd1fff9/ShellItemRendererBase.java" line="35" column="13" bodyfile="Application Green Quake.Android/obj/Debug/100/android/src/crc643f46942d9dd1fff9/ShellItemRendererBase.java" bodystart="35" bodyend="38"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_shell_item_renderer_base_1a6bb1293f26a1b2e6e68b50353f478ae3" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void crc643f46942d9dd1fff9.ShellItemRendererBase.monodroidAddReference</definition>
+        <argsstring>(java.lang.Object obj)</argsstring>
+        <name>monodroidAddReference</name>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_shell_item_renderer_1af1a4739499dd8d8e30cf355a7ea1ae08">monodroidAddReference</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_shell_item_renderer_1af1a4739499dd8d8e30cf355a7ea1ae08">monodroidAddReference</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_shell_item_renderer_1af1a4739499dd8d8e30cf355a7ea1ae08">monodroidAddReference</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_shell_item_renderer_1af1a4739499dd8d8e30cf355a7ea1ae08">monodroidAddReference</reimplementedby>
+        <param>
+          <type>java.lang.Object</type>
+          <declname>obj</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/100/android/src/crc643f46942d9dd1fff9/ShellItemRendererBase.java" line="43" column="13" bodyfile="Application Green Quake.Android/obj/Debug/100/android/src/crc643f46942d9dd1fff9/ShellItemRendererBase.java" bodystart="43" bodyend="48"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_shell_item_renderer_base_1ab493b8f1c6ef49cd9f5952de81126979" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void crc643f46942d9dd1fff9.ShellItemRendererBase.monodroidClearReferences</definition>
+        <argsstring>()</argsstring>
+        <name>monodroidClearReferences</name>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_shell_item_renderer_1ae6f43fe4fe3388d67824cb5539e609e1">monodroidClearReferences</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_shell_item_renderer_1ae6f43fe4fe3388d67824cb5539e609e1">monodroidClearReferences</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_shell_item_renderer_1ae6f43fe4fe3388d67824cb5539e609e1">monodroidClearReferences</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_shell_item_renderer_1ae6f43fe4fe3388d67824cb5539e609e1">monodroidClearReferences</reimplementedby>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/100/android/src/crc643f46942d9dd1fff9/ShellItemRendererBase.java" line="50" column="13" bodyfile="Application Green Quake.Android/obj/Debug/100/android/src/crc643f46942d9dd1fff9/ShellItemRendererBase.java" bodystart="50" bodyend="54"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_shell_item_renderer_base_1a760695d14120d152317db0647d80aef7" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>crc643f46942d9dd1fff9.ShellItemRendererBase.ShellItemRendererBase</definition>
+        <argsstring>()</argsstring>
+        <name>ShellItemRendererBase</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/110/android/src/crc643f46942d9dd1fff9/ShellItemRendererBase.java" line="19" column="8" bodyfile="Application Green Quake.Android/obj/Debug/110/android/src/crc643f46942d9dd1fff9/ShellItemRendererBase.java" bodystart="19" bodyend="24"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_shell_item_renderer_base_1a8bdf0c3ae1d6d241a7b0a26c1ede56f0" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>crc643f46942d9dd1fff9.ShellItemRendererBase.ShellItemRendererBase</definition>
+        <argsstring>(int p0)</argsstring>
+        <name>ShellItemRendererBase</name>
+        <param>
+          <type>int</type>
+          <declname>p0</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/110/android/src/crc643f46942d9dd1fff9/ShellItemRendererBase.java" line="27" column="8" bodyfile="Application Green Quake.Android/obj/Debug/110/android/src/crc643f46942d9dd1fff9/ShellItemRendererBase.java" bodystart="27" bodyend="32"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_shell_item_renderer_base_1a81ae553ed19e2f5e94ed36faa32359bf" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void crc643f46942d9dd1fff9.ShellItemRendererBase.onDestroy</definition>
+        <argsstring>()</argsstring>
+        <name>onDestroy</name>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_shell_item_renderer_1a05f8bff6a59ff77950a64d52447ec51f">onDestroy</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_shell_item_renderer_1a05f8bff6a59ff77950a64d52447ec51f">onDestroy</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_shell_item_renderer_1a05f8bff6a59ff77950a64d52447ec51f">onDestroy</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_shell_item_renderer_1a05f8bff6a59ff77950a64d52447ec51f">onDestroy</reimplementedby>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/110/android/src/crc643f46942d9dd1fff9/ShellItemRendererBase.java" line="35" column="13" bodyfile="Application Green Quake.Android/obj/Debug/110/android/src/crc643f46942d9dd1fff9/ShellItemRendererBase.java" bodystart="35" bodyend="38"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_shell_item_renderer_base_1a6bb1293f26a1b2e6e68b50353f478ae3" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void crc643f46942d9dd1fff9.ShellItemRendererBase.monodroidAddReference</definition>
+        <argsstring>(java.lang.Object obj)</argsstring>
+        <name>monodroidAddReference</name>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_shell_item_renderer_1af1a4739499dd8d8e30cf355a7ea1ae08">monodroidAddReference</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_shell_item_renderer_1af1a4739499dd8d8e30cf355a7ea1ae08">monodroidAddReference</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_shell_item_renderer_1af1a4739499dd8d8e30cf355a7ea1ae08">monodroidAddReference</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_shell_item_renderer_1af1a4739499dd8d8e30cf355a7ea1ae08">monodroidAddReference</reimplementedby>
+        <param>
+          <type>java.lang.Object</type>
+          <declname>obj</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/110/android/src/crc643f46942d9dd1fff9/ShellItemRendererBase.java" line="43" column="13" bodyfile="Application Green Quake.Android/obj/Debug/110/android/src/crc643f46942d9dd1fff9/ShellItemRendererBase.java" bodystart="43" bodyend="48"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_shell_item_renderer_base_1ab493b8f1c6ef49cd9f5952de81126979" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void crc643f46942d9dd1fff9.ShellItemRendererBase.monodroidClearReferences</definition>
+        <argsstring>()</argsstring>
+        <name>monodroidClearReferences</name>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_shell_item_renderer_1ae6f43fe4fe3388d67824cb5539e609e1">monodroidClearReferences</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_shell_item_renderer_1ae6f43fe4fe3388d67824cb5539e609e1">monodroidClearReferences</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_shell_item_renderer_1ae6f43fe4fe3388d67824cb5539e609e1">monodroidClearReferences</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_shell_item_renderer_1ae6f43fe4fe3388d67824cb5539e609e1">monodroidClearReferences</reimplementedby>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/110/android/src/crc643f46942d9dd1fff9/ShellItemRendererBase.java" line="50" column="13" bodyfile="Application Green Quake.Android/obj/Debug/110/android/src/crc643f46942d9dd1fff9/ShellItemRendererBase.java" bodystart="50" bodyend="54"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_shell_item_renderer_base_1a760695d14120d152317db0647d80aef7" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>crc643f46942d9dd1fff9.ShellItemRendererBase.ShellItemRendererBase</definition>
+        <argsstring>()</argsstring>
+        <name>ShellItemRendererBase</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/100/android/src/crc643f46942d9dd1fff9/ShellItemRendererBase.java" line="19" column="8" bodyfile="Application Green Quake.Android/obj/Release/100/android/src/crc643f46942d9dd1fff9/ShellItemRendererBase.java" bodystart="19" bodyend="24"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_shell_item_renderer_base_1a8bdf0c3ae1d6d241a7b0a26c1ede56f0" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>crc643f46942d9dd1fff9.ShellItemRendererBase.ShellItemRendererBase</definition>
+        <argsstring>(int p0)</argsstring>
+        <name>ShellItemRendererBase</name>
+        <param>
+          <type>int</type>
+          <declname>p0</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/100/android/src/crc643f46942d9dd1fff9/ShellItemRendererBase.java" line="27" column="8" bodyfile="Application Green Quake.Android/obj/Release/100/android/src/crc643f46942d9dd1fff9/ShellItemRendererBase.java" bodystart="27" bodyend="32"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_shell_item_renderer_base_1a81ae553ed19e2f5e94ed36faa32359bf" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void crc643f46942d9dd1fff9.ShellItemRendererBase.onDestroy</definition>
+        <argsstring>()</argsstring>
+        <name>onDestroy</name>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_shell_item_renderer_1a05f8bff6a59ff77950a64d52447ec51f">onDestroy</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_shell_item_renderer_1a05f8bff6a59ff77950a64d52447ec51f">onDestroy</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_shell_item_renderer_1a05f8bff6a59ff77950a64d52447ec51f">onDestroy</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_shell_item_renderer_1a05f8bff6a59ff77950a64d52447ec51f">onDestroy</reimplementedby>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/100/android/src/crc643f46942d9dd1fff9/ShellItemRendererBase.java" line="35" column="13" bodyfile="Application Green Quake.Android/obj/Release/100/android/src/crc643f46942d9dd1fff9/ShellItemRendererBase.java" bodystart="35" bodyend="38"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_shell_item_renderer_base_1a6bb1293f26a1b2e6e68b50353f478ae3" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void crc643f46942d9dd1fff9.ShellItemRendererBase.monodroidAddReference</definition>
+        <argsstring>(java.lang.Object obj)</argsstring>
+        <name>monodroidAddReference</name>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_shell_item_renderer_1af1a4739499dd8d8e30cf355a7ea1ae08">monodroidAddReference</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_shell_item_renderer_1af1a4739499dd8d8e30cf355a7ea1ae08">monodroidAddReference</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_shell_item_renderer_1af1a4739499dd8d8e30cf355a7ea1ae08">monodroidAddReference</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_shell_item_renderer_1af1a4739499dd8d8e30cf355a7ea1ae08">monodroidAddReference</reimplementedby>
+        <param>
+          <type>java.lang.Object</type>
+          <declname>obj</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/100/android/src/crc643f46942d9dd1fff9/ShellItemRendererBase.java" line="43" column="13" bodyfile="Application Green Quake.Android/obj/Release/100/android/src/crc643f46942d9dd1fff9/ShellItemRendererBase.java" bodystart="43" bodyend="48"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_shell_item_renderer_base_1ab493b8f1c6ef49cd9f5952de81126979" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void crc643f46942d9dd1fff9.ShellItemRendererBase.monodroidClearReferences</definition>
+        <argsstring>()</argsstring>
+        <name>monodroidClearReferences</name>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_shell_item_renderer_1ae6f43fe4fe3388d67824cb5539e609e1">monodroidClearReferences</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_shell_item_renderer_1ae6f43fe4fe3388d67824cb5539e609e1">monodroidClearReferences</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_shell_item_renderer_1ae6f43fe4fe3388d67824cb5539e609e1">monodroidClearReferences</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_shell_item_renderer_1ae6f43fe4fe3388d67824cb5539e609e1">monodroidClearReferences</reimplementedby>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/100/android/src/crc643f46942d9dd1fff9/ShellItemRendererBase.java" line="50" column="13" bodyfile="Application Green Quake.Android/obj/Release/100/android/src/crc643f46942d9dd1fff9/ShellItemRendererBase.java" bodystart="50" bodyend="54"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_shell_item_renderer_base_1a760695d14120d152317db0647d80aef7" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>crc643f46942d9dd1fff9.ShellItemRendererBase.ShellItemRendererBase</definition>
+        <argsstring>()</argsstring>
+        <name>ShellItemRendererBase</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/110/android/src/crc643f46942d9dd1fff9/ShellItemRendererBase.java" line="19" column="8" bodyfile="Application Green Quake.Android/obj/Release/110/android/src/crc643f46942d9dd1fff9/ShellItemRendererBase.java" bodystart="19" bodyend="24"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_shell_item_renderer_base_1a8bdf0c3ae1d6d241a7b0a26c1ede56f0" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>crc643f46942d9dd1fff9.ShellItemRendererBase.ShellItemRendererBase</definition>
+        <argsstring>(int p0)</argsstring>
+        <name>ShellItemRendererBase</name>
+        <param>
+          <type>int</type>
+          <declname>p0</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/110/android/src/crc643f46942d9dd1fff9/ShellItemRendererBase.java" line="27" column="8" bodyfile="Application Green Quake.Android/obj/Release/110/android/src/crc643f46942d9dd1fff9/ShellItemRendererBase.java" bodystart="27" bodyend="32"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_shell_item_renderer_base_1a81ae553ed19e2f5e94ed36faa32359bf" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void crc643f46942d9dd1fff9.ShellItemRendererBase.onDestroy</definition>
+        <argsstring>()</argsstring>
+        <name>onDestroy</name>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_shell_item_renderer_1a05f8bff6a59ff77950a64d52447ec51f">onDestroy</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_shell_item_renderer_1a05f8bff6a59ff77950a64d52447ec51f">onDestroy</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_shell_item_renderer_1a05f8bff6a59ff77950a64d52447ec51f">onDestroy</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_shell_item_renderer_1a05f8bff6a59ff77950a64d52447ec51f">onDestroy</reimplementedby>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/110/android/src/crc643f46942d9dd1fff9/ShellItemRendererBase.java" line="35" column="13" bodyfile="Application Green Quake.Android/obj/Release/110/android/src/crc643f46942d9dd1fff9/ShellItemRendererBase.java" bodystart="35" bodyend="38"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_shell_item_renderer_base_1a6bb1293f26a1b2e6e68b50353f478ae3" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void crc643f46942d9dd1fff9.ShellItemRendererBase.monodroidAddReference</definition>
+        <argsstring>(java.lang.Object obj)</argsstring>
+        <name>monodroidAddReference</name>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_shell_item_renderer_1af1a4739499dd8d8e30cf355a7ea1ae08">monodroidAddReference</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_shell_item_renderer_1af1a4739499dd8d8e30cf355a7ea1ae08">monodroidAddReference</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_shell_item_renderer_1af1a4739499dd8d8e30cf355a7ea1ae08">monodroidAddReference</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_shell_item_renderer_1af1a4739499dd8d8e30cf355a7ea1ae08">monodroidAddReference</reimplementedby>
+        <param>
+          <type>java.lang.Object</type>
+          <declname>obj</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/110/android/src/crc643f46942d9dd1fff9/ShellItemRendererBase.java" line="43" column="13" bodyfile="Application Green Quake.Android/obj/Release/110/android/src/crc643f46942d9dd1fff9/ShellItemRendererBase.java" bodystart="43" bodyend="48"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_shell_item_renderer_base_1ab493b8f1c6ef49cd9f5952de81126979" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void crc643f46942d9dd1fff9.ShellItemRendererBase.monodroidClearReferences</definition>
+        <argsstring>()</argsstring>
+        <name>monodroidClearReferences</name>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_shell_item_renderer_1ae6f43fe4fe3388d67824cb5539e609e1">monodroidClearReferences</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_shell_item_renderer_1ae6f43fe4fe3388d67824cb5539e609e1">monodroidClearReferences</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_shell_item_renderer_1ae6f43fe4fe3388d67824cb5539e609e1">monodroidClearReferences</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_shell_item_renderer_1ae6f43fe4fe3388d67824cb5539e609e1">monodroidClearReferences</reimplementedby>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/110/android/src/crc643f46942d9dd1fff9/ShellItemRendererBase.java" line="50" column="13" bodyfile="Application Green Quake.Android/obj/Release/110/android/src/crc643f46942d9dd1fff9/ShellItemRendererBase.java" bodystart="50" bodyend="54"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="private-func">
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_shell_item_renderer_base_1ae65551fc69d106c4acabaa4f9e43f91b" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>native void</type>
+        <definition>native void crc643f46942d9dd1fff9.ShellItemRendererBase.n_onDestroy</definition>
+        <argsstring>()</argsstring>
+        <name>n_onDestroy</name>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_shell_item_renderer_1a2809724578203e8c0f77604d356cda42">n_onDestroy</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_shell_item_renderer_1a2809724578203e8c0f77604d356cda42">n_onDestroy</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_shell_item_renderer_1a2809724578203e8c0f77604d356cda42">n_onDestroy</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_shell_item_renderer_1a2809724578203e8c0f77604d356cda42">n_onDestroy</reimplementedby>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/100/android/src/crc643f46942d9dd1fff9/ShellItemRendererBase.java" line="40" column="21"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_shell_item_renderer_base_1ae65551fc69d106c4acabaa4f9e43f91b" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>native void</type>
+        <definition>native void crc643f46942d9dd1fff9.ShellItemRendererBase.n_onDestroy</definition>
+        <argsstring>()</argsstring>
+        <name>n_onDestroy</name>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_shell_item_renderer_1a2809724578203e8c0f77604d356cda42">n_onDestroy</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_shell_item_renderer_1a2809724578203e8c0f77604d356cda42">n_onDestroy</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_shell_item_renderer_1a2809724578203e8c0f77604d356cda42">n_onDestroy</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_shell_item_renderer_1a2809724578203e8c0f77604d356cda42">n_onDestroy</reimplementedby>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/110/android/src/crc643f46942d9dd1fff9/ShellItemRendererBase.java" line="40" column="21"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_shell_item_renderer_base_1ae65551fc69d106c4acabaa4f9e43f91b" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>native void</type>
+        <definition>native void crc643f46942d9dd1fff9.ShellItemRendererBase.n_onDestroy</definition>
+        <argsstring>()</argsstring>
+        <name>n_onDestroy</name>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_shell_item_renderer_1a2809724578203e8c0f77604d356cda42">n_onDestroy</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_shell_item_renderer_1a2809724578203e8c0f77604d356cda42">n_onDestroy</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_shell_item_renderer_1a2809724578203e8c0f77604d356cda42">n_onDestroy</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_shell_item_renderer_1a2809724578203e8c0f77604d356cda42">n_onDestroy</reimplementedby>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/100/android/src/crc643f46942d9dd1fff9/ShellItemRendererBase.java" line="40" column="21"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_shell_item_renderer_base_1ae65551fc69d106c4acabaa4f9e43f91b" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>native void</type>
+        <definition>native void crc643f46942d9dd1fff9.ShellItemRendererBase.n_onDestroy</definition>
+        <argsstring>()</argsstring>
+        <name>n_onDestroy</name>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_shell_item_renderer_1a2809724578203e8c0f77604d356cda42">n_onDestroy</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_shell_item_renderer_1a2809724578203e8c0f77604d356cda42">n_onDestroy</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_shell_item_renderer_1a2809724578203e8c0f77604d356cda42">n_onDestroy</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_shell_item_renderer_1a2809724578203e8c0f77604d356cda42">n_onDestroy</reimplementedby>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/110/android/src/crc643f46942d9dd1fff9/ShellItemRendererBase.java" line="40" column="21"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <inheritancegraph>
+      <node id="4">
+        <label>crc643f46942d9dd1fff9.ShellItemRenderer</label>
+        <link refid="classcrc643f46942d9dd1fff9_1_1_shell_item_renderer"/>
+        <childnode refid="1" relation="public-inheritance">
+        </childnode>
+        <childnode refid="1" relation="public-inheritance">
+        </childnode>
+        <childnode refid="1" relation="public-inheritance">
+        </childnode>
+        <childnode refid="1" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="3">
+        <label>mono.android.IGCUserPeer</label>
+      </node>
+      <node id="2">
+        <label>androidx.fragment.app.Fragment</label>
+      </node>
+      <node id="1">
+        <label>crc643f46942d9dd1fff9.ShellItemRendererBase</label>
+        <link refid="classcrc643f46942d9dd1fff9_1_1_shell_item_renderer_base"/>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+        <childnode refid="3" relation="public-inheritance">
+        </childnode>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+        <childnode refid="3" relation="public-inheritance">
+        </childnode>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+        <childnode refid="3" relation="public-inheritance">
+        </childnode>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+        <childnode refid="3" relation="public-inheritance">
+        </childnode>
+      </node>
+    </inheritancegraph>
+    <collaborationgraph>
+      <node id="3">
+        <label>mono.android.IGCUserPeer</label>
+      </node>
+      <node id="2">
+        <label>androidx.fragment.app.Fragment</label>
+      </node>
+      <node id="1">
+        <label>crc643f46942d9dd1fff9.ShellItemRendererBase</label>
+        <link refid="classcrc643f46942d9dd1fff9_1_1_shell_item_renderer_base"/>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+        <childnode refid="3" relation="public-inheritance">
+        </childnode>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+        <childnode refid="3" relation="public-inheritance">
+        </childnode>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+        <childnode refid="3" relation="public-inheritance">
+        </childnode>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+        <childnode refid="3" relation="public-inheritance">
+        </childnode>
+      </node>
+    </collaborationgraph>
+    <location file="Application Green Quake.Android/obj/Debug/100/android/src/crc643f46942d9dd1fff9/ShellItemRendererBase.java" line="4" column="17" bodyfile="Application Green Quake.Android/obj/Debug/100/android/src/crc643f46942d9dd1fff9/ShellItemRendererBase.java" bodystart="8" bodyend="55"/>
+    <listofallmembers>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_shell_item_renderer_base_1adbe0d9fa770fb99ed27756458db83961" prot="package" virt="non-virtual"><scope>crc643f46942d9dd1fff9::ShellItemRendererBase</scope><name>[static initializer]</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_shell_item_renderer_base_1adbe0d9fa770fb99ed27756458db83961" prot="package" virt="non-virtual"><scope>crc643f46942d9dd1fff9::ShellItemRendererBase</scope><name>[static initializer]</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_shell_item_renderer_base_1adbe0d9fa770fb99ed27756458db83961" prot="package" virt="non-virtual"><scope>crc643f46942d9dd1fff9::ShellItemRendererBase</scope><name>[static initializer]</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_shell_item_renderer_base_1adbe0d9fa770fb99ed27756458db83961" prot="package" virt="non-virtual"><scope>crc643f46942d9dd1fff9::ShellItemRendererBase</scope><name>[static initializer]</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_shell_item_renderer_base_1ae7a930ec189c772fe201cc0569e518ac" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::ShellItemRendererBase</scope><name>__md_methods</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_shell_item_renderer_base_1a6bb1293f26a1b2e6e68b50353f478ae3" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::ShellItemRendererBase</scope><name>monodroidAddReference</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_shell_item_renderer_base_1a6bb1293f26a1b2e6e68b50353f478ae3" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::ShellItemRendererBase</scope><name>monodroidAddReference</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_shell_item_renderer_base_1a6bb1293f26a1b2e6e68b50353f478ae3" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::ShellItemRendererBase</scope><name>monodroidAddReference</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_shell_item_renderer_base_1a6bb1293f26a1b2e6e68b50353f478ae3" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::ShellItemRendererBase</scope><name>monodroidAddReference</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_shell_item_renderer_base_1ab493b8f1c6ef49cd9f5952de81126979" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::ShellItemRendererBase</scope><name>monodroidClearReferences</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_shell_item_renderer_base_1ab493b8f1c6ef49cd9f5952de81126979" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::ShellItemRendererBase</scope><name>monodroidClearReferences</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_shell_item_renderer_base_1ab493b8f1c6ef49cd9f5952de81126979" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::ShellItemRendererBase</scope><name>monodroidClearReferences</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_shell_item_renderer_base_1ab493b8f1c6ef49cd9f5952de81126979" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::ShellItemRendererBase</scope><name>monodroidClearReferences</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_shell_item_renderer_base_1ae65551fc69d106c4acabaa4f9e43f91b" prot="private" virt="non-virtual"><scope>crc643f46942d9dd1fff9::ShellItemRendererBase</scope><name>n_onDestroy</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_shell_item_renderer_base_1ae65551fc69d106c4acabaa4f9e43f91b" prot="private" virt="non-virtual"><scope>crc643f46942d9dd1fff9::ShellItemRendererBase</scope><name>n_onDestroy</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_shell_item_renderer_base_1ae65551fc69d106c4acabaa4f9e43f91b" prot="private" virt="non-virtual"><scope>crc643f46942d9dd1fff9::ShellItemRendererBase</scope><name>n_onDestroy</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_shell_item_renderer_base_1ae65551fc69d106c4acabaa4f9e43f91b" prot="private" virt="non-virtual"><scope>crc643f46942d9dd1fff9::ShellItemRendererBase</scope><name>n_onDestroy</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_shell_item_renderer_base_1a81ae553ed19e2f5e94ed36faa32359bf" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::ShellItemRendererBase</scope><name>onDestroy</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_shell_item_renderer_base_1a81ae553ed19e2f5e94ed36faa32359bf" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::ShellItemRendererBase</scope><name>onDestroy</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_shell_item_renderer_base_1a81ae553ed19e2f5e94ed36faa32359bf" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::ShellItemRendererBase</scope><name>onDestroy</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_shell_item_renderer_base_1a81ae553ed19e2f5e94ed36faa32359bf" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::ShellItemRendererBase</scope><name>onDestroy</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_shell_item_renderer_base_1a3cfddbea99a904bc158bdb526cb8d5d4" prot="private" virt="non-virtual"><scope>crc643f46942d9dd1fff9::ShellItemRendererBase</scope><name>refList</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_shell_item_renderer_base_1a760695d14120d152317db0647d80aef7" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::ShellItemRendererBase</scope><name>ShellItemRendererBase</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_shell_item_renderer_base_1a8bdf0c3ae1d6d241a7b0a26c1ede56f0" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::ShellItemRendererBase</scope><name>ShellItemRendererBase</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_shell_item_renderer_base_1a760695d14120d152317db0647d80aef7" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::ShellItemRendererBase</scope><name>ShellItemRendererBase</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_shell_item_renderer_base_1a8bdf0c3ae1d6d241a7b0a26c1ede56f0" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::ShellItemRendererBase</scope><name>ShellItemRendererBase</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_shell_item_renderer_base_1a760695d14120d152317db0647d80aef7" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::ShellItemRendererBase</scope><name>ShellItemRendererBase</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_shell_item_renderer_base_1a8bdf0c3ae1d6d241a7b0a26c1ede56f0" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::ShellItemRendererBase</scope><name>ShellItemRendererBase</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_shell_item_renderer_base_1a760695d14120d152317db0647d80aef7" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::ShellItemRendererBase</scope><name>ShellItemRendererBase</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_shell_item_renderer_base_1a8bdf0c3ae1d6d241a7b0a26c1ede56f0" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::ShellItemRendererBase</scope><name>ShellItemRendererBase</name></member>
+    </listofallmembers>
+  </compounddef>
+</doxygen>

@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.9.1" xml:lang="en-US">
+  <compounddef id="_release_2100_2android_2src_2mono_2android_2app_2_application_registration_8java" kind="file" language="Java">
+    <compoundname>ApplicationRegistration.java</compoundname>
+    <innerclass refid="classmono_1_1android_1_1app_1_1_application_registration" prot="public">mono::android::app::ApplicationRegistration</innerclass>
+    <innernamespace refid="namespacemono_1_1android_1_1app">mono::android::app</innernamespace>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <programlisting>
+<codeline lineno="1"><highlight class="keyword">package<sp/></highlight><highlight class="normal">mono.android.app;</highlight></codeline>
+<codeline lineno="2"><highlight class="normal"></highlight></codeline>
+<codeline lineno="3"><highlight class="normal"></highlight><highlight class="keyword">public</highlight><highlight class="normal"><sp/></highlight><highlight class="keyword">class<sp/></highlight><highlight class="normal">ApplicationRegistration<sp/>{</highlight></codeline>
+<codeline lineno="4"><highlight class="normal"></highlight></codeline>
+<codeline lineno="5" refid="classmono_1_1android_1_1app_1_1_application_registration_1aa4d14d9d7a2c1c57a8ddf959fbb71e47" refkind="member"><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">public</highlight><highlight class="normal"><sp/></highlight><highlight class="keyword">static</highlight><highlight class="normal"><sp/></highlight><highlight class="keywordtype">void</highlight><highlight class="normal"><sp/><ref refid="classmono_1_1android_1_1app_1_1_application_registration_1aa4d14d9d7a2c1c57a8ddf959fbb71e47" kindref="member">registerApplications</ref><sp/>()</highlight></codeline>
+<codeline lineno="6"><highlight class="normal"><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline lineno="7"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>Application<sp/>and<sp/>Instrumentation<sp/>ACWs<sp/>must<sp/>be<sp/>registered<sp/>first.</highlight><highlight class="normal"></highlight></codeline>
+<codeline lineno="8"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>mono.android.Runtime.register<sp/>(</highlight><highlight class="stringliteral">&quot;MainApplication,<sp/>Application<sp/>Green<sp/>Quake.Android,<sp/>Version=1.0.0.0,<sp/>Culture=neutral,<sp/>PublicKeyToken=null&quot;</highlight><highlight class="normal">,<sp/><ref refid="namespacecrc6410ae41031c958871" kindref="compound">crc6410ae41031c958871</ref>.<ref refid="classcrc6410ae41031c958871_1_1_main_application" kindref="compound">MainApplication</ref>.class,<sp/><ref refid="namespacecrc6410ae41031c958871" kindref="compound">crc6410ae41031c958871</ref>.<ref refid="classcrc6410ae41031c958871_1_1_main_application" kindref="compound">MainApplication</ref>.<ref refid="classcrc6410ae41031c958871_1_1_main_application_1a2e843edba5a71f098738e6cc618fa26c" kindref="member">__md_methods</ref>);</highlight></codeline>
+<codeline lineno="9"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight></codeline>
+<codeline lineno="10"><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline lineno="11"><highlight class="normal">}</highlight></codeline>
+    </programlisting>
+    <location file="Application Green Quake.Android/obj/Release/100/android/src/mono/android/app/ApplicationRegistration.java"/>
+  </compounddef>
+</doxygen>

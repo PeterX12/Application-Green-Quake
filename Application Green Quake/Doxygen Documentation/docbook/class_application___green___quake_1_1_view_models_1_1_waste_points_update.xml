@@ -1,0 +1,71 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<section xmlns="http://docbook.org/ns/docbook" version="5.0" xmlns:xlink="http://www.w3.org/1999/xlink" xml:id="_class_application___green___quake_1_1_view_models_1_1_waste_points_update" xml:lang="en-US">
+<title>Application_Green_Quake.ViewModels.WastePointsUpdate Class Reference</title>
+<indexterm><primary>Application_Green_Quake.ViewModels.WastePointsUpdate</primary></indexterm>
+<simplesect>
+    <title>Public Member Functions    </title>
+        <itemizedlist>
+            <listitem><para>async void <link linkend="_class_application___green___quake_1_1_view_models_1_1_waste_points_update_1ae290353fb31c649b64cec9fe88e55b4a">BillsPoints</link> ()</para>
+</listitem>
+            <listitem><para>async void <link linkend="_class_application___green___quake_1_1_view_models_1_1_waste_points_update_1a945246751f1c545a52dbbe452ccf22fc">CompostPoints</link> ()</para>
+</listitem>
+            <listitem><para>async void <link linkend="_class_application___green___quake_1_1_view_models_1_1_waste_points_update_1aaa1ba875742608d249328904a9cd9705">SetUpRecyclingBinPoints</link> ()</para>
+</listitem>
+            <listitem><para>async void <link linkend="_class_application___green___quake_1_1_view_models_1_1_waste_points_update_1ac7c7dd638bee197504cbfaad7ad22382">BioBinBagPoints</link> ()</para>
+</listitem>
+            <listitem><para>async void <link linkend="_class_application___green___quake_1_1_view_models_1_1_waste_points_update_1a8ae3ce38843f4f6b07a580ff3c2eba63">RecyclingBinPoints</link> ()</para>
+</listitem>
+        </itemizedlist>
+</simplesect>
+<section>
+<title>Detailed Description</title>
+<para>
+Definition at line 18 of file WastePointsUpdate.cs.</para>
+</section>
+<section>
+<title>Member Function Documentation</title>
+<anchor xml:id="_class_application___green___quake_1_1_view_models_1_1_waste_points_update_1ae290353fb31c649b64cec9fe88e55b4a"/>    <section>
+    <title>BillsPoints()</title>
+<indexterm><primary>BillsPoints</primary><secondary>Application_Green_Quake.ViewModels.WastePointsUpdate</secondary></indexterm>
+<indexterm><primary>Application_Green_Quake.ViewModels.WastePointsUpdate</primary><secondary>BillsPoints</secondary></indexterm>
+<para><computeroutput>async void Application_Green_Quake.ViewModels.WastePointsUpdate.BillsPoints ( )</computeroutput></para>
+<para>This function updates the points in the Waste category by four points. It also increments the number of logs logged in the Waste category by one and increments the number of times this particular action was logged by one and sends this data to Firebase. </para>
+<para>
+Definition at line 35 of file WastePointsUpdate.cs.</para>
+    </section><anchor xml:id="_class_application___green___quake_1_1_view_models_1_1_waste_points_update_1ac7c7dd638bee197504cbfaad7ad22382"/>    <section>
+    <title>BioBinBagPoints()</title>
+<indexterm><primary>BioBinBagPoints</primary><secondary>Application_Green_Quake.ViewModels.WastePointsUpdate</secondary></indexterm>
+<indexterm><primary>Application_Green_Quake.ViewModels.WastePointsUpdate</primary><secondary>BioBinBagPoints</secondary></indexterm>
+<para><computeroutput>async void Application_Green_Quake.ViewModels.WastePointsUpdate.BioBinBagPoints ( )</computeroutput></para>
+<para>This function updates the points in the Waste category by four points. It also increments the number of logs logged in the Waste category by one and increments the number of times this particular action was logged by one and sends this data to Firebase. </para>
+<para>
+Definition at line 335 of file WastePointsUpdate.cs.</para>
+    </section><anchor xml:id="_class_application___green___quake_1_1_view_models_1_1_waste_points_update_1a945246751f1c545a52dbbe452ccf22fc"/>    <section>
+    <title>CompostPoints()</title>
+<indexterm><primary>CompostPoints</primary><secondary>Application_Green_Quake.ViewModels.WastePointsUpdate</secondary></indexterm>
+<indexterm><primary>Application_Green_Quake.ViewModels.WastePointsUpdate</primary><secondary>CompostPoints</secondary></indexterm>
+<para><computeroutput>async void Application_Green_Quake.ViewModels.WastePointsUpdate.CompostPoints ( )</computeroutput></para>
+<para>This function updates the points in the Waste category by six points. It also increments the number of logs logged in the Waste category by one and increments the number of times this particular action was logged by one and sends this data to Firebase. </para>
+<para>
+Definition at line 135 of file WastePointsUpdate.cs.</para>
+    </section><anchor xml:id="_class_application___green___quake_1_1_view_models_1_1_waste_points_update_1a8ae3ce38843f4f6b07a580ff3c2eba63"/>    <section>
+    <title>RecyclingBinPoints()</title>
+<indexterm><primary>RecyclingBinPoints</primary><secondary>Application_Green_Quake.ViewModels.WastePointsUpdate</secondary></indexterm>
+<indexterm><primary>Application_Green_Quake.ViewModels.WastePointsUpdate</primary><secondary>RecyclingBinPoints</secondary></indexterm>
+<para><computeroutput>async void Application_Green_Quake.ViewModels.WastePointsUpdate.RecyclingBinPoints ( )</computeroutput></para>
+<para>This function updates the points in the Waste category by six points. It also increments the number of logs logged in the Waste category by one and increments the number of times this particular action was logged by one and sends this data to Firebase. </para>
+<para>
+Definition at line 435 of file WastePointsUpdate.cs.</para>
+    </section><anchor xml:id="_class_application___green___quake_1_1_view_models_1_1_waste_points_update_1aaa1ba875742608d249328904a9cd9705"/>    <section>
+    <title>SetUpRecyclingBinPoints()</title>
+<indexterm><primary>SetUpRecyclingBinPoints</primary><secondary>Application_Green_Quake.ViewModels.WastePointsUpdate</secondary></indexterm>
+<indexterm><primary>Application_Green_Quake.ViewModels.WastePointsUpdate</primary><secondary>SetUpRecyclingBinPoints</secondary></indexterm>
+<para><computeroutput>async void Application_Green_Quake.ViewModels.WastePointsUpdate.SetUpRecyclingBinPoints ( )</computeroutput></para>
+<para>This function updates the points in the Waste category by ten points. It also increments the number of logs logged in the Waste category by one and increments the number of times this particular action was logged by one and sends this data to Firebase. </para>
+<para>
+Definition at line 235 of file WastePointsUpdate.cs.</para>
+</section>
+<para>
+The documentation for this class was generated from the following file:</para>
+Application Green Quake/ViewModels/<link linkend="__waste_points_update_8cs">WastePointsUpdate.cs</link></section>
+</section>

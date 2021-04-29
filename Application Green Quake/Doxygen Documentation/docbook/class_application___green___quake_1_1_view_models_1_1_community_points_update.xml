@@ -1,0 +1,81 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<section xmlns="http://docbook.org/ns/docbook" version="5.0" xmlns:xlink="http://www.w3.org/1999/xlink" xml:id="_class_application___green___quake_1_1_view_models_1_1_community_points_update" xml:lang="en-US">
+<title>Application_Green_Quake.ViewModels.CommunityPointsUpdate Class Reference</title>
+<indexterm><primary>Application_Green_Quake.ViewModels.CommunityPointsUpdate</primary></indexterm>
+<simplesect>
+    <title>Public Member Functions    </title>
+        <itemizedlist>
+            <listitem><para>async void <link linkend="_class_application___green___quake_1_1_view_models_1_1_community_points_update_1ae7391199ed81cf2a828ba131fca7c477">CreateGroupPoints</link> ()</para>
+</listitem>
+            <listitem><para>async void <link linkend="_class_application___green___quake_1_1_view_models_1_1_community_points_update_1a926ff815575cce9c5a4327bc588ab9ac">CommunityPoints</link> ()</para>
+</listitem>
+            <listitem><para>async void <link linkend="_class_application___green___quake_1_1_view_models_1_1_community_points_update_1a8d25de82948451575b449a2e3a77e487">DonatePoints</link> ()</para>
+</listitem>
+            <listitem><para>async void <link linkend="_class_application___green___quake_1_1_view_models_1_1_community_points_update_1ae8e0285979da4a971b2978eea43bd0fc">GroupPoints</link> ()</para>
+</listitem>
+            <listitem><para>async void <link linkend="_class_application___green___quake_1_1_view_models_1_1_community_points_update_1a2d3794459893ca6a22d2c1b1651c2934">SharePoints</link> ()</para>
+</listitem>
+            <listitem><para>async void <link linkend="_class_application___green___quake_1_1_view_models_1_1_community_points_update_1a7759c168d02cd5677deb136235fb766d">awarenessPoints</link> ()</para>
+</listitem>
+        </itemizedlist>
+</simplesect>
+<section>
+<title>Detailed Description</title>
+<para>
+Definition at line 18 of file CommunityPointsUpdate.cs.</para>
+</section>
+<section>
+<title>Member Function Documentation</title>
+<anchor xml:id="_class_application___green___quake_1_1_view_models_1_1_community_points_update_1a7759c168d02cd5677deb136235fb766d"/>    <section>
+    <title>awarenessPoints()</title>
+<indexterm><primary>awarenessPoints</primary><secondary>Application_Green_Quake.ViewModels.CommunityPointsUpdate</secondary></indexterm>
+<indexterm><primary>Application_Green_Quake.ViewModels.CommunityPointsUpdate</primary><secondary>awarenessPoints</secondary></indexterm>
+<para><computeroutput>async void Application_Green_Quake.ViewModels.CommunityPointsUpdate.awarenessPoints ( )</computeroutput></para>
+<para>This function updates the points in the Community category by eight points. It also increments the number of logs logged in the Community category by one and increments the number of times this particular action was logged by one and sends this data to Firebase. </para>
+<para>
+Definition at line 571 of file CommunityPointsUpdate.cs.</para>
+    </section><anchor xml:id="_class_application___green___quake_1_1_view_models_1_1_community_points_update_1a926ff815575cce9c5a4327bc588ab9ac"/>    <section>
+    <title>CommunityPoints()</title>
+<indexterm><primary>CommunityPoints</primary><secondary>Application_Green_Quake.ViewModels.CommunityPointsUpdate</secondary></indexterm>
+<indexterm><primary>Application_Green_Quake.ViewModels.CommunityPointsUpdate</primary><secondary>CommunityPoints</secondary></indexterm>
+<para><computeroutput>async void Application_Green_Quake.ViewModels.CommunityPointsUpdate.CommunityPoints ( )</computeroutput></para>
+<para>This function updates the points in the Community category by ten points. It also increments the number of logs logged in the Community category by one and increments the number of times this particular action was logged by one and sends this data to Firebase. </para>
+<para>
+Definition at line 143 of file CommunityPointsUpdate.cs.</para>
+    </section><anchor xml:id="_class_application___green___quake_1_1_view_models_1_1_community_points_update_1ae7391199ed81cf2a828ba131fca7c477"/>    <section>
+    <title>CreateGroupPoints()</title>
+<indexterm><primary>CreateGroupPoints</primary><secondary>Application_Green_Quake.ViewModels.CommunityPointsUpdate</secondary></indexterm>
+<indexterm><primary>Application_Green_Quake.ViewModels.CommunityPointsUpdate</primary><secondary>CreateGroupPoints</secondary></indexterm>
+<para><computeroutput>async void Application_Green_Quake.ViewModels.CommunityPointsUpdate.CreateGroupPoints ( )</computeroutput></para>
+<para>This function updates the points in the Community category by ten points. It also increments the number of logs logged in the Community category by one and increments the number of times this particular action was logged by one and sends this data to Firebase. </para>
+<para>
+Definition at line 36 of file CommunityPointsUpdate.cs.</para>
+    </section><anchor xml:id="_class_application___green___quake_1_1_view_models_1_1_community_points_update_1a8d25de82948451575b449a2e3a77e487"/>    <section>
+    <title>DonatePoints()</title>
+<indexterm><primary>DonatePoints</primary><secondary>Application_Green_Quake.ViewModels.CommunityPointsUpdate</secondary></indexterm>
+<indexterm><primary>Application_Green_Quake.ViewModels.CommunityPointsUpdate</primary><secondary>DonatePoints</secondary></indexterm>
+<para><computeroutput>async void Application_Green_Quake.ViewModels.CommunityPointsUpdate.DonatePoints ( )</computeroutput></para>
+<para>This function updates the points in the Community category by ten points. It also increments the number of logs logged in the Community category by one and increments the number of times this particular action was logged by one and sends this data to Firebase. </para>
+<para>
+Definition at line 250 of file CommunityPointsUpdate.cs.</para>
+    </section><anchor xml:id="_class_application___green___quake_1_1_view_models_1_1_community_points_update_1ae8e0285979da4a971b2978eea43bd0fc"/>    <section>
+    <title>GroupPoints()</title>
+<indexterm><primary>GroupPoints</primary><secondary>Application_Green_Quake.ViewModels.CommunityPointsUpdate</secondary></indexterm>
+<indexterm><primary>Application_Green_Quake.ViewModels.CommunityPointsUpdate</primary><secondary>GroupPoints</secondary></indexterm>
+<para><computeroutput>async void Application_Green_Quake.ViewModels.CommunityPointsUpdate.GroupPoints ( )</computeroutput></para>
+<para>This function updates the points in the Community category by eight points. It also increments the number of logs logged in the Community category by one and increments the number of times this particular action was logged by one and sends this data to Firebase. </para>
+<para>
+Definition at line 357 of file CommunityPointsUpdate.cs.</para>
+    </section><anchor xml:id="_class_application___green___quake_1_1_view_models_1_1_community_points_update_1a2d3794459893ca6a22d2c1b1651c2934"/>    <section>
+    <title>SharePoints()</title>
+<indexterm><primary>SharePoints</primary><secondary>Application_Green_Quake.ViewModels.CommunityPointsUpdate</secondary></indexterm>
+<indexterm><primary>Application_Green_Quake.ViewModels.CommunityPointsUpdate</primary><secondary>SharePoints</secondary></indexterm>
+<para><computeroutput>async void Application_Green_Quake.ViewModels.CommunityPointsUpdate.SharePoints ( )</computeroutput></para>
+<para>This function updates the points in the Community category by eight points. It also increments the number of logs logged in the Community category by one and increments the number of times this particular action was logged by one and sends this data to Firebase. </para>
+<para>
+Definition at line 464 of file CommunityPointsUpdate.cs.</para>
+</section>
+<para>
+The documentation for this class was generated from the following file:</para>
+Application Green Quake/ViewModels/<link linkend="__community_points_update_8cs">CommunityPointsUpdate.cs</link></section>
+</section>

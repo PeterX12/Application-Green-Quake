@@ -1,0 +1,688 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.9.1" xml:lang="en-US">
+  <compounddef id="classcrc64720bb2db43a66fe9_1_1_master_detail_page_renderer" kind="class" language="Java" prot="public">
+    <compoundname>crc64720bb2db43a66fe9::MasterDetailPageRenderer</compoundname>
+    <basecompoundref refid="classcrc643f46942d9dd1fff9_1_1_flyout_page_renderer" prot="public" virt="non-virtual">crc643f46942d9dd1fff9.FlyoutPageRenderer</basecompoundref>
+    <basecompoundref prot="public" virt="non-virtual">mono.android.IGCUserPeer</basecompoundref>
+    <basecompoundref refid="classcrc643f46942d9dd1fff9_1_1_flyout_page_renderer" prot="public" virt="non-virtual">crc643f46942d9dd1fff9.FlyoutPageRenderer</basecompoundref>
+    <basecompoundref prot="public" virt="non-virtual">mono.android.IGCUserPeer</basecompoundref>
+    <basecompoundref refid="classcrc643f46942d9dd1fff9_1_1_flyout_page_renderer" prot="public" virt="non-virtual">crc643f46942d9dd1fff9.FlyoutPageRenderer</basecompoundref>
+    <basecompoundref prot="public" virt="non-virtual">mono.android.IGCUserPeer</basecompoundref>
+    <basecompoundref refid="classcrc643f46942d9dd1fff9_1_1_flyout_page_renderer" prot="public" virt="non-virtual">crc643f46942d9dd1fff9.FlyoutPageRenderer</basecompoundref>
+    <basecompoundref prot="public" virt="non-virtual">mono.android.IGCUserPeer</basecompoundref>
+      <sectiondef kind="public-static-attrib">
+      <memberdef kind="variable" id="classcrc64720bb2db43a66fe9_1_1_master_detail_page_renderer_1a18b7f57d4f908903b0c763fcf2f94960" prot="public" static="yes" mutable="no">
+        <type>final String</type>
+        <definition>static final String crc64720bb2db43a66fe9.MasterDetailPageRenderer::__md_methods</definition>
+        <argsstring></argsstring>
+        <name>__md_methods</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+<para>@hide </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/100/android/src/crc64720bb2db43a66fe9/MasterDetailPageRenderer.java" line="10" column="28" bodyfile="Application Green Quake.Android/obj/Debug/100/android/src/crc64720bb2db43a66fe9/MasterDetailPageRenderer.java" bodystart="10" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="private-attrib">
+      <memberdef kind="variable" id="classcrc64720bb2db43a66fe9_1_1_master_detail_page_renderer_1a782051a23381a9697c44092c3fadc8dd" prot="private" static="no" mutable="no">
+        <type>java.util.ArrayList</type>
+        <definition>java util ArrayList crc64720bb2db43a66fe9.MasterDetailPageRenderer::refList</definition>
+        <argsstring></argsstring>
+        <name>refList</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/100/android/src/crc64720bb2db43a66fe9/MasterDetailPageRenderer.java" line="41" column="27" bodyfile="Application Green Quake.Android/obj/Debug/100/android/src/crc64720bb2db43a66fe9/MasterDetailPageRenderer.java" bodystart="41" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="package-static-func">
+      <memberdef kind="function" id="classcrc64720bb2db43a66fe9_1_1_master_detail_page_renderer_1a9ae1c05165930b106cdbef3b8c1e07e5" prot="package" static="yes" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>crc64720bb2db43a66fe9.MasterDetailPageRenderer.[static initializer]</definition>
+        <argsstring></argsstring>
+        <name>[static initializer]</name>
+        <reimplements refid="classcrc643f46942d9dd1fff9_1_1_flyout_page_renderer_1ad9988b8a90a6aaa5038bc2e0e16d1716">[static initializer]</reimplements>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/100/android/src/crc64720bb2db43a66fe9/MasterDetailPageRenderer.java" line="10" column="28"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc64720bb2db43a66fe9_1_1_master_detail_page_renderer_1a9ae1c05165930b106cdbef3b8c1e07e5" prot="package" static="yes" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>crc64720bb2db43a66fe9.MasterDetailPageRenderer.[static initializer]</definition>
+        <argsstring></argsstring>
+        <name>[static initializer]</name>
+        <reimplements refid="classcrc643f46942d9dd1fff9_1_1_flyout_page_renderer_1ad9988b8a90a6aaa5038bc2e0e16d1716">[static initializer]</reimplements>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/110/android/src/crc64720bb2db43a66fe9/MasterDetailPageRenderer.java" line="10" column="28"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc64720bb2db43a66fe9_1_1_master_detail_page_renderer_1a9ae1c05165930b106cdbef3b8c1e07e5" prot="package" static="yes" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>crc64720bb2db43a66fe9.MasterDetailPageRenderer.[static initializer]</definition>
+        <argsstring></argsstring>
+        <name>[static initializer]</name>
+        <reimplements refid="classcrc643f46942d9dd1fff9_1_1_flyout_page_renderer_1ad9988b8a90a6aaa5038bc2e0e16d1716">[static initializer]</reimplements>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/100/android/src/crc64720bb2db43a66fe9/MasterDetailPageRenderer.java" line="10" column="28"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc64720bb2db43a66fe9_1_1_master_detail_page_renderer_1a9ae1c05165930b106cdbef3b8c1e07e5" prot="package" static="yes" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>crc64720bb2db43a66fe9.MasterDetailPageRenderer.[static initializer]</definition>
+        <argsstring></argsstring>
+        <name>[static initializer]</name>
+        <reimplements refid="classcrc643f46942d9dd1fff9_1_1_flyout_page_renderer_1ad9988b8a90a6aaa5038bc2e0e16d1716">[static initializer]</reimplements>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/110/android/src/crc64720bb2db43a66fe9/MasterDetailPageRenderer.java" line="10" column="28"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="public-func">
+      <memberdef kind="function" id="classcrc64720bb2db43a66fe9_1_1_master_detail_page_renderer_1a4fb9d8b0617f540570254201afaac761" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>crc64720bb2db43a66fe9.MasterDetailPageRenderer.MasterDetailPageRenderer</definition>
+        <argsstring>(android.content.Context p0)</argsstring>
+        <name>MasterDetailPageRenderer</name>
+        <param>
+          <type>android.content.Context</type>
+          <declname>p0</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/100/android/src/crc64720bb2db43a66fe9/MasterDetailPageRenderer.java" line="18" column="8" bodyfile="Application Green Quake.Android/obj/Debug/100/android/src/crc64720bb2db43a66fe9/MasterDetailPageRenderer.java" bodystart="18" bodyend="23"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc64720bb2db43a66fe9_1_1_master_detail_page_renderer_1a8610d0bad1097cf90947b89779083d65" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>crc64720bb2db43a66fe9.MasterDetailPageRenderer.MasterDetailPageRenderer</definition>
+        <argsstring>(android.content.Context p0, android.util.AttributeSet p1)</argsstring>
+        <name>MasterDetailPageRenderer</name>
+        <param>
+          <type>android.content.Context</type>
+          <declname>p0</declname>
+        </param>
+        <param>
+          <type>android.util.AttributeSet</type>
+          <declname>p1</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/100/android/src/crc64720bb2db43a66fe9/MasterDetailPageRenderer.java" line="26" column="8" bodyfile="Application Green Quake.Android/obj/Debug/100/android/src/crc64720bb2db43a66fe9/MasterDetailPageRenderer.java" bodystart="26" bodyend="31"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc64720bb2db43a66fe9_1_1_master_detail_page_renderer_1a3c1b02ccb4b262cf941c75eba17bc216" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>crc64720bb2db43a66fe9.MasterDetailPageRenderer.MasterDetailPageRenderer</definition>
+        <argsstring>(android.content.Context p0, android.util.AttributeSet p1, int p2)</argsstring>
+        <name>MasterDetailPageRenderer</name>
+        <param>
+          <type>android.content.Context</type>
+          <declname>p0</declname>
+        </param>
+        <param>
+          <type>android.util.AttributeSet</type>
+          <declname>p1</declname>
+        </param>
+        <param>
+          <type>int</type>
+          <declname>p2</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/100/android/src/crc64720bb2db43a66fe9/MasterDetailPageRenderer.java" line="34" column="8" bodyfile="Application Green Quake.Android/obj/Debug/100/android/src/crc64720bb2db43a66fe9/MasterDetailPageRenderer.java" bodystart="34" bodyend="39"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc64720bb2db43a66fe9_1_1_master_detail_page_renderer_1ad1a99db9120581ab0c60596bac1c060f" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void crc64720bb2db43a66fe9.MasterDetailPageRenderer.monodroidAddReference</definition>
+        <argsstring>(java.lang.Object obj)</argsstring>
+        <name>monodroidAddReference</name>
+        <reimplements refid="classcrc643f46942d9dd1fff9_1_1_flyout_page_renderer_1ac33bc0aebc1f76358c6e25e4659509dc">monodroidAddReference</reimplements>
+        <param>
+          <type>java.lang.Object</type>
+          <declname>obj</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/100/android/src/crc64720bb2db43a66fe9/MasterDetailPageRenderer.java" line="42" column="13" bodyfile="Application Green Quake.Android/obj/Debug/100/android/src/crc64720bb2db43a66fe9/MasterDetailPageRenderer.java" bodystart="42" bodyend="47"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc64720bb2db43a66fe9_1_1_master_detail_page_renderer_1aac47e1143b29925abb877419ed7d93fc" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void crc64720bb2db43a66fe9.MasterDetailPageRenderer.monodroidClearReferences</definition>
+        <argsstring>()</argsstring>
+        <name>monodroidClearReferences</name>
+        <reimplements refid="classcrc643f46942d9dd1fff9_1_1_flyout_page_renderer_1aa427f83eec490fcf7785c4b6ada53729">monodroidClearReferences</reimplements>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/100/android/src/crc64720bb2db43a66fe9/MasterDetailPageRenderer.java" line="49" column="13" bodyfile="Application Green Quake.Android/obj/Debug/100/android/src/crc64720bb2db43a66fe9/MasterDetailPageRenderer.java" bodystart="49" bodyend="53"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc64720bb2db43a66fe9_1_1_master_detail_page_renderer_1a4fb9d8b0617f540570254201afaac761" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>crc64720bb2db43a66fe9.MasterDetailPageRenderer.MasterDetailPageRenderer</definition>
+        <argsstring>(android.content.Context p0)</argsstring>
+        <name>MasterDetailPageRenderer</name>
+        <param>
+          <type>android.content.Context</type>
+          <declname>p0</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/110/android/src/crc64720bb2db43a66fe9/MasterDetailPageRenderer.java" line="18" column="8" bodyfile="Application Green Quake.Android/obj/Debug/110/android/src/crc64720bb2db43a66fe9/MasterDetailPageRenderer.java" bodystart="18" bodyend="23"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc64720bb2db43a66fe9_1_1_master_detail_page_renderer_1a8610d0bad1097cf90947b89779083d65" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>crc64720bb2db43a66fe9.MasterDetailPageRenderer.MasterDetailPageRenderer</definition>
+        <argsstring>(android.content.Context p0, android.util.AttributeSet p1)</argsstring>
+        <name>MasterDetailPageRenderer</name>
+        <param>
+          <type>android.content.Context</type>
+          <declname>p0</declname>
+        </param>
+        <param>
+          <type>android.util.AttributeSet</type>
+          <declname>p1</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/110/android/src/crc64720bb2db43a66fe9/MasterDetailPageRenderer.java" line="26" column="8" bodyfile="Application Green Quake.Android/obj/Debug/110/android/src/crc64720bb2db43a66fe9/MasterDetailPageRenderer.java" bodystart="26" bodyend="31"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc64720bb2db43a66fe9_1_1_master_detail_page_renderer_1a3c1b02ccb4b262cf941c75eba17bc216" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>crc64720bb2db43a66fe9.MasterDetailPageRenderer.MasterDetailPageRenderer</definition>
+        <argsstring>(android.content.Context p0, android.util.AttributeSet p1, int p2)</argsstring>
+        <name>MasterDetailPageRenderer</name>
+        <param>
+          <type>android.content.Context</type>
+          <declname>p0</declname>
+        </param>
+        <param>
+          <type>android.util.AttributeSet</type>
+          <declname>p1</declname>
+        </param>
+        <param>
+          <type>int</type>
+          <declname>p2</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/110/android/src/crc64720bb2db43a66fe9/MasterDetailPageRenderer.java" line="34" column="8" bodyfile="Application Green Quake.Android/obj/Debug/110/android/src/crc64720bb2db43a66fe9/MasterDetailPageRenderer.java" bodystart="34" bodyend="39"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc64720bb2db43a66fe9_1_1_master_detail_page_renderer_1ad1a99db9120581ab0c60596bac1c060f" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void crc64720bb2db43a66fe9.MasterDetailPageRenderer.monodroidAddReference</definition>
+        <argsstring>(java.lang.Object obj)</argsstring>
+        <name>monodroidAddReference</name>
+        <reimplements refid="classcrc643f46942d9dd1fff9_1_1_flyout_page_renderer_1ac33bc0aebc1f76358c6e25e4659509dc">monodroidAddReference</reimplements>
+        <param>
+          <type>java.lang.Object</type>
+          <declname>obj</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/110/android/src/crc64720bb2db43a66fe9/MasterDetailPageRenderer.java" line="42" column="13" bodyfile="Application Green Quake.Android/obj/Debug/110/android/src/crc64720bb2db43a66fe9/MasterDetailPageRenderer.java" bodystart="42" bodyend="47"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc64720bb2db43a66fe9_1_1_master_detail_page_renderer_1aac47e1143b29925abb877419ed7d93fc" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void crc64720bb2db43a66fe9.MasterDetailPageRenderer.monodroidClearReferences</definition>
+        <argsstring>()</argsstring>
+        <name>monodroidClearReferences</name>
+        <reimplements refid="classcrc643f46942d9dd1fff9_1_1_flyout_page_renderer_1aa427f83eec490fcf7785c4b6ada53729">monodroidClearReferences</reimplements>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/110/android/src/crc64720bb2db43a66fe9/MasterDetailPageRenderer.java" line="49" column="13" bodyfile="Application Green Quake.Android/obj/Debug/110/android/src/crc64720bb2db43a66fe9/MasterDetailPageRenderer.java" bodystart="49" bodyend="53"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc64720bb2db43a66fe9_1_1_master_detail_page_renderer_1a4fb9d8b0617f540570254201afaac761" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>crc64720bb2db43a66fe9.MasterDetailPageRenderer.MasterDetailPageRenderer</definition>
+        <argsstring>(android.content.Context p0)</argsstring>
+        <name>MasterDetailPageRenderer</name>
+        <param>
+          <type>android.content.Context</type>
+          <declname>p0</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/100/android/src/crc64720bb2db43a66fe9/MasterDetailPageRenderer.java" line="18" column="8" bodyfile="Application Green Quake.Android/obj/Release/100/android/src/crc64720bb2db43a66fe9/MasterDetailPageRenderer.java" bodystart="18" bodyend="23"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc64720bb2db43a66fe9_1_1_master_detail_page_renderer_1a8610d0bad1097cf90947b89779083d65" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>crc64720bb2db43a66fe9.MasterDetailPageRenderer.MasterDetailPageRenderer</definition>
+        <argsstring>(android.content.Context p0, android.util.AttributeSet p1)</argsstring>
+        <name>MasterDetailPageRenderer</name>
+        <param>
+          <type>android.content.Context</type>
+          <declname>p0</declname>
+        </param>
+        <param>
+          <type>android.util.AttributeSet</type>
+          <declname>p1</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/100/android/src/crc64720bb2db43a66fe9/MasterDetailPageRenderer.java" line="26" column="8" bodyfile="Application Green Quake.Android/obj/Release/100/android/src/crc64720bb2db43a66fe9/MasterDetailPageRenderer.java" bodystart="26" bodyend="31"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc64720bb2db43a66fe9_1_1_master_detail_page_renderer_1a3c1b02ccb4b262cf941c75eba17bc216" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>crc64720bb2db43a66fe9.MasterDetailPageRenderer.MasterDetailPageRenderer</definition>
+        <argsstring>(android.content.Context p0, android.util.AttributeSet p1, int p2)</argsstring>
+        <name>MasterDetailPageRenderer</name>
+        <param>
+          <type>android.content.Context</type>
+          <declname>p0</declname>
+        </param>
+        <param>
+          <type>android.util.AttributeSet</type>
+          <declname>p1</declname>
+        </param>
+        <param>
+          <type>int</type>
+          <declname>p2</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/100/android/src/crc64720bb2db43a66fe9/MasterDetailPageRenderer.java" line="34" column="8" bodyfile="Application Green Quake.Android/obj/Release/100/android/src/crc64720bb2db43a66fe9/MasterDetailPageRenderer.java" bodystart="34" bodyend="39"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc64720bb2db43a66fe9_1_1_master_detail_page_renderer_1ad1a99db9120581ab0c60596bac1c060f" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void crc64720bb2db43a66fe9.MasterDetailPageRenderer.monodroidAddReference</definition>
+        <argsstring>(java.lang.Object obj)</argsstring>
+        <name>monodroidAddReference</name>
+        <reimplements refid="classcrc643f46942d9dd1fff9_1_1_flyout_page_renderer_1ac33bc0aebc1f76358c6e25e4659509dc">monodroidAddReference</reimplements>
+        <param>
+          <type>java.lang.Object</type>
+          <declname>obj</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/100/android/src/crc64720bb2db43a66fe9/MasterDetailPageRenderer.java" line="42" column="13" bodyfile="Application Green Quake.Android/obj/Release/100/android/src/crc64720bb2db43a66fe9/MasterDetailPageRenderer.java" bodystart="42" bodyend="47"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc64720bb2db43a66fe9_1_1_master_detail_page_renderer_1aac47e1143b29925abb877419ed7d93fc" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void crc64720bb2db43a66fe9.MasterDetailPageRenderer.monodroidClearReferences</definition>
+        <argsstring>()</argsstring>
+        <name>monodroidClearReferences</name>
+        <reimplements refid="classcrc643f46942d9dd1fff9_1_1_flyout_page_renderer_1aa427f83eec490fcf7785c4b6ada53729">monodroidClearReferences</reimplements>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/100/android/src/crc64720bb2db43a66fe9/MasterDetailPageRenderer.java" line="49" column="13" bodyfile="Application Green Quake.Android/obj/Release/100/android/src/crc64720bb2db43a66fe9/MasterDetailPageRenderer.java" bodystart="49" bodyend="53"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc64720bb2db43a66fe9_1_1_master_detail_page_renderer_1a4fb9d8b0617f540570254201afaac761" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>crc64720bb2db43a66fe9.MasterDetailPageRenderer.MasterDetailPageRenderer</definition>
+        <argsstring>(android.content.Context p0)</argsstring>
+        <name>MasterDetailPageRenderer</name>
+        <param>
+          <type>android.content.Context</type>
+          <declname>p0</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/110/android/src/crc64720bb2db43a66fe9/MasterDetailPageRenderer.java" line="18" column="8" bodyfile="Application Green Quake.Android/obj/Release/110/android/src/crc64720bb2db43a66fe9/MasterDetailPageRenderer.java" bodystart="18" bodyend="23"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc64720bb2db43a66fe9_1_1_master_detail_page_renderer_1a8610d0bad1097cf90947b89779083d65" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>crc64720bb2db43a66fe9.MasterDetailPageRenderer.MasterDetailPageRenderer</definition>
+        <argsstring>(android.content.Context p0, android.util.AttributeSet p1)</argsstring>
+        <name>MasterDetailPageRenderer</name>
+        <param>
+          <type>android.content.Context</type>
+          <declname>p0</declname>
+        </param>
+        <param>
+          <type>android.util.AttributeSet</type>
+          <declname>p1</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/110/android/src/crc64720bb2db43a66fe9/MasterDetailPageRenderer.java" line="26" column="8" bodyfile="Application Green Quake.Android/obj/Release/110/android/src/crc64720bb2db43a66fe9/MasterDetailPageRenderer.java" bodystart="26" bodyend="31"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc64720bb2db43a66fe9_1_1_master_detail_page_renderer_1a3c1b02ccb4b262cf941c75eba17bc216" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>crc64720bb2db43a66fe9.MasterDetailPageRenderer.MasterDetailPageRenderer</definition>
+        <argsstring>(android.content.Context p0, android.util.AttributeSet p1, int p2)</argsstring>
+        <name>MasterDetailPageRenderer</name>
+        <param>
+          <type>android.content.Context</type>
+          <declname>p0</declname>
+        </param>
+        <param>
+          <type>android.util.AttributeSet</type>
+          <declname>p1</declname>
+        </param>
+        <param>
+          <type>int</type>
+          <declname>p2</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/110/android/src/crc64720bb2db43a66fe9/MasterDetailPageRenderer.java" line="34" column="8" bodyfile="Application Green Quake.Android/obj/Release/110/android/src/crc64720bb2db43a66fe9/MasterDetailPageRenderer.java" bodystart="34" bodyend="39"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc64720bb2db43a66fe9_1_1_master_detail_page_renderer_1ad1a99db9120581ab0c60596bac1c060f" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void crc64720bb2db43a66fe9.MasterDetailPageRenderer.monodroidAddReference</definition>
+        <argsstring>(java.lang.Object obj)</argsstring>
+        <name>monodroidAddReference</name>
+        <reimplements refid="classcrc643f46942d9dd1fff9_1_1_flyout_page_renderer_1ac33bc0aebc1f76358c6e25e4659509dc">monodroidAddReference</reimplements>
+        <param>
+          <type>java.lang.Object</type>
+          <declname>obj</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/110/android/src/crc64720bb2db43a66fe9/MasterDetailPageRenderer.java" line="42" column="13" bodyfile="Application Green Quake.Android/obj/Release/110/android/src/crc64720bb2db43a66fe9/MasterDetailPageRenderer.java" bodystart="42" bodyend="47"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc64720bb2db43a66fe9_1_1_master_detail_page_renderer_1aac47e1143b29925abb877419ed7d93fc" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void crc64720bb2db43a66fe9.MasterDetailPageRenderer.monodroidClearReferences</definition>
+        <argsstring>()</argsstring>
+        <name>monodroidClearReferences</name>
+        <reimplements refid="classcrc643f46942d9dd1fff9_1_1_flyout_page_renderer_1aa427f83eec490fcf7785c4b6ada53729">monodroidClearReferences</reimplements>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/110/android/src/crc64720bb2db43a66fe9/MasterDetailPageRenderer.java" line="49" column="13" bodyfile="Application Green Quake.Android/obj/Release/110/android/src/crc64720bb2db43a66fe9/MasterDetailPageRenderer.java" bodystart="49" bodyend="53"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <inheritancegraph>
+      <node id="7">
+        <label>androidx.drawerlayout.widget.DrawerLayout.DrawerListener</label>
+      </node>
+      <node id="1">
+        <label>crc64720bb2db43a66fe9.MasterDetailPageRenderer</label>
+        <link refid="classcrc64720bb2db43a66fe9_1_1_master_detail_page_renderer"/>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+        <childnode refid="4" relation="public-inheritance">
+        </childnode>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+        <childnode refid="4" relation="public-inheritance">
+        </childnode>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+        <childnode refid="4" relation="public-inheritance">
+        </childnode>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+        <childnode refid="4" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="3">
+        <label>androidx::drawerlayout::widget::DrawerLayout</label>
+      </node>
+      <node id="5">
+        <label>androidx::drawerlayout::widget::DrawerLayout::DrawerListener</label>
+      </node>
+      <node id="2">
+        <label>crc643f46942d9dd1fff9.FlyoutPageRenderer</label>
+        <link refid="classcrc643f46942d9dd1fff9_1_1_flyout_page_renderer"/>
+        <childnode refid="3" relation="public-inheritance">
+        </childnode>
+        <childnode refid="4" relation="public-inheritance">
+        </childnode>
+        <childnode refid="5" relation="public-inheritance">
+        </childnode>
+        <childnode refid="6" relation="public-inheritance">
+        </childnode>
+        <childnode refid="4" relation="public-inheritance">
+        </childnode>
+        <childnode refid="7" relation="public-inheritance">
+        </childnode>
+        <childnode refid="6" relation="public-inheritance">
+        </childnode>
+        <childnode refid="4" relation="public-inheritance">
+        </childnode>
+        <childnode refid="7" relation="public-inheritance">
+        </childnode>
+        <childnode refid="6" relation="public-inheritance">
+        </childnode>
+        <childnode refid="4" relation="public-inheritance">
+        </childnode>
+        <childnode refid="7" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="4">
+        <label>mono.android.IGCUserPeer</label>
+      </node>
+      <node id="6">
+        <label>androidx.drawerlayout.widget.DrawerLayout</label>
+      </node>
+    </inheritancegraph>
+    <collaborationgraph>
+      <node id="7">
+        <label>androidx.drawerlayout.widget.DrawerLayout.DrawerListener</label>
+      </node>
+      <node id="1">
+        <label>crc64720bb2db43a66fe9.MasterDetailPageRenderer</label>
+        <link refid="classcrc64720bb2db43a66fe9_1_1_master_detail_page_renderer"/>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+        <childnode refid="4" relation="public-inheritance">
+        </childnode>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+        <childnode refid="4" relation="public-inheritance">
+        </childnode>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+        <childnode refid="4" relation="public-inheritance">
+        </childnode>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+        <childnode refid="4" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="3">
+        <label>androidx::drawerlayout::widget::DrawerLayout</label>
+      </node>
+      <node id="5">
+        <label>androidx::drawerlayout::widget::DrawerLayout::DrawerListener</label>
+      </node>
+      <node id="2">
+        <label>crc643f46942d9dd1fff9.FlyoutPageRenderer</label>
+        <link refid="classcrc643f46942d9dd1fff9_1_1_flyout_page_renderer"/>
+        <childnode refid="3" relation="public-inheritance">
+        </childnode>
+        <childnode refid="4" relation="public-inheritance">
+        </childnode>
+        <childnode refid="5" relation="public-inheritance">
+        </childnode>
+        <childnode refid="6" relation="public-inheritance">
+        </childnode>
+        <childnode refid="4" relation="public-inheritance">
+        </childnode>
+        <childnode refid="7" relation="public-inheritance">
+        </childnode>
+        <childnode refid="6" relation="public-inheritance">
+        </childnode>
+        <childnode refid="4" relation="public-inheritance">
+        </childnode>
+        <childnode refid="7" relation="public-inheritance">
+        </childnode>
+        <childnode refid="6" relation="public-inheritance">
+        </childnode>
+        <childnode refid="4" relation="public-inheritance">
+        </childnode>
+        <childnode refid="7" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="4">
+        <label>mono.android.IGCUserPeer</label>
+      </node>
+      <node id="6">
+        <label>androidx.drawerlayout.widget.DrawerLayout</label>
+      </node>
+    </collaborationgraph>
+    <location file="Application Green Quake.Android/obj/Debug/100/android/src/crc64720bb2db43a66fe9/MasterDetailPageRenderer.java" line="4" column="7" bodyfile="Application Green Quake.Android/obj/Debug/100/android/src/crc64720bb2db43a66fe9/MasterDetailPageRenderer.java" bodystart="8" bodyend="54"/>
+    <listofallmembers>
+      <member refid="classcrc64720bb2db43a66fe9_1_1_master_detail_page_renderer_1a9ae1c05165930b106cdbef3b8c1e07e5" prot="package" virt="non-virtual"><scope>crc64720bb2db43a66fe9::MasterDetailPageRenderer</scope><name>[static initializer]</name></member>
+      <member refid="classcrc64720bb2db43a66fe9_1_1_master_detail_page_renderer_1a9ae1c05165930b106cdbef3b8c1e07e5" prot="package" virt="non-virtual"><scope>crc64720bb2db43a66fe9::MasterDetailPageRenderer</scope><name>[static initializer]</name></member>
+      <member refid="classcrc64720bb2db43a66fe9_1_1_master_detail_page_renderer_1a9ae1c05165930b106cdbef3b8c1e07e5" prot="package" virt="non-virtual"><scope>crc64720bb2db43a66fe9::MasterDetailPageRenderer</scope><name>[static initializer]</name></member>
+      <member refid="classcrc64720bb2db43a66fe9_1_1_master_detail_page_renderer_1a9ae1c05165930b106cdbef3b8c1e07e5" prot="package" virt="non-virtual"><scope>crc64720bb2db43a66fe9::MasterDetailPageRenderer</scope><name>[static initializer]</name></member>
+      <member refid="classcrc64720bb2db43a66fe9_1_1_master_detail_page_renderer_1a18b7f57d4f908903b0c763fcf2f94960" prot="public" virt="non-virtual"><scope>crc64720bb2db43a66fe9::MasterDetailPageRenderer</scope><name>__md_methods</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_flyout_page_renderer_1ab80c0318b41044c8fbcba04a5dce1d10" prot="public" virt="non-virtual"><scope>crc64720bb2db43a66fe9::MasterDetailPageRenderer</scope><name>FlyoutPageRenderer</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_flyout_page_renderer_1aefb40d76186230439090ac22ba3c9904" prot="public" virt="non-virtual"><scope>crc64720bb2db43a66fe9::MasterDetailPageRenderer</scope><name>FlyoutPageRenderer</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_flyout_page_renderer_1a5d60ba9de088655cb641d90b253b53d8" prot="public" virt="non-virtual"><scope>crc64720bb2db43a66fe9::MasterDetailPageRenderer</scope><name>FlyoutPageRenderer</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_flyout_page_renderer_1ab80c0318b41044c8fbcba04a5dce1d10" prot="public" virt="non-virtual"><scope>crc64720bb2db43a66fe9::MasterDetailPageRenderer</scope><name>FlyoutPageRenderer</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_flyout_page_renderer_1aefb40d76186230439090ac22ba3c9904" prot="public" virt="non-virtual"><scope>crc64720bb2db43a66fe9::MasterDetailPageRenderer</scope><name>FlyoutPageRenderer</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_flyout_page_renderer_1a5d60ba9de088655cb641d90b253b53d8" prot="public" virt="non-virtual"><scope>crc64720bb2db43a66fe9::MasterDetailPageRenderer</scope><name>FlyoutPageRenderer</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_flyout_page_renderer_1ab80c0318b41044c8fbcba04a5dce1d10" prot="public" virt="non-virtual"><scope>crc64720bb2db43a66fe9::MasterDetailPageRenderer</scope><name>FlyoutPageRenderer</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_flyout_page_renderer_1aefb40d76186230439090ac22ba3c9904" prot="public" virt="non-virtual"><scope>crc64720bb2db43a66fe9::MasterDetailPageRenderer</scope><name>FlyoutPageRenderer</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_flyout_page_renderer_1a5d60ba9de088655cb641d90b253b53d8" prot="public" virt="non-virtual"><scope>crc64720bb2db43a66fe9::MasterDetailPageRenderer</scope><name>FlyoutPageRenderer</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_flyout_page_renderer_1ab80c0318b41044c8fbcba04a5dce1d10" prot="public" virt="non-virtual"><scope>crc64720bb2db43a66fe9::MasterDetailPageRenderer</scope><name>FlyoutPageRenderer</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_flyout_page_renderer_1aefb40d76186230439090ac22ba3c9904" prot="public" virt="non-virtual"><scope>crc64720bb2db43a66fe9::MasterDetailPageRenderer</scope><name>FlyoutPageRenderer</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_flyout_page_renderer_1a5d60ba9de088655cb641d90b253b53d8" prot="public" virt="non-virtual"><scope>crc64720bb2db43a66fe9::MasterDetailPageRenderer</scope><name>FlyoutPageRenderer</name></member>
+      <member refid="classcrc64720bb2db43a66fe9_1_1_master_detail_page_renderer_1a4fb9d8b0617f540570254201afaac761" prot="public" virt="non-virtual"><scope>crc64720bb2db43a66fe9::MasterDetailPageRenderer</scope><name>MasterDetailPageRenderer</name></member>
+      <member refid="classcrc64720bb2db43a66fe9_1_1_master_detail_page_renderer_1a8610d0bad1097cf90947b89779083d65" prot="public" virt="non-virtual"><scope>crc64720bb2db43a66fe9::MasterDetailPageRenderer</scope><name>MasterDetailPageRenderer</name></member>
+      <member refid="classcrc64720bb2db43a66fe9_1_1_master_detail_page_renderer_1a3c1b02ccb4b262cf941c75eba17bc216" prot="public" virt="non-virtual"><scope>crc64720bb2db43a66fe9::MasterDetailPageRenderer</scope><name>MasterDetailPageRenderer</name></member>
+      <member refid="classcrc64720bb2db43a66fe9_1_1_master_detail_page_renderer_1a4fb9d8b0617f540570254201afaac761" prot="public" virt="non-virtual"><scope>crc64720bb2db43a66fe9::MasterDetailPageRenderer</scope><name>MasterDetailPageRenderer</name></member>
+      <member refid="classcrc64720bb2db43a66fe9_1_1_master_detail_page_renderer_1a8610d0bad1097cf90947b89779083d65" prot="public" virt="non-virtual"><scope>crc64720bb2db43a66fe9::MasterDetailPageRenderer</scope><name>MasterDetailPageRenderer</name></member>
+      <member refid="classcrc64720bb2db43a66fe9_1_1_master_detail_page_renderer_1a3c1b02ccb4b262cf941c75eba17bc216" prot="public" virt="non-virtual"><scope>crc64720bb2db43a66fe9::MasterDetailPageRenderer</scope><name>MasterDetailPageRenderer</name></member>
+      <member refid="classcrc64720bb2db43a66fe9_1_1_master_detail_page_renderer_1a4fb9d8b0617f540570254201afaac761" prot="public" virt="non-virtual"><scope>crc64720bb2db43a66fe9::MasterDetailPageRenderer</scope><name>MasterDetailPageRenderer</name></member>
+      <member refid="classcrc64720bb2db43a66fe9_1_1_master_detail_page_renderer_1a8610d0bad1097cf90947b89779083d65" prot="public" virt="non-virtual"><scope>crc64720bb2db43a66fe9::MasterDetailPageRenderer</scope><name>MasterDetailPageRenderer</name></member>
+      <member refid="classcrc64720bb2db43a66fe9_1_1_master_detail_page_renderer_1a3c1b02ccb4b262cf941c75eba17bc216" prot="public" virt="non-virtual"><scope>crc64720bb2db43a66fe9::MasterDetailPageRenderer</scope><name>MasterDetailPageRenderer</name></member>
+      <member refid="classcrc64720bb2db43a66fe9_1_1_master_detail_page_renderer_1a4fb9d8b0617f540570254201afaac761" prot="public" virt="non-virtual"><scope>crc64720bb2db43a66fe9::MasterDetailPageRenderer</scope><name>MasterDetailPageRenderer</name></member>
+      <member refid="classcrc64720bb2db43a66fe9_1_1_master_detail_page_renderer_1a8610d0bad1097cf90947b89779083d65" prot="public" virt="non-virtual"><scope>crc64720bb2db43a66fe9::MasterDetailPageRenderer</scope><name>MasterDetailPageRenderer</name></member>
+      <member refid="classcrc64720bb2db43a66fe9_1_1_master_detail_page_renderer_1a3c1b02ccb4b262cf941c75eba17bc216" prot="public" virt="non-virtual"><scope>crc64720bb2db43a66fe9::MasterDetailPageRenderer</scope><name>MasterDetailPageRenderer</name></member>
+      <member refid="classcrc64720bb2db43a66fe9_1_1_master_detail_page_renderer_1ad1a99db9120581ab0c60596bac1c060f" prot="public" virt="non-virtual"><scope>crc64720bb2db43a66fe9::MasterDetailPageRenderer</scope><name>monodroidAddReference</name></member>
+      <member refid="classcrc64720bb2db43a66fe9_1_1_master_detail_page_renderer_1ad1a99db9120581ab0c60596bac1c060f" prot="public" virt="non-virtual"><scope>crc64720bb2db43a66fe9::MasterDetailPageRenderer</scope><name>monodroidAddReference</name></member>
+      <member refid="classcrc64720bb2db43a66fe9_1_1_master_detail_page_renderer_1ad1a99db9120581ab0c60596bac1c060f" prot="public" virt="non-virtual"><scope>crc64720bb2db43a66fe9::MasterDetailPageRenderer</scope><name>monodroidAddReference</name></member>
+      <member refid="classcrc64720bb2db43a66fe9_1_1_master_detail_page_renderer_1ad1a99db9120581ab0c60596bac1c060f" prot="public" virt="non-virtual"><scope>crc64720bb2db43a66fe9::MasterDetailPageRenderer</scope><name>monodroidAddReference</name></member>
+      <member refid="classcrc64720bb2db43a66fe9_1_1_master_detail_page_renderer_1aac47e1143b29925abb877419ed7d93fc" prot="public" virt="non-virtual"><scope>crc64720bb2db43a66fe9::MasterDetailPageRenderer</scope><name>monodroidClearReferences</name></member>
+      <member refid="classcrc64720bb2db43a66fe9_1_1_master_detail_page_renderer_1aac47e1143b29925abb877419ed7d93fc" prot="public" virt="non-virtual"><scope>crc64720bb2db43a66fe9::MasterDetailPageRenderer</scope><name>monodroidClearReferences</name></member>
+      <member refid="classcrc64720bb2db43a66fe9_1_1_master_detail_page_renderer_1aac47e1143b29925abb877419ed7d93fc" prot="public" virt="non-virtual"><scope>crc64720bb2db43a66fe9::MasterDetailPageRenderer</scope><name>monodroidClearReferences</name></member>
+      <member refid="classcrc64720bb2db43a66fe9_1_1_master_detail_page_renderer_1aac47e1143b29925abb877419ed7d93fc" prot="public" virt="non-virtual"><scope>crc64720bb2db43a66fe9::MasterDetailPageRenderer</scope><name>monodroidClearReferences</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_flyout_page_renderer_1a9b010299e78c072c92b42b24754c7b11" prot="public" virt="non-virtual"><scope>crc64720bb2db43a66fe9::MasterDetailPageRenderer</scope><name>onAttachedToWindow</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_flyout_page_renderer_1a9b010299e78c072c92b42b24754c7b11" prot="public" virt="non-virtual"><scope>crc64720bb2db43a66fe9::MasterDetailPageRenderer</scope><name>onAttachedToWindow</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_flyout_page_renderer_1a9b010299e78c072c92b42b24754c7b11" prot="public" virt="non-virtual"><scope>crc64720bb2db43a66fe9::MasterDetailPageRenderer</scope><name>onAttachedToWindow</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_flyout_page_renderer_1a9b010299e78c072c92b42b24754c7b11" prot="public" virt="non-virtual"><scope>crc64720bb2db43a66fe9::MasterDetailPageRenderer</scope><name>onAttachedToWindow</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_flyout_page_renderer_1a4a7e6b827ec162aaab3494bd1d56308c" prot="public" virt="non-virtual"><scope>crc64720bb2db43a66fe9::MasterDetailPageRenderer</scope><name>onDetachedFromWindow</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_flyout_page_renderer_1a4a7e6b827ec162aaab3494bd1d56308c" prot="public" virt="non-virtual"><scope>crc64720bb2db43a66fe9::MasterDetailPageRenderer</scope><name>onDetachedFromWindow</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_flyout_page_renderer_1a4a7e6b827ec162aaab3494bd1d56308c" prot="public" virt="non-virtual"><scope>crc64720bb2db43a66fe9::MasterDetailPageRenderer</scope><name>onDetachedFromWindow</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_flyout_page_renderer_1a4a7e6b827ec162aaab3494bd1d56308c" prot="public" virt="non-virtual"><scope>crc64720bb2db43a66fe9::MasterDetailPageRenderer</scope><name>onDetachedFromWindow</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_flyout_page_renderer_1a1228fdd1ebb51fee0aa518e2164a161e" prot="public" virt="non-virtual"><scope>crc64720bb2db43a66fe9::MasterDetailPageRenderer</scope><name>onDrawerClosed</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_flyout_page_renderer_1a1228fdd1ebb51fee0aa518e2164a161e" prot="public" virt="non-virtual"><scope>crc64720bb2db43a66fe9::MasterDetailPageRenderer</scope><name>onDrawerClosed</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_flyout_page_renderer_1a1228fdd1ebb51fee0aa518e2164a161e" prot="public" virt="non-virtual"><scope>crc64720bb2db43a66fe9::MasterDetailPageRenderer</scope><name>onDrawerClosed</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_flyout_page_renderer_1a1228fdd1ebb51fee0aa518e2164a161e" prot="public" virt="non-virtual"><scope>crc64720bb2db43a66fe9::MasterDetailPageRenderer</scope><name>onDrawerClosed</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_flyout_page_renderer_1a00cbeec803f7c2ed10c1494bea099872" prot="public" virt="non-virtual"><scope>crc64720bb2db43a66fe9::MasterDetailPageRenderer</scope><name>onDrawerOpened</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_flyout_page_renderer_1a00cbeec803f7c2ed10c1494bea099872" prot="public" virt="non-virtual"><scope>crc64720bb2db43a66fe9::MasterDetailPageRenderer</scope><name>onDrawerOpened</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_flyout_page_renderer_1a00cbeec803f7c2ed10c1494bea099872" prot="public" virt="non-virtual"><scope>crc64720bb2db43a66fe9::MasterDetailPageRenderer</scope><name>onDrawerOpened</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_flyout_page_renderer_1a00cbeec803f7c2ed10c1494bea099872" prot="public" virt="non-virtual"><scope>crc64720bb2db43a66fe9::MasterDetailPageRenderer</scope><name>onDrawerOpened</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_flyout_page_renderer_1a47e53515b3b14d62141d8440a1e7091c" prot="public" virt="non-virtual"><scope>crc64720bb2db43a66fe9::MasterDetailPageRenderer</scope><name>onDrawerSlide</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_flyout_page_renderer_1a47e53515b3b14d62141d8440a1e7091c" prot="public" virt="non-virtual"><scope>crc64720bb2db43a66fe9::MasterDetailPageRenderer</scope><name>onDrawerSlide</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_flyout_page_renderer_1a47e53515b3b14d62141d8440a1e7091c" prot="public" virt="non-virtual"><scope>crc64720bb2db43a66fe9::MasterDetailPageRenderer</scope><name>onDrawerSlide</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_flyout_page_renderer_1a47e53515b3b14d62141d8440a1e7091c" prot="public" virt="non-virtual"><scope>crc64720bb2db43a66fe9::MasterDetailPageRenderer</scope><name>onDrawerSlide</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_flyout_page_renderer_1a7b288393da0fdd7727a7f3c384b0e5e5" prot="public" virt="non-virtual"><scope>crc64720bb2db43a66fe9::MasterDetailPageRenderer</scope><name>onDrawerStateChanged</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_flyout_page_renderer_1a7b288393da0fdd7727a7f3c384b0e5e5" prot="public" virt="non-virtual"><scope>crc64720bb2db43a66fe9::MasterDetailPageRenderer</scope><name>onDrawerStateChanged</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_flyout_page_renderer_1a7b288393da0fdd7727a7f3c384b0e5e5" prot="public" virt="non-virtual"><scope>crc64720bb2db43a66fe9::MasterDetailPageRenderer</scope><name>onDrawerStateChanged</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_flyout_page_renderer_1a7b288393da0fdd7727a7f3c384b0e5e5" prot="public" virt="non-virtual"><scope>crc64720bb2db43a66fe9::MasterDetailPageRenderer</scope><name>onDrawerStateChanged</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_flyout_page_renderer_1a1891a4881f3769477839aaa7c13b7558" prot="public" virt="non-virtual"><scope>crc64720bb2db43a66fe9::MasterDetailPageRenderer</scope><name>onLayout</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_flyout_page_renderer_1a1891a4881f3769477839aaa7c13b7558" prot="public" virt="non-virtual"><scope>crc64720bb2db43a66fe9::MasterDetailPageRenderer</scope><name>onLayout</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_flyout_page_renderer_1a1891a4881f3769477839aaa7c13b7558" prot="public" virt="non-virtual"><scope>crc64720bb2db43a66fe9::MasterDetailPageRenderer</scope><name>onLayout</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_flyout_page_renderer_1a1891a4881f3769477839aaa7c13b7558" prot="public" virt="non-virtual"><scope>crc64720bb2db43a66fe9::MasterDetailPageRenderer</scope><name>onLayout</name></member>
+      <member refid="classcrc64720bb2db43a66fe9_1_1_master_detail_page_renderer_1a782051a23381a9697c44092c3fadc8dd" prot="private" virt="non-virtual"><scope>crc64720bb2db43a66fe9::MasterDetailPageRenderer</scope><name>refList</name></member>
+    </listofallmembers>
+  </compounddef>
+</doxygen>

@@ -1,0 +1,111 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<section xmlns="http://docbook.org/ns/docbook" version="5.0" xmlns:xlink="http://www.w3.org/1999/xlink" xml:id="_class_application___green___quake_1_1_view_models_1_1_food_and_drink_points_update" xml:lang="en-US">
+<title>Application_Green_Quake.ViewModels.FoodAndDrinkPointsUpdate Class Reference</title>
+<indexterm><primary>Application_Green_Quake.ViewModels.FoodAndDrinkPointsUpdate</primary></indexterm>
+<simplesect>
+    <title>Public Member Functions    </title>
+        <itemizedlist>
+            <listitem><para>async void <link linkend="_class_application___green___quake_1_1_view_models_1_1_food_and_drink_points_update_1a601568f190c3950b91ca5369b2b137d3">OrganicPoints</link> ()</para>
+</listitem>
+            <listitem><para>async void <link linkend="_class_application___green___quake_1_1_view_models_1_1_food_and_drink_points_update_1a28edbfa864a2f6248335d0c2e6342863">EatAllPoints</link> ()</para>
+</listitem>
+            <listitem><para>async void <link linkend="_class_application___green___quake_1_1_view_models_1_1_food_and_drink_points_update_1acffd96d035ea94b7062fa4819a14273e">FoodDelivredPoints</link> ()</para>
+</listitem>
+            <listitem><para>async void <link linkend="_class_application___green___quake_1_1_view_models_1_1_food_and_drink_points_update_1a390f07e9b13aa245a6b33f2e66360fdc">NoMeatPoints</link> ()</para>
+</listitem>
+            <listitem><para>async void <link linkend="_class_application___green___quake_1_1_view_models_1_1_food_and_drink_points_update_1a7ac606e94695fa104c6e2f32181955f0">OwnCoffeePoints</link> ()</para>
+</listitem>
+            <listitem><para>async void <link linkend="_class_application___green___quake_1_1_view_models_1_1_food_and_drink_points_update_1a72254628b0cfda946cb5c30c792c0e6d">ReCoffeeMugPoints</link> ()</para>
+</listitem>
+            <listitem><para>async void <link linkend="_class_application___green___quake_1_1_view_models_1_1_food_and_drink_points_update_1a56950108d71c9066c1dbe8a5ff08aab5">SaveLeftOversPoints</link> ()</para>
+</listitem>
+            <listitem><para>async void <link linkend="_class_application___green___quake_1_1_view_models_1_1_food_and_drink_points_update_1a1879167f48c85ebad527429198757560">SteelStrawPoints</link> ()</para>
+</listitem>
+            <listitem><para>async void <link linkend="_class_application___green___quake_1_1_view_models_1_1_food_and_drink_points_update_1ad791ca9d69fea322089ada2ebb630d17">WaterOverFizzyPoints</link> ()</para>
+</listitem>
+        </itemizedlist>
+</simplesect>
+<section>
+<title>Detailed Description</title>
+<para>
+Definition at line 18 of file FoodAndDrinkPointsUpdate.cs.</para>
+</section>
+<section>
+<title>Member Function Documentation</title>
+<anchor xml:id="_class_application___green___quake_1_1_view_models_1_1_food_and_drink_points_update_1a28edbfa864a2f6248335d0c2e6342863"/>    <section>
+    <title>EatAllPoints()</title>
+<indexterm><primary>EatAllPoints</primary><secondary>Application_Green_Quake.ViewModels.FoodAndDrinkPointsUpdate</secondary></indexterm>
+<indexterm><primary>Application_Green_Quake.ViewModels.FoodAndDrinkPointsUpdate</primary><secondary>EatAllPoints</secondary></indexterm>
+<para><computeroutput>async void Application_Green_Quake.ViewModels.FoodAndDrinkPointsUpdate.EatAllPoints ( )</computeroutput></para>
+<para>This function updates the points in the FoodAndDrink category by four points. It also increments the number of logs logged in the FoodAndDrink category by one and increments the number of times this particular action was logged by one and sends this data to Firebase. </para>
+<para>
+Definition at line 162 of file FoodAndDrinkPointsUpdate.cs.</para>
+    </section><anchor xml:id="_class_application___green___quake_1_1_view_models_1_1_food_and_drink_points_update_1acffd96d035ea94b7062fa4819a14273e"/>    <section>
+    <title>FoodDelivredPoints()</title>
+<indexterm><primary>FoodDelivredPoints</primary><secondary>Application_Green_Quake.ViewModels.FoodAndDrinkPointsUpdate</secondary></indexterm>
+<indexterm><primary>Application_Green_Quake.ViewModels.FoodAndDrinkPointsUpdate</primary><secondary>FoodDelivredPoints</secondary></indexterm>
+<para><computeroutput>async void Application_Green_Quake.ViewModels.FoodAndDrinkPointsUpdate.FoodDelivredPoints ( )</computeroutput></para>
+<para>This function updates the points in the FoodAndDrink category by six points. It also increments the number of logs logged in the FoodAndDrink category by one and increments the number of times this particular action was logged by one and sends this data to Firebase. </para>
+<para>
+Definition at line 286 of file FoodAndDrinkPointsUpdate.cs.</para>
+    </section><anchor xml:id="_class_application___green___quake_1_1_view_models_1_1_food_and_drink_points_update_1a390f07e9b13aa245a6b33f2e66360fdc"/>    <section>
+    <title>NoMeatPoints()</title>
+<indexterm><primary>NoMeatPoints</primary><secondary>Application_Green_Quake.ViewModels.FoodAndDrinkPointsUpdate</secondary></indexterm>
+<indexterm><primary>Application_Green_Quake.ViewModels.FoodAndDrinkPointsUpdate</primary><secondary>NoMeatPoints</secondary></indexterm>
+<para><computeroutput>async void Application_Green_Quake.ViewModels.FoodAndDrinkPointsUpdate.NoMeatPoints ( )</computeroutput></para>
+<para>This function updates the points in the FoodAndDrink category by ten points. It also increments the number of logs logged in the FoodAndDrink category by one and increments the number of times this particular action was logged by one and sends this data to Firebase. </para>
+<para>
+Definition at line 410 of file FoodAndDrinkPointsUpdate.cs.</para>
+    </section><anchor xml:id="_class_application___green___quake_1_1_view_models_1_1_food_and_drink_points_update_1a601568f190c3950b91ca5369b2b137d3"/>    <section>
+    <title>OrganicPoints()</title>
+<indexterm><primary>OrganicPoints</primary><secondary>Application_Green_Quake.ViewModels.FoodAndDrinkPointsUpdate</secondary></indexterm>
+<indexterm><primary>Application_Green_Quake.ViewModels.FoodAndDrinkPointsUpdate</primary><secondary>OrganicPoints</secondary></indexterm>
+<para><computeroutput>async void Application_Green_Quake.ViewModels.FoodAndDrinkPointsUpdate.OrganicPoints ( )</computeroutput></para>
+<para>This function updates the points in the FoodAndDrink category by eight points. It also increments the number of logs logged in the FoodAndDrink category by one and increments the number of times this particular action was logged by one and sends this data to Firebase. </para>
+<para>
+Definition at line 38 of file FoodAndDrinkPointsUpdate.cs.</para>
+    </section><anchor xml:id="_class_application___green___quake_1_1_view_models_1_1_food_and_drink_points_update_1a7ac606e94695fa104c6e2f32181955f0"/>    <section>
+    <title>OwnCoffeePoints()</title>
+<indexterm><primary>OwnCoffeePoints</primary><secondary>Application_Green_Quake.ViewModels.FoodAndDrinkPointsUpdate</secondary></indexterm>
+<indexterm><primary>Application_Green_Quake.ViewModels.FoodAndDrinkPointsUpdate</primary><secondary>OwnCoffeePoints</secondary></indexterm>
+<para><computeroutput>async void Application_Green_Quake.ViewModels.FoodAndDrinkPointsUpdate.OwnCoffeePoints ( )</computeroutput></para>
+<para>This function updates the points in the FoodAndDrink category by two points. It also increments the number of logs logged in the FoodAndDrink category by one and increments the number of times this particular action was logged by one and sends this data to Firebase. </para>
+<para>
+Definition at line 534 of file FoodAndDrinkPointsUpdate.cs.</para>
+    </section><anchor xml:id="_class_application___green___quake_1_1_view_models_1_1_food_and_drink_points_update_1a72254628b0cfda946cb5c30c792c0e6d"/>    <section>
+    <title>ReCoffeeMugPoints()</title>
+<indexterm><primary>ReCoffeeMugPoints</primary><secondary>Application_Green_Quake.ViewModels.FoodAndDrinkPointsUpdate</secondary></indexterm>
+<indexterm><primary>Application_Green_Quake.ViewModels.FoodAndDrinkPointsUpdate</primary><secondary>ReCoffeeMugPoints</secondary></indexterm>
+<para><computeroutput>async void Application_Green_Quake.ViewModels.FoodAndDrinkPointsUpdate.ReCoffeeMugPoints ( )</computeroutput></para>
+<para>This function updates the points in the FoodAndDrink category by four points. It also increments the number of logs logged in the FoodAndDrink category by one and increments the number of times this particular action was logged by one and sends this data to Firebase. </para>
+<para>
+Definition at line 658 of file FoodAndDrinkPointsUpdate.cs.</para>
+    </section><anchor xml:id="_class_application___green___quake_1_1_view_models_1_1_food_and_drink_points_update_1a56950108d71c9066c1dbe8a5ff08aab5"/>    <section>
+    <title>SaveLeftOversPoints()</title>
+<indexterm><primary>SaveLeftOversPoints</primary><secondary>Application_Green_Quake.ViewModels.FoodAndDrinkPointsUpdate</secondary></indexterm>
+<indexterm><primary>Application_Green_Quake.ViewModels.FoodAndDrinkPointsUpdate</primary><secondary>SaveLeftOversPoints</secondary></indexterm>
+<para><computeroutput>async void Application_Green_Quake.ViewModels.FoodAndDrinkPointsUpdate.SaveLeftOversPoints ( )</computeroutput></para>
+<para>This function updates the points in the FoodAndDrink category by six points. It also increments the number of logs logged in the FoodAndDrink category by one and increments the number of times this particular action was logged by one and sends this data to Firebase. </para>
+<para>
+Definition at line 782 of file FoodAndDrinkPointsUpdate.cs.</para>
+    </section><anchor xml:id="_class_application___green___quake_1_1_view_models_1_1_food_and_drink_points_update_1a1879167f48c85ebad527429198757560"/>    <section>
+    <title>SteelStrawPoints()</title>
+<indexterm><primary>SteelStrawPoints</primary><secondary>Application_Green_Quake.ViewModels.FoodAndDrinkPointsUpdate</secondary></indexterm>
+<indexterm><primary>Application_Green_Quake.ViewModels.FoodAndDrinkPointsUpdate</primary><secondary>SteelStrawPoints</secondary></indexterm>
+<para><computeroutput>async void Application_Green_Quake.ViewModels.FoodAndDrinkPointsUpdate.SteelStrawPoints ( )</computeroutput></para>
+<para>This function updates the points in the FoodAndDrink category by four points. It also increments the number of logs logged in the FoodAndDrink category by one and increments the number of times this particular action was logged by one and sends this data to Firebase. </para>
+<para>
+Definition at line 906 of file FoodAndDrinkPointsUpdate.cs.</para>
+    </section><anchor xml:id="_class_application___green___quake_1_1_view_models_1_1_food_and_drink_points_update_1ad791ca9d69fea322089ada2ebb630d17"/>    <section>
+    <title>WaterOverFizzyPoints()</title>
+<indexterm><primary>WaterOverFizzyPoints</primary><secondary>Application_Green_Quake.ViewModels.FoodAndDrinkPointsUpdate</secondary></indexterm>
+<indexterm><primary>Application_Green_Quake.ViewModels.FoodAndDrinkPointsUpdate</primary><secondary>WaterOverFizzyPoints</secondary></indexterm>
+<para><computeroutput>async void Application_Green_Quake.ViewModels.FoodAndDrinkPointsUpdate.WaterOverFizzyPoints ( )</computeroutput></para>
+<para>This function updates the points in the FoodAndDrink category by six points. It also increments the number of logs logged in the FoodAndDrink category by one and increments the number of times this particular action was logged by one and sends this data to Firebase. </para>
+<para>
+Definition at line 1030 of file FoodAndDrinkPointsUpdate.cs.</para>
+</section>
+<para>
+The documentation for this class was generated from the following file:</para>
+Application Green Quake/ViewModels/<link linkend="__food_and_drink_points_update_8cs">FoodAndDrinkPointsUpdate.cs</link></section>
+</section>

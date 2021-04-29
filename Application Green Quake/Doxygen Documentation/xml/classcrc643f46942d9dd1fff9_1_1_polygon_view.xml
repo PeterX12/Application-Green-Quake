@@ -1,0 +1,754 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.9.1" xml:lang="en-US">
+  <compounddef id="classcrc643f46942d9dd1fff9_1_1_polygon_view" kind="class" language="Java" prot="public">
+    <compoundname>crc643f46942d9dd1fff9::PolygonView</compoundname>
+    <basecompoundref refid="classcrc643f46942d9dd1fff9_1_1_shape_view" prot="public" virt="non-virtual">crc643f46942d9dd1fff9.ShapeView</basecompoundref>
+    <basecompoundref prot="public" virt="non-virtual">mono.android.IGCUserPeer</basecompoundref>
+    <basecompoundref refid="classcrc643f46942d9dd1fff9_1_1_shape_view" prot="public" virt="non-virtual">crc643f46942d9dd1fff9.ShapeView</basecompoundref>
+    <basecompoundref prot="public" virt="non-virtual">mono.android.IGCUserPeer</basecompoundref>
+    <basecompoundref refid="classcrc643f46942d9dd1fff9_1_1_shape_view" prot="public" virt="non-virtual">crc643f46942d9dd1fff9.ShapeView</basecompoundref>
+    <basecompoundref prot="public" virt="non-virtual">mono.android.IGCUserPeer</basecompoundref>
+    <basecompoundref refid="classcrc643f46942d9dd1fff9_1_1_shape_view" prot="public" virt="non-virtual">crc643f46942d9dd1fff9.ShapeView</basecompoundref>
+    <basecompoundref prot="public" virt="non-virtual">mono.android.IGCUserPeer</basecompoundref>
+      <sectiondef kind="public-static-attrib">
+      <memberdef kind="variable" id="classcrc643f46942d9dd1fff9_1_1_polygon_view_1a2a5808786536b46a717a334037d484dc" prot="public" static="yes" mutable="no">
+        <type>final String</type>
+        <definition>static final String crc643f46942d9dd1fff9.PolygonView::__md_methods</definition>
+        <argsstring></argsstring>
+        <name>__md_methods</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+<para>@hide </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/100/android/src/crc643f46942d9dd1fff9/PolygonView.java" line="10" column="28" bodyfile="Application Green Quake.Android/obj/Debug/100/android/src/crc643f46942d9dd1fff9/PolygonView.java" bodystart="10" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="private-attrib">
+      <memberdef kind="variable" id="classcrc643f46942d9dd1fff9_1_1_polygon_view_1a548f8780c9fc09d0228560aa7d92b490" prot="private" static="no" mutable="no">
+        <type>java.util.ArrayList</type>
+        <definition>java util ArrayList crc643f46942d9dd1fff9.PolygonView::refList</definition>
+        <argsstring></argsstring>
+        <name>refList</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/100/android/src/crc643f46942d9dd1fff9/PolygonView.java" line="49" column="27" bodyfile="Application Green Quake.Android/obj/Debug/100/android/src/crc643f46942d9dd1fff9/PolygonView.java" bodystart="49" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="package-static-func">
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_polygon_view_1a110511c56726bc34ee292143799d7473" prot="package" static="yes" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>crc643f46942d9dd1fff9.PolygonView.[static initializer]</definition>
+        <argsstring></argsstring>
+        <name>[static initializer]</name>
+        <reimplements refid="classcrc643f46942d9dd1fff9_1_1_shape_view_1ae4ca1997e0ccb454f5d4e012a5298c79">[static initializer]</reimplements>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/100/android/src/crc643f46942d9dd1fff9/PolygonView.java" line="10" column="28"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_polygon_view_1a110511c56726bc34ee292143799d7473" prot="package" static="yes" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>crc643f46942d9dd1fff9.PolygonView.[static initializer]</definition>
+        <argsstring></argsstring>
+        <name>[static initializer]</name>
+        <reimplements refid="classcrc643f46942d9dd1fff9_1_1_shape_view_1ae4ca1997e0ccb454f5d4e012a5298c79">[static initializer]</reimplements>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/110/android/src/crc643f46942d9dd1fff9/PolygonView.java" line="10" column="28"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_polygon_view_1a110511c56726bc34ee292143799d7473" prot="package" static="yes" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>crc643f46942d9dd1fff9.PolygonView.[static initializer]</definition>
+        <argsstring></argsstring>
+        <name>[static initializer]</name>
+        <reimplements refid="classcrc643f46942d9dd1fff9_1_1_shape_view_1ae4ca1997e0ccb454f5d4e012a5298c79">[static initializer]</reimplements>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/100/android/src/crc643f46942d9dd1fff9/PolygonView.java" line="10" column="28"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_polygon_view_1a110511c56726bc34ee292143799d7473" prot="package" static="yes" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>crc643f46942d9dd1fff9.PolygonView.[static initializer]</definition>
+        <argsstring></argsstring>
+        <name>[static initializer]</name>
+        <reimplements refid="classcrc643f46942d9dd1fff9_1_1_shape_view_1ae4ca1997e0ccb454f5d4e012a5298c79">[static initializer]</reimplements>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/110/android/src/crc643f46942d9dd1fff9/PolygonView.java" line="10" column="28"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="public-func">
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_polygon_view_1ae6322bee6b9c4de11fda365ffba8b6f4" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>crc643f46942d9dd1fff9.PolygonView.PolygonView</definition>
+        <argsstring>(android.content.Context p0)</argsstring>
+        <name>PolygonView</name>
+        <param>
+          <type>android.content.Context</type>
+          <declname>p0</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/100/android/src/crc643f46942d9dd1fff9/PolygonView.java" line="18" column="8" bodyfile="Application Green Quake.Android/obj/Debug/100/android/src/crc643f46942d9dd1fff9/PolygonView.java" bodystart="18" bodyend="23"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_polygon_view_1a8b73cb93544836196aa02759924ddea0" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>crc643f46942d9dd1fff9.PolygonView.PolygonView</definition>
+        <argsstring>(android.content.Context p0, android.util.AttributeSet p1)</argsstring>
+        <name>PolygonView</name>
+        <param>
+          <type>android.content.Context</type>
+          <declname>p0</declname>
+        </param>
+        <param>
+          <type>android.util.AttributeSet</type>
+          <declname>p1</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/100/android/src/crc643f46942d9dd1fff9/PolygonView.java" line="26" column="8" bodyfile="Application Green Quake.Android/obj/Debug/100/android/src/crc643f46942d9dd1fff9/PolygonView.java" bodystart="26" bodyend="31"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_polygon_view_1acbdf278ce12e2c102879ea4ee1d33d97" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>crc643f46942d9dd1fff9.PolygonView.PolygonView</definition>
+        <argsstring>(android.content.Context p0, android.util.AttributeSet p1, int p2)</argsstring>
+        <name>PolygonView</name>
+        <param>
+          <type>android.content.Context</type>
+          <declname>p0</declname>
+        </param>
+        <param>
+          <type>android.util.AttributeSet</type>
+          <declname>p1</declname>
+        </param>
+        <param>
+          <type>int</type>
+          <declname>p2</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/100/android/src/crc643f46942d9dd1fff9/PolygonView.java" line="34" column="8" bodyfile="Application Green Quake.Android/obj/Debug/100/android/src/crc643f46942d9dd1fff9/PolygonView.java" bodystart="34" bodyend="39"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_polygon_view_1a85731e93a7d912470420e0e48e1fee31" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>crc643f46942d9dd1fff9.PolygonView.PolygonView</definition>
+        <argsstring>(android.content.Context p0, android.util.AttributeSet p1, int p2, int p3)</argsstring>
+        <name>PolygonView</name>
+        <param>
+          <type>android.content.Context</type>
+          <declname>p0</declname>
+        </param>
+        <param>
+          <type>android.util.AttributeSet</type>
+          <declname>p1</declname>
+        </param>
+        <param>
+          <type>int</type>
+          <declname>p2</declname>
+        </param>
+        <param>
+          <type>int</type>
+          <declname>p3</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/100/android/src/crc643f46942d9dd1fff9/PolygonView.java" line="42" column="8" bodyfile="Application Green Quake.Android/obj/Debug/100/android/src/crc643f46942d9dd1fff9/PolygonView.java" bodystart="42" bodyend="47"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_polygon_view_1a2455ae32dc40a9c167a1178162bc2f2b" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void crc643f46942d9dd1fff9.PolygonView.monodroidAddReference</definition>
+        <argsstring>(java.lang.Object obj)</argsstring>
+        <name>monodroidAddReference</name>
+        <reimplements refid="classcrc643f46942d9dd1fff9_1_1_shape_view_1a2a2d30734a92da06e380d84e6a7d0057">monodroidAddReference</reimplements>
+        <param>
+          <type>java.lang.Object</type>
+          <declname>obj</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/100/android/src/crc643f46942d9dd1fff9/PolygonView.java" line="50" column="13" bodyfile="Application Green Quake.Android/obj/Debug/100/android/src/crc643f46942d9dd1fff9/PolygonView.java" bodystart="50" bodyend="55"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_polygon_view_1a43a831ba51559e0ac9c7cec3be848012" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void crc643f46942d9dd1fff9.PolygonView.monodroidClearReferences</definition>
+        <argsstring>()</argsstring>
+        <name>monodroidClearReferences</name>
+        <reimplements refid="classcrc643f46942d9dd1fff9_1_1_shape_view_1aafdd116a0b489c4b0e6e8e986bb05f92">monodroidClearReferences</reimplements>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/100/android/src/crc643f46942d9dd1fff9/PolygonView.java" line="57" column="13" bodyfile="Application Green Quake.Android/obj/Debug/100/android/src/crc643f46942d9dd1fff9/PolygonView.java" bodystart="57" bodyend="61"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_polygon_view_1ae6322bee6b9c4de11fda365ffba8b6f4" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>crc643f46942d9dd1fff9.PolygonView.PolygonView</definition>
+        <argsstring>(android.content.Context p0)</argsstring>
+        <name>PolygonView</name>
+        <param>
+          <type>android.content.Context</type>
+          <declname>p0</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/110/android/src/crc643f46942d9dd1fff9/PolygonView.java" line="18" column="8" bodyfile="Application Green Quake.Android/obj/Debug/110/android/src/crc643f46942d9dd1fff9/PolygonView.java" bodystart="18" bodyend="23"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_polygon_view_1a8b73cb93544836196aa02759924ddea0" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>crc643f46942d9dd1fff9.PolygonView.PolygonView</definition>
+        <argsstring>(android.content.Context p0, android.util.AttributeSet p1)</argsstring>
+        <name>PolygonView</name>
+        <param>
+          <type>android.content.Context</type>
+          <declname>p0</declname>
+        </param>
+        <param>
+          <type>android.util.AttributeSet</type>
+          <declname>p1</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/110/android/src/crc643f46942d9dd1fff9/PolygonView.java" line="26" column="8" bodyfile="Application Green Quake.Android/obj/Debug/110/android/src/crc643f46942d9dd1fff9/PolygonView.java" bodystart="26" bodyend="31"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_polygon_view_1acbdf278ce12e2c102879ea4ee1d33d97" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>crc643f46942d9dd1fff9.PolygonView.PolygonView</definition>
+        <argsstring>(android.content.Context p0, android.util.AttributeSet p1, int p2)</argsstring>
+        <name>PolygonView</name>
+        <param>
+          <type>android.content.Context</type>
+          <declname>p0</declname>
+        </param>
+        <param>
+          <type>android.util.AttributeSet</type>
+          <declname>p1</declname>
+        </param>
+        <param>
+          <type>int</type>
+          <declname>p2</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/110/android/src/crc643f46942d9dd1fff9/PolygonView.java" line="34" column="8" bodyfile="Application Green Quake.Android/obj/Debug/110/android/src/crc643f46942d9dd1fff9/PolygonView.java" bodystart="34" bodyend="39"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_polygon_view_1a85731e93a7d912470420e0e48e1fee31" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>crc643f46942d9dd1fff9.PolygonView.PolygonView</definition>
+        <argsstring>(android.content.Context p0, android.util.AttributeSet p1, int p2, int p3)</argsstring>
+        <name>PolygonView</name>
+        <param>
+          <type>android.content.Context</type>
+          <declname>p0</declname>
+        </param>
+        <param>
+          <type>android.util.AttributeSet</type>
+          <declname>p1</declname>
+        </param>
+        <param>
+          <type>int</type>
+          <declname>p2</declname>
+        </param>
+        <param>
+          <type>int</type>
+          <declname>p3</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/110/android/src/crc643f46942d9dd1fff9/PolygonView.java" line="42" column="8" bodyfile="Application Green Quake.Android/obj/Debug/110/android/src/crc643f46942d9dd1fff9/PolygonView.java" bodystart="42" bodyend="47"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_polygon_view_1a2455ae32dc40a9c167a1178162bc2f2b" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void crc643f46942d9dd1fff9.PolygonView.monodroidAddReference</definition>
+        <argsstring>(java.lang.Object obj)</argsstring>
+        <name>monodroidAddReference</name>
+        <reimplements refid="classcrc643f46942d9dd1fff9_1_1_shape_view_1a2a2d30734a92da06e380d84e6a7d0057">monodroidAddReference</reimplements>
+        <param>
+          <type>java.lang.Object</type>
+          <declname>obj</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/110/android/src/crc643f46942d9dd1fff9/PolygonView.java" line="50" column="13" bodyfile="Application Green Quake.Android/obj/Debug/110/android/src/crc643f46942d9dd1fff9/PolygonView.java" bodystart="50" bodyend="55"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_polygon_view_1a43a831ba51559e0ac9c7cec3be848012" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void crc643f46942d9dd1fff9.PolygonView.monodroidClearReferences</definition>
+        <argsstring>()</argsstring>
+        <name>monodroidClearReferences</name>
+        <reimplements refid="classcrc643f46942d9dd1fff9_1_1_shape_view_1aafdd116a0b489c4b0e6e8e986bb05f92">monodroidClearReferences</reimplements>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/110/android/src/crc643f46942d9dd1fff9/PolygonView.java" line="57" column="13" bodyfile="Application Green Quake.Android/obj/Debug/110/android/src/crc643f46942d9dd1fff9/PolygonView.java" bodystart="57" bodyend="61"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_polygon_view_1ae6322bee6b9c4de11fda365ffba8b6f4" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>crc643f46942d9dd1fff9.PolygonView.PolygonView</definition>
+        <argsstring>(android.content.Context p0)</argsstring>
+        <name>PolygonView</name>
+        <param>
+          <type>android.content.Context</type>
+          <declname>p0</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/100/android/src/crc643f46942d9dd1fff9/PolygonView.java" line="18" column="8" bodyfile="Application Green Quake.Android/obj/Release/100/android/src/crc643f46942d9dd1fff9/PolygonView.java" bodystart="18" bodyend="23"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_polygon_view_1a8b73cb93544836196aa02759924ddea0" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>crc643f46942d9dd1fff9.PolygonView.PolygonView</definition>
+        <argsstring>(android.content.Context p0, android.util.AttributeSet p1)</argsstring>
+        <name>PolygonView</name>
+        <param>
+          <type>android.content.Context</type>
+          <declname>p0</declname>
+        </param>
+        <param>
+          <type>android.util.AttributeSet</type>
+          <declname>p1</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/100/android/src/crc643f46942d9dd1fff9/PolygonView.java" line="26" column="8" bodyfile="Application Green Quake.Android/obj/Release/100/android/src/crc643f46942d9dd1fff9/PolygonView.java" bodystart="26" bodyend="31"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_polygon_view_1acbdf278ce12e2c102879ea4ee1d33d97" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>crc643f46942d9dd1fff9.PolygonView.PolygonView</definition>
+        <argsstring>(android.content.Context p0, android.util.AttributeSet p1, int p2)</argsstring>
+        <name>PolygonView</name>
+        <param>
+          <type>android.content.Context</type>
+          <declname>p0</declname>
+        </param>
+        <param>
+          <type>android.util.AttributeSet</type>
+          <declname>p1</declname>
+        </param>
+        <param>
+          <type>int</type>
+          <declname>p2</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/100/android/src/crc643f46942d9dd1fff9/PolygonView.java" line="34" column="8" bodyfile="Application Green Quake.Android/obj/Release/100/android/src/crc643f46942d9dd1fff9/PolygonView.java" bodystart="34" bodyend="39"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_polygon_view_1a85731e93a7d912470420e0e48e1fee31" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>crc643f46942d9dd1fff9.PolygonView.PolygonView</definition>
+        <argsstring>(android.content.Context p0, android.util.AttributeSet p1, int p2, int p3)</argsstring>
+        <name>PolygonView</name>
+        <param>
+          <type>android.content.Context</type>
+          <declname>p0</declname>
+        </param>
+        <param>
+          <type>android.util.AttributeSet</type>
+          <declname>p1</declname>
+        </param>
+        <param>
+          <type>int</type>
+          <declname>p2</declname>
+        </param>
+        <param>
+          <type>int</type>
+          <declname>p3</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/100/android/src/crc643f46942d9dd1fff9/PolygonView.java" line="42" column="8" bodyfile="Application Green Quake.Android/obj/Release/100/android/src/crc643f46942d9dd1fff9/PolygonView.java" bodystart="42" bodyend="47"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_polygon_view_1a2455ae32dc40a9c167a1178162bc2f2b" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void crc643f46942d9dd1fff9.PolygonView.monodroidAddReference</definition>
+        <argsstring>(java.lang.Object obj)</argsstring>
+        <name>monodroidAddReference</name>
+        <reimplements refid="classcrc643f46942d9dd1fff9_1_1_shape_view_1a2a2d30734a92da06e380d84e6a7d0057">monodroidAddReference</reimplements>
+        <param>
+          <type>java.lang.Object</type>
+          <declname>obj</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/100/android/src/crc643f46942d9dd1fff9/PolygonView.java" line="50" column="13" bodyfile="Application Green Quake.Android/obj/Release/100/android/src/crc643f46942d9dd1fff9/PolygonView.java" bodystart="50" bodyend="55"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_polygon_view_1a43a831ba51559e0ac9c7cec3be848012" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void crc643f46942d9dd1fff9.PolygonView.monodroidClearReferences</definition>
+        <argsstring>()</argsstring>
+        <name>monodroidClearReferences</name>
+        <reimplements refid="classcrc643f46942d9dd1fff9_1_1_shape_view_1aafdd116a0b489c4b0e6e8e986bb05f92">monodroidClearReferences</reimplements>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/100/android/src/crc643f46942d9dd1fff9/PolygonView.java" line="57" column="13" bodyfile="Application Green Quake.Android/obj/Release/100/android/src/crc643f46942d9dd1fff9/PolygonView.java" bodystart="57" bodyend="61"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_polygon_view_1ae6322bee6b9c4de11fda365ffba8b6f4" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>crc643f46942d9dd1fff9.PolygonView.PolygonView</definition>
+        <argsstring>(android.content.Context p0)</argsstring>
+        <name>PolygonView</name>
+        <param>
+          <type>android.content.Context</type>
+          <declname>p0</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/110/android/src/crc643f46942d9dd1fff9/PolygonView.java" line="18" column="8" bodyfile="Application Green Quake.Android/obj/Release/110/android/src/crc643f46942d9dd1fff9/PolygonView.java" bodystart="18" bodyend="23"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_polygon_view_1a8b73cb93544836196aa02759924ddea0" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>crc643f46942d9dd1fff9.PolygonView.PolygonView</definition>
+        <argsstring>(android.content.Context p0, android.util.AttributeSet p1)</argsstring>
+        <name>PolygonView</name>
+        <param>
+          <type>android.content.Context</type>
+          <declname>p0</declname>
+        </param>
+        <param>
+          <type>android.util.AttributeSet</type>
+          <declname>p1</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/110/android/src/crc643f46942d9dd1fff9/PolygonView.java" line="26" column="8" bodyfile="Application Green Quake.Android/obj/Release/110/android/src/crc643f46942d9dd1fff9/PolygonView.java" bodystart="26" bodyend="31"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_polygon_view_1acbdf278ce12e2c102879ea4ee1d33d97" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>crc643f46942d9dd1fff9.PolygonView.PolygonView</definition>
+        <argsstring>(android.content.Context p0, android.util.AttributeSet p1, int p2)</argsstring>
+        <name>PolygonView</name>
+        <param>
+          <type>android.content.Context</type>
+          <declname>p0</declname>
+        </param>
+        <param>
+          <type>android.util.AttributeSet</type>
+          <declname>p1</declname>
+        </param>
+        <param>
+          <type>int</type>
+          <declname>p2</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/110/android/src/crc643f46942d9dd1fff9/PolygonView.java" line="34" column="8" bodyfile="Application Green Quake.Android/obj/Release/110/android/src/crc643f46942d9dd1fff9/PolygonView.java" bodystart="34" bodyend="39"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_polygon_view_1a85731e93a7d912470420e0e48e1fee31" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>crc643f46942d9dd1fff9.PolygonView.PolygonView</definition>
+        <argsstring>(android.content.Context p0, android.util.AttributeSet p1, int p2, int p3)</argsstring>
+        <name>PolygonView</name>
+        <param>
+          <type>android.content.Context</type>
+          <declname>p0</declname>
+        </param>
+        <param>
+          <type>android.util.AttributeSet</type>
+          <declname>p1</declname>
+        </param>
+        <param>
+          <type>int</type>
+          <declname>p2</declname>
+        </param>
+        <param>
+          <type>int</type>
+          <declname>p3</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/110/android/src/crc643f46942d9dd1fff9/PolygonView.java" line="42" column="8" bodyfile="Application Green Quake.Android/obj/Release/110/android/src/crc643f46942d9dd1fff9/PolygonView.java" bodystart="42" bodyend="47"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_polygon_view_1a2455ae32dc40a9c167a1178162bc2f2b" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void crc643f46942d9dd1fff9.PolygonView.monodroidAddReference</definition>
+        <argsstring>(java.lang.Object obj)</argsstring>
+        <name>monodroidAddReference</name>
+        <reimplements refid="classcrc643f46942d9dd1fff9_1_1_shape_view_1a2a2d30734a92da06e380d84e6a7d0057">monodroidAddReference</reimplements>
+        <param>
+          <type>java.lang.Object</type>
+          <declname>obj</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/110/android/src/crc643f46942d9dd1fff9/PolygonView.java" line="50" column="13" bodyfile="Application Green Quake.Android/obj/Release/110/android/src/crc643f46942d9dd1fff9/PolygonView.java" bodystart="50" bodyend="55"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_polygon_view_1a43a831ba51559e0ac9c7cec3be848012" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void crc643f46942d9dd1fff9.PolygonView.monodroidClearReferences</definition>
+        <argsstring>()</argsstring>
+        <name>monodroidClearReferences</name>
+        <reimplements refid="classcrc643f46942d9dd1fff9_1_1_shape_view_1aafdd116a0b489c4b0e6e8e986bb05f92">monodroidClearReferences</reimplements>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/110/android/src/crc643f46942d9dd1fff9/PolygonView.java" line="57" column="13" bodyfile="Application Green Quake.Android/obj/Release/110/android/src/crc643f46942d9dd1fff9/PolygonView.java" bodystart="57" bodyend="61"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <inheritancegraph>
+      <node id="1">
+        <label>crc643f46942d9dd1fff9.PolygonView</label>
+        <link refid="classcrc643f46942d9dd1fff9_1_1_polygon_view"/>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+        <childnode refid="4" relation="public-inheritance">
+        </childnode>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+        <childnode refid="4" relation="public-inheritance">
+        </childnode>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+        <childnode refid="4" relation="public-inheritance">
+        </childnode>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+        <childnode refid="4" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="2">
+        <label>crc643f46942d9dd1fff9.ShapeView</label>
+        <link refid="classcrc643f46942d9dd1fff9_1_1_shape_view"/>
+        <childnode refid="3" relation="public-inheritance">
+        </childnode>
+        <childnode refid="4" relation="public-inheritance">
+        </childnode>
+        <childnode refid="3" relation="public-inheritance">
+        </childnode>
+        <childnode refid="4" relation="public-inheritance">
+        </childnode>
+        <childnode refid="3" relation="public-inheritance">
+        </childnode>
+        <childnode refid="4" relation="public-inheritance">
+        </childnode>
+        <childnode refid="3" relation="public-inheritance">
+        </childnode>
+        <childnode refid="4" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="4">
+        <label>mono.android.IGCUserPeer</label>
+      </node>
+      <node id="3">
+        <label>android.view.View</label>
+      </node>
+    </inheritancegraph>
+    <collaborationgraph>
+      <node id="1">
+        <label>crc643f46942d9dd1fff9.PolygonView</label>
+        <link refid="classcrc643f46942d9dd1fff9_1_1_polygon_view"/>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+        <childnode refid="4" relation="public-inheritance">
+        </childnode>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+        <childnode refid="4" relation="public-inheritance">
+        </childnode>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+        <childnode refid="4" relation="public-inheritance">
+        </childnode>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+        <childnode refid="4" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="2">
+        <label>crc643f46942d9dd1fff9.ShapeView</label>
+        <link refid="classcrc643f46942d9dd1fff9_1_1_shape_view"/>
+        <childnode refid="3" relation="public-inheritance">
+        </childnode>
+        <childnode refid="4" relation="public-inheritance">
+        </childnode>
+        <childnode refid="3" relation="public-inheritance">
+        </childnode>
+        <childnode refid="4" relation="public-inheritance">
+        </childnode>
+        <childnode refid="3" relation="public-inheritance">
+        </childnode>
+        <childnode refid="4" relation="public-inheritance">
+        </childnode>
+        <childnode refid="3" relation="public-inheritance">
+        </childnode>
+        <childnode refid="4" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="4">
+        <label>mono.android.IGCUserPeer</label>
+      </node>
+      <node id="3">
+        <label>android.view.View</label>
+      </node>
+    </collaborationgraph>
+    <location file="Application Green Quake.Android/obj/Debug/100/android/src/crc643f46942d9dd1fff9/PolygonView.java" line="4" column="7" bodyfile="Application Green Quake.Android/obj/Debug/100/android/src/crc643f46942d9dd1fff9/PolygonView.java" bodystart="8" bodyend="62"/>
+    <listofallmembers>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_polygon_view_1a110511c56726bc34ee292143799d7473" prot="package" virt="non-virtual"><scope>crc643f46942d9dd1fff9::PolygonView</scope><name>[static initializer]</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_polygon_view_1a110511c56726bc34ee292143799d7473" prot="package" virt="non-virtual"><scope>crc643f46942d9dd1fff9::PolygonView</scope><name>[static initializer]</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_polygon_view_1a110511c56726bc34ee292143799d7473" prot="package" virt="non-virtual"><scope>crc643f46942d9dd1fff9::PolygonView</scope><name>[static initializer]</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_polygon_view_1a110511c56726bc34ee292143799d7473" prot="package" virt="non-virtual"><scope>crc643f46942d9dd1fff9::PolygonView</scope><name>[static initializer]</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_polygon_view_1a2a5808786536b46a717a334037d484dc" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::PolygonView</scope><name>__md_methods</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_polygon_view_1a2455ae32dc40a9c167a1178162bc2f2b" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::PolygonView</scope><name>monodroidAddReference</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_polygon_view_1a2455ae32dc40a9c167a1178162bc2f2b" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::PolygonView</scope><name>monodroidAddReference</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_polygon_view_1a2455ae32dc40a9c167a1178162bc2f2b" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::PolygonView</scope><name>monodroidAddReference</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_polygon_view_1a2455ae32dc40a9c167a1178162bc2f2b" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::PolygonView</scope><name>monodroidAddReference</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_polygon_view_1a43a831ba51559e0ac9c7cec3be848012" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::PolygonView</scope><name>monodroidClearReferences</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_polygon_view_1a43a831ba51559e0ac9c7cec3be848012" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::PolygonView</scope><name>monodroidClearReferences</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_polygon_view_1a43a831ba51559e0ac9c7cec3be848012" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::PolygonView</scope><name>monodroidClearReferences</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_polygon_view_1a43a831ba51559e0ac9c7cec3be848012" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::PolygonView</scope><name>monodroidClearReferences</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_shape_view_1ad0f3b0681a3a05bbd079b39a0ae259c8" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::PolygonView</scope><name>onDraw</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_shape_view_1ad0f3b0681a3a05bbd079b39a0ae259c8" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::PolygonView</scope><name>onDraw</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_shape_view_1ad0f3b0681a3a05bbd079b39a0ae259c8" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::PolygonView</scope><name>onDraw</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_shape_view_1ad0f3b0681a3a05bbd079b39a0ae259c8" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::PolygonView</scope><name>onDraw</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_polygon_view_1ae6322bee6b9c4de11fda365ffba8b6f4" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::PolygonView</scope><name>PolygonView</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_polygon_view_1a8b73cb93544836196aa02759924ddea0" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::PolygonView</scope><name>PolygonView</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_polygon_view_1acbdf278ce12e2c102879ea4ee1d33d97" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::PolygonView</scope><name>PolygonView</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_polygon_view_1a85731e93a7d912470420e0e48e1fee31" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::PolygonView</scope><name>PolygonView</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_polygon_view_1ae6322bee6b9c4de11fda365ffba8b6f4" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::PolygonView</scope><name>PolygonView</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_polygon_view_1a8b73cb93544836196aa02759924ddea0" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::PolygonView</scope><name>PolygonView</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_polygon_view_1acbdf278ce12e2c102879ea4ee1d33d97" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::PolygonView</scope><name>PolygonView</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_polygon_view_1a85731e93a7d912470420e0e48e1fee31" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::PolygonView</scope><name>PolygonView</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_polygon_view_1ae6322bee6b9c4de11fda365ffba8b6f4" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::PolygonView</scope><name>PolygonView</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_polygon_view_1a8b73cb93544836196aa02759924ddea0" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::PolygonView</scope><name>PolygonView</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_polygon_view_1acbdf278ce12e2c102879ea4ee1d33d97" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::PolygonView</scope><name>PolygonView</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_polygon_view_1a85731e93a7d912470420e0e48e1fee31" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::PolygonView</scope><name>PolygonView</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_polygon_view_1ae6322bee6b9c4de11fda365ffba8b6f4" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::PolygonView</scope><name>PolygonView</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_polygon_view_1a8b73cb93544836196aa02759924ddea0" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::PolygonView</scope><name>PolygonView</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_polygon_view_1acbdf278ce12e2c102879ea4ee1d33d97" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::PolygonView</scope><name>PolygonView</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_polygon_view_1a85731e93a7d912470420e0e48e1fee31" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::PolygonView</scope><name>PolygonView</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_polygon_view_1a548f8780c9fc09d0228560aa7d92b490" prot="private" virt="non-virtual"><scope>crc643f46942d9dd1fff9::PolygonView</scope><name>refList</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_shape_view_1a56f319ff327803b213e07d3beb4eff6a" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::PolygonView</scope><name>ShapeView</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_shape_view_1a996fb677dc3467243794ff538a1e1774" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::PolygonView</scope><name>ShapeView</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_shape_view_1a8a589f37276116537c309c9ed406aa86" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::PolygonView</scope><name>ShapeView</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_shape_view_1ac90f355e6d950b861ba0d4d9cb9751aa" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::PolygonView</scope><name>ShapeView</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_shape_view_1a56f319ff327803b213e07d3beb4eff6a" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::PolygonView</scope><name>ShapeView</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_shape_view_1a996fb677dc3467243794ff538a1e1774" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::PolygonView</scope><name>ShapeView</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_shape_view_1a8a589f37276116537c309c9ed406aa86" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::PolygonView</scope><name>ShapeView</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_shape_view_1ac90f355e6d950b861ba0d4d9cb9751aa" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::PolygonView</scope><name>ShapeView</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_shape_view_1a56f319ff327803b213e07d3beb4eff6a" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::PolygonView</scope><name>ShapeView</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_shape_view_1a996fb677dc3467243794ff538a1e1774" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::PolygonView</scope><name>ShapeView</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_shape_view_1a8a589f37276116537c309c9ed406aa86" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::PolygonView</scope><name>ShapeView</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_shape_view_1ac90f355e6d950b861ba0d4d9cb9751aa" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::PolygonView</scope><name>ShapeView</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_shape_view_1a56f319ff327803b213e07d3beb4eff6a" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::PolygonView</scope><name>ShapeView</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_shape_view_1a996fb677dc3467243794ff538a1e1774" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::PolygonView</scope><name>ShapeView</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_shape_view_1a8a589f37276116537c309c9ed406aa86" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::PolygonView</scope><name>ShapeView</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_shape_view_1ac90f355e6d950b861ba0d4d9cb9751aa" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::PolygonView</scope><name>ShapeView</name></member>
+    </listofallmembers>
+  </compounddef>
+</doxygen>

@@ -1,0 +1,532 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.9.1" xml:lang="en-US">
+  <compounddef id="classmono_1_1com_1_1google_1_1firebase_1_1auth_1_1internal_1_1_id_token_listener_implementor" kind="class" language="Java" prot="public">
+    <compoundname>mono::com::google::firebase::auth::internal::IdTokenListenerImplementor</compoundname>
+    <basecompoundref prot="public" virt="non-virtual">java.lang.Object</basecompoundref>
+    <basecompoundref prot="public" virt="non-virtual">mono.android.IGCUserPeer</basecompoundref>
+    <basecompoundref prot="public" virt="non-virtual">com.google.firebase.auth.internal.IdTokenListener</basecompoundref>
+    <basecompoundref prot="public" virt="non-virtual">java.lang.Object</basecompoundref>
+    <basecompoundref prot="public" virt="non-virtual">mono.android.IGCUserPeer</basecompoundref>
+    <basecompoundref prot="public" virt="non-virtual">com.google.firebase.auth.internal.IdTokenListener</basecompoundref>
+    <basecompoundref prot="public" virt="non-virtual">java.lang.Object</basecompoundref>
+    <basecompoundref prot="public" virt="non-virtual">mono.android.IGCUserPeer</basecompoundref>
+    <basecompoundref prot="public" virt="non-virtual">com.google.firebase.auth.internal.IdTokenListener</basecompoundref>
+    <basecompoundref prot="public" virt="non-virtual">java.lang.Object</basecompoundref>
+    <basecompoundref prot="public" virt="non-virtual">mono.android.IGCUserPeer</basecompoundref>
+    <basecompoundref prot="public" virt="non-virtual">com.google.firebase.auth.internal.IdTokenListener</basecompoundref>
+      <sectiondef kind="public-static-attrib">
+      <memberdef kind="variable" id="classmono_1_1com_1_1google_1_1firebase_1_1auth_1_1internal_1_1_id_token_listener_implementor_1a7d0eb59b6fea2475c51fdd29f59c6b96" prot="public" static="yes" mutable="no">
+        <type>final String</type>
+        <definition>static final String mono.com.google.firebase.auth.internal.IdTokenListenerImplementor::__md_methods</definition>
+        <argsstring></argsstring>
+        <name>__md_methods</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+<para>@hide </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/100/android/src/mono/com/google/firebase/auth/internal/IdTokenListenerImplementor.java" line="11" column="28" bodyfile="Application Green Quake.Android/obj/Debug/100/android/src/mono/com/google/firebase/auth/internal/IdTokenListenerImplementor.java" bodystart="11" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="private-attrib">
+      <memberdef kind="variable" id="classmono_1_1com_1_1google_1_1firebase_1_1auth_1_1internal_1_1_id_token_listener_implementor_1a8efae0d1fffd5b8843b44ba64c6aa0b6" prot="private" static="no" mutable="no">
+        <type>java.util.ArrayList</type>
+        <definition>java util ArrayList mono.com.google.firebase.auth.internal.IdTokenListenerImplementor::refList</definition>
+        <argsstring></argsstring>
+        <name>refList</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/100/android/src/mono/com/google/firebase/auth/internal/IdTokenListenerImplementor.java" line="35" column="27" bodyfile="Application Green Quake.Android/obj/Debug/100/android/src/mono/com/google/firebase/auth/internal/IdTokenListenerImplementor.java" bodystart="35" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="package-static-func">
+      <memberdef kind="function" id="classmono_1_1com_1_1google_1_1firebase_1_1auth_1_1internal_1_1_id_token_listener_implementor_1a8a91ba78070fd735ad66acd24165e558" prot="package" static="yes" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>mono.com.google.firebase.auth.internal.IdTokenListenerImplementor.[static initializer]</definition>
+        <argsstring></argsstring>
+        <name>[static initializer]</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/100/android/src/mono/com/google/firebase/auth/internal/IdTokenListenerImplementor.java" line="11" column="28"/>
+      </memberdef>
+      <memberdef kind="function" id="classmono_1_1com_1_1google_1_1firebase_1_1auth_1_1internal_1_1_id_token_listener_implementor_1a8a91ba78070fd735ad66acd24165e558" prot="package" static="yes" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>mono.com.google.firebase.auth.internal.IdTokenListenerImplementor.[static initializer]</definition>
+        <argsstring></argsstring>
+        <name>[static initializer]</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/110/android/src/mono/com/google/firebase/auth/internal/IdTokenListenerImplementor.java" line="11" column="28"/>
+      </memberdef>
+      <memberdef kind="function" id="classmono_1_1com_1_1google_1_1firebase_1_1auth_1_1internal_1_1_id_token_listener_implementor_1a8a91ba78070fd735ad66acd24165e558" prot="package" static="yes" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>mono.com.google.firebase.auth.internal.IdTokenListenerImplementor.[static initializer]</definition>
+        <argsstring></argsstring>
+        <name>[static initializer]</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/100/android/src/mono/com/google/firebase/auth/internal/IdTokenListenerImplementor.java" line="11" column="28"/>
+      </memberdef>
+      <memberdef kind="function" id="classmono_1_1com_1_1google_1_1firebase_1_1auth_1_1internal_1_1_id_token_listener_implementor_1a8a91ba78070fd735ad66acd24165e558" prot="package" static="yes" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>mono.com.google.firebase.auth.internal.IdTokenListenerImplementor.[static initializer]</definition>
+        <argsstring></argsstring>
+        <name>[static initializer]</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/110/android/src/mono/com/google/firebase/auth/internal/IdTokenListenerImplementor.java" line="11" column="28"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="public-func">
+      <memberdef kind="function" id="classmono_1_1com_1_1google_1_1firebase_1_1auth_1_1internal_1_1_id_token_listener_implementor_1a5dd81e32cc49b9b353a2d7d9c8365abc" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>mono.com.google.firebase.auth.internal.IdTokenListenerImplementor.IdTokenListenerImplementor</definition>
+        <argsstring>()</argsstring>
+        <name>IdTokenListenerImplementor</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/100/android/src/mono/com/google/firebase/auth/internal/IdTokenListenerImplementor.java" line="20" column="8" bodyfile="Application Green Quake.Android/obj/Debug/100/android/src/mono/com/google/firebase/auth/internal/IdTokenListenerImplementor.java" bodystart="20" bodyend="25"/>
+      </memberdef>
+      <memberdef kind="function" id="classmono_1_1com_1_1google_1_1firebase_1_1auth_1_1internal_1_1_id_token_listener_implementor_1a4161a43cc9e014bf9207769ac8083297" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void mono.com.google.firebase.auth.internal.IdTokenListenerImplementor.onIdTokenChanged</definition>
+        <argsstring>(com.google.firebase.internal.InternalTokenResult p0)</argsstring>
+        <name>onIdTokenChanged</name>
+        <param>
+          <type>com.google.firebase.internal.InternalTokenResult</type>
+          <declname>p0</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/100/android/src/mono/com/google/firebase/auth/internal/IdTokenListenerImplementor.java" line="28" column="13" bodyfile="Application Green Quake.Android/obj/Debug/100/android/src/mono/com/google/firebase/auth/internal/IdTokenListenerImplementor.java" bodystart="28" bodyend="31"/>
+      </memberdef>
+      <memberdef kind="function" id="classmono_1_1com_1_1google_1_1firebase_1_1auth_1_1internal_1_1_id_token_listener_implementor_1ae249d75f77c5c1e0d4bc58059b0e1963" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void mono.com.google.firebase.auth.internal.IdTokenListenerImplementor.monodroidAddReference</definition>
+        <argsstring>(java.lang.Object obj)</argsstring>
+        <name>monodroidAddReference</name>
+        <param>
+          <type>java.lang.Object</type>
+          <declname>obj</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/100/android/src/mono/com/google/firebase/auth/internal/IdTokenListenerImplementor.java" line="36" column="13" bodyfile="Application Green Quake.Android/obj/Debug/100/android/src/mono/com/google/firebase/auth/internal/IdTokenListenerImplementor.java" bodystart="36" bodyend="41"/>
+      </memberdef>
+      <memberdef kind="function" id="classmono_1_1com_1_1google_1_1firebase_1_1auth_1_1internal_1_1_id_token_listener_implementor_1a66b1b630e3d1fc1e792dc12b618c0ef8" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void mono.com.google.firebase.auth.internal.IdTokenListenerImplementor.monodroidClearReferences</definition>
+        <argsstring>()</argsstring>
+        <name>monodroidClearReferences</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/100/android/src/mono/com/google/firebase/auth/internal/IdTokenListenerImplementor.java" line="43" column="13" bodyfile="Application Green Quake.Android/obj/Debug/100/android/src/mono/com/google/firebase/auth/internal/IdTokenListenerImplementor.java" bodystart="43" bodyend="47"/>
+      </memberdef>
+      <memberdef kind="function" id="classmono_1_1com_1_1google_1_1firebase_1_1auth_1_1internal_1_1_id_token_listener_implementor_1a5dd81e32cc49b9b353a2d7d9c8365abc" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>mono.com.google.firebase.auth.internal.IdTokenListenerImplementor.IdTokenListenerImplementor</definition>
+        <argsstring>()</argsstring>
+        <name>IdTokenListenerImplementor</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/110/android/src/mono/com/google/firebase/auth/internal/IdTokenListenerImplementor.java" line="20" column="8" bodyfile="Application Green Quake.Android/obj/Debug/110/android/src/mono/com/google/firebase/auth/internal/IdTokenListenerImplementor.java" bodystart="20" bodyend="25"/>
+      </memberdef>
+      <memberdef kind="function" id="classmono_1_1com_1_1google_1_1firebase_1_1auth_1_1internal_1_1_id_token_listener_implementor_1a4161a43cc9e014bf9207769ac8083297" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void mono.com.google.firebase.auth.internal.IdTokenListenerImplementor.onIdTokenChanged</definition>
+        <argsstring>(com.google.firebase.internal.InternalTokenResult p0)</argsstring>
+        <name>onIdTokenChanged</name>
+        <param>
+          <type>com.google.firebase.internal.InternalTokenResult</type>
+          <declname>p0</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/110/android/src/mono/com/google/firebase/auth/internal/IdTokenListenerImplementor.java" line="28" column="13" bodyfile="Application Green Quake.Android/obj/Debug/110/android/src/mono/com/google/firebase/auth/internal/IdTokenListenerImplementor.java" bodystart="28" bodyend="31"/>
+      </memberdef>
+      <memberdef kind="function" id="classmono_1_1com_1_1google_1_1firebase_1_1auth_1_1internal_1_1_id_token_listener_implementor_1ae249d75f77c5c1e0d4bc58059b0e1963" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void mono.com.google.firebase.auth.internal.IdTokenListenerImplementor.monodroidAddReference</definition>
+        <argsstring>(java.lang.Object obj)</argsstring>
+        <name>monodroidAddReference</name>
+        <param>
+          <type>java.lang.Object</type>
+          <declname>obj</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/110/android/src/mono/com/google/firebase/auth/internal/IdTokenListenerImplementor.java" line="36" column="13" bodyfile="Application Green Quake.Android/obj/Debug/110/android/src/mono/com/google/firebase/auth/internal/IdTokenListenerImplementor.java" bodystart="36" bodyend="41"/>
+      </memberdef>
+      <memberdef kind="function" id="classmono_1_1com_1_1google_1_1firebase_1_1auth_1_1internal_1_1_id_token_listener_implementor_1a66b1b630e3d1fc1e792dc12b618c0ef8" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void mono.com.google.firebase.auth.internal.IdTokenListenerImplementor.monodroidClearReferences</definition>
+        <argsstring>()</argsstring>
+        <name>monodroidClearReferences</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/110/android/src/mono/com/google/firebase/auth/internal/IdTokenListenerImplementor.java" line="43" column="13" bodyfile="Application Green Quake.Android/obj/Debug/110/android/src/mono/com/google/firebase/auth/internal/IdTokenListenerImplementor.java" bodystart="43" bodyend="47"/>
+      </memberdef>
+      <memberdef kind="function" id="classmono_1_1com_1_1google_1_1firebase_1_1auth_1_1internal_1_1_id_token_listener_implementor_1a5dd81e32cc49b9b353a2d7d9c8365abc" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>mono.com.google.firebase.auth.internal.IdTokenListenerImplementor.IdTokenListenerImplementor</definition>
+        <argsstring>()</argsstring>
+        <name>IdTokenListenerImplementor</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/100/android/src/mono/com/google/firebase/auth/internal/IdTokenListenerImplementor.java" line="20" column="8" bodyfile="Application Green Quake.Android/obj/Release/100/android/src/mono/com/google/firebase/auth/internal/IdTokenListenerImplementor.java" bodystart="20" bodyend="25"/>
+      </memberdef>
+      <memberdef kind="function" id="classmono_1_1com_1_1google_1_1firebase_1_1auth_1_1internal_1_1_id_token_listener_implementor_1a4161a43cc9e014bf9207769ac8083297" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void mono.com.google.firebase.auth.internal.IdTokenListenerImplementor.onIdTokenChanged</definition>
+        <argsstring>(com.google.firebase.internal.InternalTokenResult p0)</argsstring>
+        <name>onIdTokenChanged</name>
+        <param>
+          <type>com.google.firebase.internal.InternalTokenResult</type>
+          <declname>p0</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/100/android/src/mono/com/google/firebase/auth/internal/IdTokenListenerImplementor.java" line="28" column="13" bodyfile="Application Green Quake.Android/obj/Release/100/android/src/mono/com/google/firebase/auth/internal/IdTokenListenerImplementor.java" bodystart="28" bodyend="31"/>
+      </memberdef>
+      <memberdef kind="function" id="classmono_1_1com_1_1google_1_1firebase_1_1auth_1_1internal_1_1_id_token_listener_implementor_1ae249d75f77c5c1e0d4bc58059b0e1963" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void mono.com.google.firebase.auth.internal.IdTokenListenerImplementor.monodroidAddReference</definition>
+        <argsstring>(java.lang.Object obj)</argsstring>
+        <name>monodroidAddReference</name>
+        <param>
+          <type>java.lang.Object</type>
+          <declname>obj</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/100/android/src/mono/com/google/firebase/auth/internal/IdTokenListenerImplementor.java" line="36" column="13" bodyfile="Application Green Quake.Android/obj/Release/100/android/src/mono/com/google/firebase/auth/internal/IdTokenListenerImplementor.java" bodystart="36" bodyend="41"/>
+      </memberdef>
+      <memberdef kind="function" id="classmono_1_1com_1_1google_1_1firebase_1_1auth_1_1internal_1_1_id_token_listener_implementor_1a66b1b630e3d1fc1e792dc12b618c0ef8" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void mono.com.google.firebase.auth.internal.IdTokenListenerImplementor.monodroidClearReferences</definition>
+        <argsstring>()</argsstring>
+        <name>monodroidClearReferences</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/100/android/src/mono/com/google/firebase/auth/internal/IdTokenListenerImplementor.java" line="43" column="13" bodyfile="Application Green Quake.Android/obj/Release/100/android/src/mono/com/google/firebase/auth/internal/IdTokenListenerImplementor.java" bodystart="43" bodyend="47"/>
+      </memberdef>
+      <memberdef kind="function" id="classmono_1_1com_1_1google_1_1firebase_1_1auth_1_1internal_1_1_id_token_listener_implementor_1a5dd81e32cc49b9b353a2d7d9c8365abc" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>mono.com.google.firebase.auth.internal.IdTokenListenerImplementor.IdTokenListenerImplementor</definition>
+        <argsstring>()</argsstring>
+        <name>IdTokenListenerImplementor</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/110/android/src/mono/com/google/firebase/auth/internal/IdTokenListenerImplementor.java" line="20" column="8" bodyfile="Application Green Quake.Android/obj/Release/110/android/src/mono/com/google/firebase/auth/internal/IdTokenListenerImplementor.java" bodystart="20" bodyend="25"/>
+      </memberdef>
+      <memberdef kind="function" id="classmono_1_1com_1_1google_1_1firebase_1_1auth_1_1internal_1_1_id_token_listener_implementor_1a4161a43cc9e014bf9207769ac8083297" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void mono.com.google.firebase.auth.internal.IdTokenListenerImplementor.onIdTokenChanged</definition>
+        <argsstring>(com.google.firebase.internal.InternalTokenResult p0)</argsstring>
+        <name>onIdTokenChanged</name>
+        <param>
+          <type>com.google.firebase.internal.InternalTokenResult</type>
+          <declname>p0</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/110/android/src/mono/com/google/firebase/auth/internal/IdTokenListenerImplementor.java" line="28" column="13" bodyfile="Application Green Quake.Android/obj/Release/110/android/src/mono/com/google/firebase/auth/internal/IdTokenListenerImplementor.java" bodystart="28" bodyend="31"/>
+      </memberdef>
+      <memberdef kind="function" id="classmono_1_1com_1_1google_1_1firebase_1_1auth_1_1internal_1_1_id_token_listener_implementor_1ae249d75f77c5c1e0d4bc58059b0e1963" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void mono.com.google.firebase.auth.internal.IdTokenListenerImplementor.monodroidAddReference</definition>
+        <argsstring>(java.lang.Object obj)</argsstring>
+        <name>monodroidAddReference</name>
+        <param>
+          <type>java.lang.Object</type>
+          <declname>obj</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/110/android/src/mono/com/google/firebase/auth/internal/IdTokenListenerImplementor.java" line="36" column="13" bodyfile="Application Green Quake.Android/obj/Release/110/android/src/mono/com/google/firebase/auth/internal/IdTokenListenerImplementor.java" bodystart="36" bodyend="41"/>
+      </memberdef>
+      <memberdef kind="function" id="classmono_1_1com_1_1google_1_1firebase_1_1auth_1_1internal_1_1_id_token_listener_implementor_1a66b1b630e3d1fc1e792dc12b618c0ef8" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void mono.com.google.firebase.auth.internal.IdTokenListenerImplementor.monodroidClearReferences</definition>
+        <argsstring>()</argsstring>
+        <name>monodroidClearReferences</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/110/android/src/mono/com/google/firebase/auth/internal/IdTokenListenerImplementor.java" line="43" column="13" bodyfile="Application Green Quake.Android/obj/Release/110/android/src/mono/com/google/firebase/auth/internal/IdTokenListenerImplementor.java" bodystart="43" bodyend="47"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="private-func">
+      <memberdef kind="function" id="classmono_1_1com_1_1google_1_1firebase_1_1auth_1_1internal_1_1_id_token_listener_implementor_1a953662230cc986f22d8aad8825fe7345" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>native void</type>
+        <definition>native void mono.com.google.firebase.auth.internal.IdTokenListenerImplementor.n_onIdTokenChanged</definition>
+        <argsstring>(com.google.firebase.internal.InternalTokenResult p0)</argsstring>
+        <name>n_onIdTokenChanged</name>
+        <param>
+          <type>com.google.firebase.internal.InternalTokenResult</type>
+          <declname>p0</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/100/android/src/mono/com/google/firebase/auth/internal/IdTokenListenerImplementor.java" line="33" column="21"/>
+      </memberdef>
+      <memberdef kind="function" id="classmono_1_1com_1_1google_1_1firebase_1_1auth_1_1internal_1_1_id_token_listener_implementor_1a953662230cc986f22d8aad8825fe7345" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>native void</type>
+        <definition>native void mono.com.google.firebase.auth.internal.IdTokenListenerImplementor.n_onIdTokenChanged</definition>
+        <argsstring>(com.google.firebase.internal.InternalTokenResult p0)</argsstring>
+        <name>n_onIdTokenChanged</name>
+        <param>
+          <type>com.google.firebase.internal.InternalTokenResult</type>
+          <declname>p0</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/110/android/src/mono/com/google/firebase/auth/internal/IdTokenListenerImplementor.java" line="33" column="21"/>
+      </memberdef>
+      <memberdef kind="function" id="classmono_1_1com_1_1google_1_1firebase_1_1auth_1_1internal_1_1_id_token_listener_implementor_1a953662230cc986f22d8aad8825fe7345" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>native void</type>
+        <definition>native void mono.com.google.firebase.auth.internal.IdTokenListenerImplementor.n_onIdTokenChanged</definition>
+        <argsstring>(com.google.firebase.internal.InternalTokenResult p0)</argsstring>
+        <name>n_onIdTokenChanged</name>
+        <param>
+          <type>com.google.firebase.internal.InternalTokenResult</type>
+          <declname>p0</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/100/android/src/mono/com/google/firebase/auth/internal/IdTokenListenerImplementor.java" line="33" column="21"/>
+      </memberdef>
+      <memberdef kind="function" id="classmono_1_1com_1_1google_1_1firebase_1_1auth_1_1internal_1_1_id_token_listener_implementor_1a953662230cc986f22d8aad8825fe7345" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>native void</type>
+        <definition>native void mono.com.google.firebase.auth.internal.IdTokenListenerImplementor.n_onIdTokenChanged</definition>
+        <argsstring>(com.google.firebase.internal.InternalTokenResult p0)</argsstring>
+        <name>n_onIdTokenChanged</name>
+        <param>
+          <type>com.google.firebase.internal.InternalTokenResult</type>
+          <declname>p0</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/110/android/src/mono/com/google/firebase/auth/internal/IdTokenListenerImplementor.java" line="33" column="21"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <inheritancegraph>
+      <node id="1">
+        <label>mono.com.google.firebase.auth.internal.IdTokenListenerImplementor</label>
+        <link refid="classmono_1_1com_1_1google_1_1firebase_1_1auth_1_1internal_1_1_id_token_listener_implementor"/>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+        <childnode refid="3" relation="public-inheritance">
+        </childnode>
+        <childnode refid="4" relation="public-inheritance">
+        </childnode>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+        <childnode refid="3" relation="public-inheritance">
+        </childnode>
+        <childnode refid="5" relation="public-inheritance">
+        </childnode>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+        <childnode refid="3" relation="public-inheritance">
+        </childnode>
+        <childnode refid="5" relation="public-inheritance">
+        </childnode>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+        <childnode refid="3" relation="public-inheritance">
+        </childnode>
+        <childnode refid="5" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="4">
+        <label>com::google::firebase::auth::internal::IdTokenListener</label>
+      </node>
+      <node id="5">
+        <label>com.google.firebase.auth.internal.IdTokenListener</label>
+      </node>
+      <node id="3">
+        <label>mono.android.IGCUserPeer</label>
+      </node>
+      <node id="2">
+        <label>java.lang.Object</label>
+      </node>
+    </inheritancegraph>
+    <collaborationgraph>
+      <node id="1">
+        <label>mono.com.google.firebase.auth.internal.IdTokenListenerImplementor</label>
+        <link refid="classmono_1_1com_1_1google_1_1firebase_1_1auth_1_1internal_1_1_id_token_listener_implementor"/>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+        <childnode refid="3" relation="public-inheritance">
+        </childnode>
+        <childnode refid="4" relation="public-inheritance">
+        </childnode>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+        <childnode refid="3" relation="public-inheritance">
+        </childnode>
+        <childnode refid="5" relation="public-inheritance">
+        </childnode>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+        <childnode refid="3" relation="public-inheritance">
+        </childnode>
+        <childnode refid="5" relation="public-inheritance">
+        </childnode>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+        <childnode refid="3" relation="public-inheritance">
+        </childnode>
+        <childnode refid="5" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="4">
+        <label>com::google::firebase::auth::internal::IdTokenListener</label>
+      </node>
+      <node id="5">
+        <label>com.google.firebase.auth.internal.IdTokenListener</label>
+      </node>
+      <node id="3">
+        <label>mono.android.IGCUserPeer</label>
+      </node>
+      <node id="2">
+        <label>java.lang.Object</label>
+      </node>
+    </collaborationgraph>
+    <location file="Application Green Quake.Android/obj/Debug/100/android/src/mono/com/google/firebase/auth/internal/IdTokenListenerImplementor.java" line="4" column="7" bodyfile="Application Green Quake.Android/obj/Debug/100/android/src/mono/com/google/firebase/auth/internal/IdTokenListenerImplementor.java" bodystart="9" bodyend="48"/>
+    <listofallmembers>
+      <member refid="classmono_1_1com_1_1google_1_1firebase_1_1auth_1_1internal_1_1_id_token_listener_implementor_1a8a91ba78070fd735ad66acd24165e558" prot="package" virt="non-virtual"><scope>mono::com::google::firebase::auth::internal::IdTokenListenerImplementor</scope><name>[static initializer]</name></member>
+      <member refid="classmono_1_1com_1_1google_1_1firebase_1_1auth_1_1internal_1_1_id_token_listener_implementor_1a8a91ba78070fd735ad66acd24165e558" prot="package" virt="non-virtual"><scope>mono::com::google::firebase::auth::internal::IdTokenListenerImplementor</scope><name>[static initializer]</name></member>
+      <member refid="classmono_1_1com_1_1google_1_1firebase_1_1auth_1_1internal_1_1_id_token_listener_implementor_1a8a91ba78070fd735ad66acd24165e558" prot="package" virt="non-virtual"><scope>mono::com::google::firebase::auth::internal::IdTokenListenerImplementor</scope><name>[static initializer]</name></member>
+      <member refid="classmono_1_1com_1_1google_1_1firebase_1_1auth_1_1internal_1_1_id_token_listener_implementor_1a8a91ba78070fd735ad66acd24165e558" prot="package" virt="non-virtual"><scope>mono::com::google::firebase::auth::internal::IdTokenListenerImplementor</scope><name>[static initializer]</name></member>
+      <member refid="classmono_1_1com_1_1google_1_1firebase_1_1auth_1_1internal_1_1_id_token_listener_implementor_1a7d0eb59b6fea2475c51fdd29f59c6b96" prot="public" virt="non-virtual"><scope>mono::com::google::firebase::auth::internal::IdTokenListenerImplementor</scope><name>__md_methods</name></member>
+      <member refid="classmono_1_1com_1_1google_1_1firebase_1_1auth_1_1internal_1_1_id_token_listener_implementor_1a5dd81e32cc49b9b353a2d7d9c8365abc" prot="public" virt="non-virtual"><scope>mono::com::google::firebase::auth::internal::IdTokenListenerImplementor</scope><name>IdTokenListenerImplementor</name></member>
+      <member refid="classmono_1_1com_1_1google_1_1firebase_1_1auth_1_1internal_1_1_id_token_listener_implementor_1a5dd81e32cc49b9b353a2d7d9c8365abc" prot="public" virt="non-virtual"><scope>mono::com::google::firebase::auth::internal::IdTokenListenerImplementor</scope><name>IdTokenListenerImplementor</name></member>
+      <member refid="classmono_1_1com_1_1google_1_1firebase_1_1auth_1_1internal_1_1_id_token_listener_implementor_1a5dd81e32cc49b9b353a2d7d9c8365abc" prot="public" virt="non-virtual"><scope>mono::com::google::firebase::auth::internal::IdTokenListenerImplementor</scope><name>IdTokenListenerImplementor</name></member>
+      <member refid="classmono_1_1com_1_1google_1_1firebase_1_1auth_1_1internal_1_1_id_token_listener_implementor_1a5dd81e32cc49b9b353a2d7d9c8365abc" prot="public" virt="non-virtual"><scope>mono::com::google::firebase::auth::internal::IdTokenListenerImplementor</scope><name>IdTokenListenerImplementor</name></member>
+      <member refid="classmono_1_1com_1_1google_1_1firebase_1_1auth_1_1internal_1_1_id_token_listener_implementor_1ae249d75f77c5c1e0d4bc58059b0e1963" prot="public" virt="non-virtual"><scope>mono::com::google::firebase::auth::internal::IdTokenListenerImplementor</scope><name>monodroidAddReference</name></member>
+      <member refid="classmono_1_1com_1_1google_1_1firebase_1_1auth_1_1internal_1_1_id_token_listener_implementor_1ae249d75f77c5c1e0d4bc58059b0e1963" prot="public" virt="non-virtual"><scope>mono::com::google::firebase::auth::internal::IdTokenListenerImplementor</scope><name>monodroidAddReference</name></member>
+      <member refid="classmono_1_1com_1_1google_1_1firebase_1_1auth_1_1internal_1_1_id_token_listener_implementor_1ae249d75f77c5c1e0d4bc58059b0e1963" prot="public" virt="non-virtual"><scope>mono::com::google::firebase::auth::internal::IdTokenListenerImplementor</scope><name>monodroidAddReference</name></member>
+      <member refid="classmono_1_1com_1_1google_1_1firebase_1_1auth_1_1internal_1_1_id_token_listener_implementor_1ae249d75f77c5c1e0d4bc58059b0e1963" prot="public" virt="non-virtual"><scope>mono::com::google::firebase::auth::internal::IdTokenListenerImplementor</scope><name>monodroidAddReference</name></member>
+      <member refid="classmono_1_1com_1_1google_1_1firebase_1_1auth_1_1internal_1_1_id_token_listener_implementor_1a66b1b630e3d1fc1e792dc12b618c0ef8" prot="public" virt="non-virtual"><scope>mono::com::google::firebase::auth::internal::IdTokenListenerImplementor</scope><name>monodroidClearReferences</name></member>
+      <member refid="classmono_1_1com_1_1google_1_1firebase_1_1auth_1_1internal_1_1_id_token_listener_implementor_1a66b1b630e3d1fc1e792dc12b618c0ef8" prot="public" virt="non-virtual"><scope>mono::com::google::firebase::auth::internal::IdTokenListenerImplementor</scope><name>monodroidClearReferences</name></member>
+      <member refid="classmono_1_1com_1_1google_1_1firebase_1_1auth_1_1internal_1_1_id_token_listener_implementor_1a66b1b630e3d1fc1e792dc12b618c0ef8" prot="public" virt="non-virtual"><scope>mono::com::google::firebase::auth::internal::IdTokenListenerImplementor</scope><name>monodroidClearReferences</name></member>
+      <member refid="classmono_1_1com_1_1google_1_1firebase_1_1auth_1_1internal_1_1_id_token_listener_implementor_1a66b1b630e3d1fc1e792dc12b618c0ef8" prot="public" virt="non-virtual"><scope>mono::com::google::firebase::auth::internal::IdTokenListenerImplementor</scope><name>monodroidClearReferences</name></member>
+      <member refid="classmono_1_1com_1_1google_1_1firebase_1_1auth_1_1internal_1_1_id_token_listener_implementor_1a953662230cc986f22d8aad8825fe7345" prot="private" virt="non-virtual"><scope>mono::com::google::firebase::auth::internal::IdTokenListenerImplementor</scope><name>n_onIdTokenChanged</name></member>
+      <member refid="classmono_1_1com_1_1google_1_1firebase_1_1auth_1_1internal_1_1_id_token_listener_implementor_1a953662230cc986f22d8aad8825fe7345" prot="private" virt="non-virtual"><scope>mono::com::google::firebase::auth::internal::IdTokenListenerImplementor</scope><name>n_onIdTokenChanged</name></member>
+      <member refid="classmono_1_1com_1_1google_1_1firebase_1_1auth_1_1internal_1_1_id_token_listener_implementor_1a953662230cc986f22d8aad8825fe7345" prot="private" virt="non-virtual"><scope>mono::com::google::firebase::auth::internal::IdTokenListenerImplementor</scope><name>n_onIdTokenChanged</name></member>
+      <member refid="classmono_1_1com_1_1google_1_1firebase_1_1auth_1_1internal_1_1_id_token_listener_implementor_1a953662230cc986f22d8aad8825fe7345" prot="private" virt="non-virtual"><scope>mono::com::google::firebase::auth::internal::IdTokenListenerImplementor</scope><name>n_onIdTokenChanged</name></member>
+      <member refid="classmono_1_1com_1_1google_1_1firebase_1_1auth_1_1internal_1_1_id_token_listener_implementor_1a4161a43cc9e014bf9207769ac8083297" prot="public" virt="non-virtual"><scope>mono::com::google::firebase::auth::internal::IdTokenListenerImplementor</scope><name>onIdTokenChanged</name></member>
+      <member refid="classmono_1_1com_1_1google_1_1firebase_1_1auth_1_1internal_1_1_id_token_listener_implementor_1a4161a43cc9e014bf9207769ac8083297" prot="public" virt="non-virtual"><scope>mono::com::google::firebase::auth::internal::IdTokenListenerImplementor</scope><name>onIdTokenChanged</name></member>
+      <member refid="classmono_1_1com_1_1google_1_1firebase_1_1auth_1_1internal_1_1_id_token_listener_implementor_1a4161a43cc9e014bf9207769ac8083297" prot="public" virt="non-virtual"><scope>mono::com::google::firebase::auth::internal::IdTokenListenerImplementor</scope><name>onIdTokenChanged</name></member>
+      <member refid="classmono_1_1com_1_1google_1_1firebase_1_1auth_1_1internal_1_1_id_token_listener_implementor_1a4161a43cc9e014bf9207769ac8083297" prot="public" virt="non-virtual"><scope>mono::com::google::firebase::auth::internal::IdTokenListenerImplementor</scope><name>onIdTokenChanged</name></member>
+      <member refid="classmono_1_1com_1_1google_1_1firebase_1_1auth_1_1internal_1_1_id_token_listener_implementor_1a8efae0d1fffd5b8843b44ba64c6aa0b6" prot="private" virt="non-virtual"><scope>mono::com::google::firebase::auth::internal::IdTokenListenerImplementor</scope><name>refList</name></member>
+    </listofallmembers>
+  </compounddef>
+</doxygen>

@@ -1,0 +1,16 @@
+var namespace_application___green___quake_1_1_views_1_1_eco_actions_1_1_shopping =
+[
+    [ "ClothNapkins", "class_application___green___quake_1_1_views_1_1_eco_actions_1_1_shopping_1_1_cloth_napkins.html", "class_application___green___quake_1_1_views_1_1_eco_actions_1_1_shopping_1_1_cloth_napkins" ],
+    [ "ClothTowels", "class_application___green___quake_1_1_views_1_1_eco_actions_1_1_shopping_1_1_cloth_towels.html", "class_application___green___quake_1_1_views_1_1_eco_actions_1_1_shopping_1_1_cloth_towels" ],
+    [ "EcoFreidnlyApplicance", "class_application___green___quake_1_1_views_1_1_eco_actions_1_1_shopping_1_1_eco_freidnly_applicance.html", "class_application___green___quake_1_1_views_1_1_eco_actions_1_1_shopping_1_1_eco_freidnly_applicance" ],
+    [ "EcoFriendlyProduct", "class_application___green___quake_1_1_views_1_1_eco_actions_1_1_shopping_1_1_eco_friendly_product.html", "class_application___green___quake_1_1_views_1_1_eco_actions_1_1_shopping_1_1_eco_friendly_product" ],
+    [ "EcoFriendlyToothbrush", "class_application___green___quake_1_1_views_1_1_eco_actions_1_1_shopping_1_1_eco_friendly_toothbrush.html", "class_application___green___quake_1_1_views_1_1_eco_actions_1_1_shopping_1_1_eco_friendly_toothbrush" ],
+    [ "EthicalClothes", "class_application___green___quake_1_1_views_1_1_eco_actions_1_1_shopping_1_1_ethical_clothes.html", "class_application___green___quake_1_1_views_1_1_eco_actions_1_1_shopping_1_1_ethical_clothes" ],
+    [ "FoodInBulk", "class_application___green___quake_1_1_views_1_1_eco_actions_1_1_shopping_1_1_food_in_bulk.html", "class_application___green___quake_1_1_views_1_1_eco_actions_1_1_shopping_1_1_food_in_bulk" ],
+    [ "LocalProduct", "class_application___green___quake_1_1_views_1_1_eco_actions_1_1_shopping_1_1_local_product.html", "class_application___green___quake_1_1_views_1_1_eco_actions_1_1_shopping_1_1_local_product" ],
+    [ "LooseLeafTea", "class_application___green___quake_1_1_views_1_1_eco_actions_1_1_shopping_1_1_loose_leaf_tea.html", "class_application___green___quake_1_1_views_1_1_eco_actions_1_1_shopping_1_1_loose_leaf_tea" ],
+    [ "OrganicFood", "class_application___green___quake_1_1_views_1_1_eco_actions_1_1_shopping_1_1_organic_food.html", "class_application___green___quake_1_1_views_1_1_eco_actions_1_1_shopping_1_1_organic_food" ],
+    [ "PurchaseReusableWater", "class_application___green___quake_1_1_views_1_1_eco_actions_1_1_shopping_1_1_purchase_reusable_water.html", "class_application___green___quake_1_1_views_1_1_eco_actions_1_1_shopping_1_1_purchase_reusable_water" ],
+    [ "ReBatteries", "class_application___green___quake_1_1_views_1_1_eco_actions_1_1_shopping_1_1_re_batteries.html", "class_application___green___quake_1_1_views_1_1_eco_actions_1_1_shopping_1_1_re_batteries" ],
+    [ "ReusableBag", "class_application___green___quake_1_1_views_1_1_eco_actions_1_1_shopping_1_1_reusable_bag.html", "class_application___green___quake_1_1_views_1_1_eco_actions_1_1_shopping_1_1_reusable_bag" ]
+];

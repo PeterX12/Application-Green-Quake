@@ -1,0 +1,1746 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.9.1" xml:lang="en-US">
+  <compounddef id="classcrc64720bb2db43a66fe9_1_1_button_renderer" kind="class" language="Java" prot="public">
+    <compoundname>crc64720bb2db43a66fe9::ButtonRenderer</compoundname>
+    <basecompoundref refid="classcrc64720bb2db43a66fe9_1_1_view_renderer__2" prot="public" virt="non-virtual">crc64720bb2db43a66fe9.ViewRenderer_2</basecompoundref>
+    <basecompoundref prot="public" virt="non-virtual">mono.android.IGCUserPeer</basecompoundref>
+    <basecompoundref prot="public" virt="non-virtual">android.view.View.OnAttachStateChangeListener</basecompoundref>
+    <basecompoundref prot="public" virt="non-virtual">android.view.View.OnClickListener</basecompoundref>
+    <basecompoundref prot="public" virt="non-virtual">android.view.View.OnTouchListener</basecompoundref>
+    <basecompoundref refid="classcrc64720bb2db43a66fe9_1_1_view_renderer__2" prot="public" virt="non-virtual">crc64720bb2db43a66fe9.ViewRenderer_2</basecompoundref>
+    <basecompoundref prot="public" virt="non-virtual">mono.android.IGCUserPeer</basecompoundref>
+    <basecompoundref prot="public" virt="non-virtual">android.view.View.OnAttachStateChangeListener</basecompoundref>
+    <basecompoundref prot="public" virt="non-virtual">android.view.View.OnClickListener</basecompoundref>
+    <basecompoundref prot="public" virt="non-virtual">android.view.View.OnTouchListener</basecompoundref>
+    <basecompoundref refid="classcrc64720bb2db43a66fe9_1_1_view_renderer__2" prot="public" virt="non-virtual">crc64720bb2db43a66fe9.ViewRenderer_2</basecompoundref>
+    <basecompoundref prot="public" virt="non-virtual">mono.android.IGCUserPeer</basecompoundref>
+    <basecompoundref prot="public" virt="non-virtual">android.view.View.OnAttachStateChangeListener</basecompoundref>
+    <basecompoundref prot="public" virt="non-virtual">android.view.View.OnClickListener</basecompoundref>
+    <basecompoundref prot="public" virt="non-virtual">android.view.View.OnTouchListener</basecompoundref>
+    <basecompoundref refid="classcrc64720bb2db43a66fe9_1_1_view_renderer__2" prot="public" virt="non-virtual">crc64720bb2db43a66fe9.ViewRenderer_2</basecompoundref>
+    <basecompoundref prot="public" virt="non-virtual">mono.android.IGCUserPeer</basecompoundref>
+    <basecompoundref prot="public" virt="non-virtual">android.view.View.OnAttachStateChangeListener</basecompoundref>
+    <basecompoundref prot="public" virt="non-virtual">android.view.View.OnClickListener</basecompoundref>
+    <basecompoundref prot="public" virt="non-virtual">android.view.View.OnTouchListener</basecompoundref>
+      <sectiondef kind="public-static-attrib">
+      <memberdef kind="variable" id="classcrc64720bb2db43a66fe9_1_1_button_renderer_1ad726ec68ef067e090e25138374174e14" prot="public" static="yes" mutable="no">
+        <type>final String</type>
+        <definition>static final String crc64720bb2db43a66fe9.ButtonRenderer::__md_methods</definition>
+        <argsstring></argsstring>
+        <name>__md_methods</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+<para>@hide </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/100/android/src/crc64720bb2db43a66fe9/ButtonRenderer.java" line="13" column="28" bodyfile="Application Green Quake.Android/obj/Debug/100/android/src/crc64720bb2db43a66fe9/ButtonRenderer.java" bodystart="13" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="private-attrib">
+      <memberdef kind="variable" id="classcrc64720bb2db43a66fe9_1_1_button_renderer_1aa5fd9b5655eb47acd7717dafd7a650fc" prot="private" static="no" mutable="no">
+        <type>java.util.ArrayList</type>
+        <definition>java util ArrayList crc64720bb2db43a66fe9.ButtonRenderer::refList</definition>
+        <argsstring></argsstring>
+        <name>refList</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/100/android/src/crc64720bb2db43a66fe9/ButtonRenderer.java" line="89" column="27" bodyfile="Application Green Quake.Android/obj/Debug/100/android/src/crc64720bb2db43a66fe9/ButtonRenderer.java" bodystart="89" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="package-static-func">
+      <memberdef kind="function" id="classcrc64720bb2db43a66fe9_1_1_button_renderer_1aa50df901442ba4d255605a67b1568105" prot="package" static="yes" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>crc64720bb2db43a66fe9.ButtonRenderer.[static initializer]</definition>
+        <argsstring></argsstring>
+        <name>[static initializer]</name>
+        <reimplements refid="classcrc64720bb2db43a66fe9_1_1_view_renderer__2_1a5f0fbe13bde43be5eeb6ccf31aa935d8">[static initializer]</reimplements>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/100/android/src/crc64720bb2db43a66fe9/ButtonRenderer.java" line="13" column="28"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc64720bb2db43a66fe9_1_1_button_renderer_1aa50df901442ba4d255605a67b1568105" prot="package" static="yes" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>crc64720bb2db43a66fe9.ButtonRenderer.[static initializer]</definition>
+        <argsstring></argsstring>
+        <name>[static initializer]</name>
+        <reimplements refid="classcrc64720bb2db43a66fe9_1_1_view_renderer__2_1a5f0fbe13bde43be5eeb6ccf31aa935d8">[static initializer]</reimplements>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/110/android/src/crc64720bb2db43a66fe9/ButtonRenderer.java" line="13" column="28"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc64720bb2db43a66fe9_1_1_button_renderer_1aa50df901442ba4d255605a67b1568105" prot="package" static="yes" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>crc64720bb2db43a66fe9.ButtonRenderer.[static initializer]</definition>
+        <argsstring></argsstring>
+        <name>[static initializer]</name>
+        <reimplements refid="classcrc64720bb2db43a66fe9_1_1_view_renderer__2_1a5f0fbe13bde43be5eeb6ccf31aa935d8">[static initializer]</reimplements>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/100/android/src/crc64720bb2db43a66fe9/ButtonRenderer.java" line="13" column="28"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc64720bb2db43a66fe9_1_1_button_renderer_1aa50df901442ba4d255605a67b1568105" prot="package" static="yes" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>crc64720bb2db43a66fe9.ButtonRenderer.[static initializer]</definition>
+        <argsstring></argsstring>
+        <name>[static initializer]</name>
+        <reimplements refid="classcrc64720bb2db43a66fe9_1_1_view_renderer__2_1a5f0fbe13bde43be5eeb6ccf31aa935d8">[static initializer]</reimplements>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/110/android/src/crc64720bb2db43a66fe9/ButtonRenderer.java" line="13" column="28"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="public-func">
+      <memberdef kind="function" id="classcrc64720bb2db43a66fe9_1_1_button_renderer_1a1cd73012f6a18a6d6554767308c546ca" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>crc64720bb2db43a66fe9.ButtonRenderer.ButtonRenderer</definition>
+        <argsstring>(android.content.Context p0, android.util.AttributeSet p1, int p2)</argsstring>
+        <name>ButtonRenderer</name>
+        <param>
+          <type>android.content.Context</type>
+          <declname>p0</declname>
+        </param>
+        <param>
+          <type>android.util.AttributeSet</type>
+          <declname>p1</declname>
+        </param>
+        <param>
+          <type>int</type>
+          <declname>p2</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/100/android/src/crc64720bb2db43a66fe9/ButtonRenderer.java" line="26" column="8" bodyfile="Application Green Quake.Android/obj/Debug/100/android/src/crc64720bb2db43a66fe9/ButtonRenderer.java" bodystart="26" bodyend="31"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc64720bb2db43a66fe9_1_1_button_renderer_1abc604c3494d6aa24e1333f64e1317e89" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>crc64720bb2db43a66fe9.ButtonRenderer.ButtonRenderer</definition>
+        <argsstring>(android.content.Context p0, android.util.AttributeSet p1)</argsstring>
+        <name>ButtonRenderer</name>
+        <param>
+          <type>android.content.Context</type>
+          <declname>p0</declname>
+        </param>
+        <param>
+          <type>android.util.AttributeSet</type>
+          <declname>p1</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/100/android/src/crc64720bb2db43a66fe9/ButtonRenderer.java" line="34" column="8" bodyfile="Application Green Quake.Android/obj/Debug/100/android/src/crc64720bb2db43a66fe9/ButtonRenderer.java" bodystart="34" bodyend="39"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc64720bb2db43a66fe9_1_1_button_renderer_1ada4bc0824afa30b7ee0adb4c79b3e676" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>crc64720bb2db43a66fe9.ButtonRenderer.ButtonRenderer</definition>
+        <argsstring>(android.content.Context p0)</argsstring>
+        <name>ButtonRenderer</name>
+        <param>
+          <type>android.content.Context</type>
+          <declname>p0</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/100/android/src/crc64720bb2db43a66fe9/ButtonRenderer.java" line="42" column="8" bodyfile="Application Green Quake.Android/obj/Debug/100/android/src/crc64720bb2db43a66fe9/ButtonRenderer.java" bodystart="42" bodyend="47"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc64720bb2db43a66fe9_1_1_button_renderer_1ae919cf63fc9c9dc31a3abcc5d2e874c3" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void crc64720bb2db43a66fe9.ButtonRenderer.onLayout</definition>
+        <argsstring>(boolean p0, int p1, int p2, int p3, int p4)</argsstring>
+        <name>onLayout</name>
+        <reimplements refid="classcrc643f46942d9dd1fff9_1_1_view_renderer__2_1a1e8de2d40d787901b8f14839810a5721">onLayout</reimplements>
+        <param>
+          <type>boolean</type>
+          <declname>p0</declname>
+        </param>
+        <param>
+          <type>int</type>
+          <declname>p1</declname>
+        </param>
+        <param>
+          <type>int</type>
+          <declname>p2</declname>
+        </param>
+        <param>
+          <type>int</type>
+          <declname>p3</declname>
+        </param>
+        <param>
+          <type>int</type>
+          <declname>p4</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/100/android/src/crc64720bb2db43a66fe9/ButtonRenderer.java" line="50" column="13" bodyfile="Application Green Quake.Android/obj/Debug/100/android/src/crc64720bb2db43a66fe9/ButtonRenderer.java" bodystart="50" bodyend="53"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc64720bb2db43a66fe9_1_1_button_renderer_1abb4d3331e03259e3b4356eb3be0509ae" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void crc64720bb2db43a66fe9.ButtonRenderer.onViewAttachedToWindow</definition>
+        <argsstring>(android.view.View p0)</argsstring>
+        <name>onViewAttachedToWindow</name>
+        <param>
+          <type>android.view.View</type>
+          <declname>p0</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/100/android/src/crc64720bb2db43a66fe9/ButtonRenderer.java" line="58" column="13" bodyfile="Application Green Quake.Android/obj/Debug/100/android/src/crc64720bb2db43a66fe9/ButtonRenderer.java" bodystart="58" bodyend="61"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc64720bb2db43a66fe9_1_1_button_renderer_1a4e974061230d236c0cad514b63b0f24b" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void crc64720bb2db43a66fe9.ButtonRenderer.onViewDetachedFromWindow</definition>
+        <argsstring>(android.view.View p0)</argsstring>
+        <name>onViewDetachedFromWindow</name>
+        <param>
+          <type>android.view.View</type>
+          <declname>p0</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/100/android/src/crc64720bb2db43a66fe9/ButtonRenderer.java" line="66" column="13" bodyfile="Application Green Quake.Android/obj/Debug/100/android/src/crc64720bb2db43a66fe9/ButtonRenderer.java" bodystart="66" bodyend="69"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc64720bb2db43a66fe9_1_1_button_renderer_1aba2c80a3a220754685a821545b8f50c5" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void crc64720bb2db43a66fe9.ButtonRenderer.onClick</definition>
+        <argsstring>(android.view.View p0)</argsstring>
+        <name>onClick</name>
+        <param>
+          <type>android.view.View</type>
+          <declname>p0</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/100/android/src/crc64720bb2db43a66fe9/ButtonRenderer.java" line="74" column="13" bodyfile="Application Green Quake.Android/obj/Debug/100/android/src/crc64720bb2db43a66fe9/ButtonRenderer.java" bodystart="74" bodyend="77"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc64720bb2db43a66fe9_1_1_button_renderer_1abf128b3c03571438be32ce230cb2b754" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>boolean</type>
+        <definition>boolean crc64720bb2db43a66fe9.ButtonRenderer.onTouch</definition>
+        <argsstring>(android.view.View p0, android.view.MotionEvent p1)</argsstring>
+        <name>onTouch</name>
+        <param>
+          <type>android.view.View</type>
+          <declname>p0</declname>
+        </param>
+        <param>
+          <type>android.view.MotionEvent</type>
+          <declname>p1</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/100/android/src/crc64720bb2db43a66fe9/ButtonRenderer.java" line="82" column="16" bodyfile="Application Green Quake.Android/obj/Debug/100/android/src/crc64720bb2db43a66fe9/ButtonRenderer.java" bodystart="82" bodyend="85"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc64720bb2db43a66fe9_1_1_button_renderer_1adf1f41034c7453dca107268e40b98d89" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void crc64720bb2db43a66fe9.ButtonRenderer.monodroidAddReference</definition>
+        <argsstring>(java.lang.Object obj)</argsstring>
+        <name>monodroidAddReference</name>
+        <reimplements refid="classcrc64720bb2db43a66fe9_1_1_view_renderer__2_1a39cc74f26fce43b835aa1301ac828dc0">monodroidAddReference</reimplements>
+        <param>
+          <type>java.lang.Object</type>
+          <declname>obj</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/100/android/src/crc64720bb2db43a66fe9/ButtonRenderer.java" line="90" column="13" bodyfile="Application Green Quake.Android/obj/Debug/100/android/src/crc64720bb2db43a66fe9/ButtonRenderer.java" bodystart="90" bodyend="95"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc64720bb2db43a66fe9_1_1_button_renderer_1ae4f8a63c4128de628fd40373ce45242c" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void crc64720bb2db43a66fe9.ButtonRenderer.monodroidClearReferences</definition>
+        <argsstring>()</argsstring>
+        <name>monodroidClearReferences</name>
+        <reimplements refid="classcrc64720bb2db43a66fe9_1_1_view_renderer__2_1a24d066faa636faa75c999abaf2f9c7ca">monodroidClearReferences</reimplements>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/100/android/src/crc64720bb2db43a66fe9/ButtonRenderer.java" line="97" column="13" bodyfile="Application Green Quake.Android/obj/Debug/100/android/src/crc64720bb2db43a66fe9/ButtonRenderer.java" bodystart="97" bodyend="101"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc64720bb2db43a66fe9_1_1_button_renderer_1a1cd73012f6a18a6d6554767308c546ca" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>crc64720bb2db43a66fe9.ButtonRenderer.ButtonRenderer</definition>
+        <argsstring>(android.content.Context p0, android.util.AttributeSet p1, int p2)</argsstring>
+        <name>ButtonRenderer</name>
+        <param>
+          <type>android.content.Context</type>
+          <declname>p0</declname>
+        </param>
+        <param>
+          <type>android.util.AttributeSet</type>
+          <declname>p1</declname>
+        </param>
+        <param>
+          <type>int</type>
+          <declname>p2</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/110/android/src/crc64720bb2db43a66fe9/ButtonRenderer.java" line="26" column="8" bodyfile="Application Green Quake.Android/obj/Debug/110/android/src/crc64720bb2db43a66fe9/ButtonRenderer.java" bodystart="26" bodyend="31"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc64720bb2db43a66fe9_1_1_button_renderer_1abc604c3494d6aa24e1333f64e1317e89" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>crc64720bb2db43a66fe9.ButtonRenderer.ButtonRenderer</definition>
+        <argsstring>(android.content.Context p0, android.util.AttributeSet p1)</argsstring>
+        <name>ButtonRenderer</name>
+        <param>
+          <type>android.content.Context</type>
+          <declname>p0</declname>
+        </param>
+        <param>
+          <type>android.util.AttributeSet</type>
+          <declname>p1</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/110/android/src/crc64720bb2db43a66fe9/ButtonRenderer.java" line="34" column="8" bodyfile="Application Green Quake.Android/obj/Debug/110/android/src/crc64720bb2db43a66fe9/ButtonRenderer.java" bodystart="34" bodyend="39"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc64720bb2db43a66fe9_1_1_button_renderer_1ada4bc0824afa30b7ee0adb4c79b3e676" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>crc64720bb2db43a66fe9.ButtonRenderer.ButtonRenderer</definition>
+        <argsstring>(android.content.Context p0)</argsstring>
+        <name>ButtonRenderer</name>
+        <param>
+          <type>android.content.Context</type>
+          <declname>p0</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/110/android/src/crc64720bb2db43a66fe9/ButtonRenderer.java" line="42" column="8" bodyfile="Application Green Quake.Android/obj/Debug/110/android/src/crc64720bb2db43a66fe9/ButtonRenderer.java" bodystart="42" bodyend="47"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc64720bb2db43a66fe9_1_1_button_renderer_1ae919cf63fc9c9dc31a3abcc5d2e874c3" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void crc64720bb2db43a66fe9.ButtonRenderer.onLayout</definition>
+        <argsstring>(boolean p0, int p1, int p2, int p3, int p4)</argsstring>
+        <name>onLayout</name>
+        <reimplements refid="classcrc643f46942d9dd1fff9_1_1_view_renderer__2_1a1e8de2d40d787901b8f14839810a5721">onLayout</reimplements>
+        <param>
+          <type>boolean</type>
+          <declname>p0</declname>
+        </param>
+        <param>
+          <type>int</type>
+          <declname>p1</declname>
+        </param>
+        <param>
+          <type>int</type>
+          <declname>p2</declname>
+        </param>
+        <param>
+          <type>int</type>
+          <declname>p3</declname>
+        </param>
+        <param>
+          <type>int</type>
+          <declname>p4</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/110/android/src/crc64720bb2db43a66fe9/ButtonRenderer.java" line="50" column="13" bodyfile="Application Green Quake.Android/obj/Debug/110/android/src/crc64720bb2db43a66fe9/ButtonRenderer.java" bodystart="50" bodyend="53"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc64720bb2db43a66fe9_1_1_button_renderer_1abb4d3331e03259e3b4356eb3be0509ae" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void crc64720bb2db43a66fe9.ButtonRenderer.onViewAttachedToWindow</definition>
+        <argsstring>(android.view.View p0)</argsstring>
+        <name>onViewAttachedToWindow</name>
+        <param>
+          <type>android.view.View</type>
+          <declname>p0</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/110/android/src/crc64720bb2db43a66fe9/ButtonRenderer.java" line="58" column="13" bodyfile="Application Green Quake.Android/obj/Debug/110/android/src/crc64720bb2db43a66fe9/ButtonRenderer.java" bodystart="58" bodyend="61"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc64720bb2db43a66fe9_1_1_button_renderer_1a4e974061230d236c0cad514b63b0f24b" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void crc64720bb2db43a66fe9.ButtonRenderer.onViewDetachedFromWindow</definition>
+        <argsstring>(android.view.View p0)</argsstring>
+        <name>onViewDetachedFromWindow</name>
+        <param>
+          <type>android.view.View</type>
+          <declname>p0</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/110/android/src/crc64720bb2db43a66fe9/ButtonRenderer.java" line="66" column="13" bodyfile="Application Green Quake.Android/obj/Debug/110/android/src/crc64720bb2db43a66fe9/ButtonRenderer.java" bodystart="66" bodyend="69"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc64720bb2db43a66fe9_1_1_button_renderer_1aba2c80a3a220754685a821545b8f50c5" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void crc64720bb2db43a66fe9.ButtonRenderer.onClick</definition>
+        <argsstring>(android.view.View p0)</argsstring>
+        <name>onClick</name>
+        <param>
+          <type>android.view.View</type>
+          <declname>p0</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/110/android/src/crc64720bb2db43a66fe9/ButtonRenderer.java" line="74" column="13" bodyfile="Application Green Quake.Android/obj/Debug/110/android/src/crc64720bb2db43a66fe9/ButtonRenderer.java" bodystart="74" bodyend="77"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc64720bb2db43a66fe9_1_1_button_renderer_1abf128b3c03571438be32ce230cb2b754" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>boolean</type>
+        <definition>boolean crc64720bb2db43a66fe9.ButtonRenderer.onTouch</definition>
+        <argsstring>(android.view.View p0, android.view.MotionEvent p1)</argsstring>
+        <name>onTouch</name>
+        <param>
+          <type>android.view.View</type>
+          <declname>p0</declname>
+        </param>
+        <param>
+          <type>android.view.MotionEvent</type>
+          <declname>p1</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/110/android/src/crc64720bb2db43a66fe9/ButtonRenderer.java" line="82" column="16" bodyfile="Application Green Quake.Android/obj/Debug/110/android/src/crc64720bb2db43a66fe9/ButtonRenderer.java" bodystart="82" bodyend="85"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc64720bb2db43a66fe9_1_1_button_renderer_1adf1f41034c7453dca107268e40b98d89" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void crc64720bb2db43a66fe9.ButtonRenderer.monodroidAddReference</definition>
+        <argsstring>(java.lang.Object obj)</argsstring>
+        <name>monodroidAddReference</name>
+        <reimplements refid="classcrc64720bb2db43a66fe9_1_1_view_renderer__2_1a39cc74f26fce43b835aa1301ac828dc0">monodroidAddReference</reimplements>
+        <param>
+          <type>java.lang.Object</type>
+          <declname>obj</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/110/android/src/crc64720bb2db43a66fe9/ButtonRenderer.java" line="90" column="13" bodyfile="Application Green Quake.Android/obj/Debug/110/android/src/crc64720bb2db43a66fe9/ButtonRenderer.java" bodystart="90" bodyend="95"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc64720bb2db43a66fe9_1_1_button_renderer_1ae4f8a63c4128de628fd40373ce45242c" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void crc64720bb2db43a66fe9.ButtonRenderer.monodroidClearReferences</definition>
+        <argsstring>()</argsstring>
+        <name>monodroidClearReferences</name>
+        <reimplements refid="classcrc64720bb2db43a66fe9_1_1_view_renderer__2_1a24d066faa636faa75c999abaf2f9c7ca">monodroidClearReferences</reimplements>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/110/android/src/crc64720bb2db43a66fe9/ButtonRenderer.java" line="97" column="13" bodyfile="Application Green Quake.Android/obj/Debug/110/android/src/crc64720bb2db43a66fe9/ButtonRenderer.java" bodystart="97" bodyend="101"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc64720bb2db43a66fe9_1_1_button_renderer_1a1cd73012f6a18a6d6554767308c546ca" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>crc64720bb2db43a66fe9.ButtonRenderer.ButtonRenderer</definition>
+        <argsstring>(android.content.Context p0, android.util.AttributeSet p1, int p2)</argsstring>
+        <name>ButtonRenderer</name>
+        <param>
+          <type>android.content.Context</type>
+          <declname>p0</declname>
+        </param>
+        <param>
+          <type>android.util.AttributeSet</type>
+          <declname>p1</declname>
+        </param>
+        <param>
+          <type>int</type>
+          <declname>p2</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/100/android/src/crc64720bb2db43a66fe9/ButtonRenderer.java" line="26" column="8" bodyfile="Application Green Quake.Android/obj/Release/100/android/src/crc64720bb2db43a66fe9/ButtonRenderer.java" bodystart="26" bodyend="31"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc64720bb2db43a66fe9_1_1_button_renderer_1abc604c3494d6aa24e1333f64e1317e89" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>crc64720bb2db43a66fe9.ButtonRenderer.ButtonRenderer</definition>
+        <argsstring>(android.content.Context p0, android.util.AttributeSet p1)</argsstring>
+        <name>ButtonRenderer</name>
+        <param>
+          <type>android.content.Context</type>
+          <declname>p0</declname>
+        </param>
+        <param>
+          <type>android.util.AttributeSet</type>
+          <declname>p1</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/100/android/src/crc64720bb2db43a66fe9/ButtonRenderer.java" line="34" column="8" bodyfile="Application Green Quake.Android/obj/Release/100/android/src/crc64720bb2db43a66fe9/ButtonRenderer.java" bodystart="34" bodyend="39"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc64720bb2db43a66fe9_1_1_button_renderer_1ada4bc0824afa30b7ee0adb4c79b3e676" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>crc64720bb2db43a66fe9.ButtonRenderer.ButtonRenderer</definition>
+        <argsstring>(android.content.Context p0)</argsstring>
+        <name>ButtonRenderer</name>
+        <param>
+          <type>android.content.Context</type>
+          <declname>p0</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/100/android/src/crc64720bb2db43a66fe9/ButtonRenderer.java" line="42" column="8" bodyfile="Application Green Quake.Android/obj/Release/100/android/src/crc64720bb2db43a66fe9/ButtonRenderer.java" bodystart="42" bodyend="47"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc64720bb2db43a66fe9_1_1_button_renderer_1ae919cf63fc9c9dc31a3abcc5d2e874c3" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void crc64720bb2db43a66fe9.ButtonRenderer.onLayout</definition>
+        <argsstring>(boolean p0, int p1, int p2, int p3, int p4)</argsstring>
+        <name>onLayout</name>
+        <reimplements refid="classcrc643f46942d9dd1fff9_1_1_view_renderer__2_1a1e8de2d40d787901b8f14839810a5721">onLayout</reimplements>
+        <param>
+          <type>boolean</type>
+          <declname>p0</declname>
+        </param>
+        <param>
+          <type>int</type>
+          <declname>p1</declname>
+        </param>
+        <param>
+          <type>int</type>
+          <declname>p2</declname>
+        </param>
+        <param>
+          <type>int</type>
+          <declname>p3</declname>
+        </param>
+        <param>
+          <type>int</type>
+          <declname>p4</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/100/android/src/crc64720bb2db43a66fe9/ButtonRenderer.java" line="50" column="13" bodyfile="Application Green Quake.Android/obj/Release/100/android/src/crc64720bb2db43a66fe9/ButtonRenderer.java" bodystart="50" bodyend="53"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc64720bb2db43a66fe9_1_1_button_renderer_1abb4d3331e03259e3b4356eb3be0509ae" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void crc64720bb2db43a66fe9.ButtonRenderer.onViewAttachedToWindow</definition>
+        <argsstring>(android.view.View p0)</argsstring>
+        <name>onViewAttachedToWindow</name>
+        <param>
+          <type>android.view.View</type>
+          <declname>p0</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/100/android/src/crc64720bb2db43a66fe9/ButtonRenderer.java" line="58" column="13" bodyfile="Application Green Quake.Android/obj/Release/100/android/src/crc64720bb2db43a66fe9/ButtonRenderer.java" bodystart="58" bodyend="61"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc64720bb2db43a66fe9_1_1_button_renderer_1a4e974061230d236c0cad514b63b0f24b" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void crc64720bb2db43a66fe9.ButtonRenderer.onViewDetachedFromWindow</definition>
+        <argsstring>(android.view.View p0)</argsstring>
+        <name>onViewDetachedFromWindow</name>
+        <param>
+          <type>android.view.View</type>
+          <declname>p0</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/100/android/src/crc64720bb2db43a66fe9/ButtonRenderer.java" line="66" column="13" bodyfile="Application Green Quake.Android/obj/Release/100/android/src/crc64720bb2db43a66fe9/ButtonRenderer.java" bodystart="66" bodyend="69"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc64720bb2db43a66fe9_1_1_button_renderer_1aba2c80a3a220754685a821545b8f50c5" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void crc64720bb2db43a66fe9.ButtonRenderer.onClick</definition>
+        <argsstring>(android.view.View p0)</argsstring>
+        <name>onClick</name>
+        <param>
+          <type>android.view.View</type>
+          <declname>p0</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/100/android/src/crc64720bb2db43a66fe9/ButtonRenderer.java" line="74" column="13" bodyfile="Application Green Quake.Android/obj/Release/100/android/src/crc64720bb2db43a66fe9/ButtonRenderer.java" bodystart="74" bodyend="77"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc64720bb2db43a66fe9_1_1_button_renderer_1abf128b3c03571438be32ce230cb2b754" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>boolean</type>
+        <definition>boolean crc64720bb2db43a66fe9.ButtonRenderer.onTouch</definition>
+        <argsstring>(android.view.View p0, android.view.MotionEvent p1)</argsstring>
+        <name>onTouch</name>
+        <param>
+          <type>android.view.View</type>
+          <declname>p0</declname>
+        </param>
+        <param>
+          <type>android.view.MotionEvent</type>
+          <declname>p1</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/100/android/src/crc64720bb2db43a66fe9/ButtonRenderer.java" line="82" column="16" bodyfile="Application Green Quake.Android/obj/Release/100/android/src/crc64720bb2db43a66fe9/ButtonRenderer.java" bodystart="82" bodyend="85"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc64720bb2db43a66fe9_1_1_button_renderer_1adf1f41034c7453dca107268e40b98d89" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void crc64720bb2db43a66fe9.ButtonRenderer.monodroidAddReference</definition>
+        <argsstring>(java.lang.Object obj)</argsstring>
+        <name>monodroidAddReference</name>
+        <reimplements refid="classcrc64720bb2db43a66fe9_1_1_view_renderer__2_1a39cc74f26fce43b835aa1301ac828dc0">monodroidAddReference</reimplements>
+        <param>
+          <type>java.lang.Object</type>
+          <declname>obj</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/100/android/src/crc64720bb2db43a66fe9/ButtonRenderer.java" line="90" column="13" bodyfile="Application Green Quake.Android/obj/Release/100/android/src/crc64720bb2db43a66fe9/ButtonRenderer.java" bodystart="90" bodyend="95"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc64720bb2db43a66fe9_1_1_button_renderer_1ae4f8a63c4128de628fd40373ce45242c" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void crc64720bb2db43a66fe9.ButtonRenderer.monodroidClearReferences</definition>
+        <argsstring>()</argsstring>
+        <name>monodroidClearReferences</name>
+        <reimplements refid="classcrc64720bb2db43a66fe9_1_1_view_renderer__2_1a24d066faa636faa75c999abaf2f9c7ca">monodroidClearReferences</reimplements>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/100/android/src/crc64720bb2db43a66fe9/ButtonRenderer.java" line="97" column="13" bodyfile="Application Green Quake.Android/obj/Release/100/android/src/crc64720bb2db43a66fe9/ButtonRenderer.java" bodystart="97" bodyend="101"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc64720bb2db43a66fe9_1_1_button_renderer_1a1cd73012f6a18a6d6554767308c546ca" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>crc64720bb2db43a66fe9.ButtonRenderer.ButtonRenderer</definition>
+        <argsstring>(android.content.Context p0, android.util.AttributeSet p1, int p2)</argsstring>
+        <name>ButtonRenderer</name>
+        <param>
+          <type>android.content.Context</type>
+          <declname>p0</declname>
+        </param>
+        <param>
+          <type>android.util.AttributeSet</type>
+          <declname>p1</declname>
+        </param>
+        <param>
+          <type>int</type>
+          <declname>p2</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/110/android/src/crc64720bb2db43a66fe9/ButtonRenderer.java" line="26" column="8" bodyfile="Application Green Quake.Android/obj/Release/110/android/src/crc64720bb2db43a66fe9/ButtonRenderer.java" bodystart="26" bodyend="31"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc64720bb2db43a66fe9_1_1_button_renderer_1abc604c3494d6aa24e1333f64e1317e89" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>crc64720bb2db43a66fe9.ButtonRenderer.ButtonRenderer</definition>
+        <argsstring>(android.content.Context p0, android.util.AttributeSet p1)</argsstring>
+        <name>ButtonRenderer</name>
+        <param>
+          <type>android.content.Context</type>
+          <declname>p0</declname>
+        </param>
+        <param>
+          <type>android.util.AttributeSet</type>
+          <declname>p1</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/110/android/src/crc64720bb2db43a66fe9/ButtonRenderer.java" line="34" column="8" bodyfile="Application Green Quake.Android/obj/Release/110/android/src/crc64720bb2db43a66fe9/ButtonRenderer.java" bodystart="34" bodyend="39"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc64720bb2db43a66fe9_1_1_button_renderer_1ada4bc0824afa30b7ee0adb4c79b3e676" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>crc64720bb2db43a66fe9.ButtonRenderer.ButtonRenderer</definition>
+        <argsstring>(android.content.Context p0)</argsstring>
+        <name>ButtonRenderer</name>
+        <param>
+          <type>android.content.Context</type>
+          <declname>p0</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/110/android/src/crc64720bb2db43a66fe9/ButtonRenderer.java" line="42" column="8" bodyfile="Application Green Quake.Android/obj/Release/110/android/src/crc64720bb2db43a66fe9/ButtonRenderer.java" bodystart="42" bodyend="47"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc64720bb2db43a66fe9_1_1_button_renderer_1ae919cf63fc9c9dc31a3abcc5d2e874c3" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void crc64720bb2db43a66fe9.ButtonRenderer.onLayout</definition>
+        <argsstring>(boolean p0, int p1, int p2, int p3, int p4)</argsstring>
+        <name>onLayout</name>
+        <reimplements refid="classcrc643f46942d9dd1fff9_1_1_view_renderer__2_1a1e8de2d40d787901b8f14839810a5721">onLayout</reimplements>
+        <param>
+          <type>boolean</type>
+          <declname>p0</declname>
+        </param>
+        <param>
+          <type>int</type>
+          <declname>p1</declname>
+        </param>
+        <param>
+          <type>int</type>
+          <declname>p2</declname>
+        </param>
+        <param>
+          <type>int</type>
+          <declname>p3</declname>
+        </param>
+        <param>
+          <type>int</type>
+          <declname>p4</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/110/android/src/crc64720bb2db43a66fe9/ButtonRenderer.java" line="50" column="13" bodyfile="Application Green Quake.Android/obj/Release/110/android/src/crc64720bb2db43a66fe9/ButtonRenderer.java" bodystart="50" bodyend="53"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc64720bb2db43a66fe9_1_1_button_renderer_1abb4d3331e03259e3b4356eb3be0509ae" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void crc64720bb2db43a66fe9.ButtonRenderer.onViewAttachedToWindow</definition>
+        <argsstring>(android.view.View p0)</argsstring>
+        <name>onViewAttachedToWindow</name>
+        <param>
+          <type>android.view.View</type>
+          <declname>p0</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/110/android/src/crc64720bb2db43a66fe9/ButtonRenderer.java" line="58" column="13" bodyfile="Application Green Quake.Android/obj/Release/110/android/src/crc64720bb2db43a66fe9/ButtonRenderer.java" bodystart="58" bodyend="61"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc64720bb2db43a66fe9_1_1_button_renderer_1a4e974061230d236c0cad514b63b0f24b" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void crc64720bb2db43a66fe9.ButtonRenderer.onViewDetachedFromWindow</definition>
+        <argsstring>(android.view.View p0)</argsstring>
+        <name>onViewDetachedFromWindow</name>
+        <param>
+          <type>android.view.View</type>
+          <declname>p0</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/110/android/src/crc64720bb2db43a66fe9/ButtonRenderer.java" line="66" column="13" bodyfile="Application Green Quake.Android/obj/Release/110/android/src/crc64720bb2db43a66fe9/ButtonRenderer.java" bodystart="66" bodyend="69"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc64720bb2db43a66fe9_1_1_button_renderer_1aba2c80a3a220754685a821545b8f50c5" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void crc64720bb2db43a66fe9.ButtonRenderer.onClick</definition>
+        <argsstring>(android.view.View p0)</argsstring>
+        <name>onClick</name>
+        <param>
+          <type>android.view.View</type>
+          <declname>p0</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/110/android/src/crc64720bb2db43a66fe9/ButtonRenderer.java" line="74" column="13" bodyfile="Application Green Quake.Android/obj/Release/110/android/src/crc64720bb2db43a66fe9/ButtonRenderer.java" bodystart="74" bodyend="77"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc64720bb2db43a66fe9_1_1_button_renderer_1abf128b3c03571438be32ce230cb2b754" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>boolean</type>
+        <definition>boolean crc64720bb2db43a66fe9.ButtonRenderer.onTouch</definition>
+        <argsstring>(android.view.View p0, android.view.MotionEvent p1)</argsstring>
+        <name>onTouch</name>
+        <param>
+          <type>android.view.View</type>
+          <declname>p0</declname>
+        </param>
+        <param>
+          <type>android.view.MotionEvent</type>
+          <declname>p1</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/110/android/src/crc64720bb2db43a66fe9/ButtonRenderer.java" line="82" column="16" bodyfile="Application Green Quake.Android/obj/Release/110/android/src/crc64720bb2db43a66fe9/ButtonRenderer.java" bodystart="82" bodyend="85"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc64720bb2db43a66fe9_1_1_button_renderer_1adf1f41034c7453dca107268e40b98d89" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void crc64720bb2db43a66fe9.ButtonRenderer.monodroidAddReference</definition>
+        <argsstring>(java.lang.Object obj)</argsstring>
+        <name>monodroidAddReference</name>
+        <reimplements refid="classcrc64720bb2db43a66fe9_1_1_view_renderer__2_1a39cc74f26fce43b835aa1301ac828dc0">monodroidAddReference</reimplements>
+        <param>
+          <type>java.lang.Object</type>
+          <declname>obj</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/110/android/src/crc64720bb2db43a66fe9/ButtonRenderer.java" line="90" column="13" bodyfile="Application Green Quake.Android/obj/Release/110/android/src/crc64720bb2db43a66fe9/ButtonRenderer.java" bodystart="90" bodyend="95"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc64720bb2db43a66fe9_1_1_button_renderer_1ae4f8a63c4128de628fd40373ce45242c" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void crc64720bb2db43a66fe9.ButtonRenderer.monodroidClearReferences</definition>
+        <argsstring>()</argsstring>
+        <name>monodroidClearReferences</name>
+        <reimplements refid="classcrc64720bb2db43a66fe9_1_1_view_renderer__2_1a24d066faa636faa75c999abaf2f9c7ca">monodroidClearReferences</reimplements>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/110/android/src/crc64720bb2db43a66fe9/ButtonRenderer.java" line="97" column="13" bodyfile="Application Green Quake.Android/obj/Release/110/android/src/crc64720bb2db43a66fe9/ButtonRenderer.java" bodystart="97" bodyend="101"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="private-func">
+      <memberdef kind="function" id="classcrc64720bb2db43a66fe9_1_1_button_renderer_1a72d43e6d7cbbdd4aecc57cc481cc0b51" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>native void</type>
+        <definition>native void crc64720bb2db43a66fe9.ButtonRenderer.n_onLayout</definition>
+        <argsstring>(boolean p0, int p1, int p2, int p3, int p4)</argsstring>
+        <name>n_onLayout</name>
+        <reimplements refid="classcrc643f46942d9dd1fff9_1_1_view_renderer__2_1a450325934fcca1bddf67205e10baa6c9">n_onLayout</reimplements>
+        <param>
+          <type>boolean</type>
+          <declname>p0</declname>
+        </param>
+        <param>
+          <type>int</type>
+          <declname>p1</declname>
+        </param>
+        <param>
+          <type>int</type>
+          <declname>p2</declname>
+        </param>
+        <param>
+          <type>int</type>
+          <declname>p3</declname>
+        </param>
+        <param>
+          <type>int</type>
+          <declname>p4</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/100/android/src/crc64720bb2db43a66fe9/ButtonRenderer.java" line="55" column="21"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc64720bb2db43a66fe9_1_1_button_renderer_1add82ad235886f4519406e1ba887d068e" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>native void</type>
+        <definition>native void crc64720bb2db43a66fe9.ButtonRenderer.n_onViewAttachedToWindow</definition>
+        <argsstring>(android.view.View p0)</argsstring>
+        <name>n_onViewAttachedToWindow</name>
+        <param>
+          <type>android.view.View</type>
+          <declname>p0</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/100/android/src/crc64720bb2db43a66fe9/ButtonRenderer.java" line="63" column="21"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc64720bb2db43a66fe9_1_1_button_renderer_1a8ed94b1355715e345b93b70d3e5020af" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>native void</type>
+        <definition>native void crc64720bb2db43a66fe9.ButtonRenderer.n_onViewDetachedFromWindow</definition>
+        <argsstring>(android.view.View p0)</argsstring>
+        <name>n_onViewDetachedFromWindow</name>
+        <param>
+          <type>android.view.View</type>
+          <declname>p0</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/100/android/src/crc64720bb2db43a66fe9/ButtonRenderer.java" line="71" column="21"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc64720bb2db43a66fe9_1_1_button_renderer_1a8761eeedaad5bb5c39ad93539286683d" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>native void</type>
+        <definition>native void crc64720bb2db43a66fe9.ButtonRenderer.n_onClick</definition>
+        <argsstring>(android.view.View p0)</argsstring>
+        <name>n_onClick</name>
+        <param>
+          <type>android.view.View</type>
+          <declname>p0</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/100/android/src/crc64720bb2db43a66fe9/ButtonRenderer.java" line="79" column="21"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc64720bb2db43a66fe9_1_1_button_renderer_1a18a0a6c1fce2cc85b656aaf015adca5a" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>native boolean</type>
+        <definition>native boolean crc64720bb2db43a66fe9.ButtonRenderer.n_onTouch</definition>
+        <argsstring>(android.view.View p0, android.view.MotionEvent p1)</argsstring>
+        <name>n_onTouch</name>
+        <param>
+          <type>android.view.View</type>
+          <declname>p0</declname>
+        </param>
+        <param>
+          <type>android.view.MotionEvent</type>
+          <declname>p1</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/100/android/src/crc64720bb2db43a66fe9/ButtonRenderer.java" line="87" column="24"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc64720bb2db43a66fe9_1_1_button_renderer_1a72d43e6d7cbbdd4aecc57cc481cc0b51" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>native void</type>
+        <definition>native void crc64720bb2db43a66fe9.ButtonRenderer.n_onLayout</definition>
+        <argsstring>(boolean p0, int p1, int p2, int p3, int p4)</argsstring>
+        <name>n_onLayout</name>
+        <reimplements refid="classcrc643f46942d9dd1fff9_1_1_view_renderer__2_1a450325934fcca1bddf67205e10baa6c9">n_onLayout</reimplements>
+        <param>
+          <type>boolean</type>
+          <declname>p0</declname>
+        </param>
+        <param>
+          <type>int</type>
+          <declname>p1</declname>
+        </param>
+        <param>
+          <type>int</type>
+          <declname>p2</declname>
+        </param>
+        <param>
+          <type>int</type>
+          <declname>p3</declname>
+        </param>
+        <param>
+          <type>int</type>
+          <declname>p4</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/110/android/src/crc64720bb2db43a66fe9/ButtonRenderer.java" line="55" column="21"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc64720bb2db43a66fe9_1_1_button_renderer_1add82ad235886f4519406e1ba887d068e" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>native void</type>
+        <definition>native void crc64720bb2db43a66fe9.ButtonRenderer.n_onViewAttachedToWindow</definition>
+        <argsstring>(android.view.View p0)</argsstring>
+        <name>n_onViewAttachedToWindow</name>
+        <param>
+          <type>android.view.View</type>
+          <declname>p0</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/110/android/src/crc64720bb2db43a66fe9/ButtonRenderer.java" line="63" column="21"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc64720bb2db43a66fe9_1_1_button_renderer_1a8ed94b1355715e345b93b70d3e5020af" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>native void</type>
+        <definition>native void crc64720bb2db43a66fe9.ButtonRenderer.n_onViewDetachedFromWindow</definition>
+        <argsstring>(android.view.View p0)</argsstring>
+        <name>n_onViewDetachedFromWindow</name>
+        <param>
+          <type>android.view.View</type>
+          <declname>p0</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/110/android/src/crc64720bb2db43a66fe9/ButtonRenderer.java" line="71" column="21"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc64720bb2db43a66fe9_1_1_button_renderer_1a8761eeedaad5bb5c39ad93539286683d" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>native void</type>
+        <definition>native void crc64720bb2db43a66fe9.ButtonRenderer.n_onClick</definition>
+        <argsstring>(android.view.View p0)</argsstring>
+        <name>n_onClick</name>
+        <param>
+          <type>android.view.View</type>
+          <declname>p0</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/110/android/src/crc64720bb2db43a66fe9/ButtonRenderer.java" line="79" column="21"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc64720bb2db43a66fe9_1_1_button_renderer_1a18a0a6c1fce2cc85b656aaf015adca5a" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>native boolean</type>
+        <definition>native boolean crc64720bb2db43a66fe9.ButtonRenderer.n_onTouch</definition>
+        <argsstring>(android.view.View p0, android.view.MotionEvent p1)</argsstring>
+        <name>n_onTouch</name>
+        <param>
+          <type>android.view.View</type>
+          <declname>p0</declname>
+        </param>
+        <param>
+          <type>android.view.MotionEvent</type>
+          <declname>p1</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/110/android/src/crc64720bb2db43a66fe9/ButtonRenderer.java" line="87" column="24"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc64720bb2db43a66fe9_1_1_button_renderer_1a72d43e6d7cbbdd4aecc57cc481cc0b51" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>native void</type>
+        <definition>native void crc64720bb2db43a66fe9.ButtonRenderer.n_onLayout</definition>
+        <argsstring>(boolean p0, int p1, int p2, int p3, int p4)</argsstring>
+        <name>n_onLayout</name>
+        <reimplements refid="classcrc643f46942d9dd1fff9_1_1_view_renderer__2_1a450325934fcca1bddf67205e10baa6c9">n_onLayout</reimplements>
+        <param>
+          <type>boolean</type>
+          <declname>p0</declname>
+        </param>
+        <param>
+          <type>int</type>
+          <declname>p1</declname>
+        </param>
+        <param>
+          <type>int</type>
+          <declname>p2</declname>
+        </param>
+        <param>
+          <type>int</type>
+          <declname>p3</declname>
+        </param>
+        <param>
+          <type>int</type>
+          <declname>p4</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/100/android/src/crc64720bb2db43a66fe9/ButtonRenderer.java" line="55" column="21"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc64720bb2db43a66fe9_1_1_button_renderer_1add82ad235886f4519406e1ba887d068e" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>native void</type>
+        <definition>native void crc64720bb2db43a66fe9.ButtonRenderer.n_onViewAttachedToWindow</definition>
+        <argsstring>(android.view.View p0)</argsstring>
+        <name>n_onViewAttachedToWindow</name>
+        <param>
+          <type>android.view.View</type>
+          <declname>p0</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/100/android/src/crc64720bb2db43a66fe9/ButtonRenderer.java" line="63" column="21"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc64720bb2db43a66fe9_1_1_button_renderer_1a8ed94b1355715e345b93b70d3e5020af" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>native void</type>
+        <definition>native void crc64720bb2db43a66fe9.ButtonRenderer.n_onViewDetachedFromWindow</definition>
+        <argsstring>(android.view.View p0)</argsstring>
+        <name>n_onViewDetachedFromWindow</name>
+        <param>
+          <type>android.view.View</type>
+          <declname>p0</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/100/android/src/crc64720bb2db43a66fe9/ButtonRenderer.java" line="71" column="21"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc64720bb2db43a66fe9_1_1_button_renderer_1a8761eeedaad5bb5c39ad93539286683d" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>native void</type>
+        <definition>native void crc64720bb2db43a66fe9.ButtonRenderer.n_onClick</definition>
+        <argsstring>(android.view.View p0)</argsstring>
+        <name>n_onClick</name>
+        <param>
+          <type>android.view.View</type>
+          <declname>p0</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/100/android/src/crc64720bb2db43a66fe9/ButtonRenderer.java" line="79" column="21"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc64720bb2db43a66fe9_1_1_button_renderer_1a18a0a6c1fce2cc85b656aaf015adca5a" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>native boolean</type>
+        <definition>native boolean crc64720bb2db43a66fe9.ButtonRenderer.n_onTouch</definition>
+        <argsstring>(android.view.View p0, android.view.MotionEvent p1)</argsstring>
+        <name>n_onTouch</name>
+        <param>
+          <type>android.view.View</type>
+          <declname>p0</declname>
+        </param>
+        <param>
+          <type>android.view.MotionEvent</type>
+          <declname>p1</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/100/android/src/crc64720bb2db43a66fe9/ButtonRenderer.java" line="87" column="24"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc64720bb2db43a66fe9_1_1_button_renderer_1a72d43e6d7cbbdd4aecc57cc481cc0b51" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>native void</type>
+        <definition>native void crc64720bb2db43a66fe9.ButtonRenderer.n_onLayout</definition>
+        <argsstring>(boolean p0, int p1, int p2, int p3, int p4)</argsstring>
+        <name>n_onLayout</name>
+        <reimplements refid="classcrc643f46942d9dd1fff9_1_1_view_renderer__2_1a450325934fcca1bddf67205e10baa6c9">n_onLayout</reimplements>
+        <param>
+          <type>boolean</type>
+          <declname>p0</declname>
+        </param>
+        <param>
+          <type>int</type>
+          <declname>p1</declname>
+        </param>
+        <param>
+          <type>int</type>
+          <declname>p2</declname>
+        </param>
+        <param>
+          <type>int</type>
+          <declname>p3</declname>
+        </param>
+        <param>
+          <type>int</type>
+          <declname>p4</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/110/android/src/crc64720bb2db43a66fe9/ButtonRenderer.java" line="55" column="21"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc64720bb2db43a66fe9_1_1_button_renderer_1add82ad235886f4519406e1ba887d068e" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>native void</type>
+        <definition>native void crc64720bb2db43a66fe9.ButtonRenderer.n_onViewAttachedToWindow</definition>
+        <argsstring>(android.view.View p0)</argsstring>
+        <name>n_onViewAttachedToWindow</name>
+        <param>
+          <type>android.view.View</type>
+          <declname>p0</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/110/android/src/crc64720bb2db43a66fe9/ButtonRenderer.java" line="63" column="21"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc64720bb2db43a66fe9_1_1_button_renderer_1a8ed94b1355715e345b93b70d3e5020af" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>native void</type>
+        <definition>native void crc64720bb2db43a66fe9.ButtonRenderer.n_onViewDetachedFromWindow</definition>
+        <argsstring>(android.view.View p0)</argsstring>
+        <name>n_onViewDetachedFromWindow</name>
+        <param>
+          <type>android.view.View</type>
+          <declname>p0</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/110/android/src/crc64720bb2db43a66fe9/ButtonRenderer.java" line="71" column="21"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc64720bb2db43a66fe9_1_1_button_renderer_1a8761eeedaad5bb5c39ad93539286683d" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>native void</type>
+        <definition>native void crc64720bb2db43a66fe9.ButtonRenderer.n_onClick</definition>
+        <argsstring>(android.view.View p0)</argsstring>
+        <name>n_onClick</name>
+        <param>
+          <type>android.view.View</type>
+          <declname>p0</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/110/android/src/crc64720bb2db43a66fe9/ButtonRenderer.java" line="79" column="21"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc64720bb2db43a66fe9_1_1_button_renderer_1a18a0a6c1fce2cc85b656aaf015adca5a" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>native boolean</type>
+        <definition>native boolean crc64720bb2db43a66fe9.ButtonRenderer.n_onTouch</definition>
+        <argsstring>(android.view.View p0, android.view.MotionEvent p1)</argsstring>
+        <name>n_onTouch</name>
+        <param>
+          <type>android.view.View</type>
+          <declname>p0</declname>
+        </param>
+        <param>
+          <type>android.view.MotionEvent</type>
+          <declname>p1</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/110/android/src/crc64720bb2db43a66fe9/ButtonRenderer.java" line="87" column="24"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <inheritancegraph>
+      <node id="2">
+        <label>crc64720bb2db43a66fe9.ViewRenderer_2</label>
+        <link refid="classcrc64720bb2db43a66fe9_1_1_view_renderer__2"/>
+        <childnode refid="3" relation="public-inheritance">
+        </childnode>
+        <childnode refid="6" relation="public-inheritance">
+        </childnode>
+        <childnode refid="3" relation="public-inheritance">
+        </childnode>
+        <childnode refid="6" relation="public-inheritance">
+        </childnode>
+        <childnode refid="3" relation="public-inheritance">
+        </childnode>
+        <childnode refid="6" relation="public-inheritance">
+        </childnode>
+        <childnode refid="3" relation="public-inheritance">
+        </childnode>
+        <childnode refid="6" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="7">
+        <label>com.xamarin.forms.platform.android.FormsViewGroup</label>
+      </node>
+      <node id="11">
+        <label>android.view.View.OnTouchListener</label>
+      </node>
+      <node id="9">
+        <label>android.view.View.OnAttachStateChangeListener</label>
+      </node>
+      <node id="3">
+        <label>crc643f46942d9dd1fff9.ViewRenderer_2</label>
+        <link refid="classcrc643f46942d9dd1fff9_1_1_view_renderer__2"/>
+        <childnode refid="4" relation="public-inheritance">
+        </childnode>
+        <childnode refid="6" relation="public-inheritance">
+        </childnode>
+        <childnode refid="8" relation="public-inheritance">
+        </childnode>
+        <childnode refid="4" relation="public-inheritance">
+        </childnode>
+        <childnode refid="6" relation="public-inheritance">
+        </childnode>
+        <childnode refid="8" relation="public-inheritance">
+        </childnode>
+        <childnode refid="4" relation="public-inheritance">
+        </childnode>
+        <childnode refid="6" relation="public-inheritance">
+        </childnode>
+        <childnode refid="8" relation="public-inheritance">
+        </childnode>
+        <childnode refid="4" relation="public-inheritance">
+        </childnode>
+        <childnode refid="6" relation="public-inheritance">
+        </childnode>
+        <childnode refid="8" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="10">
+        <label>android.view.View.OnClickListener</label>
+      </node>
+      <node id="1">
+        <label>crc64720bb2db43a66fe9.ButtonRenderer</label>
+        <link refid="classcrc64720bb2db43a66fe9_1_1_button_renderer"/>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+        <childnode refid="6" relation="public-inheritance">
+        </childnode>
+        <childnode refid="9" relation="public-inheritance">
+        </childnode>
+        <childnode refid="10" relation="public-inheritance">
+        </childnode>
+        <childnode refid="11" relation="public-inheritance">
+        </childnode>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+        <childnode refid="6" relation="public-inheritance">
+        </childnode>
+        <childnode refid="9" relation="public-inheritance">
+        </childnode>
+        <childnode refid="10" relation="public-inheritance">
+        </childnode>
+        <childnode refid="11" relation="public-inheritance">
+        </childnode>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+        <childnode refid="6" relation="public-inheritance">
+        </childnode>
+        <childnode refid="9" relation="public-inheritance">
+        </childnode>
+        <childnode refid="10" relation="public-inheritance">
+        </childnode>
+        <childnode refid="11" relation="public-inheritance">
+        </childnode>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+        <childnode refid="6" relation="public-inheritance">
+        </childnode>
+        <childnode refid="9" relation="public-inheritance">
+        </childnode>
+        <childnode refid="10" relation="public-inheritance">
+        </childnode>
+        <childnode refid="11" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="5">
+        <label>com::xamarin::forms::platform::android::FormsViewGroup</label>
+      </node>
+      <node id="6">
+        <label>mono.android.IGCUserPeer</label>
+      </node>
+      <node id="4">
+        <label>crc643f46942d9dd1fff9.VisualElementRenderer_1</label>
+        <link refid="classcrc643f46942d9dd1fff9_1_1_visual_element_renderer__1"/>
+        <childnode refid="5" relation="public-inheritance">
+        </childnode>
+        <childnode refid="6" relation="public-inheritance">
+        </childnode>
+        <childnode refid="7" relation="public-inheritance">
+        </childnode>
+        <childnode refid="6" relation="public-inheritance">
+        </childnode>
+        <childnode refid="7" relation="public-inheritance">
+        </childnode>
+        <childnode refid="6" relation="public-inheritance">
+        </childnode>
+        <childnode refid="7" relation="public-inheritance">
+        </childnode>
+        <childnode refid="6" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="8">
+        <label>android.view.View.OnFocusChangeListener</label>
+      </node>
+    </inheritancegraph>
+    <collaborationgraph>
+      <node id="2">
+        <label>crc64720bb2db43a66fe9.ViewRenderer_2</label>
+        <link refid="classcrc64720bb2db43a66fe9_1_1_view_renderer__2"/>
+        <childnode refid="3" relation="public-inheritance">
+        </childnode>
+        <childnode refid="6" relation="public-inheritance">
+        </childnode>
+        <childnode refid="3" relation="public-inheritance">
+        </childnode>
+        <childnode refid="6" relation="public-inheritance">
+        </childnode>
+        <childnode refid="3" relation="public-inheritance">
+        </childnode>
+        <childnode refid="6" relation="public-inheritance">
+        </childnode>
+        <childnode refid="3" relation="public-inheritance">
+        </childnode>
+        <childnode refid="6" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="7">
+        <label>com.xamarin.forms.platform.android.FormsViewGroup</label>
+      </node>
+      <node id="11">
+        <label>android.view.View.OnTouchListener</label>
+      </node>
+      <node id="9">
+        <label>android.view.View.OnAttachStateChangeListener</label>
+      </node>
+      <node id="3">
+        <label>crc643f46942d9dd1fff9.ViewRenderer_2</label>
+        <link refid="classcrc643f46942d9dd1fff9_1_1_view_renderer__2"/>
+        <childnode refid="4" relation="public-inheritance">
+        </childnode>
+        <childnode refid="6" relation="public-inheritance">
+        </childnode>
+        <childnode refid="8" relation="public-inheritance">
+        </childnode>
+        <childnode refid="4" relation="public-inheritance">
+        </childnode>
+        <childnode refid="6" relation="public-inheritance">
+        </childnode>
+        <childnode refid="8" relation="public-inheritance">
+        </childnode>
+        <childnode refid="4" relation="public-inheritance">
+        </childnode>
+        <childnode refid="6" relation="public-inheritance">
+        </childnode>
+        <childnode refid="8" relation="public-inheritance">
+        </childnode>
+        <childnode refid="4" relation="public-inheritance">
+        </childnode>
+        <childnode refid="6" relation="public-inheritance">
+        </childnode>
+        <childnode refid="8" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="10">
+        <label>android.view.View.OnClickListener</label>
+      </node>
+      <node id="1">
+        <label>crc64720bb2db43a66fe9.ButtonRenderer</label>
+        <link refid="classcrc64720bb2db43a66fe9_1_1_button_renderer"/>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+        <childnode refid="6" relation="public-inheritance">
+        </childnode>
+        <childnode refid="9" relation="public-inheritance">
+        </childnode>
+        <childnode refid="10" relation="public-inheritance">
+        </childnode>
+        <childnode refid="11" relation="public-inheritance">
+        </childnode>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+        <childnode refid="6" relation="public-inheritance">
+        </childnode>
+        <childnode refid="9" relation="public-inheritance">
+        </childnode>
+        <childnode refid="10" relation="public-inheritance">
+        </childnode>
+        <childnode refid="11" relation="public-inheritance">
+        </childnode>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+        <childnode refid="6" relation="public-inheritance">
+        </childnode>
+        <childnode refid="9" relation="public-inheritance">
+        </childnode>
+        <childnode refid="10" relation="public-inheritance">
+        </childnode>
+        <childnode refid="11" relation="public-inheritance">
+        </childnode>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+        <childnode refid="6" relation="public-inheritance">
+        </childnode>
+        <childnode refid="9" relation="public-inheritance">
+        </childnode>
+        <childnode refid="10" relation="public-inheritance">
+        </childnode>
+        <childnode refid="11" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="5">
+        <label>com::xamarin::forms::platform::android::FormsViewGroup</label>
+      </node>
+      <node id="6">
+        <label>mono.android.IGCUserPeer</label>
+      </node>
+      <node id="4">
+        <label>crc643f46942d9dd1fff9.VisualElementRenderer_1</label>
+        <link refid="classcrc643f46942d9dd1fff9_1_1_visual_element_renderer__1"/>
+        <childnode refid="5" relation="public-inheritance">
+        </childnode>
+        <childnode refid="6" relation="public-inheritance">
+        </childnode>
+        <childnode refid="7" relation="public-inheritance">
+        </childnode>
+        <childnode refid="6" relation="public-inheritance">
+        </childnode>
+        <childnode refid="7" relation="public-inheritance">
+        </childnode>
+        <childnode refid="6" relation="public-inheritance">
+        </childnode>
+        <childnode refid="7" relation="public-inheritance">
+        </childnode>
+        <childnode refid="6" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="8">
+        <label>android.view.View.OnFocusChangeListener</label>
+      </node>
+    </collaborationgraph>
+    <location file="Application Green Quake.Android/obj/Debug/100/android/src/crc64720bb2db43a66fe9/ButtonRenderer.java" line="4" column="7" bodyfile="Application Green Quake.Android/obj/Debug/100/android/src/crc64720bb2db43a66fe9/ButtonRenderer.java" bodystart="11" bodyend="102"/>
+    <listofallmembers>
+      <member refid="classcrc64720bb2db43a66fe9_1_1_button_renderer_1aa50df901442ba4d255605a67b1568105" prot="package" virt="non-virtual"><scope>crc64720bb2db43a66fe9::ButtonRenderer</scope><name>[static initializer]</name></member>
+      <member refid="classcrc64720bb2db43a66fe9_1_1_button_renderer_1aa50df901442ba4d255605a67b1568105" prot="package" virt="non-virtual"><scope>crc64720bb2db43a66fe9::ButtonRenderer</scope><name>[static initializer]</name></member>
+      <member refid="classcrc64720bb2db43a66fe9_1_1_button_renderer_1aa50df901442ba4d255605a67b1568105" prot="package" virt="non-virtual"><scope>crc64720bb2db43a66fe9::ButtonRenderer</scope><name>[static initializer]</name></member>
+      <member refid="classcrc64720bb2db43a66fe9_1_1_button_renderer_1aa50df901442ba4d255605a67b1568105" prot="package" virt="non-virtual"><scope>crc64720bb2db43a66fe9::ButtonRenderer</scope><name>[static initializer]</name></member>
+      <member refid="classcrc64720bb2db43a66fe9_1_1_button_renderer_1ad726ec68ef067e090e25138374174e14" prot="public" virt="non-virtual"><scope>crc64720bb2db43a66fe9::ButtonRenderer</scope><name>__md_methods</name></member>
+      <member refid="classcrc64720bb2db43a66fe9_1_1_button_renderer_1a1cd73012f6a18a6d6554767308c546ca" prot="public" virt="non-virtual"><scope>crc64720bb2db43a66fe9::ButtonRenderer</scope><name>ButtonRenderer</name></member>
+      <member refid="classcrc64720bb2db43a66fe9_1_1_button_renderer_1abc604c3494d6aa24e1333f64e1317e89" prot="public" virt="non-virtual"><scope>crc64720bb2db43a66fe9::ButtonRenderer</scope><name>ButtonRenderer</name></member>
+      <member refid="classcrc64720bb2db43a66fe9_1_1_button_renderer_1ada4bc0824afa30b7ee0adb4c79b3e676" prot="public" virt="non-virtual"><scope>crc64720bb2db43a66fe9::ButtonRenderer</scope><name>ButtonRenderer</name></member>
+      <member refid="classcrc64720bb2db43a66fe9_1_1_button_renderer_1a1cd73012f6a18a6d6554767308c546ca" prot="public" virt="non-virtual"><scope>crc64720bb2db43a66fe9::ButtonRenderer</scope><name>ButtonRenderer</name></member>
+      <member refid="classcrc64720bb2db43a66fe9_1_1_button_renderer_1abc604c3494d6aa24e1333f64e1317e89" prot="public" virt="non-virtual"><scope>crc64720bb2db43a66fe9::ButtonRenderer</scope><name>ButtonRenderer</name></member>
+      <member refid="classcrc64720bb2db43a66fe9_1_1_button_renderer_1ada4bc0824afa30b7ee0adb4c79b3e676" prot="public" virt="non-virtual"><scope>crc64720bb2db43a66fe9::ButtonRenderer</scope><name>ButtonRenderer</name></member>
+      <member refid="classcrc64720bb2db43a66fe9_1_1_button_renderer_1a1cd73012f6a18a6d6554767308c546ca" prot="public" virt="non-virtual"><scope>crc64720bb2db43a66fe9::ButtonRenderer</scope><name>ButtonRenderer</name></member>
+      <member refid="classcrc64720bb2db43a66fe9_1_1_button_renderer_1abc604c3494d6aa24e1333f64e1317e89" prot="public" virt="non-virtual"><scope>crc64720bb2db43a66fe9::ButtonRenderer</scope><name>ButtonRenderer</name></member>
+      <member refid="classcrc64720bb2db43a66fe9_1_1_button_renderer_1ada4bc0824afa30b7ee0adb4c79b3e676" prot="public" virt="non-virtual"><scope>crc64720bb2db43a66fe9::ButtonRenderer</scope><name>ButtonRenderer</name></member>
+      <member refid="classcrc64720bb2db43a66fe9_1_1_button_renderer_1a1cd73012f6a18a6d6554767308c546ca" prot="public" virt="non-virtual"><scope>crc64720bb2db43a66fe9::ButtonRenderer</scope><name>ButtonRenderer</name></member>
+      <member refid="classcrc64720bb2db43a66fe9_1_1_button_renderer_1abc604c3494d6aa24e1333f64e1317e89" prot="public" virt="non-virtual"><scope>crc64720bb2db43a66fe9::ButtonRenderer</scope><name>ButtonRenderer</name></member>
+      <member refid="classcrc64720bb2db43a66fe9_1_1_button_renderer_1ada4bc0824afa30b7ee0adb4c79b3e676" prot="public" virt="non-virtual"><scope>crc64720bb2db43a66fe9::ButtonRenderer</scope><name>ButtonRenderer</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_visual_element_renderer__1_1a8b3a1f18416ee5d553d54d8c51f238bd" prot="public" virt="non-virtual"><scope>crc64720bb2db43a66fe9::ButtonRenderer</scope><name>dispatchTouchEvent</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_visual_element_renderer__1_1a8b3a1f18416ee5d553d54d8c51f238bd" prot="public" virt="non-virtual"><scope>crc64720bb2db43a66fe9::ButtonRenderer</scope><name>dispatchTouchEvent</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_visual_element_renderer__1_1a8b3a1f18416ee5d553d54d8c51f238bd" prot="public" virt="non-virtual"><scope>crc64720bb2db43a66fe9::ButtonRenderer</scope><name>dispatchTouchEvent</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_visual_element_renderer__1_1a8b3a1f18416ee5d553d54d8c51f238bd" prot="public" virt="non-virtual"><scope>crc64720bb2db43a66fe9::ButtonRenderer</scope><name>dispatchTouchEvent</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_visual_element_renderer__1_1a4fbfdc5e36e0aac29f8113eddde3ffa8" prot="public" virt="non-virtual"><scope>crc64720bb2db43a66fe9::ButtonRenderer</scope><name>draw</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_visual_element_renderer__1_1a4fbfdc5e36e0aac29f8113eddde3ffa8" prot="public" virt="non-virtual"><scope>crc64720bb2db43a66fe9::ButtonRenderer</scope><name>draw</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_visual_element_renderer__1_1a4fbfdc5e36e0aac29f8113eddde3ffa8" prot="public" virt="non-virtual"><scope>crc64720bb2db43a66fe9::ButtonRenderer</scope><name>draw</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_visual_element_renderer__1_1a4fbfdc5e36e0aac29f8113eddde3ffa8" prot="public" virt="non-virtual"><scope>crc64720bb2db43a66fe9::ButtonRenderer</scope><name>draw</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_visual_element_renderer__1_1a9f734e4b4776dc9d9ed904a0922d26f7" prot="public" virt="non-virtual"><scope>crc64720bb2db43a66fe9::ButtonRenderer</scope><name>focusSearch</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_visual_element_renderer__1_1a9f734e4b4776dc9d9ed904a0922d26f7" prot="public" virt="non-virtual"><scope>crc64720bb2db43a66fe9::ButtonRenderer</scope><name>focusSearch</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_visual_element_renderer__1_1a9f734e4b4776dc9d9ed904a0922d26f7" prot="public" virt="non-virtual"><scope>crc64720bb2db43a66fe9::ButtonRenderer</scope><name>focusSearch</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_visual_element_renderer__1_1a9f734e4b4776dc9d9ed904a0922d26f7" prot="public" virt="non-virtual"><scope>crc64720bb2db43a66fe9::ButtonRenderer</scope><name>focusSearch</name></member>
+      <member refid="classcrc64720bb2db43a66fe9_1_1_button_renderer_1adf1f41034c7453dca107268e40b98d89" prot="public" virt="non-virtual"><scope>crc64720bb2db43a66fe9::ButtonRenderer</scope><name>monodroidAddReference</name></member>
+      <member refid="classcrc64720bb2db43a66fe9_1_1_button_renderer_1adf1f41034c7453dca107268e40b98d89" prot="public" virt="non-virtual"><scope>crc64720bb2db43a66fe9::ButtonRenderer</scope><name>monodroidAddReference</name></member>
+      <member refid="classcrc64720bb2db43a66fe9_1_1_button_renderer_1adf1f41034c7453dca107268e40b98d89" prot="public" virt="non-virtual"><scope>crc64720bb2db43a66fe9::ButtonRenderer</scope><name>monodroidAddReference</name></member>
+      <member refid="classcrc64720bb2db43a66fe9_1_1_button_renderer_1adf1f41034c7453dca107268e40b98d89" prot="public" virt="non-virtual"><scope>crc64720bb2db43a66fe9::ButtonRenderer</scope><name>monodroidAddReference</name></member>
+      <member refid="classcrc64720bb2db43a66fe9_1_1_button_renderer_1ae4f8a63c4128de628fd40373ce45242c" prot="public" virt="non-virtual"><scope>crc64720bb2db43a66fe9::ButtonRenderer</scope><name>monodroidClearReferences</name></member>
+      <member refid="classcrc64720bb2db43a66fe9_1_1_button_renderer_1ae4f8a63c4128de628fd40373ce45242c" prot="public" virt="non-virtual"><scope>crc64720bb2db43a66fe9::ButtonRenderer</scope><name>monodroidClearReferences</name></member>
+      <member refid="classcrc64720bb2db43a66fe9_1_1_button_renderer_1ae4f8a63c4128de628fd40373ce45242c" prot="public" virt="non-virtual"><scope>crc64720bb2db43a66fe9::ButtonRenderer</scope><name>monodroidClearReferences</name></member>
+      <member refid="classcrc64720bb2db43a66fe9_1_1_button_renderer_1ae4f8a63c4128de628fd40373ce45242c" prot="public" virt="non-virtual"><scope>crc64720bb2db43a66fe9::ButtonRenderer</scope><name>monodroidClearReferences</name></member>
+      <member refid="classcrc64720bb2db43a66fe9_1_1_button_renderer_1a8761eeedaad5bb5c39ad93539286683d" prot="private" virt="non-virtual"><scope>crc64720bb2db43a66fe9::ButtonRenderer</scope><name>n_onClick</name></member>
+      <member refid="classcrc64720bb2db43a66fe9_1_1_button_renderer_1a8761eeedaad5bb5c39ad93539286683d" prot="private" virt="non-virtual"><scope>crc64720bb2db43a66fe9::ButtonRenderer</scope><name>n_onClick</name></member>
+      <member refid="classcrc64720bb2db43a66fe9_1_1_button_renderer_1a8761eeedaad5bb5c39ad93539286683d" prot="private" virt="non-virtual"><scope>crc64720bb2db43a66fe9::ButtonRenderer</scope><name>n_onClick</name></member>
+      <member refid="classcrc64720bb2db43a66fe9_1_1_button_renderer_1a8761eeedaad5bb5c39ad93539286683d" prot="private" virt="non-virtual"><scope>crc64720bb2db43a66fe9::ButtonRenderer</scope><name>n_onClick</name></member>
+      <member refid="classcrc64720bb2db43a66fe9_1_1_button_renderer_1a72d43e6d7cbbdd4aecc57cc481cc0b51" prot="private" virt="non-virtual"><scope>crc64720bb2db43a66fe9::ButtonRenderer</scope><name>n_onLayout</name></member>
+      <member refid="classcrc64720bb2db43a66fe9_1_1_button_renderer_1a72d43e6d7cbbdd4aecc57cc481cc0b51" prot="private" virt="non-virtual"><scope>crc64720bb2db43a66fe9::ButtonRenderer</scope><name>n_onLayout</name></member>
+      <member refid="classcrc64720bb2db43a66fe9_1_1_button_renderer_1a72d43e6d7cbbdd4aecc57cc481cc0b51" prot="private" virt="non-virtual"><scope>crc64720bb2db43a66fe9::ButtonRenderer</scope><name>n_onLayout</name></member>
+      <member refid="classcrc64720bb2db43a66fe9_1_1_button_renderer_1a72d43e6d7cbbdd4aecc57cc481cc0b51" prot="private" virt="non-virtual"><scope>crc64720bb2db43a66fe9::ButtonRenderer</scope><name>n_onLayout</name></member>
+      <member refid="classcrc64720bb2db43a66fe9_1_1_button_renderer_1a18a0a6c1fce2cc85b656aaf015adca5a" prot="private" virt="non-virtual"><scope>crc64720bb2db43a66fe9::ButtonRenderer</scope><name>n_onTouch</name></member>
+      <member refid="classcrc64720bb2db43a66fe9_1_1_button_renderer_1a18a0a6c1fce2cc85b656aaf015adca5a" prot="private" virt="non-virtual"><scope>crc64720bb2db43a66fe9::ButtonRenderer</scope><name>n_onTouch</name></member>
+      <member refid="classcrc64720bb2db43a66fe9_1_1_button_renderer_1a18a0a6c1fce2cc85b656aaf015adca5a" prot="private" virt="non-virtual"><scope>crc64720bb2db43a66fe9::ButtonRenderer</scope><name>n_onTouch</name></member>
+      <member refid="classcrc64720bb2db43a66fe9_1_1_button_renderer_1a18a0a6c1fce2cc85b656aaf015adca5a" prot="private" virt="non-virtual"><scope>crc64720bb2db43a66fe9::ButtonRenderer</scope><name>n_onTouch</name></member>
+      <member refid="classcrc64720bb2db43a66fe9_1_1_button_renderer_1add82ad235886f4519406e1ba887d068e" prot="private" virt="non-virtual"><scope>crc64720bb2db43a66fe9::ButtonRenderer</scope><name>n_onViewAttachedToWindow</name></member>
+      <member refid="classcrc64720bb2db43a66fe9_1_1_button_renderer_1add82ad235886f4519406e1ba887d068e" prot="private" virt="non-virtual"><scope>crc64720bb2db43a66fe9::ButtonRenderer</scope><name>n_onViewAttachedToWindow</name></member>
+      <member refid="classcrc64720bb2db43a66fe9_1_1_button_renderer_1add82ad235886f4519406e1ba887d068e" prot="private" virt="non-virtual"><scope>crc64720bb2db43a66fe9::ButtonRenderer</scope><name>n_onViewAttachedToWindow</name></member>
+      <member refid="classcrc64720bb2db43a66fe9_1_1_button_renderer_1add82ad235886f4519406e1ba887d068e" prot="private" virt="non-virtual"><scope>crc64720bb2db43a66fe9::ButtonRenderer</scope><name>n_onViewAttachedToWindow</name></member>
+      <member refid="classcrc64720bb2db43a66fe9_1_1_button_renderer_1a8ed94b1355715e345b93b70d3e5020af" prot="private" virt="non-virtual"><scope>crc64720bb2db43a66fe9::ButtonRenderer</scope><name>n_onViewDetachedFromWindow</name></member>
+      <member refid="classcrc64720bb2db43a66fe9_1_1_button_renderer_1a8ed94b1355715e345b93b70d3e5020af" prot="private" virt="non-virtual"><scope>crc64720bb2db43a66fe9::ButtonRenderer</scope><name>n_onViewDetachedFromWindow</name></member>
+      <member refid="classcrc64720bb2db43a66fe9_1_1_button_renderer_1a8ed94b1355715e345b93b70d3e5020af" prot="private" virt="non-virtual"><scope>crc64720bb2db43a66fe9::ButtonRenderer</scope><name>n_onViewDetachedFromWindow</name></member>
+      <member refid="classcrc64720bb2db43a66fe9_1_1_button_renderer_1a8ed94b1355715e345b93b70d3e5020af" prot="private" virt="non-virtual"><scope>crc64720bb2db43a66fe9::ButtonRenderer</scope><name>n_onViewDetachedFromWindow</name></member>
+      <member refid="classcrc64720bb2db43a66fe9_1_1_button_renderer_1aba2c80a3a220754685a821545b8f50c5" prot="public" virt="non-virtual"><scope>crc64720bb2db43a66fe9::ButtonRenderer</scope><name>onClick</name></member>
+      <member refid="classcrc64720bb2db43a66fe9_1_1_button_renderer_1aba2c80a3a220754685a821545b8f50c5" prot="public" virt="non-virtual"><scope>crc64720bb2db43a66fe9::ButtonRenderer</scope><name>onClick</name></member>
+      <member refid="classcrc64720bb2db43a66fe9_1_1_button_renderer_1aba2c80a3a220754685a821545b8f50c5" prot="public" virt="non-virtual"><scope>crc64720bb2db43a66fe9::ButtonRenderer</scope><name>onClick</name></member>
+      <member refid="classcrc64720bb2db43a66fe9_1_1_button_renderer_1aba2c80a3a220754685a821545b8f50c5" prot="public" virt="non-virtual"><scope>crc64720bb2db43a66fe9::ButtonRenderer</scope><name>onClick</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_visual_element_renderer__1_1a31a32c8d1668368e4b13d7933a626833" prot="public" virt="non-virtual"><scope>crc64720bb2db43a66fe9::ButtonRenderer</scope><name>onConfigurationChanged</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_visual_element_renderer__1_1a31a32c8d1668368e4b13d7933a626833" prot="public" virt="non-virtual"><scope>crc64720bb2db43a66fe9::ButtonRenderer</scope><name>onConfigurationChanged</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_visual_element_renderer__1_1a31a32c8d1668368e4b13d7933a626833" prot="public" virt="non-virtual"><scope>crc64720bb2db43a66fe9::ButtonRenderer</scope><name>onConfigurationChanged</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_visual_element_renderer__1_1a31a32c8d1668368e4b13d7933a626833" prot="public" virt="non-virtual"><scope>crc64720bb2db43a66fe9::ButtonRenderer</scope><name>onConfigurationChanged</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_view_renderer__2_1af7a9cd1b5635deaf68179fcdc4ee9275" prot="public" virt="non-virtual"><scope>crc64720bb2db43a66fe9::ButtonRenderer</scope><name>onFocusChange</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_view_renderer__2_1af7a9cd1b5635deaf68179fcdc4ee9275" prot="public" virt="non-virtual"><scope>crc64720bb2db43a66fe9::ButtonRenderer</scope><name>onFocusChange</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_view_renderer__2_1af7a9cd1b5635deaf68179fcdc4ee9275" prot="public" virt="non-virtual"><scope>crc64720bb2db43a66fe9::ButtonRenderer</scope><name>onFocusChange</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_view_renderer__2_1af7a9cd1b5635deaf68179fcdc4ee9275" prot="public" virt="non-virtual"><scope>crc64720bb2db43a66fe9::ButtonRenderer</scope><name>onFocusChange</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_visual_element_renderer__1_1ade33eb4d0895f2536faf5f3e57830bc2" prot="public" virt="non-virtual"><scope>crc64720bb2db43a66fe9::ButtonRenderer</scope><name>onInterceptTouchEvent</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_visual_element_renderer__1_1ade33eb4d0895f2536faf5f3e57830bc2" prot="public" virt="non-virtual"><scope>crc64720bb2db43a66fe9::ButtonRenderer</scope><name>onInterceptTouchEvent</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_visual_element_renderer__1_1ade33eb4d0895f2536faf5f3e57830bc2" prot="public" virt="non-virtual"><scope>crc64720bb2db43a66fe9::ButtonRenderer</scope><name>onInterceptTouchEvent</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_visual_element_renderer__1_1ade33eb4d0895f2536faf5f3e57830bc2" prot="public" virt="non-virtual"><scope>crc64720bb2db43a66fe9::ButtonRenderer</scope><name>onInterceptTouchEvent</name></member>
+      <member refid="classcrc64720bb2db43a66fe9_1_1_button_renderer_1ae919cf63fc9c9dc31a3abcc5d2e874c3" prot="public" virt="non-virtual"><scope>crc64720bb2db43a66fe9::ButtonRenderer</scope><name>onLayout</name></member>
+      <member refid="classcrc64720bb2db43a66fe9_1_1_button_renderer_1ae919cf63fc9c9dc31a3abcc5d2e874c3" prot="public" virt="non-virtual"><scope>crc64720bb2db43a66fe9::ButtonRenderer</scope><name>onLayout</name></member>
+      <member refid="classcrc64720bb2db43a66fe9_1_1_button_renderer_1ae919cf63fc9c9dc31a3abcc5d2e874c3" prot="public" virt="non-virtual"><scope>crc64720bb2db43a66fe9::ButtonRenderer</scope><name>onLayout</name></member>
+      <member refid="classcrc64720bb2db43a66fe9_1_1_button_renderer_1ae919cf63fc9c9dc31a3abcc5d2e874c3" prot="public" virt="non-virtual"><scope>crc64720bb2db43a66fe9::ButtonRenderer</scope><name>onLayout</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_visual_element_renderer__1_1a68f705864fbd52c60cb4c29f5372aa76" prot="public" virt="non-virtual"><scope>crc64720bb2db43a66fe9::ButtonRenderer</scope><name>onMeasure</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_visual_element_renderer__1_1a68f705864fbd52c60cb4c29f5372aa76" prot="public" virt="non-virtual"><scope>crc64720bb2db43a66fe9::ButtonRenderer</scope><name>onMeasure</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_visual_element_renderer__1_1a68f705864fbd52c60cb4c29f5372aa76" prot="public" virt="non-virtual"><scope>crc64720bb2db43a66fe9::ButtonRenderer</scope><name>onMeasure</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_visual_element_renderer__1_1a68f705864fbd52c60cb4c29f5372aa76" prot="public" virt="non-virtual"><scope>crc64720bb2db43a66fe9::ButtonRenderer</scope><name>onMeasure</name></member>
+      <member refid="classcrc64720bb2db43a66fe9_1_1_button_renderer_1abf128b3c03571438be32ce230cb2b754" prot="public" virt="non-virtual"><scope>crc64720bb2db43a66fe9::ButtonRenderer</scope><name>onTouch</name></member>
+      <member refid="classcrc64720bb2db43a66fe9_1_1_button_renderer_1abf128b3c03571438be32ce230cb2b754" prot="public" virt="non-virtual"><scope>crc64720bb2db43a66fe9::ButtonRenderer</scope><name>onTouch</name></member>
+      <member refid="classcrc64720bb2db43a66fe9_1_1_button_renderer_1abf128b3c03571438be32ce230cb2b754" prot="public" virt="non-virtual"><scope>crc64720bb2db43a66fe9::ButtonRenderer</scope><name>onTouch</name></member>
+      <member refid="classcrc64720bb2db43a66fe9_1_1_button_renderer_1abf128b3c03571438be32ce230cb2b754" prot="public" virt="non-virtual"><scope>crc64720bb2db43a66fe9::ButtonRenderer</scope><name>onTouch</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_visual_element_renderer__1_1a11426581e099109c3f05f848cd0f55a4" prot="public" virt="non-virtual"><scope>crc64720bb2db43a66fe9::ButtonRenderer</scope><name>onTouchEvent</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_visual_element_renderer__1_1a11426581e099109c3f05f848cd0f55a4" prot="public" virt="non-virtual"><scope>crc64720bb2db43a66fe9::ButtonRenderer</scope><name>onTouchEvent</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_visual_element_renderer__1_1a11426581e099109c3f05f848cd0f55a4" prot="public" virt="non-virtual"><scope>crc64720bb2db43a66fe9::ButtonRenderer</scope><name>onTouchEvent</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_visual_element_renderer__1_1a11426581e099109c3f05f848cd0f55a4" prot="public" virt="non-virtual"><scope>crc64720bb2db43a66fe9::ButtonRenderer</scope><name>onTouchEvent</name></member>
+      <member refid="classcrc64720bb2db43a66fe9_1_1_button_renderer_1abb4d3331e03259e3b4356eb3be0509ae" prot="public" virt="non-virtual"><scope>crc64720bb2db43a66fe9::ButtonRenderer</scope><name>onViewAttachedToWindow</name></member>
+      <member refid="classcrc64720bb2db43a66fe9_1_1_button_renderer_1abb4d3331e03259e3b4356eb3be0509ae" prot="public" virt="non-virtual"><scope>crc64720bb2db43a66fe9::ButtonRenderer</scope><name>onViewAttachedToWindow</name></member>
+      <member refid="classcrc64720bb2db43a66fe9_1_1_button_renderer_1abb4d3331e03259e3b4356eb3be0509ae" prot="public" virt="non-virtual"><scope>crc64720bb2db43a66fe9::ButtonRenderer</scope><name>onViewAttachedToWindow</name></member>
+      <member refid="classcrc64720bb2db43a66fe9_1_1_button_renderer_1abb4d3331e03259e3b4356eb3be0509ae" prot="public" virt="non-virtual"><scope>crc64720bb2db43a66fe9::ButtonRenderer</scope><name>onViewAttachedToWindow</name></member>
+      <member refid="classcrc64720bb2db43a66fe9_1_1_button_renderer_1a4e974061230d236c0cad514b63b0f24b" prot="public" virt="non-virtual"><scope>crc64720bb2db43a66fe9::ButtonRenderer</scope><name>onViewDetachedFromWindow</name></member>
+      <member refid="classcrc64720bb2db43a66fe9_1_1_button_renderer_1a4e974061230d236c0cad514b63b0f24b" prot="public" virt="non-virtual"><scope>crc64720bb2db43a66fe9::ButtonRenderer</scope><name>onViewDetachedFromWindow</name></member>
+      <member refid="classcrc64720bb2db43a66fe9_1_1_button_renderer_1a4e974061230d236c0cad514b63b0f24b" prot="public" virt="non-virtual"><scope>crc64720bb2db43a66fe9::ButtonRenderer</scope><name>onViewDetachedFromWindow</name></member>
+      <member refid="classcrc64720bb2db43a66fe9_1_1_button_renderer_1a4e974061230d236c0cad514b63b0f24b" prot="public" virt="non-virtual"><scope>crc64720bb2db43a66fe9::ButtonRenderer</scope><name>onViewDetachedFromWindow</name></member>
+      <member refid="classcrc64720bb2db43a66fe9_1_1_button_renderer_1aa5fd9b5655eb47acd7717dafd7a650fc" prot="private" virt="non-virtual"><scope>crc64720bb2db43a66fe9::ButtonRenderer</scope><name>refList</name></member>
+      <member refid="classcrc64720bb2db43a66fe9_1_1_view_renderer__2_1aa393285c20976d8f4668b1d516e27f21" prot="public" virt="non-virtual"><scope>crc64720bb2db43a66fe9::ButtonRenderer</scope><name>ViewRenderer_2</name></member>
+      <member refid="classcrc64720bb2db43a66fe9_1_1_view_renderer__2_1ab48081082956bca2392a89088b66822a" prot="public" virt="non-virtual"><scope>crc64720bb2db43a66fe9::ButtonRenderer</scope><name>ViewRenderer_2</name></member>
+      <member refid="classcrc64720bb2db43a66fe9_1_1_view_renderer__2_1aa66b6816b0b6e4882d5a6f58db86fad2" prot="public" virt="non-virtual"><scope>crc64720bb2db43a66fe9::ButtonRenderer</scope><name>ViewRenderer_2</name></member>
+      <member refid="classcrc64720bb2db43a66fe9_1_1_view_renderer__2_1aa393285c20976d8f4668b1d516e27f21" prot="public" virt="non-virtual"><scope>crc64720bb2db43a66fe9::ButtonRenderer</scope><name>ViewRenderer_2</name></member>
+      <member refid="classcrc64720bb2db43a66fe9_1_1_view_renderer__2_1ab48081082956bca2392a89088b66822a" prot="public" virt="non-virtual"><scope>crc64720bb2db43a66fe9::ButtonRenderer</scope><name>ViewRenderer_2</name></member>
+      <member refid="classcrc64720bb2db43a66fe9_1_1_view_renderer__2_1aa66b6816b0b6e4882d5a6f58db86fad2" prot="public" virt="non-virtual"><scope>crc64720bb2db43a66fe9::ButtonRenderer</scope><name>ViewRenderer_2</name></member>
+      <member refid="classcrc64720bb2db43a66fe9_1_1_view_renderer__2_1aa393285c20976d8f4668b1d516e27f21" prot="public" virt="non-virtual"><scope>crc64720bb2db43a66fe9::ButtonRenderer</scope><name>ViewRenderer_2</name></member>
+      <member refid="classcrc64720bb2db43a66fe9_1_1_view_renderer__2_1ab48081082956bca2392a89088b66822a" prot="public" virt="non-virtual"><scope>crc64720bb2db43a66fe9::ButtonRenderer</scope><name>ViewRenderer_2</name></member>
+      <member refid="classcrc64720bb2db43a66fe9_1_1_view_renderer__2_1aa66b6816b0b6e4882d5a6f58db86fad2" prot="public" virt="non-virtual"><scope>crc64720bb2db43a66fe9::ButtonRenderer</scope><name>ViewRenderer_2</name></member>
+      <member refid="classcrc64720bb2db43a66fe9_1_1_view_renderer__2_1aa393285c20976d8f4668b1d516e27f21" prot="public" virt="non-virtual"><scope>crc64720bb2db43a66fe9::ButtonRenderer</scope><name>ViewRenderer_2</name></member>
+      <member refid="classcrc64720bb2db43a66fe9_1_1_view_renderer__2_1ab48081082956bca2392a89088b66822a" prot="public" virt="non-virtual"><scope>crc64720bb2db43a66fe9::ButtonRenderer</scope><name>ViewRenderer_2</name></member>
+      <member refid="classcrc64720bb2db43a66fe9_1_1_view_renderer__2_1aa66b6816b0b6e4882d5a6f58db86fad2" prot="public" virt="non-virtual"><scope>crc64720bb2db43a66fe9::ButtonRenderer</scope><name>ViewRenderer_2</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_visual_element_renderer__1_1a347f18991a486c5b5f1c4dcd83475f21" prot="public" virt="non-virtual"><scope>crc64720bb2db43a66fe9::ButtonRenderer</scope><name>VisualElementRenderer_1</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_visual_element_renderer__1_1a42957113957987d17592ba290f118ec5" prot="public" virt="non-virtual"><scope>crc64720bb2db43a66fe9::ButtonRenderer</scope><name>VisualElementRenderer_1</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_visual_element_renderer__1_1a92a3ec4e374dfc2f8b16cfccb9b83c7f" prot="public" virt="non-virtual"><scope>crc64720bb2db43a66fe9::ButtonRenderer</scope><name>VisualElementRenderer_1</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_visual_element_renderer__1_1a347f18991a486c5b5f1c4dcd83475f21" prot="public" virt="non-virtual"><scope>crc64720bb2db43a66fe9::ButtonRenderer</scope><name>VisualElementRenderer_1</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_visual_element_renderer__1_1a42957113957987d17592ba290f118ec5" prot="public" virt="non-virtual"><scope>crc64720bb2db43a66fe9::ButtonRenderer</scope><name>VisualElementRenderer_1</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_visual_element_renderer__1_1a92a3ec4e374dfc2f8b16cfccb9b83c7f" prot="public" virt="non-virtual"><scope>crc64720bb2db43a66fe9::ButtonRenderer</scope><name>VisualElementRenderer_1</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_visual_element_renderer__1_1a347f18991a486c5b5f1c4dcd83475f21" prot="public" virt="non-virtual"><scope>crc64720bb2db43a66fe9::ButtonRenderer</scope><name>VisualElementRenderer_1</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_visual_element_renderer__1_1a42957113957987d17592ba290f118ec5" prot="public" virt="non-virtual"><scope>crc64720bb2db43a66fe9::ButtonRenderer</scope><name>VisualElementRenderer_1</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_visual_element_renderer__1_1a92a3ec4e374dfc2f8b16cfccb9b83c7f" prot="public" virt="non-virtual"><scope>crc64720bb2db43a66fe9::ButtonRenderer</scope><name>VisualElementRenderer_1</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_visual_element_renderer__1_1a347f18991a486c5b5f1c4dcd83475f21" prot="public" virt="non-virtual"><scope>crc64720bb2db43a66fe9::ButtonRenderer</scope><name>VisualElementRenderer_1</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_visual_element_renderer__1_1a42957113957987d17592ba290f118ec5" prot="public" virt="non-virtual"><scope>crc64720bb2db43a66fe9::ButtonRenderer</scope><name>VisualElementRenderer_1</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_visual_element_renderer__1_1a92a3ec4e374dfc2f8b16cfccb9b83c7f" prot="public" virt="non-virtual"><scope>crc64720bb2db43a66fe9::ButtonRenderer</scope><name>VisualElementRenderer_1</name></member>
+    </listofallmembers>
+  </compounddef>
+</doxygen>

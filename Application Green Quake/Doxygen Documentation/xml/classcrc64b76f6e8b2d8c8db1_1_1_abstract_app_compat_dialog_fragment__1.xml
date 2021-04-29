@@ -1,0 +1,1274 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.9.1" xml:lang="en-US">
+  <compounddef id="classcrc64b76f6e8b2d8c8db1_1_1_abstract_app_compat_dialog_fragment__1" kind="class" language="Java" prot="public" abstract="yes">
+    <compoundname>crc64b76f6e8b2d8c8db1::AbstractAppCompatDialogFragment_1</compoundname>
+    <basecompoundref prot="public" virt="non-virtual">androidx.appcompat.app.AppCompatDialogFragment</basecompoundref>
+    <basecompoundref prot="public" virt="non-virtual">mono.android.IGCUserPeer</basecompoundref>
+    <basecompoundref prot="public" virt="non-virtual">androidx.appcompat.app.AppCompatDialogFragment</basecompoundref>
+    <basecompoundref prot="public" virt="non-virtual">mono.android.IGCUserPeer</basecompoundref>
+    <basecompoundref prot="public" virt="non-virtual">androidx.appcompat.app.AppCompatDialogFragment</basecompoundref>
+    <basecompoundref prot="public" virt="non-virtual">mono.android.IGCUserPeer</basecompoundref>
+    <basecompoundref prot="public" virt="non-virtual">androidx.appcompat.app.AppCompatDialogFragment</basecompoundref>
+    <basecompoundref prot="public" virt="non-virtual">mono.android.IGCUserPeer</basecompoundref>
+    <derivedcompoundref refid="classcrc64b76f6e8b2d8c8db1_1_1_action_sheet_app_compat_dialog_fragment" prot="public" virt="non-virtual">crc64b76f6e8b2d8c8db1.ActionSheetAppCompatDialogFragment</derivedcompoundref>
+    <derivedcompoundref refid="classcrc64b76f6e8b2d8c8db1_1_1_action_sheet_app_compat_dialog_fragment" prot="public" virt="non-virtual">crc64b76f6e8b2d8c8db1.ActionSheetAppCompatDialogFragment</derivedcompoundref>
+    <derivedcompoundref refid="classcrc64b76f6e8b2d8c8db1_1_1_action_sheet_app_compat_dialog_fragment" prot="public" virt="non-virtual">crc64b76f6e8b2d8c8db1.ActionSheetAppCompatDialogFragment</derivedcompoundref>
+    <derivedcompoundref refid="classcrc64b76f6e8b2d8c8db1_1_1_action_sheet_app_compat_dialog_fragment" prot="public" virt="non-virtual">crc64b76f6e8b2d8c8db1.ActionSheetAppCompatDialogFragment</derivedcompoundref>
+    <derivedcompoundref refid="classcrc64b76f6e8b2d8c8db1_1_1_alert_app_compat_dialog_fragment" prot="public" virt="non-virtual">crc64b76f6e8b2d8c8db1.AlertAppCompatDialogFragment</derivedcompoundref>
+    <derivedcompoundref refid="classcrc64b76f6e8b2d8c8db1_1_1_alert_app_compat_dialog_fragment" prot="public" virt="non-virtual">crc64b76f6e8b2d8c8db1.AlertAppCompatDialogFragment</derivedcompoundref>
+    <derivedcompoundref refid="classcrc64b76f6e8b2d8c8db1_1_1_alert_app_compat_dialog_fragment" prot="public" virt="non-virtual">crc64b76f6e8b2d8c8db1.AlertAppCompatDialogFragment</derivedcompoundref>
+    <derivedcompoundref refid="classcrc64b76f6e8b2d8c8db1_1_1_alert_app_compat_dialog_fragment" prot="public" virt="non-virtual">crc64b76f6e8b2d8c8db1.AlertAppCompatDialogFragment</derivedcompoundref>
+    <derivedcompoundref refid="classcrc64b76f6e8b2d8c8db1_1_1_bottom_sheet_dialog_fragment" prot="public" virt="non-virtual">crc64b76f6e8b2d8c8db1.BottomSheetDialogFragment</derivedcompoundref>
+    <derivedcompoundref refid="classcrc64b76f6e8b2d8c8db1_1_1_bottom_sheet_dialog_fragment" prot="public" virt="non-virtual">crc64b76f6e8b2d8c8db1.BottomSheetDialogFragment</derivedcompoundref>
+    <derivedcompoundref refid="classcrc64b76f6e8b2d8c8db1_1_1_bottom_sheet_dialog_fragment" prot="public" virt="non-virtual">crc64b76f6e8b2d8c8db1.BottomSheetDialogFragment</derivedcompoundref>
+    <derivedcompoundref refid="classcrc64b76f6e8b2d8c8db1_1_1_bottom_sheet_dialog_fragment" prot="public" virt="non-virtual">crc64b76f6e8b2d8c8db1.BottomSheetDialogFragment</derivedcompoundref>
+    <derivedcompoundref refid="classcrc64b76f6e8b2d8c8db1_1_1_confirm_app_compat_dialog_fragment" prot="public" virt="non-virtual">crc64b76f6e8b2d8c8db1.ConfirmAppCompatDialogFragment</derivedcompoundref>
+    <derivedcompoundref refid="classcrc64b76f6e8b2d8c8db1_1_1_confirm_app_compat_dialog_fragment" prot="public" virt="non-virtual">crc64b76f6e8b2d8c8db1.ConfirmAppCompatDialogFragment</derivedcompoundref>
+    <derivedcompoundref refid="classcrc64b76f6e8b2d8c8db1_1_1_confirm_app_compat_dialog_fragment" prot="public" virt="non-virtual">crc64b76f6e8b2d8c8db1.ConfirmAppCompatDialogFragment</derivedcompoundref>
+    <derivedcompoundref refid="classcrc64b76f6e8b2d8c8db1_1_1_confirm_app_compat_dialog_fragment" prot="public" virt="non-virtual">crc64b76f6e8b2d8c8db1.ConfirmAppCompatDialogFragment</derivedcompoundref>
+    <derivedcompoundref refid="classcrc64b76f6e8b2d8c8db1_1_1_date_app_compat_dialog_fragment" prot="public" virt="non-virtual">crc64b76f6e8b2d8c8db1.DateAppCompatDialogFragment</derivedcompoundref>
+    <derivedcompoundref refid="classcrc64b76f6e8b2d8c8db1_1_1_date_app_compat_dialog_fragment" prot="public" virt="non-virtual">crc64b76f6e8b2d8c8db1.DateAppCompatDialogFragment</derivedcompoundref>
+    <derivedcompoundref refid="classcrc64b76f6e8b2d8c8db1_1_1_date_app_compat_dialog_fragment" prot="public" virt="non-virtual">crc64b76f6e8b2d8c8db1.DateAppCompatDialogFragment</derivedcompoundref>
+    <derivedcompoundref refid="classcrc64b76f6e8b2d8c8db1_1_1_date_app_compat_dialog_fragment" prot="public" virt="non-virtual">crc64b76f6e8b2d8c8db1.DateAppCompatDialogFragment</derivedcompoundref>
+    <derivedcompoundref refid="classcrc64b76f6e8b2d8c8db1_1_1_login_app_compat_dialog_fragment" prot="public" virt="non-virtual">crc64b76f6e8b2d8c8db1.LoginAppCompatDialogFragment</derivedcompoundref>
+    <derivedcompoundref refid="classcrc64b76f6e8b2d8c8db1_1_1_login_app_compat_dialog_fragment" prot="public" virt="non-virtual">crc64b76f6e8b2d8c8db1.LoginAppCompatDialogFragment</derivedcompoundref>
+    <derivedcompoundref refid="classcrc64b76f6e8b2d8c8db1_1_1_login_app_compat_dialog_fragment" prot="public" virt="non-virtual">crc64b76f6e8b2d8c8db1.LoginAppCompatDialogFragment</derivedcompoundref>
+    <derivedcompoundref refid="classcrc64b76f6e8b2d8c8db1_1_1_login_app_compat_dialog_fragment" prot="public" virt="non-virtual">crc64b76f6e8b2d8c8db1.LoginAppCompatDialogFragment</derivedcompoundref>
+    <derivedcompoundref refid="classcrc64b76f6e8b2d8c8db1_1_1_prompt_app_compat_dialog_fragment" prot="public" virt="non-virtual">crc64b76f6e8b2d8c8db1.PromptAppCompatDialogFragment</derivedcompoundref>
+    <derivedcompoundref refid="classcrc64b76f6e8b2d8c8db1_1_1_prompt_app_compat_dialog_fragment" prot="public" virt="non-virtual">crc64b76f6e8b2d8c8db1.PromptAppCompatDialogFragment</derivedcompoundref>
+    <derivedcompoundref refid="classcrc64b76f6e8b2d8c8db1_1_1_prompt_app_compat_dialog_fragment" prot="public" virt="non-virtual">crc64b76f6e8b2d8c8db1.PromptAppCompatDialogFragment</derivedcompoundref>
+    <derivedcompoundref refid="classcrc64b76f6e8b2d8c8db1_1_1_prompt_app_compat_dialog_fragment" prot="public" virt="non-virtual">crc64b76f6e8b2d8c8db1.PromptAppCompatDialogFragment</derivedcompoundref>
+    <derivedcompoundref refid="classcrc64b76f6e8b2d8c8db1_1_1_time_app_compat_dialog_fragment" prot="public" virt="non-virtual">crc64b76f6e8b2d8c8db1.TimeAppCompatDialogFragment</derivedcompoundref>
+    <derivedcompoundref refid="classcrc64b76f6e8b2d8c8db1_1_1_time_app_compat_dialog_fragment" prot="public" virt="non-virtual">crc64b76f6e8b2d8c8db1.TimeAppCompatDialogFragment</derivedcompoundref>
+    <derivedcompoundref refid="classcrc64b76f6e8b2d8c8db1_1_1_time_app_compat_dialog_fragment" prot="public" virt="non-virtual">crc64b76f6e8b2d8c8db1.TimeAppCompatDialogFragment</derivedcompoundref>
+    <derivedcompoundref refid="classcrc64b76f6e8b2d8c8db1_1_1_time_app_compat_dialog_fragment" prot="public" virt="non-virtual">crc64b76f6e8b2d8c8db1.TimeAppCompatDialogFragment</derivedcompoundref>
+      <sectiondef kind="public-static-attrib">
+      <memberdef kind="variable" id="classcrc64b76f6e8b2d8c8db1_1_1_abstract_app_compat_dialog_fragment__1_1afcfa7eb84ead37dc52a4fd37444448f9" prot="public" static="yes" mutable="no">
+        <type>final String</type>
+        <definition>static final String crc64b76f6e8b2d8c8db1.AbstractAppCompatDialogFragment_1::__md_methods</definition>
+        <argsstring></argsstring>
+        <name>__md_methods</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+<para>@hide </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/100/android/src/crc64b76f6e8b2d8c8db1/AbstractAppCompatDialogFragment_1.java" line="10" column="28" bodyfile="Application Green Quake.Android/obj/Debug/100/android/src/crc64b76f6e8b2d8c8db1/AbstractAppCompatDialogFragment_1.java" bodystart="10" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="private-attrib">
+      <memberdef kind="variable" id="classcrc64b76f6e8b2d8c8db1_1_1_abstract_app_compat_dialog_fragment__1_1a81ff386ac201712adfa28c098ad78f6a" prot="private" static="no" mutable="no">
+        <type>java.util.ArrayList</type>
+        <definition>java util ArrayList crc64b76f6e8b2d8c8db1.AbstractAppCompatDialogFragment_1::refList</definition>
+        <argsstring></argsstring>
+        <name>refList</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/100/android/src/crc64b76f6e8b2d8c8db1/AbstractAppCompatDialogFragment_1.java" line="52" column="27" bodyfile="Application Green Quake.Android/obj/Debug/100/android/src/crc64b76f6e8b2d8c8db1/AbstractAppCompatDialogFragment_1.java" bodystart="52" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="package-static-func">
+      <memberdef kind="function" id="classcrc64b76f6e8b2d8c8db1_1_1_abstract_app_compat_dialog_fragment__1_1abe9b62dabe876effd451485097cc07a9" prot="package" static="yes" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>crc64b76f6e8b2d8c8db1.AbstractAppCompatDialogFragment_1.[static initializer]</definition>
+        <argsstring></argsstring>
+        <name>[static initializer]</name>
+        <reimplementedby refid="classcrc64b76f6e8b2d8c8db1_1_1_action_sheet_app_compat_dialog_fragment_1a55581ee3d5b5153243e4e3b2c913b11e">[static initializer]</reimplementedby>
+        <reimplementedby refid="classcrc64b76f6e8b2d8c8db1_1_1_alert_app_compat_dialog_fragment_1acb64f0f4777778141aa0016a67bcb0a9">[static initializer]</reimplementedby>
+        <reimplementedby refid="classcrc64b76f6e8b2d8c8db1_1_1_bottom_sheet_dialog_fragment_1a24cc4bffb11af8a05b5add84506b65c4">[static initializer]</reimplementedby>
+        <reimplementedby refid="classcrc64b76f6e8b2d8c8db1_1_1_confirm_app_compat_dialog_fragment_1ac50d50849f8b00f36f89909f5c073273">[static initializer]</reimplementedby>
+        <reimplementedby refid="classcrc64b76f6e8b2d8c8db1_1_1_date_app_compat_dialog_fragment_1afcf1359a04a47eb8deec9d11bfcea554">[static initializer]</reimplementedby>
+        <reimplementedby refid="classcrc64b76f6e8b2d8c8db1_1_1_login_app_compat_dialog_fragment_1a95f9f56a533a5f7585ce3c0d63f2fad5">[static initializer]</reimplementedby>
+        <reimplementedby refid="classcrc64b76f6e8b2d8c8db1_1_1_prompt_app_compat_dialog_fragment_1a096d35f8ccde0b65bbd15aeb8c5e46ae">[static initializer]</reimplementedby>
+        <reimplementedby refid="classcrc64b76f6e8b2d8c8db1_1_1_time_app_compat_dialog_fragment_1a6e54dfd70d3ac9ccf02e84f3802a6d40">[static initializer]</reimplementedby>
+        <reimplementedby refid="classcrc64b76f6e8b2d8c8db1_1_1_action_sheet_app_compat_dialog_fragment_1a55581ee3d5b5153243e4e3b2c913b11e">[static initializer]</reimplementedby>
+        <reimplementedby refid="classcrc64b76f6e8b2d8c8db1_1_1_alert_app_compat_dialog_fragment_1acb64f0f4777778141aa0016a67bcb0a9">[static initializer]</reimplementedby>
+        <reimplementedby refid="classcrc64b76f6e8b2d8c8db1_1_1_bottom_sheet_dialog_fragment_1a24cc4bffb11af8a05b5add84506b65c4">[static initializer]</reimplementedby>
+        <reimplementedby refid="classcrc64b76f6e8b2d8c8db1_1_1_confirm_app_compat_dialog_fragment_1ac50d50849f8b00f36f89909f5c073273">[static initializer]</reimplementedby>
+        <reimplementedby refid="classcrc64b76f6e8b2d8c8db1_1_1_date_app_compat_dialog_fragment_1afcf1359a04a47eb8deec9d11bfcea554">[static initializer]</reimplementedby>
+        <reimplementedby refid="classcrc64b76f6e8b2d8c8db1_1_1_login_app_compat_dialog_fragment_1a95f9f56a533a5f7585ce3c0d63f2fad5">[static initializer]</reimplementedby>
+        <reimplementedby refid="classcrc64b76f6e8b2d8c8db1_1_1_prompt_app_compat_dialog_fragment_1a096d35f8ccde0b65bbd15aeb8c5e46ae">[static initializer]</reimplementedby>
+        <reimplementedby refid="classcrc64b76f6e8b2d8c8db1_1_1_time_app_compat_dialog_fragment_1a6e54dfd70d3ac9ccf02e84f3802a6d40">[static initializer]</reimplementedby>
+        <reimplementedby refid="classcrc64b76f6e8b2d8c8db1_1_1_action_sheet_app_compat_dialog_fragment_1a55581ee3d5b5153243e4e3b2c913b11e">[static initializer]</reimplementedby>
+        <reimplementedby refid="classcrc64b76f6e8b2d8c8db1_1_1_alert_app_compat_dialog_fragment_1acb64f0f4777778141aa0016a67bcb0a9">[static initializer]</reimplementedby>
+        <reimplementedby refid="classcrc64b76f6e8b2d8c8db1_1_1_bottom_sheet_dialog_fragment_1a24cc4bffb11af8a05b5add84506b65c4">[static initializer]</reimplementedby>
+        <reimplementedby refid="classcrc64b76f6e8b2d8c8db1_1_1_confirm_app_compat_dialog_fragment_1ac50d50849f8b00f36f89909f5c073273">[static initializer]</reimplementedby>
+        <reimplementedby refid="classcrc64b76f6e8b2d8c8db1_1_1_date_app_compat_dialog_fragment_1afcf1359a04a47eb8deec9d11bfcea554">[static initializer]</reimplementedby>
+        <reimplementedby refid="classcrc64b76f6e8b2d8c8db1_1_1_login_app_compat_dialog_fragment_1a95f9f56a533a5f7585ce3c0d63f2fad5">[static initializer]</reimplementedby>
+        <reimplementedby refid="classcrc64b76f6e8b2d8c8db1_1_1_prompt_app_compat_dialog_fragment_1a096d35f8ccde0b65bbd15aeb8c5e46ae">[static initializer]</reimplementedby>
+        <reimplementedby refid="classcrc64b76f6e8b2d8c8db1_1_1_time_app_compat_dialog_fragment_1a6e54dfd70d3ac9ccf02e84f3802a6d40">[static initializer]</reimplementedby>
+        <reimplementedby refid="classcrc64b76f6e8b2d8c8db1_1_1_action_sheet_app_compat_dialog_fragment_1a55581ee3d5b5153243e4e3b2c913b11e">[static initializer]</reimplementedby>
+        <reimplementedby refid="classcrc64b76f6e8b2d8c8db1_1_1_alert_app_compat_dialog_fragment_1acb64f0f4777778141aa0016a67bcb0a9">[static initializer]</reimplementedby>
+        <reimplementedby refid="classcrc64b76f6e8b2d8c8db1_1_1_bottom_sheet_dialog_fragment_1a24cc4bffb11af8a05b5add84506b65c4">[static initializer]</reimplementedby>
+        <reimplementedby refid="classcrc64b76f6e8b2d8c8db1_1_1_confirm_app_compat_dialog_fragment_1ac50d50849f8b00f36f89909f5c073273">[static initializer]</reimplementedby>
+        <reimplementedby refid="classcrc64b76f6e8b2d8c8db1_1_1_date_app_compat_dialog_fragment_1afcf1359a04a47eb8deec9d11bfcea554">[static initializer]</reimplementedby>
+        <reimplementedby refid="classcrc64b76f6e8b2d8c8db1_1_1_login_app_compat_dialog_fragment_1a95f9f56a533a5f7585ce3c0d63f2fad5">[static initializer]</reimplementedby>
+        <reimplementedby refid="classcrc64b76f6e8b2d8c8db1_1_1_prompt_app_compat_dialog_fragment_1a096d35f8ccde0b65bbd15aeb8c5e46ae">[static initializer]</reimplementedby>
+        <reimplementedby refid="classcrc64b76f6e8b2d8c8db1_1_1_time_app_compat_dialog_fragment_1a6e54dfd70d3ac9ccf02e84f3802a6d40">[static initializer]</reimplementedby>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/100/android/src/crc64b76f6e8b2d8c8db1/AbstractAppCompatDialogFragment_1.java" line="10" column="28"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc64b76f6e8b2d8c8db1_1_1_abstract_app_compat_dialog_fragment__1_1abe9b62dabe876effd451485097cc07a9" prot="package" static="yes" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>crc64b76f6e8b2d8c8db1.AbstractAppCompatDialogFragment_1.[static initializer]</definition>
+        <argsstring></argsstring>
+        <name>[static initializer]</name>
+        <reimplementedby refid="classcrc64b76f6e8b2d8c8db1_1_1_action_sheet_app_compat_dialog_fragment_1a55581ee3d5b5153243e4e3b2c913b11e">[static initializer]</reimplementedby>
+        <reimplementedby refid="classcrc64b76f6e8b2d8c8db1_1_1_alert_app_compat_dialog_fragment_1acb64f0f4777778141aa0016a67bcb0a9">[static initializer]</reimplementedby>
+        <reimplementedby refid="classcrc64b76f6e8b2d8c8db1_1_1_bottom_sheet_dialog_fragment_1a24cc4bffb11af8a05b5add84506b65c4">[static initializer]</reimplementedby>
+        <reimplementedby refid="classcrc64b76f6e8b2d8c8db1_1_1_confirm_app_compat_dialog_fragment_1ac50d50849f8b00f36f89909f5c073273">[static initializer]</reimplementedby>
+        <reimplementedby refid="classcrc64b76f6e8b2d8c8db1_1_1_date_app_compat_dialog_fragment_1afcf1359a04a47eb8deec9d11bfcea554">[static initializer]</reimplementedby>
+        <reimplementedby refid="classcrc64b76f6e8b2d8c8db1_1_1_login_app_compat_dialog_fragment_1a95f9f56a533a5f7585ce3c0d63f2fad5">[static initializer]</reimplementedby>
+        <reimplementedby refid="classcrc64b76f6e8b2d8c8db1_1_1_prompt_app_compat_dialog_fragment_1a096d35f8ccde0b65bbd15aeb8c5e46ae">[static initializer]</reimplementedby>
+        <reimplementedby refid="classcrc64b76f6e8b2d8c8db1_1_1_time_app_compat_dialog_fragment_1a6e54dfd70d3ac9ccf02e84f3802a6d40">[static initializer]</reimplementedby>
+        <reimplementedby refid="classcrc64b76f6e8b2d8c8db1_1_1_action_sheet_app_compat_dialog_fragment_1a55581ee3d5b5153243e4e3b2c913b11e">[static initializer]</reimplementedby>
+        <reimplementedby refid="classcrc64b76f6e8b2d8c8db1_1_1_alert_app_compat_dialog_fragment_1acb64f0f4777778141aa0016a67bcb0a9">[static initializer]</reimplementedby>
+        <reimplementedby refid="classcrc64b76f6e8b2d8c8db1_1_1_bottom_sheet_dialog_fragment_1a24cc4bffb11af8a05b5add84506b65c4">[static initializer]</reimplementedby>
+        <reimplementedby refid="classcrc64b76f6e8b2d8c8db1_1_1_confirm_app_compat_dialog_fragment_1ac50d50849f8b00f36f89909f5c073273">[static initializer]</reimplementedby>
+        <reimplementedby refid="classcrc64b76f6e8b2d8c8db1_1_1_date_app_compat_dialog_fragment_1afcf1359a04a47eb8deec9d11bfcea554">[static initializer]</reimplementedby>
+        <reimplementedby refid="classcrc64b76f6e8b2d8c8db1_1_1_login_app_compat_dialog_fragment_1a95f9f56a533a5f7585ce3c0d63f2fad5">[static initializer]</reimplementedby>
+        <reimplementedby refid="classcrc64b76f6e8b2d8c8db1_1_1_prompt_app_compat_dialog_fragment_1a096d35f8ccde0b65bbd15aeb8c5e46ae">[static initializer]</reimplementedby>
+        <reimplementedby refid="classcrc64b76f6e8b2d8c8db1_1_1_time_app_compat_dialog_fragment_1a6e54dfd70d3ac9ccf02e84f3802a6d40">[static initializer]</reimplementedby>
+        <reimplementedby refid="classcrc64b76f6e8b2d8c8db1_1_1_action_sheet_app_compat_dialog_fragment_1a55581ee3d5b5153243e4e3b2c913b11e">[static initializer]</reimplementedby>
+        <reimplementedby refid="classcrc64b76f6e8b2d8c8db1_1_1_alert_app_compat_dialog_fragment_1acb64f0f4777778141aa0016a67bcb0a9">[static initializer]</reimplementedby>
+        <reimplementedby refid="classcrc64b76f6e8b2d8c8db1_1_1_bottom_sheet_dialog_fragment_1a24cc4bffb11af8a05b5add84506b65c4">[static initializer]</reimplementedby>
+        <reimplementedby refid="classcrc64b76f6e8b2d8c8db1_1_1_confirm_app_compat_dialog_fragment_1ac50d50849f8b00f36f89909f5c073273">[static initializer]</reimplementedby>
+        <reimplementedby refid="classcrc64b76f6e8b2d8c8db1_1_1_date_app_compat_dialog_fragment_1afcf1359a04a47eb8deec9d11bfcea554">[static initializer]</reimplementedby>
+        <reimplementedby refid="classcrc64b76f6e8b2d8c8db1_1_1_login_app_compat_dialog_fragment_1a95f9f56a533a5f7585ce3c0d63f2fad5">[static initializer]</reimplementedby>
+        <reimplementedby refid="classcrc64b76f6e8b2d8c8db1_1_1_prompt_app_compat_dialog_fragment_1a096d35f8ccde0b65bbd15aeb8c5e46ae">[static initializer]</reimplementedby>
+        <reimplementedby refid="classcrc64b76f6e8b2d8c8db1_1_1_time_app_compat_dialog_fragment_1a6e54dfd70d3ac9ccf02e84f3802a6d40">[static initializer]</reimplementedby>
+        <reimplementedby refid="classcrc64b76f6e8b2d8c8db1_1_1_action_sheet_app_compat_dialog_fragment_1a55581ee3d5b5153243e4e3b2c913b11e">[static initializer]</reimplementedby>
+        <reimplementedby refid="classcrc64b76f6e8b2d8c8db1_1_1_alert_app_compat_dialog_fragment_1acb64f0f4777778141aa0016a67bcb0a9">[static initializer]</reimplementedby>
+        <reimplementedby refid="classcrc64b76f6e8b2d8c8db1_1_1_bottom_sheet_dialog_fragment_1a24cc4bffb11af8a05b5add84506b65c4">[static initializer]</reimplementedby>
+        <reimplementedby refid="classcrc64b76f6e8b2d8c8db1_1_1_confirm_app_compat_dialog_fragment_1ac50d50849f8b00f36f89909f5c073273">[static initializer]</reimplementedby>
+        <reimplementedby refid="classcrc64b76f6e8b2d8c8db1_1_1_date_app_compat_dialog_fragment_1afcf1359a04a47eb8deec9d11bfcea554">[static initializer]</reimplementedby>
+        <reimplementedby refid="classcrc64b76f6e8b2d8c8db1_1_1_login_app_compat_dialog_fragment_1a95f9f56a533a5f7585ce3c0d63f2fad5">[static initializer]</reimplementedby>
+        <reimplementedby refid="classcrc64b76f6e8b2d8c8db1_1_1_prompt_app_compat_dialog_fragment_1a096d35f8ccde0b65bbd15aeb8c5e46ae">[static initializer]</reimplementedby>
+        <reimplementedby refid="classcrc64b76f6e8b2d8c8db1_1_1_time_app_compat_dialog_fragment_1a6e54dfd70d3ac9ccf02e84f3802a6d40">[static initializer]</reimplementedby>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/110/android/src/crc64b76f6e8b2d8c8db1/AbstractAppCompatDialogFragment_1.java" line="10" column="28"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc64b76f6e8b2d8c8db1_1_1_abstract_app_compat_dialog_fragment__1_1abe9b62dabe876effd451485097cc07a9" prot="package" static="yes" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>crc64b76f6e8b2d8c8db1.AbstractAppCompatDialogFragment_1.[static initializer]</definition>
+        <argsstring></argsstring>
+        <name>[static initializer]</name>
+        <reimplementedby refid="classcrc64b76f6e8b2d8c8db1_1_1_action_sheet_app_compat_dialog_fragment_1a55581ee3d5b5153243e4e3b2c913b11e">[static initializer]</reimplementedby>
+        <reimplementedby refid="classcrc64b76f6e8b2d8c8db1_1_1_alert_app_compat_dialog_fragment_1acb64f0f4777778141aa0016a67bcb0a9">[static initializer]</reimplementedby>
+        <reimplementedby refid="classcrc64b76f6e8b2d8c8db1_1_1_bottom_sheet_dialog_fragment_1a24cc4bffb11af8a05b5add84506b65c4">[static initializer]</reimplementedby>
+        <reimplementedby refid="classcrc64b76f6e8b2d8c8db1_1_1_confirm_app_compat_dialog_fragment_1ac50d50849f8b00f36f89909f5c073273">[static initializer]</reimplementedby>
+        <reimplementedby refid="classcrc64b76f6e8b2d8c8db1_1_1_date_app_compat_dialog_fragment_1afcf1359a04a47eb8deec9d11bfcea554">[static initializer]</reimplementedby>
+        <reimplementedby refid="classcrc64b76f6e8b2d8c8db1_1_1_login_app_compat_dialog_fragment_1a95f9f56a533a5f7585ce3c0d63f2fad5">[static initializer]</reimplementedby>
+        <reimplementedby refid="classcrc64b76f6e8b2d8c8db1_1_1_prompt_app_compat_dialog_fragment_1a096d35f8ccde0b65bbd15aeb8c5e46ae">[static initializer]</reimplementedby>
+        <reimplementedby refid="classcrc64b76f6e8b2d8c8db1_1_1_time_app_compat_dialog_fragment_1a6e54dfd70d3ac9ccf02e84f3802a6d40">[static initializer]</reimplementedby>
+        <reimplementedby refid="classcrc64b76f6e8b2d8c8db1_1_1_action_sheet_app_compat_dialog_fragment_1a55581ee3d5b5153243e4e3b2c913b11e">[static initializer]</reimplementedby>
+        <reimplementedby refid="classcrc64b76f6e8b2d8c8db1_1_1_alert_app_compat_dialog_fragment_1acb64f0f4777778141aa0016a67bcb0a9">[static initializer]</reimplementedby>
+        <reimplementedby refid="classcrc64b76f6e8b2d8c8db1_1_1_bottom_sheet_dialog_fragment_1a24cc4bffb11af8a05b5add84506b65c4">[static initializer]</reimplementedby>
+        <reimplementedby refid="classcrc64b76f6e8b2d8c8db1_1_1_confirm_app_compat_dialog_fragment_1ac50d50849f8b00f36f89909f5c073273">[static initializer]</reimplementedby>
+        <reimplementedby refid="classcrc64b76f6e8b2d8c8db1_1_1_date_app_compat_dialog_fragment_1afcf1359a04a47eb8deec9d11bfcea554">[static initializer]</reimplementedby>
+        <reimplementedby refid="classcrc64b76f6e8b2d8c8db1_1_1_login_app_compat_dialog_fragment_1a95f9f56a533a5f7585ce3c0d63f2fad5">[static initializer]</reimplementedby>
+        <reimplementedby refid="classcrc64b76f6e8b2d8c8db1_1_1_prompt_app_compat_dialog_fragment_1a096d35f8ccde0b65bbd15aeb8c5e46ae">[static initializer]</reimplementedby>
+        <reimplementedby refid="classcrc64b76f6e8b2d8c8db1_1_1_time_app_compat_dialog_fragment_1a6e54dfd70d3ac9ccf02e84f3802a6d40">[static initializer]</reimplementedby>
+        <reimplementedby refid="classcrc64b76f6e8b2d8c8db1_1_1_action_sheet_app_compat_dialog_fragment_1a55581ee3d5b5153243e4e3b2c913b11e">[static initializer]</reimplementedby>
+        <reimplementedby refid="classcrc64b76f6e8b2d8c8db1_1_1_alert_app_compat_dialog_fragment_1acb64f0f4777778141aa0016a67bcb0a9">[static initializer]</reimplementedby>
+        <reimplementedby refid="classcrc64b76f6e8b2d8c8db1_1_1_bottom_sheet_dialog_fragment_1a24cc4bffb11af8a05b5add84506b65c4">[static initializer]</reimplementedby>
+        <reimplementedby refid="classcrc64b76f6e8b2d8c8db1_1_1_confirm_app_compat_dialog_fragment_1ac50d50849f8b00f36f89909f5c073273">[static initializer]</reimplementedby>
+        <reimplementedby refid="classcrc64b76f6e8b2d8c8db1_1_1_date_app_compat_dialog_fragment_1afcf1359a04a47eb8deec9d11bfcea554">[static initializer]</reimplementedby>
+        <reimplementedby refid="classcrc64b76f6e8b2d8c8db1_1_1_login_app_compat_dialog_fragment_1a95f9f56a533a5f7585ce3c0d63f2fad5">[static initializer]</reimplementedby>
+        <reimplementedby refid="classcrc64b76f6e8b2d8c8db1_1_1_prompt_app_compat_dialog_fragment_1a096d35f8ccde0b65bbd15aeb8c5e46ae">[static initializer]</reimplementedby>
+        <reimplementedby refid="classcrc64b76f6e8b2d8c8db1_1_1_time_app_compat_dialog_fragment_1a6e54dfd70d3ac9ccf02e84f3802a6d40">[static initializer]</reimplementedby>
+        <reimplementedby refid="classcrc64b76f6e8b2d8c8db1_1_1_action_sheet_app_compat_dialog_fragment_1a55581ee3d5b5153243e4e3b2c913b11e">[static initializer]</reimplementedby>
+        <reimplementedby refid="classcrc64b76f6e8b2d8c8db1_1_1_alert_app_compat_dialog_fragment_1acb64f0f4777778141aa0016a67bcb0a9">[static initializer]</reimplementedby>
+        <reimplementedby refid="classcrc64b76f6e8b2d8c8db1_1_1_bottom_sheet_dialog_fragment_1a24cc4bffb11af8a05b5add84506b65c4">[static initializer]</reimplementedby>
+        <reimplementedby refid="classcrc64b76f6e8b2d8c8db1_1_1_confirm_app_compat_dialog_fragment_1ac50d50849f8b00f36f89909f5c073273">[static initializer]</reimplementedby>
+        <reimplementedby refid="classcrc64b76f6e8b2d8c8db1_1_1_date_app_compat_dialog_fragment_1afcf1359a04a47eb8deec9d11bfcea554">[static initializer]</reimplementedby>
+        <reimplementedby refid="classcrc64b76f6e8b2d8c8db1_1_1_login_app_compat_dialog_fragment_1a95f9f56a533a5f7585ce3c0d63f2fad5">[static initializer]</reimplementedby>
+        <reimplementedby refid="classcrc64b76f6e8b2d8c8db1_1_1_prompt_app_compat_dialog_fragment_1a096d35f8ccde0b65bbd15aeb8c5e46ae">[static initializer]</reimplementedby>
+        <reimplementedby refid="classcrc64b76f6e8b2d8c8db1_1_1_time_app_compat_dialog_fragment_1a6e54dfd70d3ac9ccf02e84f3802a6d40">[static initializer]</reimplementedby>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/100/android/src/crc64b76f6e8b2d8c8db1/AbstractAppCompatDialogFragment_1.java" line="10" column="28"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc64b76f6e8b2d8c8db1_1_1_abstract_app_compat_dialog_fragment__1_1abe9b62dabe876effd451485097cc07a9" prot="package" static="yes" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>crc64b76f6e8b2d8c8db1.AbstractAppCompatDialogFragment_1.[static initializer]</definition>
+        <argsstring></argsstring>
+        <name>[static initializer]</name>
+        <reimplementedby refid="classcrc64b76f6e8b2d8c8db1_1_1_action_sheet_app_compat_dialog_fragment_1a55581ee3d5b5153243e4e3b2c913b11e">[static initializer]</reimplementedby>
+        <reimplementedby refid="classcrc64b76f6e8b2d8c8db1_1_1_alert_app_compat_dialog_fragment_1acb64f0f4777778141aa0016a67bcb0a9">[static initializer]</reimplementedby>
+        <reimplementedby refid="classcrc64b76f6e8b2d8c8db1_1_1_bottom_sheet_dialog_fragment_1a24cc4bffb11af8a05b5add84506b65c4">[static initializer]</reimplementedby>
+        <reimplementedby refid="classcrc64b76f6e8b2d8c8db1_1_1_confirm_app_compat_dialog_fragment_1ac50d50849f8b00f36f89909f5c073273">[static initializer]</reimplementedby>
+        <reimplementedby refid="classcrc64b76f6e8b2d8c8db1_1_1_date_app_compat_dialog_fragment_1afcf1359a04a47eb8deec9d11bfcea554">[static initializer]</reimplementedby>
+        <reimplementedby refid="classcrc64b76f6e8b2d8c8db1_1_1_login_app_compat_dialog_fragment_1a95f9f56a533a5f7585ce3c0d63f2fad5">[static initializer]</reimplementedby>
+        <reimplementedby refid="classcrc64b76f6e8b2d8c8db1_1_1_prompt_app_compat_dialog_fragment_1a096d35f8ccde0b65bbd15aeb8c5e46ae">[static initializer]</reimplementedby>
+        <reimplementedby refid="classcrc64b76f6e8b2d8c8db1_1_1_time_app_compat_dialog_fragment_1a6e54dfd70d3ac9ccf02e84f3802a6d40">[static initializer]</reimplementedby>
+        <reimplementedby refid="classcrc64b76f6e8b2d8c8db1_1_1_action_sheet_app_compat_dialog_fragment_1a55581ee3d5b5153243e4e3b2c913b11e">[static initializer]</reimplementedby>
+        <reimplementedby refid="classcrc64b76f6e8b2d8c8db1_1_1_alert_app_compat_dialog_fragment_1acb64f0f4777778141aa0016a67bcb0a9">[static initializer]</reimplementedby>
+        <reimplementedby refid="classcrc64b76f6e8b2d8c8db1_1_1_bottom_sheet_dialog_fragment_1a24cc4bffb11af8a05b5add84506b65c4">[static initializer]</reimplementedby>
+        <reimplementedby refid="classcrc64b76f6e8b2d8c8db1_1_1_confirm_app_compat_dialog_fragment_1ac50d50849f8b00f36f89909f5c073273">[static initializer]</reimplementedby>
+        <reimplementedby refid="classcrc64b76f6e8b2d8c8db1_1_1_date_app_compat_dialog_fragment_1afcf1359a04a47eb8deec9d11bfcea554">[static initializer]</reimplementedby>
+        <reimplementedby refid="classcrc64b76f6e8b2d8c8db1_1_1_login_app_compat_dialog_fragment_1a95f9f56a533a5f7585ce3c0d63f2fad5">[static initializer]</reimplementedby>
+        <reimplementedby refid="classcrc64b76f6e8b2d8c8db1_1_1_prompt_app_compat_dialog_fragment_1a096d35f8ccde0b65bbd15aeb8c5e46ae">[static initializer]</reimplementedby>
+        <reimplementedby refid="classcrc64b76f6e8b2d8c8db1_1_1_time_app_compat_dialog_fragment_1a6e54dfd70d3ac9ccf02e84f3802a6d40">[static initializer]</reimplementedby>
+        <reimplementedby refid="classcrc64b76f6e8b2d8c8db1_1_1_action_sheet_app_compat_dialog_fragment_1a55581ee3d5b5153243e4e3b2c913b11e">[static initializer]</reimplementedby>
+        <reimplementedby refid="classcrc64b76f6e8b2d8c8db1_1_1_alert_app_compat_dialog_fragment_1acb64f0f4777778141aa0016a67bcb0a9">[static initializer]</reimplementedby>
+        <reimplementedby refid="classcrc64b76f6e8b2d8c8db1_1_1_bottom_sheet_dialog_fragment_1a24cc4bffb11af8a05b5add84506b65c4">[static initializer]</reimplementedby>
+        <reimplementedby refid="classcrc64b76f6e8b2d8c8db1_1_1_confirm_app_compat_dialog_fragment_1ac50d50849f8b00f36f89909f5c073273">[static initializer]</reimplementedby>
+        <reimplementedby refid="classcrc64b76f6e8b2d8c8db1_1_1_date_app_compat_dialog_fragment_1afcf1359a04a47eb8deec9d11bfcea554">[static initializer]</reimplementedby>
+        <reimplementedby refid="classcrc64b76f6e8b2d8c8db1_1_1_login_app_compat_dialog_fragment_1a95f9f56a533a5f7585ce3c0d63f2fad5">[static initializer]</reimplementedby>
+        <reimplementedby refid="classcrc64b76f6e8b2d8c8db1_1_1_prompt_app_compat_dialog_fragment_1a096d35f8ccde0b65bbd15aeb8c5e46ae">[static initializer]</reimplementedby>
+        <reimplementedby refid="classcrc64b76f6e8b2d8c8db1_1_1_time_app_compat_dialog_fragment_1a6e54dfd70d3ac9ccf02e84f3802a6d40">[static initializer]</reimplementedby>
+        <reimplementedby refid="classcrc64b76f6e8b2d8c8db1_1_1_action_sheet_app_compat_dialog_fragment_1a55581ee3d5b5153243e4e3b2c913b11e">[static initializer]</reimplementedby>
+        <reimplementedby refid="classcrc64b76f6e8b2d8c8db1_1_1_alert_app_compat_dialog_fragment_1acb64f0f4777778141aa0016a67bcb0a9">[static initializer]</reimplementedby>
+        <reimplementedby refid="classcrc64b76f6e8b2d8c8db1_1_1_bottom_sheet_dialog_fragment_1a24cc4bffb11af8a05b5add84506b65c4">[static initializer]</reimplementedby>
+        <reimplementedby refid="classcrc64b76f6e8b2d8c8db1_1_1_confirm_app_compat_dialog_fragment_1ac50d50849f8b00f36f89909f5c073273">[static initializer]</reimplementedby>
+        <reimplementedby refid="classcrc64b76f6e8b2d8c8db1_1_1_date_app_compat_dialog_fragment_1afcf1359a04a47eb8deec9d11bfcea554">[static initializer]</reimplementedby>
+        <reimplementedby refid="classcrc64b76f6e8b2d8c8db1_1_1_login_app_compat_dialog_fragment_1a95f9f56a533a5f7585ce3c0d63f2fad5">[static initializer]</reimplementedby>
+        <reimplementedby refid="classcrc64b76f6e8b2d8c8db1_1_1_prompt_app_compat_dialog_fragment_1a096d35f8ccde0b65bbd15aeb8c5e46ae">[static initializer]</reimplementedby>
+        <reimplementedby refid="classcrc64b76f6e8b2d8c8db1_1_1_time_app_compat_dialog_fragment_1a6e54dfd70d3ac9ccf02e84f3802a6d40">[static initializer]</reimplementedby>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/110/android/src/crc64b76f6e8b2d8c8db1/AbstractAppCompatDialogFragment_1.java" line="10" column="28"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="public-func">
+      <memberdef kind="function" id="classcrc64b76f6e8b2d8c8db1_1_1_abstract_app_compat_dialog_fragment__1_1af76326b0a67587243dbaeffb14f8931e" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>crc64b76f6e8b2d8c8db1.AbstractAppCompatDialogFragment_1.AbstractAppCompatDialogFragment_1</definition>
+        <argsstring>()</argsstring>
+        <name>AbstractAppCompatDialogFragment_1</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/100/android/src/crc64b76f6e8b2d8c8db1/AbstractAppCompatDialogFragment_1.java" line="21" column="8" bodyfile="Application Green Quake.Android/obj/Debug/100/android/src/crc64b76f6e8b2d8c8db1/AbstractAppCompatDialogFragment_1.java" bodystart="21" bodyend="26"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc64b76f6e8b2d8c8db1_1_1_abstract_app_compat_dialog_fragment__1_1a5c936a0df5aafc766515e2d5faf839cc" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void crc64b76f6e8b2d8c8db1.AbstractAppCompatDialogFragment_1.onSaveInstanceState</definition>
+        <argsstring>(android.os.Bundle p0)</argsstring>
+        <name>onSaveInstanceState</name>
+        <param>
+          <type>android.os.Bundle</type>
+          <declname>p0</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/100/android/src/crc64b76f6e8b2d8c8db1/AbstractAppCompatDialogFragment_1.java" line="29" column="13" bodyfile="Application Green Quake.Android/obj/Debug/100/android/src/crc64b76f6e8b2d8c8db1/AbstractAppCompatDialogFragment_1.java" bodystart="29" bodyend="32"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc64b76f6e8b2d8c8db1_1_1_abstract_app_compat_dialog_fragment__1_1ac80fb0543ec91e556decc62ffb95b791" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>android.app.Dialog</type>
+        <definition>android.app.Dialog crc64b76f6e8b2d8c8db1.AbstractAppCompatDialogFragment_1.onCreateDialog</definition>
+        <argsstring>(android.os.Bundle p0)</argsstring>
+        <name>onCreateDialog</name>
+        <param>
+          <type>android.os.Bundle</type>
+          <declname>p0</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/100/android/src/crc64b76f6e8b2d8c8db1/AbstractAppCompatDialogFragment_1.java" line="37" column="25" bodyfile="Application Green Quake.Android/obj/Debug/100/android/src/crc64b76f6e8b2d8c8db1/AbstractAppCompatDialogFragment_1.java" bodystart="37" bodyend="40"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc64b76f6e8b2d8c8db1_1_1_abstract_app_compat_dialog_fragment__1_1a1d7630561fe220a2ac9f7c0cc18d22dd" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void crc64b76f6e8b2d8c8db1.AbstractAppCompatDialogFragment_1.onDetach</definition>
+        <argsstring>()</argsstring>
+        <name>onDetach</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/100/android/src/crc64b76f6e8b2d8c8db1/AbstractAppCompatDialogFragment_1.java" line="45" column="13" bodyfile="Application Green Quake.Android/obj/Debug/100/android/src/crc64b76f6e8b2d8c8db1/AbstractAppCompatDialogFragment_1.java" bodystart="45" bodyend="48"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc64b76f6e8b2d8c8db1_1_1_abstract_app_compat_dialog_fragment__1_1af734d46ac5ca505b6346893787148453" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void crc64b76f6e8b2d8c8db1.AbstractAppCompatDialogFragment_1.monodroidAddReference</definition>
+        <argsstring>(java.lang.Object obj)</argsstring>
+        <name>monodroidAddReference</name>
+        <reimplementedby refid="classcrc64b76f6e8b2d8c8db1_1_1_action_sheet_app_compat_dialog_fragment_1a049be24f8d1a233bbd2269d974beb155">monodroidAddReference</reimplementedby>
+        <reimplementedby refid="classcrc64b76f6e8b2d8c8db1_1_1_alert_app_compat_dialog_fragment_1ab2c349784427b671572b0e74b02860e5">monodroidAddReference</reimplementedby>
+        <reimplementedby refid="classcrc64b76f6e8b2d8c8db1_1_1_bottom_sheet_dialog_fragment_1aa9caaf90b2d50ba1b25492f9e636dd0a">monodroidAddReference</reimplementedby>
+        <reimplementedby refid="classcrc64b76f6e8b2d8c8db1_1_1_confirm_app_compat_dialog_fragment_1a371ed79644e9326d9710e6341393b2ca">monodroidAddReference</reimplementedby>
+        <reimplementedby refid="classcrc64b76f6e8b2d8c8db1_1_1_date_app_compat_dialog_fragment_1a53edb96c15577edd665177332877c33c">monodroidAddReference</reimplementedby>
+        <reimplementedby refid="classcrc64b76f6e8b2d8c8db1_1_1_login_app_compat_dialog_fragment_1a617b304e6374a1b12a7a38a580903e6e">monodroidAddReference</reimplementedby>
+        <reimplementedby refid="classcrc64b76f6e8b2d8c8db1_1_1_prompt_app_compat_dialog_fragment_1aba093aa5509d56462a1d9d15b6aada08">monodroidAddReference</reimplementedby>
+        <reimplementedby refid="classcrc64b76f6e8b2d8c8db1_1_1_time_app_compat_dialog_fragment_1a1251f15fcf4d12a9bd7389a5baee950c">monodroidAddReference</reimplementedby>
+        <reimplementedby refid="classcrc64b76f6e8b2d8c8db1_1_1_action_sheet_app_compat_dialog_fragment_1a049be24f8d1a233bbd2269d974beb155">monodroidAddReference</reimplementedby>
+        <reimplementedby refid="classcrc64b76f6e8b2d8c8db1_1_1_alert_app_compat_dialog_fragment_1ab2c349784427b671572b0e74b02860e5">monodroidAddReference</reimplementedby>
+        <reimplementedby refid="classcrc64b76f6e8b2d8c8db1_1_1_bottom_sheet_dialog_fragment_1aa9caaf90b2d50ba1b25492f9e636dd0a">monodroidAddReference</reimplementedby>
+        <reimplementedby refid="classcrc64b76f6e8b2d8c8db1_1_1_confirm_app_compat_dialog_fragment_1a371ed79644e9326d9710e6341393b2ca">monodroidAddReference</reimplementedby>
+        <reimplementedby refid="classcrc64b76f6e8b2d8c8db1_1_1_date_app_compat_dialog_fragment_1a53edb96c15577edd665177332877c33c">monodroidAddReference</reimplementedby>
+        <reimplementedby refid="classcrc64b76f6e8b2d8c8db1_1_1_login_app_compat_dialog_fragment_1a617b304e6374a1b12a7a38a580903e6e">monodroidAddReference</reimplementedby>
+        <reimplementedby refid="classcrc64b76f6e8b2d8c8db1_1_1_prompt_app_compat_dialog_fragment_1aba093aa5509d56462a1d9d15b6aada08">monodroidAddReference</reimplementedby>
+        <reimplementedby refid="classcrc64b76f6e8b2d8c8db1_1_1_time_app_compat_dialog_fragment_1a1251f15fcf4d12a9bd7389a5baee950c">monodroidAddReference</reimplementedby>
+        <reimplementedby refid="classcrc64b76f6e8b2d8c8db1_1_1_action_sheet_app_compat_dialog_fragment_1a049be24f8d1a233bbd2269d974beb155">monodroidAddReference</reimplementedby>
+        <reimplementedby refid="classcrc64b76f6e8b2d8c8db1_1_1_alert_app_compat_dialog_fragment_1ab2c349784427b671572b0e74b02860e5">monodroidAddReference</reimplementedby>
+        <reimplementedby refid="classcrc64b76f6e8b2d8c8db1_1_1_bottom_sheet_dialog_fragment_1aa9caaf90b2d50ba1b25492f9e636dd0a">monodroidAddReference</reimplementedby>
+        <reimplementedby refid="classcrc64b76f6e8b2d8c8db1_1_1_confirm_app_compat_dialog_fragment_1a371ed79644e9326d9710e6341393b2ca">monodroidAddReference</reimplementedby>
+        <reimplementedby refid="classcrc64b76f6e8b2d8c8db1_1_1_date_app_compat_dialog_fragment_1a53edb96c15577edd665177332877c33c">monodroidAddReference</reimplementedby>
+        <reimplementedby refid="classcrc64b76f6e8b2d8c8db1_1_1_login_app_compat_dialog_fragment_1a617b304e6374a1b12a7a38a580903e6e">monodroidAddReference</reimplementedby>
+        <reimplementedby refid="classcrc64b76f6e8b2d8c8db1_1_1_prompt_app_compat_dialog_fragment_1aba093aa5509d56462a1d9d15b6aada08">monodroidAddReference</reimplementedby>
+        <reimplementedby refid="classcrc64b76f6e8b2d8c8db1_1_1_time_app_compat_dialog_fragment_1a1251f15fcf4d12a9bd7389a5baee950c">monodroidAddReference</reimplementedby>
+        <reimplementedby refid="classcrc64b76f6e8b2d8c8db1_1_1_action_sheet_app_compat_dialog_fragment_1a049be24f8d1a233bbd2269d974beb155">monodroidAddReference</reimplementedby>
+        <reimplementedby refid="classcrc64b76f6e8b2d8c8db1_1_1_alert_app_compat_dialog_fragment_1ab2c349784427b671572b0e74b02860e5">monodroidAddReference</reimplementedby>
+        <reimplementedby refid="classcrc64b76f6e8b2d8c8db1_1_1_bottom_sheet_dialog_fragment_1aa9caaf90b2d50ba1b25492f9e636dd0a">monodroidAddReference</reimplementedby>
+        <reimplementedby refid="classcrc64b76f6e8b2d8c8db1_1_1_confirm_app_compat_dialog_fragment_1a371ed79644e9326d9710e6341393b2ca">monodroidAddReference</reimplementedby>
+        <reimplementedby refid="classcrc64b76f6e8b2d8c8db1_1_1_date_app_compat_dialog_fragment_1a53edb96c15577edd665177332877c33c">monodroidAddReference</reimplementedby>
+        <reimplementedby refid="classcrc64b76f6e8b2d8c8db1_1_1_login_app_compat_dialog_fragment_1a617b304e6374a1b12a7a38a580903e6e">monodroidAddReference</reimplementedby>
+        <reimplementedby refid="classcrc64b76f6e8b2d8c8db1_1_1_prompt_app_compat_dialog_fragment_1aba093aa5509d56462a1d9d15b6aada08">monodroidAddReference</reimplementedby>
+        <reimplementedby refid="classcrc64b76f6e8b2d8c8db1_1_1_time_app_compat_dialog_fragment_1a1251f15fcf4d12a9bd7389a5baee950c">monodroidAddReference</reimplementedby>
+        <param>
+          <type>java.lang.Object</type>
+          <declname>obj</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/100/android/src/crc64b76f6e8b2d8c8db1/AbstractAppCompatDialogFragment_1.java" line="53" column="13" bodyfile="Application Green Quake.Android/obj/Debug/100/android/src/crc64b76f6e8b2d8c8db1/AbstractAppCompatDialogFragment_1.java" bodystart="53" bodyend="58"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc64b76f6e8b2d8c8db1_1_1_abstract_app_compat_dialog_fragment__1_1a48fb28666de0ae4ee70e5c10af4a7581" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void crc64b76f6e8b2d8c8db1.AbstractAppCompatDialogFragment_1.monodroidClearReferences</definition>
+        <argsstring>()</argsstring>
+        <name>monodroidClearReferences</name>
+        <reimplementedby refid="classcrc64b76f6e8b2d8c8db1_1_1_action_sheet_app_compat_dialog_fragment_1ad7fa219850a67b17c82fc36a292e5928">monodroidClearReferences</reimplementedby>
+        <reimplementedby refid="classcrc64b76f6e8b2d8c8db1_1_1_alert_app_compat_dialog_fragment_1adfa23520b1a497e50cfb5cbf8add5039">monodroidClearReferences</reimplementedby>
+        <reimplementedby refid="classcrc64b76f6e8b2d8c8db1_1_1_bottom_sheet_dialog_fragment_1aba1c19158f22b1aba59bb52309ce1a85">monodroidClearReferences</reimplementedby>
+        <reimplementedby refid="classcrc64b76f6e8b2d8c8db1_1_1_confirm_app_compat_dialog_fragment_1af3e3be97caa3c81ceb3f9a2d56430548">monodroidClearReferences</reimplementedby>
+        <reimplementedby refid="classcrc64b76f6e8b2d8c8db1_1_1_date_app_compat_dialog_fragment_1a25581b5dd9c81d907ecd644d137f1954">monodroidClearReferences</reimplementedby>
+        <reimplementedby refid="classcrc64b76f6e8b2d8c8db1_1_1_login_app_compat_dialog_fragment_1a75940ccbd321a4c469f3aeabc1f1de7c">monodroidClearReferences</reimplementedby>
+        <reimplementedby refid="classcrc64b76f6e8b2d8c8db1_1_1_prompt_app_compat_dialog_fragment_1afcc02a10f43ba7bd220310d9dbaf705c">monodroidClearReferences</reimplementedby>
+        <reimplementedby refid="classcrc64b76f6e8b2d8c8db1_1_1_time_app_compat_dialog_fragment_1ab68cdf931e2442fba9f69bb41a5adca6">monodroidClearReferences</reimplementedby>
+        <reimplementedby refid="classcrc64b76f6e8b2d8c8db1_1_1_action_sheet_app_compat_dialog_fragment_1ad7fa219850a67b17c82fc36a292e5928">monodroidClearReferences</reimplementedby>
+        <reimplementedby refid="classcrc64b76f6e8b2d8c8db1_1_1_alert_app_compat_dialog_fragment_1adfa23520b1a497e50cfb5cbf8add5039">monodroidClearReferences</reimplementedby>
+        <reimplementedby refid="classcrc64b76f6e8b2d8c8db1_1_1_bottom_sheet_dialog_fragment_1aba1c19158f22b1aba59bb52309ce1a85">monodroidClearReferences</reimplementedby>
+        <reimplementedby refid="classcrc64b76f6e8b2d8c8db1_1_1_confirm_app_compat_dialog_fragment_1af3e3be97caa3c81ceb3f9a2d56430548">monodroidClearReferences</reimplementedby>
+        <reimplementedby refid="classcrc64b76f6e8b2d8c8db1_1_1_date_app_compat_dialog_fragment_1a25581b5dd9c81d907ecd644d137f1954">monodroidClearReferences</reimplementedby>
+        <reimplementedby refid="classcrc64b76f6e8b2d8c8db1_1_1_login_app_compat_dialog_fragment_1a75940ccbd321a4c469f3aeabc1f1de7c">monodroidClearReferences</reimplementedby>
+        <reimplementedby refid="classcrc64b76f6e8b2d8c8db1_1_1_prompt_app_compat_dialog_fragment_1afcc02a10f43ba7bd220310d9dbaf705c">monodroidClearReferences</reimplementedby>
+        <reimplementedby refid="classcrc64b76f6e8b2d8c8db1_1_1_time_app_compat_dialog_fragment_1ab68cdf931e2442fba9f69bb41a5adca6">monodroidClearReferences</reimplementedby>
+        <reimplementedby refid="classcrc64b76f6e8b2d8c8db1_1_1_action_sheet_app_compat_dialog_fragment_1ad7fa219850a67b17c82fc36a292e5928">monodroidClearReferences</reimplementedby>
+        <reimplementedby refid="classcrc64b76f6e8b2d8c8db1_1_1_alert_app_compat_dialog_fragment_1adfa23520b1a497e50cfb5cbf8add5039">monodroidClearReferences</reimplementedby>
+        <reimplementedby refid="classcrc64b76f6e8b2d8c8db1_1_1_bottom_sheet_dialog_fragment_1aba1c19158f22b1aba59bb52309ce1a85">monodroidClearReferences</reimplementedby>
+        <reimplementedby refid="classcrc64b76f6e8b2d8c8db1_1_1_confirm_app_compat_dialog_fragment_1af3e3be97caa3c81ceb3f9a2d56430548">monodroidClearReferences</reimplementedby>
+        <reimplementedby refid="classcrc64b76f6e8b2d8c8db1_1_1_date_app_compat_dialog_fragment_1a25581b5dd9c81d907ecd644d137f1954">monodroidClearReferences</reimplementedby>
+        <reimplementedby refid="classcrc64b76f6e8b2d8c8db1_1_1_login_app_compat_dialog_fragment_1a75940ccbd321a4c469f3aeabc1f1de7c">monodroidClearReferences</reimplementedby>
+        <reimplementedby refid="classcrc64b76f6e8b2d8c8db1_1_1_prompt_app_compat_dialog_fragment_1afcc02a10f43ba7bd220310d9dbaf705c">monodroidClearReferences</reimplementedby>
+        <reimplementedby refid="classcrc64b76f6e8b2d8c8db1_1_1_time_app_compat_dialog_fragment_1ab68cdf931e2442fba9f69bb41a5adca6">monodroidClearReferences</reimplementedby>
+        <reimplementedby refid="classcrc64b76f6e8b2d8c8db1_1_1_action_sheet_app_compat_dialog_fragment_1ad7fa219850a67b17c82fc36a292e5928">monodroidClearReferences</reimplementedby>
+        <reimplementedby refid="classcrc64b76f6e8b2d8c8db1_1_1_alert_app_compat_dialog_fragment_1adfa23520b1a497e50cfb5cbf8add5039">monodroidClearReferences</reimplementedby>
+        <reimplementedby refid="classcrc64b76f6e8b2d8c8db1_1_1_bottom_sheet_dialog_fragment_1aba1c19158f22b1aba59bb52309ce1a85">monodroidClearReferences</reimplementedby>
+        <reimplementedby refid="classcrc64b76f6e8b2d8c8db1_1_1_confirm_app_compat_dialog_fragment_1af3e3be97caa3c81ceb3f9a2d56430548">monodroidClearReferences</reimplementedby>
+        <reimplementedby refid="classcrc64b76f6e8b2d8c8db1_1_1_date_app_compat_dialog_fragment_1a25581b5dd9c81d907ecd644d137f1954">monodroidClearReferences</reimplementedby>
+        <reimplementedby refid="classcrc64b76f6e8b2d8c8db1_1_1_login_app_compat_dialog_fragment_1a75940ccbd321a4c469f3aeabc1f1de7c">monodroidClearReferences</reimplementedby>
+        <reimplementedby refid="classcrc64b76f6e8b2d8c8db1_1_1_prompt_app_compat_dialog_fragment_1afcc02a10f43ba7bd220310d9dbaf705c">monodroidClearReferences</reimplementedby>
+        <reimplementedby refid="classcrc64b76f6e8b2d8c8db1_1_1_time_app_compat_dialog_fragment_1ab68cdf931e2442fba9f69bb41a5adca6">monodroidClearReferences</reimplementedby>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/100/android/src/crc64b76f6e8b2d8c8db1/AbstractAppCompatDialogFragment_1.java" line="60" column="13" bodyfile="Application Green Quake.Android/obj/Debug/100/android/src/crc64b76f6e8b2d8c8db1/AbstractAppCompatDialogFragment_1.java" bodystart="60" bodyend="64"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc64b76f6e8b2d8c8db1_1_1_abstract_app_compat_dialog_fragment__1_1af76326b0a67587243dbaeffb14f8931e" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>crc64b76f6e8b2d8c8db1.AbstractAppCompatDialogFragment_1.AbstractAppCompatDialogFragment_1</definition>
+        <argsstring>()</argsstring>
+        <name>AbstractAppCompatDialogFragment_1</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/110/android/src/crc64b76f6e8b2d8c8db1/AbstractAppCompatDialogFragment_1.java" line="21" column="8" bodyfile="Application Green Quake.Android/obj/Debug/110/android/src/crc64b76f6e8b2d8c8db1/AbstractAppCompatDialogFragment_1.java" bodystart="21" bodyend="26"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc64b76f6e8b2d8c8db1_1_1_abstract_app_compat_dialog_fragment__1_1a5c936a0df5aafc766515e2d5faf839cc" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void crc64b76f6e8b2d8c8db1.AbstractAppCompatDialogFragment_1.onSaveInstanceState</definition>
+        <argsstring>(android.os.Bundle p0)</argsstring>
+        <name>onSaveInstanceState</name>
+        <param>
+          <type>android.os.Bundle</type>
+          <declname>p0</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/110/android/src/crc64b76f6e8b2d8c8db1/AbstractAppCompatDialogFragment_1.java" line="29" column="13" bodyfile="Application Green Quake.Android/obj/Debug/110/android/src/crc64b76f6e8b2d8c8db1/AbstractAppCompatDialogFragment_1.java" bodystart="29" bodyend="32"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc64b76f6e8b2d8c8db1_1_1_abstract_app_compat_dialog_fragment__1_1ac80fb0543ec91e556decc62ffb95b791" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>android.app.Dialog</type>
+        <definition>android.app.Dialog crc64b76f6e8b2d8c8db1.AbstractAppCompatDialogFragment_1.onCreateDialog</definition>
+        <argsstring>(android.os.Bundle p0)</argsstring>
+        <name>onCreateDialog</name>
+        <param>
+          <type>android.os.Bundle</type>
+          <declname>p0</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/110/android/src/crc64b76f6e8b2d8c8db1/AbstractAppCompatDialogFragment_1.java" line="37" column="25" bodyfile="Application Green Quake.Android/obj/Debug/110/android/src/crc64b76f6e8b2d8c8db1/AbstractAppCompatDialogFragment_1.java" bodystart="37" bodyend="40"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc64b76f6e8b2d8c8db1_1_1_abstract_app_compat_dialog_fragment__1_1a1d7630561fe220a2ac9f7c0cc18d22dd" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void crc64b76f6e8b2d8c8db1.AbstractAppCompatDialogFragment_1.onDetach</definition>
+        <argsstring>()</argsstring>
+        <name>onDetach</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/110/android/src/crc64b76f6e8b2d8c8db1/AbstractAppCompatDialogFragment_1.java" line="45" column="13" bodyfile="Application Green Quake.Android/obj/Debug/110/android/src/crc64b76f6e8b2d8c8db1/AbstractAppCompatDialogFragment_1.java" bodystart="45" bodyend="48"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc64b76f6e8b2d8c8db1_1_1_abstract_app_compat_dialog_fragment__1_1af734d46ac5ca505b6346893787148453" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void crc64b76f6e8b2d8c8db1.AbstractAppCompatDialogFragment_1.monodroidAddReference</definition>
+        <argsstring>(java.lang.Object obj)</argsstring>
+        <name>monodroidAddReference</name>
+        <reimplementedby refid="classcrc64b76f6e8b2d8c8db1_1_1_action_sheet_app_compat_dialog_fragment_1a049be24f8d1a233bbd2269d974beb155">monodroidAddReference</reimplementedby>
+        <reimplementedby refid="classcrc64b76f6e8b2d8c8db1_1_1_alert_app_compat_dialog_fragment_1ab2c349784427b671572b0e74b02860e5">monodroidAddReference</reimplementedby>
+        <reimplementedby refid="classcrc64b76f6e8b2d8c8db1_1_1_bottom_sheet_dialog_fragment_1aa9caaf90b2d50ba1b25492f9e636dd0a">monodroidAddReference</reimplementedby>
+        <reimplementedby refid="classcrc64b76f6e8b2d8c8db1_1_1_confirm_app_compat_dialog_fragment_1a371ed79644e9326d9710e6341393b2ca">monodroidAddReference</reimplementedby>
+        <reimplementedby refid="classcrc64b76f6e8b2d8c8db1_1_1_date_app_compat_dialog_fragment_1a53edb96c15577edd665177332877c33c">monodroidAddReference</reimplementedby>
+        <reimplementedby refid="classcrc64b76f6e8b2d8c8db1_1_1_login_app_compat_dialog_fragment_1a617b304e6374a1b12a7a38a580903e6e">monodroidAddReference</reimplementedby>
+        <reimplementedby refid="classcrc64b76f6e8b2d8c8db1_1_1_prompt_app_compat_dialog_fragment_1aba093aa5509d56462a1d9d15b6aada08">monodroidAddReference</reimplementedby>
+        <reimplementedby refid="classcrc64b76f6e8b2d8c8db1_1_1_time_app_compat_dialog_fragment_1a1251f15fcf4d12a9bd7389a5baee950c">monodroidAddReference</reimplementedby>
+        <reimplementedby refid="classcrc64b76f6e8b2d8c8db1_1_1_action_sheet_app_compat_dialog_fragment_1a049be24f8d1a233bbd2269d974beb155">monodroidAddReference</reimplementedby>
+        <reimplementedby refid="classcrc64b76f6e8b2d8c8db1_1_1_alert_app_compat_dialog_fragment_1ab2c349784427b671572b0e74b02860e5">monodroidAddReference</reimplementedby>
+        <reimplementedby refid="classcrc64b76f6e8b2d8c8db1_1_1_bottom_sheet_dialog_fragment_1aa9caaf90b2d50ba1b25492f9e636dd0a">monodroidAddReference</reimplementedby>
+        <reimplementedby refid="classcrc64b76f6e8b2d8c8db1_1_1_confirm_app_compat_dialog_fragment_1a371ed79644e9326d9710e6341393b2ca">monodroidAddReference</reimplementedby>
+        <reimplementedby refid="classcrc64b76f6e8b2d8c8db1_1_1_date_app_compat_dialog_fragment_1a53edb96c15577edd665177332877c33c">monodroidAddReference</reimplementedby>
+        <reimplementedby refid="classcrc64b76f6e8b2d8c8db1_1_1_login_app_compat_dialog_fragment_1a617b304e6374a1b12a7a38a580903e6e">monodroidAddReference</reimplementedby>
+        <reimplementedby refid="classcrc64b76f6e8b2d8c8db1_1_1_prompt_app_compat_dialog_fragment_1aba093aa5509d56462a1d9d15b6aada08">monodroidAddReference</reimplementedby>
+        <reimplementedby refid="classcrc64b76f6e8b2d8c8db1_1_1_time_app_compat_dialog_fragment_1a1251f15fcf4d12a9bd7389a5baee950c">monodroidAddReference</reimplementedby>
+        <reimplementedby refid="classcrc64b76f6e8b2d8c8db1_1_1_action_sheet_app_compat_dialog_fragment_1a049be24f8d1a233bbd2269d974beb155">monodroidAddReference</reimplementedby>
+        <reimplementedby refid="classcrc64b76f6e8b2d8c8db1_1_1_alert_app_compat_dialog_fragment_1ab2c349784427b671572b0e74b02860e5">monodroidAddReference</reimplementedby>
+        <reimplementedby refid="classcrc64b76f6e8b2d8c8db1_1_1_bottom_sheet_dialog_fragment_1aa9caaf90b2d50ba1b25492f9e636dd0a">monodroidAddReference</reimplementedby>
+        <reimplementedby refid="classcrc64b76f6e8b2d8c8db1_1_1_confirm_app_compat_dialog_fragment_1a371ed79644e9326d9710e6341393b2ca">monodroidAddReference</reimplementedby>
+        <reimplementedby refid="classcrc64b76f6e8b2d8c8db1_1_1_date_app_compat_dialog_fragment_1a53edb96c15577edd665177332877c33c">monodroidAddReference</reimplementedby>
+        <reimplementedby refid="classcrc64b76f6e8b2d8c8db1_1_1_login_app_compat_dialog_fragment_1a617b304e6374a1b12a7a38a580903e6e">monodroidAddReference</reimplementedby>
+        <reimplementedby refid="classcrc64b76f6e8b2d8c8db1_1_1_prompt_app_compat_dialog_fragment_1aba093aa5509d56462a1d9d15b6aada08">monodroidAddReference</reimplementedby>
+        <reimplementedby refid="classcrc64b76f6e8b2d8c8db1_1_1_time_app_compat_dialog_fragment_1a1251f15fcf4d12a9bd7389a5baee950c">monodroidAddReference</reimplementedby>
+        <reimplementedby refid="classcrc64b76f6e8b2d8c8db1_1_1_action_sheet_app_compat_dialog_fragment_1a049be24f8d1a233bbd2269d974beb155">monodroidAddReference</reimplementedby>
+        <reimplementedby refid="classcrc64b76f6e8b2d8c8db1_1_1_alert_app_compat_dialog_fragment_1ab2c349784427b671572b0e74b02860e5">monodroidAddReference</reimplementedby>
+        <reimplementedby refid="classcrc64b76f6e8b2d8c8db1_1_1_bottom_sheet_dialog_fragment_1aa9caaf90b2d50ba1b25492f9e636dd0a">monodroidAddReference</reimplementedby>
+        <reimplementedby refid="classcrc64b76f6e8b2d8c8db1_1_1_confirm_app_compat_dialog_fragment_1a371ed79644e9326d9710e6341393b2ca">monodroidAddReference</reimplementedby>
+        <reimplementedby refid="classcrc64b76f6e8b2d8c8db1_1_1_date_app_compat_dialog_fragment_1a53edb96c15577edd665177332877c33c">monodroidAddReference</reimplementedby>
+        <reimplementedby refid="classcrc64b76f6e8b2d8c8db1_1_1_login_app_compat_dialog_fragment_1a617b304e6374a1b12a7a38a580903e6e">monodroidAddReference</reimplementedby>
+        <reimplementedby refid="classcrc64b76f6e8b2d8c8db1_1_1_prompt_app_compat_dialog_fragment_1aba093aa5509d56462a1d9d15b6aada08">monodroidAddReference</reimplementedby>
+        <reimplementedby refid="classcrc64b76f6e8b2d8c8db1_1_1_time_app_compat_dialog_fragment_1a1251f15fcf4d12a9bd7389a5baee950c">monodroidAddReference</reimplementedby>
+        <param>
+          <type>java.lang.Object</type>
+          <declname>obj</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/110/android/src/crc64b76f6e8b2d8c8db1/AbstractAppCompatDialogFragment_1.java" line="53" column="13" bodyfile="Application Green Quake.Android/obj/Debug/110/android/src/crc64b76f6e8b2d8c8db1/AbstractAppCompatDialogFragment_1.java" bodystart="53" bodyend="58"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc64b76f6e8b2d8c8db1_1_1_abstract_app_compat_dialog_fragment__1_1a48fb28666de0ae4ee70e5c10af4a7581" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void crc64b76f6e8b2d8c8db1.AbstractAppCompatDialogFragment_1.monodroidClearReferences</definition>
+        <argsstring>()</argsstring>
+        <name>monodroidClearReferences</name>
+        <reimplementedby refid="classcrc64b76f6e8b2d8c8db1_1_1_action_sheet_app_compat_dialog_fragment_1ad7fa219850a67b17c82fc36a292e5928">monodroidClearReferences</reimplementedby>
+        <reimplementedby refid="classcrc64b76f6e8b2d8c8db1_1_1_alert_app_compat_dialog_fragment_1adfa23520b1a497e50cfb5cbf8add5039">monodroidClearReferences</reimplementedby>
+        <reimplementedby refid="classcrc64b76f6e8b2d8c8db1_1_1_bottom_sheet_dialog_fragment_1aba1c19158f22b1aba59bb52309ce1a85">monodroidClearReferences</reimplementedby>
+        <reimplementedby refid="classcrc64b76f6e8b2d8c8db1_1_1_confirm_app_compat_dialog_fragment_1af3e3be97caa3c81ceb3f9a2d56430548">monodroidClearReferences</reimplementedby>
+        <reimplementedby refid="classcrc64b76f6e8b2d8c8db1_1_1_date_app_compat_dialog_fragment_1a25581b5dd9c81d907ecd644d137f1954">monodroidClearReferences</reimplementedby>
+        <reimplementedby refid="classcrc64b76f6e8b2d8c8db1_1_1_login_app_compat_dialog_fragment_1a75940ccbd321a4c469f3aeabc1f1de7c">monodroidClearReferences</reimplementedby>
+        <reimplementedby refid="classcrc64b76f6e8b2d8c8db1_1_1_prompt_app_compat_dialog_fragment_1afcc02a10f43ba7bd220310d9dbaf705c">monodroidClearReferences</reimplementedby>
+        <reimplementedby refid="classcrc64b76f6e8b2d8c8db1_1_1_time_app_compat_dialog_fragment_1ab68cdf931e2442fba9f69bb41a5adca6">monodroidClearReferences</reimplementedby>
+        <reimplementedby refid="classcrc64b76f6e8b2d8c8db1_1_1_action_sheet_app_compat_dialog_fragment_1ad7fa219850a67b17c82fc36a292e5928">monodroidClearReferences</reimplementedby>
+        <reimplementedby refid="classcrc64b76f6e8b2d8c8db1_1_1_alert_app_compat_dialog_fragment_1adfa23520b1a497e50cfb5cbf8add5039">monodroidClearReferences</reimplementedby>
+        <reimplementedby refid="classcrc64b76f6e8b2d8c8db1_1_1_bottom_sheet_dialog_fragment_1aba1c19158f22b1aba59bb52309ce1a85">monodroidClearReferences</reimplementedby>
+        <reimplementedby refid="classcrc64b76f6e8b2d8c8db1_1_1_confirm_app_compat_dialog_fragment_1af3e3be97caa3c81ceb3f9a2d56430548">monodroidClearReferences</reimplementedby>
+        <reimplementedby refid="classcrc64b76f6e8b2d8c8db1_1_1_date_app_compat_dialog_fragment_1a25581b5dd9c81d907ecd644d137f1954">monodroidClearReferences</reimplementedby>
+        <reimplementedby refid="classcrc64b76f6e8b2d8c8db1_1_1_login_app_compat_dialog_fragment_1a75940ccbd321a4c469f3aeabc1f1de7c">monodroidClearReferences</reimplementedby>
+        <reimplementedby refid="classcrc64b76f6e8b2d8c8db1_1_1_prompt_app_compat_dialog_fragment_1afcc02a10f43ba7bd220310d9dbaf705c">monodroidClearReferences</reimplementedby>
+        <reimplementedby refid="classcrc64b76f6e8b2d8c8db1_1_1_time_app_compat_dialog_fragment_1ab68cdf931e2442fba9f69bb41a5adca6">monodroidClearReferences</reimplementedby>
+        <reimplementedby refid="classcrc64b76f6e8b2d8c8db1_1_1_action_sheet_app_compat_dialog_fragment_1ad7fa219850a67b17c82fc36a292e5928">monodroidClearReferences</reimplementedby>
+        <reimplementedby refid="classcrc64b76f6e8b2d8c8db1_1_1_alert_app_compat_dialog_fragment_1adfa23520b1a497e50cfb5cbf8add5039">monodroidClearReferences</reimplementedby>
+        <reimplementedby refid="classcrc64b76f6e8b2d8c8db1_1_1_bottom_sheet_dialog_fragment_1aba1c19158f22b1aba59bb52309ce1a85">monodroidClearReferences</reimplementedby>
+        <reimplementedby refid="classcrc64b76f6e8b2d8c8db1_1_1_confirm_app_compat_dialog_fragment_1af3e3be97caa3c81ceb3f9a2d56430548">monodroidClearReferences</reimplementedby>
+        <reimplementedby refid="classcrc64b76f6e8b2d8c8db1_1_1_date_app_compat_dialog_fragment_1a25581b5dd9c81d907ecd644d137f1954">monodroidClearReferences</reimplementedby>
+        <reimplementedby refid="classcrc64b76f6e8b2d8c8db1_1_1_login_app_compat_dialog_fragment_1a75940ccbd321a4c469f3aeabc1f1de7c">monodroidClearReferences</reimplementedby>
+        <reimplementedby refid="classcrc64b76f6e8b2d8c8db1_1_1_prompt_app_compat_dialog_fragment_1afcc02a10f43ba7bd220310d9dbaf705c">monodroidClearReferences</reimplementedby>
+        <reimplementedby refid="classcrc64b76f6e8b2d8c8db1_1_1_time_app_compat_dialog_fragment_1ab68cdf931e2442fba9f69bb41a5adca6">monodroidClearReferences</reimplementedby>
+        <reimplementedby refid="classcrc64b76f6e8b2d8c8db1_1_1_action_sheet_app_compat_dialog_fragment_1ad7fa219850a67b17c82fc36a292e5928">monodroidClearReferences</reimplementedby>
+        <reimplementedby refid="classcrc64b76f6e8b2d8c8db1_1_1_alert_app_compat_dialog_fragment_1adfa23520b1a497e50cfb5cbf8add5039">monodroidClearReferences</reimplementedby>
+        <reimplementedby refid="classcrc64b76f6e8b2d8c8db1_1_1_bottom_sheet_dialog_fragment_1aba1c19158f22b1aba59bb52309ce1a85">monodroidClearReferences</reimplementedby>
+        <reimplementedby refid="classcrc64b76f6e8b2d8c8db1_1_1_confirm_app_compat_dialog_fragment_1af3e3be97caa3c81ceb3f9a2d56430548">monodroidClearReferences</reimplementedby>
+        <reimplementedby refid="classcrc64b76f6e8b2d8c8db1_1_1_date_app_compat_dialog_fragment_1a25581b5dd9c81d907ecd644d137f1954">monodroidClearReferences</reimplementedby>
+        <reimplementedby refid="classcrc64b76f6e8b2d8c8db1_1_1_login_app_compat_dialog_fragment_1a75940ccbd321a4c469f3aeabc1f1de7c">monodroidClearReferences</reimplementedby>
+        <reimplementedby refid="classcrc64b76f6e8b2d8c8db1_1_1_prompt_app_compat_dialog_fragment_1afcc02a10f43ba7bd220310d9dbaf705c">monodroidClearReferences</reimplementedby>
+        <reimplementedby refid="classcrc64b76f6e8b2d8c8db1_1_1_time_app_compat_dialog_fragment_1ab68cdf931e2442fba9f69bb41a5adca6">monodroidClearReferences</reimplementedby>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/110/android/src/crc64b76f6e8b2d8c8db1/AbstractAppCompatDialogFragment_1.java" line="60" column="13" bodyfile="Application Green Quake.Android/obj/Debug/110/android/src/crc64b76f6e8b2d8c8db1/AbstractAppCompatDialogFragment_1.java" bodystart="60" bodyend="64"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc64b76f6e8b2d8c8db1_1_1_abstract_app_compat_dialog_fragment__1_1af76326b0a67587243dbaeffb14f8931e" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>crc64b76f6e8b2d8c8db1.AbstractAppCompatDialogFragment_1.AbstractAppCompatDialogFragment_1</definition>
+        <argsstring>()</argsstring>
+        <name>AbstractAppCompatDialogFragment_1</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/100/android/src/crc64b76f6e8b2d8c8db1/AbstractAppCompatDialogFragment_1.java" line="21" column="8" bodyfile="Application Green Quake.Android/obj/Release/100/android/src/crc64b76f6e8b2d8c8db1/AbstractAppCompatDialogFragment_1.java" bodystart="21" bodyend="26"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc64b76f6e8b2d8c8db1_1_1_abstract_app_compat_dialog_fragment__1_1a5c936a0df5aafc766515e2d5faf839cc" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void crc64b76f6e8b2d8c8db1.AbstractAppCompatDialogFragment_1.onSaveInstanceState</definition>
+        <argsstring>(android.os.Bundle p0)</argsstring>
+        <name>onSaveInstanceState</name>
+        <param>
+          <type>android.os.Bundle</type>
+          <declname>p0</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/100/android/src/crc64b76f6e8b2d8c8db1/AbstractAppCompatDialogFragment_1.java" line="29" column="13" bodyfile="Application Green Quake.Android/obj/Release/100/android/src/crc64b76f6e8b2d8c8db1/AbstractAppCompatDialogFragment_1.java" bodystart="29" bodyend="32"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc64b76f6e8b2d8c8db1_1_1_abstract_app_compat_dialog_fragment__1_1ac80fb0543ec91e556decc62ffb95b791" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>android.app.Dialog</type>
+        <definition>android.app.Dialog crc64b76f6e8b2d8c8db1.AbstractAppCompatDialogFragment_1.onCreateDialog</definition>
+        <argsstring>(android.os.Bundle p0)</argsstring>
+        <name>onCreateDialog</name>
+        <param>
+          <type>android.os.Bundle</type>
+          <declname>p0</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/100/android/src/crc64b76f6e8b2d8c8db1/AbstractAppCompatDialogFragment_1.java" line="37" column="25" bodyfile="Application Green Quake.Android/obj/Release/100/android/src/crc64b76f6e8b2d8c8db1/AbstractAppCompatDialogFragment_1.java" bodystart="37" bodyend="40"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc64b76f6e8b2d8c8db1_1_1_abstract_app_compat_dialog_fragment__1_1a1d7630561fe220a2ac9f7c0cc18d22dd" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void crc64b76f6e8b2d8c8db1.AbstractAppCompatDialogFragment_1.onDetach</definition>
+        <argsstring>()</argsstring>
+        <name>onDetach</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/100/android/src/crc64b76f6e8b2d8c8db1/AbstractAppCompatDialogFragment_1.java" line="45" column="13" bodyfile="Application Green Quake.Android/obj/Release/100/android/src/crc64b76f6e8b2d8c8db1/AbstractAppCompatDialogFragment_1.java" bodystart="45" bodyend="48"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc64b76f6e8b2d8c8db1_1_1_abstract_app_compat_dialog_fragment__1_1af734d46ac5ca505b6346893787148453" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void crc64b76f6e8b2d8c8db1.AbstractAppCompatDialogFragment_1.monodroidAddReference</definition>
+        <argsstring>(java.lang.Object obj)</argsstring>
+        <name>monodroidAddReference</name>
+        <reimplementedby refid="classcrc64b76f6e8b2d8c8db1_1_1_action_sheet_app_compat_dialog_fragment_1a049be24f8d1a233bbd2269d974beb155">monodroidAddReference</reimplementedby>
+        <reimplementedby refid="classcrc64b76f6e8b2d8c8db1_1_1_alert_app_compat_dialog_fragment_1ab2c349784427b671572b0e74b02860e5">monodroidAddReference</reimplementedby>
+        <reimplementedby refid="classcrc64b76f6e8b2d8c8db1_1_1_bottom_sheet_dialog_fragment_1aa9caaf90b2d50ba1b25492f9e636dd0a">monodroidAddReference</reimplementedby>
+        <reimplementedby refid="classcrc64b76f6e8b2d8c8db1_1_1_confirm_app_compat_dialog_fragment_1a371ed79644e9326d9710e6341393b2ca">monodroidAddReference</reimplementedby>
+        <reimplementedby refid="classcrc64b76f6e8b2d8c8db1_1_1_date_app_compat_dialog_fragment_1a53edb96c15577edd665177332877c33c">monodroidAddReference</reimplementedby>
+        <reimplementedby refid="classcrc64b76f6e8b2d8c8db1_1_1_login_app_compat_dialog_fragment_1a617b304e6374a1b12a7a38a580903e6e">monodroidAddReference</reimplementedby>
+        <reimplementedby refid="classcrc64b76f6e8b2d8c8db1_1_1_prompt_app_compat_dialog_fragment_1aba093aa5509d56462a1d9d15b6aada08">monodroidAddReference</reimplementedby>
+        <reimplementedby refid="classcrc64b76f6e8b2d8c8db1_1_1_time_app_compat_dialog_fragment_1a1251f15fcf4d12a9bd7389a5baee950c">monodroidAddReference</reimplementedby>
+        <reimplementedby refid="classcrc64b76f6e8b2d8c8db1_1_1_action_sheet_app_compat_dialog_fragment_1a049be24f8d1a233bbd2269d974beb155">monodroidAddReference</reimplementedby>
+        <reimplementedby refid="classcrc64b76f6e8b2d8c8db1_1_1_alert_app_compat_dialog_fragment_1ab2c349784427b671572b0e74b02860e5">monodroidAddReference</reimplementedby>
+        <reimplementedby refid="classcrc64b76f6e8b2d8c8db1_1_1_bottom_sheet_dialog_fragment_1aa9caaf90b2d50ba1b25492f9e636dd0a">monodroidAddReference</reimplementedby>
+        <reimplementedby refid="classcrc64b76f6e8b2d8c8db1_1_1_confirm_app_compat_dialog_fragment_1a371ed79644e9326d9710e6341393b2ca">monodroidAddReference</reimplementedby>
+        <reimplementedby refid="classcrc64b76f6e8b2d8c8db1_1_1_date_app_compat_dialog_fragment_1a53edb96c15577edd665177332877c33c">monodroidAddReference</reimplementedby>
+        <reimplementedby refid="classcrc64b76f6e8b2d8c8db1_1_1_login_app_compat_dialog_fragment_1a617b304e6374a1b12a7a38a580903e6e">monodroidAddReference</reimplementedby>
+        <reimplementedby refid="classcrc64b76f6e8b2d8c8db1_1_1_prompt_app_compat_dialog_fragment_1aba093aa5509d56462a1d9d15b6aada08">monodroidAddReference</reimplementedby>
+        <reimplementedby refid="classcrc64b76f6e8b2d8c8db1_1_1_time_app_compat_dialog_fragment_1a1251f15fcf4d12a9bd7389a5baee950c">monodroidAddReference</reimplementedby>
+        <reimplementedby refid="classcrc64b76f6e8b2d8c8db1_1_1_action_sheet_app_compat_dialog_fragment_1a049be24f8d1a233bbd2269d974beb155">monodroidAddReference</reimplementedby>
+        <reimplementedby refid="classcrc64b76f6e8b2d8c8db1_1_1_alert_app_compat_dialog_fragment_1ab2c349784427b671572b0e74b02860e5">monodroidAddReference</reimplementedby>
+        <reimplementedby refid="classcrc64b76f6e8b2d8c8db1_1_1_bottom_sheet_dialog_fragment_1aa9caaf90b2d50ba1b25492f9e636dd0a">monodroidAddReference</reimplementedby>
+        <reimplementedby refid="classcrc64b76f6e8b2d8c8db1_1_1_confirm_app_compat_dialog_fragment_1a371ed79644e9326d9710e6341393b2ca">monodroidAddReference</reimplementedby>
+        <reimplementedby refid="classcrc64b76f6e8b2d8c8db1_1_1_date_app_compat_dialog_fragment_1a53edb96c15577edd665177332877c33c">monodroidAddReference</reimplementedby>
+        <reimplementedby refid="classcrc64b76f6e8b2d8c8db1_1_1_login_app_compat_dialog_fragment_1a617b304e6374a1b12a7a38a580903e6e">monodroidAddReference</reimplementedby>
+        <reimplementedby refid="classcrc64b76f6e8b2d8c8db1_1_1_prompt_app_compat_dialog_fragment_1aba093aa5509d56462a1d9d15b6aada08">monodroidAddReference</reimplementedby>
+        <reimplementedby refid="classcrc64b76f6e8b2d8c8db1_1_1_time_app_compat_dialog_fragment_1a1251f15fcf4d12a9bd7389a5baee950c">monodroidAddReference</reimplementedby>
+        <reimplementedby refid="classcrc64b76f6e8b2d8c8db1_1_1_action_sheet_app_compat_dialog_fragment_1a049be24f8d1a233bbd2269d974beb155">monodroidAddReference</reimplementedby>
+        <reimplementedby refid="classcrc64b76f6e8b2d8c8db1_1_1_alert_app_compat_dialog_fragment_1ab2c349784427b671572b0e74b02860e5">monodroidAddReference</reimplementedby>
+        <reimplementedby refid="classcrc64b76f6e8b2d8c8db1_1_1_bottom_sheet_dialog_fragment_1aa9caaf90b2d50ba1b25492f9e636dd0a">monodroidAddReference</reimplementedby>
+        <reimplementedby refid="classcrc64b76f6e8b2d8c8db1_1_1_confirm_app_compat_dialog_fragment_1a371ed79644e9326d9710e6341393b2ca">monodroidAddReference</reimplementedby>
+        <reimplementedby refid="classcrc64b76f6e8b2d8c8db1_1_1_date_app_compat_dialog_fragment_1a53edb96c15577edd665177332877c33c">monodroidAddReference</reimplementedby>
+        <reimplementedby refid="classcrc64b76f6e8b2d8c8db1_1_1_login_app_compat_dialog_fragment_1a617b304e6374a1b12a7a38a580903e6e">monodroidAddReference</reimplementedby>
+        <reimplementedby refid="classcrc64b76f6e8b2d8c8db1_1_1_prompt_app_compat_dialog_fragment_1aba093aa5509d56462a1d9d15b6aada08">monodroidAddReference</reimplementedby>
+        <reimplementedby refid="classcrc64b76f6e8b2d8c8db1_1_1_time_app_compat_dialog_fragment_1a1251f15fcf4d12a9bd7389a5baee950c">monodroidAddReference</reimplementedby>
+        <param>
+          <type>java.lang.Object</type>
+          <declname>obj</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/100/android/src/crc64b76f6e8b2d8c8db1/AbstractAppCompatDialogFragment_1.java" line="53" column="13" bodyfile="Application Green Quake.Android/obj/Release/100/android/src/crc64b76f6e8b2d8c8db1/AbstractAppCompatDialogFragment_1.java" bodystart="53" bodyend="58"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc64b76f6e8b2d8c8db1_1_1_abstract_app_compat_dialog_fragment__1_1a48fb28666de0ae4ee70e5c10af4a7581" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void crc64b76f6e8b2d8c8db1.AbstractAppCompatDialogFragment_1.monodroidClearReferences</definition>
+        <argsstring>()</argsstring>
+        <name>monodroidClearReferences</name>
+        <reimplementedby refid="classcrc64b76f6e8b2d8c8db1_1_1_action_sheet_app_compat_dialog_fragment_1ad7fa219850a67b17c82fc36a292e5928">monodroidClearReferences</reimplementedby>
+        <reimplementedby refid="classcrc64b76f6e8b2d8c8db1_1_1_alert_app_compat_dialog_fragment_1adfa23520b1a497e50cfb5cbf8add5039">monodroidClearReferences</reimplementedby>
+        <reimplementedby refid="classcrc64b76f6e8b2d8c8db1_1_1_bottom_sheet_dialog_fragment_1aba1c19158f22b1aba59bb52309ce1a85">monodroidClearReferences</reimplementedby>
+        <reimplementedby refid="classcrc64b76f6e8b2d8c8db1_1_1_confirm_app_compat_dialog_fragment_1af3e3be97caa3c81ceb3f9a2d56430548">monodroidClearReferences</reimplementedby>
+        <reimplementedby refid="classcrc64b76f6e8b2d8c8db1_1_1_date_app_compat_dialog_fragment_1a25581b5dd9c81d907ecd644d137f1954">monodroidClearReferences</reimplementedby>
+        <reimplementedby refid="classcrc64b76f6e8b2d8c8db1_1_1_login_app_compat_dialog_fragment_1a75940ccbd321a4c469f3aeabc1f1de7c">monodroidClearReferences</reimplementedby>
+        <reimplementedby refid="classcrc64b76f6e8b2d8c8db1_1_1_prompt_app_compat_dialog_fragment_1afcc02a10f43ba7bd220310d9dbaf705c">monodroidClearReferences</reimplementedby>
+        <reimplementedby refid="classcrc64b76f6e8b2d8c8db1_1_1_time_app_compat_dialog_fragment_1ab68cdf931e2442fba9f69bb41a5adca6">monodroidClearReferences</reimplementedby>
+        <reimplementedby refid="classcrc64b76f6e8b2d8c8db1_1_1_action_sheet_app_compat_dialog_fragment_1ad7fa219850a67b17c82fc36a292e5928">monodroidClearReferences</reimplementedby>
+        <reimplementedby refid="classcrc64b76f6e8b2d8c8db1_1_1_alert_app_compat_dialog_fragment_1adfa23520b1a497e50cfb5cbf8add5039">monodroidClearReferences</reimplementedby>
+        <reimplementedby refid="classcrc64b76f6e8b2d8c8db1_1_1_bottom_sheet_dialog_fragment_1aba1c19158f22b1aba59bb52309ce1a85">monodroidClearReferences</reimplementedby>
+        <reimplementedby refid="classcrc64b76f6e8b2d8c8db1_1_1_confirm_app_compat_dialog_fragment_1af3e3be97caa3c81ceb3f9a2d56430548">monodroidClearReferences</reimplementedby>
+        <reimplementedby refid="classcrc64b76f6e8b2d8c8db1_1_1_date_app_compat_dialog_fragment_1a25581b5dd9c81d907ecd644d137f1954">monodroidClearReferences</reimplementedby>
+        <reimplementedby refid="classcrc64b76f6e8b2d8c8db1_1_1_login_app_compat_dialog_fragment_1a75940ccbd321a4c469f3aeabc1f1de7c">monodroidClearReferences</reimplementedby>
+        <reimplementedby refid="classcrc64b76f6e8b2d8c8db1_1_1_prompt_app_compat_dialog_fragment_1afcc02a10f43ba7bd220310d9dbaf705c">monodroidClearReferences</reimplementedby>
+        <reimplementedby refid="classcrc64b76f6e8b2d8c8db1_1_1_time_app_compat_dialog_fragment_1ab68cdf931e2442fba9f69bb41a5adca6">monodroidClearReferences</reimplementedby>
+        <reimplementedby refid="classcrc64b76f6e8b2d8c8db1_1_1_action_sheet_app_compat_dialog_fragment_1ad7fa219850a67b17c82fc36a292e5928">monodroidClearReferences</reimplementedby>
+        <reimplementedby refid="classcrc64b76f6e8b2d8c8db1_1_1_alert_app_compat_dialog_fragment_1adfa23520b1a497e50cfb5cbf8add5039">monodroidClearReferences</reimplementedby>
+        <reimplementedby refid="classcrc64b76f6e8b2d8c8db1_1_1_bottom_sheet_dialog_fragment_1aba1c19158f22b1aba59bb52309ce1a85">monodroidClearReferences</reimplementedby>
+        <reimplementedby refid="classcrc64b76f6e8b2d8c8db1_1_1_confirm_app_compat_dialog_fragment_1af3e3be97caa3c81ceb3f9a2d56430548">monodroidClearReferences</reimplementedby>
+        <reimplementedby refid="classcrc64b76f6e8b2d8c8db1_1_1_date_app_compat_dialog_fragment_1a25581b5dd9c81d907ecd644d137f1954">monodroidClearReferences</reimplementedby>
+        <reimplementedby refid="classcrc64b76f6e8b2d8c8db1_1_1_login_app_compat_dialog_fragment_1a75940ccbd321a4c469f3aeabc1f1de7c">monodroidClearReferences</reimplementedby>
+        <reimplementedby refid="classcrc64b76f6e8b2d8c8db1_1_1_prompt_app_compat_dialog_fragment_1afcc02a10f43ba7bd220310d9dbaf705c">monodroidClearReferences</reimplementedby>
+        <reimplementedby refid="classcrc64b76f6e8b2d8c8db1_1_1_time_app_compat_dialog_fragment_1ab68cdf931e2442fba9f69bb41a5adca6">monodroidClearReferences</reimplementedby>
+        <reimplementedby refid="classcrc64b76f6e8b2d8c8db1_1_1_action_sheet_app_compat_dialog_fragment_1ad7fa219850a67b17c82fc36a292e5928">monodroidClearReferences</reimplementedby>
+        <reimplementedby refid="classcrc64b76f6e8b2d8c8db1_1_1_alert_app_compat_dialog_fragment_1adfa23520b1a497e50cfb5cbf8add5039">monodroidClearReferences</reimplementedby>
+        <reimplementedby refid="classcrc64b76f6e8b2d8c8db1_1_1_bottom_sheet_dialog_fragment_1aba1c19158f22b1aba59bb52309ce1a85">monodroidClearReferences</reimplementedby>
+        <reimplementedby refid="classcrc64b76f6e8b2d8c8db1_1_1_confirm_app_compat_dialog_fragment_1af3e3be97caa3c81ceb3f9a2d56430548">monodroidClearReferences</reimplementedby>
+        <reimplementedby refid="classcrc64b76f6e8b2d8c8db1_1_1_date_app_compat_dialog_fragment_1a25581b5dd9c81d907ecd644d137f1954">monodroidClearReferences</reimplementedby>
+        <reimplementedby refid="classcrc64b76f6e8b2d8c8db1_1_1_login_app_compat_dialog_fragment_1a75940ccbd321a4c469f3aeabc1f1de7c">monodroidClearReferences</reimplementedby>
+        <reimplementedby refid="classcrc64b76f6e8b2d8c8db1_1_1_prompt_app_compat_dialog_fragment_1afcc02a10f43ba7bd220310d9dbaf705c">monodroidClearReferences</reimplementedby>
+        <reimplementedby refid="classcrc64b76f6e8b2d8c8db1_1_1_time_app_compat_dialog_fragment_1ab68cdf931e2442fba9f69bb41a5adca6">monodroidClearReferences</reimplementedby>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/100/android/src/crc64b76f6e8b2d8c8db1/AbstractAppCompatDialogFragment_1.java" line="60" column="13" bodyfile="Application Green Quake.Android/obj/Release/100/android/src/crc64b76f6e8b2d8c8db1/AbstractAppCompatDialogFragment_1.java" bodystart="60" bodyend="64"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc64b76f6e8b2d8c8db1_1_1_abstract_app_compat_dialog_fragment__1_1af76326b0a67587243dbaeffb14f8931e" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>crc64b76f6e8b2d8c8db1.AbstractAppCompatDialogFragment_1.AbstractAppCompatDialogFragment_1</definition>
+        <argsstring>()</argsstring>
+        <name>AbstractAppCompatDialogFragment_1</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/110/android/src/crc64b76f6e8b2d8c8db1/AbstractAppCompatDialogFragment_1.java" line="21" column="8" bodyfile="Application Green Quake.Android/obj/Release/110/android/src/crc64b76f6e8b2d8c8db1/AbstractAppCompatDialogFragment_1.java" bodystart="21" bodyend="26"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc64b76f6e8b2d8c8db1_1_1_abstract_app_compat_dialog_fragment__1_1a5c936a0df5aafc766515e2d5faf839cc" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void crc64b76f6e8b2d8c8db1.AbstractAppCompatDialogFragment_1.onSaveInstanceState</definition>
+        <argsstring>(android.os.Bundle p0)</argsstring>
+        <name>onSaveInstanceState</name>
+        <param>
+          <type>android.os.Bundle</type>
+          <declname>p0</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/110/android/src/crc64b76f6e8b2d8c8db1/AbstractAppCompatDialogFragment_1.java" line="29" column="13" bodyfile="Application Green Quake.Android/obj/Release/110/android/src/crc64b76f6e8b2d8c8db1/AbstractAppCompatDialogFragment_1.java" bodystart="29" bodyend="32"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc64b76f6e8b2d8c8db1_1_1_abstract_app_compat_dialog_fragment__1_1ac80fb0543ec91e556decc62ffb95b791" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>android.app.Dialog</type>
+        <definition>android.app.Dialog crc64b76f6e8b2d8c8db1.AbstractAppCompatDialogFragment_1.onCreateDialog</definition>
+        <argsstring>(android.os.Bundle p0)</argsstring>
+        <name>onCreateDialog</name>
+        <param>
+          <type>android.os.Bundle</type>
+          <declname>p0</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/110/android/src/crc64b76f6e8b2d8c8db1/AbstractAppCompatDialogFragment_1.java" line="37" column="25" bodyfile="Application Green Quake.Android/obj/Release/110/android/src/crc64b76f6e8b2d8c8db1/AbstractAppCompatDialogFragment_1.java" bodystart="37" bodyend="40"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc64b76f6e8b2d8c8db1_1_1_abstract_app_compat_dialog_fragment__1_1a1d7630561fe220a2ac9f7c0cc18d22dd" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void crc64b76f6e8b2d8c8db1.AbstractAppCompatDialogFragment_1.onDetach</definition>
+        <argsstring>()</argsstring>
+        <name>onDetach</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/110/android/src/crc64b76f6e8b2d8c8db1/AbstractAppCompatDialogFragment_1.java" line="45" column="13" bodyfile="Application Green Quake.Android/obj/Release/110/android/src/crc64b76f6e8b2d8c8db1/AbstractAppCompatDialogFragment_1.java" bodystart="45" bodyend="48"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc64b76f6e8b2d8c8db1_1_1_abstract_app_compat_dialog_fragment__1_1af734d46ac5ca505b6346893787148453" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void crc64b76f6e8b2d8c8db1.AbstractAppCompatDialogFragment_1.monodroidAddReference</definition>
+        <argsstring>(java.lang.Object obj)</argsstring>
+        <name>monodroidAddReference</name>
+        <reimplementedby refid="classcrc64b76f6e8b2d8c8db1_1_1_action_sheet_app_compat_dialog_fragment_1a049be24f8d1a233bbd2269d974beb155">monodroidAddReference</reimplementedby>
+        <reimplementedby refid="classcrc64b76f6e8b2d8c8db1_1_1_alert_app_compat_dialog_fragment_1ab2c349784427b671572b0e74b02860e5">monodroidAddReference</reimplementedby>
+        <reimplementedby refid="classcrc64b76f6e8b2d8c8db1_1_1_bottom_sheet_dialog_fragment_1aa9caaf90b2d50ba1b25492f9e636dd0a">monodroidAddReference</reimplementedby>
+        <reimplementedby refid="classcrc64b76f6e8b2d8c8db1_1_1_confirm_app_compat_dialog_fragment_1a371ed79644e9326d9710e6341393b2ca">monodroidAddReference</reimplementedby>
+        <reimplementedby refid="classcrc64b76f6e8b2d8c8db1_1_1_date_app_compat_dialog_fragment_1a53edb96c15577edd665177332877c33c">monodroidAddReference</reimplementedby>
+        <reimplementedby refid="classcrc64b76f6e8b2d8c8db1_1_1_login_app_compat_dialog_fragment_1a617b304e6374a1b12a7a38a580903e6e">monodroidAddReference</reimplementedby>
+        <reimplementedby refid="classcrc64b76f6e8b2d8c8db1_1_1_prompt_app_compat_dialog_fragment_1aba093aa5509d56462a1d9d15b6aada08">monodroidAddReference</reimplementedby>
+        <reimplementedby refid="classcrc64b76f6e8b2d8c8db1_1_1_time_app_compat_dialog_fragment_1a1251f15fcf4d12a9bd7389a5baee950c">monodroidAddReference</reimplementedby>
+        <reimplementedby refid="classcrc64b76f6e8b2d8c8db1_1_1_action_sheet_app_compat_dialog_fragment_1a049be24f8d1a233bbd2269d974beb155">monodroidAddReference</reimplementedby>
+        <reimplementedby refid="classcrc64b76f6e8b2d8c8db1_1_1_alert_app_compat_dialog_fragment_1ab2c349784427b671572b0e74b02860e5">monodroidAddReference</reimplementedby>
+        <reimplementedby refid="classcrc64b76f6e8b2d8c8db1_1_1_bottom_sheet_dialog_fragment_1aa9caaf90b2d50ba1b25492f9e636dd0a">monodroidAddReference</reimplementedby>
+        <reimplementedby refid="classcrc64b76f6e8b2d8c8db1_1_1_confirm_app_compat_dialog_fragment_1a371ed79644e9326d9710e6341393b2ca">monodroidAddReference</reimplementedby>
+        <reimplementedby refid="classcrc64b76f6e8b2d8c8db1_1_1_date_app_compat_dialog_fragment_1a53edb96c15577edd665177332877c33c">monodroidAddReference</reimplementedby>
+        <reimplementedby refid="classcrc64b76f6e8b2d8c8db1_1_1_login_app_compat_dialog_fragment_1a617b304e6374a1b12a7a38a580903e6e">monodroidAddReference</reimplementedby>
+        <reimplementedby refid="classcrc64b76f6e8b2d8c8db1_1_1_prompt_app_compat_dialog_fragment_1aba093aa5509d56462a1d9d15b6aada08">monodroidAddReference</reimplementedby>
+        <reimplementedby refid="classcrc64b76f6e8b2d8c8db1_1_1_time_app_compat_dialog_fragment_1a1251f15fcf4d12a9bd7389a5baee950c">monodroidAddReference</reimplementedby>
+        <reimplementedby refid="classcrc64b76f6e8b2d8c8db1_1_1_action_sheet_app_compat_dialog_fragment_1a049be24f8d1a233bbd2269d974beb155">monodroidAddReference</reimplementedby>
+        <reimplementedby refid="classcrc64b76f6e8b2d8c8db1_1_1_alert_app_compat_dialog_fragment_1ab2c349784427b671572b0e74b02860e5">monodroidAddReference</reimplementedby>
+        <reimplementedby refid="classcrc64b76f6e8b2d8c8db1_1_1_bottom_sheet_dialog_fragment_1aa9caaf90b2d50ba1b25492f9e636dd0a">monodroidAddReference</reimplementedby>
+        <reimplementedby refid="classcrc64b76f6e8b2d8c8db1_1_1_confirm_app_compat_dialog_fragment_1a371ed79644e9326d9710e6341393b2ca">monodroidAddReference</reimplementedby>
+        <reimplementedby refid="classcrc64b76f6e8b2d8c8db1_1_1_date_app_compat_dialog_fragment_1a53edb96c15577edd665177332877c33c">monodroidAddReference</reimplementedby>
+        <reimplementedby refid="classcrc64b76f6e8b2d8c8db1_1_1_login_app_compat_dialog_fragment_1a617b304e6374a1b12a7a38a580903e6e">monodroidAddReference</reimplementedby>
+        <reimplementedby refid="classcrc64b76f6e8b2d8c8db1_1_1_prompt_app_compat_dialog_fragment_1aba093aa5509d56462a1d9d15b6aada08">monodroidAddReference</reimplementedby>
+        <reimplementedby refid="classcrc64b76f6e8b2d8c8db1_1_1_time_app_compat_dialog_fragment_1a1251f15fcf4d12a9bd7389a5baee950c">monodroidAddReference</reimplementedby>
+        <reimplementedby refid="classcrc64b76f6e8b2d8c8db1_1_1_action_sheet_app_compat_dialog_fragment_1a049be24f8d1a233bbd2269d974beb155">monodroidAddReference</reimplementedby>
+        <reimplementedby refid="classcrc64b76f6e8b2d8c8db1_1_1_alert_app_compat_dialog_fragment_1ab2c349784427b671572b0e74b02860e5">monodroidAddReference</reimplementedby>
+        <reimplementedby refid="classcrc64b76f6e8b2d8c8db1_1_1_bottom_sheet_dialog_fragment_1aa9caaf90b2d50ba1b25492f9e636dd0a">monodroidAddReference</reimplementedby>
+        <reimplementedby refid="classcrc64b76f6e8b2d8c8db1_1_1_confirm_app_compat_dialog_fragment_1a371ed79644e9326d9710e6341393b2ca">monodroidAddReference</reimplementedby>
+        <reimplementedby refid="classcrc64b76f6e8b2d8c8db1_1_1_date_app_compat_dialog_fragment_1a53edb96c15577edd665177332877c33c">monodroidAddReference</reimplementedby>
+        <reimplementedby refid="classcrc64b76f6e8b2d8c8db1_1_1_login_app_compat_dialog_fragment_1a617b304e6374a1b12a7a38a580903e6e">monodroidAddReference</reimplementedby>
+        <reimplementedby refid="classcrc64b76f6e8b2d8c8db1_1_1_prompt_app_compat_dialog_fragment_1aba093aa5509d56462a1d9d15b6aada08">monodroidAddReference</reimplementedby>
+        <reimplementedby refid="classcrc64b76f6e8b2d8c8db1_1_1_time_app_compat_dialog_fragment_1a1251f15fcf4d12a9bd7389a5baee950c">monodroidAddReference</reimplementedby>
+        <param>
+          <type>java.lang.Object</type>
+          <declname>obj</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/110/android/src/crc64b76f6e8b2d8c8db1/AbstractAppCompatDialogFragment_1.java" line="53" column="13" bodyfile="Application Green Quake.Android/obj/Release/110/android/src/crc64b76f6e8b2d8c8db1/AbstractAppCompatDialogFragment_1.java" bodystart="53" bodyend="58"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc64b76f6e8b2d8c8db1_1_1_abstract_app_compat_dialog_fragment__1_1a48fb28666de0ae4ee70e5c10af4a7581" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void crc64b76f6e8b2d8c8db1.AbstractAppCompatDialogFragment_1.monodroidClearReferences</definition>
+        <argsstring>()</argsstring>
+        <name>monodroidClearReferences</name>
+        <reimplementedby refid="classcrc64b76f6e8b2d8c8db1_1_1_action_sheet_app_compat_dialog_fragment_1ad7fa219850a67b17c82fc36a292e5928">monodroidClearReferences</reimplementedby>
+        <reimplementedby refid="classcrc64b76f6e8b2d8c8db1_1_1_alert_app_compat_dialog_fragment_1adfa23520b1a497e50cfb5cbf8add5039">monodroidClearReferences</reimplementedby>
+        <reimplementedby refid="classcrc64b76f6e8b2d8c8db1_1_1_bottom_sheet_dialog_fragment_1aba1c19158f22b1aba59bb52309ce1a85">monodroidClearReferences</reimplementedby>
+        <reimplementedby refid="classcrc64b76f6e8b2d8c8db1_1_1_confirm_app_compat_dialog_fragment_1af3e3be97caa3c81ceb3f9a2d56430548">monodroidClearReferences</reimplementedby>
+        <reimplementedby refid="classcrc64b76f6e8b2d8c8db1_1_1_date_app_compat_dialog_fragment_1a25581b5dd9c81d907ecd644d137f1954">monodroidClearReferences</reimplementedby>
+        <reimplementedby refid="classcrc64b76f6e8b2d8c8db1_1_1_login_app_compat_dialog_fragment_1a75940ccbd321a4c469f3aeabc1f1de7c">monodroidClearReferences</reimplementedby>
+        <reimplementedby refid="classcrc64b76f6e8b2d8c8db1_1_1_prompt_app_compat_dialog_fragment_1afcc02a10f43ba7bd220310d9dbaf705c">monodroidClearReferences</reimplementedby>
+        <reimplementedby refid="classcrc64b76f6e8b2d8c8db1_1_1_time_app_compat_dialog_fragment_1ab68cdf931e2442fba9f69bb41a5adca6">monodroidClearReferences</reimplementedby>
+        <reimplementedby refid="classcrc64b76f6e8b2d8c8db1_1_1_action_sheet_app_compat_dialog_fragment_1ad7fa219850a67b17c82fc36a292e5928">monodroidClearReferences</reimplementedby>
+        <reimplementedby refid="classcrc64b76f6e8b2d8c8db1_1_1_alert_app_compat_dialog_fragment_1adfa23520b1a497e50cfb5cbf8add5039">monodroidClearReferences</reimplementedby>
+        <reimplementedby refid="classcrc64b76f6e8b2d8c8db1_1_1_bottom_sheet_dialog_fragment_1aba1c19158f22b1aba59bb52309ce1a85">monodroidClearReferences</reimplementedby>
+        <reimplementedby refid="classcrc64b76f6e8b2d8c8db1_1_1_confirm_app_compat_dialog_fragment_1af3e3be97caa3c81ceb3f9a2d56430548">monodroidClearReferences</reimplementedby>
+        <reimplementedby refid="classcrc64b76f6e8b2d8c8db1_1_1_date_app_compat_dialog_fragment_1a25581b5dd9c81d907ecd644d137f1954">monodroidClearReferences</reimplementedby>
+        <reimplementedby refid="classcrc64b76f6e8b2d8c8db1_1_1_login_app_compat_dialog_fragment_1a75940ccbd321a4c469f3aeabc1f1de7c">monodroidClearReferences</reimplementedby>
+        <reimplementedby refid="classcrc64b76f6e8b2d8c8db1_1_1_prompt_app_compat_dialog_fragment_1afcc02a10f43ba7bd220310d9dbaf705c">monodroidClearReferences</reimplementedby>
+        <reimplementedby refid="classcrc64b76f6e8b2d8c8db1_1_1_time_app_compat_dialog_fragment_1ab68cdf931e2442fba9f69bb41a5adca6">monodroidClearReferences</reimplementedby>
+        <reimplementedby refid="classcrc64b76f6e8b2d8c8db1_1_1_action_sheet_app_compat_dialog_fragment_1ad7fa219850a67b17c82fc36a292e5928">monodroidClearReferences</reimplementedby>
+        <reimplementedby refid="classcrc64b76f6e8b2d8c8db1_1_1_alert_app_compat_dialog_fragment_1adfa23520b1a497e50cfb5cbf8add5039">monodroidClearReferences</reimplementedby>
+        <reimplementedby refid="classcrc64b76f6e8b2d8c8db1_1_1_bottom_sheet_dialog_fragment_1aba1c19158f22b1aba59bb52309ce1a85">monodroidClearReferences</reimplementedby>
+        <reimplementedby refid="classcrc64b76f6e8b2d8c8db1_1_1_confirm_app_compat_dialog_fragment_1af3e3be97caa3c81ceb3f9a2d56430548">monodroidClearReferences</reimplementedby>
+        <reimplementedby refid="classcrc64b76f6e8b2d8c8db1_1_1_date_app_compat_dialog_fragment_1a25581b5dd9c81d907ecd644d137f1954">monodroidClearReferences</reimplementedby>
+        <reimplementedby refid="classcrc64b76f6e8b2d8c8db1_1_1_login_app_compat_dialog_fragment_1a75940ccbd321a4c469f3aeabc1f1de7c">monodroidClearReferences</reimplementedby>
+        <reimplementedby refid="classcrc64b76f6e8b2d8c8db1_1_1_prompt_app_compat_dialog_fragment_1afcc02a10f43ba7bd220310d9dbaf705c">monodroidClearReferences</reimplementedby>
+        <reimplementedby refid="classcrc64b76f6e8b2d8c8db1_1_1_time_app_compat_dialog_fragment_1ab68cdf931e2442fba9f69bb41a5adca6">monodroidClearReferences</reimplementedby>
+        <reimplementedby refid="classcrc64b76f6e8b2d8c8db1_1_1_action_sheet_app_compat_dialog_fragment_1ad7fa219850a67b17c82fc36a292e5928">monodroidClearReferences</reimplementedby>
+        <reimplementedby refid="classcrc64b76f6e8b2d8c8db1_1_1_alert_app_compat_dialog_fragment_1adfa23520b1a497e50cfb5cbf8add5039">monodroidClearReferences</reimplementedby>
+        <reimplementedby refid="classcrc64b76f6e8b2d8c8db1_1_1_bottom_sheet_dialog_fragment_1aba1c19158f22b1aba59bb52309ce1a85">monodroidClearReferences</reimplementedby>
+        <reimplementedby refid="classcrc64b76f6e8b2d8c8db1_1_1_confirm_app_compat_dialog_fragment_1af3e3be97caa3c81ceb3f9a2d56430548">monodroidClearReferences</reimplementedby>
+        <reimplementedby refid="classcrc64b76f6e8b2d8c8db1_1_1_date_app_compat_dialog_fragment_1a25581b5dd9c81d907ecd644d137f1954">monodroidClearReferences</reimplementedby>
+        <reimplementedby refid="classcrc64b76f6e8b2d8c8db1_1_1_login_app_compat_dialog_fragment_1a75940ccbd321a4c469f3aeabc1f1de7c">monodroidClearReferences</reimplementedby>
+        <reimplementedby refid="classcrc64b76f6e8b2d8c8db1_1_1_prompt_app_compat_dialog_fragment_1afcc02a10f43ba7bd220310d9dbaf705c">monodroidClearReferences</reimplementedby>
+        <reimplementedby refid="classcrc64b76f6e8b2d8c8db1_1_1_time_app_compat_dialog_fragment_1ab68cdf931e2442fba9f69bb41a5adca6">monodroidClearReferences</reimplementedby>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/110/android/src/crc64b76f6e8b2d8c8db1/AbstractAppCompatDialogFragment_1.java" line="60" column="13" bodyfile="Application Green Quake.Android/obj/Release/110/android/src/crc64b76f6e8b2d8c8db1/AbstractAppCompatDialogFragment_1.java" bodystart="60" bodyend="64"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="private-func">
+      <memberdef kind="function" id="classcrc64b76f6e8b2d8c8db1_1_1_abstract_app_compat_dialog_fragment__1_1a96c12c555014a4e8024c31b192d23b6b" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>native void</type>
+        <definition>native void crc64b76f6e8b2d8c8db1.AbstractAppCompatDialogFragment_1.n_onSaveInstanceState</definition>
+        <argsstring>(android.os.Bundle p0)</argsstring>
+        <name>n_onSaveInstanceState</name>
+        <param>
+          <type>android.os.Bundle</type>
+          <declname>p0</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/100/android/src/crc64b76f6e8b2d8c8db1/AbstractAppCompatDialogFragment_1.java" line="34" column="21"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc64b76f6e8b2d8c8db1_1_1_abstract_app_compat_dialog_fragment__1_1af75bb8eb3894171e9c8f7e468dcd46d1" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>native android.app.Dialog</type>
+        <definition>native android.app.Dialog crc64b76f6e8b2d8c8db1.AbstractAppCompatDialogFragment_1.n_onCreateDialog</definition>
+        <argsstring>(android.os.Bundle p0)</argsstring>
+        <name>n_onCreateDialog</name>
+        <param>
+          <type>android.os.Bundle</type>
+          <declname>p0</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/100/android/src/crc64b76f6e8b2d8c8db1/AbstractAppCompatDialogFragment_1.java" line="42" column="33"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc64b76f6e8b2d8c8db1_1_1_abstract_app_compat_dialog_fragment__1_1aaca3610db8ddc7f485bf2d00b5ede4d6" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>native void</type>
+        <definition>native void crc64b76f6e8b2d8c8db1.AbstractAppCompatDialogFragment_1.n_onDetach</definition>
+        <argsstring>()</argsstring>
+        <name>n_onDetach</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/100/android/src/crc64b76f6e8b2d8c8db1/AbstractAppCompatDialogFragment_1.java" line="50" column="21"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc64b76f6e8b2d8c8db1_1_1_abstract_app_compat_dialog_fragment__1_1a96c12c555014a4e8024c31b192d23b6b" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>native void</type>
+        <definition>native void crc64b76f6e8b2d8c8db1.AbstractAppCompatDialogFragment_1.n_onSaveInstanceState</definition>
+        <argsstring>(android.os.Bundle p0)</argsstring>
+        <name>n_onSaveInstanceState</name>
+        <param>
+          <type>android.os.Bundle</type>
+          <declname>p0</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/110/android/src/crc64b76f6e8b2d8c8db1/AbstractAppCompatDialogFragment_1.java" line="34" column="21"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc64b76f6e8b2d8c8db1_1_1_abstract_app_compat_dialog_fragment__1_1af75bb8eb3894171e9c8f7e468dcd46d1" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>native android.app.Dialog</type>
+        <definition>native android.app.Dialog crc64b76f6e8b2d8c8db1.AbstractAppCompatDialogFragment_1.n_onCreateDialog</definition>
+        <argsstring>(android.os.Bundle p0)</argsstring>
+        <name>n_onCreateDialog</name>
+        <param>
+          <type>android.os.Bundle</type>
+          <declname>p0</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/110/android/src/crc64b76f6e8b2d8c8db1/AbstractAppCompatDialogFragment_1.java" line="42" column="33"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc64b76f6e8b2d8c8db1_1_1_abstract_app_compat_dialog_fragment__1_1aaca3610db8ddc7f485bf2d00b5ede4d6" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>native void</type>
+        <definition>native void crc64b76f6e8b2d8c8db1.AbstractAppCompatDialogFragment_1.n_onDetach</definition>
+        <argsstring>()</argsstring>
+        <name>n_onDetach</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/110/android/src/crc64b76f6e8b2d8c8db1/AbstractAppCompatDialogFragment_1.java" line="50" column="21"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc64b76f6e8b2d8c8db1_1_1_abstract_app_compat_dialog_fragment__1_1a96c12c555014a4e8024c31b192d23b6b" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>native void</type>
+        <definition>native void crc64b76f6e8b2d8c8db1.AbstractAppCompatDialogFragment_1.n_onSaveInstanceState</definition>
+        <argsstring>(android.os.Bundle p0)</argsstring>
+        <name>n_onSaveInstanceState</name>
+        <param>
+          <type>android.os.Bundle</type>
+          <declname>p0</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/100/android/src/crc64b76f6e8b2d8c8db1/AbstractAppCompatDialogFragment_1.java" line="34" column="21"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc64b76f6e8b2d8c8db1_1_1_abstract_app_compat_dialog_fragment__1_1af75bb8eb3894171e9c8f7e468dcd46d1" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>native android.app.Dialog</type>
+        <definition>native android.app.Dialog crc64b76f6e8b2d8c8db1.AbstractAppCompatDialogFragment_1.n_onCreateDialog</definition>
+        <argsstring>(android.os.Bundle p0)</argsstring>
+        <name>n_onCreateDialog</name>
+        <param>
+          <type>android.os.Bundle</type>
+          <declname>p0</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/100/android/src/crc64b76f6e8b2d8c8db1/AbstractAppCompatDialogFragment_1.java" line="42" column="33"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc64b76f6e8b2d8c8db1_1_1_abstract_app_compat_dialog_fragment__1_1aaca3610db8ddc7f485bf2d00b5ede4d6" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>native void</type>
+        <definition>native void crc64b76f6e8b2d8c8db1.AbstractAppCompatDialogFragment_1.n_onDetach</definition>
+        <argsstring>()</argsstring>
+        <name>n_onDetach</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/100/android/src/crc64b76f6e8b2d8c8db1/AbstractAppCompatDialogFragment_1.java" line="50" column="21"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc64b76f6e8b2d8c8db1_1_1_abstract_app_compat_dialog_fragment__1_1a96c12c555014a4e8024c31b192d23b6b" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>native void</type>
+        <definition>native void crc64b76f6e8b2d8c8db1.AbstractAppCompatDialogFragment_1.n_onSaveInstanceState</definition>
+        <argsstring>(android.os.Bundle p0)</argsstring>
+        <name>n_onSaveInstanceState</name>
+        <param>
+          <type>android.os.Bundle</type>
+          <declname>p0</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/110/android/src/crc64b76f6e8b2d8c8db1/AbstractAppCompatDialogFragment_1.java" line="34" column="21"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc64b76f6e8b2d8c8db1_1_1_abstract_app_compat_dialog_fragment__1_1af75bb8eb3894171e9c8f7e468dcd46d1" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>native android.app.Dialog</type>
+        <definition>native android.app.Dialog crc64b76f6e8b2d8c8db1.AbstractAppCompatDialogFragment_1.n_onCreateDialog</definition>
+        <argsstring>(android.os.Bundle p0)</argsstring>
+        <name>n_onCreateDialog</name>
+        <param>
+          <type>android.os.Bundle</type>
+          <declname>p0</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/110/android/src/crc64b76f6e8b2d8c8db1/AbstractAppCompatDialogFragment_1.java" line="42" column="33"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc64b76f6e8b2d8c8db1_1_1_abstract_app_compat_dialog_fragment__1_1aaca3610db8ddc7f485bf2d00b5ede4d6" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>native void</type>
+        <definition>native void crc64b76f6e8b2d8c8db1.AbstractAppCompatDialogFragment_1.n_onDetach</definition>
+        <argsstring>()</argsstring>
+        <name>n_onDetach</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/110/android/src/crc64b76f6e8b2d8c8db1/AbstractAppCompatDialogFragment_1.java" line="50" column="21"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <inheritancegraph>
+      <node id="4">
+        <label>androidx.appcompat.app.AppCompatDialogFragment</label>
+      </node>
+      <node id="9">
+        <label>crc64b76f6e8b2d8c8db1.DateAppCompatDialogFragment</label>
+        <link refid="classcrc64b76f6e8b2d8c8db1_1_1_date_app_compat_dialog_fragment"/>
+        <childnode refid="1" relation="public-inheritance">
+        </childnode>
+        <childnode refid="1" relation="public-inheritance">
+        </childnode>
+        <childnode refid="1" relation="public-inheritance">
+        </childnode>
+        <childnode refid="1" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="1">
+        <label>crc64b76f6e8b2d8c8db1.AbstractAppCompatDialogFragment_1</label>
+        <link refid="classcrc64b76f6e8b2d8c8db1_1_1_abstract_app_compat_dialog_fragment__1"/>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+        <childnode refid="3" relation="public-inheritance">
+        </childnode>
+        <childnode refid="4" relation="public-inheritance">
+        </childnode>
+        <childnode refid="3" relation="public-inheritance">
+        </childnode>
+        <childnode refid="4" relation="public-inheritance">
+        </childnode>
+        <childnode refid="3" relation="public-inheritance">
+        </childnode>
+        <childnode refid="4" relation="public-inheritance">
+        </childnode>
+        <childnode refid="3" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="12">
+        <label>crc64b76f6e8b2d8c8db1.TimeAppCompatDialogFragment</label>
+        <link refid="classcrc64b76f6e8b2d8c8db1_1_1_time_app_compat_dialog_fragment"/>
+        <childnode refid="1" relation="public-inheritance">
+        </childnode>
+        <childnode refid="1" relation="public-inheritance">
+        </childnode>
+        <childnode refid="1" relation="public-inheritance">
+        </childnode>
+        <childnode refid="1" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="7">
+        <label>crc64b76f6e8b2d8c8db1.BottomSheetDialogFragment</label>
+        <link refid="classcrc64b76f6e8b2d8c8db1_1_1_bottom_sheet_dialog_fragment"/>
+        <childnode refid="1" relation="public-inheritance">
+        </childnode>
+        <childnode refid="1" relation="public-inheritance">
+        </childnode>
+        <childnode refid="1" relation="public-inheritance">
+        </childnode>
+        <childnode refid="1" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="5">
+        <label>crc64b76f6e8b2d8c8db1.ActionSheetAppCompatDialogFragment</label>
+        <link refid="classcrc64b76f6e8b2d8c8db1_1_1_action_sheet_app_compat_dialog_fragment"/>
+        <childnode refid="1" relation="public-inheritance">
+        </childnode>
+        <childnode refid="1" relation="public-inheritance">
+        </childnode>
+        <childnode refid="1" relation="public-inheritance">
+        </childnode>
+        <childnode refid="1" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="10">
+        <label>crc64b76f6e8b2d8c8db1.LoginAppCompatDialogFragment</label>
+        <link refid="classcrc64b76f6e8b2d8c8db1_1_1_login_app_compat_dialog_fragment"/>
+        <childnode refid="1" relation="public-inheritance">
+        </childnode>
+        <childnode refid="1" relation="public-inheritance">
+        </childnode>
+        <childnode refid="1" relation="public-inheritance">
+        </childnode>
+        <childnode refid="1" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="8">
+        <label>crc64b76f6e8b2d8c8db1.ConfirmAppCompatDialogFragment</label>
+        <link refid="classcrc64b76f6e8b2d8c8db1_1_1_confirm_app_compat_dialog_fragment"/>
+        <childnode refid="1" relation="public-inheritance">
+        </childnode>
+        <childnode refid="1" relation="public-inheritance">
+        </childnode>
+        <childnode refid="1" relation="public-inheritance">
+        </childnode>
+        <childnode refid="1" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="2">
+        <label>androidx::appcompat::app::AppCompatDialogFragment</label>
+      </node>
+      <node id="3">
+        <label>mono.android.IGCUserPeer</label>
+      </node>
+      <node id="11">
+        <label>crc64b76f6e8b2d8c8db1.PromptAppCompatDialogFragment</label>
+        <link refid="classcrc64b76f6e8b2d8c8db1_1_1_prompt_app_compat_dialog_fragment"/>
+        <childnode refid="1" relation="public-inheritance">
+        </childnode>
+        <childnode refid="1" relation="public-inheritance">
+        </childnode>
+        <childnode refid="1" relation="public-inheritance">
+        </childnode>
+        <childnode refid="1" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="6">
+        <label>crc64b76f6e8b2d8c8db1.AlertAppCompatDialogFragment</label>
+        <link refid="classcrc64b76f6e8b2d8c8db1_1_1_alert_app_compat_dialog_fragment"/>
+        <childnode refid="1" relation="public-inheritance">
+        </childnode>
+        <childnode refid="1" relation="public-inheritance">
+        </childnode>
+        <childnode refid="1" relation="public-inheritance">
+        </childnode>
+        <childnode refid="1" relation="public-inheritance">
+        </childnode>
+      </node>
+    </inheritancegraph>
+    <collaborationgraph>
+      <node id="4">
+        <label>androidx.appcompat.app.AppCompatDialogFragment</label>
+      </node>
+      <node id="1">
+        <label>crc64b76f6e8b2d8c8db1.AbstractAppCompatDialogFragment_1</label>
+        <link refid="classcrc64b76f6e8b2d8c8db1_1_1_abstract_app_compat_dialog_fragment__1"/>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+        <childnode refid="3" relation="public-inheritance">
+        </childnode>
+        <childnode refid="4" relation="public-inheritance">
+        </childnode>
+        <childnode refid="3" relation="public-inheritance">
+        </childnode>
+        <childnode refid="4" relation="public-inheritance">
+        </childnode>
+        <childnode refid="3" relation="public-inheritance">
+        </childnode>
+        <childnode refid="4" relation="public-inheritance">
+        </childnode>
+        <childnode refid="3" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="2">
+        <label>androidx::appcompat::app::AppCompatDialogFragment</label>
+      </node>
+      <node id="3">
+        <label>mono.android.IGCUserPeer</label>
+      </node>
+    </collaborationgraph>
+    <location file="Application Green Quake.Android/obj/Debug/100/android/src/crc64b76f6e8b2d8c8db1/AbstractAppCompatDialogFragment_1.java" line="4" column="17" bodyfile="Application Green Quake.Android/obj/Debug/100/android/src/crc64b76f6e8b2d8c8db1/AbstractAppCompatDialogFragment_1.java" bodystart="8" bodyend="65"/>
+    <listofallmembers>
+      <member refid="classcrc64b76f6e8b2d8c8db1_1_1_abstract_app_compat_dialog_fragment__1_1abe9b62dabe876effd451485097cc07a9" prot="package" virt="non-virtual"><scope>crc64b76f6e8b2d8c8db1::AbstractAppCompatDialogFragment_1</scope><name>[static initializer]</name></member>
+      <member refid="classcrc64b76f6e8b2d8c8db1_1_1_abstract_app_compat_dialog_fragment__1_1abe9b62dabe876effd451485097cc07a9" prot="package" virt="non-virtual"><scope>crc64b76f6e8b2d8c8db1::AbstractAppCompatDialogFragment_1</scope><name>[static initializer]</name></member>
+      <member refid="classcrc64b76f6e8b2d8c8db1_1_1_abstract_app_compat_dialog_fragment__1_1abe9b62dabe876effd451485097cc07a9" prot="package" virt="non-virtual"><scope>crc64b76f6e8b2d8c8db1::AbstractAppCompatDialogFragment_1</scope><name>[static initializer]</name></member>
+      <member refid="classcrc64b76f6e8b2d8c8db1_1_1_abstract_app_compat_dialog_fragment__1_1abe9b62dabe876effd451485097cc07a9" prot="package" virt="non-virtual"><scope>crc64b76f6e8b2d8c8db1::AbstractAppCompatDialogFragment_1</scope><name>[static initializer]</name></member>
+      <member refid="classcrc64b76f6e8b2d8c8db1_1_1_abstract_app_compat_dialog_fragment__1_1afcfa7eb84ead37dc52a4fd37444448f9" prot="public" virt="non-virtual"><scope>crc64b76f6e8b2d8c8db1::AbstractAppCompatDialogFragment_1</scope><name>__md_methods</name></member>
+      <member refid="classcrc64b76f6e8b2d8c8db1_1_1_abstract_app_compat_dialog_fragment__1_1af76326b0a67587243dbaeffb14f8931e" prot="public" virt="non-virtual"><scope>crc64b76f6e8b2d8c8db1::AbstractAppCompatDialogFragment_1</scope><name>AbstractAppCompatDialogFragment_1</name></member>
+      <member refid="classcrc64b76f6e8b2d8c8db1_1_1_abstract_app_compat_dialog_fragment__1_1af76326b0a67587243dbaeffb14f8931e" prot="public" virt="non-virtual"><scope>crc64b76f6e8b2d8c8db1::AbstractAppCompatDialogFragment_1</scope><name>AbstractAppCompatDialogFragment_1</name></member>
+      <member refid="classcrc64b76f6e8b2d8c8db1_1_1_abstract_app_compat_dialog_fragment__1_1af76326b0a67587243dbaeffb14f8931e" prot="public" virt="non-virtual"><scope>crc64b76f6e8b2d8c8db1::AbstractAppCompatDialogFragment_1</scope><name>AbstractAppCompatDialogFragment_1</name></member>
+      <member refid="classcrc64b76f6e8b2d8c8db1_1_1_abstract_app_compat_dialog_fragment__1_1af76326b0a67587243dbaeffb14f8931e" prot="public" virt="non-virtual"><scope>crc64b76f6e8b2d8c8db1::AbstractAppCompatDialogFragment_1</scope><name>AbstractAppCompatDialogFragment_1</name></member>
+      <member refid="classcrc64b76f6e8b2d8c8db1_1_1_abstract_app_compat_dialog_fragment__1_1af734d46ac5ca505b6346893787148453" prot="public" virt="non-virtual"><scope>crc64b76f6e8b2d8c8db1::AbstractAppCompatDialogFragment_1</scope><name>monodroidAddReference</name></member>
+      <member refid="classcrc64b76f6e8b2d8c8db1_1_1_abstract_app_compat_dialog_fragment__1_1af734d46ac5ca505b6346893787148453" prot="public" virt="non-virtual"><scope>crc64b76f6e8b2d8c8db1::AbstractAppCompatDialogFragment_1</scope><name>monodroidAddReference</name></member>
+      <member refid="classcrc64b76f6e8b2d8c8db1_1_1_abstract_app_compat_dialog_fragment__1_1af734d46ac5ca505b6346893787148453" prot="public" virt="non-virtual"><scope>crc64b76f6e8b2d8c8db1::AbstractAppCompatDialogFragment_1</scope><name>monodroidAddReference</name></member>
+      <member refid="classcrc64b76f6e8b2d8c8db1_1_1_abstract_app_compat_dialog_fragment__1_1af734d46ac5ca505b6346893787148453" prot="public" virt="non-virtual"><scope>crc64b76f6e8b2d8c8db1::AbstractAppCompatDialogFragment_1</scope><name>monodroidAddReference</name></member>
+      <member refid="classcrc64b76f6e8b2d8c8db1_1_1_abstract_app_compat_dialog_fragment__1_1a48fb28666de0ae4ee70e5c10af4a7581" prot="public" virt="non-virtual"><scope>crc64b76f6e8b2d8c8db1::AbstractAppCompatDialogFragment_1</scope><name>monodroidClearReferences</name></member>
+      <member refid="classcrc64b76f6e8b2d8c8db1_1_1_abstract_app_compat_dialog_fragment__1_1a48fb28666de0ae4ee70e5c10af4a7581" prot="public" virt="non-virtual"><scope>crc64b76f6e8b2d8c8db1::AbstractAppCompatDialogFragment_1</scope><name>monodroidClearReferences</name></member>
+      <member refid="classcrc64b76f6e8b2d8c8db1_1_1_abstract_app_compat_dialog_fragment__1_1a48fb28666de0ae4ee70e5c10af4a7581" prot="public" virt="non-virtual"><scope>crc64b76f6e8b2d8c8db1::AbstractAppCompatDialogFragment_1</scope><name>monodroidClearReferences</name></member>
+      <member refid="classcrc64b76f6e8b2d8c8db1_1_1_abstract_app_compat_dialog_fragment__1_1a48fb28666de0ae4ee70e5c10af4a7581" prot="public" virt="non-virtual"><scope>crc64b76f6e8b2d8c8db1::AbstractAppCompatDialogFragment_1</scope><name>monodroidClearReferences</name></member>
+      <member refid="classcrc64b76f6e8b2d8c8db1_1_1_abstract_app_compat_dialog_fragment__1_1af75bb8eb3894171e9c8f7e468dcd46d1" prot="private" virt="non-virtual"><scope>crc64b76f6e8b2d8c8db1::AbstractAppCompatDialogFragment_1</scope><name>n_onCreateDialog</name></member>
+      <member refid="classcrc64b76f6e8b2d8c8db1_1_1_abstract_app_compat_dialog_fragment__1_1af75bb8eb3894171e9c8f7e468dcd46d1" prot="private" virt="non-virtual"><scope>crc64b76f6e8b2d8c8db1::AbstractAppCompatDialogFragment_1</scope><name>n_onCreateDialog</name></member>
+      <member refid="classcrc64b76f6e8b2d8c8db1_1_1_abstract_app_compat_dialog_fragment__1_1af75bb8eb3894171e9c8f7e468dcd46d1" prot="private" virt="non-virtual"><scope>crc64b76f6e8b2d8c8db1::AbstractAppCompatDialogFragment_1</scope><name>n_onCreateDialog</name></member>
+      <member refid="classcrc64b76f6e8b2d8c8db1_1_1_abstract_app_compat_dialog_fragment__1_1af75bb8eb3894171e9c8f7e468dcd46d1" prot="private" virt="non-virtual"><scope>crc64b76f6e8b2d8c8db1::AbstractAppCompatDialogFragment_1</scope><name>n_onCreateDialog</name></member>
+      <member refid="classcrc64b76f6e8b2d8c8db1_1_1_abstract_app_compat_dialog_fragment__1_1aaca3610db8ddc7f485bf2d00b5ede4d6" prot="private" virt="non-virtual"><scope>crc64b76f6e8b2d8c8db1::AbstractAppCompatDialogFragment_1</scope><name>n_onDetach</name></member>
+      <member refid="classcrc64b76f6e8b2d8c8db1_1_1_abstract_app_compat_dialog_fragment__1_1aaca3610db8ddc7f485bf2d00b5ede4d6" prot="private" virt="non-virtual"><scope>crc64b76f6e8b2d8c8db1::AbstractAppCompatDialogFragment_1</scope><name>n_onDetach</name></member>
+      <member refid="classcrc64b76f6e8b2d8c8db1_1_1_abstract_app_compat_dialog_fragment__1_1aaca3610db8ddc7f485bf2d00b5ede4d6" prot="private" virt="non-virtual"><scope>crc64b76f6e8b2d8c8db1::AbstractAppCompatDialogFragment_1</scope><name>n_onDetach</name></member>
+      <member refid="classcrc64b76f6e8b2d8c8db1_1_1_abstract_app_compat_dialog_fragment__1_1aaca3610db8ddc7f485bf2d00b5ede4d6" prot="private" virt="non-virtual"><scope>crc64b76f6e8b2d8c8db1::AbstractAppCompatDialogFragment_1</scope><name>n_onDetach</name></member>
+      <member refid="classcrc64b76f6e8b2d8c8db1_1_1_abstract_app_compat_dialog_fragment__1_1a96c12c555014a4e8024c31b192d23b6b" prot="private" virt="non-virtual"><scope>crc64b76f6e8b2d8c8db1::AbstractAppCompatDialogFragment_1</scope><name>n_onSaveInstanceState</name></member>
+      <member refid="classcrc64b76f6e8b2d8c8db1_1_1_abstract_app_compat_dialog_fragment__1_1a96c12c555014a4e8024c31b192d23b6b" prot="private" virt="non-virtual"><scope>crc64b76f6e8b2d8c8db1::AbstractAppCompatDialogFragment_1</scope><name>n_onSaveInstanceState</name></member>
+      <member refid="classcrc64b76f6e8b2d8c8db1_1_1_abstract_app_compat_dialog_fragment__1_1a96c12c555014a4e8024c31b192d23b6b" prot="private" virt="non-virtual"><scope>crc64b76f6e8b2d8c8db1::AbstractAppCompatDialogFragment_1</scope><name>n_onSaveInstanceState</name></member>
+      <member refid="classcrc64b76f6e8b2d8c8db1_1_1_abstract_app_compat_dialog_fragment__1_1a96c12c555014a4e8024c31b192d23b6b" prot="private" virt="non-virtual"><scope>crc64b76f6e8b2d8c8db1::AbstractAppCompatDialogFragment_1</scope><name>n_onSaveInstanceState</name></member>
+      <member refid="classcrc64b76f6e8b2d8c8db1_1_1_abstract_app_compat_dialog_fragment__1_1ac80fb0543ec91e556decc62ffb95b791" prot="public" virt="non-virtual"><scope>crc64b76f6e8b2d8c8db1::AbstractAppCompatDialogFragment_1</scope><name>onCreateDialog</name></member>
+      <member refid="classcrc64b76f6e8b2d8c8db1_1_1_abstract_app_compat_dialog_fragment__1_1ac80fb0543ec91e556decc62ffb95b791" prot="public" virt="non-virtual"><scope>crc64b76f6e8b2d8c8db1::AbstractAppCompatDialogFragment_1</scope><name>onCreateDialog</name></member>
+      <member refid="classcrc64b76f6e8b2d8c8db1_1_1_abstract_app_compat_dialog_fragment__1_1ac80fb0543ec91e556decc62ffb95b791" prot="public" virt="non-virtual"><scope>crc64b76f6e8b2d8c8db1::AbstractAppCompatDialogFragment_1</scope><name>onCreateDialog</name></member>
+      <member refid="classcrc64b76f6e8b2d8c8db1_1_1_abstract_app_compat_dialog_fragment__1_1ac80fb0543ec91e556decc62ffb95b791" prot="public" virt="non-virtual"><scope>crc64b76f6e8b2d8c8db1::AbstractAppCompatDialogFragment_1</scope><name>onCreateDialog</name></member>
+      <member refid="classcrc64b76f6e8b2d8c8db1_1_1_abstract_app_compat_dialog_fragment__1_1a1d7630561fe220a2ac9f7c0cc18d22dd" prot="public" virt="non-virtual"><scope>crc64b76f6e8b2d8c8db1::AbstractAppCompatDialogFragment_1</scope><name>onDetach</name></member>
+      <member refid="classcrc64b76f6e8b2d8c8db1_1_1_abstract_app_compat_dialog_fragment__1_1a1d7630561fe220a2ac9f7c0cc18d22dd" prot="public" virt="non-virtual"><scope>crc64b76f6e8b2d8c8db1::AbstractAppCompatDialogFragment_1</scope><name>onDetach</name></member>
+      <member refid="classcrc64b76f6e8b2d8c8db1_1_1_abstract_app_compat_dialog_fragment__1_1a1d7630561fe220a2ac9f7c0cc18d22dd" prot="public" virt="non-virtual"><scope>crc64b76f6e8b2d8c8db1::AbstractAppCompatDialogFragment_1</scope><name>onDetach</name></member>
+      <member refid="classcrc64b76f6e8b2d8c8db1_1_1_abstract_app_compat_dialog_fragment__1_1a1d7630561fe220a2ac9f7c0cc18d22dd" prot="public" virt="non-virtual"><scope>crc64b76f6e8b2d8c8db1::AbstractAppCompatDialogFragment_1</scope><name>onDetach</name></member>
+      <member refid="classcrc64b76f6e8b2d8c8db1_1_1_abstract_app_compat_dialog_fragment__1_1a5c936a0df5aafc766515e2d5faf839cc" prot="public" virt="non-virtual"><scope>crc64b76f6e8b2d8c8db1::AbstractAppCompatDialogFragment_1</scope><name>onSaveInstanceState</name></member>
+      <member refid="classcrc64b76f6e8b2d8c8db1_1_1_abstract_app_compat_dialog_fragment__1_1a5c936a0df5aafc766515e2d5faf839cc" prot="public" virt="non-virtual"><scope>crc64b76f6e8b2d8c8db1::AbstractAppCompatDialogFragment_1</scope><name>onSaveInstanceState</name></member>
+      <member refid="classcrc64b76f6e8b2d8c8db1_1_1_abstract_app_compat_dialog_fragment__1_1a5c936a0df5aafc766515e2d5faf839cc" prot="public" virt="non-virtual"><scope>crc64b76f6e8b2d8c8db1::AbstractAppCompatDialogFragment_1</scope><name>onSaveInstanceState</name></member>
+      <member refid="classcrc64b76f6e8b2d8c8db1_1_1_abstract_app_compat_dialog_fragment__1_1a5c936a0df5aafc766515e2d5faf839cc" prot="public" virt="non-virtual"><scope>crc64b76f6e8b2d8c8db1::AbstractAppCompatDialogFragment_1</scope><name>onSaveInstanceState</name></member>
+      <member refid="classcrc64b76f6e8b2d8c8db1_1_1_abstract_app_compat_dialog_fragment__1_1a81ff386ac201712adfa28c098ad78f6a" prot="private" virt="non-virtual"><scope>crc64b76f6e8b2d8c8db1::AbstractAppCompatDialogFragment_1</scope><name>refList</name></member>
+    </listofallmembers>
+  </compounddef>
+</doxygen>

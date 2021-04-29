@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<section xmlns="http://docbook.org/ns/docbook" version="5.0" xmlns:xlink="http://www.w3.org/1999/xlink" xml:id="_class_application___green___quake_1_1_view_models_1_1_advanced_points_update" xml:lang="en-US">
+<title>Application_Green_Quake.ViewModels.AdvancedPointsUpdate Class Reference</title>
+<indexterm><primary>Application_Green_Quake.ViewModels.AdvancedPointsUpdate</primary></indexterm>
+<simplesect>
+    <title>Public Member Functions    </title>
+        <itemizedlist>
+            <listitem><para>async void <link linkend="_class_application___green___quake_1_1_view_models_1_1_advanced_points_update_1a9898a6b068c3ef09901b7d80ec9dd91c">FixPoints</link> ()</para>
+</listitem>
+        </itemizedlist>
+</simplesect>
+<section>
+<title>Detailed Description</title>
+<para>
+Definition at line 18 of file AdvancedPointsUpdate.cs.</para>
+</section>
+<section>
+<title>Member Function Documentation</title>
+<anchor xml:id="_class_application___green___quake_1_1_view_models_1_1_advanced_points_update_1a9898a6b068c3ef09901b7d80ec9dd91c"/>    <section>
+    <title>FixPoints()</title>
+<indexterm><primary>FixPoints</primary><secondary>Application_Green_Quake.ViewModels.AdvancedPointsUpdate</secondary></indexterm>
+<indexterm><primary>Application_Green_Quake.ViewModels.AdvancedPointsUpdate</primary><secondary>FixPoints</secondary></indexterm>
+<para><computeroutput>async void Application_Green_Quake.ViewModels.AdvancedPointsUpdate.FixPoints ( )</computeroutput></para>
+<para>This function updates the points in the Advanced category by ten points. It also increments the number of logs logged in the Advanced category by one and increments the number of times this particular action was logged by one and sends this data to Firebase. </para>
+<para>
+Definition at line 29 of file AdvancedPointsUpdate.cs.</para>
+</section>
+<para>
+The documentation for this class was generated from the following file:</para>
+Application Green Quake/ViewModels/<link linkend="__advanced_points_update_8cs">AdvancedPointsUpdate.cs</link></section>
+</section>

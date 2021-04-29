@@ -1,0 +1,2574 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.9.1" xml:lang="en-US">
+  <compounddef id="classcrc643f46942d9dd1fff9_1_1_cell_adapter" kind="class" language="Java" prot="public" abstract="yes">
+    <compoundname>crc643f46942d9dd1fff9::CellAdapter</compoundname>
+    <basecompoundref prot="public" virt="non-virtual">android.widget.BaseAdapter</basecompoundref>
+    <basecompoundref prot="public" virt="non-virtual">mono.android.IGCUserPeer</basecompoundref>
+    <basecompoundref prot="public" virt="non-virtual">android.widget.AdapterView.OnItemLongClickListener</basecompoundref>
+    <basecompoundref prot="public" virt="non-virtual">android.view.ActionMode.Callback</basecompoundref>
+    <basecompoundref prot="public" virt="non-virtual">android.widget.AdapterView.OnItemClickListener</basecompoundref>
+    <basecompoundref prot="public" virt="non-virtual">androidx.appcompat.view.ActionMode.Callback</basecompoundref>
+    <basecompoundref prot="public" virt="non-virtual">android.widget.BaseAdapter</basecompoundref>
+    <basecompoundref prot="public" virt="non-virtual">mono.android.IGCUserPeer</basecompoundref>
+    <basecompoundref prot="public" virt="non-virtual">android.widget.AdapterView.OnItemLongClickListener</basecompoundref>
+    <basecompoundref prot="public" virt="non-virtual">android.view.ActionMode.Callback</basecompoundref>
+    <basecompoundref prot="public" virt="non-virtual">android.widget.AdapterView.OnItemClickListener</basecompoundref>
+    <basecompoundref prot="public" virt="non-virtual">androidx.appcompat.view.ActionMode.Callback</basecompoundref>
+    <basecompoundref prot="public" virt="non-virtual">android.widget.BaseAdapter</basecompoundref>
+    <basecompoundref prot="public" virt="non-virtual">mono.android.IGCUserPeer</basecompoundref>
+    <basecompoundref prot="public" virt="non-virtual">android.widget.AdapterView.OnItemLongClickListener</basecompoundref>
+    <basecompoundref prot="public" virt="non-virtual">android.view.ActionMode.Callback</basecompoundref>
+    <basecompoundref prot="public" virt="non-virtual">android.widget.AdapterView.OnItemClickListener</basecompoundref>
+    <basecompoundref prot="public" virt="non-virtual">androidx.appcompat.view.ActionMode.Callback</basecompoundref>
+    <basecompoundref prot="public" virt="non-virtual">android.widget.BaseAdapter</basecompoundref>
+    <basecompoundref prot="public" virt="non-virtual">mono.android.IGCUserPeer</basecompoundref>
+    <basecompoundref prot="public" virt="non-virtual">android.widget.AdapterView.OnItemLongClickListener</basecompoundref>
+    <basecompoundref prot="public" virt="non-virtual">android.view.ActionMode.Callback</basecompoundref>
+    <basecompoundref prot="public" virt="non-virtual">android.widget.AdapterView.OnItemClickListener</basecompoundref>
+    <basecompoundref prot="public" virt="non-virtual">androidx.appcompat.view.ActionMode.Callback</basecompoundref>
+    <derivedcompoundref refid="classcrc643f46942d9dd1fff9_1_1_list_view_adapter" prot="public" virt="non-virtual">crc643f46942d9dd1fff9.ListViewAdapter</derivedcompoundref>
+    <derivedcompoundref refid="classcrc643f46942d9dd1fff9_1_1_list_view_adapter" prot="public" virt="non-virtual">crc643f46942d9dd1fff9.ListViewAdapter</derivedcompoundref>
+    <derivedcompoundref refid="classcrc643f46942d9dd1fff9_1_1_list_view_adapter" prot="public" virt="non-virtual">crc643f46942d9dd1fff9.ListViewAdapter</derivedcompoundref>
+    <derivedcompoundref refid="classcrc643f46942d9dd1fff9_1_1_list_view_adapter" prot="public" virt="non-virtual">crc643f46942d9dd1fff9.ListViewAdapter</derivedcompoundref>
+    <derivedcompoundref refid="classcrc643f46942d9dd1fff9_1_1_table_view_model_renderer" prot="public" virt="non-virtual">crc643f46942d9dd1fff9.TableViewModelRenderer</derivedcompoundref>
+    <derivedcompoundref refid="classcrc643f46942d9dd1fff9_1_1_table_view_model_renderer" prot="public" virt="non-virtual">crc643f46942d9dd1fff9.TableViewModelRenderer</derivedcompoundref>
+    <derivedcompoundref refid="classcrc643f46942d9dd1fff9_1_1_table_view_model_renderer" prot="public" virt="non-virtual">crc643f46942d9dd1fff9.TableViewModelRenderer</derivedcompoundref>
+    <derivedcompoundref refid="classcrc643f46942d9dd1fff9_1_1_table_view_model_renderer" prot="public" virt="non-virtual">crc643f46942d9dd1fff9.TableViewModelRenderer</derivedcompoundref>
+      <sectiondef kind="public-static-attrib">
+      <memberdef kind="variable" id="classcrc643f46942d9dd1fff9_1_1_cell_adapter_1a5c34ae5ea5f82f71c803b0a3856c4122" prot="public" static="yes" mutable="no">
+        <type>final String</type>
+        <definition>static final String crc643f46942d9dd1fff9.CellAdapter::__md_methods</definition>
+        <argsstring></argsstring>
+        <name>__md_methods</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+<para>@hide </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/100/android/src/crc643f46942d9dd1fff9/CellAdapter.java" line="14" column="28" bodyfile="Application Green Quake.Android/obj/Debug/100/android/src/crc643f46942d9dd1fff9/CellAdapter.java" bodystart="14" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="private-attrib">
+      <memberdef kind="variable" id="classcrc643f46942d9dd1fff9_1_1_cell_adapter_1a4041631e1a366bc6e8e159aedc276f28" prot="private" static="no" mutable="no">
+        <type>java.util.ArrayList</type>
+        <definition>java util ArrayList crc643f46942d9dd1fff9.CellAdapter::refList</definition>
+        <argsstring></argsstring>
+        <name>refList</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/100/android/src/crc643f46942d9dd1fff9/CellAdapter.java" line="126" column="27" bodyfile="Application Green Quake.Android/obj/Debug/100/android/src/crc643f46942d9dd1fff9/CellAdapter.java" bodystart="126" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="package-static-func">
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_cell_adapter_1a4d22f4f3d639d4bb44480a1ff5bea87e" prot="package" static="yes" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>crc643f46942d9dd1fff9.CellAdapter.[static initializer]</definition>
+        <argsstring></argsstring>
+        <name>[static initializer]</name>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_grouped_list_view_adapter_1ac63c24849fd8989dc6ca4b7b9cbf20f1">[static initializer]</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_list_view_adapter_1a185ffe1860e477435dbd3cbab482b288">[static initializer]</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_table_view_model_renderer_1a305cfb429fa7d1f83b49c05519a09190">[static initializer]</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_grouped_list_view_adapter_1ac63c24849fd8989dc6ca4b7b9cbf20f1">[static initializer]</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_list_view_adapter_1a185ffe1860e477435dbd3cbab482b288">[static initializer]</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_table_view_model_renderer_1a305cfb429fa7d1f83b49c05519a09190">[static initializer]</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_grouped_list_view_adapter_1ac63c24849fd8989dc6ca4b7b9cbf20f1">[static initializer]</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_list_view_adapter_1a185ffe1860e477435dbd3cbab482b288">[static initializer]</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_table_view_model_renderer_1a305cfb429fa7d1f83b49c05519a09190">[static initializer]</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_grouped_list_view_adapter_1ac63c24849fd8989dc6ca4b7b9cbf20f1">[static initializer]</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_list_view_adapter_1a185ffe1860e477435dbd3cbab482b288">[static initializer]</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_table_view_model_renderer_1a305cfb429fa7d1f83b49c05519a09190">[static initializer]</reimplementedby>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/100/android/src/crc643f46942d9dd1fff9/CellAdapter.java" line="14" column="28"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_cell_adapter_1a4d22f4f3d639d4bb44480a1ff5bea87e" prot="package" static="yes" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>crc643f46942d9dd1fff9.CellAdapter.[static initializer]</definition>
+        <argsstring></argsstring>
+        <name>[static initializer]</name>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_grouped_list_view_adapter_1ac63c24849fd8989dc6ca4b7b9cbf20f1">[static initializer]</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_list_view_adapter_1a185ffe1860e477435dbd3cbab482b288">[static initializer]</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_table_view_model_renderer_1a305cfb429fa7d1f83b49c05519a09190">[static initializer]</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_grouped_list_view_adapter_1ac63c24849fd8989dc6ca4b7b9cbf20f1">[static initializer]</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_list_view_adapter_1a185ffe1860e477435dbd3cbab482b288">[static initializer]</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_table_view_model_renderer_1a305cfb429fa7d1f83b49c05519a09190">[static initializer]</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_grouped_list_view_adapter_1ac63c24849fd8989dc6ca4b7b9cbf20f1">[static initializer]</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_list_view_adapter_1a185ffe1860e477435dbd3cbab482b288">[static initializer]</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_table_view_model_renderer_1a305cfb429fa7d1f83b49c05519a09190">[static initializer]</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_grouped_list_view_adapter_1ac63c24849fd8989dc6ca4b7b9cbf20f1">[static initializer]</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_list_view_adapter_1a185ffe1860e477435dbd3cbab482b288">[static initializer]</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_table_view_model_renderer_1a305cfb429fa7d1f83b49c05519a09190">[static initializer]</reimplementedby>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/110/android/src/crc643f46942d9dd1fff9/CellAdapter.java" line="14" column="28"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_cell_adapter_1a4d22f4f3d639d4bb44480a1ff5bea87e" prot="package" static="yes" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>crc643f46942d9dd1fff9.CellAdapter.[static initializer]</definition>
+        <argsstring></argsstring>
+        <name>[static initializer]</name>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_grouped_list_view_adapter_1ac63c24849fd8989dc6ca4b7b9cbf20f1">[static initializer]</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_list_view_adapter_1a185ffe1860e477435dbd3cbab482b288">[static initializer]</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_table_view_model_renderer_1a305cfb429fa7d1f83b49c05519a09190">[static initializer]</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_grouped_list_view_adapter_1ac63c24849fd8989dc6ca4b7b9cbf20f1">[static initializer]</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_list_view_adapter_1a185ffe1860e477435dbd3cbab482b288">[static initializer]</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_table_view_model_renderer_1a305cfb429fa7d1f83b49c05519a09190">[static initializer]</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_grouped_list_view_adapter_1ac63c24849fd8989dc6ca4b7b9cbf20f1">[static initializer]</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_list_view_adapter_1a185ffe1860e477435dbd3cbab482b288">[static initializer]</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_table_view_model_renderer_1a305cfb429fa7d1f83b49c05519a09190">[static initializer]</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_grouped_list_view_adapter_1ac63c24849fd8989dc6ca4b7b9cbf20f1">[static initializer]</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_list_view_adapter_1a185ffe1860e477435dbd3cbab482b288">[static initializer]</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_table_view_model_renderer_1a305cfb429fa7d1f83b49c05519a09190">[static initializer]</reimplementedby>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/100/android/src/crc643f46942d9dd1fff9/CellAdapter.java" line="14" column="28"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_cell_adapter_1a4d22f4f3d639d4bb44480a1ff5bea87e" prot="package" static="yes" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>crc643f46942d9dd1fff9.CellAdapter.[static initializer]</definition>
+        <argsstring></argsstring>
+        <name>[static initializer]</name>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_grouped_list_view_adapter_1ac63c24849fd8989dc6ca4b7b9cbf20f1">[static initializer]</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_list_view_adapter_1a185ffe1860e477435dbd3cbab482b288">[static initializer]</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_table_view_model_renderer_1a305cfb429fa7d1f83b49c05519a09190">[static initializer]</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_grouped_list_view_adapter_1ac63c24849fd8989dc6ca4b7b9cbf20f1">[static initializer]</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_list_view_adapter_1a185ffe1860e477435dbd3cbab482b288">[static initializer]</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_table_view_model_renderer_1a305cfb429fa7d1f83b49c05519a09190">[static initializer]</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_grouped_list_view_adapter_1ac63c24849fd8989dc6ca4b7b9cbf20f1">[static initializer]</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_list_view_adapter_1a185ffe1860e477435dbd3cbab482b288">[static initializer]</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_table_view_model_renderer_1a305cfb429fa7d1f83b49c05519a09190">[static initializer]</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_grouped_list_view_adapter_1ac63c24849fd8989dc6ca4b7b9cbf20f1">[static initializer]</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_list_view_adapter_1a185ffe1860e477435dbd3cbab482b288">[static initializer]</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_table_view_model_renderer_1a305cfb429fa7d1f83b49c05519a09190">[static initializer]</reimplementedby>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/110/android/src/crc643f46942d9dd1fff9/CellAdapter.java" line="14" column="28"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="public-func">
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_cell_adapter_1acb02fe63f721e2db24c840afc5436298" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>crc643f46942d9dd1fff9.CellAdapter.CellAdapter</definition>
+        <argsstring>()</argsstring>
+        <name>CellAdapter</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/100/android/src/crc643f46942d9dd1fff9/CellAdapter.java" line="32" column="8" bodyfile="Application Green Quake.Android/obj/Debug/100/android/src/crc643f46942d9dd1fff9/CellAdapter.java" bodystart="32" bodyend="37"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_cell_adapter_1a325bc28a81f49b833b99f5f595da6b08" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>crc643f46942d9dd1fff9.CellAdapter.CellAdapter</definition>
+        <argsstring>(android.content.Context p0)</argsstring>
+        <name>CellAdapter</name>
+        <param>
+          <type>android.content.Context</type>
+          <declname>p0</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/100/android/src/crc643f46942d9dd1fff9/CellAdapter.java" line="39" column="8" bodyfile="Application Green Quake.Android/obj/Debug/100/android/src/crc643f46942d9dd1fff9/CellAdapter.java" bodystart="39" bodyend="44"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_cell_adapter_1a64507d27b09ffe29bcbeecabb00720f2" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>boolean</type>
+        <definition>boolean crc643f46942d9dd1fff9.CellAdapter.onItemLongClick</definition>
+        <argsstring>(android.widget.AdapterView p0, android.view.View p1, int p2, long p3)</argsstring>
+        <name>onItemLongClick</name>
+        <param>
+          <type>android.widget.AdapterView</type>
+          <declname>p0</declname>
+        </param>
+        <param>
+          <type>android.view.View</type>
+          <declname>p1</declname>
+        </param>
+        <param>
+          <type>int</type>
+          <declname>p2</declname>
+        </param>
+        <param>
+          <type>long</type>
+          <declname>p3</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/100/android/src/crc643f46942d9dd1fff9/CellAdapter.java" line="47" column="16" bodyfile="Application Green Quake.Android/obj/Debug/100/android/src/crc643f46942d9dd1fff9/CellAdapter.java" bodystart="47" bodyend="50"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_cell_adapter_1a42a3cf750d35a257ba0e45f6ae3eacce" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>boolean</type>
+        <definition>boolean crc643f46942d9dd1fff9.CellAdapter.onActionItemClicked</definition>
+        <argsstring>(android.view.ActionMode p0, android.view.MenuItem p1)</argsstring>
+        <name>onActionItemClicked</name>
+        <param>
+          <type>android.view.ActionMode</type>
+          <declname>p0</declname>
+        </param>
+        <param>
+          <type>android.view.MenuItem</type>
+          <declname>p1</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/100/android/src/crc643f46942d9dd1fff9/CellAdapter.java" line="55" column="16" bodyfile="Application Green Quake.Android/obj/Debug/100/android/src/crc643f46942d9dd1fff9/CellAdapter.java" bodystart="55" bodyend="58"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_cell_adapter_1aa83d019a9781c47b465bdeff61785d02" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>boolean</type>
+        <definition>boolean crc643f46942d9dd1fff9.CellAdapter.onCreateActionMode</definition>
+        <argsstring>(android.view.ActionMode p0, android.view.Menu p1)</argsstring>
+        <name>onCreateActionMode</name>
+        <param>
+          <type>android.view.ActionMode</type>
+          <declname>p0</declname>
+        </param>
+        <param>
+          <type>android.view.Menu</type>
+          <declname>p1</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/100/android/src/crc643f46942d9dd1fff9/CellAdapter.java" line="63" column="16" bodyfile="Application Green Quake.Android/obj/Debug/100/android/src/crc643f46942d9dd1fff9/CellAdapter.java" bodystart="63" bodyend="66"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_cell_adapter_1a8da11ed9a2a8dfb6b5be6d88254ff4f3" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void crc643f46942d9dd1fff9.CellAdapter.onDestroyActionMode</definition>
+        <argsstring>(android.view.ActionMode p0)</argsstring>
+        <name>onDestroyActionMode</name>
+        <param>
+          <type>android.view.ActionMode</type>
+          <declname>p0</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/100/android/src/crc643f46942d9dd1fff9/CellAdapter.java" line="71" column="13" bodyfile="Application Green Quake.Android/obj/Debug/100/android/src/crc643f46942d9dd1fff9/CellAdapter.java" bodystart="71" bodyend="74"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_cell_adapter_1aeeff43d6961ca2a41bf39af405ce8306" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>boolean</type>
+        <definition>boolean crc643f46942d9dd1fff9.CellAdapter.onPrepareActionMode</definition>
+        <argsstring>(android.view.ActionMode p0, android.view.Menu p1)</argsstring>
+        <name>onPrepareActionMode</name>
+        <param>
+          <type>android.view.ActionMode</type>
+          <declname>p0</declname>
+        </param>
+        <param>
+          <type>android.view.Menu</type>
+          <declname>p1</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/100/android/src/crc643f46942d9dd1fff9/CellAdapter.java" line="79" column="16" bodyfile="Application Green Quake.Android/obj/Debug/100/android/src/crc643f46942d9dd1fff9/CellAdapter.java" bodystart="79" bodyend="82"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_cell_adapter_1a923d30a7abaa001045aac2a413a41314" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void crc643f46942d9dd1fff9.CellAdapter.onItemClick</definition>
+        <argsstring>(android.widget.AdapterView p0, android.view.View p1, int p2, long p3)</argsstring>
+        <name>onItemClick</name>
+        <param>
+          <type>android.widget.AdapterView</type>
+          <declname>p0</declname>
+        </param>
+        <param>
+          <type>android.view.View</type>
+          <declname>p1</declname>
+        </param>
+        <param>
+          <type>int</type>
+          <declname>p2</declname>
+        </param>
+        <param>
+          <type>long</type>
+          <declname>p3</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/100/android/src/crc643f46942d9dd1fff9/CellAdapter.java" line="87" column="13" bodyfile="Application Green Quake.Android/obj/Debug/100/android/src/crc643f46942d9dd1fff9/CellAdapter.java" bodystart="87" bodyend="90"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_cell_adapter_1a6199554a00fa5a719d33ae839234a85c" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>boolean</type>
+        <definition>boolean crc643f46942d9dd1fff9.CellAdapter.onActionItemClicked</definition>
+        <argsstring>(androidx.appcompat.view.ActionMode p0, android.view.MenuItem p1)</argsstring>
+        <name>onActionItemClicked</name>
+        <param>
+          <type>androidx.appcompat.view.ActionMode</type>
+          <declname>p0</declname>
+        </param>
+        <param>
+          <type>android.view.MenuItem</type>
+          <declname>p1</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/100/android/src/crc643f46942d9dd1fff9/CellAdapter.java" line="95" column="16" bodyfile="Application Green Quake.Android/obj/Debug/100/android/src/crc643f46942d9dd1fff9/CellAdapter.java" bodystart="95" bodyend="98"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_cell_adapter_1a9d4956f3b21df112a31c670af914513f" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>boolean</type>
+        <definition>boolean crc643f46942d9dd1fff9.CellAdapter.onCreateActionMode</definition>
+        <argsstring>(androidx.appcompat.view.ActionMode p0, android.view.Menu p1)</argsstring>
+        <name>onCreateActionMode</name>
+        <param>
+          <type>androidx.appcompat.view.ActionMode</type>
+          <declname>p0</declname>
+        </param>
+        <param>
+          <type>android.view.Menu</type>
+          <declname>p1</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/100/android/src/crc643f46942d9dd1fff9/CellAdapter.java" line="103" column="16" bodyfile="Application Green Quake.Android/obj/Debug/100/android/src/crc643f46942d9dd1fff9/CellAdapter.java" bodystart="103" bodyend="106"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_cell_adapter_1a361eb5c64e22f5edba057656052ff6bd" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void crc643f46942d9dd1fff9.CellAdapter.onDestroyActionMode</definition>
+        <argsstring>(androidx.appcompat.view.ActionMode p0)</argsstring>
+        <name>onDestroyActionMode</name>
+        <param>
+          <type>androidx.appcompat.view.ActionMode</type>
+          <declname>p0</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/100/android/src/crc643f46942d9dd1fff9/CellAdapter.java" line="111" column="13" bodyfile="Application Green Quake.Android/obj/Debug/100/android/src/crc643f46942d9dd1fff9/CellAdapter.java" bodystart="111" bodyend="114"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_cell_adapter_1a8600f86930fd4ff5580ac24ced508427" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>boolean</type>
+        <definition>boolean crc643f46942d9dd1fff9.CellAdapter.onPrepareActionMode</definition>
+        <argsstring>(androidx.appcompat.view.ActionMode p0, android.view.Menu p1)</argsstring>
+        <name>onPrepareActionMode</name>
+        <param>
+          <type>androidx.appcompat.view.ActionMode</type>
+          <declname>p0</declname>
+        </param>
+        <param>
+          <type>android.view.Menu</type>
+          <declname>p1</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/100/android/src/crc643f46942d9dd1fff9/CellAdapter.java" line="119" column="16" bodyfile="Application Green Quake.Android/obj/Debug/100/android/src/crc643f46942d9dd1fff9/CellAdapter.java" bodystart="119" bodyend="122"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_cell_adapter_1a3918bcd44ea0c6c5f0cdcd2cf1028bcc" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void crc643f46942d9dd1fff9.CellAdapter.monodroidAddReference</definition>
+        <argsstring>(java.lang.Object obj)</argsstring>
+        <name>monodroidAddReference</name>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_grouped_list_view_adapter_1a23f6b4b88104430aa142ccf2cca3ea3a">monodroidAddReference</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_list_view_adapter_1ad41e82c2537372ac83e310cb650260c7">monodroidAddReference</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_table_view_model_renderer_1ae6b83d8ed310748a7c071ceef010f1c3">monodroidAddReference</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_grouped_list_view_adapter_1a23f6b4b88104430aa142ccf2cca3ea3a">monodroidAddReference</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_list_view_adapter_1ad41e82c2537372ac83e310cb650260c7">monodroidAddReference</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_table_view_model_renderer_1ae6b83d8ed310748a7c071ceef010f1c3">monodroidAddReference</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_grouped_list_view_adapter_1a23f6b4b88104430aa142ccf2cca3ea3a">monodroidAddReference</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_list_view_adapter_1ad41e82c2537372ac83e310cb650260c7">monodroidAddReference</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_table_view_model_renderer_1ae6b83d8ed310748a7c071ceef010f1c3">monodroidAddReference</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_grouped_list_view_adapter_1a23f6b4b88104430aa142ccf2cca3ea3a">monodroidAddReference</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_list_view_adapter_1ad41e82c2537372ac83e310cb650260c7">monodroidAddReference</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_table_view_model_renderer_1ae6b83d8ed310748a7c071ceef010f1c3">monodroidAddReference</reimplementedby>
+        <param>
+          <type>java.lang.Object</type>
+          <declname>obj</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/100/android/src/crc643f46942d9dd1fff9/CellAdapter.java" line="127" column="13" bodyfile="Application Green Quake.Android/obj/Debug/100/android/src/crc643f46942d9dd1fff9/CellAdapter.java" bodystart="127" bodyend="132"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_cell_adapter_1a9845498e95704cdf52398af2433dc780" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void crc643f46942d9dd1fff9.CellAdapter.monodroidClearReferences</definition>
+        <argsstring>()</argsstring>
+        <name>monodroidClearReferences</name>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_grouped_list_view_adapter_1ace6407a7c66efb28f476e9b5eb790202">monodroidClearReferences</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_list_view_adapter_1a8e9c20f48174c320970addc5f5d06f02">monodroidClearReferences</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_table_view_model_renderer_1ac473dd21bc1224d747e2f193f6d8811b">monodroidClearReferences</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_grouped_list_view_adapter_1ace6407a7c66efb28f476e9b5eb790202">monodroidClearReferences</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_list_view_adapter_1a8e9c20f48174c320970addc5f5d06f02">monodroidClearReferences</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_table_view_model_renderer_1ac473dd21bc1224d747e2f193f6d8811b">monodroidClearReferences</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_grouped_list_view_adapter_1ace6407a7c66efb28f476e9b5eb790202">monodroidClearReferences</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_list_view_adapter_1a8e9c20f48174c320970addc5f5d06f02">monodroidClearReferences</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_table_view_model_renderer_1ac473dd21bc1224d747e2f193f6d8811b">monodroidClearReferences</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_grouped_list_view_adapter_1ace6407a7c66efb28f476e9b5eb790202">monodroidClearReferences</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_list_view_adapter_1a8e9c20f48174c320970addc5f5d06f02">monodroidClearReferences</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_table_view_model_renderer_1ac473dd21bc1224d747e2f193f6d8811b">monodroidClearReferences</reimplementedby>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/100/android/src/crc643f46942d9dd1fff9/CellAdapter.java" line="134" column="13" bodyfile="Application Green Quake.Android/obj/Debug/100/android/src/crc643f46942d9dd1fff9/CellAdapter.java" bodystart="134" bodyend="138"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_cell_adapter_1acb02fe63f721e2db24c840afc5436298" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>crc643f46942d9dd1fff9.CellAdapter.CellAdapter</definition>
+        <argsstring>()</argsstring>
+        <name>CellAdapter</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/110/android/src/crc643f46942d9dd1fff9/CellAdapter.java" line="32" column="8" bodyfile="Application Green Quake.Android/obj/Debug/110/android/src/crc643f46942d9dd1fff9/CellAdapter.java" bodystart="32" bodyend="37"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_cell_adapter_1a325bc28a81f49b833b99f5f595da6b08" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>crc643f46942d9dd1fff9.CellAdapter.CellAdapter</definition>
+        <argsstring>(android.content.Context p0)</argsstring>
+        <name>CellAdapter</name>
+        <param>
+          <type>android.content.Context</type>
+          <declname>p0</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/110/android/src/crc643f46942d9dd1fff9/CellAdapter.java" line="39" column="8" bodyfile="Application Green Quake.Android/obj/Debug/110/android/src/crc643f46942d9dd1fff9/CellAdapter.java" bodystart="39" bodyend="44"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_cell_adapter_1a64507d27b09ffe29bcbeecabb00720f2" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>boolean</type>
+        <definition>boolean crc643f46942d9dd1fff9.CellAdapter.onItemLongClick</definition>
+        <argsstring>(android.widget.AdapterView p0, android.view.View p1, int p2, long p3)</argsstring>
+        <name>onItemLongClick</name>
+        <param>
+          <type>android.widget.AdapterView</type>
+          <declname>p0</declname>
+        </param>
+        <param>
+          <type>android.view.View</type>
+          <declname>p1</declname>
+        </param>
+        <param>
+          <type>int</type>
+          <declname>p2</declname>
+        </param>
+        <param>
+          <type>long</type>
+          <declname>p3</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/110/android/src/crc643f46942d9dd1fff9/CellAdapter.java" line="47" column="16" bodyfile="Application Green Quake.Android/obj/Debug/110/android/src/crc643f46942d9dd1fff9/CellAdapter.java" bodystart="47" bodyend="50"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_cell_adapter_1a42a3cf750d35a257ba0e45f6ae3eacce" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>boolean</type>
+        <definition>boolean crc643f46942d9dd1fff9.CellAdapter.onActionItemClicked</definition>
+        <argsstring>(android.view.ActionMode p0, android.view.MenuItem p1)</argsstring>
+        <name>onActionItemClicked</name>
+        <param>
+          <type>android.view.ActionMode</type>
+          <declname>p0</declname>
+        </param>
+        <param>
+          <type>android.view.MenuItem</type>
+          <declname>p1</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/110/android/src/crc643f46942d9dd1fff9/CellAdapter.java" line="55" column="16" bodyfile="Application Green Quake.Android/obj/Debug/110/android/src/crc643f46942d9dd1fff9/CellAdapter.java" bodystart="55" bodyend="58"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_cell_adapter_1aa83d019a9781c47b465bdeff61785d02" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>boolean</type>
+        <definition>boolean crc643f46942d9dd1fff9.CellAdapter.onCreateActionMode</definition>
+        <argsstring>(android.view.ActionMode p0, android.view.Menu p1)</argsstring>
+        <name>onCreateActionMode</name>
+        <param>
+          <type>android.view.ActionMode</type>
+          <declname>p0</declname>
+        </param>
+        <param>
+          <type>android.view.Menu</type>
+          <declname>p1</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/110/android/src/crc643f46942d9dd1fff9/CellAdapter.java" line="63" column="16" bodyfile="Application Green Quake.Android/obj/Debug/110/android/src/crc643f46942d9dd1fff9/CellAdapter.java" bodystart="63" bodyend="66"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_cell_adapter_1a8da11ed9a2a8dfb6b5be6d88254ff4f3" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void crc643f46942d9dd1fff9.CellAdapter.onDestroyActionMode</definition>
+        <argsstring>(android.view.ActionMode p0)</argsstring>
+        <name>onDestroyActionMode</name>
+        <param>
+          <type>android.view.ActionMode</type>
+          <declname>p0</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/110/android/src/crc643f46942d9dd1fff9/CellAdapter.java" line="71" column="13" bodyfile="Application Green Quake.Android/obj/Debug/110/android/src/crc643f46942d9dd1fff9/CellAdapter.java" bodystart="71" bodyend="74"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_cell_adapter_1aeeff43d6961ca2a41bf39af405ce8306" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>boolean</type>
+        <definition>boolean crc643f46942d9dd1fff9.CellAdapter.onPrepareActionMode</definition>
+        <argsstring>(android.view.ActionMode p0, android.view.Menu p1)</argsstring>
+        <name>onPrepareActionMode</name>
+        <param>
+          <type>android.view.ActionMode</type>
+          <declname>p0</declname>
+        </param>
+        <param>
+          <type>android.view.Menu</type>
+          <declname>p1</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/110/android/src/crc643f46942d9dd1fff9/CellAdapter.java" line="79" column="16" bodyfile="Application Green Quake.Android/obj/Debug/110/android/src/crc643f46942d9dd1fff9/CellAdapter.java" bodystart="79" bodyend="82"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_cell_adapter_1a923d30a7abaa001045aac2a413a41314" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void crc643f46942d9dd1fff9.CellAdapter.onItemClick</definition>
+        <argsstring>(android.widget.AdapterView p0, android.view.View p1, int p2, long p3)</argsstring>
+        <name>onItemClick</name>
+        <param>
+          <type>android.widget.AdapterView</type>
+          <declname>p0</declname>
+        </param>
+        <param>
+          <type>android.view.View</type>
+          <declname>p1</declname>
+        </param>
+        <param>
+          <type>int</type>
+          <declname>p2</declname>
+        </param>
+        <param>
+          <type>long</type>
+          <declname>p3</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/110/android/src/crc643f46942d9dd1fff9/CellAdapter.java" line="87" column="13" bodyfile="Application Green Quake.Android/obj/Debug/110/android/src/crc643f46942d9dd1fff9/CellAdapter.java" bodystart="87" bodyend="90"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_cell_adapter_1a6199554a00fa5a719d33ae839234a85c" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>boolean</type>
+        <definition>boolean crc643f46942d9dd1fff9.CellAdapter.onActionItemClicked</definition>
+        <argsstring>(androidx.appcompat.view.ActionMode p0, android.view.MenuItem p1)</argsstring>
+        <name>onActionItemClicked</name>
+        <param>
+          <type>androidx.appcompat.view.ActionMode</type>
+          <declname>p0</declname>
+        </param>
+        <param>
+          <type>android.view.MenuItem</type>
+          <declname>p1</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/110/android/src/crc643f46942d9dd1fff9/CellAdapter.java" line="95" column="16" bodyfile="Application Green Quake.Android/obj/Debug/110/android/src/crc643f46942d9dd1fff9/CellAdapter.java" bodystart="95" bodyend="98"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_cell_adapter_1a9d4956f3b21df112a31c670af914513f" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>boolean</type>
+        <definition>boolean crc643f46942d9dd1fff9.CellAdapter.onCreateActionMode</definition>
+        <argsstring>(androidx.appcompat.view.ActionMode p0, android.view.Menu p1)</argsstring>
+        <name>onCreateActionMode</name>
+        <param>
+          <type>androidx.appcompat.view.ActionMode</type>
+          <declname>p0</declname>
+        </param>
+        <param>
+          <type>android.view.Menu</type>
+          <declname>p1</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/110/android/src/crc643f46942d9dd1fff9/CellAdapter.java" line="103" column="16" bodyfile="Application Green Quake.Android/obj/Debug/110/android/src/crc643f46942d9dd1fff9/CellAdapter.java" bodystart="103" bodyend="106"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_cell_adapter_1a361eb5c64e22f5edba057656052ff6bd" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void crc643f46942d9dd1fff9.CellAdapter.onDestroyActionMode</definition>
+        <argsstring>(androidx.appcompat.view.ActionMode p0)</argsstring>
+        <name>onDestroyActionMode</name>
+        <param>
+          <type>androidx.appcompat.view.ActionMode</type>
+          <declname>p0</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/110/android/src/crc643f46942d9dd1fff9/CellAdapter.java" line="111" column="13" bodyfile="Application Green Quake.Android/obj/Debug/110/android/src/crc643f46942d9dd1fff9/CellAdapter.java" bodystart="111" bodyend="114"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_cell_adapter_1a8600f86930fd4ff5580ac24ced508427" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>boolean</type>
+        <definition>boolean crc643f46942d9dd1fff9.CellAdapter.onPrepareActionMode</definition>
+        <argsstring>(androidx.appcompat.view.ActionMode p0, android.view.Menu p1)</argsstring>
+        <name>onPrepareActionMode</name>
+        <param>
+          <type>androidx.appcompat.view.ActionMode</type>
+          <declname>p0</declname>
+        </param>
+        <param>
+          <type>android.view.Menu</type>
+          <declname>p1</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/110/android/src/crc643f46942d9dd1fff9/CellAdapter.java" line="119" column="16" bodyfile="Application Green Quake.Android/obj/Debug/110/android/src/crc643f46942d9dd1fff9/CellAdapter.java" bodystart="119" bodyend="122"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_cell_adapter_1a3918bcd44ea0c6c5f0cdcd2cf1028bcc" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void crc643f46942d9dd1fff9.CellAdapter.monodroidAddReference</definition>
+        <argsstring>(java.lang.Object obj)</argsstring>
+        <name>monodroidAddReference</name>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_grouped_list_view_adapter_1a23f6b4b88104430aa142ccf2cca3ea3a">monodroidAddReference</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_list_view_adapter_1ad41e82c2537372ac83e310cb650260c7">monodroidAddReference</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_table_view_model_renderer_1ae6b83d8ed310748a7c071ceef010f1c3">monodroidAddReference</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_grouped_list_view_adapter_1a23f6b4b88104430aa142ccf2cca3ea3a">monodroidAddReference</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_list_view_adapter_1ad41e82c2537372ac83e310cb650260c7">monodroidAddReference</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_table_view_model_renderer_1ae6b83d8ed310748a7c071ceef010f1c3">monodroidAddReference</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_grouped_list_view_adapter_1a23f6b4b88104430aa142ccf2cca3ea3a">monodroidAddReference</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_list_view_adapter_1ad41e82c2537372ac83e310cb650260c7">monodroidAddReference</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_table_view_model_renderer_1ae6b83d8ed310748a7c071ceef010f1c3">monodroidAddReference</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_grouped_list_view_adapter_1a23f6b4b88104430aa142ccf2cca3ea3a">monodroidAddReference</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_list_view_adapter_1ad41e82c2537372ac83e310cb650260c7">monodroidAddReference</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_table_view_model_renderer_1ae6b83d8ed310748a7c071ceef010f1c3">monodroidAddReference</reimplementedby>
+        <param>
+          <type>java.lang.Object</type>
+          <declname>obj</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/110/android/src/crc643f46942d9dd1fff9/CellAdapter.java" line="127" column="13" bodyfile="Application Green Quake.Android/obj/Debug/110/android/src/crc643f46942d9dd1fff9/CellAdapter.java" bodystart="127" bodyend="132"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_cell_adapter_1a9845498e95704cdf52398af2433dc780" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void crc643f46942d9dd1fff9.CellAdapter.monodroidClearReferences</definition>
+        <argsstring>()</argsstring>
+        <name>monodroidClearReferences</name>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_grouped_list_view_adapter_1ace6407a7c66efb28f476e9b5eb790202">monodroidClearReferences</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_list_view_adapter_1a8e9c20f48174c320970addc5f5d06f02">monodroidClearReferences</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_table_view_model_renderer_1ac473dd21bc1224d747e2f193f6d8811b">monodroidClearReferences</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_grouped_list_view_adapter_1ace6407a7c66efb28f476e9b5eb790202">monodroidClearReferences</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_list_view_adapter_1a8e9c20f48174c320970addc5f5d06f02">monodroidClearReferences</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_table_view_model_renderer_1ac473dd21bc1224d747e2f193f6d8811b">monodroidClearReferences</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_grouped_list_view_adapter_1ace6407a7c66efb28f476e9b5eb790202">monodroidClearReferences</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_list_view_adapter_1a8e9c20f48174c320970addc5f5d06f02">monodroidClearReferences</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_table_view_model_renderer_1ac473dd21bc1224d747e2f193f6d8811b">monodroidClearReferences</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_grouped_list_view_adapter_1ace6407a7c66efb28f476e9b5eb790202">monodroidClearReferences</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_list_view_adapter_1a8e9c20f48174c320970addc5f5d06f02">monodroidClearReferences</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_table_view_model_renderer_1ac473dd21bc1224d747e2f193f6d8811b">monodroidClearReferences</reimplementedby>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/110/android/src/crc643f46942d9dd1fff9/CellAdapter.java" line="134" column="13" bodyfile="Application Green Quake.Android/obj/Debug/110/android/src/crc643f46942d9dd1fff9/CellAdapter.java" bodystart="134" bodyend="138"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_cell_adapter_1acb02fe63f721e2db24c840afc5436298" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>crc643f46942d9dd1fff9.CellAdapter.CellAdapter</definition>
+        <argsstring>()</argsstring>
+        <name>CellAdapter</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/100/android/src/crc643f46942d9dd1fff9/CellAdapter.java" line="32" column="8" bodyfile="Application Green Quake.Android/obj/Release/100/android/src/crc643f46942d9dd1fff9/CellAdapter.java" bodystart="32" bodyend="37"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_cell_adapter_1a325bc28a81f49b833b99f5f595da6b08" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>crc643f46942d9dd1fff9.CellAdapter.CellAdapter</definition>
+        <argsstring>(android.content.Context p0)</argsstring>
+        <name>CellAdapter</name>
+        <param>
+          <type>android.content.Context</type>
+          <declname>p0</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/100/android/src/crc643f46942d9dd1fff9/CellAdapter.java" line="39" column="8" bodyfile="Application Green Quake.Android/obj/Release/100/android/src/crc643f46942d9dd1fff9/CellAdapter.java" bodystart="39" bodyend="44"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_cell_adapter_1a64507d27b09ffe29bcbeecabb00720f2" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>boolean</type>
+        <definition>boolean crc643f46942d9dd1fff9.CellAdapter.onItemLongClick</definition>
+        <argsstring>(android.widget.AdapterView p0, android.view.View p1, int p2, long p3)</argsstring>
+        <name>onItemLongClick</name>
+        <param>
+          <type>android.widget.AdapterView</type>
+          <declname>p0</declname>
+        </param>
+        <param>
+          <type>android.view.View</type>
+          <declname>p1</declname>
+        </param>
+        <param>
+          <type>int</type>
+          <declname>p2</declname>
+        </param>
+        <param>
+          <type>long</type>
+          <declname>p3</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/100/android/src/crc643f46942d9dd1fff9/CellAdapter.java" line="47" column="16" bodyfile="Application Green Quake.Android/obj/Release/100/android/src/crc643f46942d9dd1fff9/CellAdapter.java" bodystart="47" bodyend="50"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_cell_adapter_1a42a3cf750d35a257ba0e45f6ae3eacce" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>boolean</type>
+        <definition>boolean crc643f46942d9dd1fff9.CellAdapter.onActionItemClicked</definition>
+        <argsstring>(android.view.ActionMode p0, android.view.MenuItem p1)</argsstring>
+        <name>onActionItemClicked</name>
+        <param>
+          <type>android.view.ActionMode</type>
+          <declname>p0</declname>
+        </param>
+        <param>
+          <type>android.view.MenuItem</type>
+          <declname>p1</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/100/android/src/crc643f46942d9dd1fff9/CellAdapter.java" line="55" column="16" bodyfile="Application Green Quake.Android/obj/Release/100/android/src/crc643f46942d9dd1fff9/CellAdapter.java" bodystart="55" bodyend="58"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_cell_adapter_1aa83d019a9781c47b465bdeff61785d02" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>boolean</type>
+        <definition>boolean crc643f46942d9dd1fff9.CellAdapter.onCreateActionMode</definition>
+        <argsstring>(android.view.ActionMode p0, android.view.Menu p1)</argsstring>
+        <name>onCreateActionMode</name>
+        <param>
+          <type>android.view.ActionMode</type>
+          <declname>p0</declname>
+        </param>
+        <param>
+          <type>android.view.Menu</type>
+          <declname>p1</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/100/android/src/crc643f46942d9dd1fff9/CellAdapter.java" line="63" column="16" bodyfile="Application Green Quake.Android/obj/Release/100/android/src/crc643f46942d9dd1fff9/CellAdapter.java" bodystart="63" bodyend="66"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_cell_adapter_1a8da11ed9a2a8dfb6b5be6d88254ff4f3" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void crc643f46942d9dd1fff9.CellAdapter.onDestroyActionMode</definition>
+        <argsstring>(android.view.ActionMode p0)</argsstring>
+        <name>onDestroyActionMode</name>
+        <param>
+          <type>android.view.ActionMode</type>
+          <declname>p0</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/100/android/src/crc643f46942d9dd1fff9/CellAdapter.java" line="71" column="13" bodyfile="Application Green Quake.Android/obj/Release/100/android/src/crc643f46942d9dd1fff9/CellAdapter.java" bodystart="71" bodyend="74"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_cell_adapter_1aeeff43d6961ca2a41bf39af405ce8306" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>boolean</type>
+        <definition>boolean crc643f46942d9dd1fff9.CellAdapter.onPrepareActionMode</definition>
+        <argsstring>(android.view.ActionMode p0, android.view.Menu p1)</argsstring>
+        <name>onPrepareActionMode</name>
+        <param>
+          <type>android.view.ActionMode</type>
+          <declname>p0</declname>
+        </param>
+        <param>
+          <type>android.view.Menu</type>
+          <declname>p1</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/100/android/src/crc643f46942d9dd1fff9/CellAdapter.java" line="79" column="16" bodyfile="Application Green Quake.Android/obj/Release/100/android/src/crc643f46942d9dd1fff9/CellAdapter.java" bodystart="79" bodyend="82"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_cell_adapter_1a923d30a7abaa001045aac2a413a41314" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void crc643f46942d9dd1fff9.CellAdapter.onItemClick</definition>
+        <argsstring>(android.widget.AdapterView p0, android.view.View p1, int p2, long p3)</argsstring>
+        <name>onItemClick</name>
+        <param>
+          <type>android.widget.AdapterView</type>
+          <declname>p0</declname>
+        </param>
+        <param>
+          <type>android.view.View</type>
+          <declname>p1</declname>
+        </param>
+        <param>
+          <type>int</type>
+          <declname>p2</declname>
+        </param>
+        <param>
+          <type>long</type>
+          <declname>p3</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/100/android/src/crc643f46942d9dd1fff9/CellAdapter.java" line="87" column="13" bodyfile="Application Green Quake.Android/obj/Release/100/android/src/crc643f46942d9dd1fff9/CellAdapter.java" bodystart="87" bodyend="90"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_cell_adapter_1a6199554a00fa5a719d33ae839234a85c" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>boolean</type>
+        <definition>boolean crc643f46942d9dd1fff9.CellAdapter.onActionItemClicked</definition>
+        <argsstring>(androidx.appcompat.view.ActionMode p0, android.view.MenuItem p1)</argsstring>
+        <name>onActionItemClicked</name>
+        <param>
+          <type>androidx.appcompat.view.ActionMode</type>
+          <declname>p0</declname>
+        </param>
+        <param>
+          <type>android.view.MenuItem</type>
+          <declname>p1</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/100/android/src/crc643f46942d9dd1fff9/CellAdapter.java" line="95" column="16" bodyfile="Application Green Quake.Android/obj/Release/100/android/src/crc643f46942d9dd1fff9/CellAdapter.java" bodystart="95" bodyend="98"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_cell_adapter_1a9d4956f3b21df112a31c670af914513f" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>boolean</type>
+        <definition>boolean crc643f46942d9dd1fff9.CellAdapter.onCreateActionMode</definition>
+        <argsstring>(androidx.appcompat.view.ActionMode p0, android.view.Menu p1)</argsstring>
+        <name>onCreateActionMode</name>
+        <param>
+          <type>androidx.appcompat.view.ActionMode</type>
+          <declname>p0</declname>
+        </param>
+        <param>
+          <type>android.view.Menu</type>
+          <declname>p1</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/100/android/src/crc643f46942d9dd1fff9/CellAdapter.java" line="103" column="16" bodyfile="Application Green Quake.Android/obj/Release/100/android/src/crc643f46942d9dd1fff9/CellAdapter.java" bodystart="103" bodyend="106"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_cell_adapter_1a361eb5c64e22f5edba057656052ff6bd" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void crc643f46942d9dd1fff9.CellAdapter.onDestroyActionMode</definition>
+        <argsstring>(androidx.appcompat.view.ActionMode p0)</argsstring>
+        <name>onDestroyActionMode</name>
+        <param>
+          <type>androidx.appcompat.view.ActionMode</type>
+          <declname>p0</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/100/android/src/crc643f46942d9dd1fff9/CellAdapter.java" line="111" column="13" bodyfile="Application Green Quake.Android/obj/Release/100/android/src/crc643f46942d9dd1fff9/CellAdapter.java" bodystart="111" bodyend="114"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_cell_adapter_1a8600f86930fd4ff5580ac24ced508427" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>boolean</type>
+        <definition>boolean crc643f46942d9dd1fff9.CellAdapter.onPrepareActionMode</definition>
+        <argsstring>(androidx.appcompat.view.ActionMode p0, android.view.Menu p1)</argsstring>
+        <name>onPrepareActionMode</name>
+        <param>
+          <type>androidx.appcompat.view.ActionMode</type>
+          <declname>p0</declname>
+        </param>
+        <param>
+          <type>android.view.Menu</type>
+          <declname>p1</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/100/android/src/crc643f46942d9dd1fff9/CellAdapter.java" line="119" column="16" bodyfile="Application Green Quake.Android/obj/Release/100/android/src/crc643f46942d9dd1fff9/CellAdapter.java" bodystart="119" bodyend="122"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_cell_adapter_1a3918bcd44ea0c6c5f0cdcd2cf1028bcc" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void crc643f46942d9dd1fff9.CellAdapter.monodroidAddReference</definition>
+        <argsstring>(java.lang.Object obj)</argsstring>
+        <name>monodroidAddReference</name>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_grouped_list_view_adapter_1a23f6b4b88104430aa142ccf2cca3ea3a">monodroidAddReference</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_list_view_adapter_1ad41e82c2537372ac83e310cb650260c7">monodroidAddReference</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_table_view_model_renderer_1ae6b83d8ed310748a7c071ceef010f1c3">monodroidAddReference</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_grouped_list_view_adapter_1a23f6b4b88104430aa142ccf2cca3ea3a">monodroidAddReference</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_list_view_adapter_1ad41e82c2537372ac83e310cb650260c7">monodroidAddReference</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_table_view_model_renderer_1ae6b83d8ed310748a7c071ceef010f1c3">monodroidAddReference</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_grouped_list_view_adapter_1a23f6b4b88104430aa142ccf2cca3ea3a">monodroidAddReference</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_list_view_adapter_1ad41e82c2537372ac83e310cb650260c7">monodroidAddReference</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_table_view_model_renderer_1ae6b83d8ed310748a7c071ceef010f1c3">monodroidAddReference</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_grouped_list_view_adapter_1a23f6b4b88104430aa142ccf2cca3ea3a">monodroidAddReference</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_list_view_adapter_1ad41e82c2537372ac83e310cb650260c7">monodroidAddReference</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_table_view_model_renderer_1ae6b83d8ed310748a7c071ceef010f1c3">monodroidAddReference</reimplementedby>
+        <param>
+          <type>java.lang.Object</type>
+          <declname>obj</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/100/android/src/crc643f46942d9dd1fff9/CellAdapter.java" line="127" column="13" bodyfile="Application Green Quake.Android/obj/Release/100/android/src/crc643f46942d9dd1fff9/CellAdapter.java" bodystart="127" bodyend="132"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_cell_adapter_1a9845498e95704cdf52398af2433dc780" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void crc643f46942d9dd1fff9.CellAdapter.monodroidClearReferences</definition>
+        <argsstring>()</argsstring>
+        <name>monodroidClearReferences</name>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_grouped_list_view_adapter_1ace6407a7c66efb28f476e9b5eb790202">monodroidClearReferences</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_list_view_adapter_1a8e9c20f48174c320970addc5f5d06f02">monodroidClearReferences</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_table_view_model_renderer_1ac473dd21bc1224d747e2f193f6d8811b">monodroidClearReferences</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_grouped_list_view_adapter_1ace6407a7c66efb28f476e9b5eb790202">monodroidClearReferences</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_list_view_adapter_1a8e9c20f48174c320970addc5f5d06f02">monodroidClearReferences</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_table_view_model_renderer_1ac473dd21bc1224d747e2f193f6d8811b">monodroidClearReferences</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_grouped_list_view_adapter_1ace6407a7c66efb28f476e9b5eb790202">monodroidClearReferences</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_list_view_adapter_1a8e9c20f48174c320970addc5f5d06f02">monodroidClearReferences</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_table_view_model_renderer_1ac473dd21bc1224d747e2f193f6d8811b">monodroidClearReferences</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_grouped_list_view_adapter_1ace6407a7c66efb28f476e9b5eb790202">monodroidClearReferences</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_list_view_adapter_1a8e9c20f48174c320970addc5f5d06f02">monodroidClearReferences</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_table_view_model_renderer_1ac473dd21bc1224d747e2f193f6d8811b">monodroidClearReferences</reimplementedby>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/100/android/src/crc643f46942d9dd1fff9/CellAdapter.java" line="134" column="13" bodyfile="Application Green Quake.Android/obj/Release/100/android/src/crc643f46942d9dd1fff9/CellAdapter.java" bodystart="134" bodyend="138"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_cell_adapter_1acb02fe63f721e2db24c840afc5436298" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>crc643f46942d9dd1fff9.CellAdapter.CellAdapter</definition>
+        <argsstring>()</argsstring>
+        <name>CellAdapter</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/110/android/src/crc643f46942d9dd1fff9/CellAdapter.java" line="32" column="8" bodyfile="Application Green Quake.Android/obj/Release/110/android/src/crc643f46942d9dd1fff9/CellAdapter.java" bodystart="32" bodyend="37"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_cell_adapter_1a325bc28a81f49b833b99f5f595da6b08" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>crc643f46942d9dd1fff9.CellAdapter.CellAdapter</definition>
+        <argsstring>(android.content.Context p0)</argsstring>
+        <name>CellAdapter</name>
+        <param>
+          <type>android.content.Context</type>
+          <declname>p0</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/110/android/src/crc643f46942d9dd1fff9/CellAdapter.java" line="39" column="8" bodyfile="Application Green Quake.Android/obj/Release/110/android/src/crc643f46942d9dd1fff9/CellAdapter.java" bodystart="39" bodyend="44"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_cell_adapter_1a64507d27b09ffe29bcbeecabb00720f2" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>boolean</type>
+        <definition>boolean crc643f46942d9dd1fff9.CellAdapter.onItemLongClick</definition>
+        <argsstring>(android.widget.AdapterView p0, android.view.View p1, int p2, long p3)</argsstring>
+        <name>onItemLongClick</name>
+        <param>
+          <type>android.widget.AdapterView</type>
+          <declname>p0</declname>
+        </param>
+        <param>
+          <type>android.view.View</type>
+          <declname>p1</declname>
+        </param>
+        <param>
+          <type>int</type>
+          <declname>p2</declname>
+        </param>
+        <param>
+          <type>long</type>
+          <declname>p3</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/110/android/src/crc643f46942d9dd1fff9/CellAdapter.java" line="47" column="16" bodyfile="Application Green Quake.Android/obj/Release/110/android/src/crc643f46942d9dd1fff9/CellAdapter.java" bodystart="47" bodyend="50"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_cell_adapter_1a42a3cf750d35a257ba0e45f6ae3eacce" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>boolean</type>
+        <definition>boolean crc643f46942d9dd1fff9.CellAdapter.onActionItemClicked</definition>
+        <argsstring>(android.view.ActionMode p0, android.view.MenuItem p1)</argsstring>
+        <name>onActionItemClicked</name>
+        <param>
+          <type>android.view.ActionMode</type>
+          <declname>p0</declname>
+        </param>
+        <param>
+          <type>android.view.MenuItem</type>
+          <declname>p1</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/110/android/src/crc643f46942d9dd1fff9/CellAdapter.java" line="55" column="16" bodyfile="Application Green Quake.Android/obj/Release/110/android/src/crc643f46942d9dd1fff9/CellAdapter.java" bodystart="55" bodyend="58"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_cell_adapter_1aa83d019a9781c47b465bdeff61785d02" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>boolean</type>
+        <definition>boolean crc643f46942d9dd1fff9.CellAdapter.onCreateActionMode</definition>
+        <argsstring>(android.view.ActionMode p0, android.view.Menu p1)</argsstring>
+        <name>onCreateActionMode</name>
+        <param>
+          <type>android.view.ActionMode</type>
+          <declname>p0</declname>
+        </param>
+        <param>
+          <type>android.view.Menu</type>
+          <declname>p1</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/110/android/src/crc643f46942d9dd1fff9/CellAdapter.java" line="63" column="16" bodyfile="Application Green Quake.Android/obj/Release/110/android/src/crc643f46942d9dd1fff9/CellAdapter.java" bodystart="63" bodyend="66"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_cell_adapter_1a8da11ed9a2a8dfb6b5be6d88254ff4f3" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void crc643f46942d9dd1fff9.CellAdapter.onDestroyActionMode</definition>
+        <argsstring>(android.view.ActionMode p0)</argsstring>
+        <name>onDestroyActionMode</name>
+        <param>
+          <type>android.view.ActionMode</type>
+          <declname>p0</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/110/android/src/crc643f46942d9dd1fff9/CellAdapter.java" line="71" column="13" bodyfile="Application Green Quake.Android/obj/Release/110/android/src/crc643f46942d9dd1fff9/CellAdapter.java" bodystart="71" bodyend="74"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_cell_adapter_1aeeff43d6961ca2a41bf39af405ce8306" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>boolean</type>
+        <definition>boolean crc643f46942d9dd1fff9.CellAdapter.onPrepareActionMode</definition>
+        <argsstring>(android.view.ActionMode p0, android.view.Menu p1)</argsstring>
+        <name>onPrepareActionMode</name>
+        <param>
+          <type>android.view.ActionMode</type>
+          <declname>p0</declname>
+        </param>
+        <param>
+          <type>android.view.Menu</type>
+          <declname>p1</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/110/android/src/crc643f46942d9dd1fff9/CellAdapter.java" line="79" column="16" bodyfile="Application Green Quake.Android/obj/Release/110/android/src/crc643f46942d9dd1fff9/CellAdapter.java" bodystart="79" bodyend="82"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_cell_adapter_1a923d30a7abaa001045aac2a413a41314" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void crc643f46942d9dd1fff9.CellAdapter.onItemClick</definition>
+        <argsstring>(android.widget.AdapterView p0, android.view.View p1, int p2, long p3)</argsstring>
+        <name>onItemClick</name>
+        <param>
+          <type>android.widget.AdapterView</type>
+          <declname>p0</declname>
+        </param>
+        <param>
+          <type>android.view.View</type>
+          <declname>p1</declname>
+        </param>
+        <param>
+          <type>int</type>
+          <declname>p2</declname>
+        </param>
+        <param>
+          <type>long</type>
+          <declname>p3</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/110/android/src/crc643f46942d9dd1fff9/CellAdapter.java" line="87" column="13" bodyfile="Application Green Quake.Android/obj/Release/110/android/src/crc643f46942d9dd1fff9/CellAdapter.java" bodystart="87" bodyend="90"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_cell_adapter_1a6199554a00fa5a719d33ae839234a85c" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>boolean</type>
+        <definition>boolean crc643f46942d9dd1fff9.CellAdapter.onActionItemClicked</definition>
+        <argsstring>(androidx.appcompat.view.ActionMode p0, android.view.MenuItem p1)</argsstring>
+        <name>onActionItemClicked</name>
+        <param>
+          <type>androidx.appcompat.view.ActionMode</type>
+          <declname>p0</declname>
+        </param>
+        <param>
+          <type>android.view.MenuItem</type>
+          <declname>p1</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/110/android/src/crc643f46942d9dd1fff9/CellAdapter.java" line="95" column="16" bodyfile="Application Green Quake.Android/obj/Release/110/android/src/crc643f46942d9dd1fff9/CellAdapter.java" bodystart="95" bodyend="98"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_cell_adapter_1a9d4956f3b21df112a31c670af914513f" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>boolean</type>
+        <definition>boolean crc643f46942d9dd1fff9.CellAdapter.onCreateActionMode</definition>
+        <argsstring>(androidx.appcompat.view.ActionMode p0, android.view.Menu p1)</argsstring>
+        <name>onCreateActionMode</name>
+        <param>
+          <type>androidx.appcompat.view.ActionMode</type>
+          <declname>p0</declname>
+        </param>
+        <param>
+          <type>android.view.Menu</type>
+          <declname>p1</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/110/android/src/crc643f46942d9dd1fff9/CellAdapter.java" line="103" column="16" bodyfile="Application Green Quake.Android/obj/Release/110/android/src/crc643f46942d9dd1fff9/CellAdapter.java" bodystart="103" bodyend="106"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_cell_adapter_1a361eb5c64e22f5edba057656052ff6bd" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void crc643f46942d9dd1fff9.CellAdapter.onDestroyActionMode</definition>
+        <argsstring>(androidx.appcompat.view.ActionMode p0)</argsstring>
+        <name>onDestroyActionMode</name>
+        <param>
+          <type>androidx.appcompat.view.ActionMode</type>
+          <declname>p0</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/110/android/src/crc643f46942d9dd1fff9/CellAdapter.java" line="111" column="13" bodyfile="Application Green Quake.Android/obj/Release/110/android/src/crc643f46942d9dd1fff9/CellAdapter.java" bodystart="111" bodyend="114"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_cell_adapter_1a8600f86930fd4ff5580ac24ced508427" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>boolean</type>
+        <definition>boolean crc643f46942d9dd1fff9.CellAdapter.onPrepareActionMode</definition>
+        <argsstring>(androidx.appcompat.view.ActionMode p0, android.view.Menu p1)</argsstring>
+        <name>onPrepareActionMode</name>
+        <param>
+          <type>androidx.appcompat.view.ActionMode</type>
+          <declname>p0</declname>
+        </param>
+        <param>
+          <type>android.view.Menu</type>
+          <declname>p1</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/110/android/src/crc643f46942d9dd1fff9/CellAdapter.java" line="119" column="16" bodyfile="Application Green Quake.Android/obj/Release/110/android/src/crc643f46942d9dd1fff9/CellAdapter.java" bodystart="119" bodyend="122"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_cell_adapter_1a3918bcd44ea0c6c5f0cdcd2cf1028bcc" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void crc643f46942d9dd1fff9.CellAdapter.monodroidAddReference</definition>
+        <argsstring>(java.lang.Object obj)</argsstring>
+        <name>monodroidAddReference</name>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_grouped_list_view_adapter_1a23f6b4b88104430aa142ccf2cca3ea3a">monodroidAddReference</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_list_view_adapter_1ad41e82c2537372ac83e310cb650260c7">monodroidAddReference</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_table_view_model_renderer_1ae6b83d8ed310748a7c071ceef010f1c3">monodroidAddReference</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_grouped_list_view_adapter_1a23f6b4b88104430aa142ccf2cca3ea3a">monodroidAddReference</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_list_view_adapter_1ad41e82c2537372ac83e310cb650260c7">monodroidAddReference</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_table_view_model_renderer_1ae6b83d8ed310748a7c071ceef010f1c3">monodroidAddReference</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_grouped_list_view_adapter_1a23f6b4b88104430aa142ccf2cca3ea3a">monodroidAddReference</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_list_view_adapter_1ad41e82c2537372ac83e310cb650260c7">monodroidAddReference</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_table_view_model_renderer_1ae6b83d8ed310748a7c071ceef010f1c3">monodroidAddReference</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_grouped_list_view_adapter_1a23f6b4b88104430aa142ccf2cca3ea3a">monodroidAddReference</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_list_view_adapter_1ad41e82c2537372ac83e310cb650260c7">monodroidAddReference</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_table_view_model_renderer_1ae6b83d8ed310748a7c071ceef010f1c3">monodroidAddReference</reimplementedby>
+        <param>
+          <type>java.lang.Object</type>
+          <declname>obj</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/110/android/src/crc643f46942d9dd1fff9/CellAdapter.java" line="127" column="13" bodyfile="Application Green Quake.Android/obj/Release/110/android/src/crc643f46942d9dd1fff9/CellAdapter.java" bodystart="127" bodyend="132"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_cell_adapter_1a9845498e95704cdf52398af2433dc780" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void crc643f46942d9dd1fff9.CellAdapter.monodroidClearReferences</definition>
+        <argsstring>()</argsstring>
+        <name>monodroidClearReferences</name>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_grouped_list_view_adapter_1ace6407a7c66efb28f476e9b5eb790202">monodroidClearReferences</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_list_view_adapter_1a8e9c20f48174c320970addc5f5d06f02">monodroidClearReferences</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_table_view_model_renderer_1ac473dd21bc1224d747e2f193f6d8811b">monodroidClearReferences</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_grouped_list_view_adapter_1ace6407a7c66efb28f476e9b5eb790202">monodroidClearReferences</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_list_view_adapter_1a8e9c20f48174c320970addc5f5d06f02">monodroidClearReferences</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_table_view_model_renderer_1ac473dd21bc1224d747e2f193f6d8811b">monodroidClearReferences</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_grouped_list_view_adapter_1ace6407a7c66efb28f476e9b5eb790202">monodroidClearReferences</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_list_view_adapter_1a8e9c20f48174c320970addc5f5d06f02">monodroidClearReferences</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_table_view_model_renderer_1ac473dd21bc1224d747e2f193f6d8811b">monodroidClearReferences</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_grouped_list_view_adapter_1ace6407a7c66efb28f476e9b5eb790202">monodroidClearReferences</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_list_view_adapter_1a8e9c20f48174c320970addc5f5d06f02">monodroidClearReferences</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_table_view_model_renderer_1ac473dd21bc1224d747e2f193f6d8811b">monodroidClearReferences</reimplementedby>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/110/android/src/crc643f46942d9dd1fff9/CellAdapter.java" line="134" column="13" bodyfile="Application Green Quake.Android/obj/Release/110/android/src/crc643f46942d9dd1fff9/CellAdapter.java" bodystart="134" bodyend="138"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="private-func">
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_cell_adapter_1af54a8c44b4d4888f79eb20d14cadebd8" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>native boolean</type>
+        <definition>native boolean crc643f46942d9dd1fff9.CellAdapter.n_onItemLongClick</definition>
+        <argsstring>(android.widget.AdapterView p0, android.view.View p1, int p2, long p3)</argsstring>
+        <name>n_onItemLongClick</name>
+        <param>
+          <type>android.widget.AdapterView</type>
+          <declname>p0</declname>
+        </param>
+        <param>
+          <type>android.view.View</type>
+          <declname>p1</declname>
+        </param>
+        <param>
+          <type>int</type>
+          <declname>p2</declname>
+        </param>
+        <param>
+          <type>long</type>
+          <declname>p3</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/100/android/src/crc643f46942d9dd1fff9/CellAdapter.java" line="52" column="24"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_cell_adapter_1a72f93fd9f8d8ab1c32315e2faaa62e2b" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>native boolean</type>
+        <definition>native boolean crc643f46942d9dd1fff9.CellAdapter.n_onActionItemClicked</definition>
+        <argsstring>(android.view.ActionMode p0, android.view.MenuItem p1)</argsstring>
+        <name>n_onActionItemClicked</name>
+        <param>
+          <type>android.view.ActionMode</type>
+          <declname>p0</declname>
+        </param>
+        <param>
+          <type>android.view.MenuItem</type>
+          <declname>p1</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/100/android/src/crc643f46942d9dd1fff9/CellAdapter.java" line="60" column="24"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_cell_adapter_1a9cca3a1847f021c8fd44c5f8c10408f9" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>native boolean</type>
+        <definition>native boolean crc643f46942d9dd1fff9.CellAdapter.n_onCreateActionMode</definition>
+        <argsstring>(android.view.ActionMode p0, android.view.Menu p1)</argsstring>
+        <name>n_onCreateActionMode</name>
+        <param>
+          <type>android.view.ActionMode</type>
+          <declname>p0</declname>
+        </param>
+        <param>
+          <type>android.view.Menu</type>
+          <declname>p1</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/100/android/src/crc643f46942d9dd1fff9/CellAdapter.java" line="68" column="24"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_cell_adapter_1ae016621d40a058a96afdcced8499fadc" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>native void</type>
+        <definition>native void crc643f46942d9dd1fff9.CellAdapter.n_onDestroyActionMode</definition>
+        <argsstring>(android.view.ActionMode p0)</argsstring>
+        <name>n_onDestroyActionMode</name>
+        <param>
+          <type>android.view.ActionMode</type>
+          <declname>p0</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/100/android/src/crc643f46942d9dd1fff9/CellAdapter.java" line="76" column="21"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_cell_adapter_1a05c94d3326f6f8036a528b1076320ca9" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>native boolean</type>
+        <definition>native boolean crc643f46942d9dd1fff9.CellAdapter.n_onPrepareActionMode</definition>
+        <argsstring>(android.view.ActionMode p0, android.view.Menu p1)</argsstring>
+        <name>n_onPrepareActionMode</name>
+        <param>
+          <type>android.view.ActionMode</type>
+          <declname>p0</declname>
+        </param>
+        <param>
+          <type>android.view.Menu</type>
+          <declname>p1</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/100/android/src/crc643f46942d9dd1fff9/CellAdapter.java" line="84" column="24"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_cell_adapter_1a3004d7307dee07d3fc12e2b48a25fb53" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>native void</type>
+        <definition>native void crc643f46942d9dd1fff9.CellAdapter.n_onItemClick</definition>
+        <argsstring>(android.widget.AdapterView p0, android.view.View p1, int p2, long p3)</argsstring>
+        <name>n_onItemClick</name>
+        <param>
+          <type>android.widget.AdapterView</type>
+          <declname>p0</declname>
+        </param>
+        <param>
+          <type>android.view.View</type>
+          <declname>p1</declname>
+        </param>
+        <param>
+          <type>int</type>
+          <declname>p2</declname>
+        </param>
+        <param>
+          <type>long</type>
+          <declname>p3</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/100/android/src/crc643f46942d9dd1fff9/CellAdapter.java" line="92" column="21"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_cell_adapter_1a13e4031e0ed6473c041544b5e2bee88e" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>native boolean</type>
+        <definition>native boolean crc643f46942d9dd1fff9.CellAdapter.n_onActionItemClicked</definition>
+        <argsstring>(androidx.appcompat.view.ActionMode p0, android.view.MenuItem p1)</argsstring>
+        <name>n_onActionItemClicked</name>
+        <param>
+          <type>androidx.appcompat.view.ActionMode</type>
+          <declname>p0</declname>
+        </param>
+        <param>
+          <type>android.view.MenuItem</type>
+          <declname>p1</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/100/android/src/crc643f46942d9dd1fff9/CellAdapter.java" line="100" column="24"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_cell_adapter_1a5f3559f1ca1c84247e89ad988a052afa" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>native boolean</type>
+        <definition>native boolean crc643f46942d9dd1fff9.CellAdapter.n_onCreateActionMode</definition>
+        <argsstring>(androidx.appcompat.view.ActionMode p0, android.view.Menu p1)</argsstring>
+        <name>n_onCreateActionMode</name>
+        <param>
+          <type>androidx.appcompat.view.ActionMode</type>
+          <declname>p0</declname>
+        </param>
+        <param>
+          <type>android.view.Menu</type>
+          <declname>p1</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/100/android/src/crc643f46942d9dd1fff9/CellAdapter.java" line="108" column="24"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_cell_adapter_1ad28e7fea4cd9826e58c1fe3503674395" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>native void</type>
+        <definition>native void crc643f46942d9dd1fff9.CellAdapter.n_onDestroyActionMode</definition>
+        <argsstring>(androidx.appcompat.view.ActionMode p0)</argsstring>
+        <name>n_onDestroyActionMode</name>
+        <param>
+          <type>androidx.appcompat.view.ActionMode</type>
+          <declname>p0</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/100/android/src/crc643f46942d9dd1fff9/CellAdapter.java" line="116" column="21"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_cell_adapter_1adc017264ee1b819b09c3fd0f88cf9b30" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>native boolean</type>
+        <definition>native boolean crc643f46942d9dd1fff9.CellAdapter.n_onPrepareActionMode</definition>
+        <argsstring>(androidx.appcompat.view.ActionMode p0, android.view.Menu p1)</argsstring>
+        <name>n_onPrepareActionMode</name>
+        <param>
+          <type>androidx.appcompat.view.ActionMode</type>
+          <declname>p0</declname>
+        </param>
+        <param>
+          <type>android.view.Menu</type>
+          <declname>p1</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/100/android/src/crc643f46942d9dd1fff9/CellAdapter.java" line="124" column="24"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_cell_adapter_1af54a8c44b4d4888f79eb20d14cadebd8" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>native boolean</type>
+        <definition>native boolean crc643f46942d9dd1fff9.CellAdapter.n_onItemLongClick</definition>
+        <argsstring>(android.widget.AdapterView p0, android.view.View p1, int p2, long p3)</argsstring>
+        <name>n_onItemLongClick</name>
+        <param>
+          <type>android.widget.AdapterView</type>
+          <declname>p0</declname>
+        </param>
+        <param>
+          <type>android.view.View</type>
+          <declname>p1</declname>
+        </param>
+        <param>
+          <type>int</type>
+          <declname>p2</declname>
+        </param>
+        <param>
+          <type>long</type>
+          <declname>p3</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/110/android/src/crc643f46942d9dd1fff9/CellAdapter.java" line="52" column="24"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_cell_adapter_1a72f93fd9f8d8ab1c32315e2faaa62e2b" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>native boolean</type>
+        <definition>native boolean crc643f46942d9dd1fff9.CellAdapter.n_onActionItemClicked</definition>
+        <argsstring>(android.view.ActionMode p0, android.view.MenuItem p1)</argsstring>
+        <name>n_onActionItemClicked</name>
+        <param>
+          <type>android.view.ActionMode</type>
+          <declname>p0</declname>
+        </param>
+        <param>
+          <type>android.view.MenuItem</type>
+          <declname>p1</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/110/android/src/crc643f46942d9dd1fff9/CellAdapter.java" line="60" column="24"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_cell_adapter_1a9cca3a1847f021c8fd44c5f8c10408f9" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>native boolean</type>
+        <definition>native boolean crc643f46942d9dd1fff9.CellAdapter.n_onCreateActionMode</definition>
+        <argsstring>(android.view.ActionMode p0, android.view.Menu p1)</argsstring>
+        <name>n_onCreateActionMode</name>
+        <param>
+          <type>android.view.ActionMode</type>
+          <declname>p0</declname>
+        </param>
+        <param>
+          <type>android.view.Menu</type>
+          <declname>p1</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/110/android/src/crc643f46942d9dd1fff9/CellAdapter.java" line="68" column="24"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_cell_adapter_1ae016621d40a058a96afdcced8499fadc" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>native void</type>
+        <definition>native void crc643f46942d9dd1fff9.CellAdapter.n_onDestroyActionMode</definition>
+        <argsstring>(android.view.ActionMode p0)</argsstring>
+        <name>n_onDestroyActionMode</name>
+        <param>
+          <type>android.view.ActionMode</type>
+          <declname>p0</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/110/android/src/crc643f46942d9dd1fff9/CellAdapter.java" line="76" column="21"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_cell_adapter_1a05c94d3326f6f8036a528b1076320ca9" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>native boolean</type>
+        <definition>native boolean crc643f46942d9dd1fff9.CellAdapter.n_onPrepareActionMode</definition>
+        <argsstring>(android.view.ActionMode p0, android.view.Menu p1)</argsstring>
+        <name>n_onPrepareActionMode</name>
+        <param>
+          <type>android.view.ActionMode</type>
+          <declname>p0</declname>
+        </param>
+        <param>
+          <type>android.view.Menu</type>
+          <declname>p1</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/110/android/src/crc643f46942d9dd1fff9/CellAdapter.java" line="84" column="24"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_cell_adapter_1a3004d7307dee07d3fc12e2b48a25fb53" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>native void</type>
+        <definition>native void crc643f46942d9dd1fff9.CellAdapter.n_onItemClick</definition>
+        <argsstring>(android.widget.AdapterView p0, android.view.View p1, int p2, long p3)</argsstring>
+        <name>n_onItemClick</name>
+        <param>
+          <type>android.widget.AdapterView</type>
+          <declname>p0</declname>
+        </param>
+        <param>
+          <type>android.view.View</type>
+          <declname>p1</declname>
+        </param>
+        <param>
+          <type>int</type>
+          <declname>p2</declname>
+        </param>
+        <param>
+          <type>long</type>
+          <declname>p3</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/110/android/src/crc643f46942d9dd1fff9/CellAdapter.java" line="92" column="21"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_cell_adapter_1a13e4031e0ed6473c041544b5e2bee88e" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>native boolean</type>
+        <definition>native boolean crc643f46942d9dd1fff9.CellAdapter.n_onActionItemClicked</definition>
+        <argsstring>(androidx.appcompat.view.ActionMode p0, android.view.MenuItem p1)</argsstring>
+        <name>n_onActionItemClicked</name>
+        <param>
+          <type>androidx.appcompat.view.ActionMode</type>
+          <declname>p0</declname>
+        </param>
+        <param>
+          <type>android.view.MenuItem</type>
+          <declname>p1</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/110/android/src/crc643f46942d9dd1fff9/CellAdapter.java" line="100" column="24"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_cell_adapter_1a5f3559f1ca1c84247e89ad988a052afa" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>native boolean</type>
+        <definition>native boolean crc643f46942d9dd1fff9.CellAdapter.n_onCreateActionMode</definition>
+        <argsstring>(androidx.appcompat.view.ActionMode p0, android.view.Menu p1)</argsstring>
+        <name>n_onCreateActionMode</name>
+        <param>
+          <type>androidx.appcompat.view.ActionMode</type>
+          <declname>p0</declname>
+        </param>
+        <param>
+          <type>android.view.Menu</type>
+          <declname>p1</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/110/android/src/crc643f46942d9dd1fff9/CellAdapter.java" line="108" column="24"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_cell_adapter_1ad28e7fea4cd9826e58c1fe3503674395" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>native void</type>
+        <definition>native void crc643f46942d9dd1fff9.CellAdapter.n_onDestroyActionMode</definition>
+        <argsstring>(androidx.appcompat.view.ActionMode p0)</argsstring>
+        <name>n_onDestroyActionMode</name>
+        <param>
+          <type>androidx.appcompat.view.ActionMode</type>
+          <declname>p0</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/110/android/src/crc643f46942d9dd1fff9/CellAdapter.java" line="116" column="21"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_cell_adapter_1adc017264ee1b819b09c3fd0f88cf9b30" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>native boolean</type>
+        <definition>native boolean crc643f46942d9dd1fff9.CellAdapter.n_onPrepareActionMode</definition>
+        <argsstring>(androidx.appcompat.view.ActionMode p0, android.view.Menu p1)</argsstring>
+        <name>n_onPrepareActionMode</name>
+        <param>
+          <type>androidx.appcompat.view.ActionMode</type>
+          <declname>p0</declname>
+        </param>
+        <param>
+          <type>android.view.Menu</type>
+          <declname>p1</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/110/android/src/crc643f46942d9dd1fff9/CellAdapter.java" line="124" column="24"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_cell_adapter_1af54a8c44b4d4888f79eb20d14cadebd8" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>native boolean</type>
+        <definition>native boolean crc643f46942d9dd1fff9.CellAdapter.n_onItemLongClick</definition>
+        <argsstring>(android.widget.AdapterView p0, android.view.View p1, int p2, long p3)</argsstring>
+        <name>n_onItemLongClick</name>
+        <param>
+          <type>android.widget.AdapterView</type>
+          <declname>p0</declname>
+        </param>
+        <param>
+          <type>android.view.View</type>
+          <declname>p1</declname>
+        </param>
+        <param>
+          <type>int</type>
+          <declname>p2</declname>
+        </param>
+        <param>
+          <type>long</type>
+          <declname>p3</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/100/android/src/crc643f46942d9dd1fff9/CellAdapter.java" line="52" column="24"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_cell_adapter_1a72f93fd9f8d8ab1c32315e2faaa62e2b" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>native boolean</type>
+        <definition>native boolean crc643f46942d9dd1fff9.CellAdapter.n_onActionItemClicked</definition>
+        <argsstring>(android.view.ActionMode p0, android.view.MenuItem p1)</argsstring>
+        <name>n_onActionItemClicked</name>
+        <param>
+          <type>android.view.ActionMode</type>
+          <declname>p0</declname>
+        </param>
+        <param>
+          <type>android.view.MenuItem</type>
+          <declname>p1</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/100/android/src/crc643f46942d9dd1fff9/CellAdapter.java" line="60" column="24"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_cell_adapter_1a9cca3a1847f021c8fd44c5f8c10408f9" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>native boolean</type>
+        <definition>native boolean crc643f46942d9dd1fff9.CellAdapter.n_onCreateActionMode</definition>
+        <argsstring>(android.view.ActionMode p0, android.view.Menu p1)</argsstring>
+        <name>n_onCreateActionMode</name>
+        <param>
+          <type>android.view.ActionMode</type>
+          <declname>p0</declname>
+        </param>
+        <param>
+          <type>android.view.Menu</type>
+          <declname>p1</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/100/android/src/crc643f46942d9dd1fff9/CellAdapter.java" line="68" column="24"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_cell_adapter_1ae016621d40a058a96afdcced8499fadc" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>native void</type>
+        <definition>native void crc643f46942d9dd1fff9.CellAdapter.n_onDestroyActionMode</definition>
+        <argsstring>(android.view.ActionMode p0)</argsstring>
+        <name>n_onDestroyActionMode</name>
+        <param>
+          <type>android.view.ActionMode</type>
+          <declname>p0</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/100/android/src/crc643f46942d9dd1fff9/CellAdapter.java" line="76" column="21"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_cell_adapter_1a05c94d3326f6f8036a528b1076320ca9" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>native boolean</type>
+        <definition>native boolean crc643f46942d9dd1fff9.CellAdapter.n_onPrepareActionMode</definition>
+        <argsstring>(android.view.ActionMode p0, android.view.Menu p1)</argsstring>
+        <name>n_onPrepareActionMode</name>
+        <param>
+          <type>android.view.ActionMode</type>
+          <declname>p0</declname>
+        </param>
+        <param>
+          <type>android.view.Menu</type>
+          <declname>p1</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/100/android/src/crc643f46942d9dd1fff9/CellAdapter.java" line="84" column="24"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_cell_adapter_1a3004d7307dee07d3fc12e2b48a25fb53" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>native void</type>
+        <definition>native void crc643f46942d9dd1fff9.CellAdapter.n_onItemClick</definition>
+        <argsstring>(android.widget.AdapterView p0, android.view.View p1, int p2, long p3)</argsstring>
+        <name>n_onItemClick</name>
+        <param>
+          <type>android.widget.AdapterView</type>
+          <declname>p0</declname>
+        </param>
+        <param>
+          <type>android.view.View</type>
+          <declname>p1</declname>
+        </param>
+        <param>
+          <type>int</type>
+          <declname>p2</declname>
+        </param>
+        <param>
+          <type>long</type>
+          <declname>p3</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/100/android/src/crc643f46942d9dd1fff9/CellAdapter.java" line="92" column="21"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_cell_adapter_1a13e4031e0ed6473c041544b5e2bee88e" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>native boolean</type>
+        <definition>native boolean crc643f46942d9dd1fff9.CellAdapter.n_onActionItemClicked</definition>
+        <argsstring>(androidx.appcompat.view.ActionMode p0, android.view.MenuItem p1)</argsstring>
+        <name>n_onActionItemClicked</name>
+        <param>
+          <type>androidx.appcompat.view.ActionMode</type>
+          <declname>p0</declname>
+        </param>
+        <param>
+          <type>android.view.MenuItem</type>
+          <declname>p1</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/100/android/src/crc643f46942d9dd1fff9/CellAdapter.java" line="100" column="24"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_cell_adapter_1a5f3559f1ca1c84247e89ad988a052afa" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>native boolean</type>
+        <definition>native boolean crc643f46942d9dd1fff9.CellAdapter.n_onCreateActionMode</definition>
+        <argsstring>(androidx.appcompat.view.ActionMode p0, android.view.Menu p1)</argsstring>
+        <name>n_onCreateActionMode</name>
+        <param>
+          <type>androidx.appcompat.view.ActionMode</type>
+          <declname>p0</declname>
+        </param>
+        <param>
+          <type>android.view.Menu</type>
+          <declname>p1</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/100/android/src/crc643f46942d9dd1fff9/CellAdapter.java" line="108" column="24"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_cell_adapter_1ad28e7fea4cd9826e58c1fe3503674395" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>native void</type>
+        <definition>native void crc643f46942d9dd1fff9.CellAdapter.n_onDestroyActionMode</definition>
+        <argsstring>(androidx.appcompat.view.ActionMode p0)</argsstring>
+        <name>n_onDestroyActionMode</name>
+        <param>
+          <type>androidx.appcompat.view.ActionMode</type>
+          <declname>p0</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/100/android/src/crc643f46942d9dd1fff9/CellAdapter.java" line="116" column="21"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_cell_adapter_1adc017264ee1b819b09c3fd0f88cf9b30" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>native boolean</type>
+        <definition>native boolean crc643f46942d9dd1fff9.CellAdapter.n_onPrepareActionMode</definition>
+        <argsstring>(androidx.appcompat.view.ActionMode p0, android.view.Menu p1)</argsstring>
+        <name>n_onPrepareActionMode</name>
+        <param>
+          <type>androidx.appcompat.view.ActionMode</type>
+          <declname>p0</declname>
+        </param>
+        <param>
+          <type>android.view.Menu</type>
+          <declname>p1</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/100/android/src/crc643f46942d9dd1fff9/CellAdapter.java" line="124" column="24"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_cell_adapter_1af54a8c44b4d4888f79eb20d14cadebd8" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>native boolean</type>
+        <definition>native boolean crc643f46942d9dd1fff9.CellAdapter.n_onItemLongClick</definition>
+        <argsstring>(android.widget.AdapterView p0, android.view.View p1, int p2, long p3)</argsstring>
+        <name>n_onItemLongClick</name>
+        <param>
+          <type>android.widget.AdapterView</type>
+          <declname>p0</declname>
+        </param>
+        <param>
+          <type>android.view.View</type>
+          <declname>p1</declname>
+        </param>
+        <param>
+          <type>int</type>
+          <declname>p2</declname>
+        </param>
+        <param>
+          <type>long</type>
+          <declname>p3</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/110/android/src/crc643f46942d9dd1fff9/CellAdapter.java" line="52" column="24"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_cell_adapter_1a72f93fd9f8d8ab1c32315e2faaa62e2b" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>native boolean</type>
+        <definition>native boolean crc643f46942d9dd1fff9.CellAdapter.n_onActionItemClicked</definition>
+        <argsstring>(android.view.ActionMode p0, android.view.MenuItem p1)</argsstring>
+        <name>n_onActionItemClicked</name>
+        <param>
+          <type>android.view.ActionMode</type>
+          <declname>p0</declname>
+        </param>
+        <param>
+          <type>android.view.MenuItem</type>
+          <declname>p1</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/110/android/src/crc643f46942d9dd1fff9/CellAdapter.java" line="60" column="24"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_cell_adapter_1a9cca3a1847f021c8fd44c5f8c10408f9" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>native boolean</type>
+        <definition>native boolean crc643f46942d9dd1fff9.CellAdapter.n_onCreateActionMode</definition>
+        <argsstring>(android.view.ActionMode p0, android.view.Menu p1)</argsstring>
+        <name>n_onCreateActionMode</name>
+        <param>
+          <type>android.view.ActionMode</type>
+          <declname>p0</declname>
+        </param>
+        <param>
+          <type>android.view.Menu</type>
+          <declname>p1</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/110/android/src/crc643f46942d9dd1fff9/CellAdapter.java" line="68" column="24"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_cell_adapter_1ae016621d40a058a96afdcced8499fadc" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>native void</type>
+        <definition>native void crc643f46942d9dd1fff9.CellAdapter.n_onDestroyActionMode</definition>
+        <argsstring>(android.view.ActionMode p0)</argsstring>
+        <name>n_onDestroyActionMode</name>
+        <param>
+          <type>android.view.ActionMode</type>
+          <declname>p0</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/110/android/src/crc643f46942d9dd1fff9/CellAdapter.java" line="76" column="21"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_cell_adapter_1a05c94d3326f6f8036a528b1076320ca9" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>native boolean</type>
+        <definition>native boolean crc643f46942d9dd1fff9.CellAdapter.n_onPrepareActionMode</definition>
+        <argsstring>(android.view.ActionMode p0, android.view.Menu p1)</argsstring>
+        <name>n_onPrepareActionMode</name>
+        <param>
+          <type>android.view.ActionMode</type>
+          <declname>p0</declname>
+        </param>
+        <param>
+          <type>android.view.Menu</type>
+          <declname>p1</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/110/android/src/crc643f46942d9dd1fff9/CellAdapter.java" line="84" column="24"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_cell_adapter_1a3004d7307dee07d3fc12e2b48a25fb53" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>native void</type>
+        <definition>native void crc643f46942d9dd1fff9.CellAdapter.n_onItemClick</definition>
+        <argsstring>(android.widget.AdapterView p0, android.view.View p1, int p2, long p3)</argsstring>
+        <name>n_onItemClick</name>
+        <param>
+          <type>android.widget.AdapterView</type>
+          <declname>p0</declname>
+        </param>
+        <param>
+          <type>android.view.View</type>
+          <declname>p1</declname>
+        </param>
+        <param>
+          <type>int</type>
+          <declname>p2</declname>
+        </param>
+        <param>
+          <type>long</type>
+          <declname>p3</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/110/android/src/crc643f46942d9dd1fff9/CellAdapter.java" line="92" column="21"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_cell_adapter_1a13e4031e0ed6473c041544b5e2bee88e" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>native boolean</type>
+        <definition>native boolean crc643f46942d9dd1fff9.CellAdapter.n_onActionItemClicked</definition>
+        <argsstring>(androidx.appcompat.view.ActionMode p0, android.view.MenuItem p1)</argsstring>
+        <name>n_onActionItemClicked</name>
+        <param>
+          <type>androidx.appcompat.view.ActionMode</type>
+          <declname>p0</declname>
+        </param>
+        <param>
+          <type>android.view.MenuItem</type>
+          <declname>p1</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/110/android/src/crc643f46942d9dd1fff9/CellAdapter.java" line="100" column="24"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_cell_adapter_1a5f3559f1ca1c84247e89ad988a052afa" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>native boolean</type>
+        <definition>native boolean crc643f46942d9dd1fff9.CellAdapter.n_onCreateActionMode</definition>
+        <argsstring>(androidx.appcompat.view.ActionMode p0, android.view.Menu p1)</argsstring>
+        <name>n_onCreateActionMode</name>
+        <param>
+          <type>androidx.appcompat.view.ActionMode</type>
+          <declname>p0</declname>
+        </param>
+        <param>
+          <type>android.view.Menu</type>
+          <declname>p1</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/110/android/src/crc643f46942d9dd1fff9/CellAdapter.java" line="108" column="24"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_cell_adapter_1ad28e7fea4cd9826e58c1fe3503674395" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>native void</type>
+        <definition>native void crc643f46942d9dd1fff9.CellAdapter.n_onDestroyActionMode</definition>
+        <argsstring>(androidx.appcompat.view.ActionMode p0)</argsstring>
+        <name>n_onDestroyActionMode</name>
+        <param>
+          <type>androidx.appcompat.view.ActionMode</type>
+          <declname>p0</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/110/android/src/crc643f46942d9dd1fff9/CellAdapter.java" line="116" column="21"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_cell_adapter_1adc017264ee1b819b09c3fd0f88cf9b30" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>native boolean</type>
+        <definition>native boolean crc643f46942d9dd1fff9.CellAdapter.n_onPrepareActionMode</definition>
+        <argsstring>(androidx.appcompat.view.ActionMode p0, android.view.Menu p1)</argsstring>
+        <name>n_onPrepareActionMode</name>
+        <param>
+          <type>androidx.appcompat.view.ActionMode</type>
+          <declname>p0</declname>
+        </param>
+        <param>
+          <type>android.view.Menu</type>
+          <declname>p1</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/110/android/src/crc643f46942d9dd1fff9/CellAdapter.java" line="124" column="24"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <inheritancegraph>
+      <node id="14">
+        <label>crc643f46942d9dd1fff9.GroupedListViewAdapter</label>
+        <link refid="classcrc643f46942d9dd1fff9_1_1_grouped_list_view_adapter"/>
+        <childnode refid="13" relation="public-inheritance">
+        </childnode>
+        <childnode refid="13" relation="public-inheritance">
+        </childnode>
+        <childnode refid="13" relation="public-inheritance">
+        </childnode>
+        <childnode refid="13" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="2">
+        <label>android::widget::BaseAdapter</label>
+      </node>
+      <node id="12">
+        <label>androidx.appcompat.view.ActionMode.Callback</label>
+      </node>
+      <node id="1">
+        <label>crc643f46942d9dd1fff9.CellAdapter</label>
+        <link refid="classcrc643f46942d9dd1fff9_1_1_cell_adapter"/>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+        <childnode refid="3" relation="public-inheritance">
+        </childnode>
+        <childnode refid="4" relation="public-inheritance">
+        </childnode>
+        <childnode refid="5" relation="public-inheritance">
+        </childnode>
+        <childnode refid="6" relation="public-inheritance">
+        </childnode>
+        <childnode refid="7" relation="public-inheritance">
+        </childnode>
+        <childnode refid="8" relation="public-inheritance">
+        </childnode>
+        <childnode refid="3" relation="public-inheritance">
+        </childnode>
+        <childnode refid="9" relation="public-inheritance">
+        </childnode>
+        <childnode refid="10" relation="public-inheritance">
+        </childnode>
+        <childnode refid="11" relation="public-inheritance">
+        </childnode>
+        <childnode refid="12" relation="public-inheritance">
+        </childnode>
+        <childnode refid="8" relation="public-inheritance">
+        </childnode>
+        <childnode refid="3" relation="public-inheritance">
+        </childnode>
+        <childnode refid="9" relation="public-inheritance">
+        </childnode>
+        <childnode refid="10" relation="public-inheritance">
+        </childnode>
+        <childnode refid="11" relation="public-inheritance">
+        </childnode>
+        <childnode refid="12" relation="public-inheritance">
+        </childnode>
+        <childnode refid="8" relation="public-inheritance">
+        </childnode>
+        <childnode refid="3" relation="public-inheritance">
+        </childnode>
+        <childnode refid="9" relation="public-inheritance">
+        </childnode>
+        <childnode refid="10" relation="public-inheritance">
+        </childnode>
+        <childnode refid="11" relation="public-inheritance">
+        </childnode>
+        <childnode refid="12" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="8">
+        <label>android.widget.BaseAdapter</label>
+      </node>
+      <node id="13">
+        <label>crc643f46942d9dd1fff9.ListViewAdapter</label>
+        <link refid="classcrc643f46942d9dd1fff9_1_1_list_view_adapter"/>
+        <childnode refid="1" relation="public-inheritance">
+        </childnode>
+        <childnode refid="1" relation="public-inheritance">
+        </childnode>
+        <childnode refid="1" relation="public-inheritance">
+        </childnode>
+        <childnode refid="1" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="5">
+        <label>android::view::ActionMode::Callback</label>
+      </node>
+      <node id="9">
+        <label>android.widget.AdapterView.OnItemLongClickListener</label>
+      </node>
+      <node id="10">
+        <label>android.view.ActionMode.Callback</label>
+      </node>
+      <node id="3">
+        <label>mono.android.IGCUserPeer</label>
+      </node>
+      <node id="11">
+        <label>android.widget.AdapterView.OnItemClickListener</label>
+      </node>
+      <node id="6">
+        <label>android::widget::AdapterView::OnItemClickListener</label>
+      </node>
+      <node id="15">
+        <label>crc643f46942d9dd1fff9.TableViewModelRenderer</label>
+        <link refid="classcrc643f46942d9dd1fff9_1_1_table_view_model_renderer"/>
+        <childnode refid="1" relation="public-inheritance">
+        </childnode>
+        <childnode refid="1" relation="public-inheritance">
+        </childnode>
+        <childnode refid="1" relation="public-inheritance">
+        </childnode>
+        <childnode refid="1" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="4">
+        <label>android::widget::AdapterView::OnItemLongClickListener</label>
+      </node>
+      <node id="7">
+        <label>androidx::appcompat::view::ActionMode::Callback</label>
+      </node>
+    </inheritancegraph>
+    <collaborationgraph>
+      <node id="2">
+        <label>android::widget::BaseAdapter</label>
+      </node>
+      <node id="12">
+        <label>androidx.appcompat.view.ActionMode.Callback</label>
+      </node>
+      <node id="1">
+        <label>crc643f46942d9dd1fff9.CellAdapter</label>
+        <link refid="classcrc643f46942d9dd1fff9_1_1_cell_adapter"/>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+        <childnode refid="3" relation="public-inheritance">
+        </childnode>
+        <childnode refid="4" relation="public-inheritance">
+        </childnode>
+        <childnode refid="5" relation="public-inheritance">
+        </childnode>
+        <childnode refid="6" relation="public-inheritance">
+        </childnode>
+        <childnode refid="7" relation="public-inheritance">
+        </childnode>
+        <childnode refid="8" relation="public-inheritance">
+        </childnode>
+        <childnode refid="3" relation="public-inheritance">
+        </childnode>
+        <childnode refid="9" relation="public-inheritance">
+        </childnode>
+        <childnode refid="10" relation="public-inheritance">
+        </childnode>
+        <childnode refid="11" relation="public-inheritance">
+        </childnode>
+        <childnode refid="12" relation="public-inheritance">
+        </childnode>
+        <childnode refid="8" relation="public-inheritance">
+        </childnode>
+        <childnode refid="3" relation="public-inheritance">
+        </childnode>
+        <childnode refid="9" relation="public-inheritance">
+        </childnode>
+        <childnode refid="10" relation="public-inheritance">
+        </childnode>
+        <childnode refid="11" relation="public-inheritance">
+        </childnode>
+        <childnode refid="12" relation="public-inheritance">
+        </childnode>
+        <childnode refid="8" relation="public-inheritance">
+        </childnode>
+        <childnode refid="3" relation="public-inheritance">
+        </childnode>
+        <childnode refid="9" relation="public-inheritance">
+        </childnode>
+        <childnode refid="10" relation="public-inheritance">
+        </childnode>
+        <childnode refid="11" relation="public-inheritance">
+        </childnode>
+        <childnode refid="12" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="8">
+        <label>android.widget.BaseAdapter</label>
+      </node>
+      <node id="5">
+        <label>android::view::ActionMode::Callback</label>
+      </node>
+      <node id="9">
+        <label>android.widget.AdapterView.OnItemLongClickListener</label>
+      </node>
+      <node id="10">
+        <label>android.view.ActionMode.Callback</label>
+      </node>
+      <node id="3">
+        <label>mono.android.IGCUserPeer</label>
+      </node>
+      <node id="11">
+        <label>android.widget.AdapterView.OnItemClickListener</label>
+      </node>
+      <node id="6">
+        <label>android::widget::AdapterView::OnItemClickListener</label>
+      </node>
+      <node id="4">
+        <label>android::widget::AdapterView::OnItemLongClickListener</label>
+      </node>
+      <node id="7">
+        <label>androidx::appcompat::view::ActionMode::Callback</label>
+      </node>
+    </collaborationgraph>
+    <location file="Application Green Quake.Android/obj/Debug/100/android/src/crc643f46942d9dd1fff9/CellAdapter.java" line="4" column="17" bodyfile="Application Green Quake.Android/obj/Debug/100/android/src/crc643f46942d9dd1fff9/CellAdapter.java" bodystart="12" bodyend="139"/>
+    <listofallmembers>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_cell_adapter_1a4d22f4f3d639d4bb44480a1ff5bea87e" prot="package" virt="non-virtual"><scope>crc643f46942d9dd1fff9::CellAdapter</scope><name>[static initializer]</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_cell_adapter_1a4d22f4f3d639d4bb44480a1ff5bea87e" prot="package" virt="non-virtual"><scope>crc643f46942d9dd1fff9::CellAdapter</scope><name>[static initializer]</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_cell_adapter_1a4d22f4f3d639d4bb44480a1ff5bea87e" prot="package" virt="non-virtual"><scope>crc643f46942d9dd1fff9::CellAdapter</scope><name>[static initializer]</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_cell_adapter_1a4d22f4f3d639d4bb44480a1ff5bea87e" prot="package" virt="non-virtual"><scope>crc643f46942d9dd1fff9::CellAdapter</scope><name>[static initializer]</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_cell_adapter_1a5c34ae5ea5f82f71c803b0a3856c4122" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::CellAdapter</scope><name>__md_methods</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_cell_adapter_1acb02fe63f721e2db24c840afc5436298" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::CellAdapter</scope><name>CellAdapter</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_cell_adapter_1a325bc28a81f49b833b99f5f595da6b08" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::CellAdapter</scope><name>CellAdapter</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_cell_adapter_1acb02fe63f721e2db24c840afc5436298" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::CellAdapter</scope><name>CellAdapter</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_cell_adapter_1a325bc28a81f49b833b99f5f595da6b08" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::CellAdapter</scope><name>CellAdapter</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_cell_adapter_1acb02fe63f721e2db24c840afc5436298" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::CellAdapter</scope><name>CellAdapter</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_cell_adapter_1a325bc28a81f49b833b99f5f595da6b08" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::CellAdapter</scope><name>CellAdapter</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_cell_adapter_1acb02fe63f721e2db24c840afc5436298" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::CellAdapter</scope><name>CellAdapter</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_cell_adapter_1a325bc28a81f49b833b99f5f595da6b08" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::CellAdapter</scope><name>CellAdapter</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_cell_adapter_1a3918bcd44ea0c6c5f0cdcd2cf1028bcc" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::CellAdapter</scope><name>monodroidAddReference</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_cell_adapter_1a3918bcd44ea0c6c5f0cdcd2cf1028bcc" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::CellAdapter</scope><name>monodroidAddReference</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_cell_adapter_1a3918bcd44ea0c6c5f0cdcd2cf1028bcc" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::CellAdapter</scope><name>monodroidAddReference</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_cell_adapter_1a3918bcd44ea0c6c5f0cdcd2cf1028bcc" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::CellAdapter</scope><name>monodroidAddReference</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_cell_adapter_1a9845498e95704cdf52398af2433dc780" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::CellAdapter</scope><name>monodroidClearReferences</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_cell_adapter_1a9845498e95704cdf52398af2433dc780" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::CellAdapter</scope><name>monodroidClearReferences</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_cell_adapter_1a9845498e95704cdf52398af2433dc780" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::CellAdapter</scope><name>monodroidClearReferences</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_cell_adapter_1a9845498e95704cdf52398af2433dc780" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::CellAdapter</scope><name>monodroidClearReferences</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_cell_adapter_1a72f93fd9f8d8ab1c32315e2faaa62e2b" prot="private" virt="non-virtual"><scope>crc643f46942d9dd1fff9::CellAdapter</scope><name>n_onActionItemClicked</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_cell_adapter_1a13e4031e0ed6473c041544b5e2bee88e" prot="private" virt="non-virtual"><scope>crc643f46942d9dd1fff9::CellAdapter</scope><name>n_onActionItemClicked</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_cell_adapter_1a72f93fd9f8d8ab1c32315e2faaa62e2b" prot="private" virt="non-virtual"><scope>crc643f46942d9dd1fff9::CellAdapter</scope><name>n_onActionItemClicked</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_cell_adapter_1a13e4031e0ed6473c041544b5e2bee88e" prot="private" virt="non-virtual"><scope>crc643f46942d9dd1fff9::CellAdapter</scope><name>n_onActionItemClicked</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_cell_adapter_1a72f93fd9f8d8ab1c32315e2faaa62e2b" prot="private" virt="non-virtual"><scope>crc643f46942d9dd1fff9::CellAdapter</scope><name>n_onActionItemClicked</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_cell_adapter_1a13e4031e0ed6473c041544b5e2bee88e" prot="private" virt="non-virtual"><scope>crc643f46942d9dd1fff9::CellAdapter</scope><name>n_onActionItemClicked</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_cell_adapter_1a72f93fd9f8d8ab1c32315e2faaa62e2b" prot="private" virt="non-virtual"><scope>crc643f46942d9dd1fff9::CellAdapter</scope><name>n_onActionItemClicked</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_cell_adapter_1a13e4031e0ed6473c041544b5e2bee88e" prot="private" virt="non-virtual"><scope>crc643f46942d9dd1fff9::CellAdapter</scope><name>n_onActionItemClicked</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_cell_adapter_1a9cca3a1847f021c8fd44c5f8c10408f9" prot="private" virt="non-virtual"><scope>crc643f46942d9dd1fff9::CellAdapter</scope><name>n_onCreateActionMode</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_cell_adapter_1a5f3559f1ca1c84247e89ad988a052afa" prot="private" virt="non-virtual"><scope>crc643f46942d9dd1fff9::CellAdapter</scope><name>n_onCreateActionMode</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_cell_adapter_1a9cca3a1847f021c8fd44c5f8c10408f9" prot="private" virt="non-virtual"><scope>crc643f46942d9dd1fff9::CellAdapter</scope><name>n_onCreateActionMode</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_cell_adapter_1a5f3559f1ca1c84247e89ad988a052afa" prot="private" virt="non-virtual"><scope>crc643f46942d9dd1fff9::CellAdapter</scope><name>n_onCreateActionMode</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_cell_adapter_1a9cca3a1847f021c8fd44c5f8c10408f9" prot="private" virt="non-virtual"><scope>crc643f46942d9dd1fff9::CellAdapter</scope><name>n_onCreateActionMode</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_cell_adapter_1a5f3559f1ca1c84247e89ad988a052afa" prot="private" virt="non-virtual"><scope>crc643f46942d9dd1fff9::CellAdapter</scope><name>n_onCreateActionMode</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_cell_adapter_1a9cca3a1847f021c8fd44c5f8c10408f9" prot="private" virt="non-virtual"><scope>crc643f46942d9dd1fff9::CellAdapter</scope><name>n_onCreateActionMode</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_cell_adapter_1a5f3559f1ca1c84247e89ad988a052afa" prot="private" virt="non-virtual"><scope>crc643f46942d9dd1fff9::CellAdapter</scope><name>n_onCreateActionMode</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_cell_adapter_1ae016621d40a058a96afdcced8499fadc" prot="private" virt="non-virtual"><scope>crc643f46942d9dd1fff9::CellAdapter</scope><name>n_onDestroyActionMode</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_cell_adapter_1ad28e7fea4cd9826e58c1fe3503674395" prot="private" virt="non-virtual"><scope>crc643f46942d9dd1fff9::CellAdapter</scope><name>n_onDestroyActionMode</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_cell_adapter_1ae016621d40a058a96afdcced8499fadc" prot="private" virt="non-virtual"><scope>crc643f46942d9dd1fff9::CellAdapter</scope><name>n_onDestroyActionMode</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_cell_adapter_1ad28e7fea4cd9826e58c1fe3503674395" prot="private" virt="non-virtual"><scope>crc643f46942d9dd1fff9::CellAdapter</scope><name>n_onDestroyActionMode</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_cell_adapter_1ae016621d40a058a96afdcced8499fadc" prot="private" virt="non-virtual"><scope>crc643f46942d9dd1fff9::CellAdapter</scope><name>n_onDestroyActionMode</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_cell_adapter_1ad28e7fea4cd9826e58c1fe3503674395" prot="private" virt="non-virtual"><scope>crc643f46942d9dd1fff9::CellAdapter</scope><name>n_onDestroyActionMode</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_cell_adapter_1ae016621d40a058a96afdcced8499fadc" prot="private" virt="non-virtual"><scope>crc643f46942d9dd1fff9::CellAdapter</scope><name>n_onDestroyActionMode</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_cell_adapter_1ad28e7fea4cd9826e58c1fe3503674395" prot="private" virt="non-virtual"><scope>crc643f46942d9dd1fff9::CellAdapter</scope><name>n_onDestroyActionMode</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_cell_adapter_1a3004d7307dee07d3fc12e2b48a25fb53" prot="private" virt="non-virtual"><scope>crc643f46942d9dd1fff9::CellAdapter</scope><name>n_onItemClick</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_cell_adapter_1a3004d7307dee07d3fc12e2b48a25fb53" prot="private" virt="non-virtual"><scope>crc643f46942d9dd1fff9::CellAdapter</scope><name>n_onItemClick</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_cell_adapter_1a3004d7307dee07d3fc12e2b48a25fb53" prot="private" virt="non-virtual"><scope>crc643f46942d9dd1fff9::CellAdapter</scope><name>n_onItemClick</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_cell_adapter_1a3004d7307dee07d3fc12e2b48a25fb53" prot="private" virt="non-virtual"><scope>crc643f46942d9dd1fff9::CellAdapter</scope><name>n_onItemClick</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_cell_adapter_1af54a8c44b4d4888f79eb20d14cadebd8" prot="private" virt="non-virtual"><scope>crc643f46942d9dd1fff9::CellAdapter</scope><name>n_onItemLongClick</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_cell_adapter_1af54a8c44b4d4888f79eb20d14cadebd8" prot="private" virt="non-virtual"><scope>crc643f46942d9dd1fff9::CellAdapter</scope><name>n_onItemLongClick</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_cell_adapter_1af54a8c44b4d4888f79eb20d14cadebd8" prot="private" virt="non-virtual"><scope>crc643f46942d9dd1fff9::CellAdapter</scope><name>n_onItemLongClick</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_cell_adapter_1af54a8c44b4d4888f79eb20d14cadebd8" prot="private" virt="non-virtual"><scope>crc643f46942d9dd1fff9::CellAdapter</scope><name>n_onItemLongClick</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_cell_adapter_1a05c94d3326f6f8036a528b1076320ca9" prot="private" virt="non-virtual"><scope>crc643f46942d9dd1fff9::CellAdapter</scope><name>n_onPrepareActionMode</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_cell_adapter_1adc017264ee1b819b09c3fd0f88cf9b30" prot="private" virt="non-virtual"><scope>crc643f46942d9dd1fff9::CellAdapter</scope><name>n_onPrepareActionMode</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_cell_adapter_1a05c94d3326f6f8036a528b1076320ca9" prot="private" virt="non-virtual"><scope>crc643f46942d9dd1fff9::CellAdapter</scope><name>n_onPrepareActionMode</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_cell_adapter_1adc017264ee1b819b09c3fd0f88cf9b30" prot="private" virt="non-virtual"><scope>crc643f46942d9dd1fff9::CellAdapter</scope><name>n_onPrepareActionMode</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_cell_adapter_1a05c94d3326f6f8036a528b1076320ca9" prot="private" virt="non-virtual"><scope>crc643f46942d9dd1fff9::CellAdapter</scope><name>n_onPrepareActionMode</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_cell_adapter_1adc017264ee1b819b09c3fd0f88cf9b30" prot="private" virt="non-virtual"><scope>crc643f46942d9dd1fff9::CellAdapter</scope><name>n_onPrepareActionMode</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_cell_adapter_1a05c94d3326f6f8036a528b1076320ca9" prot="private" virt="non-virtual"><scope>crc643f46942d9dd1fff9::CellAdapter</scope><name>n_onPrepareActionMode</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_cell_adapter_1adc017264ee1b819b09c3fd0f88cf9b30" prot="private" virt="non-virtual"><scope>crc643f46942d9dd1fff9::CellAdapter</scope><name>n_onPrepareActionMode</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_cell_adapter_1a42a3cf750d35a257ba0e45f6ae3eacce" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::CellAdapter</scope><name>onActionItemClicked</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_cell_adapter_1a6199554a00fa5a719d33ae839234a85c" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::CellAdapter</scope><name>onActionItemClicked</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_cell_adapter_1a42a3cf750d35a257ba0e45f6ae3eacce" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::CellAdapter</scope><name>onActionItemClicked</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_cell_adapter_1a6199554a00fa5a719d33ae839234a85c" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::CellAdapter</scope><name>onActionItemClicked</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_cell_adapter_1a42a3cf750d35a257ba0e45f6ae3eacce" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::CellAdapter</scope><name>onActionItemClicked</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_cell_adapter_1a6199554a00fa5a719d33ae839234a85c" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::CellAdapter</scope><name>onActionItemClicked</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_cell_adapter_1a42a3cf750d35a257ba0e45f6ae3eacce" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::CellAdapter</scope><name>onActionItemClicked</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_cell_adapter_1a6199554a00fa5a719d33ae839234a85c" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::CellAdapter</scope><name>onActionItemClicked</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_cell_adapter_1aa83d019a9781c47b465bdeff61785d02" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::CellAdapter</scope><name>onCreateActionMode</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_cell_adapter_1a9d4956f3b21df112a31c670af914513f" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::CellAdapter</scope><name>onCreateActionMode</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_cell_adapter_1aa83d019a9781c47b465bdeff61785d02" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::CellAdapter</scope><name>onCreateActionMode</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_cell_adapter_1a9d4956f3b21df112a31c670af914513f" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::CellAdapter</scope><name>onCreateActionMode</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_cell_adapter_1aa83d019a9781c47b465bdeff61785d02" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::CellAdapter</scope><name>onCreateActionMode</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_cell_adapter_1a9d4956f3b21df112a31c670af914513f" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::CellAdapter</scope><name>onCreateActionMode</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_cell_adapter_1aa83d019a9781c47b465bdeff61785d02" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::CellAdapter</scope><name>onCreateActionMode</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_cell_adapter_1a9d4956f3b21df112a31c670af914513f" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::CellAdapter</scope><name>onCreateActionMode</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_cell_adapter_1a8da11ed9a2a8dfb6b5be6d88254ff4f3" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::CellAdapter</scope><name>onDestroyActionMode</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_cell_adapter_1a361eb5c64e22f5edba057656052ff6bd" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::CellAdapter</scope><name>onDestroyActionMode</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_cell_adapter_1a8da11ed9a2a8dfb6b5be6d88254ff4f3" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::CellAdapter</scope><name>onDestroyActionMode</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_cell_adapter_1a361eb5c64e22f5edba057656052ff6bd" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::CellAdapter</scope><name>onDestroyActionMode</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_cell_adapter_1a8da11ed9a2a8dfb6b5be6d88254ff4f3" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::CellAdapter</scope><name>onDestroyActionMode</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_cell_adapter_1a361eb5c64e22f5edba057656052ff6bd" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::CellAdapter</scope><name>onDestroyActionMode</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_cell_adapter_1a8da11ed9a2a8dfb6b5be6d88254ff4f3" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::CellAdapter</scope><name>onDestroyActionMode</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_cell_adapter_1a361eb5c64e22f5edba057656052ff6bd" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::CellAdapter</scope><name>onDestroyActionMode</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_cell_adapter_1a923d30a7abaa001045aac2a413a41314" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::CellAdapter</scope><name>onItemClick</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_cell_adapter_1a923d30a7abaa001045aac2a413a41314" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::CellAdapter</scope><name>onItemClick</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_cell_adapter_1a923d30a7abaa001045aac2a413a41314" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::CellAdapter</scope><name>onItemClick</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_cell_adapter_1a923d30a7abaa001045aac2a413a41314" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::CellAdapter</scope><name>onItemClick</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_cell_adapter_1a64507d27b09ffe29bcbeecabb00720f2" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::CellAdapter</scope><name>onItemLongClick</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_cell_adapter_1a64507d27b09ffe29bcbeecabb00720f2" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::CellAdapter</scope><name>onItemLongClick</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_cell_adapter_1a64507d27b09ffe29bcbeecabb00720f2" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::CellAdapter</scope><name>onItemLongClick</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_cell_adapter_1a64507d27b09ffe29bcbeecabb00720f2" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::CellAdapter</scope><name>onItemLongClick</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_cell_adapter_1aeeff43d6961ca2a41bf39af405ce8306" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::CellAdapter</scope><name>onPrepareActionMode</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_cell_adapter_1a8600f86930fd4ff5580ac24ced508427" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::CellAdapter</scope><name>onPrepareActionMode</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_cell_adapter_1aeeff43d6961ca2a41bf39af405ce8306" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::CellAdapter</scope><name>onPrepareActionMode</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_cell_adapter_1a8600f86930fd4ff5580ac24ced508427" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::CellAdapter</scope><name>onPrepareActionMode</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_cell_adapter_1aeeff43d6961ca2a41bf39af405ce8306" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::CellAdapter</scope><name>onPrepareActionMode</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_cell_adapter_1a8600f86930fd4ff5580ac24ced508427" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::CellAdapter</scope><name>onPrepareActionMode</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_cell_adapter_1aeeff43d6961ca2a41bf39af405ce8306" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::CellAdapter</scope><name>onPrepareActionMode</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_cell_adapter_1a8600f86930fd4ff5580ac24ced508427" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::CellAdapter</scope><name>onPrepareActionMode</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_cell_adapter_1a4041631e1a366bc6e8e159aedc276f28" prot="private" virt="non-virtual"><scope>crc643f46942d9dd1fff9::CellAdapter</scope><name>refList</name></member>
+    </listofallmembers>
+  </compounddef>
+</doxygen>

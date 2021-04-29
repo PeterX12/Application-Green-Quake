@@ -1,0 +1,154 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.9.1" xml:lang="en-US">
+  <compounddef id="class_application___green___quake_1_1_views_1_1_eco_actions_1_1_community_1_1_create_environmental_group" kind="class" language="C#" prot="public">
+    <compoundname>Application_Green_Quake::Views::EcoActions::Community::CreateEnvironmentalGroup</compoundname>
+    <basecompoundref prot="public" virt="non-virtual">global.XamarinForms.ContentPage</basecompoundref>
+    <basecompoundref prot="public" virt="non-virtual">global.XamarinForms.ContentPage</basecompoundref>
+    <basecompoundref prot="public" virt="non-virtual">ContentPage</basecompoundref>
+      <sectiondef kind="private-attrib">
+      <memberdef kind="variable" id="class_application___green___quake_1_1_views_1_1_eco_actions_1_1_community_1_1_create_environmental_group_1a78e60fa1d3c76f3fcf287c9e12ec62ac" prot="private" static="no" mutable="no">
+        <type>global::Xamarin.Forms.Label</type>
+        <definition>Xamarin Forms global::Label Application_Green_Quake.Views.EcoActions.Community.CreateEnvironmentalGroup::theLevel</definition>
+        <argsstring></argsstring>
+        <name>theLevel</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake/obj/Debug/netstandard2.0/Views/EcoActions/Community/CreateEnvironmentalGroup.xaml.g.cs" line="20" column="43" bodyfile="Application Green Quake/obj/Debug/netstandard2.0/Views/EcoActions/Community/CreateEnvironmentalGroup.xaml.g.cs" bodystart="20" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="private-func">
+      <memberdef kind="function" id="class_application___green___quake_1_1_views_1_1_eco_actions_1_1_community_1_1_create_environmental_group_1a4bdfc7c21ba2d2601e81dba7c343bda3" prot="private" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void Application_Green_Quake.Views.EcoActions.Community.CreateEnvironmentalGroup.InitializeComponent</definition>
+        <argsstring>()</argsstring>
+        <name>InitializeComponent</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake/obj/Debug/netstandard2.0/Views/EcoActions/Community/CreateEnvironmentalGroup.xaml.g.cs" line="23" column="22" bodyfile="Application Green Quake/obj/Debug/netstandard2.0/Views/EcoActions/Community/CreateEnvironmentalGroup.xaml.g.cs" bodystart="23" bodyend="26"/>
+      </memberdef>
+      <memberdef kind="function" id="class_application___green___quake_1_1_views_1_1_eco_actions_1_1_community_1_1_create_environmental_group_1a4bdfc7c21ba2d2601e81dba7c343bda3" prot="private" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void Application_Green_Quake.Views.EcoActions.Community.CreateEnvironmentalGroup.InitializeComponent</definition>
+        <argsstring>()</argsstring>
+        <name>InitializeComponent</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake/obj/Release/netstandard2.0/Views/EcoActions/Community/CreateEnvironmentalGroup.xaml.g.cs" line="23" column="22" bodyfile="Application Green Quake/obj/Release/netstandard2.0/Views/EcoActions/Community/CreateEnvironmentalGroup.xaml.g.cs" bodystart="23" bodyend="26"/>
+      </memberdef>
+      <memberdef kind="function" id="class_application___green___quake_1_1_views_1_1_eco_actions_1_1_community_1_1_create_environmental_group_1a15d9d112e4607ca945a7aafd4f5472f9" prot="private" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>async void</type>
+        <definition>async void Application_Green_Quake.Views.EcoActions.Community.CreateEnvironmentalGroup.AddPointsClicked</definition>
+        <argsstring>(object sender, EventArgs e)</argsstring>
+        <name>AddPointsClicked</name>
+        <param>
+          <type>object</type>
+          <declname>sender</declname>
+        </param>
+        <param>
+          <type>EventArgs</type>
+          <declname>e</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+<para>This function creates objects and calls their methods. First the security methods are called and if they return false call the points updating methods </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake/Views/EcoActions/Community/CreateEnvironmentalGroup.xaml.cs" line="29" column="28" bodyfile="Application Green Quake/Views/EcoActions/Community/CreateEnvironmentalGroup.xaml.cs" bodystart="29" bodyend="57"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="public-func">
+      <memberdef kind="function" id="class_application___green___quake_1_1_views_1_1_eco_actions_1_1_community_1_1_create_environmental_group_1a1bea9bfa4d1f1b23e6c1b9398e04301e" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>Application_Green_Quake.Views.EcoActions.Community.CreateEnvironmentalGroup.CreateEnvironmentalGroup</definition>
+        <argsstring>()</argsstring>
+        <name>CreateEnvironmentalGroup</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake/Views/EcoActions/Community/CreateEnvironmentalGroup.xaml.cs" line="21" column="16" bodyfile="Application Green Quake/Views/EcoActions/Community/CreateEnvironmentalGroup.xaml.cs" bodystart="21" bodyend="25"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="protected-func">
+      <memberdef kind="function" id="class_application___green___quake_1_1_views_1_1_eco_actions_1_1_community_1_1_create_environmental_group_1a73ce1a63857a22760e107e2d22c3d72a" prot="protected" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>override void</type>
+        <definition>override void Application_Green_Quake.Views.EcoActions.Community.CreateEnvironmentalGroup.OnAppearing</definition>
+        <argsstring>()</argsstring>
+        <name>OnAppearing</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+<para>This function is called before the page is displayed and it created an object ans uses it&apos;s SetLvl method to set the players level in the app and display it in the navigation bar. </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake/Views/EcoActions/Community/CreateEnvironmentalGroup.xaml.cs" line="61" column="33" bodyfile="Application Green Quake/Views/EcoActions/Community/CreateEnvironmentalGroup.xaml.cs" bodystart="61" bodyend="67"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <inheritancegraph>
+      <node id="3">
+        <label>ContentPage</label>
+      </node>
+      <node id="1">
+        <label>Application_Green_Quake.Views.EcoActions.Community.CreateEnvironmentalGroup</label>
+        <link refid="class_application___green___quake_1_1_views_1_1_eco_actions_1_1_community_1_1_create_environmental_group"/>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+        <childnode refid="3" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="2">
+        <label>global::XamarinForms::ContentPage</label>
+      </node>
+    </inheritancegraph>
+    <collaborationgraph>
+      <node id="3">
+        <label>ContentPage</label>
+      </node>
+      <node id="1">
+        <label>Application_Green_Quake.Views.EcoActions.Community.CreateEnvironmentalGroup</label>
+        <link refid="class_application___green___quake_1_1_views_1_1_eco_actions_1_1_community_1_1_create_environmental_group"/>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+        <childnode refid="3" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="2">
+        <label>global::XamarinForms::ContentPage</label>
+      </node>
+    </collaborationgraph>
+    <location file="Application Green Quake/obj/Debug/netstandard2.0/Views/EcoActions/Community/CreateEnvironmentalGroup.xaml.g.cs" line="17" column="19" bodyfile="Application Green Quake/obj/Debug/netstandard2.0/Views/EcoActions/Community/CreateEnvironmentalGroup.xaml.g.cs" bodystart="17" bodyend="27"/>
+    <listofallmembers>
+      <member refid="class_application___green___quake_1_1_views_1_1_eco_actions_1_1_community_1_1_create_environmental_group_1a15d9d112e4607ca945a7aafd4f5472f9" prot="private" virt="non-virtual"><scope>Application_Green_Quake::Views::EcoActions::Community::CreateEnvironmentalGroup</scope><name>AddPointsClicked</name></member>
+      <member refid="class_application___green___quake_1_1_views_1_1_eco_actions_1_1_community_1_1_create_environmental_group_1a1bea9bfa4d1f1b23e6c1b9398e04301e" prot="public" virt="non-virtual"><scope>Application_Green_Quake::Views::EcoActions::Community::CreateEnvironmentalGroup</scope><name>CreateEnvironmentalGroup</name></member>
+      <member refid="class_application___green___quake_1_1_views_1_1_eco_actions_1_1_community_1_1_create_environmental_group_1a4bdfc7c21ba2d2601e81dba7c343bda3" prot="private" virt="non-virtual"><scope>Application_Green_Quake::Views::EcoActions::Community::CreateEnvironmentalGroup</scope><name>InitializeComponent</name></member>
+      <member refid="class_application___green___quake_1_1_views_1_1_eco_actions_1_1_community_1_1_create_environmental_group_1a4bdfc7c21ba2d2601e81dba7c343bda3" prot="private" virt="non-virtual"><scope>Application_Green_Quake::Views::EcoActions::Community::CreateEnvironmentalGroup</scope><name>InitializeComponent</name></member>
+      <member refid="class_application___green___quake_1_1_views_1_1_eco_actions_1_1_community_1_1_create_environmental_group_1a73ce1a63857a22760e107e2d22c3d72a" prot="protected" virt="non-virtual"><scope>Application_Green_Quake::Views::EcoActions::Community::CreateEnvironmentalGroup</scope><name>OnAppearing</name></member>
+      <member refid="class_application___green___quake_1_1_views_1_1_eco_actions_1_1_community_1_1_create_environmental_group_1a78e60fa1d3c76f3fcf287c9e12ec62ac" prot="private" virt="non-virtual"><scope>Application_Green_Quake::Views::EcoActions::Community::CreateEnvironmentalGroup</scope><name>theLevel</name></member>
+    </listofallmembers>
+  </compounddef>
+</doxygen>

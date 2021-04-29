@@ -1,0 +1,12 @@
+var dir_85cfc5845681a1f8949e10005c23b052 =
+[
+    [ "BackgroundDetector_BackgroundStateChangeListenerImplementor.java", "_debug_2110_2android_2src_2mono_2com_2google_2android_2gms_2common_2api_2internal_2_background_d74019ce9933eaa990367f34fbec92371.html", [
+      [ "BackgroundDetector_BackgroundStateChangeListenerImplementor", "classmono_1_1com_1_1google_1_1android_1_1gms_1_1common_1_1api_1_1internal_1_1_background_detecto64da446698e97cb6a400d9d5c4677c5c.html", "classmono_1_1com_1_1google_1_1android_1_1gms_1_1common_1_1api_1_1internal_1_1_background_detecto64da446698e97cb6a400d9d5c4677c5c" ]
+    ] ],
+    [ "OnConnectionFailedListenerImplementor.java", "_debug_2110_2android_2src_2mono_2com_2google_2android_2gms_2common_2api_2internal_2_on_connectioe4dd453651a270365c367285b992bfe9.html", [
+      [ "OnConnectionFailedListenerImplementor", "classmono_1_1com_1_1google_1_1android_1_1gms_1_1common_1_1api_1_1internal_1_1_on_connection_failed_listener_implementor.html", "classmono_1_1com_1_1google_1_1android_1_1gms_1_1common_1_1api_1_1internal_1_1_on_connection_failed_listener_implementor" ]
+    ] ],
+    [ "SignInConnectionListenerImplementor.java", "_debug_2110_2android_2src_2mono_2com_2google_2android_2gms_2common_2api_2internal_2_sign_in_conn250971531dff3bd8449120e2a5af6516.html", [
+      [ "SignInConnectionListenerImplementor", "classmono_1_1com_1_1google_1_1android_1_1gms_1_1common_1_1api_1_1internal_1_1_sign_in_connection_listener_implementor.html", "classmono_1_1com_1_1google_1_1android_1_1gms_1_1common_1_1api_1_1internal_1_1_sign_in_connection_listener_implementor" ]
+    ] ]
+];

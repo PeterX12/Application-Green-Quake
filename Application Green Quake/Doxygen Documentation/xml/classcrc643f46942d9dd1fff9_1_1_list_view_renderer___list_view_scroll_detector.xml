@@ -1,0 +1,876 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.9.1" xml:lang="en-US">
+  <compounddef id="classcrc643f46942d9dd1fff9_1_1_list_view_renderer___list_view_scroll_detector" kind="class" language="Java" prot="public">
+    <compoundname>crc643f46942d9dd1fff9::ListViewRenderer_ListViewScrollDetector</compoundname>
+    <basecompoundref prot="public" virt="non-virtual">java.lang.Object</basecompoundref>
+    <basecompoundref prot="public" virt="non-virtual">mono.android.IGCUserPeer</basecompoundref>
+    <basecompoundref prot="public" virt="non-virtual">android.widget.AbsListView.OnScrollListener</basecompoundref>
+    <basecompoundref prot="public" virt="non-virtual">java.lang.Object</basecompoundref>
+    <basecompoundref prot="public" virt="non-virtual">mono.android.IGCUserPeer</basecompoundref>
+    <basecompoundref prot="public" virt="non-virtual">android.widget.AbsListView.OnScrollListener</basecompoundref>
+    <basecompoundref prot="public" virt="non-virtual">java.lang.Object</basecompoundref>
+    <basecompoundref prot="public" virt="non-virtual">mono.android.IGCUserPeer</basecompoundref>
+    <basecompoundref prot="public" virt="non-virtual">android.widget.AbsListView.OnScrollListener</basecompoundref>
+    <basecompoundref prot="public" virt="non-virtual">java.lang.Object</basecompoundref>
+    <basecompoundref prot="public" virt="non-virtual">mono.android.IGCUserPeer</basecompoundref>
+    <basecompoundref prot="public" virt="non-virtual">android.widget.AbsListView.OnScrollListener</basecompoundref>
+      <sectiondef kind="public-static-attrib">
+      <memberdef kind="variable" id="classcrc643f46942d9dd1fff9_1_1_list_view_renderer___list_view_scroll_detector_1ae9a520936f035bd0b696ce54ddc4c756" prot="public" static="yes" mutable="no">
+        <type>final String</type>
+        <definition>static final String crc643f46942d9dd1fff9.ListViewRenderer_ListViewScrollDetector::__md_methods</definition>
+        <argsstring></argsstring>
+        <name>__md_methods</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+<para>@hide </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/100/android/src/crc643f46942d9dd1fff9/ListViewRenderer_ListViewScrollDetector.java" line="11" column="28" bodyfile="Application Green Quake.Android/obj/Debug/100/android/src/crc643f46942d9dd1fff9/ListViewRenderer_ListViewScrollDetector.java" bodystart="11" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="private-attrib">
+      <memberdef kind="variable" id="classcrc643f46942d9dd1fff9_1_1_list_view_renderer___list_view_scroll_detector_1a95681cd648775c4631fd4e397027aa81" prot="private" static="no" mutable="no">
+        <type>java.util.ArrayList</type>
+        <definition>java util ArrayList crc643f46942d9dd1fff9.ListViewRenderer_ListViewScrollDetector::refList</definition>
+        <argsstring></argsstring>
+        <name>refList</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/100/android/src/crc643f46942d9dd1fff9/ListViewRenderer_ListViewScrollDetector.java" line="51" column="27" bodyfile="Application Green Quake.Android/obj/Debug/100/android/src/crc643f46942d9dd1fff9/ListViewRenderer_ListViewScrollDetector.java" bodystart="51" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="package-static-func">
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_list_view_renderer___list_view_scroll_detector_1a6c11bb130ece2b9930403d29a20e7d75" prot="package" static="yes" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>crc643f46942d9dd1fff9.ListViewRenderer_ListViewScrollDetector.[static initializer]</definition>
+        <argsstring></argsstring>
+        <name>[static initializer]</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/100/android/src/crc643f46942d9dd1fff9/ListViewRenderer_ListViewScrollDetector.java" line="11" column="28"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_list_view_renderer___list_view_scroll_detector_1a6c11bb130ece2b9930403d29a20e7d75" prot="package" static="yes" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>crc643f46942d9dd1fff9.ListViewRenderer_ListViewScrollDetector.[static initializer]</definition>
+        <argsstring></argsstring>
+        <name>[static initializer]</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/110/android/src/crc643f46942d9dd1fff9/ListViewRenderer_ListViewScrollDetector.java" line="11" column="28"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_list_view_renderer___list_view_scroll_detector_1a6c11bb130ece2b9930403d29a20e7d75" prot="package" static="yes" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>crc643f46942d9dd1fff9.ListViewRenderer_ListViewScrollDetector.[static initializer]</definition>
+        <argsstring></argsstring>
+        <name>[static initializer]</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/100/android/src/crc643f46942d9dd1fff9/ListViewRenderer_ListViewScrollDetector.java" line="11" column="28"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_list_view_renderer___list_view_scroll_detector_1a6c11bb130ece2b9930403d29a20e7d75" prot="package" static="yes" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>crc643f46942d9dd1fff9.ListViewRenderer_ListViewScrollDetector.[static initializer]</definition>
+        <argsstring></argsstring>
+        <name>[static initializer]</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/110/android/src/crc643f46942d9dd1fff9/ListViewRenderer_ListViewScrollDetector.java" line="11" column="28"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="public-func">
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_list_view_renderer___list_view_scroll_detector_1a8053840e54049fb27434e5c632c27263" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>crc643f46942d9dd1fff9.ListViewRenderer_ListViewScrollDetector.ListViewRenderer_ListViewScrollDetector</definition>
+        <argsstring>()</argsstring>
+        <name>ListViewRenderer_ListViewScrollDetector</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/100/android/src/crc643f46942d9dd1fff9/ListViewRenderer_ListViewScrollDetector.java" line="21" column="8" bodyfile="Application Green Quake.Android/obj/Debug/100/android/src/crc643f46942d9dd1fff9/ListViewRenderer_ListViewScrollDetector.java" bodystart="21" bodyend="26"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_list_view_renderer___list_view_scroll_detector_1a27d702c8ff7e1f0a5cd94aceec2fc608" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>crc643f46942d9dd1fff9.ListViewRenderer_ListViewScrollDetector.ListViewRenderer_ListViewScrollDetector</definition>
+        <argsstring>(crc643f46942d9dd1fff9.ListViewRenderer p0)</argsstring>
+        <name>ListViewRenderer_ListViewScrollDetector</name>
+        <param>
+          <type><ref refid="classcrc643f46942d9dd1fff9_1_1_list_view_renderer" kindref="compound">crc643f46942d9dd1fff9.ListViewRenderer</ref></type>
+          <declname>p0</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/100/android/src/crc643f46942d9dd1fff9/ListViewRenderer_ListViewScrollDetector.java" line="28" column="8" bodyfile="Application Green Quake.Android/obj/Debug/100/android/src/crc643f46942d9dd1fff9/ListViewRenderer_ListViewScrollDetector.java" bodystart="28" bodyend="33"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_list_view_renderer___list_view_scroll_detector_1a19e1284269d1aba156b42705166a5e07" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void crc643f46942d9dd1fff9.ListViewRenderer_ListViewScrollDetector.onScroll</definition>
+        <argsstring>(android.widget.AbsListView p0, int p1, int p2, int p3)</argsstring>
+        <name>onScroll</name>
+        <param>
+          <type>android.widget.AbsListView</type>
+          <declname>p0</declname>
+        </param>
+        <param>
+          <type>int</type>
+          <declname>p1</declname>
+        </param>
+        <param>
+          <type>int</type>
+          <declname>p2</declname>
+        </param>
+        <param>
+          <type>int</type>
+          <declname>p3</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/100/android/src/crc643f46942d9dd1fff9/ListViewRenderer_ListViewScrollDetector.java" line="36" column="13" bodyfile="Application Green Quake.Android/obj/Debug/100/android/src/crc643f46942d9dd1fff9/ListViewRenderer_ListViewScrollDetector.java" bodystart="36" bodyend="39"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_list_view_renderer___list_view_scroll_detector_1aecd287d082a9b843be940b7a44e0b792" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void crc643f46942d9dd1fff9.ListViewRenderer_ListViewScrollDetector.onScrollStateChanged</definition>
+        <argsstring>(android.widget.AbsListView p0, int p1)</argsstring>
+        <name>onScrollStateChanged</name>
+        <param>
+          <type>android.widget.AbsListView</type>
+          <declname>p0</declname>
+        </param>
+        <param>
+          <type>int</type>
+          <declname>p1</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/100/android/src/crc643f46942d9dd1fff9/ListViewRenderer_ListViewScrollDetector.java" line="44" column="13" bodyfile="Application Green Quake.Android/obj/Debug/100/android/src/crc643f46942d9dd1fff9/ListViewRenderer_ListViewScrollDetector.java" bodystart="44" bodyend="47"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_list_view_renderer___list_view_scroll_detector_1a3a2dc2eb79602607b757d7964c3f9f54" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void crc643f46942d9dd1fff9.ListViewRenderer_ListViewScrollDetector.monodroidAddReference</definition>
+        <argsstring>(java.lang.Object obj)</argsstring>
+        <name>monodroidAddReference</name>
+        <param>
+          <type>java.lang.Object</type>
+          <declname>obj</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/100/android/src/crc643f46942d9dd1fff9/ListViewRenderer_ListViewScrollDetector.java" line="52" column="13" bodyfile="Application Green Quake.Android/obj/Debug/100/android/src/crc643f46942d9dd1fff9/ListViewRenderer_ListViewScrollDetector.java" bodystart="52" bodyend="57"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_list_view_renderer___list_view_scroll_detector_1a8a7b53e98afcd3b3de7f58484fb5a08c" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void crc643f46942d9dd1fff9.ListViewRenderer_ListViewScrollDetector.monodroidClearReferences</definition>
+        <argsstring>()</argsstring>
+        <name>monodroidClearReferences</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/100/android/src/crc643f46942d9dd1fff9/ListViewRenderer_ListViewScrollDetector.java" line="59" column="13" bodyfile="Application Green Quake.Android/obj/Debug/100/android/src/crc643f46942d9dd1fff9/ListViewRenderer_ListViewScrollDetector.java" bodystart="59" bodyend="63"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_list_view_renderer___list_view_scroll_detector_1a8053840e54049fb27434e5c632c27263" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>crc643f46942d9dd1fff9.ListViewRenderer_ListViewScrollDetector.ListViewRenderer_ListViewScrollDetector</definition>
+        <argsstring>()</argsstring>
+        <name>ListViewRenderer_ListViewScrollDetector</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/110/android/src/crc643f46942d9dd1fff9/ListViewRenderer_ListViewScrollDetector.java" line="21" column="8" bodyfile="Application Green Quake.Android/obj/Debug/110/android/src/crc643f46942d9dd1fff9/ListViewRenderer_ListViewScrollDetector.java" bodystart="21" bodyend="26"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_list_view_renderer___list_view_scroll_detector_1a27d702c8ff7e1f0a5cd94aceec2fc608" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>crc643f46942d9dd1fff9.ListViewRenderer_ListViewScrollDetector.ListViewRenderer_ListViewScrollDetector</definition>
+        <argsstring>(crc643f46942d9dd1fff9.ListViewRenderer p0)</argsstring>
+        <name>ListViewRenderer_ListViewScrollDetector</name>
+        <param>
+          <type><ref refid="classcrc643f46942d9dd1fff9_1_1_list_view_renderer" kindref="compound">crc643f46942d9dd1fff9.ListViewRenderer</ref></type>
+          <declname>p0</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/110/android/src/crc643f46942d9dd1fff9/ListViewRenderer_ListViewScrollDetector.java" line="28" column="8" bodyfile="Application Green Quake.Android/obj/Debug/110/android/src/crc643f46942d9dd1fff9/ListViewRenderer_ListViewScrollDetector.java" bodystart="28" bodyend="33"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_list_view_renderer___list_view_scroll_detector_1a19e1284269d1aba156b42705166a5e07" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void crc643f46942d9dd1fff9.ListViewRenderer_ListViewScrollDetector.onScroll</definition>
+        <argsstring>(android.widget.AbsListView p0, int p1, int p2, int p3)</argsstring>
+        <name>onScroll</name>
+        <param>
+          <type>android.widget.AbsListView</type>
+          <declname>p0</declname>
+        </param>
+        <param>
+          <type>int</type>
+          <declname>p1</declname>
+        </param>
+        <param>
+          <type>int</type>
+          <declname>p2</declname>
+        </param>
+        <param>
+          <type>int</type>
+          <declname>p3</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/110/android/src/crc643f46942d9dd1fff9/ListViewRenderer_ListViewScrollDetector.java" line="36" column="13" bodyfile="Application Green Quake.Android/obj/Debug/110/android/src/crc643f46942d9dd1fff9/ListViewRenderer_ListViewScrollDetector.java" bodystart="36" bodyend="39"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_list_view_renderer___list_view_scroll_detector_1aecd287d082a9b843be940b7a44e0b792" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void crc643f46942d9dd1fff9.ListViewRenderer_ListViewScrollDetector.onScrollStateChanged</definition>
+        <argsstring>(android.widget.AbsListView p0, int p1)</argsstring>
+        <name>onScrollStateChanged</name>
+        <param>
+          <type>android.widget.AbsListView</type>
+          <declname>p0</declname>
+        </param>
+        <param>
+          <type>int</type>
+          <declname>p1</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/110/android/src/crc643f46942d9dd1fff9/ListViewRenderer_ListViewScrollDetector.java" line="44" column="13" bodyfile="Application Green Quake.Android/obj/Debug/110/android/src/crc643f46942d9dd1fff9/ListViewRenderer_ListViewScrollDetector.java" bodystart="44" bodyend="47"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_list_view_renderer___list_view_scroll_detector_1a3a2dc2eb79602607b757d7964c3f9f54" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void crc643f46942d9dd1fff9.ListViewRenderer_ListViewScrollDetector.monodroidAddReference</definition>
+        <argsstring>(java.lang.Object obj)</argsstring>
+        <name>monodroidAddReference</name>
+        <param>
+          <type>java.lang.Object</type>
+          <declname>obj</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/110/android/src/crc643f46942d9dd1fff9/ListViewRenderer_ListViewScrollDetector.java" line="52" column="13" bodyfile="Application Green Quake.Android/obj/Debug/110/android/src/crc643f46942d9dd1fff9/ListViewRenderer_ListViewScrollDetector.java" bodystart="52" bodyend="57"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_list_view_renderer___list_view_scroll_detector_1a8a7b53e98afcd3b3de7f58484fb5a08c" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void crc643f46942d9dd1fff9.ListViewRenderer_ListViewScrollDetector.monodroidClearReferences</definition>
+        <argsstring>()</argsstring>
+        <name>monodroidClearReferences</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/110/android/src/crc643f46942d9dd1fff9/ListViewRenderer_ListViewScrollDetector.java" line="59" column="13" bodyfile="Application Green Quake.Android/obj/Debug/110/android/src/crc643f46942d9dd1fff9/ListViewRenderer_ListViewScrollDetector.java" bodystart="59" bodyend="63"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_list_view_renderer___list_view_scroll_detector_1a8053840e54049fb27434e5c632c27263" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>crc643f46942d9dd1fff9.ListViewRenderer_ListViewScrollDetector.ListViewRenderer_ListViewScrollDetector</definition>
+        <argsstring>()</argsstring>
+        <name>ListViewRenderer_ListViewScrollDetector</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/100/android/src/crc643f46942d9dd1fff9/ListViewRenderer_ListViewScrollDetector.java" line="21" column="8" bodyfile="Application Green Quake.Android/obj/Release/100/android/src/crc643f46942d9dd1fff9/ListViewRenderer_ListViewScrollDetector.java" bodystart="21" bodyend="26"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_list_view_renderer___list_view_scroll_detector_1a27d702c8ff7e1f0a5cd94aceec2fc608" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>crc643f46942d9dd1fff9.ListViewRenderer_ListViewScrollDetector.ListViewRenderer_ListViewScrollDetector</definition>
+        <argsstring>(crc643f46942d9dd1fff9.ListViewRenderer p0)</argsstring>
+        <name>ListViewRenderer_ListViewScrollDetector</name>
+        <param>
+          <type><ref refid="classcrc643f46942d9dd1fff9_1_1_list_view_renderer" kindref="compound">crc643f46942d9dd1fff9.ListViewRenderer</ref></type>
+          <declname>p0</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/100/android/src/crc643f46942d9dd1fff9/ListViewRenderer_ListViewScrollDetector.java" line="28" column="8" bodyfile="Application Green Quake.Android/obj/Release/100/android/src/crc643f46942d9dd1fff9/ListViewRenderer_ListViewScrollDetector.java" bodystart="28" bodyend="33"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_list_view_renderer___list_view_scroll_detector_1a19e1284269d1aba156b42705166a5e07" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void crc643f46942d9dd1fff9.ListViewRenderer_ListViewScrollDetector.onScroll</definition>
+        <argsstring>(android.widget.AbsListView p0, int p1, int p2, int p3)</argsstring>
+        <name>onScroll</name>
+        <param>
+          <type>android.widget.AbsListView</type>
+          <declname>p0</declname>
+        </param>
+        <param>
+          <type>int</type>
+          <declname>p1</declname>
+        </param>
+        <param>
+          <type>int</type>
+          <declname>p2</declname>
+        </param>
+        <param>
+          <type>int</type>
+          <declname>p3</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/100/android/src/crc643f46942d9dd1fff9/ListViewRenderer_ListViewScrollDetector.java" line="36" column="13" bodyfile="Application Green Quake.Android/obj/Release/100/android/src/crc643f46942d9dd1fff9/ListViewRenderer_ListViewScrollDetector.java" bodystart="36" bodyend="39"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_list_view_renderer___list_view_scroll_detector_1aecd287d082a9b843be940b7a44e0b792" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void crc643f46942d9dd1fff9.ListViewRenderer_ListViewScrollDetector.onScrollStateChanged</definition>
+        <argsstring>(android.widget.AbsListView p0, int p1)</argsstring>
+        <name>onScrollStateChanged</name>
+        <param>
+          <type>android.widget.AbsListView</type>
+          <declname>p0</declname>
+        </param>
+        <param>
+          <type>int</type>
+          <declname>p1</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/100/android/src/crc643f46942d9dd1fff9/ListViewRenderer_ListViewScrollDetector.java" line="44" column="13" bodyfile="Application Green Quake.Android/obj/Release/100/android/src/crc643f46942d9dd1fff9/ListViewRenderer_ListViewScrollDetector.java" bodystart="44" bodyend="47"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_list_view_renderer___list_view_scroll_detector_1a3a2dc2eb79602607b757d7964c3f9f54" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void crc643f46942d9dd1fff9.ListViewRenderer_ListViewScrollDetector.monodroidAddReference</definition>
+        <argsstring>(java.lang.Object obj)</argsstring>
+        <name>monodroidAddReference</name>
+        <param>
+          <type>java.lang.Object</type>
+          <declname>obj</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/100/android/src/crc643f46942d9dd1fff9/ListViewRenderer_ListViewScrollDetector.java" line="52" column="13" bodyfile="Application Green Quake.Android/obj/Release/100/android/src/crc643f46942d9dd1fff9/ListViewRenderer_ListViewScrollDetector.java" bodystart="52" bodyend="57"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_list_view_renderer___list_view_scroll_detector_1a8a7b53e98afcd3b3de7f58484fb5a08c" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void crc643f46942d9dd1fff9.ListViewRenderer_ListViewScrollDetector.monodroidClearReferences</definition>
+        <argsstring>()</argsstring>
+        <name>monodroidClearReferences</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/100/android/src/crc643f46942d9dd1fff9/ListViewRenderer_ListViewScrollDetector.java" line="59" column="13" bodyfile="Application Green Quake.Android/obj/Release/100/android/src/crc643f46942d9dd1fff9/ListViewRenderer_ListViewScrollDetector.java" bodystart="59" bodyend="63"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_list_view_renderer___list_view_scroll_detector_1a8053840e54049fb27434e5c632c27263" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>crc643f46942d9dd1fff9.ListViewRenderer_ListViewScrollDetector.ListViewRenderer_ListViewScrollDetector</definition>
+        <argsstring>()</argsstring>
+        <name>ListViewRenderer_ListViewScrollDetector</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/110/android/src/crc643f46942d9dd1fff9/ListViewRenderer_ListViewScrollDetector.java" line="21" column="8" bodyfile="Application Green Quake.Android/obj/Release/110/android/src/crc643f46942d9dd1fff9/ListViewRenderer_ListViewScrollDetector.java" bodystart="21" bodyend="26"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_list_view_renderer___list_view_scroll_detector_1a27d702c8ff7e1f0a5cd94aceec2fc608" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>crc643f46942d9dd1fff9.ListViewRenderer_ListViewScrollDetector.ListViewRenderer_ListViewScrollDetector</definition>
+        <argsstring>(crc643f46942d9dd1fff9.ListViewRenderer p0)</argsstring>
+        <name>ListViewRenderer_ListViewScrollDetector</name>
+        <param>
+          <type><ref refid="classcrc643f46942d9dd1fff9_1_1_list_view_renderer" kindref="compound">crc643f46942d9dd1fff9.ListViewRenderer</ref></type>
+          <declname>p0</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/110/android/src/crc643f46942d9dd1fff9/ListViewRenderer_ListViewScrollDetector.java" line="28" column="8" bodyfile="Application Green Quake.Android/obj/Release/110/android/src/crc643f46942d9dd1fff9/ListViewRenderer_ListViewScrollDetector.java" bodystart="28" bodyend="33"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_list_view_renderer___list_view_scroll_detector_1a19e1284269d1aba156b42705166a5e07" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void crc643f46942d9dd1fff9.ListViewRenderer_ListViewScrollDetector.onScroll</definition>
+        <argsstring>(android.widget.AbsListView p0, int p1, int p2, int p3)</argsstring>
+        <name>onScroll</name>
+        <param>
+          <type>android.widget.AbsListView</type>
+          <declname>p0</declname>
+        </param>
+        <param>
+          <type>int</type>
+          <declname>p1</declname>
+        </param>
+        <param>
+          <type>int</type>
+          <declname>p2</declname>
+        </param>
+        <param>
+          <type>int</type>
+          <declname>p3</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/110/android/src/crc643f46942d9dd1fff9/ListViewRenderer_ListViewScrollDetector.java" line="36" column="13" bodyfile="Application Green Quake.Android/obj/Release/110/android/src/crc643f46942d9dd1fff9/ListViewRenderer_ListViewScrollDetector.java" bodystart="36" bodyend="39"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_list_view_renderer___list_view_scroll_detector_1aecd287d082a9b843be940b7a44e0b792" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void crc643f46942d9dd1fff9.ListViewRenderer_ListViewScrollDetector.onScrollStateChanged</definition>
+        <argsstring>(android.widget.AbsListView p0, int p1)</argsstring>
+        <name>onScrollStateChanged</name>
+        <param>
+          <type>android.widget.AbsListView</type>
+          <declname>p0</declname>
+        </param>
+        <param>
+          <type>int</type>
+          <declname>p1</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/110/android/src/crc643f46942d9dd1fff9/ListViewRenderer_ListViewScrollDetector.java" line="44" column="13" bodyfile="Application Green Quake.Android/obj/Release/110/android/src/crc643f46942d9dd1fff9/ListViewRenderer_ListViewScrollDetector.java" bodystart="44" bodyend="47"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_list_view_renderer___list_view_scroll_detector_1a3a2dc2eb79602607b757d7964c3f9f54" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void crc643f46942d9dd1fff9.ListViewRenderer_ListViewScrollDetector.monodroidAddReference</definition>
+        <argsstring>(java.lang.Object obj)</argsstring>
+        <name>monodroidAddReference</name>
+        <param>
+          <type>java.lang.Object</type>
+          <declname>obj</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/110/android/src/crc643f46942d9dd1fff9/ListViewRenderer_ListViewScrollDetector.java" line="52" column="13" bodyfile="Application Green Quake.Android/obj/Release/110/android/src/crc643f46942d9dd1fff9/ListViewRenderer_ListViewScrollDetector.java" bodystart="52" bodyend="57"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_list_view_renderer___list_view_scroll_detector_1a8a7b53e98afcd3b3de7f58484fb5a08c" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void crc643f46942d9dd1fff9.ListViewRenderer_ListViewScrollDetector.monodroidClearReferences</definition>
+        <argsstring>()</argsstring>
+        <name>monodroidClearReferences</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/110/android/src/crc643f46942d9dd1fff9/ListViewRenderer_ListViewScrollDetector.java" line="59" column="13" bodyfile="Application Green Quake.Android/obj/Release/110/android/src/crc643f46942d9dd1fff9/ListViewRenderer_ListViewScrollDetector.java" bodystart="59" bodyend="63"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="private-func">
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_list_view_renderer___list_view_scroll_detector_1abd19e3664799121fbe4b60fc7e47a3ba" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>native void</type>
+        <definition>native void crc643f46942d9dd1fff9.ListViewRenderer_ListViewScrollDetector.n_onScroll</definition>
+        <argsstring>(android.widget.AbsListView p0, int p1, int p2, int p3)</argsstring>
+        <name>n_onScroll</name>
+        <param>
+          <type>android.widget.AbsListView</type>
+          <declname>p0</declname>
+        </param>
+        <param>
+          <type>int</type>
+          <declname>p1</declname>
+        </param>
+        <param>
+          <type>int</type>
+          <declname>p2</declname>
+        </param>
+        <param>
+          <type>int</type>
+          <declname>p3</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/100/android/src/crc643f46942d9dd1fff9/ListViewRenderer_ListViewScrollDetector.java" line="41" column="21"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_list_view_renderer___list_view_scroll_detector_1a05d52d1cbea65b5b7c193005e809d7fe" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>native void</type>
+        <definition>native void crc643f46942d9dd1fff9.ListViewRenderer_ListViewScrollDetector.n_onScrollStateChanged</definition>
+        <argsstring>(android.widget.AbsListView p0, int p1)</argsstring>
+        <name>n_onScrollStateChanged</name>
+        <param>
+          <type>android.widget.AbsListView</type>
+          <declname>p0</declname>
+        </param>
+        <param>
+          <type>int</type>
+          <declname>p1</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/100/android/src/crc643f46942d9dd1fff9/ListViewRenderer_ListViewScrollDetector.java" line="49" column="21"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_list_view_renderer___list_view_scroll_detector_1abd19e3664799121fbe4b60fc7e47a3ba" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>native void</type>
+        <definition>native void crc643f46942d9dd1fff9.ListViewRenderer_ListViewScrollDetector.n_onScroll</definition>
+        <argsstring>(android.widget.AbsListView p0, int p1, int p2, int p3)</argsstring>
+        <name>n_onScroll</name>
+        <param>
+          <type>android.widget.AbsListView</type>
+          <declname>p0</declname>
+        </param>
+        <param>
+          <type>int</type>
+          <declname>p1</declname>
+        </param>
+        <param>
+          <type>int</type>
+          <declname>p2</declname>
+        </param>
+        <param>
+          <type>int</type>
+          <declname>p3</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/110/android/src/crc643f46942d9dd1fff9/ListViewRenderer_ListViewScrollDetector.java" line="41" column="21"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_list_view_renderer___list_view_scroll_detector_1a05d52d1cbea65b5b7c193005e809d7fe" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>native void</type>
+        <definition>native void crc643f46942d9dd1fff9.ListViewRenderer_ListViewScrollDetector.n_onScrollStateChanged</definition>
+        <argsstring>(android.widget.AbsListView p0, int p1)</argsstring>
+        <name>n_onScrollStateChanged</name>
+        <param>
+          <type>android.widget.AbsListView</type>
+          <declname>p0</declname>
+        </param>
+        <param>
+          <type>int</type>
+          <declname>p1</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/110/android/src/crc643f46942d9dd1fff9/ListViewRenderer_ListViewScrollDetector.java" line="49" column="21"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_list_view_renderer___list_view_scroll_detector_1abd19e3664799121fbe4b60fc7e47a3ba" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>native void</type>
+        <definition>native void crc643f46942d9dd1fff9.ListViewRenderer_ListViewScrollDetector.n_onScroll</definition>
+        <argsstring>(android.widget.AbsListView p0, int p1, int p2, int p3)</argsstring>
+        <name>n_onScroll</name>
+        <param>
+          <type>android.widget.AbsListView</type>
+          <declname>p0</declname>
+        </param>
+        <param>
+          <type>int</type>
+          <declname>p1</declname>
+        </param>
+        <param>
+          <type>int</type>
+          <declname>p2</declname>
+        </param>
+        <param>
+          <type>int</type>
+          <declname>p3</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/100/android/src/crc643f46942d9dd1fff9/ListViewRenderer_ListViewScrollDetector.java" line="41" column="21"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_list_view_renderer___list_view_scroll_detector_1a05d52d1cbea65b5b7c193005e809d7fe" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>native void</type>
+        <definition>native void crc643f46942d9dd1fff9.ListViewRenderer_ListViewScrollDetector.n_onScrollStateChanged</definition>
+        <argsstring>(android.widget.AbsListView p0, int p1)</argsstring>
+        <name>n_onScrollStateChanged</name>
+        <param>
+          <type>android.widget.AbsListView</type>
+          <declname>p0</declname>
+        </param>
+        <param>
+          <type>int</type>
+          <declname>p1</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/100/android/src/crc643f46942d9dd1fff9/ListViewRenderer_ListViewScrollDetector.java" line="49" column="21"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_list_view_renderer___list_view_scroll_detector_1abd19e3664799121fbe4b60fc7e47a3ba" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>native void</type>
+        <definition>native void crc643f46942d9dd1fff9.ListViewRenderer_ListViewScrollDetector.n_onScroll</definition>
+        <argsstring>(android.widget.AbsListView p0, int p1, int p2, int p3)</argsstring>
+        <name>n_onScroll</name>
+        <param>
+          <type>android.widget.AbsListView</type>
+          <declname>p0</declname>
+        </param>
+        <param>
+          <type>int</type>
+          <declname>p1</declname>
+        </param>
+        <param>
+          <type>int</type>
+          <declname>p2</declname>
+        </param>
+        <param>
+          <type>int</type>
+          <declname>p3</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/110/android/src/crc643f46942d9dd1fff9/ListViewRenderer_ListViewScrollDetector.java" line="41" column="21"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_list_view_renderer___list_view_scroll_detector_1a05d52d1cbea65b5b7c193005e809d7fe" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>native void</type>
+        <definition>native void crc643f46942d9dd1fff9.ListViewRenderer_ListViewScrollDetector.n_onScrollStateChanged</definition>
+        <argsstring>(android.widget.AbsListView p0, int p1)</argsstring>
+        <name>n_onScrollStateChanged</name>
+        <param>
+          <type>android.widget.AbsListView</type>
+          <declname>p0</declname>
+        </param>
+        <param>
+          <type>int</type>
+          <declname>p1</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/110/android/src/crc643f46942d9dd1fff9/ListViewRenderer_ListViewScrollDetector.java" line="49" column="21"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <inheritancegraph>
+      <node id="5">
+        <label>android.widget.AbsListView.OnScrollListener</label>
+      </node>
+      <node id="4">
+        <label>android::widget::AbsListView::OnScrollListener</label>
+      </node>
+      <node id="3">
+        <label>mono.android.IGCUserPeer</label>
+      </node>
+      <node id="2">
+        <label>java.lang.Object</label>
+      </node>
+      <node id="1">
+        <label>crc643f46942d9dd1fff9.ListViewRenderer_ListViewScrollDetector</label>
+        <link refid="classcrc643f46942d9dd1fff9_1_1_list_view_renderer___list_view_scroll_detector"/>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+        <childnode refid="3" relation="public-inheritance">
+        </childnode>
+        <childnode refid="4" relation="public-inheritance">
+        </childnode>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+        <childnode refid="3" relation="public-inheritance">
+        </childnode>
+        <childnode refid="5" relation="public-inheritance">
+        </childnode>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+        <childnode refid="3" relation="public-inheritance">
+        </childnode>
+        <childnode refid="5" relation="public-inheritance">
+        </childnode>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+        <childnode refid="3" relation="public-inheritance">
+        </childnode>
+        <childnode refid="5" relation="public-inheritance">
+        </childnode>
+      </node>
+    </inheritancegraph>
+    <collaborationgraph>
+      <node id="5">
+        <label>android.widget.AbsListView.OnScrollListener</label>
+      </node>
+      <node id="4">
+        <label>android::widget::AbsListView::OnScrollListener</label>
+      </node>
+      <node id="3">
+        <label>mono.android.IGCUserPeer</label>
+      </node>
+      <node id="2">
+        <label>java.lang.Object</label>
+      </node>
+      <node id="1">
+        <label>crc643f46942d9dd1fff9.ListViewRenderer_ListViewScrollDetector</label>
+        <link refid="classcrc643f46942d9dd1fff9_1_1_list_view_renderer___list_view_scroll_detector"/>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+        <childnode refid="3" relation="public-inheritance">
+        </childnode>
+        <childnode refid="4" relation="public-inheritance">
+        </childnode>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+        <childnode refid="3" relation="public-inheritance">
+        </childnode>
+        <childnode refid="5" relation="public-inheritance">
+        </childnode>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+        <childnode refid="3" relation="public-inheritance">
+        </childnode>
+        <childnode refid="5" relation="public-inheritance">
+        </childnode>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+        <childnode refid="3" relation="public-inheritance">
+        </childnode>
+        <childnode refid="5" relation="public-inheritance">
+        </childnode>
+      </node>
+    </collaborationgraph>
+    <location file="Application Green Quake.Android/obj/Debug/100/android/src/crc643f46942d9dd1fff9/ListViewRenderer_ListViewScrollDetector.java" line="4" column="7" bodyfile="Application Green Quake.Android/obj/Debug/100/android/src/crc643f46942d9dd1fff9/ListViewRenderer_ListViewScrollDetector.java" bodystart="9" bodyend="64"/>
+    <listofallmembers>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_list_view_renderer___list_view_scroll_detector_1a6c11bb130ece2b9930403d29a20e7d75" prot="package" virt="non-virtual"><scope>crc643f46942d9dd1fff9::ListViewRenderer_ListViewScrollDetector</scope><name>[static initializer]</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_list_view_renderer___list_view_scroll_detector_1a6c11bb130ece2b9930403d29a20e7d75" prot="package" virt="non-virtual"><scope>crc643f46942d9dd1fff9::ListViewRenderer_ListViewScrollDetector</scope><name>[static initializer]</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_list_view_renderer___list_view_scroll_detector_1a6c11bb130ece2b9930403d29a20e7d75" prot="package" virt="non-virtual"><scope>crc643f46942d9dd1fff9::ListViewRenderer_ListViewScrollDetector</scope><name>[static initializer]</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_list_view_renderer___list_view_scroll_detector_1a6c11bb130ece2b9930403d29a20e7d75" prot="package" virt="non-virtual"><scope>crc643f46942d9dd1fff9::ListViewRenderer_ListViewScrollDetector</scope><name>[static initializer]</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_list_view_renderer___list_view_scroll_detector_1ae9a520936f035bd0b696ce54ddc4c756" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::ListViewRenderer_ListViewScrollDetector</scope><name>__md_methods</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_list_view_renderer___list_view_scroll_detector_1a8053840e54049fb27434e5c632c27263" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::ListViewRenderer_ListViewScrollDetector</scope><name>ListViewRenderer_ListViewScrollDetector</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_list_view_renderer___list_view_scroll_detector_1a27d702c8ff7e1f0a5cd94aceec2fc608" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::ListViewRenderer_ListViewScrollDetector</scope><name>ListViewRenderer_ListViewScrollDetector</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_list_view_renderer___list_view_scroll_detector_1a8053840e54049fb27434e5c632c27263" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::ListViewRenderer_ListViewScrollDetector</scope><name>ListViewRenderer_ListViewScrollDetector</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_list_view_renderer___list_view_scroll_detector_1a27d702c8ff7e1f0a5cd94aceec2fc608" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::ListViewRenderer_ListViewScrollDetector</scope><name>ListViewRenderer_ListViewScrollDetector</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_list_view_renderer___list_view_scroll_detector_1a8053840e54049fb27434e5c632c27263" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::ListViewRenderer_ListViewScrollDetector</scope><name>ListViewRenderer_ListViewScrollDetector</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_list_view_renderer___list_view_scroll_detector_1a27d702c8ff7e1f0a5cd94aceec2fc608" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::ListViewRenderer_ListViewScrollDetector</scope><name>ListViewRenderer_ListViewScrollDetector</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_list_view_renderer___list_view_scroll_detector_1a8053840e54049fb27434e5c632c27263" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::ListViewRenderer_ListViewScrollDetector</scope><name>ListViewRenderer_ListViewScrollDetector</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_list_view_renderer___list_view_scroll_detector_1a27d702c8ff7e1f0a5cd94aceec2fc608" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::ListViewRenderer_ListViewScrollDetector</scope><name>ListViewRenderer_ListViewScrollDetector</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_list_view_renderer___list_view_scroll_detector_1a3a2dc2eb79602607b757d7964c3f9f54" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::ListViewRenderer_ListViewScrollDetector</scope><name>monodroidAddReference</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_list_view_renderer___list_view_scroll_detector_1a3a2dc2eb79602607b757d7964c3f9f54" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::ListViewRenderer_ListViewScrollDetector</scope><name>monodroidAddReference</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_list_view_renderer___list_view_scroll_detector_1a3a2dc2eb79602607b757d7964c3f9f54" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::ListViewRenderer_ListViewScrollDetector</scope><name>monodroidAddReference</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_list_view_renderer___list_view_scroll_detector_1a3a2dc2eb79602607b757d7964c3f9f54" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::ListViewRenderer_ListViewScrollDetector</scope><name>monodroidAddReference</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_list_view_renderer___list_view_scroll_detector_1a8a7b53e98afcd3b3de7f58484fb5a08c" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::ListViewRenderer_ListViewScrollDetector</scope><name>monodroidClearReferences</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_list_view_renderer___list_view_scroll_detector_1a8a7b53e98afcd3b3de7f58484fb5a08c" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::ListViewRenderer_ListViewScrollDetector</scope><name>monodroidClearReferences</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_list_view_renderer___list_view_scroll_detector_1a8a7b53e98afcd3b3de7f58484fb5a08c" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::ListViewRenderer_ListViewScrollDetector</scope><name>monodroidClearReferences</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_list_view_renderer___list_view_scroll_detector_1a8a7b53e98afcd3b3de7f58484fb5a08c" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::ListViewRenderer_ListViewScrollDetector</scope><name>monodroidClearReferences</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_list_view_renderer___list_view_scroll_detector_1abd19e3664799121fbe4b60fc7e47a3ba" prot="private" virt="non-virtual"><scope>crc643f46942d9dd1fff9::ListViewRenderer_ListViewScrollDetector</scope><name>n_onScroll</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_list_view_renderer___list_view_scroll_detector_1abd19e3664799121fbe4b60fc7e47a3ba" prot="private" virt="non-virtual"><scope>crc643f46942d9dd1fff9::ListViewRenderer_ListViewScrollDetector</scope><name>n_onScroll</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_list_view_renderer___list_view_scroll_detector_1abd19e3664799121fbe4b60fc7e47a3ba" prot="private" virt="non-virtual"><scope>crc643f46942d9dd1fff9::ListViewRenderer_ListViewScrollDetector</scope><name>n_onScroll</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_list_view_renderer___list_view_scroll_detector_1abd19e3664799121fbe4b60fc7e47a3ba" prot="private" virt="non-virtual"><scope>crc643f46942d9dd1fff9::ListViewRenderer_ListViewScrollDetector</scope><name>n_onScroll</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_list_view_renderer___list_view_scroll_detector_1a05d52d1cbea65b5b7c193005e809d7fe" prot="private" virt="non-virtual"><scope>crc643f46942d9dd1fff9::ListViewRenderer_ListViewScrollDetector</scope><name>n_onScrollStateChanged</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_list_view_renderer___list_view_scroll_detector_1a05d52d1cbea65b5b7c193005e809d7fe" prot="private" virt="non-virtual"><scope>crc643f46942d9dd1fff9::ListViewRenderer_ListViewScrollDetector</scope><name>n_onScrollStateChanged</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_list_view_renderer___list_view_scroll_detector_1a05d52d1cbea65b5b7c193005e809d7fe" prot="private" virt="non-virtual"><scope>crc643f46942d9dd1fff9::ListViewRenderer_ListViewScrollDetector</scope><name>n_onScrollStateChanged</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_list_view_renderer___list_view_scroll_detector_1a05d52d1cbea65b5b7c193005e809d7fe" prot="private" virt="non-virtual"><scope>crc643f46942d9dd1fff9::ListViewRenderer_ListViewScrollDetector</scope><name>n_onScrollStateChanged</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_list_view_renderer___list_view_scroll_detector_1a19e1284269d1aba156b42705166a5e07" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::ListViewRenderer_ListViewScrollDetector</scope><name>onScroll</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_list_view_renderer___list_view_scroll_detector_1a19e1284269d1aba156b42705166a5e07" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::ListViewRenderer_ListViewScrollDetector</scope><name>onScroll</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_list_view_renderer___list_view_scroll_detector_1a19e1284269d1aba156b42705166a5e07" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::ListViewRenderer_ListViewScrollDetector</scope><name>onScroll</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_list_view_renderer___list_view_scroll_detector_1a19e1284269d1aba156b42705166a5e07" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::ListViewRenderer_ListViewScrollDetector</scope><name>onScroll</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_list_view_renderer___list_view_scroll_detector_1aecd287d082a9b843be940b7a44e0b792" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::ListViewRenderer_ListViewScrollDetector</scope><name>onScrollStateChanged</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_list_view_renderer___list_view_scroll_detector_1aecd287d082a9b843be940b7a44e0b792" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::ListViewRenderer_ListViewScrollDetector</scope><name>onScrollStateChanged</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_list_view_renderer___list_view_scroll_detector_1aecd287d082a9b843be940b7a44e0b792" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::ListViewRenderer_ListViewScrollDetector</scope><name>onScrollStateChanged</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_list_view_renderer___list_view_scroll_detector_1aecd287d082a9b843be940b7a44e0b792" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::ListViewRenderer_ListViewScrollDetector</scope><name>onScrollStateChanged</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_list_view_renderer___list_view_scroll_detector_1a95681cd648775c4631fd4e397027aa81" prot="private" virt="non-virtual"><scope>crc643f46942d9dd1fff9::ListViewRenderer_ListViewScrollDetector</scope><name>refList</name></member>
+    </listofallmembers>
+  </compounddef>
+</doxygen>

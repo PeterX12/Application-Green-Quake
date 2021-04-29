@@ -1,0 +1,509 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.9.1" xml:lang="en-US">
+  <compounddef id="classcrc643ddf594df781e5ec_1_1_sf_border_renderer" kind="class" language="Java" prot="public">
+    <compoundname>crc643ddf594df781e5ec::SfBorderRenderer</compoundname>
+    <basecompoundref refid="classcrc643f46942d9dd1fff9_1_1_view_renderer" prot="public" virt="non-virtual">crc643f46942d9dd1fff9.ViewRenderer</basecompoundref>
+    <basecompoundref prot="public" virt="non-virtual">mono.android.IGCUserPeer</basecompoundref>
+      <sectiondef kind="public-static-attrib">
+      <memberdef kind="variable" id="classcrc643ddf594df781e5ec_1_1_sf_border_renderer_1a7220503ffbed67df8e2f5b588224a2dc" prot="public" static="yes" mutable="no">
+        <type>final String</type>
+        <definition>final String crc643ddf594df781e5ec.SfBorderRenderer.__md_methods</definition>
+        <argsstring></argsstring>
+        <name>__md_methods</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+<para>@hide </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/110/android/src/crc643ddf594df781e5ec/SfBorderRenderer.java" line="10" column="28" bodyfile="Application Green Quake.Android/obj/Debug/110/android/src/crc643ddf594df781e5ec/SfBorderRenderer.java" bodystart="10" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="private-attrib">
+      <memberdef kind="variable" id="classcrc643ddf594df781e5ec_1_1_sf_border_renderer_1aa056ecf7312434e6c88b093564312040" prot="private" static="no" mutable="no">
+        <type>java.util.ArrayList</type>
+        <definition>java.util.ArrayList crc643ddf594df781e5ec.SfBorderRenderer.refList</definition>
+        <argsstring></argsstring>
+        <name>refList</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/110/android/src/crc643ddf594df781e5ec/SfBorderRenderer.java" line="59" column="27" bodyfile="Application Green Quake.Android/obj/Debug/110/android/src/crc643ddf594df781e5ec/SfBorderRenderer.java" bodystart="59" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="package-static-func">
+      <memberdef kind="function" id="classcrc643ddf594df781e5ec_1_1_sf_border_renderer_1a37c5f6234a5290cba20e5cec5e42c568" prot="package" static="yes" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>crc643ddf594df781e5ec.SfBorderRenderer.[static initializer]</definition>
+        <argsstring></argsstring>
+        <name>[static initializer]</name>
+        <reimplements refid="classcrc643f46942d9dd1fff9_1_1_view_renderer_1a0b1f8c07162fa817ed1708e95d4e9682">[static initializer]</reimplements>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/110/android/src/crc643ddf594df781e5ec/SfBorderRenderer.java" line="10" column="28"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="public-func">
+      <memberdef kind="function" id="classcrc643ddf594df781e5ec_1_1_sf_border_renderer_1a2f8f4c818eac809419a27d30c9fa2e18" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>crc643ddf594df781e5ec.SfBorderRenderer.SfBorderRenderer</definition>
+        <argsstring>(android.content.Context p0, android.util.AttributeSet p1, int p2)</argsstring>
+        <name>SfBorderRenderer</name>
+        <param>
+          <type>android.content.Context</type>
+          <declname>p0</declname>
+        </param>
+        <param>
+          <type>android.util.AttributeSet</type>
+          <declname>p1</declname>
+        </param>
+        <param>
+          <type>int</type>
+          <declname>p2</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/110/android/src/crc643ddf594df781e5ec/SfBorderRenderer.java" line="20" column="8" bodyfile="Application Green Quake.Android/obj/Debug/110/android/src/crc643ddf594df781e5ec/SfBorderRenderer.java" bodystart="20" bodyend="25"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643ddf594df781e5ec_1_1_sf_border_renderer_1ab5346da36ee916c010155d9cb7d813ca" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>crc643ddf594df781e5ec.SfBorderRenderer.SfBorderRenderer</definition>
+        <argsstring>(android.content.Context p0, android.util.AttributeSet p1)</argsstring>
+        <name>SfBorderRenderer</name>
+        <param>
+          <type>android.content.Context</type>
+          <declname>p0</declname>
+        </param>
+        <param>
+          <type>android.util.AttributeSet</type>
+          <declname>p1</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/110/android/src/crc643ddf594df781e5ec/SfBorderRenderer.java" line="28" column="8" bodyfile="Application Green Quake.Android/obj/Debug/110/android/src/crc643ddf594df781e5ec/SfBorderRenderer.java" bodystart="28" bodyend="33"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643ddf594df781e5ec_1_1_sf_border_renderer_1a2b53afbf9e91b0bc286d5caca19dc137" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>crc643ddf594df781e5ec.SfBorderRenderer.SfBorderRenderer</definition>
+        <argsstring>(android.content.Context p0)</argsstring>
+        <name>SfBorderRenderer</name>
+        <param>
+          <type>android.content.Context</type>
+          <declname>p0</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/110/android/src/crc643ddf594df781e5ec/SfBorderRenderer.java" line="36" column="8" bodyfile="Application Green Quake.Android/obj/Debug/110/android/src/crc643ddf594df781e5ec/SfBorderRenderer.java" bodystart="36" bodyend="41"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643ddf594df781e5ec_1_1_sf_border_renderer_1a7e7a301ee2036d183cd6221493dfe100" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void crc643ddf594df781e5ec.SfBorderRenderer.onDraw</definition>
+        <argsstring>(android.graphics.Canvas p0)</argsstring>
+        <name>onDraw</name>
+        <param>
+          <type>android.graphics.Canvas</type>
+          <declname>p0</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/110/android/src/crc643ddf594df781e5ec/SfBorderRenderer.java" line="44" column="13" bodyfile="Application Green Quake.Android/obj/Debug/110/android/src/crc643ddf594df781e5ec/SfBorderRenderer.java" bodystart="44" bodyend="47"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643ddf594df781e5ec_1_1_sf_border_renderer_1af7f8265f52ab6e4ab3d74b1192d8f1b5" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>boolean</type>
+        <definition>boolean crc643ddf594df781e5ec.SfBorderRenderer.drawChild</definition>
+        <argsstring>(android.graphics.Canvas p0, android.view.View p1, long p2)</argsstring>
+        <name>drawChild</name>
+        <param>
+          <type>android.graphics.Canvas</type>
+          <declname>p0</declname>
+        </param>
+        <param>
+          <type>android.view.View</type>
+          <declname>p1</declname>
+        </param>
+        <param>
+          <type>long</type>
+          <declname>p2</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/110/android/src/crc643ddf594df781e5ec/SfBorderRenderer.java" line="52" column="16" bodyfile="Application Green Quake.Android/obj/Debug/110/android/src/crc643ddf594df781e5ec/SfBorderRenderer.java" bodystart="52" bodyend="55"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643ddf594df781e5ec_1_1_sf_border_renderer_1ac451a5e68553fb20ba93d93b0679dd34" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void crc643ddf594df781e5ec.SfBorderRenderer.monodroidAddReference</definition>
+        <argsstring>(java.lang.Object obj)</argsstring>
+        <name>monodroidAddReference</name>
+        <reimplements refid="classcrc643f46942d9dd1fff9_1_1_view_renderer_1a767ec8047a7e678d878172d24e1f61ac">monodroidAddReference</reimplements>
+        <param>
+          <type>java.lang.Object</type>
+          <declname>obj</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/110/android/src/crc643ddf594df781e5ec/SfBorderRenderer.java" line="60" column="13" bodyfile="Application Green Quake.Android/obj/Debug/110/android/src/crc643ddf594df781e5ec/SfBorderRenderer.java" bodystart="60" bodyend="65"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643ddf594df781e5ec_1_1_sf_border_renderer_1a0976eb1861d0987a646ae49ff4e840a3" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void crc643ddf594df781e5ec.SfBorderRenderer.monodroidClearReferences</definition>
+        <argsstring>()</argsstring>
+        <name>monodroidClearReferences</name>
+        <reimplements refid="classcrc643f46942d9dd1fff9_1_1_view_renderer_1a7a3d481edf93ee26421c84e284af4cd4">monodroidClearReferences</reimplements>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/110/android/src/crc643ddf594df781e5ec/SfBorderRenderer.java" line="67" column="13" bodyfile="Application Green Quake.Android/obj/Debug/110/android/src/crc643ddf594df781e5ec/SfBorderRenderer.java" bodystart="67" bodyend="71"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="private-func">
+      <memberdef kind="function" id="classcrc643ddf594df781e5ec_1_1_sf_border_renderer_1a17e977a74a1f0ca812e11b80f20bf72c" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>native void</type>
+        <definition>native void crc643ddf594df781e5ec.SfBorderRenderer.n_onDraw</definition>
+        <argsstring>(android.graphics.Canvas p0)</argsstring>
+        <name>n_onDraw</name>
+        <param>
+          <type>android.graphics.Canvas</type>
+          <declname>p0</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/110/android/src/crc643ddf594df781e5ec/SfBorderRenderer.java" line="49" column="21"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643ddf594df781e5ec_1_1_sf_border_renderer_1a220afc835ac9e4672ccd84747dffa81a" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>native boolean</type>
+        <definition>native boolean crc643ddf594df781e5ec.SfBorderRenderer.n_drawChild</definition>
+        <argsstring>(android.graphics.Canvas p0, android.view.View p1, long p2)</argsstring>
+        <name>n_drawChild</name>
+        <param>
+          <type>android.graphics.Canvas</type>
+          <declname>p0</declname>
+        </param>
+        <param>
+          <type>android.view.View</type>
+          <declname>p1</declname>
+        </param>
+        <param>
+          <type>long</type>
+          <declname>p2</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/110/android/src/crc643ddf594df781e5ec/SfBorderRenderer.java" line="57" column="24"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <inheritancegraph>
+      <node id="7">
+        <label>com.xamarin.forms.platform.android.FormsViewGroup</label>
+      </node>
+      <node id="3">
+        <label>crc643f46942d9dd1fff9.ViewRenderer_2</label>
+        <link refid="classcrc643f46942d9dd1fff9_1_1_view_renderer__2"/>
+        <childnode refid="4" relation="public-inheritance">
+        </childnode>
+        <childnode refid="6" relation="public-inheritance">
+        </childnode>
+        <childnode refid="8" relation="public-inheritance">
+        </childnode>
+        <childnode refid="4" relation="public-inheritance">
+        </childnode>
+        <childnode refid="6" relation="public-inheritance">
+        </childnode>
+        <childnode refid="8" relation="public-inheritance">
+        </childnode>
+        <childnode refid="4" relation="public-inheritance">
+        </childnode>
+        <childnode refid="6" relation="public-inheritance">
+        </childnode>
+        <childnode refid="8" relation="public-inheritance">
+        </childnode>
+        <childnode refid="4" relation="public-inheritance">
+        </childnode>
+        <childnode refid="6" relation="public-inheritance">
+        </childnode>
+        <childnode refid="8" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="5">
+        <label>com::xamarin::forms::platform::android::FormsViewGroup</label>
+      </node>
+      <node id="6">
+        <label>mono.android.IGCUserPeer</label>
+      </node>
+      <node id="2">
+        <label>crc643f46942d9dd1fff9.ViewRenderer</label>
+        <link refid="classcrc643f46942d9dd1fff9_1_1_view_renderer"/>
+        <childnode refid="3" relation="public-inheritance">
+        </childnode>
+        <childnode refid="6" relation="public-inheritance">
+        </childnode>
+        <childnode refid="3" relation="public-inheritance">
+        </childnode>
+        <childnode refid="6" relation="public-inheritance">
+        </childnode>
+        <childnode refid="3" relation="public-inheritance">
+        </childnode>
+        <childnode refid="6" relation="public-inheritance">
+        </childnode>
+        <childnode refid="3" relation="public-inheritance">
+        </childnode>
+        <childnode refid="6" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="4">
+        <label>crc643f46942d9dd1fff9.VisualElementRenderer_1</label>
+        <link refid="classcrc643f46942d9dd1fff9_1_1_visual_element_renderer__1"/>
+        <childnode refid="5" relation="public-inheritance">
+        </childnode>
+        <childnode refid="6" relation="public-inheritance">
+        </childnode>
+        <childnode refid="7" relation="public-inheritance">
+        </childnode>
+        <childnode refid="6" relation="public-inheritance">
+        </childnode>
+        <childnode refid="7" relation="public-inheritance">
+        </childnode>
+        <childnode refid="6" relation="public-inheritance">
+        </childnode>
+        <childnode refid="7" relation="public-inheritance">
+        </childnode>
+        <childnode refid="6" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="8">
+        <label>android.view.View.OnFocusChangeListener</label>
+      </node>
+      <node id="1">
+        <label>crc643ddf594df781e5ec.SfBorderRenderer</label>
+        <link refid="classcrc643ddf594df781e5ec_1_1_sf_border_renderer"/>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+        <childnode refid="6" relation="public-inheritance">
+        </childnode>
+      </node>
+    </inheritancegraph>
+    <collaborationgraph>
+      <node id="7">
+        <label>com.xamarin.forms.platform.android.FormsViewGroup</label>
+      </node>
+      <node id="3">
+        <label>crc643f46942d9dd1fff9.ViewRenderer_2</label>
+        <link refid="classcrc643f46942d9dd1fff9_1_1_view_renderer__2"/>
+        <childnode refid="4" relation="public-inheritance">
+        </childnode>
+        <childnode refid="6" relation="public-inheritance">
+        </childnode>
+        <childnode refid="8" relation="public-inheritance">
+        </childnode>
+        <childnode refid="4" relation="public-inheritance">
+        </childnode>
+        <childnode refid="6" relation="public-inheritance">
+        </childnode>
+        <childnode refid="8" relation="public-inheritance">
+        </childnode>
+        <childnode refid="4" relation="public-inheritance">
+        </childnode>
+        <childnode refid="6" relation="public-inheritance">
+        </childnode>
+        <childnode refid="8" relation="public-inheritance">
+        </childnode>
+        <childnode refid="4" relation="public-inheritance">
+        </childnode>
+        <childnode refid="6" relation="public-inheritance">
+        </childnode>
+        <childnode refid="8" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="5">
+        <label>com::xamarin::forms::platform::android::FormsViewGroup</label>
+      </node>
+      <node id="6">
+        <label>mono.android.IGCUserPeer</label>
+      </node>
+      <node id="2">
+        <label>crc643f46942d9dd1fff9.ViewRenderer</label>
+        <link refid="classcrc643f46942d9dd1fff9_1_1_view_renderer"/>
+        <childnode refid="3" relation="public-inheritance">
+        </childnode>
+        <childnode refid="6" relation="public-inheritance">
+        </childnode>
+        <childnode refid="3" relation="public-inheritance">
+        </childnode>
+        <childnode refid="6" relation="public-inheritance">
+        </childnode>
+        <childnode refid="3" relation="public-inheritance">
+        </childnode>
+        <childnode refid="6" relation="public-inheritance">
+        </childnode>
+        <childnode refid="3" relation="public-inheritance">
+        </childnode>
+        <childnode refid="6" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="4">
+        <label>crc643f46942d9dd1fff9.VisualElementRenderer_1</label>
+        <link refid="classcrc643f46942d9dd1fff9_1_1_visual_element_renderer__1"/>
+        <childnode refid="5" relation="public-inheritance">
+        </childnode>
+        <childnode refid="6" relation="public-inheritance">
+        </childnode>
+        <childnode refid="7" relation="public-inheritance">
+        </childnode>
+        <childnode refid="6" relation="public-inheritance">
+        </childnode>
+        <childnode refid="7" relation="public-inheritance">
+        </childnode>
+        <childnode refid="6" relation="public-inheritance">
+        </childnode>
+        <childnode refid="7" relation="public-inheritance">
+        </childnode>
+        <childnode refid="6" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="8">
+        <label>android.view.View.OnFocusChangeListener</label>
+      </node>
+      <node id="1">
+        <label>crc643ddf594df781e5ec.SfBorderRenderer</label>
+        <link refid="classcrc643ddf594df781e5ec_1_1_sf_border_renderer"/>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+        <childnode refid="6" relation="public-inheritance">
+        </childnode>
+      </node>
+    </collaborationgraph>
+    <location file="Application Green Quake.Android/obj/Debug/110/android/src/crc643ddf594df781e5ec/SfBorderRenderer.java" line="4" column="7" bodyfile="Application Green Quake.Android/obj/Debug/110/android/src/crc643ddf594df781e5ec/SfBorderRenderer.java" bodystart="8" bodyend="72"/>
+    <listofallmembers>
+      <member refid="classcrc643ddf594df781e5ec_1_1_sf_border_renderer_1a37c5f6234a5290cba20e5cec5e42c568" prot="package" virt="non-virtual"><scope>crc643ddf594df781e5ec::SfBorderRenderer</scope><name>[static initializer]</name></member>
+      <member refid="classcrc643ddf594df781e5ec_1_1_sf_border_renderer_1a7220503ffbed67df8e2f5b588224a2dc" prot="public" virt="non-virtual"><scope>crc643ddf594df781e5ec::SfBorderRenderer</scope><name>__md_methods</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_visual_element_renderer__1_1a8b3a1f18416ee5d553d54d8c51f238bd" prot="public" virt="non-virtual"><scope>crc643ddf594df781e5ec::SfBorderRenderer</scope><name>dispatchTouchEvent</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_visual_element_renderer__1_1a8b3a1f18416ee5d553d54d8c51f238bd" prot="public" virt="non-virtual"><scope>crc643ddf594df781e5ec::SfBorderRenderer</scope><name>dispatchTouchEvent</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_visual_element_renderer__1_1a8b3a1f18416ee5d553d54d8c51f238bd" prot="public" virt="non-virtual"><scope>crc643ddf594df781e5ec::SfBorderRenderer</scope><name>dispatchTouchEvent</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_visual_element_renderer__1_1a8b3a1f18416ee5d553d54d8c51f238bd" prot="public" virt="non-virtual"><scope>crc643ddf594df781e5ec::SfBorderRenderer</scope><name>dispatchTouchEvent</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_visual_element_renderer__1_1a4fbfdc5e36e0aac29f8113eddde3ffa8" prot="public" virt="non-virtual"><scope>crc643ddf594df781e5ec::SfBorderRenderer</scope><name>draw</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_visual_element_renderer__1_1a4fbfdc5e36e0aac29f8113eddde3ffa8" prot="public" virt="non-virtual"><scope>crc643ddf594df781e5ec::SfBorderRenderer</scope><name>draw</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_visual_element_renderer__1_1a4fbfdc5e36e0aac29f8113eddde3ffa8" prot="public" virt="non-virtual"><scope>crc643ddf594df781e5ec::SfBorderRenderer</scope><name>draw</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_visual_element_renderer__1_1a4fbfdc5e36e0aac29f8113eddde3ffa8" prot="public" virt="non-virtual"><scope>crc643ddf594df781e5ec::SfBorderRenderer</scope><name>draw</name></member>
+      <member refid="classcrc643ddf594df781e5ec_1_1_sf_border_renderer_1af7f8265f52ab6e4ab3d74b1192d8f1b5" prot="public" virt="non-virtual"><scope>crc643ddf594df781e5ec::SfBorderRenderer</scope><name>drawChild</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_visual_element_renderer__1_1a9f734e4b4776dc9d9ed904a0922d26f7" prot="public" virt="non-virtual"><scope>crc643ddf594df781e5ec::SfBorderRenderer</scope><name>focusSearch</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_visual_element_renderer__1_1a9f734e4b4776dc9d9ed904a0922d26f7" prot="public" virt="non-virtual"><scope>crc643ddf594df781e5ec::SfBorderRenderer</scope><name>focusSearch</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_visual_element_renderer__1_1a9f734e4b4776dc9d9ed904a0922d26f7" prot="public" virt="non-virtual"><scope>crc643ddf594df781e5ec::SfBorderRenderer</scope><name>focusSearch</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_visual_element_renderer__1_1a9f734e4b4776dc9d9ed904a0922d26f7" prot="public" virt="non-virtual"><scope>crc643ddf594df781e5ec::SfBorderRenderer</scope><name>focusSearch</name></member>
+      <member refid="classcrc643ddf594df781e5ec_1_1_sf_border_renderer_1ac451a5e68553fb20ba93d93b0679dd34" prot="public" virt="non-virtual"><scope>crc643ddf594df781e5ec::SfBorderRenderer</scope><name>monodroidAddReference</name></member>
+      <member refid="classcrc643ddf594df781e5ec_1_1_sf_border_renderer_1a0976eb1861d0987a646ae49ff4e840a3" prot="public" virt="non-virtual"><scope>crc643ddf594df781e5ec::SfBorderRenderer</scope><name>monodroidClearReferences</name></member>
+      <member refid="classcrc643ddf594df781e5ec_1_1_sf_border_renderer_1a220afc835ac9e4672ccd84747dffa81a" prot="private" virt="non-virtual"><scope>crc643ddf594df781e5ec::SfBorderRenderer</scope><name>n_drawChild</name></member>
+      <member refid="classcrc643ddf594df781e5ec_1_1_sf_border_renderer_1a17e977a74a1f0ca812e11b80f20bf72c" prot="private" virt="non-virtual"><scope>crc643ddf594df781e5ec::SfBorderRenderer</scope><name>n_onDraw</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_visual_element_renderer__1_1a31a32c8d1668368e4b13d7933a626833" prot="public" virt="non-virtual"><scope>crc643ddf594df781e5ec::SfBorderRenderer</scope><name>onConfigurationChanged</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_visual_element_renderer__1_1a31a32c8d1668368e4b13d7933a626833" prot="public" virt="non-virtual"><scope>crc643ddf594df781e5ec::SfBorderRenderer</scope><name>onConfigurationChanged</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_visual_element_renderer__1_1a31a32c8d1668368e4b13d7933a626833" prot="public" virt="non-virtual"><scope>crc643ddf594df781e5ec::SfBorderRenderer</scope><name>onConfigurationChanged</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_visual_element_renderer__1_1a31a32c8d1668368e4b13d7933a626833" prot="public" virt="non-virtual"><scope>crc643ddf594df781e5ec::SfBorderRenderer</scope><name>onConfigurationChanged</name></member>
+      <member refid="classcrc643ddf594df781e5ec_1_1_sf_border_renderer_1a7e7a301ee2036d183cd6221493dfe100" prot="public" virt="non-virtual"><scope>crc643ddf594df781e5ec::SfBorderRenderer</scope><name>onDraw</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_view_renderer__2_1af7a9cd1b5635deaf68179fcdc4ee9275" prot="public" virt="non-virtual"><scope>crc643ddf594df781e5ec::SfBorderRenderer</scope><name>onFocusChange</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_view_renderer__2_1af7a9cd1b5635deaf68179fcdc4ee9275" prot="public" virt="non-virtual"><scope>crc643ddf594df781e5ec::SfBorderRenderer</scope><name>onFocusChange</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_view_renderer__2_1af7a9cd1b5635deaf68179fcdc4ee9275" prot="public" virt="non-virtual"><scope>crc643ddf594df781e5ec::SfBorderRenderer</scope><name>onFocusChange</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_view_renderer__2_1af7a9cd1b5635deaf68179fcdc4ee9275" prot="public" virt="non-virtual"><scope>crc643ddf594df781e5ec::SfBorderRenderer</scope><name>onFocusChange</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_visual_element_renderer__1_1ade33eb4d0895f2536faf5f3e57830bc2" prot="public" virt="non-virtual"><scope>crc643ddf594df781e5ec::SfBorderRenderer</scope><name>onInterceptTouchEvent</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_visual_element_renderer__1_1ade33eb4d0895f2536faf5f3e57830bc2" prot="public" virt="non-virtual"><scope>crc643ddf594df781e5ec::SfBorderRenderer</scope><name>onInterceptTouchEvent</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_visual_element_renderer__1_1ade33eb4d0895f2536faf5f3e57830bc2" prot="public" virt="non-virtual"><scope>crc643ddf594df781e5ec::SfBorderRenderer</scope><name>onInterceptTouchEvent</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_visual_element_renderer__1_1ade33eb4d0895f2536faf5f3e57830bc2" prot="public" virt="non-virtual"><scope>crc643ddf594df781e5ec::SfBorderRenderer</scope><name>onInterceptTouchEvent</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_view_renderer__2_1a1e8de2d40d787901b8f14839810a5721" prot="public" virt="non-virtual"><scope>crc643ddf594df781e5ec::SfBorderRenderer</scope><name>onLayout</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_view_renderer__2_1a1e8de2d40d787901b8f14839810a5721" prot="public" virt="non-virtual"><scope>crc643ddf594df781e5ec::SfBorderRenderer</scope><name>onLayout</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_view_renderer__2_1a1e8de2d40d787901b8f14839810a5721" prot="public" virt="non-virtual"><scope>crc643ddf594df781e5ec::SfBorderRenderer</scope><name>onLayout</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_view_renderer__2_1a1e8de2d40d787901b8f14839810a5721" prot="public" virt="non-virtual"><scope>crc643ddf594df781e5ec::SfBorderRenderer</scope><name>onLayout</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_visual_element_renderer__1_1a68f705864fbd52c60cb4c29f5372aa76" prot="public" virt="non-virtual"><scope>crc643ddf594df781e5ec::SfBorderRenderer</scope><name>onMeasure</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_visual_element_renderer__1_1a68f705864fbd52c60cb4c29f5372aa76" prot="public" virt="non-virtual"><scope>crc643ddf594df781e5ec::SfBorderRenderer</scope><name>onMeasure</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_visual_element_renderer__1_1a68f705864fbd52c60cb4c29f5372aa76" prot="public" virt="non-virtual"><scope>crc643ddf594df781e5ec::SfBorderRenderer</scope><name>onMeasure</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_visual_element_renderer__1_1a68f705864fbd52c60cb4c29f5372aa76" prot="public" virt="non-virtual"><scope>crc643ddf594df781e5ec::SfBorderRenderer</scope><name>onMeasure</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_visual_element_renderer__1_1a11426581e099109c3f05f848cd0f55a4" prot="public" virt="non-virtual"><scope>crc643ddf594df781e5ec::SfBorderRenderer</scope><name>onTouchEvent</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_visual_element_renderer__1_1a11426581e099109c3f05f848cd0f55a4" prot="public" virt="non-virtual"><scope>crc643ddf594df781e5ec::SfBorderRenderer</scope><name>onTouchEvent</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_visual_element_renderer__1_1a11426581e099109c3f05f848cd0f55a4" prot="public" virt="non-virtual"><scope>crc643ddf594df781e5ec::SfBorderRenderer</scope><name>onTouchEvent</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_visual_element_renderer__1_1a11426581e099109c3f05f848cd0f55a4" prot="public" virt="non-virtual"><scope>crc643ddf594df781e5ec::SfBorderRenderer</scope><name>onTouchEvent</name></member>
+      <member refid="classcrc643ddf594df781e5ec_1_1_sf_border_renderer_1aa056ecf7312434e6c88b093564312040" prot="private" virt="non-virtual"><scope>crc643ddf594df781e5ec::SfBorderRenderer</scope><name>refList</name></member>
+      <member refid="classcrc643ddf594df781e5ec_1_1_sf_border_renderer_1a2f8f4c818eac809419a27d30c9fa2e18" prot="public" virt="non-virtual"><scope>crc643ddf594df781e5ec::SfBorderRenderer</scope><name>SfBorderRenderer</name></member>
+      <member refid="classcrc643ddf594df781e5ec_1_1_sf_border_renderer_1ab5346da36ee916c010155d9cb7d813ca" prot="public" virt="non-virtual"><scope>crc643ddf594df781e5ec::SfBorderRenderer</scope><name>SfBorderRenderer</name></member>
+      <member refid="classcrc643ddf594df781e5ec_1_1_sf_border_renderer_1a2b53afbf9e91b0bc286d5caca19dc137" prot="public" virt="non-virtual"><scope>crc643ddf594df781e5ec::SfBorderRenderer</scope><name>SfBorderRenderer</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_view_renderer_1a5dab81421ecf8c5bec29e6e1253d2cc2" prot="public" virt="non-virtual"><scope>crc643ddf594df781e5ec::SfBorderRenderer</scope><name>ViewRenderer</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_view_renderer_1ab78c69cc57b7ec8756c9bc24d106c2cb" prot="public" virt="non-virtual"><scope>crc643ddf594df781e5ec::SfBorderRenderer</scope><name>ViewRenderer</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_view_renderer_1aaf19e3f0027793cf362066fcc68da140" prot="public" virt="non-virtual"><scope>crc643ddf594df781e5ec::SfBorderRenderer</scope><name>ViewRenderer</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_view_renderer_1a5dab81421ecf8c5bec29e6e1253d2cc2" prot="public" virt="non-virtual"><scope>crc643ddf594df781e5ec::SfBorderRenderer</scope><name>ViewRenderer</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_view_renderer_1ab78c69cc57b7ec8756c9bc24d106c2cb" prot="public" virt="non-virtual"><scope>crc643ddf594df781e5ec::SfBorderRenderer</scope><name>ViewRenderer</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_view_renderer_1aaf19e3f0027793cf362066fcc68da140" prot="public" virt="non-virtual"><scope>crc643ddf594df781e5ec::SfBorderRenderer</scope><name>ViewRenderer</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_view_renderer_1a5dab81421ecf8c5bec29e6e1253d2cc2" prot="public" virt="non-virtual"><scope>crc643ddf594df781e5ec::SfBorderRenderer</scope><name>ViewRenderer</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_view_renderer_1ab78c69cc57b7ec8756c9bc24d106c2cb" prot="public" virt="non-virtual"><scope>crc643ddf594df781e5ec::SfBorderRenderer</scope><name>ViewRenderer</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_view_renderer_1aaf19e3f0027793cf362066fcc68da140" prot="public" virt="non-virtual"><scope>crc643ddf594df781e5ec::SfBorderRenderer</scope><name>ViewRenderer</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_view_renderer_1a5dab81421ecf8c5bec29e6e1253d2cc2" prot="public" virt="non-virtual"><scope>crc643ddf594df781e5ec::SfBorderRenderer</scope><name>ViewRenderer</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_view_renderer_1ab78c69cc57b7ec8756c9bc24d106c2cb" prot="public" virt="non-virtual"><scope>crc643ddf594df781e5ec::SfBorderRenderer</scope><name>ViewRenderer</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_view_renderer_1aaf19e3f0027793cf362066fcc68da140" prot="public" virt="non-virtual"><scope>crc643ddf594df781e5ec::SfBorderRenderer</scope><name>ViewRenderer</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_view_renderer__2_1ad980838ee59d73db13b3aa47b96977a9" prot="public" virt="non-virtual"><scope>crc643ddf594df781e5ec::SfBorderRenderer</scope><name>ViewRenderer_2</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_view_renderer__2_1af965f1cbc77bc983fd6a53f8fd4c94b9" prot="public" virt="non-virtual"><scope>crc643ddf594df781e5ec::SfBorderRenderer</scope><name>ViewRenderer_2</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_view_renderer__2_1abe3f312104c3407aaad8eb154b5f41cf" prot="public" virt="non-virtual"><scope>crc643ddf594df781e5ec::SfBorderRenderer</scope><name>ViewRenderer_2</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_view_renderer__2_1ad980838ee59d73db13b3aa47b96977a9" prot="public" virt="non-virtual"><scope>crc643ddf594df781e5ec::SfBorderRenderer</scope><name>ViewRenderer_2</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_view_renderer__2_1af965f1cbc77bc983fd6a53f8fd4c94b9" prot="public" virt="non-virtual"><scope>crc643ddf594df781e5ec::SfBorderRenderer</scope><name>ViewRenderer_2</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_view_renderer__2_1abe3f312104c3407aaad8eb154b5f41cf" prot="public" virt="non-virtual"><scope>crc643ddf594df781e5ec::SfBorderRenderer</scope><name>ViewRenderer_2</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_view_renderer__2_1ad980838ee59d73db13b3aa47b96977a9" prot="public" virt="non-virtual"><scope>crc643ddf594df781e5ec::SfBorderRenderer</scope><name>ViewRenderer_2</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_view_renderer__2_1af965f1cbc77bc983fd6a53f8fd4c94b9" prot="public" virt="non-virtual"><scope>crc643ddf594df781e5ec::SfBorderRenderer</scope><name>ViewRenderer_2</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_view_renderer__2_1abe3f312104c3407aaad8eb154b5f41cf" prot="public" virt="non-virtual"><scope>crc643ddf594df781e5ec::SfBorderRenderer</scope><name>ViewRenderer_2</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_view_renderer__2_1ad980838ee59d73db13b3aa47b96977a9" prot="public" virt="non-virtual"><scope>crc643ddf594df781e5ec::SfBorderRenderer</scope><name>ViewRenderer_2</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_view_renderer__2_1af965f1cbc77bc983fd6a53f8fd4c94b9" prot="public" virt="non-virtual"><scope>crc643ddf594df781e5ec::SfBorderRenderer</scope><name>ViewRenderer_2</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_view_renderer__2_1abe3f312104c3407aaad8eb154b5f41cf" prot="public" virt="non-virtual"><scope>crc643ddf594df781e5ec::SfBorderRenderer</scope><name>ViewRenderer_2</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_visual_element_renderer__1_1a347f18991a486c5b5f1c4dcd83475f21" prot="public" virt="non-virtual"><scope>crc643ddf594df781e5ec::SfBorderRenderer</scope><name>VisualElementRenderer_1</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_visual_element_renderer__1_1a42957113957987d17592ba290f118ec5" prot="public" virt="non-virtual"><scope>crc643ddf594df781e5ec::SfBorderRenderer</scope><name>VisualElementRenderer_1</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_visual_element_renderer__1_1a92a3ec4e374dfc2f8b16cfccb9b83c7f" prot="public" virt="non-virtual"><scope>crc643ddf594df781e5ec::SfBorderRenderer</scope><name>VisualElementRenderer_1</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_visual_element_renderer__1_1a347f18991a486c5b5f1c4dcd83475f21" prot="public" virt="non-virtual"><scope>crc643ddf594df781e5ec::SfBorderRenderer</scope><name>VisualElementRenderer_1</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_visual_element_renderer__1_1a42957113957987d17592ba290f118ec5" prot="public" virt="non-virtual"><scope>crc643ddf594df781e5ec::SfBorderRenderer</scope><name>VisualElementRenderer_1</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_visual_element_renderer__1_1a92a3ec4e374dfc2f8b16cfccb9b83c7f" prot="public" virt="non-virtual"><scope>crc643ddf594df781e5ec::SfBorderRenderer</scope><name>VisualElementRenderer_1</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_visual_element_renderer__1_1a347f18991a486c5b5f1c4dcd83475f21" prot="public" virt="non-virtual"><scope>crc643ddf594df781e5ec::SfBorderRenderer</scope><name>VisualElementRenderer_1</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_visual_element_renderer__1_1a42957113957987d17592ba290f118ec5" prot="public" virt="non-virtual"><scope>crc643ddf594df781e5ec::SfBorderRenderer</scope><name>VisualElementRenderer_1</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_visual_element_renderer__1_1a92a3ec4e374dfc2f8b16cfccb9b83c7f" prot="public" virt="non-virtual"><scope>crc643ddf594df781e5ec::SfBorderRenderer</scope><name>VisualElementRenderer_1</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_visual_element_renderer__1_1a347f18991a486c5b5f1c4dcd83475f21" prot="public" virt="non-virtual"><scope>crc643ddf594df781e5ec::SfBorderRenderer</scope><name>VisualElementRenderer_1</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_visual_element_renderer__1_1a42957113957987d17592ba290f118ec5" prot="public" virt="non-virtual"><scope>crc643ddf594df781e5ec::SfBorderRenderer</scope><name>VisualElementRenderer_1</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_visual_element_renderer__1_1a92a3ec4e374dfc2f8b16cfccb9b83c7f" prot="public" virt="non-virtual"><scope>crc643ddf594df781e5ec::SfBorderRenderer</scope><name>VisualElementRenderer_1</name></member>
+    </listofallmembers>
+  </compounddef>
+</doxygen>

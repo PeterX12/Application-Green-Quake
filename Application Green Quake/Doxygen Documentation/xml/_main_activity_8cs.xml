@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.9.1" xml:lang="en-US">
+  <compounddef id="_main_activity_8cs" kind="file" language="C#">
+    <compoundname>MainActivity.cs</compoundname>
+    <innerclass refid="class_application___green___quake_1_1_droid_1_1_main_activity" prot="public">Application_Green_Quake::Droid::MainActivity</innerclass>
+    <innernamespace refid="namespace_application___green___quake">Application_Green_Quake</innernamespace>
+    <innernamespace refid="namespace_application___green___quake_1_1_droid">Application_Green_Quake::Droid</innernamespace>
+    <innernamespace refid="namespace_android_1_1_app">Android::App</innernamespace>
+    <innernamespace refid="namespace_android_1_1_content_1_1_p_m">Android::Content::PM</innernamespace>
+    <innernamespace refid="namespace_android_1_1_runtime">Android::Runtime</innernamespace>
+    <innernamespace refid="namespace_android_1_1_o_s">Android::OS</innernamespace>
+    <innernamespace refid="namespace_firebase">Firebase</innernamespace>
+    <innernamespace refid="namespace_plugin_1_1_current_activity">Plugin::CurrentActivity</innernamespace>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <programlisting>
+<codeline lineno="1"><highlight class="normal"></highlight></codeline>
+<codeline lineno="9"><highlight class="normal"></highlight><highlight class="keyword">using</highlight><highlight class="normal"><sp/>Acr.UserDialogs;</highlight></codeline>
+<codeline lineno="10"><highlight class="normal"></highlight><highlight class="keyword">using</highlight><highlight class="normal"><sp/>Android.App;</highlight></codeline>
+<codeline lineno="11"><highlight class="normal"></highlight><highlight class="keyword">using</highlight><highlight class="normal"><sp/>Android.Content.PM;</highlight></codeline>
+<codeline lineno="12"><highlight class="normal"></highlight><highlight class="keyword">using</highlight><highlight class="normal"><sp/>Android.Runtime;</highlight></codeline>
+<codeline lineno="13"><highlight class="normal"></highlight><highlight class="keyword">using</highlight><highlight class="normal"><sp/>Android.OS;</highlight></codeline>
+<codeline lineno="14"><highlight class="normal"></highlight><highlight class="keyword">using</highlight><highlight class="normal"><sp/>Firebase;</highlight></codeline>
+<codeline lineno="15"><highlight class="normal"></highlight><highlight class="keyword">using</highlight><highlight class="normal"><sp/>Plugin.CurrentActivity;</highlight></codeline>
+<codeline lineno="16"><highlight class="normal"></highlight></codeline>
+<codeline lineno="17"><highlight class="normal"></highlight><highlight class="keyword">namespace<sp/></highlight><highlight class="normal"><ref refid="namespace_application___green___quake_1_1_droid" kindref="compound">Application_Green_Quake.Droid</ref></highlight></codeline>
+<codeline lineno="18"><highlight class="normal">{</highlight></codeline>
+<codeline lineno="19"><highlight class="normal"><sp/><sp/><sp/><sp/>[Activity(Label<sp/>=<sp/></highlight><highlight class="stringliteral">&quot;Application_Green_Quake&quot;</highlight><highlight class="normal">,<sp/>Icon<sp/>=<sp/></highlight><highlight class="stringliteral">&quot;@drawable/AppLogo&quot;</highlight><highlight class="normal">,<sp/>Theme<sp/>=<sp/></highlight><highlight class="stringliteral">&quot;@style/MainTheme&quot;</highlight><highlight class="normal">,<sp/>MainLauncher<sp/>=<sp/></highlight><highlight class="keyword">true</highlight><highlight class="normal">,<sp/>ConfigurationChanges<sp/>=<sp/>ConfigChanges.ScreenSize<sp/>|<sp/>ConfigChanges.Orientation<sp/>|<sp/>ConfigChanges.UiMode<sp/>|<sp/>ConfigChanges.ScreenLayout<sp/>|<sp/>ConfigChanges.SmallestScreenSize<sp/>)]</highlight></codeline>
+<codeline lineno="20" refid="class_application___green___quake_1_1_droid_1_1_main_activity" refkind="compound"><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">public</highlight><highlight class="normal"><sp/></highlight><highlight class="keyword">class<sp/></highlight><highlight class="normal"><ref refid="class_application___green___quake_1_1_droid_1_1_main_activity" kindref="compound">MainActivity</ref><sp/>:<sp/>global::Xamarin.Forms.Platform.Android.FormsAppCompatActivity</highlight></codeline>
+<codeline lineno="21"><highlight class="normal"><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline lineno="24" refid="class_application___green___quake_1_1_droid_1_1_main_activity_1a421110fbb2378d6f8b49b3eba2b8ca3e" refkind="member"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">public</highlight><highlight class="normal"><sp/></highlight><highlight class="keyword">override</highlight><highlight class="normal"><sp/></highlight><highlight class="keywordtype">void</highlight><highlight class="normal"><sp/><ref refid="class_application___green___quake_1_1_droid_1_1_main_activity_1a421110fbb2378d6f8b49b3eba2b8ca3e" kindref="member">OnBackPressed</ref>()</highlight></codeline>
+<codeline lineno="25"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline lineno="26"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>Rg.Plugins.Popup.Popup.SendBackPressed(base.OnBackPressed);</highlight></codeline>
+<codeline lineno="27"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline lineno="28" refid="class_application___green___quake_1_1_droid_1_1_main_activity_1a87216e6670457bb3e48583610891ecd3" refkind="member"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">protected</highlight><highlight class="normal"><sp/></highlight><highlight class="keyword">override</highlight><highlight class="normal"><sp/></highlight><highlight class="keywordtype">void</highlight><highlight class="normal"><sp/><ref refid="class_application___green___quake_1_1_droid_1_1_main_activity_1a87216e6670457bb3e48583610891ecd3" kindref="member">OnCreate</ref>(Bundle<sp/>savedInstanceState)</highlight></codeline>
+<codeline lineno="29"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline lineno="30"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>TabLayoutResource<sp/>=<sp/><ref refid="class_application___green___quake_1_1_droid_1_1_resource" kindref="compound">Resource</ref>.<ref refid="class_application___green___quake_1_1_droid_1_1_resource_1_1_layout" kindref="compound">Layout</ref>.<ref refid="class_application___green___quake_1_1_droid_1_1_resource_1_1_layout_1ac5a05987e0f1600601dcc7f82a94d95a" kindref="member">Tabbar</ref>;</highlight></codeline>
+<codeline lineno="31"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>ToolbarResource<sp/>=<sp/><ref refid="class_application___green___quake_1_1_droid_1_1_resource" kindref="compound">Resource</ref>.<ref refid="class_application___green___quake_1_1_droid_1_1_resource_1_1_layout" kindref="compound">Layout</ref>.<ref refid="class_application___green___quake_1_1_droid_1_1_resource_1_1_layout_1ac9b73793ca414f492933950831cb6dd4" kindref="member">Toolbar</ref>;</highlight></codeline>
+<codeline lineno="32"><highlight class="normal"></highlight></codeline>
+<codeline lineno="33"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>base.OnCreate(savedInstanceState);</highlight></codeline>
+<codeline lineno="34"><highlight class="normal"></highlight></codeline>
+<codeline lineno="35"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>UserDialogs.Init(</highlight><highlight class="keyword">this</highlight><highlight class="normal">);</highlight></codeline>
+<codeline lineno="36"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>Rg.Plugins.Popup.Popup.Init(</highlight><highlight class="keyword">this</highlight><highlight class="normal">);</highlight></codeline>
+<codeline lineno="37"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>CrossCurrentActivity.Current.Init(</highlight><highlight class="keyword">this</highlight><highlight class="normal">,<sp/>savedInstanceState);</highlight></codeline>
+<codeline lineno="38"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>FirebaseApp.InitializeApp(<ref refid="_main_menu_8xaml_8cs_1a765e6c270049b1b8fcb2f647ebb7bcc2" kindref="member">Application</ref>.Context);</highlight></codeline>
+<codeline lineno="39"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>Xamarin.Essentials.Platform.Init(</highlight><highlight class="keyword">this</highlight><highlight class="normal">,<sp/>savedInstanceState);</highlight></codeline>
+<codeline lineno="40"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>Xamarin.Forms.Forms.Init(</highlight><highlight class="keyword">this</highlight><highlight class="normal">,<sp/>savedInstanceState);</highlight></codeline>
+<codeline lineno="41"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>Xamarin.FormsGoogleMaps.Init(</highlight><highlight class="keyword">this</highlight><highlight class="normal">,<sp/>savedInstanceState);<sp/></highlight><highlight class="comment">//<sp/>initialize<sp/>for<sp/>Xamarin.Forms.GoogleMaps</highlight><highlight class="normal"></highlight></codeline>
+<codeline lineno="42"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>LoadApplication(</highlight><highlight class="keyword">new</highlight><highlight class="normal"><sp/><ref refid="class_application___green___quake_1_1_app" kindref="compound">App</ref>());</highlight></codeline>
+<codeline lineno="43"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline lineno="44"><highlight class="normal"></highlight></codeline>
+<codeline lineno="45" refid="class_application___green___quake_1_1_droid_1_1_main_activity_1ab78bbb078fd33c4f62b0cb083be29c94" refkind="member"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">public</highlight><highlight class="normal"><sp/></highlight><highlight class="keyword">override</highlight><highlight class="normal"><sp/></highlight><highlight class="keywordtype">void</highlight><highlight class="normal"><sp/><ref refid="class_application___green___quake_1_1_droid_1_1_main_activity_1ab78bbb078fd33c4f62b0cb083be29c94" kindref="member">OnRequestPermissionsResult</ref>(</highlight><highlight class="keywordtype">int</highlight><highlight class="normal"><sp/>requestCode,<sp/></highlight><highlight class="keywordtype">string</highlight><highlight class="normal">[]<sp/>permissions,<sp/>[GeneratedEnum]<sp/>Android.Content.PM.Permission[]<sp/>grantResults)</highlight></codeline>
+<codeline lineno="46"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline lineno="47"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>Xamarin.Essentials.Platform.OnRequestPermissionsResult(requestCode,<sp/>permissions,<sp/>grantResults);</highlight></codeline>
+<codeline lineno="48"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>base.OnRequestPermissionsResult(requestCode,<sp/>permissions,<sp/>grantResults);</highlight></codeline>
+<codeline lineno="49"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline lineno="50"><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline lineno="51"><highlight class="normal">}</highlight></codeline>
+    </programlisting>
+    <location file="Application Green Quake.Android/MainActivity.cs"/>
+  </compounddef>
+</doxygen>

@@ -1,0 +1,1622 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.9.1" xml:lang="en-US">
+  <compounddef id="classcrc643f46942d9dd1fff9_1_1_table_view_model_renderer" kind="class" language="Java" prot="public">
+    <compoundname>crc643f46942d9dd1fff9::TableViewModelRenderer</compoundname>
+    <basecompoundref refid="classcrc643f46942d9dd1fff9_1_1_cell_adapter" prot="public" virt="non-virtual">crc643f46942d9dd1fff9.CellAdapter</basecompoundref>
+    <basecompoundref prot="public" virt="non-virtual">mono.android.IGCUserPeer</basecompoundref>
+    <basecompoundref refid="classcrc643f46942d9dd1fff9_1_1_cell_adapter" prot="public" virt="non-virtual">crc643f46942d9dd1fff9.CellAdapter</basecompoundref>
+    <basecompoundref prot="public" virt="non-virtual">mono.android.IGCUserPeer</basecompoundref>
+    <basecompoundref refid="classcrc643f46942d9dd1fff9_1_1_cell_adapter" prot="public" virt="non-virtual">crc643f46942d9dd1fff9.CellAdapter</basecompoundref>
+    <basecompoundref prot="public" virt="non-virtual">mono.android.IGCUserPeer</basecompoundref>
+    <basecompoundref refid="classcrc643f46942d9dd1fff9_1_1_cell_adapter" prot="public" virt="non-virtual">crc643f46942d9dd1fff9.CellAdapter</basecompoundref>
+    <basecompoundref prot="public" virt="non-virtual">mono.android.IGCUserPeer</basecompoundref>
+      <sectiondef kind="public-static-attrib">
+      <memberdef kind="variable" id="classcrc643f46942d9dd1fff9_1_1_table_view_model_renderer_1a9275a8c1ff60a3d79345c0b5010922ad" prot="public" static="yes" mutable="no">
+        <type>final String</type>
+        <definition>static final String crc643f46942d9dd1fff9.TableViewModelRenderer::__md_methods</definition>
+        <argsstring></argsstring>
+        <name>__md_methods</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+<para>@hide </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/100/android/src/crc643f46942d9dd1fff9/TableViewModelRenderer.java" line="10" column="28" bodyfile="Application Green Quake.Android/obj/Debug/100/android/src/crc643f46942d9dd1fff9/TableViewModelRenderer.java" bodystart="10" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="private-attrib">
+      <memberdef kind="variable" id="classcrc643f46942d9dd1fff9_1_1_table_view_model_renderer_1a7217ea9387f82c7645c587eba227ce50" prot="private" static="no" mutable="no">
+        <type>java.util.ArrayList</type>
+        <definition>java util ArrayList crc643f46942d9dd1fff9.TableViewModelRenderer::refList</definition>
+        <argsstring></argsstring>
+        <name>refList</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/100/android/src/crc643f46942d9dd1fff9/TableViewModelRenderer.java" line="95" column="27" bodyfile="Application Green Quake.Android/obj/Debug/100/android/src/crc643f46942d9dd1fff9/TableViewModelRenderer.java" bodystart="95" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="package-static-func">
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_table_view_model_renderer_1a305cfb429fa7d1f83b49c05519a09190" prot="package" static="yes" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>crc643f46942d9dd1fff9.TableViewModelRenderer.[static initializer]</definition>
+        <argsstring></argsstring>
+        <name>[static initializer]</name>
+        <reimplements refid="classcrc643f46942d9dd1fff9_1_1_cell_adapter_1a4d22f4f3d639d4bb44480a1ff5bea87e">[static initializer]</reimplements>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/100/android/src/crc643f46942d9dd1fff9/TableViewModelRenderer.java" line="10" column="28"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_table_view_model_renderer_1a305cfb429fa7d1f83b49c05519a09190" prot="package" static="yes" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>crc643f46942d9dd1fff9.TableViewModelRenderer.[static initializer]</definition>
+        <argsstring></argsstring>
+        <name>[static initializer]</name>
+        <reimplements refid="classcrc643f46942d9dd1fff9_1_1_cell_adapter_1a4d22f4f3d639d4bb44480a1ff5bea87e">[static initializer]</reimplements>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/110/android/src/crc643f46942d9dd1fff9/TableViewModelRenderer.java" line="10" column="28"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_table_view_model_renderer_1a305cfb429fa7d1f83b49c05519a09190" prot="package" static="yes" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>crc643f46942d9dd1fff9.TableViewModelRenderer.[static initializer]</definition>
+        <argsstring></argsstring>
+        <name>[static initializer]</name>
+        <reimplements refid="classcrc643f46942d9dd1fff9_1_1_cell_adapter_1a4d22f4f3d639d4bb44480a1ff5bea87e">[static initializer]</reimplements>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/100/android/src/crc643f46942d9dd1fff9/TableViewModelRenderer.java" line="10" column="28"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_table_view_model_renderer_1a305cfb429fa7d1f83b49c05519a09190" prot="package" static="yes" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>crc643f46942d9dd1fff9.TableViewModelRenderer.[static initializer]</definition>
+        <argsstring></argsstring>
+        <name>[static initializer]</name>
+        <reimplements refid="classcrc643f46942d9dd1fff9_1_1_cell_adapter_1a4d22f4f3d639d4bb44480a1ff5bea87e">[static initializer]</reimplements>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/110/android/src/crc643f46942d9dd1fff9/TableViewModelRenderer.java" line="10" column="28"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="public-func">
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_table_view_model_renderer_1afd49d01b5caca9c8d6e17c99cd3d2f15" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>crc643f46942d9dd1fff9.TableViewModelRenderer.TableViewModelRenderer</definition>
+        <argsstring>()</argsstring>
+        <name>TableViewModelRenderer</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/100/android/src/crc643f46942d9dd1fff9/TableViewModelRenderer.java" line="25" column="8" bodyfile="Application Green Quake.Android/obj/Debug/100/android/src/crc643f46942d9dd1fff9/TableViewModelRenderer.java" bodystart="25" bodyend="30"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_table_view_model_renderer_1adedc00a0a370b1cb04908a6b5ec90b56" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>crc643f46942d9dd1fff9.TableViewModelRenderer.TableViewModelRenderer</definition>
+        <argsstring>(android.content.Context p0)</argsstring>
+        <name>TableViewModelRenderer</name>
+        <param>
+          <type>android.content.Context</type>
+          <declname>p0</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/100/android/src/crc643f46942d9dd1fff9/TableViewModelRenderer.java" line="32" column="8" bodyfile="Application Green Quake.Android/obj/Debug/100/android/src/crc643f46942d9dd1fff9/TableViewModelRenderer.java" bodystart="32" bodyend="37"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_table_view_model_renderer_1a645640de5e4e38ba1fcf7816bb8b5941" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>int</type>
+        <definition>int crc643f46942d9dd1fff9.TableViewModelRenderer.getCount</definition>
+        <argsstring>()</argsstring>
+        <name>getCount</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/100/android/src/crc643f46942d9dd1fff9/TableViewModelRenderer.java" line="40" column="12" bodyfile="Application Green Quake.Android/obj/Debug/100/android/src/crc643f46942d9dd1fff9/TableViewModelRenderer.java" bodystart="40" bodyend="43"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_table_view_model_renderer_1a1542508159d5963dd8a5f9a8cdb59850" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>java.lang.Object</type>
+        <definition>java.lang.Object crc643f46942d9dd1fff9.TableViewModelRenderer.getItem</definition>
+        <argsstring>(int p0)</argsstring>
+        <name>getItem</name>
+        <param>
+          <type>int</type>
+          <declname>p0</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/100/android/src/crc643f46942d9dd1fff9/TableViewModelRenderer.java" line="48" column="23" bodyfile="Application Green Quake.Android/obj/Debug/100/android/src/crc643f46942d9dd1fff9/TableViewModelRenderer.java" bodystart="48" bodyend="51"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_table_view_model_renderer_1af19bba1a598711a43dc76f0b626ecb2f" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>int</type>
+        <definition>int crc643f46942d9dd1fff9.TableViewModelRenderer.getViewTypeCount</definition>
+        <argsstring>()</argsstring>
+        <name>getViewTypeCount</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/100/android/src/crc643f46942d9dd1fff9/TableViewModelRenderer.java" line="56" column="12" bodyfile="Application Green Quake.Android/obj/Debug/100/android/src/crc643f46942d9dd1fff9/TableViewModelRenderer.java" bodystart="56" bodyend="59"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_table_view_model_renderer_1abfc31b341cf5666c5e81241bc6e3d97c" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>boolean</type>
+        <definition>boolean crc643f46942d9dd1fff9.TableViewModelRenderer.areAllItemsEnabled</definition>
+        <argsstring>()</argsstring>
+        <name>areAllItemsEnabled</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/100/android/src/crc643f46942d9dd1fff9/TableViewModelRenderer.java" line="64" column="16" bodyfile="Application Green Quake.Android/obj/Debug/100/android/src/crc643f46942d9dd1fff9/TableViewModelRenderer.java" bodystart="64" bodyend="67"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_table_view_model_renderer_1a3eb1d62bd5b8d6690485c7505723456c" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>long</type>
+        <definition>long crc643f46942d9dd1fff9.TableViewModelRenderer.getItemId</definition>
+        <argsstring>(int p0)</argsstring>
+        <name>getItemId</name>
+        <param>
+          <type>int</type>
+          <declname>p0</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/100/android/src/crc643f46942d9dd1fff9/TableViewModelRenderer.java" line="72" column="13" bodyfile="Application Green Quake.Android/obj/Debug/100/android/src/crc643f46942d9dd1fff9/TableViewModelRenderer.java" bodystart="72" bodyend="75"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_table_view_model_renderer_1a7f8e5141561e9d6f17eae27c2c8454a8" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>android.view.View</type>
+        <definition>android.view.View crc643f46942d9dd1fff9.TableViewModelRenderer.getView</definition>
+        <argsstring>(int p0, android.view.View p1, android.view.ViewGroup p2)</argsstring>
+        <name>getView</name>
+        <param>
+          <type>int</type>
+          <declname>p0</declname>
+        </param>
+        <param>
+          <type>android.view.View</type>
+          <declname>p1</declname>
+        </param>
+        <param>
+          <type>android.view.ViewGroup</type>
+          <declname>p2</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/100/android/src/crc643f46942d9dd1fff9/TableViewModelRenderer.java" line="80" column="24" bodyfile="Application Green Quake.Android/obj/Debug/100/android/src/crc643f46942d9dd1fff9/TableViewModelRenderer.java" bodystart="80" bodyend="83"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_table_view_model_renderer_1a5583fa49cc11063e6fe9136810dfda61" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>boolean</type>
+        <definition>boolean crc643f46942d9dd1fff9.TableViewModelRenderer.isEnabled</definition>
+        <argsstring>(int p0)</argsstring>
+        <name>isEnabled</name>
+        <param>
+          <type>int</type>
+          <declname>p0</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/100/android/src/crc643f46942d9dd1fff9/TableViewModelRenderer.java" line="88" column="16" bodyfile="Application Green Quake.Android/obj/Debug/100/android/src/crc643f46942d9dd1fff9/TableViewModelRenderer.java" bodystart="88" bodyend="91"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_table_view_model_renderer_1ae6b83d8ed310748a7c071ceef010f1c3" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void crc643f46942d9dd1fff9.TableViewModelRenderer.monodroidAddReference</definition>
+        <argsstring>(java.lang.Object obj)</argsstring>
+        <name>monodroidAddReference</name>
+        <reimplements refid="classcrc643f46942d9dd1fff9_1_1_cell_adapter_1a3918bcd44ea0c6c5f0cdcd2cf1028bcc">monodroidAddReference</reimplements>
+        <param>
+          <type>java.lang.Object</type>
+          <declname>obj</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/100/android/src/crc643f46942d9dd1fff9/TableViewModelRenderer.java" line="96" column="13" bodyfile="Application Green Quake.Android/obj/Debug/100/android/src/crc643f46942d9dd1fff9/TableViewModelRenderer.java" bodystart="96" bodyend="101"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_table_view_model_renderer_1ac473dd21bc1224d747e2f193f6d8811b" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void crc643f46942d9dd1fff9.TableViewModelRenderer.monodroidClearReferences</definition>
+        <argsstring>()</argsstring>
+        <name>monodroidClearReferences</name>
+        <reimplements refid="classcrc643f46942d9dd1fff9_1_1_cell_adapter_1a9845498e95704cdf52398af2433dc780">monodroidClearReferences</reimplements>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/100/android/src/crc643f46942d9dd1fff9/TableViewModelRenderer.java" line="103" column="13" bodyfile="Application Green Quake.Android/obj/Debug/100/android/src/crc643f46942d9dd1fff9/TableViewModelRenderer.java" bodystart="103" bodyend="107"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_table_view_model_renderer_1afd49d01b5caca9c8d6e17c99cd3d2f15" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>crc643f46942d9dd1fff9.TableViewModelRenderer.TableViewModelRenderer</definition>
+        <argsstring>()</argsstring>
+        <name>TableViewModelRenderer</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/110/android/src/crc643f46942d9dd1fff9/TableViewModelRenderer.java" line="25" column="8" bodyfile="Application Green Quake.Android/obj/Debug/110/android/src/crc643f46942d9dd1fff9/TableViewModelRenderer.java" bodystart="25" bodyend="30"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_table_view_model_renderer_1adedc00a0a370b1cb04908a6b5ec90b56" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>crc643f46942d9dd1fff9.TableViewModelRenderer.TableViewModelRenderer</definition>
+        <argsstring>(android.content.Context p0)</argsstring>
+        <name>TableViewModelRenderer</name>
+        <param>
+          <type>android.content.Context</type>
+          <declname>p0</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/110/android/src/crc643f46942d9dd1fff9/TableViewModelRenderer.java" line="32" column="8" bodyfile="Application Green Quake.Android/obj/Debug/110/android/src/crc643f46942d9dd1fff9/TableViewModelRenderer.java" bodystart="32" bodyend="37"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_table_view_model_renderer_1a645640de5e4e38ba1fcf7816bb8b5941" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>int</type>
+        <definition>int crc643f46942d9dd1fff9.TableViewModelRenderer.getCount</definition>
+        <argsstring>()</argsstring>
+        <name>getCount</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/110/android/src/crc643f46942d9dd1fff9/TableViewModelRenderer.java" line="40" column="12" bodyfile="Application Green Quake.Android/obj/Debug/110/android/src/crc643f46942d9dd1fff9/TableViewModelRenderer.java" bodystart="40" bodyend="43"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_table_view_model_renderer_1a1542508159d5963dd8a5f9a8cdb59850" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>java.lang.Object</type>
+        <definition>java.lang.Object crc643f46942d9dd1fff9.TableViewModelRenderer.getItem</definition>
+        <argsstring>(int p0)</argsstring>
+        <name>getItem</name>
+        <param>
+          <type>int</type>
+          <declname>p0</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/110/android/src/crc643f46942d9dd1fff9/TableViewModelRenderer.java" line="48" column="23" bodyfile="Application Green Quake.Android/obj/Debug/110/android/src/crc643f46942d9dd1fff9/TableViewModelRenderer.java" bodystart="48" bodyend="51"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_table_view_model_renderer_1af19bba1a598711a43dc76f0b626ecb2f" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>int</type>
+        <definition>int crc643f46942d9dd1fff9.TableViewModelRenderer.getViewTypeCount</definition>
+        <argsstring>()</argsstring>
+        <name>getViewTypeCount</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/110/android/src/crc643f46942d9dd1fff9/TableViewModelRenderer.java" line="56" column="12" bodyfile="Application Green Quake.Android/obj/Debug/110/android/src/crc643f46942d9dd1fff9/TableViewModelRenderer.java" bodystart="56" bodyend="59"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_table_view_model_renderer_1abfc31b341cf5666c5e81241bc6e3d97c" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>boolean</type>
+        <definition>boolean crc643f46942d9dd1fff9.TableViewModelRenderer.areAllItemsEnabled</definition>
+        <argsstring>()</argsstring>
+        <name>areAllItemsEnabled</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/110/android/src/crc643f46942d9dd1fff9/TableViewModelRenderer.java" line="64" column="16" bodyfile="Application Green Quake.Android/obj/Debug/110/android/src/crc643f46942d9dd1fff9/TableViewModelRenderer.java" bodystart="64" bodyend="67"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_table_view_model_renderer_1a3eb1d62bd5b8d6690485c7505723456c" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>long</type>
+        <definition>long crc643f46942d9dd1fff9.TableViewModelRenderer.getItemId</definition>
+        <argsstring>(int p0)</argsstring>
+        <name>getItemId</name>
+        <param>
+          <type>int</type>
+          <declname>p0</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/110/android/src/crc643f46942d9dd1fff9/TableViewModelRenderer.java" line="72" column="13" bodyfile="Application Green Quake.Android/obj/Debug/110/android/src/crc643f46942d9dd1fff9/TableViewModelRenderer.java" bodystart="72" bodyend="75"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_table_view_model_renderer_1a7f8e5141561e9d6f17eae27c2c8454a8" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>android.view.View</type>
+        <definition>android.view.View crc643f46942d9dd1fff9.TableViewModelRenderer.getView</definition>
+        <argsstring>(int p0, android.view.View p1, android.view.ViewGroup p2)</argsstring>
+        <name>getView</name>
+        <param>
+          <type>int</type>
+          <declname>p0</declname>
+        </param>
+        <param>
+          <type>android.view.View</type>
+          <declname>p1</declname>
+        </param>
+        <param>
+          <type>android.view.ViewGroup</type>
+          <declname>p2</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/110/android/src/crc643f46942d9dd1fff9/TableViewModelRenderer.java" line="80" column="24" bodyfile="Application Green Quake.Android/obj/Debug/110/android/src/crc643f46942d9dd1fff9/TableViewModelRenderer.java" bodystart="80" bodyend="83"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_table_view_model_renderer_1a5583fa49cc11063e6fe9136810dfda61" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>boolean</type>
+        <definition>boolean crc643f46942d9dd1fff9.TableViewModelRenderer.isEnabled</definition>
+        <argsstring>(int p0)</argsstring>
+        <name>isEnabled</name>
+        <param>
+          <type>int</type>
+          <declname>p0</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/110/android/src/crc643f46942d9dd1fff9/TableViewModelRenderer.java" line="88" column="16" bodyfile="Application Green Quake.Android/obj/Debug/110/android/src/crc643f46942d9dd1fff9/TableViewModelRenderer.java" bodystart="88" bodyend="91"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_table_view_model_renderer_1ae6b83d8ed310748a7c071ceef010f1c3" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void crc643f46942d9dd1fff9.TableViewModelRenderer.monodroidAddReference</definition>
+        <argsstring>(java.lang.Object obj)</argsstring>
+        <name>monodroidAddReference</name>
+        <reimplements refid="classcrc643f46942d9dd1fff9_1_1_cell_adapter_1a3918bcd44ea0c6c5f0cdcd2cf1028bcc">monodroidAddReference</reimplements>
+        <param>
+          <type>java.lang.Object</type>
+          <declname>obj</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/110/android/src/crc643f46942d9dd1fff9/TableViewModelRenderer.java" line="96" column="13" bodyfile="Application Green Quake.Android/obj/Debug/110/android/src/crc643f46942d9dd1fff9/TableViewModelRenderer.java" bodystart="96" bodyend="101"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_table_view_model_renderer_1ac473dd21bc1224d747e2f193f6d8811b" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void crc643f46942d9dd1fff9.TableViewModelRenderer.monodroidClearReferences</definition>
+        <argsstring>()</argsstring>
+        <name>monodroidClearReferences</name>
+        <reimplements refid="classcrc643f46942d9dd1fff9_1_1_cell_adapter_1a9845498e95704cdf52398af2433dc780">monodroidClearReferences</reimplements>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/110/android/src/crc643f46942d9dd1fff9/TableViewModelRenderer.java" line="103" column="13" bodyfile="Application Green Quake.Android/obj/Debug/110/android/src/crc643f46942d9dd1fff9/TableViewModelRenderer.java" bodystart="103" bodyend="107"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_table_view_model_renderer_1afd49d01b5caca9c8d6e17c99cd3d2f15" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>crc643f46942d9dd1fff9.TableViewModelRenderer.TableViewModelRenderer</definition>
+        <argsstring>()</argsstring>
+        <name>TableViewModelRenderer</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/100/android/src/crc643f46942d9dd1fff9/TableViewModelRenderer.java" line="25" column="8" bodyfile="Application Green Quake.Android/obj/Release/100/android/src/crc643f46942d9dd1fff9/TableViewModelRenderer.java" bodystart="25" bodyend="30"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_table_view_model_renderer_1adedc00a0a370b1cb04908a6b5ec90b56" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>crc643f46942d9dd1fff9.TableViewModelRenderer.TableViewModelRenderer</definition>
+        <argsstring>(android.content.Context p0)</argsstring>
+        <name>TableViewModelRenderer</name>
+        <param>
+          <type>android.content.Context</type>
+          <declname>p0</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/100/android/src/crc643f46942d9dd1fff9/TableViewModelRenderer.java" line="32" column="8" bodyfile="Application Green Quake.Android/obj/Release/100/android/src/crc643f46942d9dd1fff9/TableViewModelRenderer.java" bodystart="32" bodyend="37"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_table_view_model_renderer_1a645640de5e4e38ba1fcf7816bb8b5941" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>int</type>
+        <definition>int crc643f46942d9dd1fff9.TableViewModelRenderer.getCount</definition>
+        <argsstring>()</argsstring>
+        <name>getCount</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/100/android/src/crc643f46942d9dd1fff9/TableViewModelRenderer.java" line="40" column="12" bodyfile="Application Green Quake.Android/obj/Release/100/android/src/crc643f46942d9dd1fff9/TableViewModelRenderer.java" bodystart="40" bodyend="43"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_table_view_model_renderer_1a1542508159d5963dd8a5f9a8cdb59850" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>java.lang.Object</type>
+        <definition>java.lang.Object crc643f46942d9dd1fff9.TableViewModelRenderer.getItem</definition>
+        <argsstring>(int p0)</argsstring>
+        <name>getItem</name>
+        <param>
+          <type>int</type>
+          <declname>p0</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/100/android/src/crc643f46942d9dd1fff9/TableViewModelRenderer.java" line="48" column="23" bodyfile="Application Green Quake.Android/obj/Release/100/android/src/crc643f46942d9dd1fff9/TableViewModelRenderer.java" bodystart="48" bodyend="51"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_table_view_model_renderer_1af19bba1a598711a43dc76f0b626ecb2f" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>int</type>
+        <definition>int crc643f46942d9dd1fff9.TableViewModelRenderer.getViewTypeCount</definition>
+        <argsstring>()</argsstring>
+        <name>getViewTypeCount</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/100/android/src/crc643f46942d9dd1fff9/TableViewModelRenderer.java" line="56" column="12" bodyfile="Application Green Quake.Android/obj/Release/100/android/src/crc643f46942d9dd1fff9/TableViewModelRenderer.java" bodystart="56" bodyend="59"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_table_view_model_renderer_1abfc31b341cf5666c5e81241bc6e3d97c" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>boolean</type>
+        <definition>boolean crc643f46942d9dd1fff9.TableViewModelRenderer.areAllItemsEnabled</definition>
+        <argsstring>()</argsstring>
+        <name>areAllItemsEnabled</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/100/android/src/crc643f46942d9dd1fff9/TableViewModelRenderer.java" line="64" column="16" bodyfile="Application Green Quake.Android/obj/Release/100/android/src/crc643f46942d9dd1fff9/TableViewModelRenderer.java" bodystart="64" bodyend="67"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_table_view_model_renderer_1a3eb1d62bd5b8d6690485c7505723456c" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>long</type>
+        <definition>long crc643f46942d9dd1fff9.TableViewModelRenderer.getItemId</definition>
+        <argsstring>(int p0)</argsstring>
+        <name>getItemId</name>
+        <param>
+          <type>int</type>
+          <declname>p0</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/100/android/src/crc643f46942d9dd1fff9/TableViewModelRenderer.java" line="72" column="13" bodyfile="Application Green Quake.Android/obj/Release/100/android/src/crc643f46942d9dd1fff9/TableViewModelRenderer.java" bodystart="72" bodyend="75"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_table_view_model_renderer_1a7f8e5141561e9d6f17eae27c2c8454a8" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>android.view.View</type>
+        <definition>android.view.View crc643f46942d9dd1fff9.TableViewModelRenderer.getView</definition>
+        <argsstring>(int p0, android.view.View p1, android.view.ViewGroup p2)</argsstring>
+        <name>getView</name>
+        <param>
+          <type>int</type>
+          <declname>p0</declname>
+        </param>
+        <param>
+          <type>android.view.View</type>
+          <declname>p1</declname>
+        </param>
+        <param>
+          <type>android.view.ViewGroup</type>
+          <declname>p2</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/100/android/src/crc643f46942d9dd1fff9/TableViewModelRenderer.java" line="80" column="24" bodyfile="Application Green Quake.Android/obj/Release/100/android/src/crc643f46942d9dd1fff9/TableViewModelRenderer.java" bodystart="80" bodyend="83"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_table_view_model_renderer_1a5583fa49cc11063e6fe9136810dfda61" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>boolean</type>
+        <definition>boolean crc643f46942d9dd1fff9.TableViewModelRenderer.isEnabled</definition>
+        <argsstring>(int p0)</argsstring>
+        <name>isEnabled</name>
+        <param>
+          <type>int</type>
+          <declname>p0</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/100/android/src/crc643f46942d9dd1fff9/TableViewModelRenderer.java" line="88" column="16" bodyfile="Application Green Quake.Android/obj/Release/100/android/src/crc643f46942d9dd1fff9/TableViewModelRenderer.java" bodystart="88" bodyend="91"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_table_view_model_renderer_1ae6b83d8ed310748a7c071ceef010f1c3" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void crc643f46942d9dd1fff9.TableViewModelRenderer.monodroidAddReference</definition>
+        <argsstring>(java.lang.Object obj)</argsstring>
+        <name>monodroidAddReference</name>
+        <reimplements refid="classcrc643f46942d9dd1fff9_1_1_cell_adapter_1a3918bcd44ea0c6c5f0cdcd2cf1028bcc">monodroidAddReference</reimplements>
+        <param>
+          <type>java.lang.Object</type>
+          <declname>obj</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/100/android/src/crc643f46942d9dd1fff9/TableViewModelRenderer.java" line="96" column="13" bodyfile="Application Green Quake.Android/obj/Release/100/android/src/crc643f46942d9dd1fff9/TableViewModelRenderer.java" bodystart="96" bodyend="101"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_table_view_model_renderer_1ac473dd21bc1224d747e2f193f6d8811b" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void crc643f46942d9dd1fff9.TableViewModelRenderer.monodroidClearReferences</definition>
+        <argsstring>()</argsstring>
+        <name>monodroidClearReferences</name>
+        <reimplements refid="classcrc643f46942d9dd1fff9_1_1_cell_adapter_1a9845498e95704cdf52398af2433dc780">monodroidClearReferences</reimplements>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/100/android/src/crc643f46942d9dd1fff9/TableViewModelRenderer.java" line="103" column="13" bodyfile="Application Green Quake.Android/obj/Release/100/android/src/crc643f46942d9dd1fff9/TableViewModelRenderer.java" bodystart="103" bodyend="107"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_table_view_model_renderer_1afd49d01b5caca9c8d6e17c99cd3d2f15" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>crc643f46942d9dd1fff9.TableViewModelRenderer.TableViewModelRenderer</definition>
+        <argsstring>()</argsstring>
+        <name>TableViewModelRenderer</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/110/android/src/crc643f46942d9dd1fff9/TableViewModelRenderer.java" line="25" column="8" bodyfile="Application Green Quake.Android/obj/Release/110/android/src/crc643f46942d9dd1fff9/TableViewModelRenderer.java" bodystart="25" bodyend="30"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_table_view_model_renderer_1adedc00a0a370b1cb04908a6b5ec90b56" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>crc643f46942d9dd1fff9.TableViewModelRenderer.TableViewModelRenderer</definition>
+        <argsstring>(android.content.Context p0)</argsstring>
+        <name>TableViewModelRenderer</name>
+        <param>
+          <type>android.content.Context</type>
+          <declname>p0</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/110/android/src/crc643f46942d9dd1fff9/TableViewModelRenderer.java" line="32" column="8" bodyfile="Application Green Quake.Android/obj/Release/110/android/src/crc643f46942d9dd1fff9/TableViewModelRenderer.java" bodystart="32" bodyend="37"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_table_view_model_renderer_1a645640de5e4e38ba1fcf7816bb8b5941" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>int</type>
+        <definition>int crc643f46942d9dd1fff9.TableViewModelRenderer.getCount</definition>
+        <argsstring>()</argsstring>
+        <name>getCount</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/110/android/src/crc643f46942d9dd1fff9/TableViewModelRenderer.java" line="40" column="12" bodyfile="Application Green Quake.Android/obj/Release/110/android/src/crc643f46942d9dd1fff9/TableViewModelRenderer.java" bodystart="40" bodyend="43"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_table_view_model_renderer_1a1542508159d5963dd8a5f9a8cdb59850" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>java.lang.Object</type>
+        <definition>java.lang.Object crc643f46942d9dd1fff9.TableViewModelRenderer.getItem</definition>
+        <argsstring>(int p0)</argsstring>
+        <name>getItem</name>
+        <param>
+          <type>int</type>
+          <declname>p0</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/110/android/src/crc643f46942d9dd1fff9/TableViewModelRenderer.java" line="48" column="23" bodyfile="Application Green Quake.Android/obj/Release/110/android/src/crc643f46942d9dd1fff9/TableViewModelRenderer.java" bodystart="48" bodyend="51"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_table_view_model_renderer_1af19bba1a598711a43dc76f0b626ecb2f" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>int</type>
+        <definition>int crc643f46942d9dd1fff9.TableViewModelRenderer.getViewTypeCount</definition>
+        <argsstring>()</argsstring>
+        <name>getViewTypeCount</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/110/android/src/crc643f46942d9dd1fff9/TableViewModelRenderer.java" line="56" column="12" bodyfile="Application Green Quake.Android/obj/Release/110/android/src/crc643f46942d9dd1fff9/TableViewModelRenderer.java" bodystart="56" bodyend="59"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_table_view_model_renderer_1abfc31b341cf5666c5e81241bc6e3d97c" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>boolean</type>
+        <definition>boolean crc643f46942d9dd1fff9.TableViewModelRenderer.areAllItemsEnabled</definition>
+        <argsstring>()</argsstring>
+        <name>areAllItemsEnabled</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/110/android/src/crc643f46942d9dd1fff9/TableViewModelRenderer.java" line="64" column="16" bodyfile="Application Green Quake.Android/obj/Release/110/android/src/crc643f46942d9dd1fff9/TableViewModelRenderer.java" bodystart="64" bodyend="67"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_table_view_model_renderer_1a3eb1d62bd5b8d6690485c7505723456c" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>long</type>
+        <definition>long crc643f46942d9dd1fff9.TableViewModelRenderer.getItemId</definition>
+        <argsstring>(int p0)</argsstring>
+        <name>getItemId</name>
+        <param>
+          <type>int</type>
+          <declname>p0</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/110/android/src/crc643f46942d9dd1fff9/TableViewModelRenderer.java" line="72" column="13" bodyfile="Application Green Quake.Android/obj/Release/110/android/src/crc643f46942d9dd1fff9/TableViewModelRenderer.java" bodystart="72" bodyend="75"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_table_view_model_renderer_1a7f8e5141561e9d6f17eae27c2c8454a8" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>android.view.View</type>
+        <definition>android.view.View crc643f46942d9dd1fff9.TableViewModelRenderer.getView</definition>
+        <argsstring>(int p0, android.view.View p1, android.view.ViewGroup p2)</argsstring>
+        <name>getView</name>
+        <param>
+          <type>int</type>
+          <declname>p0</declname>
+        </param>
+        <param>
+          <type>android.view.View</type>
+          <declname>p1</declname>
+        </param>
+        <param>
+          <type>android.view.ViewGroup</type>
+          <declname>p2</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/110/android/src/crc643f46942d9dd1fff9/TableViewModelRenderer.java" line="80" column="24" bodyfile="Application Green Quake.Android/obj/Release/110/android/src/crc643f46942d9dd1fff9/TableViewModelRenderer.java" bodystart="80" bodyend="83"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_table_view_model_renderer_1a5583fa49cc11063e6fe9136810dfda61" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>boolean</type>
+        <definition>boolean crc643f46942d9dd1fff9.TableViewModelRenderer.isEnabled</definition>
+        <argsstring>(int p0)</argsstring>
+        <name>isEnabled</name>
+        <param>
+          <type>int</type>
+          <declname>p0</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/110/android/src/crc643f46942d9dd1fff9/TableViewModelRenderer.java" line="88" column="16" bodyfile="Application Green Quake.Android/obj/Release/110/android/src/crc643f46942d9dd1fff9/TableViewModelRenderer.java" bodystart="88" bodyend="91"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_table_view_model_renderer_1ae6b83d8ed310748a7c071ceef010f1c3" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void crc643f46942d9dd1fff9.TableViewModelRenderer.monodroidAddReference</definition>
+        <argsstring>(java.lang.Object obj)</argsstring>
+        <name>monodroidAddReference</name>
+        <reimplements refid="classcrc643f46942d9dd1fff9_1_1_cell_adapter_1a3918bcd44ea0c6c5f0cdcd2cf1028bcc">monodroidAddReference</reimplements>
+        <param>
+          <type>java.lang.Object</type>
+          <declname>obj</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/110/android/src/crc643f46942d9dd1fff9/TableViewModelRenderer.java" line="96" column="13" bodyfile="Application Green Quake.Android/obj/Release/110/android/src/crc643f46942d9dd1fff9/TableViewModelRenderer.java" bodystart="96" bodyend="101"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_table_view_model_renderer_1ac473dd21bc1224d747e2f193f6d8811b" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void crc643f46942d9dd1fff9.TableViewModelRenderer.monodroidClearReferences</definition>
+        <argsstring>()</argsstring>
+        <name>monodroidClearReferences</name>
+        <reimplements refid="classcrc643f46942d9dd1fff9_1_1_cell_adapter_1a9845498e95704cdf52398af2433dc780">monodroidClearReferences</reimplements>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/110/android/src/crc643f46942d9dd1fff9/TableViewModelRenderer.java" line="103" column="13" bodyfile="Application Green Quake.Android/obj/Release/110/android/src/crc643f46942d9dd1fff9/TableViewModelRenderer.java" bodystart="103" bodyend="107"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="private-func">
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_table_view_model_renderer_1a4b6128aa1c1e35273e00bfbac40a913b" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>native int</type>
+        <definition>native int crc643f46942d9dd1fff9.TableViewModelRenderer.n_getCount</definition>
+        <argsstring>()</argsstring>
+        <name>n_getCount</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/100/android/src/crc643f46942d9dd1fff9/TableViewModelRenderer.java" line="45" column="20"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_table_view_model_renderer_1ad2262529baedbce38b972bbe833d3d70" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>native java.lang.Object</type>
+        <definition>native java.lang.Object crc643f46942d9dd1fff9.TableViewModelRenderer.n_getItem</definition>
+        <argsstring>(int p0)</argsstring>
+        <name>n_getItem</name>
+        <param>
+          <type>int</type>
+          <declname>p0</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/100/android/src/crc643f46942d9dd1fff9/TableViewModelRenderer.java" line="53" column="31"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_table_view_model_renderer_1aece3f494f357c03a5b1412f50887731b" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>native int</type>
+        <definition>native int crc643f46942d9dd1fff9.TableViewModelRenderer.n_getViewTypeCount</definition>
+        <argsstring>()</argsstring>
+        <name>n_getViewTypeCount</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/100/android/src/crc643f46942d9dd1fff9/TableViewModelRenderer.java" line="61" column="20"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_table_view_model_renderer_1a1f6fe3b0f2625eb4d36bafe90f507ec5" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>native boolean</type>
+        <definition>native boolean crc643f46942d9dd1fff9.TableViewModelRenderer.n_areAllItemsEnabled</definition>
+        <argsstring>()</argsstring>
+        <name>n_areAllItemsEnabled</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/100/android/src/crc643f46942d9dd1fff9/TableViewModelRenderer.java" line="69" column="24"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_table_view_model_renderer_1a03b11aa1d95b189fa0814b761344c9b5" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>native long</type>
+        <definition>native long crc643f46942d9dd1fff9.TableViewModelRenderer.n_getItemId</definition>
+        <argsstring>(int p0)</argsstring>
+        <name>n_getItemId</name>
+        <param>
+          <type>int</type>
+          <declname>p0</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/100/android/src/crc643f46942d9dd1fff9/TableViewModelRenderer.java" line="77" column="21"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_table_view_model_renderer_1a04ac69cb653659338665a51de0716ddb" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>native android.view.View</type>
+        <definition>native android.view.View crc643f46942d9dd1fff9.TableViewModelRenderer.n_getView</definition>
+        <argsstring>(int p0, android.view.View p1, android.view.ViewGroup p2)</argsstring>
+        <name>n_getView</name>
+        <param>
+          <type>int</type>
+          <declname>p0</declname>
+        </param>
+        <param>
+          <type>android.view.View</type>
+          <declname>p1</declname>
+        </param>
+        <param>
+          <type>android.view.ViewGroup</type>
+          <declname>p2</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/100/android/src/crc643f46942d9dd1fff9/TableViewModelRenderer.java" line="85" column="32"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_table_view_model_renderer_1ab28aae89a4c1cefa1d975bf055f806bd" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>native boolean</type>
+        <definition>native boolean crc643f46942d9dd1fff9.TableViewModelRenderer.n_isEnabled</definition>
+        <argsstring>(int p0)</argsstring>
+        <name>n_isEnabled</name>
+        <param>
+          <type>int</type>
+          <declname>p0</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/100/android/src/crc643f46942d9dd1fff9/TableViewModelRenderer.java" line="93" column="24"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_table_view_model_renderer_1a4b6128aa1c1e35273e00bfbac40a913b" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>native int</type>
+        <definition>native int crc643f46942d9dd1fff9.TableViewModelRenderer.n_getCount</definition>
+        <argsstring>()</argsstring>
+        <name>n_getCount</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/110/android/src/crc643f46942d9dd1fff9/TableViewModelRenderer.java" line="45" column="20"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_table_view_model_renderer_1ad2262529baedbce38b972bbe833d3d70" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>native java.lang.Object</type>
+        <definition>native java.lang.Object crc643f46942d9dd1fff9.TableViewModelRenderer.n_getItem</definition>
+        <argsstring>(int p0)</argsstring>
+        <name>n_getItem</name>
+        <param>
+          <type>int</type>
+          <declname>p0</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/110/android/src/crc643f46942d9dd1fff9/TableViewModelRenderer.java" line="53" column="31"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_table_view_model_renderer_1aece3f494f357c03a5b1412f50887731b" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>native int</type>
+        <definition>native int crc643f46942d9dd1fff9.TableViewModelRenderer.n_getViewTypeCount</definition>
+        <argsstring>()</argsstring>
+        <name>n_getViewTypeCount</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/110/android/src/crc643f46942d9dd1fff9/TableViewModelRenderer.java" line="61" column="20"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_table_view_model_renderer_1a1f6fe3b0f2625eb4d36bafe90f507ec5" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>native boolean</type>
+        <definition>native boolean crc643f46942d9dd1fff9.TableViewModelRenderer.n_areAllItemsEnabled</definition>
+        <argsstring>()</argsstring>
+        <name>n_areAllItemsEnabled</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/110/android/src/crc643f46942d9dd1fff9/TableViewModelRenderer.java" line="69" column="24"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_table_view_model_renderer_1a03b11aa1d95b189fa0814b761344c9b5" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>native long</type>
+        <definition>native long crc643f46942d9dd1fff9.TableViewModelRenderer.n_getItemId</definition>
+        <argsstring>(int p0)</argsstring>
+        <name>n_getItemId</name>
+        <param>
+          <type>int</type>
+          <declname>p0</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/110/android/src/crc643f46942d9dd1fff9/TableViewModelRenderer.java" line="77" column="21"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_table_view_model_renderer_1a04ac69cb653659338665a51de0716ddb" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>native android.view.View</type>
+        <definition>native android.view.View crc643f46942d9dd1fff9.TableViewModelRenderer.n_getView</definition>
+        <argsstring>(int p0, android.view.View p1, android.view.ViewGroup p2)</argsstring>
+        <name>n_getView</name>
+        <param>
+          <type>int</type>
+          <declname>p0</declname>
+        </param>
+        <param>
+          <type>android.view.View</type>
+          <declname>p1</declname>
+        </param>
+        <param>
+          <type>android.view.ViewGroup</type>
+          <declname>p2</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/110/android/src/crc643f46942d9dd1fff9/TableViewModelRenderer.java" line="85" column="32"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_table_view_model_renderer_1ab28aae89a4c1cefa1d975bf055f806bd" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>native boolean</type>
+        <definition>native boolean crc643f46942d9dd1fff9.TableViewModelRenderer.n_isEnabled</definition>
+        <argsstring>(int p0)</argsstring>
+        <name>n_isEnabled</name>
+        <param>
+          <type>int</type>
+          <declname>p0</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/110/android/src/crc643f46942d9dd1fff9/TableViewModelRenderer.java" line="93" column="24"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_table_view_model_renderer_1a4b6128aa1c1e35273e00bfbac40a913b" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>native int</type>
+        <definition>native int crc643f46942d9dd1fff9.TableViewModelRenderer.n_getCount</definition>
+        <argsstring>()</argsstring>
+        <name>n_getCount</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/100/android/src/crc643f46942d9dd1fff9/TableViewModelRenderer.java" line="45" column="20"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_table_view_model_renderer_1ad2262529baedbce38b972bbe833d3d70" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>native java.lang.Object</type>
+        <definition>native java.lang.Object crc643f46942d9dd1fff9.TableViewModelRenderer.n_getItem</definition>
+        <argsstring>(int p0)</argsstring>
+        <name>n_getItem</name>
+        <param>
+          <type>int</type>
+          <declname>p0</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/100/android/src/crc643f46942d9dd1fff9/TableViewModelRenderer.java" line="53" column="31"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_table_view_model_renderer_1aece3f494f357c03a5b1412f50887731b" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>native int</type>
+        <definition>native int crc643f46942d9dd1fff9.TableViewModelRenderer.n_getViewTypeCount</definition>
+        <argsstring>()</argsstring>
+        <name>n_getViewTypeCount</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/100/android/src/crc643f46942d9dd1fff9/TableViewModelRenderer.java" line="61" column="20"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_table_view_model_renderer_1a1f6fe3b0f2625eb4d36bafe90f507ec5" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>native boolean</type>
+        <definition>native boolean crc643f46942d9dd1fff9.TableViewModelRenderer.n_areAllItemsEnabled</definition>
+        <argsstring>()</argsstring>
+        <name>n_areAllItemsEnabled</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/100/android/src/crc643f46942d9dd1fff9/TableViewModelRenderer.java" line="69" column="24"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_table_view_model_renderer_1a03b11aa1d95b189fa0814b761344c9b5" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>native long</type>
+        <definition>native long crc643f46942d9dd1fff9.TableViewModelRenderer.n_getItemId</definition>
+        <argsstring>(int p0)</argsstring>
+        <name>n_getItemId</name>
+        <param>
+          <type>int</type>
+          <declname>p0</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/100/android/src/crc643f46942d9dd1fff9/TableViewModelRenderer.java" line="77" column="21"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_table_view_model_renderer_1a04ac69cb653659338665a51de0716ddb" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>native android.view.View</type>
+        <definition>native android.view.View crc643f46942d9dd1fff9.TableViewModelRenderer.n_getView</definition>
+        <argsstring>(int p0, android.view.View p1, android.view.ViewGroup p2)</argsstring>
+        <name>n_getView</name>
+        <param>
+          <type>int</type>
+          <declname>p0</declname>
+        </param>
+        <param>
+          <type>android.view.View</type>
+          <declname>p1</declname>
+        </param>
+        <param>
+          <type>android.view.ViewGroup</type>
+          <declname>p2</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/100/android/src/crc643f46942d9dd1fff9/TableViewModelRenderer.java" line="85" column="32"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_table_view_model_renderer_1ab28aae89a4c1cefa1d975bf055f806bd" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>native boolean</type>
+        <definition>native boolean crc643f46942d9dd1fff9.TableViewModelRenderer.n_isEnabled</definition>
+        <argsstring>(int p0)</argsstring>
+        <name>n_isEnabled</name>
+        <param>
+          <type>int</type>
+          <declname>p0</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/100/android/src/crc643f46942d9dd1fff9/TableViewModelRenderer.java" line="93" column="24"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_table_view_model_renderer_1a4b6128aa1c1e35273e00bfbac40a913b" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>native int</type>
+        <definition>native int crc643f46942d9dd1fff9.TableViewModelRenderer.n_getCount</definition>
+        <argsstring>()</argsstring>
+        <name>n_getCount</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/110/android/src/crc643f46942d9dd1fff9/TableViewModelRenderer.java" line="45" column="20"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_table_view_model_renderer_1ad2262529baedbce38b972bbe833d3d70" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>native java.lang.Object</type>
+        <definition>native java.lang.Object crc643f46942d9dd1fff9.TableViewModelRenderer.n_getItem</definition>
+        <argsstring>(int p0)</argsstring>
+        <name>n_getItem</name>
+        <param>
+          <type>int</type>
+          <declname>p0</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/110/android/src/crc643f46942d9dd1fff9/TableViewModelRenderer.java" line="53" column="31"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_table_view_model_renderer_1aece3f494f357c03a5b1412f50887731b" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>native int</type>
+        <definition>native int crc643f46942d9dd1fff9.TableViewModelRenderer.n_getViewTypeCount</definition>
+        <argsstring>()</argsstring>
+        <name>n_getViewTypeCount</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/110/android/src/crc643f46942d9dd1fff9/TableViewModelRenderer.java" line="61" column="20"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_table_view_model_renderer_1a1f6fe3b0f2625eb4d36bafe90f507ec5" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>native boolean</type>
+        <definition>native boolean crc643f46942d9dd1fff9.TableViewModelRenderer.n_areAllItemsEnabled</definition>
+        <argsstring>()</argsstring>
+        <name>n_areAllItemsEnabled</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/110/android/src/crc643f46942d9dd1fff9/TableViewModelRenderer.java" line="69" column="24"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_table_view_model_renderer_1a03b11aa1d95b189fa0814b761344c9b5" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>native long</type>
+        <definition>native long crc643f46942d9dd1fff9.TableViewModelRenderer.n_getItemId</definition>
+        <argsstring>(int p0)</argsstring>
+        <name>n_getItemId</name>
+        <param>
+          <type>int</type>
+          <declname>p0</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/110/android/src/crc643f46942d9dd1fff9/TableViewModelRenderer.java" line="77" column="21"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_table_view_model_renderer_1a04ac69cb653659338665a51de0716ddb" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>native android.view.View</type>
+        <definition>native android.view.View crc643f46942d9dd1fff9.TableViewModelRenderer.n_getView</definition>
+        <argsstring>(int p0, android.view.View p1, android.view.ViewGroup p2)</argsstring>
+        <name>n_getView</name>
+        <param>
+          <type>int</type>
+          <declname>p0</declname>
+        </param>
+        <param>
+          <type>android.view.View</type>
+          <declname>p1</declname>
+        </param>
+        <param>
+          <type>android.view.ViewGroup</type>
+          <declname>p2</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/110/android/src/crc643f46942d9dd1fff9/TableViewModelRenderer.java" line="85" column="32"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_table_view_model_renderer_1ab28aae89a4c1cefa1d975bf055f806bd" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>native boolean</type>
+        <definition>native boolean crc643f46942d9dd1fff9.TableViewModelRenderer.n_isEnabled</definition>
+        <argsstring>(int p0)</argsstring>
+        <name>n_isEnabled</name>
+        <param>
+          <type>int</type>
+          <declname>p0</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/110/android/src/crc643f46942d9dd1fff9/TableViewModelRenderer.java" line="93" column="24"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <inheritancegraph>
+      <node id="3">
+        <label>android::widget::BaseAdapter</label>
+      </node>
+      <node id="13">
+        <label>androidx.appcompat.view.ActionMode.Callback</label>
+      </node>
+      <node id="2">
+        <label>crc643f46942d9dd1fff9.CellAdapter</label>
+        <link refid="classcrc643f46942d9dd1fff9_1_1_cell_adapter"/>
+        <childnode refid="3" relation="public-inheritance">
+        </childnode>
+        <childnode refid="4" relation="public-inheritance">
+        </childnode>
+        <childnode refid="5" relation="public-inheritance">
+        </childnode>
+        <childnode refid="6" relation="public-inheritance">
+        </childnode>
+        <childnode refid="7" relation="public-inheritance">
+        </childnode>
+        <childnode refid="8" relation="public-inheritance">
+        </childnode>
+        <childnode refid="9" relation="public-inheritance">
+        </childnode>
+        <childnode refid="4" relation="public-inheritance">
+        </childnode>
+        <childnode refid="10" relation="public-inheritance">
+        </childnode>
+        <childnode refid="11" relation="public-inheritance">
+        </childnode>
+        <childnode refid="12" relation="public-inheritance">
+        </childnode>
+        <childnode refid="13" relation="public-inheritance">
+        </childnode>
+        <childnode refid="9" relation="public-inheritance">
+        </childnode>
+        <childnode refid="4" relation="public-inheritance">
+        </childnode>
+        <childnode refid="10" relation="public-inheritance">
+        </childnode>
+        <childnode refid="11" relation="public-inheritance">
+        </childnode>
+        <childnode refid="12" relation="public-inheritance">
+        </childnode>
+        <childnode refid="13" relation="public-inheritance">
+        </childnode>
+        <childnode refid="9" relation="public-inheritance">
+        </childnode>
+        <childnode refid="4" relation="public-inheritance">
+        </childnode>
+        <childnode refid="10" relation="public-inheritance">
+        </childnode>
+        <childnode refid="11" relation="public-inheritance">
+        </childnode>
+        <childnode refid="12" relation="public-inheritance">
+        </childnode>
+        <childnode refid="13" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="9">
+        <label>android.widget.BaseAdapter</label>
+      </node>
+      <node id="6">
+        <label>android::view::ActionMode::Callback</label>
+      </node>
+      <node id="10">
+        <label>android.widget.AdapterView.OnItemLongClickListener</label>
+      </node>
+      <node id="11">
+        <label>android.view.ActionMode.Callback</label>
+      </node>
+      <node id="4">
+        <label>mono.android.IGCUserPeer</label>
+      </node>
+      <node id="12">
+        <label>android.widget.AdapterView.OnItemClickListener</label>
+      </node>
+      <node id="7">
+        <label>android::widget::AdapterView::OnItemClickListener</label>
+      </node>
+      <node id="1">
+        <label>crc643f46942d9dd1fff9.TableViewModelRenderer</label>
+        <link refid="classcrc643f46942d9dd1fff9_1_1_table_view_model_renderer"/>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+        <childnode refid="4" relation="public-inheritance">
+        </childnode>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+        <childnode refid="4" relation="public-inheritance">
+        </childnode>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+        <childnode refid="4" relation="public-inheritance">
+        </childnode>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+        <childnode refid="4" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="5">
+        <label>android::widget::AdapterView::OnItemLongClickListener</label>
+      </node>
+      <node id="8">
+        <label>androidx::appcompat::view::ActionMode::Callback</label>
+      </node>
+    </inheritancegraph>
+    <collaborationgraph>
+      <node id="3">
+        <label>android::widget::BaseAdapter</label>
+      </node>
+      <node id="13">
+        <label>androidx.appcompat.view.ActionMode.Callback</label>
+      </node>
+      <node id="2">
+        <label>crc643f46942d9dd1fff9.CellAdapter</label>
+        <link refid="classcrc643f46942d9dd1fff9_1_1_cell_adapter"/>
+        <childnode refid="3" relation="public-inheritance">
+        </childnode>
+        <childnode refid="4" relation="public-inheritance">
+        </childnode>
+        <childnode refid="5" relation="public-inheritance">
+        </childnode>
+        <childnode refid="6" relation="public-inheritance">
+        </childnode>
+        <childnode refid="7" relation="public-inheritance">
+        </childnode>
+        <childnode refid="8" relation="public-inheritance">
+        </childnode>
+        <childnode refid="9" relation="public-inheritance">
+        </childnode>
+        <childnode refid="4" relation="public-inheritance">
+        </childnode>
+        <childnode refid="10" relation="public-inheritance">
+        </childnode>
+        <childnode refid="11" relation="public-inheritance">
+        </childnode>
+        <childnode refid="12" relation="public-inheritance">
+        </childnode>
+        <childnode refid="13" relation="public-inheritance">
+        </childnode>
+        <childnode refid="9" relation="public-inheritance">
+        </childnode>
+        <childnode refid="4" relation="public-inheritance">
+        </childnode>
+        <childnode refid="10" relation="public-inheritance">
+        </childnode>
+        <childnode refid="11" relation="public-inheritance">
+        </childnode>
+        <childnode refid="12" relation="public-inheritance">
+        </childnode>
+        <childnode refid="13" relation="public-inheritance">
+        </childnode>
+        <childnode refid="9" relation="public-inheritance">
+        </childnode>
+        <childnode refid="4" relation="public-inheritance">
+        </childnode>
+        <childnode refid="10" relation="public-inheritance">
+        </childnode>
+        <childnode refid="11" relation="public-inheritance">
+        </childnode>
+        <childnode refid="12" relation="public-inheritance">
+        </childnode>
+        <childnode refid="13" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="9">
+        <label>android.widget.BaseAdapter</label>
+      </node>
+      <node id="6">
+        <label>android::view::ActionMode::Callback</label>
+      </node>
+      <node id="10">
+        <label>android.widget.AdapterView.OnItemLongClickListener</label>
+      </node>
+      <node id="11">
+        <label>android.view.ActionMode.Callback</label>
+      </node>
+      <node id="4">
+        <label>mono.android.IGCUserPeer</label>
+      </node>
+      <node id="12">
+        <label>android.widget.AdapterView.OnItemClickListener</label>
+      </node>
+      <node id="7">
+        <label>android::widget::AdapterView::OnItemClickListener</label>
+      </node>
+      <node id="1">
+        <label>crc643f46942d9dd1fff9.TableViewModelRenderer</label>
+        <link refid="classcrc643f46942d9dd1fff9_1_1_table_view_model_renderer"/>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+        <childnode refid="4" relation="public-inheritance">
+        </childnode>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+        <childnode refid="4" relation="public-inheritance">
+        </childnode>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+        <childnode refid="4" relation="public-inheritance">
+        </childnode>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+        <childnode refid="4" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="5">
+        <label>android::widget::AdapterView::OnItemLongClickListener</label>
+      </node>
+      <node id="8">
+        <label>androidx::appcompat::view::ActionMode::Callback</label>
+      </node>
+    </collaborationgraph>
+    <location file="Application Green Quake.Android/obj/Debug/100/android/src/crc643f46942d9dd1fff9/TableViewModelRenderer.java" line="4" column="7" bodyfile="Application Green Quake.Android/obj/Debug/100/android/src/crc643f46942d9dd1fff9/TableViewModelRenderer.java" bodystart="8" bodyend="108"/>
+    <listofallmembers>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_table_view_model_renderer_1a305cfb429fa7d1f83b49c05519a09190" prot="package" virt="non-virtual"><scope>crc643f46942d9dd1fff9::TableViewModelRenderer</scope><name>[static initializer]</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_table_view_model_renderer_1a305cfb429fa7d1f83b49c05519a09190" prot="package" virt="non-virtual"><scope>crc643f46942d9dd1fff9::TableViewModelRenderer</scope><name>[static initializer]</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_table_view_model_renderer_1a305cfb429fa7d1f83b49c05519a09190" prot="package" virt="non-virtual"><scope>crc643f46942d9dd1fff9::TableViewModelRenderer</scope><name>[static initializer]</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_table_view_model_renderer_1a305cfb429fa7d1f83b49c05519a09190" prot="package" virt="non-virtual"><scope>crc643f46942d9dd1fff9::TableViewModelRenderer</scope><name>[static initializer]</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_table_view_model_renderer_1a9275a8c1ff60a3d79345c0b5010922ad" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::TableViewModelRenderer</scope><name>__md_methods</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_table_view_model_renderer_1abfc31b341cf5666c5e81241bc6e3d97c" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::TableViewModelRenderer</scope><name>areAllItemsEnabled</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_table_view_model_renderer_1abfc31b341cf5666c5e81241bc6e3d97c" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::TableViewModelRenderer</scope><name>areAllItemsEnabled</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_table_view_model_renderer_1abfc31b341cf5666c5e81241bc6e3d97c" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::TableViewModelRenderer</scope><name>areAllItemsEnabled</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_table_view_model_renderer_1abfc31b341cf5666c5e81241bc6e3d97c" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::TableViewModelRenderer</scope><name>areAllItemsEnabled</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_cell_adapter_1acb02fe63f721e2db24c840afc5436298" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::TableViewModelRenderer</scope><name>CellAdapter</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_cell_adapter_1a325bc28a81f49b833b99f5f595da6b08" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::TableViewModelRenderer</scope><name>CellAdapter</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_cell_adapter_1acb02fe63f721e2db24c840afc5436298" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::TableViewModelRenderer</scope><name>CellAdapter</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_cell_adapter_1a325bc28a81f49b833b99f5f595da6b08" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::TableViewModelRenderer</scope><name>CellAdapter</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_cell_adapter_1acb02fe63f721e2db24c840afc5436298" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::TableViewModelRenderer</scope><name>CellAdapter</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_cell_adapter_1a325bc28a81f49b833b99f5f595da6b08" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::TableViewModelRenderer</scope><name>CellAdapter</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_cell_adapter_1acb02fe63f721e2db24c840afc5436298" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::TableViewModelRenderer</scope><name>CellAdapter</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_cell_adapter_1a325bc28a81f49b833b99f5f595da6b08" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::TableViewModelRenderer</scope><name>CellAdapter</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_table_view_model_renderer_1a645640de5e4e38ba1fcf7816bb8b5941" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::TableViewModelRenderer</scope><name>getCount</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_table_view_model_renderer_1a645640de5e4e38ba1fcf7816bb8b5941" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::TableViewModelRenderer</scope><name>getCount</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_table_view_model_renderer_1a645640de5e4e38ba1fcf7816bb8b5941" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::TableViewModelRenderer</scope><name>getCount</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_table_view_model_renderer_1a645640de5e4e38ba1fcf7816bb8b5941" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::TableViewModelRenderer</scope><name>getCount</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_table_view_model_renderer_1a1542508159d5963dd8a5f9a8cdb59850" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::TableViewModelRenderer</scope><name>getItem</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_table_view_model_renderer_1a1542508159d5963dd8a5f9a8cdb59850" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::TableViewModelRenderer</scope><name>getItem</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_table_view_model_renderer_1a1542508159d5963dd8a5f9a8cdb59850" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::TableViewModelRenderer</scope><name>getItem</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_table_view_model_renderer_1a1542508159d5963dd8a5f9a8cdb59850" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::TableViewModelRenderer</scope><name>getItem</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_table_view_model_renderer_1a3eb1d62bd5b8d6690485c7505723456c" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::TableViewModelRenderer</scope><name>getItemId</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_table_view_model_renderer_1a3eb1d62bd5b8d6690485c7505723456c" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::TableViewModelRenderer</scope><name>getItemId</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_table_view_model_renderer_1a3eb1d62bd5b8d6690485c7505723456c" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::TableViewModelRenderer</scope><name>getItemId</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_table_view_model_renderer_1a3eb1d62bd5b8d6690485c7505723456c" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::TableViewModelRenderer</scope><name>getItemId</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_table_view_model_renderer_1a7f8e5141561e9d6f17eae27c2c8454a8" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::TableViewModelRenderer</scope><name>getView</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_table_view_model_renderer_1a7f8e5141561e9d6f17eae27c2c8454a8" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::TableViewModelRenderer</scope><name>getView</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_table_view_model_renderer_1a7f8e5141561e9d6f17eae27c2c8454a8" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::TableViewModelRenderer</scope><name>getView</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_table_view_model_renderer_1a7f8e5141561e9d6f17eae27c2c8454a8" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::TableViewModelRenderer</scope><name>getView</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_table_view_model_renderer_1af19bba1a598711a43dc76f0b626ecb2f" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::TableViewModelRenderer</scope><name>getViewTypeCount</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_table_view_model_renderer_1af19bba1a598711a43dc76f0b626ecb2f" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::TableViewModelRenderer</scope><name>getViewTypeCount</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_table_view_model_renderer_1af19bba1a598711a43dc76f0b626ecb2f" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::TableViewModelRenderer</scope><name>getViewTypeCount</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_table_view_model_renderer_1af19bba1a598711a43dc76f0b626ecb2f" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::TableViewModelRenderer</scope><name>getViewTypeCount</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_table_view_model_renderer_1a5583fa49cc11063e6fe9136810dfda61" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::TableViewModelRenderer</scope><name>isEnabled</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_table_view_model_renderer_1a5583fa49cc11063e6fe9136810dfda61" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::TableViewModelRenderer</scope><name>isEnabled</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_table_view_model_renderer_1a5583fa49cc11063e6fe9136810dfda61" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::TableViewModelRenderer</scope><name>isEnabled</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_table_view_model_renderer_1a5583fa49cc11063e6fe9136810dfda61" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::TableViewModelRenderer</scope><name>isEnabled</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_table_view_model_renderer_1ae6b83d8ed310748a7c071ceef010f1c3" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::TableViewModelRenderer</scope><name>monodroidAddReference</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_table_view_model_renderer_1ae6b83d8ed310748a7c071ceef010f1c3" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::TableViewModelRenderer</scope><name>monodroidAddReference</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_table_view_model_renderer_1ae6b83d8ed310748a7c071ceef010f1c3" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::TableViewModelRenderer</scope><name>monodroidAddReference</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_table_view_model_renderer_1ae6b83d8ed310748a7c071ceef010f1c3" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::TableViewModelRenderer</scope><name>monodroidAddReference</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_table_view_model_renderer_1ac473dd21bc1224d747e2f193f6d8811b" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::TableViewModelRenderer</scope><name>monodroidClearReferences</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_table_view_model_renderer_1ac473dd21bc1224d747e2f193f6d8811b" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::TableViewModelRenderer</scope><name>monodroidClearReferences</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_table_view_model_renderer_1ac473dd21bc1224d747e2f193f6d8811b" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::TableViewModelRenderer</scope><name>monodroidClearReferences</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_table_view_model_renderer_1ac473dd21bc1224d747e2f193f6d8811b" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::TableViewModelRenderer</scope><name>monodroidClearReferences</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_table_view_model_renderer_1a1f6fe3b0f2625eb4d36bafe90f507ec5" prot="private" virt="non-virtual"><scope>crc643f46942d9dd1fff9::TableViewModelRenderer</scope><name>n_areAllItemsEnabled</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_table_view_model_renderer_1a1f6fe3b0f2625eb4d36bafe90f507ec5" prot="private" virt="non-virtual"><scope>crc643f46942d9dd1fff9::TableViewModelRenderer</scope><name>n_areAllItemsEnabled</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_table_view_model_renderer_1a1f6fe3b0f2625eb4d36bafe90f507ec5" prot="private" virt="non-virtual"><scope>crc643f46942d9dd1fff9::TableViewModelRenderer</scope><name>n_areAllItemsEnabled</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_table_view_model_renderer_1a1f6fe3b0f2625eb4d36bafe90f507ec5" prot="private" virt="non-virtual"><scope>crc643f46942d9dd1fff9::TableViewModelRenderer</scope><name>n_areAllItemsEnabled</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_table_view_model_renderer_1a4b6128aa1c1e35273e00bfbac40a913b" prot="private" virt="non-virtual"><scope>crc643f46942d9dd1fff9::TableViewModelRenderer</scope><name>n_getCount</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_table_view_model_renderer_1a4b6128aa1c1e35273e00bfbac40a913b" prot="private" virt="non-virtual"><scope>crc643f46942d9dd1fff9::TableViewModelRenderer</scope><name>n_getCount</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_table_view_model_renderer_1a4b6128aa1c1e35273e00bfbac40a913b" prot="private" virt="non-virtual"><scope>crc643f46942d9dd1fff9::TableViewModelRenderer</scope><name>n_getCount</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_table_view_model_renderer_1a4b6128aa1c1e35273e00bfbac40a913b" prot="private" virt="non-virtual"><scope>crc643f46942d9dd1fff9::TableViewModelRenderer</scope><name>n_getCount</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_table_view_model_renderer_1ad2262529baedbce38b972bbe833d3d70" prot="private" virt="non-virtual"><scope>crc643f46942d9dd1fff9::TableViewModelRenderer</scope><name>n_getItem</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_table_view_model_renderer_1ad2262529baedbce38b972bbe833d3d70" prot="private" virt="non-virtual"><scope>crc643f46942d9dd1fff9::TableViewModelRenderer</scope><name>n_getItem</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_table_view_model_renderer_1ad2262529baedbce38b972bbe833d3d70" prot="private" virt="non-virtual"><scope>crc643f46942d9dd1fff9::TableViewModelRenderer</scope><name>n_getItem</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_table_view_model_renderer_1ad2262529baedbce38b972bbe833d3d70" prot="private" virt="non-virtual"><scope>crc643f46942d9dd1fff9::TableViewModelRenderer</scope><name>n_getItem</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_table_view_model_renderer_1a03b11aa1d95b189fa0814b761344c9b5" prot="private" virt="non-virtual"><scope>crc643f46942d9dd1fff9::TableViewModelRenderer</scope><name>n_getItemId</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_table_view_model_renderer_1a03b11aa1d95b189fa0814b761344c9b5" prot="private" virt="non-virtual"><scope>crc643f46942d9dd1fff9::TableViewModelRenderer</scope><name>n_getItemId</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_table_view_model_renderer_1a03b11aa1d95b189fa0814b761344c9b5" prot="private" virt="non-virtual"><scope>crc643f46942d9dd1fff9::TableViewModelRenderer</scope><name>n_getItemId</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_table_view_model_renderer_1a03b11aa1d95b189fa0814b761344c9b5" prot="private" virt="non-virtual"><scope>crc643f46942d9dd1fff9::TableViewModelRenderer</scope><name>n_getItemId</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_table_view_model_renderer_1a04ac69cb653659338665a51de0716ddb" prot="private" virt="non-virtual"><scope>crc643f46942d9dd1fff9::TableViewModelRenderer</scope><name>n_getView</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_table_view_model_renderer_1a04ac69cb653659338665a51de0716ddb" prot="private" virt="non-virtual"><scope>crc643f46942d9dd1fff9::TableViewModelRenderer</scope><name>n_getView</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_table_view_model_renderer_1a04ac69cb653659338665a51de0716ddb" prot="private" virt="non-virtual"><scope>crc643f46942d9dd1fff9::TableViewModelRenderer</scope><name>n_getView</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_table_view_model_renderer_1a04ac69cb653659338665a51de0716ddb" prot="private" virt="non-virtual"><scope>crc643f46942d9dd1fff9::TableViewModelRenderer</scope><name>n_getView</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_table_view_model_renderer_1aece3f494f357c03a5b1412f50887731b" prot="private" virt="non-virtual"><scope>crc643f46942d9dd1fff9::TableViewModelRenderer</scope><name>n_getViewTypeCount</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_table_view_model_renderer_1aece3f494f357c03a5b1412f50887731b" prot="private" virt="non-virtual"><scope>crc643f46942d9dd1fff9::TableViewModelRenderer</scope><name>n_getViewTypeCount</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_table_view_model_renderer_1aece3f494f357c03a5b1412f50887731b" prot="private" virt="non-virtual"><scope>crc643f46942d9dd1fff9::TableViewModelRenderer</scope><name>n_getViewTypeCount</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_table_view_model_renderer_1aece3f494f357c03a5b1412f50887731b" prot="private" virt="non-virtual"><scope>crc643f46942d9dd1fff9::TableViewModelRenderer</scope><name>n_getViewTypeCount</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_table_view_model_renderer_1ab28aae89a4c1cefa1d975bf055f806bd" prot="private" virt="non-virtual"><scope>crc643f46942d9dd1fff9::TableViewModelRenderer</scope><name>n_isEnabled</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_table_view_model_renderer_1ab28aae89a4c1cefa1d975bf055f806bd" prot="private" virt="non-virtual"><scope>crc643f46942d9dd1fff9::TableViewModelRenderer</scope><name>n_isEnabled</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_table_view_model_renderer_1ab28aae89a4c1cefa1d975bf055f806bd" prot="private" virt="non-virtual"><scope>crc643f46942d9dd1fff9::TableViewModelRenderer</scope><name>n_isEnabled</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_table_view_model_renderer_1ab28aae89a4c1cefa1d975bf055f806bd" prot="private" virt="non-virtual"><scope>crc643f46942d9dd1fff9::TableViewModelRenderer</scope><name>n_isEnabled</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_cell_adapter_1a42a3cf750d35a257ba0e45f6ae3eacce" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::TableViewModelRenderer</scope><name>onActionItemClicked</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_cell_adapter_1a6199554a00fa5a719d33ae839234a85c" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::TableViewModelRenderer</scope><name>onActionItemClicked</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_cell_adapter_1a42a3cf750d35a257ba0e45f6ae3eacce" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::TableViewModelRenderer</scope><name>onActionItemClicked</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_cell_adapter_1a6199554a00fa5a719d33ae839234a85c" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::TableViewModelRenderer</scope><name>onActionItemClicked</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_cell_adapter_1a42a3cf750d35a257ba0e45f6ae3eacce" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::TableViewModelRenderer</scope><name>onActionItemClicked</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_cell_adapter_1a6199554a00fa5a719d33ae839234a85c" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::TableViewModelRenderer</scope><name>onActionItemClicked</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_cell_adapter_1a42a3cf750d35a257ba0e45f6ae3eacce" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::TableViewModelRenderer</scope><name>onActionItemClicked</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_cell_adapter_1a6199554a00fa5a719d33ae839234a85c" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::TableViewModelRenderer</scope><name>onActionItemClicked</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_cell_adapter_1aa83d019a9781c47b465bdeff61785d02" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::TableViewModelRenderer</scope><name>onCreateActionMode</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_cell_adapter_1a9d4956f3b21df112a31c670af914513f" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::TableViewModelRenderer</scope><name>onCreateActionMode</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_cell_adapter_1aa83d019a9781c47b465bdeff61785d02" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::TableViewModelRenderer</scope><name>onCreateActionMode</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_cell_adapter_1a9d4956f3b21df112a31c670af914513f" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::TableViewModelRenderer</scope><name>onCreateActionMode</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_cell_adapter_1aa83d019a9781c47b465bdeff61785d02" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::TableViewModelRenderer</scope><name>onCreateActionMode</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_cell_adapter_1a9d4956f3b21df112a31c670af914513f" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::TableViewModelRenderer</scope><name>onCreateActionMode</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_cell_adapter_1aa83d019a9781c47b465bdeff61785d02" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::TableViewModelRenderer</scope><name>onCreateActionMode</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_cell_adapter_1a9d4956f3b21df112a31c670af914513f" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::TableViewModelRenderer</scope><name>onCreateActionMode</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_cell_adapter_1a8da11ed9a2a8dfb6b5be6d88254ff4f3" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::TableViewModelRenderer</scope><name>onDestroyActionMode</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_cell_adapter_1a361eb5c64e22f5edba057656052ff6bd" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::TableViewModelRenderer</scope><name>onDestroyActionMode</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_cell_adapter_1a8da11ed9a2a8dfb6b5be6d88254ff4f3" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::TableViewModelRenderer</scope><name>onDestroyActionMode</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_cell_adapter_1a361eb5c64e22f5edba057656052ff6bd" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::TableViewModelRenderer</scope><name>onDestroyActionMode</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_cell_adapter_1a8da11ed9a2a8dfb6b5be6d88254ff4f3" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::TableViewModelRenderer</scope><name>onDestroyActionMode</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_cell_adapter_1a361eb5c64e22f5edba057656052ff6bd" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::TableViewModelRenderer</scope><name>onDestroyActionMode</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_cell_adapter_1a8da11ed9a2a8dfb6b5be6d88254ff4f3" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::TableViewModelRenderer</scope><name>onDestroyActionMode</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_cell_adapter_1a361eb5c64e22f5edba057656052ff6bd" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::TableViewModelRenderer</scope><name>onDestroyActionMode</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_cell_adapter_1a923d30a7abaa001045aac2a413a41314" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::TableViewModelRenderer</scope><name>onItemClick</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_cell_adapter_1a923d30a7abaa001045aac2a413a41314" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::TableViewModelRenderer</scope><name>onItemClick</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_cell_adapter_1a923d30a7abaa001045aac2a413a41314" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::TableViewModelRenderer</scope><name>onItemClick</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_cell_adapter_1a923d30a7abaa001045aac2a413a41314" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::TableViewModelRenderer</scope><name>onItemClick</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_cell_adapter_1a64507d27b09ffe29bcbeecabb00720f2" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::TableViewModelRenderer</scope><name>onItemLongClick</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_cell_adapter_1a64507d27b09ffe29bcbeecabb00720f2" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::TableViewModelRenderer</scope><name>onItemLongClick</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_cell_adapter_1a64507d27b09ffe29bcbeecabb00720f2" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::TableViewModelRenderer</scope><name>onItemLongClick</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_cell_adapter_1a64507d27b09ffe29bcbeecabb00720f2" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::TableViewModelRenderer</scope><name>onItemLongClick</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_cell_adapter_1aeeff43d6961ca2a41bf39af405ce8306" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::TableViewModelRenderer</scope><name>onPrepareActionMode</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_cell_adapter_1a8600f86930fd4ff5580ac24ced508427" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::TableViewModelRenderer</scope><name>onPrepareActionMode</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_cell_adapter_1aeeff43d6961ca2a41bf39af405ce8306" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::TableViewModelRenderer</scope><name>onPrepareActionMode</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_cell_adapter_1a8600f86930fd4ff5580ac24ced508427" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::TableViewModelRenderer</scope><name>onPrepareActionMode</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_cell_adapter_1aeeff43d6961ca2a41bf39af405ce8306" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::TableViewModelRenderer</scope><name>onPrepareActionMode</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_cell_adapter_1a8600f86930fd4ff5580ac24ced508427" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::TableViewModelRenderer</scope><name>onPrepareActionMode</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_cell_adapter_1aeeff43d6961ca2a41bf39af405ce8306" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::TableViewModelRenderer</scope><name>onPrepareActionMode</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_cell_adapter_1a8600f86930fd4ff5580ac24ced508427" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::TableViewModelRenderer</scope><name>onPrepareActionMode</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_table_view_model_renderer_1a7217ea9387f82c7645c587eba227ce50" prot="private" virt="non-virtual"><scope>crc643f46942d9dd1fff9::TableViewModelRenderer</scope><name>refList</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_table_view_model_renderer_1afd49d01b5caca9c8d6e17c99cd3d2f15" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::TableViewModelRenderer</scope><name>TableViewModelRenderer</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_table_view_model_renderer_1adedc00a0a370b1cb04908a6b5ec90b56" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::TableViewModelRenderer</scope><name>TableViewModelRenderer</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_table_view_model_renderer_1afd49d01b5caca9c8d6e17c99cd3d2f15" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::TableViewModelRenderer</scope><name>TableViewModelRenderer</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_table_view_model_renderer_1adedc00a0a370b1cb04908a6b5ec90b56" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::TableViewModelRenderer</scope><name>TableViewModelRenderer</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_table_view_model_renderer_1afd49d01b5caca9c8d6e17c99cd3d2f15" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::TableViewModelRenderer</scope><name>TableViewModelRenderer</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_table_view_model_renderer_1adedc00a0a370b1cb04908a6b5ec90b56" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::TableViewModelRenderer</scope><name>TableViewModelRenderer</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_table_view_model_renderer_1afd49d01b5caca9c8d6e17c99cd3d2f15" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::TableViewModelRenderer</scope><name>TableViewModelRenderer</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_table_view_model_renderer_1adedc00a0a370b1cb04908a6b5ec90b56" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::TableViewModelRenderer</scope><name>TableViewModelRenderer</name></member>
+    </listofallmembers>
+  </compounddef>
+</doxygen>

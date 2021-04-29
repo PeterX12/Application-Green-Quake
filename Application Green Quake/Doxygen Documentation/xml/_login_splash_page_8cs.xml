@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.9.1" xml:lang="en-US">
+  <compounddef id="_login_splash_page_8cs" kind="file" language="C#">
+    <compoundname>LoginSplashPage.cs</compoundname>
+    <innerclass refid="class_application___green___quake_1_1_views_1_1_login_splash_page" prot="public">Application_Green_Quake::Views::LoginSplashPage</innerclass>
+    <innernamespace refid="namespace_application___green___quake">Application_Green_Quake</innernamespace>
+    <innernamespace refid="namespace_application___green___quake_1_1_views">Application_Green_Quake::Views</innernamespace>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <programlisting>
+<codeline lineno="1"><highlight class="normal"></highlight></codeline>
+<codeline lineno="9"><highlight class="normal"></highlight><highlight class="keyword">using</highlight><highlight class="normal"><sp/>Xamarin.Forms;</highlight></codeline>
+<codeline lineno="10"><highlight class="normal"></highlight></codeline>
+<codeline lineno="11"><highlight class="normal"></highlight><highlight class="keyword">namespace<sp/></highlight><highlight class="normal"><ref refid="namespace_application___green___quake_1_1_views" kindref="compound">Application_Green_Quake.Views</ref></highlight></codeline>
+<codeline lineno="12"><highlight class="normal">{</highlight></codeline>
+<codeline lineno="13" refid="class_application___green___quake_1_1_views_1_1_login_splash_page" refkind="compound"><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">public</highlight><highlight class="normal"><sp/></highlight><highlight class="keyword">class<sp/></highlight><highlight class="normal"><ref refid="class_application___green___quake_1_1_views_1_1_login_splash_page" kindref="compound">LoginSplashPage</ref><sp/>:<sp/>ContentPage</highlight></codeline>
+<codeline lineno="14"><highlight class="normal"><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline lineno="15"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>Image<sp/>splashImage;</highlight></codeline>
+<codeline lineno="16"><highlight class="normal"></highlight></codeline>
+<codeline lineno="19" refid="class_application___green___quake_1_1_views_1_1_login_splash_page_1a0ba4859b5ff8b1bff3b13015f6966bbb" refkind="member"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">public</highlight><highlight class="normal"><sp/><ref refid="class_application___green___quake_1_1_views_1_1_login_splash_page_1a0ba4859b5ff8b1bff3b13015f6966bbb" kindref="member">LoginSplashPage</ref>()</highlight></codeline>
+<codeline lineno="20"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline lineno="21"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>NavigationPage.SetHasNavigationBar(</highlight><highlight class="keyword">this</highlight><highlight class="normal">,<sp/></highlight><highlight class="keyword">false</highlight><highlight class="normal">);</highlight></codeline>
+<codeline lineno="22"><highlight class="normal"></highlight></codeline>
+<codeline lineno="23"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//Set<sp/>the<sp/>image<sp/>for<sp/>the<sp/>splash<sp/>screen</highlight><highlight class="normal"></highlight></codeline>
+<codeline lineno="24"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>var<sp/>sub<sp/>=<sp/></highlight><highlight class="keyword">new</highlight><highlight class="normal"><sp/>AbsoluteLayout();</highlight></codeline>
+<codeline lineno="25"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>splashImage<sp/>=<sp/></highlight><highlight class="keyword">new</highlight><highlight class="normal"><sp/>Image</highlight></codeline>
+<codeline lineno="26"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline lineno="27"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>Source<sp/>=<sp/>ImageSource.FromResource(</highlight><highlight class="stringliteral">&quot;Application_Green_Quake.Images.trees.png&quot;</highlight><highlight class="normal">),</highlight></codeline>
+<codeline lineno="28"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>WidthRequest<sp/>=<sp/><sp/>150,</highlight></codeline>
+<codeline lineno="29"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>HeightRequest<sp/>=<sp/><sp/>150</highlight></codeline>
+<codeline lineno="30"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>};</highlight></codeline>
+<codeline lineno="31"><highlight class="normal"></highlight></codeline>
+<codeline lineno="32"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>AbsoluteLayout.SetLayoutFlags(splashImage,</highlight></codeline>
+<codeline lineno="33"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>AbsoluteLayoutFlags.PositionProportional);</highlight></codeline>
+<codeline lineno="34"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>AbsoluteLayout.SetLayoutBounds(splashImage,</highlight></codeline>
+<codeline lineno="35"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">new</highlight><highlight class="normal"><sp/>Rectangle(0.5,<sp/>0.5,<sp/>AbsoluteLayout.AutoSize,AbsoluteLayout.AutoSize));</highlight></codeline>
+<codeline lineno="36"><highlight class="normal"></highlight></codeline>
+<codeline lineno="37"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>sub.Children.Add(splashImage);</highlight></codeline>
+<codeline lineno="38"><highlight class="normal"></highlight></codeline>
+<codeline lineno="39"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>this.BackgroundColor<sp/>=<sp/>Color.FromHex(</highlight><highlight class="stringliteral">&quot;#50C878&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline lineno="40"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>this.Content<sp/>=<sp/>sub;</highlight></codeline>
+<codeline lineno="41"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline lineno="42"><highlight class="normal"></highlight></codeline>
+<codeline lineno="43" refid="class_application___green___quake_1_1_views_1_1_login_splash_page_1aef0e999e33d5642fadfd922d0ade4ac2" refkind="member"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">protected</highlight><highlight class="normal"><sp/></highlight><highlight class="keyword">override</highlight><highlight class="normal"><sp/>async<sp/></highlight><highlight class="keywordtype">void</highlight><highlight class="normal"><sp/><ref refid="class_application___green___quake_1_1_views_1_1_login_splash_page_1aef0e999e33d5642fadfd922d0ade4ac2" kindref="member">OnAppearing</ref>()</highlight></codeline>
+<codeline lineno="44"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline lineno="45"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>base.OnAppearing();</highlight></codeline>
+<codeline lineno="46"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//Set<sp/>the<sp/>animation</highlight><highlight class="normal"></highlight></codeline>
+<codeline lineno="47"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>await<sp/>splashImage.ScaleTo(0.4,<sp/>1100,<sp/>Easing.Linear);</highlight></codeline>
+<codeline lineno="48"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>await<sp/>splashImage.ScaleTo(700,<sp/>900,<sp/>Easing.Linear);</highlight></codeline>
+<codeline lineno="49"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><ref refid="_main_menu_8xaml_8cs_1a765e6c270049b1b8fcb2f647ebb7bcc2" kindref="member">Application</ref>.Current.MainPage<sp/>=<sp/></highlight><highlight class="keyword">new</highlight><highlight class="normal"><sp/>NavigationPage(</highlight><highlight class="keyword">new</highlight><highlight class="normal"><sp/><ref refid="class_application___green___quake_1_1_views_1_1_main_menu" kindref="compound">MainMenu</ref>());</highlight></codeline>
+<codeline lineno="50"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline lineno="51"><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline lineno="52"><highlight class="normal">}</highlight></codeline>
+    </programlisting>
+    <location file="Application Green Quake/Views/LoginSplashPage.cs"/>
+  </compounddef>
+</doxygen>

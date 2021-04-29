@@ -1,0 +1,470 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.9.1" xml:lang="en-US">
+  <compounddef id="classmono_1_1com_1_1microsoft_1_1appcenter_1_1analytics_1_1channel_1_1_analytics_listener_implementor" kind="class" language="Java" prot="public">
+    <compoundname>mono::com::microsoft::appcenter::analytics::channel::AnalyticsListenerImplementor</compoundname>
+    <basecompoundref prot="public" virt="non-virtual">java.lang.Object</basecompoundref>
+    <basecompoundref prot="public" virt="non-virtual">mono.android.IGCUserPeer</basecompoundref>
+    <basecompoundref prot="public" virt="non-virtual">com.microsoft.appcenter.analytics.channel.AnalyticsListener</basecompoundref>
+    <basecompoundref prot="public" virt="non-virtual">java.lang.Object</basecompoundref>
+    <basecompoundref prot="public" virt="non-virtual">mono.android.IGCUserPeer</basecompoundref>
+    <basecompoundref prot="public" virt="non-virtual">com.microsoft.appcenter.analytics.channel.AnalyticsListener</basecompoundref>
+      <sectiondef kind="public-static-attrib">
+      <memberdef kind="variable" id="classmono_1_1com_1_1microsoft_1_1appcenter_1_1analytics_1_1channel_1_1_analytics_listener_implementor_1ad005ff5f27074a44b99489e69a663d21" prot="public" static="yes" mutable="no">
+        <type>final String</type>
+        <definition>static final String mono.com.microsoft.appcenter.analytics.channel.AnalyticsListenerImplementor::__md_methods</definition>
+        <argsstring></argsstring>
+        <name>__md_methods</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+<para>@hide </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/110/android/src/mono/com/microsoft/appcenter/analytics/channel/AnalyticsListenerImplementor.java" line="11" column="28" bodyfile="Application Green Quake.Android/obj/Debug/110/android/src/mono/com/microsoft/appcenter/analytics/channel/AnalyticsListenerImplementor.java" bodystart="11" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="private-attrib">
+      <memberdef kind="variable" id="classmono_1_1com_1_1microsoft_1_1appcenter_1_1analytics_1_1channel_1_1_analytics_listener_implementor_1a5617d32f1d66873213e1c7c3c7ee2d8a" prot="private" static="no" mutable="no">
+        <type>java.util.ArrayList</type>
+        <definition>java util ArrayList mono.com.microsoft.appcenter.analytics.channel.AnalyticsListenerImplementor::refList</definition>
+        <argsstring></argsstring>
+        <name>refList</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/110/android/src/mono/com/microsoft/appcenter/analytics/channel/AnalyticsListenerImplementor.java" line="53" column="27" bodyfile="Application Green Quake.Android/obj/Debug/110/android/src/mono/com/microsoft/appcenter/analytics/channel/AnalyticsListenerImplementor.java" bodystart="53" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="package-static-func">
+      <memberdef kind="function" id="classmono_1_1com_1_1microsoft_1_1appcenter_1_1analytics_1_1channel_1_1_analytics_listener_implementor_1aafd9cb201b116944958f76e00020fe28" prot="package" static="yes" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>mono.com.microsoft.appcenter.analytics.channel.AnalyticsListenerImplementor.[static initializer]</definition>
+        <argsstring></argsstring>
+        <name>[static initializer]</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/110/android/src/mono/com/microsoft/appcenter/analytics/channel/AnalyticsListenerImplementor.java" line="11" column="28"/>
+      </memberdef>
+      <memberdef kind="function" id="classmono_1_1com_1_1microsoft_1_1appcenter_1_1analytics_1_1channel_1_1_analytics_listener_implementor_1aafd9cb201b116944958f76e00020fe28" prot="package" static="yes" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>mono.com.microsoft.appcenter.analytics.channel.AnalyticsListenerImplementor.[static initializer]</definition>
+        <argsstring></argsstring>
+        <name>[static initializer]</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/110/android/src/mono/com/microsoft/appcenter/analytics/channel/AnalyticsListenerImplementor.java" line="11" column="28"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="public-func">
+      <memberdef kind="function" id="classmono_1_1com_1_1microsoft_1_1appcenter_1_1analytics_1_1channel_1_1_analytics_listener_implementor_1adc0098fd48cdc5fca5615e10ec768364" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>mono.com.microsoft.appcenter.analytics.channel.AnalyticsListenerImplementor.AnalyticsListenerImplementor</definition>
+        <argsstring>()</argsstring>
+        <name>AnalyticsListenerImplementor</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/110/android/src/mono/com/microsoft/appcenter/analytics/channel/AnalyticsListenerImplementor.java" line="22" column="8" bodyfile="Application Green Quake.Android/obj/Debug/110/android/src/mono/com/microsoft/appcenter/analytics/channel/AnalyticsListenerImplementor.java" bodystart="22" bodyend="27"/>
+      </memberdef>
+      <memberdef kind="function" id="classmono_1_1com_1_1microsoft_1_1appcenter_1_1analytics_1_1channel_1_1_analytics_listener_implementor_1a5ff21edea9ea3d3a6f02a6840aeadf60" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void mono.com.microsoft.appcenter.analytics.channel.AnalyticsListenerImplementor.onBeforeSending</definition>
+        <argsstring>(com.microsoft.appcenter.ingestion.models.Log p0)</argsstring>
+        <name>onBeforeSending</name>
+        <param>
+          <type>com.microsoft.appcenter.ingestion.models.Log</type>
+          <declname>p0</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/110/android/src/mono/com/microsoft/appcenter/analytics/channel/AnalyticsListenerImplementor.java" line="30" column="13" bodyfile="Application Green Quake.Android/obj/Debug/110/android/src/mono/com/microsoft/appcenter/analytics/channel/AnalyticsListenerImplementor.java" bodystart="30" bodyend="33"/>
+      </memberdef>
+      <memberdef kind="function" id="classmono_1_1com_1_1microsoft_1_1appcenter_1_1analytics_1_1channel_1_1_analytics_listener_implementor_1a2da5bd4bc3683f22028ad95a0a71d76d" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void mono.com.microsoft.appcenter.analytics.channel.AnalyticsListenerImplementor.onSendingFailed</definition>
+        <argsstring>(com.microsoft.appcenter.ingestion.models.Log p0, java.lang.Exception p1)</argsstring>
+        <name>onSendingFailed</name>
+        <param>
+          <type>com.microsoft.appcenter.ingestion.models.Log</type>
+          <declname>p0</declname>
+        </param>
+        <param>
+          <type>java.lang.Exception</type>
+          <declname>p1</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/110/android/src/mono/com/microsoft/appcenter/analytics/channel/AnalyticsListenerImplementor.java" line="38" column="13" bodyfile="Application Green Quake.Android/obj/Debug/110/android/src/mono/com/microsoft/appcenter/analytics/channel/AnalyticsListenerImplementor.java" bodystart="38" bodyend="41"/>
+      </memberdef>
+      <memberdef kind="function" id="classmono_1_1com_1_1microsoft_1_1appcenter_1_1analytics_1_1channel_1_1_analytics_listener_implementor_1a6192ffb5f0004aebb72c71e17f734afa" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void mono.com.microsoft.appcenter.analytics.channel.AnalyticsListenerImplementor.onSendingSucceeded</definition>
+        <argsstring>(com.microsoft.appcenter.ingestion.models.Log p0)</argsstring>
+        <name>onSendingSucceeded</name>
+        <param>
+          <type>com.microsoft.appcenter.ingestion.models.Log</type>
+          <declname>p0</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/110/android/src/mono/com/microsoft/appcenter/analytics/channel/AnalyticsListenerImplementor.java" line="46" column="13" bodyfile="Application Green Quake.Android/obj/Debug/110/android/src/mono/com/microsoft/appcenter/analytics/channel/AnalyticsListenerImplementor.java" bodystart="46" bodyend="49"/>
+      </memberdef>
+      <memberdef kind="function" id="classmono_1_1com_1_1microsoft_1_1appcenter_1_1analytics_1_1channel_1_1_analytics_listener_implementor_1ab4e3fd70ba3585adb9ab7297a119481e" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void mono.com.microsoft.appcenter.analytics.channel.AnalyticsListenerImplementor.monodroidAddReference</definition>
+        <argsstring>(java.lang.Object obj)</argsstring>
+        <name>monodroidAddReference</name>
+        <param>
+          <type>java.lang.Object</type>
+          <declname>obj</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/110/android/src/mono/com/microsoft/appcenter/analytics/channel/AnalyticsListenerImplementor.java" line="54" column="13" bodyfile="Application Green Quake.Android/obj/Debug/110/android/src/mono/com/microsoft/appcenter/analytics/channel/AnalyticsListenerImplementor.java" bodystart="54" bodyend="59"/>
+      </memberdef>
+      <memberdef kind="function" id="classmono_1_1com_1_1microsoft_1_1appcenter_1_1analytics_1_1channel_1_1_analytics_listener_implementor_1a2a6c8ba65b1fcee90fa00c8292bb2592" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void mono.com.microsoft.appcenter.analytics.channel.AnalyticsListenerImplementor.monodroidClearReferences</definition>
+        <argsstring>()</argsstring>
+        <name>monodroidClearReferences</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/110/android/src/mono/com/microsoft/appcenter/analytics/channel/AnalyticsListenerImplementor.java" line="61" column="13" bodyfile="Application Green Quake.Android/obj/Debug/110/android/src/mono/com/microsoft/appcenter/analytics/channel/AnalyticsListenerImplementor.java" bodystart="61" bodyend="65"/>
+      </memberdef>
+      <memberdef kind="function" id="classmono_1_1com_1_1microsoft_1_1appcenter_1_1analytics_1_1channel_1_1_analytics_listener_implementor_1adc0098fd48cdc5fca5615e10ec768364" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>mono.com.microsoft.appcenter.analytics.channel.AnalyticsListenerImplementor.AnalyticsListenerImplementor</definition>
+        <argsstring>()</argsstring>
+        <name>AnalyticsListenerImplementor</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/110/android/src/mono/com/microsoft/appcenter/analytics/channel/AnalyticsListenerImplementor.java" line="22" column="8" bodyfile="Application Green Quake.Android/obj/Release/110/android/src/mono/com/microsoft/appcenter/analytics/channel/AnalyticsListenerImplementor.java" bodystart="22" bodyend="27"/>
+      </memberdef>
+      <memberdef kind="function" id="classmono_1_1com_1_1microsoft_1_1appcenter_1_1analytics_1_1channel_1_1_analytics_listener_implementor_1a5ff21edea9ea3d3a6f02a6840aeadf60" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void mono.com.microsoft.appcenter.analytics.channel.AnalyticsListenerImplementor.onBeforeSending</definition>
+        <argsstring>(com.microsoft.appcenter.ingestion.models.Log p0)</argsstring>
+        <name>onBeforeSending</name>
+        <param>
+          <type>com.microsoft.appcenter.ingestion.models.Log</type>
+          <declname>p0</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/110/android/src/mono/com/microsoft/appcenter/analytics/channel/AnalyticsListenerImplementor.java" line="30" column="13" bodyfile="Application Green Quake.Android/obj/Release/110/android/src/mono/com/microsoft/appcenter/analytics/channel/AnalyticsListenerImplementor.java" bodystart="30" bodyend="33"/>
+      </memberdef>
+      <memberdef kind="function" id="classmono_1_1com_1_1microsoft_1_1appcenter_1_1analytics_1_1channel_1_1_analytics_listener_implementor_1a2da5bd4bc3683f22028ad95a0a71d76d" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void mono.com.microsoft.appcenter.analytics.channel.AnalyticsListenerImplementor.onSendingFailed</definition>
+        <argsstring>(com.microsoft.appcenter.ingestion.models.Log p0, java.lang.Exception p1)</argsstring>
+        <name>onSendingFailed</name>
+        <param>
+          <type>com.microsoft.appcenter.ingestion.models.Log</type>
+          <declname>p0</declname>
+        </param>
+        <param>
+          <type>java.lang.Exception</type>
+          <declname>p1</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/110/android/src/mono/com/microsoft/appcenter/analytics/channel/AnalyticsListenerImplementor.java" line="38" column="13" bodyfile="Application Green Quake.Android/obj/Release/110/android/src/mono/com/microsoft/appcenter/analytics/channel/AnalyticsListenerImplementor.java" bodystart="38" bodyend="41"/>
+      </memberdef>
+      <memberdef kind="function" id="classmono_1_1com_1_1microsoft_1_1appcenter_1_1analytics_1_1channel_1_1_analytics_listener_implementor_1a6192ffb5f0004aebb72c71e17f734afa" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void mono.com.microsoft.appcenter.analytics.channel.AnalyticsListenerImplementor.onSendingSucceeded</definition>
+        <argsstring>(com.microsoft.appcenter.ingestion.models.Log p0)</argsstring>
+        <name>onSendingSucceeded</name>
+        <param>
+          <type>com.microsoft.appcenter.ingestion.models.Log</type>
+          <declname>p0</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/110/android/src/mono/com/microsoft/appcenter/analytics/channel/AnalyticsListenerImplementor.java" line="46" column="13" bodyfile="Application Green Quake.Android/obj/Release/110/android/src/mono/com/microsoft/appcenter/analytics/channel/AnalyticsListenerImplementor.java" bodystart="46" bodyend="49"/>
+      </memberdef>
+      <memberdef kind="function" id="classmono_1_1com_1_1microsoft_1_1appcenter_1_1analytics_1_1channel_1_1_analytics_listener_implementor_1ab4e3fd70ba3585adb9ab7297a119481e" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void mono.com.microsoft.appcenter.analytics.channel.AnalyticsListenerImplementor.monodroidAddReference</definition>
+        <argsstring>(java.lang.Object obj)</argsstring>
+        <name>monodroidAddReference</name>
+        <param>
+          <type>java.lang.Object</type>
+          <declname>obj</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/110/android/src/mono/com/microsoft/appcenter/analytics/channel/AnalyticsListenerImplementor.java" line="54" column="13" bodyfile="Application Green Quake.Android/obj/Release/110/android/src/mono/com/microsoft/appcenter/analytics/channel/AnalyticsListenerImplementor.java" bodystart="54" bodyend="59"/>
+      </memberdef>
+      <memberdef kind="function" id="classmono_1_1com_1_1microsoft_1_1appcenter_1_1analytics_1_1channel_1_1_analytics_listener_implementor_1a2a6c8ba65b1fcee90fa00c8292bb2592" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void mono.com.microsoft.appcenter.analytics.channel.AnalyticsListenerImplementor.monodroidClearReferences</definition>
+        <argsstring>()</argsstring>
+        <name>monodroidClearReferences</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/110/android/src/mono/com/microsoft/appcenter/analytics/channel/AnalyticsListenerImplementor.java" line="61" column="13" bodyfile="Application Green Quake.Android/obj/Release/110/android/src/mono/com/microsoft/appcenter/analytics/channel/AnalyticsListenerImplementor.java" bodystart="61" bodyend="65"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="private-func">
+      <memberdef kind="function" id="classmono_1_1com_1_1microsoft_1_1appcenter_1_1analytics_1_1channel_1_1_analytics_listener_implementor_1aa87d2c10c3987723123cf88d4809dc5e" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>native void</type>
+        <definition>native void mono.com.microsoft.appcenter.analytics.channel.AnalyticsListenerImplementor.n_onBeforeSending</definition>
+        <argsstring>(com.microsoft.appcenter.ingestion.models.Log p0)</argsstring>
+        <name>n_onBeforeSending</name>
+        <param>
+          <type>com.microsoft.appcenter.ingestion.models.Log</type>
+          <declname>p0</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/110/android/src/mono/com/microsoft/appcenter/analytics/channel/AnalyticsListenerImplementor.java" line="35" column="21"/>
+      </memberdef>
+      <memberdef kind="function" id="classmono_1_1com_1_1microsoft_1_1appcenter_1_1analytics_1_1channel_1_1_analytics_listener_implementor_1a3276c0f630a5155987431cf5286ca494" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>native void</type>
+        <definition>native void mono.com.microsoft.appcenter.analytics.channel.AnalyticsListenerImplementor.n_onSendingFailed</definition>
+        <argsstring>(com.microsoft.appcenter.ingestion.models.Log p0, java.lang.Exception p1)</argsstring>
+        <name>n_onSendingFailed</name>
+        <param>
+          <type>com.microsoft.appcenter.ingestion.models.Log</type>
+          <declname>p0</declname>
+        </param>
+        <param>
+          <type>java.lang.Exception</type>
+          <declname>p1</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/110/android/src/mono/com/microsoft/appcenter/analytics/channel/AnalyticsListenerImplementor.java" line="43" column="21"/>
+      </memberdef>
+      <memberdef kind="function" id="classmono_1_1com_1_1microsoft_1_1appcenter_1_1analytics_1_1channel_1_1_analytics_listener_implementor_1afb5af383023399c9147f1bbf355f1b0b" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>native void</type>
+        <definition>native void mono.com.microsoft.appcenter.analytics.channel.AnalyticsListenerImplementor.n_onSendingSucceeded</definition>
+        <argsstring>(com.microsoft.appcenter.ingestion.models.Log p0)</argsstring>
+        <name>n_onSendingSucceeded</name>
+        <param>
+          <type>com.microsoft.appcenter.ingestion.models.Log</type>
+          <declname>p0</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/110/android/src/mono/com/microsoft/appcenter/analytics/channel/AnalyticsListenerImplementor.java" line="51" column="21"/>
+      </memberdef>
+      <memberdef kind="function" id="classmono_1_1com_1_1microsoft_1_1appcenter_1_1analytics_1_1channel_1_1_analytics_listener_implementor_1aa87d2c10c3987723123cf88d4809dc5e" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>native void</type>
+        <definition>native void mono.com.microsoft.appcenter.analytics.channel.AnalyticsListenerImplementor.n_onBeforeSending</definition>
+        <argsstring>(com.microsoft.appcenter.ingestion.models.Log p0)</argsstring>
+        <name>n_onBeforeSending</name>
+        <param>
+          <type>com.microsoft.appcenter.ingestion.models.Log</type>
+          <declname>p0</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/110/android/src/mono/com/microsoft/appcenter/analytics/channel/AnalyticsListenerImplementor.java" line="35" column="21"/>
+      </memberdef>
+      <memberdef kind="function" id="classmono_1_1com_1_1microsoft_1_1appcenter_1_1analytics_1_1channel_1_1_analytics_listener_implementor_1a3276c0f630a5155987431cf5286ca494" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>native void</type>
+        <definition>native void mono.com.microsoft.appcenter.analytics.channel.AnalyticsListenerImplementor.n_onSendingFailed</definition>
+        <argsstring>(com.microsoft.appcenter.ingestion.models.Log p0, java.lang.Exception p1)</argsstring>
+        <name>n_onSendingFailed</name>
+        <param>
+          <type>com.microsoft.appcenter.ingestion.models.Log</type>
+          <declname>p0</declname>
+        </param>
+        <param>
+          <type>java.lang.Exception</type>
+          <declname>p1</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/110/android/src/mono/com/microsoft/appcenter/analytics/channel/AnalyticsListenerImplementor.java" line="43" column="21"/>
+      </memberdef>
+      <memberdef kind="function" id="classmono_1_1com_1_1microsoft_1_1appcenter_1_1analytics_1_1channel_1_1_analytics_listener_implementor_1afb5af383023399c9147f1bbf355f1b0b" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>native void</type>
+        <definition>native void mono.com.microsoft.appcenter.analytics.channel.AnalyticsListenerImplementor.n_onSendingSucceeded</definition>
+        <argsstring>(com.microsoft.appcenter.ingestion.models.Log p0)</argsstring>
+        <name>n_onSendingSucceeded</name>
+        <param>
+          <type>com.microsoft.appcenter.ingestion.models.Log</type>
+          <declname>p0</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/110/android/src/mono/com/microsoft/appcenter/analytics/channel/AnalyticsListenerImplementor.java" line="51" column="21"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <inheritancegraph>
+      <node id="4">
+        <label>com::microsoft::appcenter::analytics::channel::AnalyticsListener</label>
+      </node>
+      <node id="1">
+        <label>mono.com.microsoft.appcenter.analytics.channel.AnalyticsListenerImplementor</label>
+        <link refid="classmono_1_1com_1_1microsoft_1_1appcenter_1_1analytics_1_1channel_1_1_analytics_listener_implementor"/>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+        <childnode refid="3" relation="public-inheritance">
+        </childnode>
+        <childnode refid="4" relation="public-inheritance">
+        </childnode>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+        <childnode refid="3" relation="public-inheritance">
+        </childnode>
+        <childnode refid="5" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="5">
+        <label>com.microsoft.appcenter.analytics.channel.AnalyticsListener</label>
+      </node>
+      <node id="3">
+        <label>mono.android.IGCUserPeer</label>
+      </node>
+      <node id="2">
+        <label>java.lang.Object</label>
+      </node>
+    </inheritancegraph>
+    <collaborationgraph>
+      <node id="4">
+        <label>com::microsoft::appcenter::analytics::channel::AnalyticsListener</label>
+      </node>
+      <node id="1">
+        <label>mono.com.microsoft.appcenter.analytics.channel.AnalyticsListenerImplementor</label>
+        <link refid="classmono_1_1com_1_1microsoft_1_1appcenter_1_1analytics_1_1channel_1_1_analytics_listener_implementor"/>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+        <childnode refid="3" relation="public-inheritance">
+        </childnode>
+        <childnode refid="4" relation="public-inheritance">
+        </childnode>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+        <childnode refid="3" relation="public-inheritance">
+        </childnode>
+        <childnode refid="5" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="5">
+        <label>com.microsoft.appcenter.analytics.channel.AnalyticsListener</label>
+      </node>
+      <node id="3">
+        <label>mono.android.IGCUserPeer</label>
+      </node>
+      <node id="2">
+        <label>java.lang.Object</label>
+      </node>
+    </collaborationgraph>
+    <location file="Application Green Quake.Android/obj/Debug/110/android/src/mono/com/microsoft/appcenter/analytics/channel/AnalyticsListenerImplementor.java" line="4" column="7" bodyfile="Application Green Quake.Android/obj/Debug/110/android/src/mono/com/microsoft/appcenter/analytics/channel/AnalyticsListenerImplementor.java" bodystart="9" bodyend="66"/>
+    <listofallmembers>
+      <member refid="classmono_1_1com_1_1microsoft_1_1appcenter_1_1analytics_1_1channel_1_1_analytics_listener_implementor_1aafd9cb201b116944958f76e00020fe28" prot="package" virt="non-virtual"><scope>mono::com::microsoft::appcenter::analytics::channel::AnalyticsListenerImplementor</scope><name>[static initializer]</name></member>
+      <member refid="classmono_1_1com_1_1microsoft_1_1appcenter_1_1analytics_1_1channel_1_1_analytics_listener_implementor_1aafd9cb201b116944958f76e00020fe28" prot="package" virt="non-virtual"><scope>mono::com::microsoft::appcenter::analytics::channel::AnalyticsListenerImplementor</scope><name>[static initializer]</name></member>
+      <member refid="classmono_1_1com_1_1microsoft_1_1appcenter_1_1analytics_1_1channel_1_1_analytics_listener_implementor_1ad005ff5f27074a44b99489e69a663d21" prot="public" virt="non-virtual"><scope>mono::com::microsoft::appcenter::analytics::channel::AnalyticsListenerImplementor</scope><name>__md_methods</name></member>
+      <member refid="classmono_1_1com_1_1microsoft_1_1appcenter_1_1analytics_1_1channel_1_1_analytics_listener_implementor_1adc0098fd48cdc5fca5615e10ec768364" prot="public" virt="non-virtual"><scope>mono::com::microsoft::appcenter::analytics::channel::AnalyticsListenerImplementor</scope><name>AnalyticsListenerImplementor</name></member>
+      <member refid="classmono_1_1com_1_1microsoft_1_1appcenter_1_1analytics_1_1channel_1_1_analytics_listener_implementor_1adc0098fd48cdc5fca5615e10ec768364" prot="public" virt="non-virtual"><scope>mono::com::microsoft::appcenter::analytics::channel::AnalyticsListenerImplementor</scope><name>AnalyticsListenerImplementor</name></member>
+      <member refid="classmono_1_1com_1_1microsoft_1_1appcenter_1_1analytics_1_1channel_1_1_analytics_listener_implementor_1ab4e3fd70ba3585adb9ab7297a119481e" prot="public" virt="non-virtual"><scope>mono::com::microsoft::appcenter::analytics::channel::AnalyticsListenerImplementor</scope><name>monodroidAddReference</name></member>
+      <member refid="classmono_1_1com_1_1microsoft_1_1appcenter_1_1analytics_1_1channel_1_1_analytics_listener_implementor_1ab4e3fd70ba3585adb9ab7297a119481e" prot="public" virt="non-virtual"><scope>mono::com::microsoft::appcenter::analytics::channel::AnalyticsListenerImplementor</scope><name>monodroidAddReference</name></member>
+      <member refid="classmono_1_1com_1_1microsoft_1_1appcenter_1_1analytics_1_1channel_1_1_analytics_listener_implementor_1a2a6c8ba65b1fcee90fa00c8292bb2592" prot="public" virt="non-virtual"><scope>mono::com::microsoft::appcenter::analytics::channel::AnalyticsListenerImplementor</scope><name>monodroidClearReferences</name></member>
+      <member refid="classmono_1_1com_1_1microsoft_1_1appcenter_1_1analytics_1_1channel_1_1_analytics_listener_implementor_1a2a6c8ba65b1fcee90fa00c8292bb2592" prot="public" virt="non-virtual"><scope>mono::com::microsoft::appcenter::analytics::channel::AnalyticsListenerImplementor</scope><name>monodroidClearReferences</name></member>
+      <member refid="classmono_1_1com_1_1microsoft_1_1appcenter_1_1analytics_1_1channel_1_1_analytics_listener_implementor_1aa87d2c10c3987723123cf88d4809dc5e" prot="private" virt="non-virtual"><scope>mono::com::microsoft::appcenter::analytics::channel::AnalyticsListenerImplementor</scope><name>n_onBeforeSending</name></member>
+      <member refid="classmono_1_1com_1_1microsoft_1_1appcenter_1_1analytics_1_1channel_1_1_analytics_listener_implementor_1aa87d2c10c3987723123cf88d4809dc5e" prot="private" virt="non-virtual"><scope>mono::com::microsoft::appcenter::analytics::channel::AnalyticsListenerImplementor</scope><name>n_onBeforeSending</name></member>
+      <member refid="classmono_1_1com_1_1microsoft_1_1appcenter_1_1analytics_1_1channel_1_1_analytics_listener_implementor_1a3276c0f630a5155987431cf5286ca494" prot="private" virt="non-virtual"><scope>mono::com::microsoft::appcenter::analytics::channel::AnalyticsListenerImplementor</scope><name>n_onSendingFailed</name></member>
+      <member refid="classmono_1_1com_1_1microsoft_1_1appcenter_1_1analytics_1_1channel_1_1_analytics_listener_implementor_1a3276c0f630a5155987431cf5286ca494" prot="private" virt="non-virtual"><scope>mono::com::microsoft::appcenter::analytics::channel::AnalyticsListenerImplementor</scope><name>n_onSendingFailed</name></member>
+      <member refid="classmono_1_1com_1_1microsoft_1_1appcenter_1_1analytics_1_1channel_1_1_analytics_listener_implementor_1afb5af383023399c9147f1bbf355f1b0b" prot="private" virt="non-virtual"><scope>mono::com::microsoft::appcenter::analytics::channel::AnalyticsListenerImplementor</scope><name>n_onSendingSucceeded</name></member>
+      <member refid="classmono_1_1com_1_1microsoft_1_1appcenter_1_1analytics_1_1channel_1_1_analytics_listener_implementor_1afb5af383023399c9147f1bbf355f1b0b" prot="private" virt="non-virtual"><scope>mono::com::microsoft::appcenter::analytics::channel::AnalyticsListenerImplementor</scope><name>n_onSendingSucceeded</name></member>
+      <member refid="classmono_1_1com_1_1microsoft_1_1appcenter_1_1analytics_1_1channel_1_1_analytics_listener_implementor_1a5ff21edea9ea3d3a6f02a6840aeadf60" prot="public" virt="non-virtual"><scope>mono::com::microsoft::appcenter::analytics::channel::AnalyticsListenerImplementor</scope><name>onBeforeSending</name></member>
+      <member refid="classmono_1_1com_1_1microsoft_1_1appcenter_1_1analytics_1_1channel_1_1_analytics_listener_implementor_1a5ff21edea9ea3d3a6f02a6840aeadf60" prot="public" virt="non-virtual"><scope>mono::com::microsoft::appcenter::analytics::channel::AnalyticsListenerImplementor</scope><name>onBeforeSending</name></member>
+      <member refid="classmono_1_1com_1_1microsoft_1_1appcenter_1_1analytics_1_1channel_1_1_analytics_listener_implementor_1a2da5bd4bc3683f22028ad95a0a71d76d" prot="public" virt="non-virtual"><scope>mono::com::microsoft::appcenter::analytics::channel::AnalyticsListenerImplementor</scope><name>onSendingFailed</name></member>
+      <member refid="classmono_1_1com_1_1microsoft_1_1appcenter_1_1analytics_1_1channel_1_1_analytics_listener_implementor_1a2da5bd4bc3683f22028ad95a0a71d76d" prot="public" virt="non-virtual"><scope>mono::com::microsoft::appcenter::analytics::channel::AnalyticsListenerImplementor</scope><name>onSendingFailed</name></member>
+      <member refid="classmono_1_1com_1_1microsoft_1_1appcenter_1_1analytics_1_1channel_1_1_analytics_listener_implementor_1a6192ffb5f0004aebb72c71e17f734afa" prot="public" virt="non-virtual"><scope>mono::com::microsoft::appcenter::analytics::channel::AnalyticsListenerImplementor</scope><name>onSendingSucceeded</name></member>
+      <member refid="classmono_1_1com_1_1microsoft_1_1appcenter_1_1analytics_1_1channel_1_1_analytics_listener_implementor_1a6192ffb5f0004aebb72c71e17f734afa" prot="public" virt="non-virtual"><scope>mono::com::microsoft::appcenter::analytics::channel::AnalyticsListenerImplementor</scope><name>onSendingSucceeded</name></member>
+      <member refid="classmono_1_1com_1_1microsoft_1_1appcenter_1_1analytics_1_1channel_1_1_analytics_listener_implementor_1a5617d32f1d66873213e1c7c3c7ee2d8a" prot="private" virt="non-virtual"><scope>mono::com::microsoft::appcenter::analytics::channel::AnalyticsListenerImplementor</scope><name>refList</name></member>
+    </listofallmembers>
+  </compounddef>
+</doxygen>

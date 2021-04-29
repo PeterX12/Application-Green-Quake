@@ -1,0 +1,158 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.9.1" xml:lang="en-US">
+  <compounddef id="class_application___green___quake_1_1_app" kind="class" language="C#" prot="public">
+    <compoundname>Application_Green_Quake::App</compoundname>
+    <basecompoundref prot="public" virt="non-virtual">Application</basecompoundref>
+    <basecompoundref prot="public" virt="non-virtual">global.XamarinForms.Application</basecompoundref>
+    <basecompoundref prot="public" virt="non-virtual">global.XamarinForms.Application</basecompoundref>
+      <sectiondef kind="private-attrib">
+      <memberdef kind="variable" id="class_application___green___quake_1_1_app_1ac9301b4f957b66566862e9ddb500995d" prot="private" static="no" mutable="no">
+        <type><ref refid="interface_application___green___quake_1_1_i_auth" kindref="compound">IAuth</ref></type>
+        <definition>IAuth Application_Green_Quake.App.auth</definition>
+        <argsstring></argsstring>
+        <name>auth</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake/App.xaml.cs" line="20" column="15" bodyfile="Application Green Quake/App.xaml.cs" bodystart="20" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="public-func">
+      <memberdef kind="function" id="class_application___green___quake_1_1_app_1a55bea027c0ba3aee4311aa30030a0bc0" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>Application_Green_Quake.App.App</definition>
+        <argsstring>()</argsstring>
+        <name>App</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake/App.xaml.cs" line="21" column="16" bodyfile="Application Green Quake/App.xaml.cs" bodystart="21" bodyend="40"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="protected-func">
+      <memberdef kind="function" id="class_application___green___quake_1_1_app_1acb4cf67c2ef0e5c5c22219e920416f6b" prot="protected" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>override void</type>
+        <definition>override void Application_Green_Quake.App.OnStart</definition>
+        <argsstring>()</argsstring>
+        <name>OnStart</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake/App.xaml.cs" line="42" column="33" bodyfile="Application Green Quake/App.xaml.cs" bodystart="42" bodyend="50"/>
+      </memberdef>
+      <memberdef kind="function" id="class_application___green___quake_1_1_app_1ad676b7ded7b6c867aa70c7effb7b3136" prot="protected" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>override void</type>
+        <definition>override void Application_Green_Quake.App.OnSleep</definition>
+        <argsstring>()</argsstring>
+        <name>OnSleep</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake/App.xaml.cs" line="52" column="33" bodyfile="Application Green Quake/App.xaml.cs" bodystart="52" bodyend="54"/>
+      </memberdef>
+      <memberdef kind="function" id="class_application___green___quake_1_1_app_1acb565edfa72b0b517604c0a049279a41" prot="protected" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>override void</type>
+        <definition>override void Application_Green_Quake.App.OnResume</definition>
+        <argsstring>()</argsstring>
+        <name>OnResume</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake/App.xaml.cs" line="56" column="33" bodyfile="Application Green Quake/App.xaml.cs" bodystart="56" bodyend="60"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="private-func">
+      <memberdef kind="function" id="class_application___green___quake_1_1_app_1a6c39b33c69e62ec90d4288d63696ee10" prot="private" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void Application_Green_Quake.App.InitializeComponent</definition>
+        <argsstring>()</argsstring>
+        <name>InitializeComponent</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake/obj/Debug/netstandard2.0/App.xaml.g.cs" line="20" column="22" bodyfile="Application Green Quake/obj/Debug/netstandard2.0/App.xaml.g.cs" bodystart="20" bodyend="22"/>
+      </memberdef>
+      <memberdef kind="function" id="class_application___green___quake_1_1_app_1a6c39b33c69e62ec90d4288d63696ee10" prot="private" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void Application_Green_Quake.App.InitializeComponent</definition>
+        <argsstring>()</argsstring>
+        <name>InitializeComponent</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake/obj/Release/netstandard2.0/App.xaml.g.cs" line="20" column="22" bodyfile="Application Green Quake/obj/Release/netstandard2.0/App.xaml.g.cs" bodystart="20" bodyend="22"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <inheritancegraph>
+      <node id="1">
+        <label>Application_Green_Quake.App</label>
+        <link refid="class_application___green___quake_1_1_app"/>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+        <childnode refid="3" relation="public-inheritance">
+        </childnode>
+        <childnode refid="3" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="2">
+        <label>Application</label>
+      </node>
+      <node id="3">
+        <label>global::XamarinForms::Application</label>
+      </node>
+    </inheritancegraph>
+    <collaborationgraph>
+      <node id="1">
+        <label>Application_Green_Quake.App</label>
+        <link refid="class_application___green___quake_1_1_app"/>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+        <childnode refid="3" relation="public-inheritance">
+        </childnode>
+        <childnode refid="3" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="2">
+        <label>Application</label>
+      </node>
+      <node id="3">
+        <label>global::XamarinForms::Application</label>
+      </node>
+    </collaborationgraph>
+    <location file="Application Green Quake/App.xaml.cs" line="18" column="19" bodyfile="Application Green Quake/App.xaml.cs" bodystart="19" bodyend="61"/>
+    <listofallmembers>
+      <member refid="class_application___green___quake_1_1_app_1a55bea027c0ba3aee4311aa30030a0bc0" prot="public" virt="non-virtual"><scope>Application_Green_Quake::App</scope><name>App</name></member>
+      <member refid="class_application___green___quake_1_1_app_1ac9301b4f957b66566862e9ddb500995d" prot="private" virt="non-virtual"><scope>Application_Green_Quake::App</scope><name>auth</name></member>
+      <member refid="class_application___green___quake_1_1_app_1a6c39b33c69e62ec90d4288d63696ee10" prot="private" virt="non-virtual"><scope>Application_Green_Quake::App</scope><name>InitializeComponent</name></member>
+      <member refid="class_application___green___quake_1_1_app_1a6c39b33c69e62ec90d4288d63696ee10" prot="private" virt="non-virtual"><scope>Application_Green_Quake::App</scope><name>InitializeComponent</name></member>
+      <member refid="class_application___green___quake_1_1_app_1acb565edfa72b0b517604c0a049279a41" prot="protected" virt="non-virtual"><scope>Application_Green_Quake::App</scope><name>OnResume</name></member>
+      <member refid="class_application___green___quake_1_1_app_1ad676b7ded7b6c867aa70c7effb7b3136" prot="protected" virt="non-virtual"><scope>Application_Green_Quake::App</scope><name>OnSleep</name></member>
+      <member refid="class_application___green___quake_1_1_app_1acb4cf67c2ef0e5c5c22219e920416f6b" prot="protected" virt="non-virtual"><scope>Application_Green_Quake::App</scope><name>OnStart</name></member>
+    </listofallmembers>
+  </compounddef>
+</doxygen>

@@ -1,0 +1,131 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.9.1" xml:lang="en-US">
+  <compounddef id="class_application___green___quake_1_1_views_1_1_refill_page_1_1_refill_station" kind="class" language="C#" prot="public">
+    <compoundname>Application_Green_Quake::Views::RefillPage::RefillStation</compoundname>
+    <basecompoundref prot="public" virt="non-virtual">global.XamarinForms.ContentPage</basecompoundref>
+    <basecompoundref prot="public" virt="non-virtual">global.XamarinForms.ContentPage</basecompoundref>
+    <basecompoundref prot="public" virt="non-virtual">ContentPage</basecompoundref>
+      <sectiondef kind="private-attrib">
+      <memberdef kind="variable" id="class_application___green___quake_1_1_views_1_1_refill_page_1_1_refill_station_1a74a5a9c6365dad791fcc675366a4e02a" prot="private" static="no" mutable="no">
+        <type>global::Xamarin.Forms.GoogleMaps.Map</type>
+        <definition>Xamarin Forms GoogleMaps global::Map Application_Green_Quake.Views.RefillPage.RefillStation::map</definition>
+        <argsstring></argsstring>
+        <name>map</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake/obj/Debug/netstandard2.0/Views/RefillPage/RefillStation.xaml.g.cs" line="20" column="51" bodyfile="Application Green Quake/obj/Debug/netstandard2.0/Views/RefillPage/RefillStation.xaml.g.cs" bodystart="20" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="private-func">
+      <memberdef kind="function" id="class_application___green___quake_1_1_views_1_1_refill_page_1_1_refill_station_1ab12a7fd3fb43e8984c56101ae8883f94" prot="private" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void Application_Green_Quake.Views.RefillPage.RefillStation.InitializeComponent</definition>
+        <argsstring>()</argsstring>
+        <name>InitializeComponent</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake/obj/Debug/netstandard2.0/Views/RefillPage/RefillStation.xaml.g.cs" line="23" column="22" bodyfile="Application Green Quake/obj/Debug/netstandard2.0/Views/RefillPage/RefillStation.xaml.g.cs" bodystart="23" bodyend="26"/>
+      </memberdef>
+      <memberdef kind="function" id="class_application___green___quake_1_1_views_1_1_refill_page_1_1_refill_station_1ab12a7fd3fb43e8984c56101ae8883f94" prot="private" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void Application_Green_Quake.Views.RefillPage.RefillStation.InitializeComponent</definition>
+        <argsstring>()</argsstring>
+        <name>InitializeComponent</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake/obj/Release/netstandard2.0/Views/RefillPage/RefillStation.xaml.g.cs" line="23" column="22" bodyfile="Application Green Quake/obj/Release/netstandard2.0/Views/RefillPage/RefillStation.xaml.g.cs" bodystart="23" bodyend="26"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="public-func">
+      <memberdef kind="function" id="class_application___green___quake_1_1_views_1_1_refill_page_1_1_refill_station_1acfe0d81481704bbad1cd7d1f56c1cdbf" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>Application_Green_Quake.Views.RefillPage.RefillStation.RefillStation</definition>
+        <argsstring>()</argsstring>
+        <name>RefillStation</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake/Views/RefillPage/RefillStation.xaml.cs" line="23" column="16" bodyfile="Application Green Quake/Views/RefillPage/RefillStation.xaml.cs" bodystart="23" bodyend="27"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="protected-func">
+      <memberdef kind="function" id="class_application___green___quake_1_1_views_1_1_refill_page_1_1_refill_station_1a0ffcade0328e077fba55c75f8ced52ed" prot="protected" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>override async void</type>
+        <definition>override async void Application_Green_Quake.Views.RefillPage.RefillStation.OnAppearing</definition>
+        <argsstring>()</argsstring>
+        <name>OnAppearing</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+<para>This function is called before the page is displayed. </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake/Views/RefillPage/RefillStation.xaml.cs" line="30" column="39" bodyfile="Application Green Quake/Views/RefillPage/RefillStation.xaml.cs" bodystart="30" bodyend="96"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <inheritancegraph>
+      <node id="3">
+        <label>ContentPage</label>
+      </node>
+      <node id="1">
+        <label>Application_Green_Quake.Views.RefillPage.RefillStation</label>
+        <link refid="class_application___green___quake_1_1_views_1_1_refill_page_1_1_refill_station"/>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+        <childnode refid="3" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="2">
+        <label>global::XamarinForms::ContentPage</label>
+      </node>
+    </inheritancegraph>
+    <collaborationgraph>
+      <node id="3">
+        <label>ContentPage</label>
+      </node>
+      <node id="1">
+        <label>Application_Green_Quake.Views.RefillPage.RefillStation</label>
+        <link refid="class_application___green___quake_1_1_views_1_1_refill_page_1_1_refill_station"/>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+        <childnode refid="3" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="2">
+        <label>global::XamarinForms::ContentPage</label>
+      </node>
+    </collaborationgraph>
+    <location file="Application Green Quake/obj/Debug/netstandard2.0/Views/RefillPage/RefillStation.xaml.g.cs" line="17" column="19" bodyfile="Application Green Quake/obj/Debug/netstandard2.0/Views/RefillPage/RefillStation.xaml.g.cs" bodystart="17" bodyend="27"/>
+    <listofallmembers>
+      <member refid="class_application___green___quake_1_1_views_1_1_refill_page_1_1_refill_station_1ab12a7fd3fb43e8984c56101ae8883f94" prot="private" virt="non-virtual"><scope>Application_Green_Quake::Views::RefillPage::RefillStation</scope><name>InitializeComponent</name></member>
+      <member refid="class_application___green___quake_1_1_views_1_1_refill_page_1_1_refill_station_1ab12a7fd3fb43e8984c56101ae8883f94" prot="private" virt="non-virtual"><scope>Application_Green_Quake::Views::RefillPage::RefillStation</scope><name>InitializeComponent</name></member>
+      <member refid="class_application___green___quake_1_1_views_1_1_refill_page_1_1_refill_station_1a74a5a9c6365dad791fcc675366a4e02a" prot="private" virt="non-virtual"><scope>Application_Green_Quake::Views::RefillPage::RefillStation</scope><name>map</name></member>
+      <member refid="class_application___green___quake_1_1_views_1_1_refill_page_1_1_refill_station_1a0ffcade0328e077fba55c75f8ced52ed" prot="protected" virt="non-virtual"><scope>Application_Green_Quake::Views::RefillPage::RefillStation</scope><name>OnAppearing</name></member>
+      <member refid="class_application___green___quake_1_1_views_1_1_refill_page_1_1_refill_station_1acfe0d81481704bbad1cd7d1f56c1cdbf" prot="public" virt="non-virtual"><scope>Application_Green_Quake::Views::RefillPage::RefillStation</scope><name>RefillStation</name></member>
+    </listofallmembers>
+  </compounddef>
+</doxygen>

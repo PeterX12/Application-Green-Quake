@@ -1,0 +1,1942 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.9.1" xml:lang="en-US">
+  <compounddef id="classcrc643f46942d9dd1fff9_1_1_list_view_adapter" kind="class" language="Java" prot="public">
+    <compoundname>crc643f46942d9dd1fff9::ListViewAdapter</compoundname>
+    <basecompoundref refid="classcrc643f46942d9dd1fff9_1_1_cell_adapter" prot="public" virt="non-virtual">crc643f46942d9dd1fff9.CellAdapter</basecompoundref>
+    <basecompoundref prot="public" virt="non-virtual">mono.android.IGCUserPeer</basecompoundref>
+    <basecompoundref refid="classcrc643f46942d9dd1fff9_1_1_cell_adapter" prot="public" virt="non-virtual">crc643f46942d9dd1fff9.CellAdapter</basecompoundref>
+    <basecompoundref prot="public" virt="non-virtual">mono.android.IGCUserPeer</basecompoundref>
+    <basecompoundref refid="classcrc643f46942d9dd1fff9_1_1_cell_adapter" prot="public" virt="non-virtual">crc643f46942d9dd1fff9.CellAdapter</basecompoundref>
+    <basecompoundref prot="public" virt="non-virtual">mono.android.IGCUserPeer</basecompoundref>
+    <basecompoundref refid="classcrc643f46942d9dd1fff9_1_1_cell_adapter" prot="public" virt="non-virtual">crc643f46942d9dd1fff9.CellAdapter</basecompoundref>
+    <basecompoundref prot="public" virt="non-virtual">mono.android.IGCUserPeer</basecompoundref>
+    <derivedcompoundref refid="classcrc643f46942d9dd1fff9_1_1_grouped_list_view_adapter" prot="public" virt="non-virtual">crc643f46942d9dd1fff9.GroupedListViewAdapter</derivedcompoundref>
+    <derivedcompoundref refid="classcrc643f46942d9dd1fff9_1_1_grouped_list_view_adapter" prot="public" virt="non-virtual">crc643f46942d9dd1fff9.GroupedListViewAdapter</derivedcompoundref>
+    <derivedcompoundref refid="classcrc643f46942d9dd1fff9_1_1_grouped_list_view_adapter" prot="public" virt="non-virtual">crc643f46942d9dd1fff9.GroupedListViewAdapter</derivedcompoundref>
+    <derivedcompoundref refid="classcrc643f46942d9dd1fff9_1_1_grouped_list_view_adapter" prot="public" virt="non-virtual">crc643f46942d9dd1fff9.GroupedListViewAdapter</derivedcompoundref>
+      <sectiondef kind="public-static-attrib">
+      <memberdef kind="variable" id="classcrc643f46942d9dd1fff9_1_1_list_view_adapter_1a29410cfad4ce9b0bfe08c483148d4d9e" prot="public" static="yes" mutable="no">
+        <type>final String</type>
+        <definition>static final String crc643f46942d9dd1fff9.ListViewAdapter::__md_methods</definition>
+        <argsstring></argsstring>
+        <name>__md_methods</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+<para>@hide </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/100/android/src/crc643f46942d9dd1fff9/ListViewAdapter.java" line="10" column="28" bodyfile="Application Green Quake.Android/obj/Debug/100/android/src/crc643f46942d9dd1fff9/ListViewAdapter.java" bodystart="10" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="private-attrib">
+      <memberdef kind="variable" id="classcrc643f46942d9dd1fff9_1_1_list_view_adapter_1a8916298dd4da746dce3826b313fc02e7" prot="private" static="no" mutable="no">
+        <type>java.util.ArrayList</type>
+        <definition>java util ArrayList crc643f46942d9dd1fff9.ListViewAdapter::refList</definition>
+        <argsstring></argsstring>
+        <name>refList</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/100/android/src/crc643f46942d9dd1fff9/ListViewAdapter.java" line="113" column="27" bodyfile="Application Green Quake.Android/obj/Debug/100/android/src/crc643f46942d9dd1fff9/ListViewAdapter.java" bodystart="113" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="package-static-func">
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_list_view_adapter_1a185ffe1860e477435dbd3cbab482b288" prot="package" static="yes" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>crc643f46942d9dd1fff9.ListViewAdapter.[static initializer]</definition>
+        <argsstring></argsstring>
+        <name>[static initializer]</name>
+        <reimplements refid="classcrc643f46942d9dd1fff9_1_1_cell_adapter_1a4d22f4f3d639d4bb44480a1ff5bea87e">[static initializer]</reimplements>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_grouped_list_view_adapter_1ac63c24849fd8989dc6ca4b7b9cbf20f1">[static initializer]</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_grouped_list_view_adapter_1ac63c24849fd8989dc6ca4b7b9cbf20f1">[static initializer]</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_grouped_list_view_adapter_1ac63c24849fd8989dc6ca4b7b9cbf20f1">[static initializer]</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_grouped_list_view_adapter_1ac63c24849fd8989dc6ca4b7b9cbf20f1">[static initializer]</reimplementedby>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/100/android/src/crc643f46942d9dd1fff9/ListViewAdapter.java" line="10" column="28"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_list_view_adapter_1a185ffe1860e477435dbd3cbab482b288" prot="package" static="yes" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>crc643f46942d9dd1fff9.ListViewAdapter.[static initializer]</definition>
+        <argsstring></argsstring>
+        <name>[static initializer]</name>
+        <reimplements refid="classcrc643f46942d9dd1fff9_1_1_cell_adapter_1a4d22f4f3d639d4bb44480a1ff5bea87e">[static initializer]</reimplements>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_grouped_list_view_adapter_1ac63c24849fd8989dc6ca4b7b9cbf20f1">[static initializer]</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_grouped_list_view_adapter_1ac63c24849fd8989dc6ca4b7b9cbf20f1">[static initializer]</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_grouped_list_view_adapter_1ac63c24849fd8989dc6ca4b7b9cbf20f1">[static initializer]</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_grouped_list_view_adapter_1ac63c24849fd8989dc6ca4b7b9cbf20f1">[static initializer]</reimplementedby>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/110/android/src/crc643f46942d9dd1fff9/ListViewAdapter.java" line="10" column="28"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_list_view_adapter_1a185ffe1860e477435dbd3cbab482b288" prot="package" static="yes" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>crc643f46942d9dd1fff9.ListViewAdapter.[static initializer]</definition>
+        <argsstring></argsstring>
+        <name>[static initializer]</name>
+        <reimplements refid="classcrc643f46942d9dd1fff9_1_1_cell_adapter_1a4d22f4f3d639d4bb44480a1ff5bea87e">[static initializer]</reimplements>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_grouped_list_view_adapter_1ac63c24849fd8989dc6ca4b7b9cbf20f1">[static initializer]</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_grouped_list_view_adapter_1ac63c24849fd8989dc6ca4b7b9cbf20f1">[static initializer]</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_grouped_list_view_adapter_1ac63c24849fd8989dc6ca4b7b9cbf20f1">[static initializer]</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_grouped_list_view_adapter_1ac63c24849fd8989dc6ca4b7b9cbf20f1">[static initializer]</reimplementedby>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/100/android/src/crc643f46942d9dd1fff9/ListViewAdapter.java" line="10" column="28"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_list_view_adapter_1a185ffe1860e477435dbd3cbab482b288" prot="package" static="yes" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>crc643f46942d9dd1fff9.ListViewAdapter.[static initializer]</definition>
+        <argsstring></argsstring>
+        <name>[static initializer]</name>
+        <reimplements refid="classcrc643f46942d9dd1fff9_1_1_cell_adapter_1a4d22f4f3d639d4bb44480a1ff5bea87e">[static initializer]</reimplements>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_grouped_list_view_adapter_1ac63c24849fd8989dc6ca4b7b9cbf20f1">[static initializer]</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_grouped_list_view_adapter_1ac63c24849fd8989dc6ca4b7b9cbf20f1">[static initializer]</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_grouped_list_view_adapter_1ac63c24849fd8989dc6ca4b7b9cbf20f1">[static initializer]</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_grouped_list_view_adapter_1ac63c24849fd8989dc6ca4b7b9cbf20f1">[static initializer]</reimplementedby>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/110/android/src/crc643f46942d9dd1fff9/ListViewAdapter.java" line="10" column="28"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="public-func">
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_list_view_adapter_1ae4e7d993052531657cc66cd73abec1dc" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>crc643f46942d9dd1fff9.ListViewAdapter.ListViewAdapter</definition>
+        <argsstring>()</argsstring>
+        <name>ListViewAdapter</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/100/android/src/crc643f46942d9dd1fff9/ListViewAdapter.java" line="27" column="8" bodyfile="Application Green Quake.Android/obj/Debug/100/android/src/crc643f46942d9dd1fff9/ListViewAdapter.java" bodystart="27" bodyend="32"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_list_view_adapter_1ab332bee85285a50af03528cc509a27dd" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>crc643f46942d9dd1fff9.ListViewAdapter.ListViewAdapter</definition>
+        <argsstring>(android.content.Context p0)</argsstring>
+        <name>ListViewAdapter</name>
+        <param>
+          <type>android.content.Context</type>
+          <declname>p0</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/100/android/src/crc643f46942d9dd1fff9/ListViewAdapter.java" line="34" column="8" bodyfile="Application Green Quake.Android/obj/Debug/100/android/src/crc643f46942d9dd1fff9/ListViewAdapter.java" bodystart="34" bodyend="39"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_list_view_adapter_1a4d20375b48599c2e5731323a73367ef4" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>int</type>
+        <definition>int crc643f46942d9dd1fff9.ListViewAdapter.getCount</definition>
+        <argsstring>()</argsstring>
+        <name>getCount</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/100/android/src/crc643f46942d9dd1fff9/ListViewAdapter.java" line="42" column="12" bodyfile="Application Green Quake.Android/obj/Debug/100/android/src/crc643f46942d9dd1fff9/ListViewAdapter.java" bodystart="42" bodyend="45"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_list_view_adapter_1ae53393234159e7deaebf7a4912653c27" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>boolean</type>
+        <definition>boolean crc643f46942d9dd1fff9.ListViewAdapter.hasStableIds</definition>
+        <argsstring>()</argsstring>
+        <name>hasStableIds</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/100/android/src/crc643f46942d9dd1fff9/ListViewAdapter.java" line="50" column="16" bodyfile="Application Green Quake.Android/obj/Debug/100/android/src/crc643f46942d9dd1fff9/ListViewAdapter.java" bodystart="50" bodyend="53"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_list_view_adapter_1a2ef0978b1398db12c8b13f0ea413e169" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>java.lang.Object</type>
+        <definition>java.lang.Object crc643f46942d9dd1fff9.ListViewAdapter.getItem</definition>
+        <argsstring>(int p0)</argsstring>
+        <name>getItem</name>
+        <param>
+          <type>int</type>
+          <declname>p0</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/100/android/src/crc643f46942d9dd1fff9/ListViewAdapter.java" line="58" column="23" bodyfile="Application Green Quake.Android/obj/Debug/100/android/src/crc643f46942d9dd1fff9/ListViewAdapter.java" bodystart="58" bodyend="61"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_list_view_adapter_1a09cf61a7555847d8138ea2186159f3cb" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>int</type>
+        <definition>int crc643f46942d9dd1fff9.ListViewAdapter.getViewTypeCount</definition>
+        <argsstring>()</argsstring>
+        <name>getViewTypeCount</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/100/android/src/crc643f46942d9dd1fff9/ListViewAdapter.java" line="66" column="12" bodyfile="Application Green Quake.Android/obj/Debug/100/android/src/crc643f46942d9dd1fff9/ListViewAdapter.java" bodystart="66" bodyend="69"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_list_view_adapter_1aae8369fd16ea928650eff655f94d41a2" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>boolean</type>
+        <definition>boolean crc643f46942d9dd1fff9.ListViewAdapter.areAllItemsEnabled</definition>
+        <argsstring>()</argsstring>
+        <name>areAllItemsEnabled</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/100/android/src/crc643f46942d9dd1fff9/ListViewAdapter.java" line="74" column="16" bodyfile="Application Green Quake.Android/obj/Debug/100/android/src/crc643f46942d9dd1fff9/ListViewAdapter.java" bodystart="74" bodyend="77"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_list_view_adapter_1a61bb47f5d5403c9055068e8e503ba922" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>long</type>
+        <definition>long crc643f46942d9dd1fff9.ListViewAdapter.getItemId</definition>
+        <argsstring>(int p0)</argsstring>
+        <name>getItemId</name>
+        <param>
+          <type>int</type>
+          <declname>p0</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/100/android/src/crc643f46942d9dd1fff9/ListViewAdapter.java" line="82" column="13" bodyfile="Application Green Quake.Android/obj/Debug/100/android/src/crc643f46942d9dd1fff9/ListViewAdapter.java" bodystart="82" bodyend="85"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_list_view_adapter_1a08e81033a3589530e01f0733b4dd9666" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>int</type>
+        <definition>int crc643f46942d9dd1fff9.ListViewAdapter.getItemViewType</definition>
+        <argsstring>(int p0)</argsstring>
+        <name>getItemViewType</name>
+        <param>
+          <type>int</type>
+          <declname>p0</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/100/android/src/crc643f46942d9dd1fff9/ListViewAdapter.java" line="90" column="12" bodyfile="Application Green Quake.Android/obj/Debug/100/android/src/crc643f46942d9dd1fff9/ListViewAdapter.java" bodystart="90" bodyend="93"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_list_view_adapter_1a877486a74e66fce87f54972bb80e349a" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>android.view.View</type>
+        <definition>android.view.View crc643f46942d9dd1fff9.ListViewAdapter.getView</definition>
+        <argsstring>(int p0, android.view.View p1, android.view.ViewGroup p2)</argsstring>
+        <name>getView</name>
+        <param>
+          <type>int</type>
+          <declname>p0</declname>
+        </param>
+        <param>
+          <type>android.view.View</type>
+          <declname>p1</declname>
+        </param>
+        <param>
+          <type>android.view.ViewGroup</type>
+          <declname>p2</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/100/android/src/crc643f46942d9dd1fff9/ListViewAdapter.java" line="98" column="24" bodyfile="Application Green Quake.Android/obj/Debug/100/android/src/crc643f46942d9dd1fff9/ListViewAdapter.java" bodystart="98" bodyend="101"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_list_view_adapter_1acf3a7697310e0649782342ed29cd13ba" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>boolean</type>
+        <definition>boolean crc643f46942d9dd1fff9.ListViewAdapter.isEnabled</definition>
+        <argsstring>(int p0)</argsstring>
+        <name>isEnabled</name>
+        <param>
+          <type>int</type>
+          <declname>p0</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/100/android/src/crc643f46942d9dd1fff9/ListViewAdapter.java" line="106" column="16" bodyfile="Application Green Quake.Android/obj/Debug/100/android/src/crc643f46942d9dd1fff9/ListViewAdapter.java" bodystart="106" bodyend="109"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_list_view_adapter_1ad41e82c2537372ac83e310cb650260c7" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void crc643f46942d9dd1fff9.ListViewAdapter.monodroidAddReference</definition>
+        <argsstring>(java.lang.Object obj)</argsstring>
+        <name>monodroidAddReference</name>
+        <reimplements refid="classcrc643f46942d9dd1fff9_1_1_cell_adapter_1a3918bcd44ea0c6c5f0cdcd2cf1028bcc">monodroidAddReference</reimplements>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_grouped_list_view_adapter_1a23f6b4b88104430aa142ccf2cca3ea3a">monodroidAddReference</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_grouped_list_view_adapter_1a23f6b4b88104430aa142ccf2cca3ea3a">monodroidAddReference</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_grouped_list_view_adapter_1a23f6b4b88104430aa142ccf2cca3ea3a">monodroidAddReference</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_grouped_list_view_adapter_1a23f6b4b88104430aa142ccf2cca3ea3a">monodroidAddReference</reimplementedby>
+        <param>
+          <type>java.lang.Object</type>
+          <declname>obj</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/100/android/src/crc643f46942d9dd1fff9/ListViewAdapter.java" line="114" column="13" bodyfile="Application Green Quake.Android/obj/Debug/100/android/src/crc643f46942d9dd1fff9/ListViewAdapter.java" bodystart="114" bodyend="119"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_list_view_adapter_1a8e9c20f48174c320970addc5f5d06f02" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void crc643f46942d9dd1fff9.ListViewAdapter.monodroidClearReferences</definition>
+        <argsstring>()</argsstring>
+        <name>monodroidClearReferences</name>
+        <reimplements refid="classcrc643f46942d9dd1fff9_1_1_cell_adapter_1a9845498e95704cdf52398af2433dc780">monodroidClearReferences</reimplements>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_grouped_list_view_adapter_1ace6407a7c66efb28f476e9b5eb790202">monodroidClearReferences</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_grouped_list_view_adapter_1ace6407a7c66efb28f476e9b5eb790202">monodroidClearReferences</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_grouped_list_view_adapter_1ace6407a7c66efb28f476e9b5eb790202">monodroidClearReferences</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_grouped_list_view_adapter_1ace6407a7c66efb28f476e9b5eb790202">monodroidClearReferences</reimplementedby>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/100/android/src/crc643f46942d9dd1fff9/ListViewAdapter.java" line="121" column="13" bodyfile="Application Green Quake.Android/obj/Debug/100/android/src/crc643f46942d9dd1fff9/ListViewAdapter.java" bodystart="121" bodyend="125"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_list_view_adapter_1ae4e7d993052531657cc66cd73abec1dc" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>crc643f46942d9dd1fff9.ListViewAdapter.ListViewAdapter</definition>
+        <argsstring>()</argsstring>
+        <name>ListViewAdapter</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/110/android/src/crc643f46942d9dd1fff9/ListViewAdapter.java" line="27" column="8" bodyfile="Application Green Quake.Android/obj/Debug/110/android/src/crc643f46942d9dd1fff9/ListViewAdapter.java" bodystart="27" bodyend="32"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_list_view_adapter_1ab332bee85285a50af03528cc509a27dd" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>crc643f46942d9dd1fff9.ListViewAdapter.ListViewAdapter</definition>
+        <argsstring>(android.content.Context p0)</argsstring>
+        <name>ListViewAdapter</name>
+        <param>
+          <type>android.content.Context</type>
+          <declname>p0</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/110/android/src/crc643f46942d9dd1fff9/ListViewAdapter.java" line="34" column="8" bodyfile="Application Green Quake.Android/obj/Debug/110/android/src/crc643f46942d9dd1fff9/ListViewAdapter.java" bodystart="34" bodyend="39"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_list_view_adapter_1a4d20375b48599c2e5731323a73367ef4" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>int</type>
+        <definition>int crc643f46942d9dd1fff9.ListViewAdapter.getCount</definition>
+        <argsstring>()</argsstring>
+        <name>getCount</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/110/android/src/crc643f46942d9dd1fff9/ListViewAdapter.java" line="42" column="12" bodyfile="Application Green Quake.Android/obj/Debug/110/android/src/crc643f46942d9dd1fff9/ListViewAdapter.java" bodystart="42" bodyend="45"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_list_view_adapter_1ae53393234159e7deaebf7a4912653c27" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>boolean</type>
+        <definition>boolean crc643f46942d9dd1fff9.ListViewAdapter.hasStableIds</definition>
+        <argsstring>()</argsstring>
+        <name>hasStableIds</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/110/android/src/crc643f46942d9dd1fff9/ListViewAdapter.java" line="50" column="16" bodyfile="Application Green Quake.Android/obj/Debug/110/android/src/crc643f46942d9dd1fff9/ListViewAdapter.java" bodystart="50" bodyend="53"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_list_view_adapter_1a2ef0978b1398db12c8b13f0ea413e169" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>java.lang.Object</type>
+        <definition>java.lang.Object crc643f46942d9dd1fff9.ListViewAdapter.getItem</definition>
+        <argsstring>(int p0)</argsstring>
+        <name>getItem</name>
+        <param>
+          <type>int</type>
+          <declname>p0</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/110/android/src/crc643f46942d9dd1fff9/ListViewAdapter.java" line="58" column="23" bodyfile="Application Green Quake.Android/obj/Debug/110/android/src/crc643f46942d9dd1fff9/ListViewAdapter.java" bodystart="58" bodyend="61"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_list_view_adapter_1a09cf61a7555847d8138ea2186159f3cb" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>int</type>
+        <definition>int crc643f46942d9dd1fff9.ListViewAdapter.getViewTypeCount</definition>
+        <argsstring>()</argsstring>
+        <name>getViewTypeCount</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/110/android/src/crc643f46942d9dd1fff9/ListViewAdapter.java" line="66" column="12" bodyfile="Application Green Quake.Android/obj/Debug/110/android/src/crc643f46942d9dd1fff9/ListViewAdapter.java" bodystart="66" bodyend="69"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_list_view_adapter_1aae8369fd16ea928650eff655f94d41a2" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>boolean</type>
+        <definition>boolean crc643f46942d9dd1fff9.ListViewAdapter.areAllItemsEnabled</definition>
+        <argsstring>()</argsstring>
+        <name>areAllItemsEnabled</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/110/android/src/crc643f46942d9dd1fff9/ListViewAdapter.java" line="74" column="16" bodyfile="Application Green Quake.Android/obj/Debug/110/android/src/crc643f46942d9dd1fff9/ListViewAdapter.java" bodystart="74" bodyend="77"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_list_view_adapter_1a61bb47f5d5403c9055068e8e503ba922" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>long</type>
+        <definition>long crc643f46942d9dd1fff9.ListViewAdapter.getItemId</definition>
+        <argsstring>(int p0)</argsstring>
+        <name>getItemId</name>
+        <param>
+          <type>int</type>
+          <declname>p0</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/110/android/src/crc643f46942d9dd1fff9/ListViewAdapter.java" line="82" column="13" bodyfile="Application Green Quake.Android/obj/Debug/110/android/src/crc643f46942d9dd1fff9/ListViewAdapter.java" bodystart="82" bodyend="85"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_list_view_adapter_1a08e81033a3589530e01f0733b4dd9666" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>int</type>
+        <definition>int crc643f46942d9dd1fff9.ListViewAdapter.getItemViewType</definition>
+        <argsstring>(int p0)</argsstring>
+        <name>getItemViewType</name>
+        <param>
+          <type>int</type>
+          <declname>p0</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/110/android/src/crc643f46942d9dd1fff9/ListViewAdapter.java" line="90" column="12" bodyfile="Application Green Quake.Android/obj/Debug/110/android/src/crc643f46942d9dd1fff9/ListViewAdapter.java" bodystart="90" bodyend="93"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_list_view_adapter_1a877486a74e66fce87f54972bb80e349a" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>android.view.View</type>
+        <definition>android.view.View crc643f46942d9dd1fff9.ListViewAdapter.getView</definition>
+        <argsstring>(int p0, android.view.View p1, android.view.ViewGroup p2)</argsstring>
+        <name>getView</name>
+        <param>
+          <type>int</type>
+          <declname>p0</declname>
+        </param>
+        <param>
+          <type>android.view.View</type>
+          <declname>p1</declname>
+        </param>
+        <param>
+          <type>android.view.ViewGroup</type>
+          <declname>p2</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/110/android/src/crc643f46942d9dd1fff9/ListViewAdapter.java" line="98" column="24" bodyfile="Application Green Quake.Android/obj/Debug/110/android/src/crc643f46942d9dd1fff9/ListViewAdapter.java" bodystart="98" bodyend="101"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_list_view_adapter_1acf3a7697310e0649782342ed29cd13ba" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>boolean</type>
+        <definition>boolean crc643f46942d9dd1fff9.ListViewAdapter.isEnabled</definition>
+        <argsstring>(int p0)</argsstring>
+        <name>isEnabled</name>
+        <param>
+          <type>int</type>
+          <declname>p0</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/110/android/src/crc643f46942d9dd1fff9/ListViewAdapter.java" line="106" column="16" bodyfile="Application Green Quake.Android/obj/Debug/110/android/src/crc643f46942d9dd1fff9/ListViewAdapter.java" bodystart="106" bodyend="109"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_list_view_adapter_1ad41e82c2537372ac83e310cb650260c7" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void crc643f46942d9dd1fff9.ListViewAdapter.monodroidAddReference</definition>
+        <argsstring>(java.lang.Object obj)</argsstring>
+        <name>monodroidAddReference</name>
+        <reimplements refid="classcrc643f46942d9dd1fff9_1_1_cell_adapter_1a3918bcd44ea0c6c5f0cdcd2cf1028bcc">monodroidAddReference</reimplements>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_grouped_list_view_adapter_1a23f6b4b88104430aa142ccf2cca3ea3a">monodroidAddReference</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_grouped_list_view_adapter_1a23f6b4b88104430aa142ccf2cca3ea3a">monodroidAddReference</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_grouped_list_view_adapter_1a23f6b4b88104430aa142ccf2cca3ea3a">monodroidAddReference</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_grouped_list_view_adapter_1a23f6b4b88104430aa142ccf2cca3ea3a">monodroidAddReference</reimplementedby>
+        <param>
+          <type>java.lang.Object</type>
+          <declname>obj</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/110/android/src/crc643f46942d9dd1fff9/ListViewAdapter.java" line="114" column="13" bodyfile="Application Green Quake.Android/obj/Debug/110/android/src/crc643f46942d9dd1fff9/ListViewAdapter.java" bodystart="114" bodyend="119"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_list_view_adapter_1a8e9c20f48174c320970addc5f5d06f02" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void crc643f46942d9dd1fff9.ListViewAdapter.monodroidClearReferences</definition>
+        <argsstring>()</argsstring>
+        <name>monodroidClearReferences</name>
+        <reimplements refid="classcrc643f46942d9dd1fff9_1_1_cell_adapter_1a9845498e95704cdf52398af2433dc780">monodroidClearReferences</reimplements>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_grouped_list_view_adapter_1ace6407a7c66efb28f476e9b5eb790202">monodroidClearReferences</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_grouped_list_view_adapter_1ace6407a7c66efb28f476e9b5eb790202">monodroidClearReferences</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_grouped_list_view_adapter_1ace6407a7c66efb28f476e9b5eb790202">monodroidClearReferences</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_grouped_list_view_adapter_1ace6407a7c66efb28f476e9b5eb790202">monodroidClearReferences</reimplementedby>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/110/android/src/crc643f46942d9dd1fff9/ListViewAdapter.java" line="121" column="13" bodyfile="Application Green Quake.Android/obj/Debug/110/android/src/crc643f46942d9dd1fff9/ListViewAdapter.java" bodystart="121" bodyend="125"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_list_view_adapter_1ae4e7d993052531657cc66cd73abec1dc" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>crc643f46942d9dd1fff9.ListViewAdapter.ListViewAdapter</definition>
+        <argsstring>()</argsstring>
+        <name>ListViewAdapter</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/100/android/src/crc643f46942d9dd1fff9/ListViewAdapter.java" line="27" column="8" bodyfile="Application Green Quake.Android/obj/Release/100/android/src/crc643f46942d9dd1fff9/ListViewAdapter.java" bodystart="27" bodyend="32"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_list_view_adapter_1ab332bee85285a50af03528cc509a27dd" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>crc643f46942d9dd1fff9.ListViewAdapter.ListViewAdapter</definition>
+        <argsstring>(android.content.Context p0)</argsstring>
+        <name>ListViewAdapter</name>
+        <param>
+          <type>android.content.Context</type>
+          <declname>p0</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/100/android/src/crc643f46942d9dd1fff9/ListViewAdapter.java" line="34" column="8" bodyfile="Application Green Quake.Android/obj/Release/100/android/src/crc643f46942d9dd1fff9/ListViewAdapter.java" bodystart="34" bodyend="39"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_list_view_adapter_1a4d20375b48599c2e5731323a73367ef4" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>int</type>
+        <definition>int crc643f46942d9dd1fff9.ListViewAdapter.getCount</definition>
+        <argsstring>()</argsstring>
+        <name>getCount</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/100/android/src/crc643f46942d9dd1fff9/ListViewAdapter.java" line="42" column="12" bodyfile="Application Green Quake.Android/obj/Release/100/android/src/crc643f46942d9dd1fff9/ListViewAdapter.java" bodystart="42" bodyend="45"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_list_view_adapter_1ae53393234159e7deaebf7a4912653c27" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>boolean</type>
+        <definition>boolean crc643f46942d9dd1fff9.ListViewAdapter.hasStableIds</definition>
+        <argsstring>()</argsstring>
+        <name>hasStableIds</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/100/android/src/crc643f46942d9dd1fff9/ListViewAdapter.java" line="50" column="16" bodyfile="Application Green Quake.Android/obj/Release/100/android/src/crc643f46942d9dd1fff9/ListViewAdapter.java" bodystart="50" bodyend="53"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_list_view_adapter_1a2ef0978b1398db12c8b13f0ea413e169" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>java.lang.Object</type>
+        <definition>java.lang.Object crc643f46942d9dd1fff9.ListViewAdapter.getItem</definition>
+        <argsstring>(int p0)</argsstring>
+        <name>getItem</name>
+        <param>
+          <type>int</type>
+          <declname>p0</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/100/android/src/crc643f46942d9dd1fff9/ListViewAdapter.java" line="58" column="23" bodyfile="Application Green Quake.Android/obj/Release/100/android/src/crc643f46942d9dd1fff9/ListViewAdapter.java" bodystart="58" bodyend="61"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_list_view_adapter_1a09cf61a7555847d8138ea2186159f3cb" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>int</type>
+        <definition>int crc643f46942d9dd1fff9.ListViewAdapter.getViewTypeCount</definition>
+        <argsstring>()</argsstring>
+        <name>getViewTypeCount</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/100/android/src/crc643f46942d9dd1fff9/ListViewAdapter.java" line="66" column="12" bodyfile="Application Green Quake.Android/obj/Release/100/android/src/crc643f46942d9dd1fff9/ListViewAdapter.java" bodystart="66" bodyend="69"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_list_view_adapter_1aae8369fd16ea928650eff655f94d41a2" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>boolean</type>
+        <definition>boolean crc643f46942d9dd1fff9.ListViewAdapter.areAllItemsEnabled</definition>
+        <argsstring>()</argsstring>
+        <name>areAllItemsEnabled</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/100/android/src/crc643f46942d9dd1fff9/ListViewAdapter.java" line="74" column="16" bodyfile="Application Green Quake.Android/obj/Release/100/android/src/crc643f46942d9dd1fff9/ListViewAdapter.java" bodystart="74" bodyend="77"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_list_view_adapter_1a61bb47f5d5403c9055068e8e503ba922" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>long</type>
+        <definition>long crc643f46942d9dd1fff9.ListViewAdapter.getItemId</definition>
+        <argsstring>(int p0)</argsstring>
+        <name>getItemId</name>
+        <param>
+          <type>int</type>
+          <declname>p0</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/100/android/src/crc643f46942d9dd1fff9/ListViewAdapter.java" line="82" column="13" bodyfile="Application Green Quake.Android/obj/Release/100/android/src/crc643f46942d9dd1fff9/ListViewAdapter.java" bodystart="82" bodyend="85"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_list_view_adapter_1a08e81033a3589530e01f0733b4dd9666" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>int</type>
+        <definition>int crc643f46942d9dd1fff9.ListViewAdapter.getItemViewType</definition>
+        <argsstring>(int p0)</argsstring>
+        <name>getItemViewType</name>
+        <param>
+          <type>int</type>
+          <declname>p0</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/100/android/src/crc643f46942d9dd1fff9/ListViewAdapter.java" line="90" column="12" bodyfile="Application Green Quake.Android/obj/Release/100/android/src/crc643f46942d9dd1fff9/ListViewAdapter.java" bodystart="90" bodyend="93"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_list_view_adapter_1a877486a74e66fce87f54972bb80e349a" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>android.view.View</type>
+        <definition>android.view.View crc643f46942d9dd1fff9.ListViewAdapter.getView</definition>
+        <argsstring>(int p0, android.view.View p1, android.view.ViewGroup p2)</argsstring>
+        <name>getView</name>
+        <param>
+          <type>int</type>
+          <declname>p0</declname>
+        </param>
+        <param>
+          <type>android.view.View</type>
+          <declname>p1</declname>
+        </param>
+        <param>
+          <type>android.view.ViewGroup</type>
+          <declname>p2</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/100/android/src/crc643f46942d9dd1fff9/ListViewAdapter.java" line="98" column="24" bodyfile="Application Green Quake.Android/obj/Release/100/android/src/crc643f46942d9dd1fff9/ListViewAdapter.java" bodystart="98" bodyend="101"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_list_view_adapter_1acf3a7697310e0649782342ed29cd13ba" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>boolean</type>
+        <definition>boolean crc643f46942d9dd1fff9.ListViewAdapter.isEnabled</definition>
+        <argsstring>(int p0)</argsstring>
+        <name>isEnabled</name>
+        <param>
+          <type>int</type>
+          <declname>p0</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/100/android/src/crc643f46942d9dd1fff9/ListViewAdapter.java" line="106" column="16" bodyfile="Application Green Quake.Android/obj/Release/100/android/src/crc643f46942d9dd1fff9/ListViewAdapter.java" bodystart="106" bodyend="109"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_list_view_adapter_1ad41e82c2537372ac83e310cb650260c7" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void crc643f46942d9dd1fff9.ListViewAdapter.monodroidAddReference</definition>
+        <argsstring>(java.lang.Object obj)</argsstring>
+        <name>monodroidAddReference</name>
+        <reimplements refid="classcrc643f46942d9dd1fff9_1_1_cell_adapter_1a3918bcd44ea0c6c5f0cdcd2cf1028bcc">monodroidAddReference</reimplements>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_grouped_list_view_adapter_1a23f6b4b88104430aa142ccf2cca3ea3a">monodroidAddReference</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_grouped_list_view_adapter_1a23f6b4b88104430aa142ccf2cca3ea3a">monodroidAddReference</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_grouped_list_view_adapter_1a23f6b4b88104430aa142ccf2cca3ea3a">monodroidAddReference</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_grouped_list_view_adapter_1a23f6b4b88104430aa142ccf2cca3ea3a">monodroidAddReference</reimplementedby>
+        <param>
+          <type>java.lang.Object</type>
+          <declname>obj</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/100/android/src/crc643f46942d9dd1fff9/ListViewAdapter.java" line="114" column="13" bodyfile="Application Green Quake.Android/obj/Release/100/android/src/crc643f46942d9dd1fff9/ListViewAdapter.java" bodystart="114" bodyend="119"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_list_view_adapter_1a8e9c20f48174c320970addc5f5d06f02" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void crc643f46942d9dd1fff9.ListViewAdapter.monodroidClearReferences</definition>
+        <argsstring>()</argsstring>
+        <name>monodroidClearReferences</name>
+        <reimplements refid="classcrc643f46942d9dd1fff9_1_1_cell_adapter_1a9845498e95704cdf52398af2433dc780">monodroidClearReferences</reimplements>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_grouped_list_view_adapter_1ace6407a7c66efb28f476e9b5eb790202">monodroidClearReferences</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_grouped_list_view_adapter_1ace6407a7c66efb28f476e9b5eb790202">monodroidClearReferences</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_grouped_list_view_adapter_1ace6407a7c66efb28f476e9b5eb790202">monodroidClearReferences</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_grouped_list_view_adapter_1ace6407a7c66efb28f476e9b5eb790202">monodroidClearReferences</reimplementedby>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/100/android/src/crc643f46942d9dd1fff9/ListViewAdapter.java" line="121" column="13" bodyfile="Application Green Quake.Android/obj/Release/100/android/src/crc643f46942d9dd1fff9/ListViewAdapter.java" bodystart="121" bodyend="125"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_list_view_adapter_1ae4e7d993052531657cc66cd73abec1dc" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>crc643f46942d9dd1fff9.ListViewAdapter.ListViewAdapter</definition>
+        <argsstring>()</argsstring>
+        <name>ListViewAdapter</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/110/android/src/crc643f46942d9dd1fff9/ListViewAdapter.java" line="27" column="8" bodyfile="Application Green Quake.Android/obj/Release/110/android/src/crc643f46942d9dd1fff9/ListViewAdapter.java" bodystart="27" bodyend="32"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_list_view_adapter_1ab332bee85285a50af03528cc509a27dd" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>crc643f46942d9dd1fff9.ListViewAdapter.ListViewAdapter</definition>
+        <argsstring>(android.content.Context p0)</argsstring>
+        <name>ListViewAdapter</name>
+        <param>
+          <type>android.content.Context</type>
+          <declname>p0</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/110/android/src/crc643f46942d9dd1fff9/ListViewAdapter.java" line="34" column="8" bodyfile="Application Green Quake.Android/obj/Release/110/android/src/crc643f46942d9dd1fff9/ListViewAdapter.java" bodystart="34" bodyend="39"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_list_view_adapter_1a4d20375b48599c2e5731323a73367ef4" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>int</type>
+        <definition>int crc643f46942d9dd1fff9.ListViewAdapter.getCount</definition>
+        <argsstring>()</argsstring>
+        <name>getCount</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/110/android/src/crc643f46942d9dd1fff9/ListViewAdapter.java" line="42" column="12" bodyfile="Application Green Quake.Android/obj/Release/110/android/src/crc643f46942d9dd1fff9/ListViewAdapter.java" bodystart="42" bodyend="45"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_list_view_adapter_1ae53393234159e7deaebf7a4912653c27" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>boolean</type>
+        <definition>boolean crc643f46942d9dd1fff9.ListViewAdapter.hasStableIds</definition>
+        <argsstring>()</argsstring>
+        <name>hasStableIds</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/110/android/src/crc643f46942d9dd1fff9/ListViewAdapter.java" line="50" column="16" bodyfile="Application Green Quake.Android/obj/Release/110/android/src/crc643f46942d9dd1fff9/ListViewAdapter.java" bodystart="50" bodyend="53"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_list_view_adapter_1a2ef0978b1398db12c8b13f0ea413e169" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>java.lang.Object</type>
+        <definition>java.lang.Object crc643f46942d9dd1fff9.ListViewAdapter.getItem</definition>
+        <argsstring>(int p0)</argsstring>
+        <name>getItem</name>
+        <param>
+          <type>int</type>
+          <declname>p0</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/110/android/src/crc643f46942d9dd1fff9/ListViewAdapter.java" line="58" column="23" bodyfile="Application Green Quake.Android/obj/Release/110/android/src/crc643f46942d9dd1fff9/ListViewAdapter.java" bodystart="58" bodyend="61"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_list_view_adapter_1a09cf61a7555847d8138ea2186159f3cb" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>int</type>
+        <definition>int crc643f46942d9dd1fff9.ListViewAdapter.getViewTypeCount</definition>
+        <argsstring>()</argsstring>
+        <name>getViewTypeCount</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/110/android/src/crc643f46942d9dd1fff9/ListViewAdapter.java" line="66" column="12" bodyfile="Application Green Quake.Android/obj/Release/110/android/src/crc643f46942d9dd1fff9/ListViewAdapter.java" bodystart="66" bodyend="69"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_list_view_adapter_1aae8369fd16ea928650eff655f94d41a2" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>boolean</type>
+        <definition>boolean crc643f46942d9dd1fff9.ListViewAdapter.areAllItemsEnabled</definition>
+        <argsstring>()</argsstring>
+        <name>areAllItemsEnabled</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/110/android/src/crc643f46942d9dd1fff9/ListViewAdapter.java" line="74" column="16" bodyfile="Application Green Quake.Android/obj/Release/110/android/src/crc643f46942d9dd1fff9/ListViewAdapter.java" bodystart="74" bodyend="77"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_list_view_adapter_1a61bb47f5d5403c9055068e8e503ba922" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>long</type>
+        <definition>long crc643f46942d9dd1fff9.ListViewAdapter.getItemId</definition>
+        <argsstring>(int p0)</argsstring>
+        <name>getItemId</name>
+        <param>
+          <type>int</type>
+          <declname>p0</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/110/android/src/crc643f46942d9dd1fff9/ListViewAdapter.java" line="82" column="13" bodyfile="Application Green Quake.Android/obj/Release/110/android/src/crc643f46942d9dd1fff9/ListViewAdapter.java" bodystart="82" bodyend="85"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_list_view_adapter_1a08e81033a3589530e01f0733b4dd9666" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>int</type>
+        <definition>int crc643f46942d9dd1fff9.ListViewAdapter.getItemViewType</definition>
+        <argsstring>(int p0)</argsstring>
+        <name>getItemViewType</name>
+        <param>
+          <type>int</type>
+          <declname>p0</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/110/android/src/crc643f46942d9dd1fff9/ListViewAdapter.java" line="90" column="12" bodyfile="Application Green Quake.Android/obj/Release/110/android/src/crc643f46942d9dd1fff9/ListViewAdapter.java" bodystart="90" bodyend="93"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_list_view_adapter_1a877486a74e66fce87f54972bb80e349a" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>android.view.View</type>
+        <definition>android.view.View crc643f46942d9dd1fff9.ListViewAdapter.getView</definition>
+        <argsstring>(int p0, android.view.View p1, android.view.ViewGroup p2)</argsstring>
+        <name>getView</name>
+        <param>
+          <type>int</type>
+          <declname>p0</declname>
+        </param>
+        <param>
+          <type>android.view.View</type>
+          <declname>p1</declname>
+        </param>
+        <param>
+          <type>android.view.ViewGroup</type>
+          <declname>p2</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/110/android/src/crc643f46942d9dd1fff9/ListViewAdapter.java" line="98" column="24" bodyfile="Application Green Quake.Android/obj/Release/110/android/src/crc643f46942d9dd1fff9/ListViewAdapter.java" bodystart="98" bodyend="101"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_list_view_adapter_1acf3a7697310e0649782342ed29cd13ba" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>boolean</type>
+        <definition>boolean crc643f46942d9dd1fff9.ListViewAdapter.isEnabled</definition>
+        <argsstring>(int p0)</argsstring>
+        <name>isEnabled</name>
+        <param>
+          <type>int</type>
+          <declname>p0</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/110/android/src/crc643f46942d9dd1fff9/ListViewAdapter.java" line="106" column="16" bodyfile="Application Green Quake.Android/obj/Release/110/android/src/crc643f46942d9dd1fff9/ListViewAdapter.java" bodystart="106" bodyend="109"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_list_view_adapter_1ad41e82c2537372ac83e310cb650260c7" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void crc643f46942d9dd1fff9.ListViewAdapter.monodroidAddReference</definition>
+        <argsstring>(java.lang.Object obj)</argsstring>
+        <name>monodroidAddReference</name>
+        <reimplements refid="classcrc643f46942d9dd1fff9_1_1_cell_adapter_1a3918bcd44ea0c6c5f0cdcd2cf1028bcc">monodroidAddReference</reimplements>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_grouped_list_view_adapter_1a23f6b4b88104430aa142ccf2cca3ea3a">monodroidAddReference</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_grouped_list_view_adapter_1a23f6b4b88104430aa142ccf2cca3ea3a">monodroidAddReference</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_grouped_list_view_adapter_1a23f6b4b88104430aa142ccf2cca3ea3a">monodroidAddReference</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_grouped_list_view_adapter_1a23f6b4b88104430aa142ccf2cca3ea3a">monodroidAddReference</reimplementedby>
+        <param>
+          <type>java.lang.Object</type>
+          <declname>obj</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/110/android/src/crc643f46942d9dd1fff9/ListViewAdapter.java" line="114" column="13" bodyfile="Application Green Quake.Android/obj/Release/110/android/src/crc643f46942d9dd1fff9/ListViewAdapter.java" bodystart="114" bodyend="119"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_list_view_adapter_1a8e9c20f48174c320970addc5f5d06f02" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void crc643f46942d9dd1fff9.ListViewAdapter.monodroidClearReferences</definition>
+        <argsstring>()</argsstring>
+        <name>monodroidClearReferences</name>
+        <reimplements refid="classcrc643f46942d9dd1fff9_1_1_cell_adapter_1a9845498e95704cdf52398af2433dc780">monodroidClearReferences</reimplements>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_grouped_list_view_adapter_1ace6407a7c66efb28f476e9b5eb790202">monodroidClearReferences</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_grouped_list_view_adapter_1ace6407a7c66efb28f476e9b5eb790202">monodroidClearReferences</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_grouped_list_view_adapter_1ace6407a7c66efb28f476e9b5eb790202">monodroidClearReferences</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_grouped_list_view_adapter_1ace6407a7c66efb28f476e9b5eb790202">monodroidClearReferences</reimplementedby>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/110/android/src/crc643f46942d9dd1fff9/ListViewAdapter.java" line="121" column="13" bodyfile="Application Green Quake.Android/obj/Release/110/android/src/crc643f46942d9dd1fff9/ListViewAdapter.java" bodystart="121" bodyend="125"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="private-func">
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_list_view_adapter_1a443b6061d915ae9bf2f18563e03f621c" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>native int</type>
+        <definition>native int crc643f46942d9dd1fff9.ListViewAdapter.n_getCount</definition>
+        <argsstring>()</argsstring>
+        <name>n_getCount</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/100/android/src/crc643f46942d9dd1fff9/ListViewAdapter.java" line="47" column="20"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_list_view_adapter_1ac93bcdc1dc75d1d9a33934e24a5842e6" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>native boolean</type>
+        <definition>native boolean crc643f46942d9dd1fff9.ListViewAdapter.n_hasStableIds</definition>
+        <argsstring>()</argsstring>
+        <name>n_hasStableIds</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/100/android/src/crc643f46942d9dd1fff9/ListViewAdapter.java" line="55" column="24"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_list_view_adapter_1a8a5a8a69cea97976ee7d72f73f8d7909" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>native java.lang.Object</type>
+        <definition>native java.lang.Object crc643f46942d9dd1fff9.ListViewAdapter.n_getItem</definition>
+        <argsstring>(int p0)</argsstring>
+        <name>n_getItem</name>
+        <param>
+          <type>int</type>
+          <declname>p0</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/100/android/src/crc643f46942d9dd1fff9/ListViewAdapter.java" line="63" column="31"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_list_view_adapter_1a6055978a3a9c876087a3660fe5cf84f3" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>native int</type>
+        <definition>native int crc643f46942d9dd1fff9.ListViewAdapter.n_getViewTypeCount</definition>
+        <argsstring>()</argsstring>
+        <name>n_getViewTypeCount</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/100/android/src/crc643f46942d9dd1fff9/ListViewAdapter.java" line="71" column="20"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_list_view_adapter_1ac2b229bb3d6e1cfa1f6ca110727ab9ee" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>native boolean</type>
+        <definition>native boolean crc643f46942d9dd1fff9.ListViewAdapter.n_areAllItemsEnabled</definition>
+        <argsstring>()</argsstring>
+        <name>n_areAllItemsEnabled</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/100/android/src/crc643f46942d9dd1fff9/ListViewAdapter.java" line="79" column="24"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_list_view_adapter_1a9b689f5147a271d5586a2e15748b7181" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>native long</type>
+        <definition>native long crc643f46942d9dd1fff9.ListViewAdapter.n_getItemId</definition>
+        <argsstring>(int p0)</argsstring>
+        <name>n_getItemId</name>
+        <param>
+          <type>int</type>
+          <declname>p0</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/100/android/src/crc643f46942d9dd1fff9/ListViewAdapter.java" line="87" column="21"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_list_view_adapter_1a649b9707ab3953cee39d6591e45111a3" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>native int</type>
+        <definition>native int crc643f46942d9dd1fff9.ListViewAdapter.n_getItemViewType</definition>
+        <argsstring>(int p0)</argsstring>
+        <name>n_getItemViewType</name>
+        <param>
+          <type>int</type>
+          <declname>p0</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/100/android/src/crc643f46942d9dd1fff9/ListViewAdapter.java" line="95" column="20"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_list_view_adapter_1acdc71836ee44c33c769038cc58b29b12" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>native android.view.View</type>
+        <definition>native android.view.View crc643f46942d9dd1fff9.ListViewAdapter.n_getView</definition>
+        <argsstring>(int p0, android.view.View p1, android.view.ViewGroup p2)</argsstring>
+        <name>n_getView</name>
+        <param>
+          <type>int</type>
+          <declname>p0</declname>
+        </param>
+        <param>
+          <type>android.view.View</type>
+          <declname>p1</declname>
+        </param>
+        <param>
+          <type>android.view.ViewGroup</type>
+          <declname>p2</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/100/android/src/crc643f46942d9dd1fff9/ListViewAdapter.java" line="103" column="32"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_list_view_adapter_1ad9e74a368ca4154309a31e466b0290e2" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>native boolean</type>
+        <definition>native boolean crc643f46942d9dd1fff9.ListViewAdapter.n_isEnabled</definition>
+        <argsstring>(int p0)</argsstring>
+        <name>n_isEnabled</name>
+        <param>
+          <type>int</type>
+          <declname>p0</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/100/android/src/crc643f46942d9dd1fff9/ListViewAdapter.java" line="111" column="24"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_list_view_adapter_1a443b6061d915ae9bf2f18563e03f621c" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>native int</type>
+        <definition>native int crc643f46942d9dd1fff9.ListViewAdapter.n_getCount</definition>
+        <argsstring>()</argsstring>
+        <name>n_getCount</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/110/android/src/crc643f46942d9dd1fff9/ListViewAdapter.java" line="47" column="20"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_list_view_adapter_1ac93bcdc1dc75d1d9a33934e24a5842e6" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>native boolean</type>
+        <definition>native boolean crc643f46942d9dd1fff9.ListViewAdapter.n_hasStableIds</definition>
+        <argsstring>()</argsstring>
+        <name>n_hasStableIds</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/110/android/src/crc643f46942d9dd1fff9/ListViewAdapter.java" line="55" column="24"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_list_view_adapter_1a8a5a8a69cea97976ee7d72f73f8d7909" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>native java.lang.Object</type>
+        <definition>native java.lang.Object crc643f46942d9dd1fff9.ListViewAdapter.n_getItem</definition>
+        <argsstring>(int p0)</argsstring>
+        <name>n_getItem</name>
+        <param>
+          <type>int</type>
+          <declname>p0</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/110/android/src/crc643f46942d9dd1fff9/ListViewAdapter.java" line="63" column="31"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_list_view_adapter_1a6055978a3a9c876087a3660fe5cf84f3" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>native int</type>
+        <definition>native int crc643f46942d9dd1fff9.ListViewAdapter.n_getViewTypeCount</definition>
+        <argsstring>()</argsstring>
+        <name>n_getViewTypeCount</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/110/android/src/crc643f46942d9dd1fff9/ListViewAdapter.java" line="71" column="20"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_list_view_adapter_1ac2b229bb3d6e1cfa1f6ca110727ab9ee" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>native boolean</type>
+        <definition>native boolean crc643f46942d9dd1fff9.ListViewAdapter.n_areAllItemsEnabled</definition>
+        <argsstring>()</argsstring>
+        <name>n_areAllItemsEnabled</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/110/android/src/crc643f46942d9dd1fff9/ListViewAdapter.java" line="79" column="24"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_list_view_adapter_1a9b689f5147a271d5586a2e15748b7181" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>native long</type>
+        <definition>native long crc643f46942d9dd1fff9.ListViewAdapter.n_getItemId</definition>
+        <argsstring>(int p0)</argsstring>
+        <name>n_getItemId</name>
+        <param>
+          <type>int</type>
+          <declname>p0</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/110/android/src/crc643f46942d9dd1fff9/ListViewAdapter.java" line="87" column="21"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_list_view_adapter_1a649b9707ab3953cee39d6591e45111a3" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>native int</type>
+        <definition>native int crc643f46942d9dd1fff9.ListViewAdapter.n_getItemViewType</definition>
+        <argsstring>(int p0)</argsstring>
+        <name>n_getItemViewType</name>
+        <param>
+          <type>int</type>
+          <declname>p0</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/110/android/src/crc643f46942d9dd1fff9/ListViewAdapter.java" line="95" column="20"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_list_view_adapter_1acdc71836ee44c33c769038cc58b29b12" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>native android.view.View</type>
+        <definition>native android.view.View crc643f46942d9dd1fff9.ListViewAdapter.n_getView</definition>
+        <argsstring>(int p0, android.view.View p1, android.view.ViewGroup p2)</argsstring>
+        <name>n_getView</name>
+        <param>
+          <type>int</type>
+          <declname>p0</declname>
+        </param>
+        <param>
+          <type>android.view.View</type>
+          <declname>p1</declname>
+        </param>
+        <param>
+          <type>android.view.ViewGroup</type>
+          <declname>p2</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/110/android/src/crc643f46942d9dd1fff9/ListViewAdapter.java" line="103" column="32"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_list_view_adapter_1ad9e74a368ca4154309a31e466b0290e2" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>native boolean</type>
+        <definition>native boolean crc643f46942d9dd1fff9.ListViewAdapter.n_isEnabled</definition>
+        <argsstring>(int p0)</argsstring>
+        <name>n_isEnabled</name>
+        <param>
+          <type>int</type>
+          <declname>p0</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/110/android/src/crc643f46942d9dd1fff9/ListViewAdapter.java" line="111" column="24"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_list_view_adapter_1a443b6061d915ae9bf2f18563e03f621c" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>native int</type>
+        <definition>native int crc643f46942d9dd1fff9.ListViewAdapter.n_getCount</definition>
+        <argsstring>()</argsstring>
+        <name>n_getCount</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/100/android/src/crc643f46942d9dd1fff9/ListViewAdapter.java" line="47" column="20"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_list_view_adapter_1ac93bcdc1dc75d1d9a33934e24a5842e6" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>native boolean</type>
+        <definition>native boolean crc643f46942d9dd1fff9.ListViewAdapter.n_hasStableIds</definition>
+        <argsstring>()</argsstring>
+        <name>n_hasStableIds</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/100/android/src/crc643f46942d9dd1fff9/ListViewAdapter.java" line="55" column="24"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_list_view_adapter_1a8a5a8a69cea97976ee7d72f73f8d7909" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>native java.lang.Object</type>
+        <definition>native java.lang.Object crc643f46942d9dd1fff9.ListViewAdapter.n_getItem</definition>
+        <argsstring>(int p0)</argsstring>
+        <name>n_getItem</name>
+        <param>
+          <type>int</type>
+          <declname>p0</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/100/android/src/crc643f46942d9dd1fff9/ListViewAdapter.java" line="63" column="31"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_list_view_adapter_1a6055978a3a9c876087a3660fe5cf84f3" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>native int</type>
+        <definition>native int crc643f46942d9dd1fff9.ListViewAdapter.n_getViewTypeCount</definition>
+        <argsstring>()</argsstring>
+        <name>n_getViewTypeCount</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/100/android/src/crc643f46942d9dd1fff9/ListViewAdapter.java" line="71" column="20"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_list_view_adapter_1ac2b229bb3d6e1cfa1f6ca110727ab9ee" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>native boolean</type>
+        <definition>native boolean crc643f46942d9dd1fff9.ListViewAdapter.n_areAllItemsEnabled</definition>
+        <argsstring>()</argsstring>
+        <name>n_areAllItemsEnabled</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/100/android/src/crc643f46942d9dd1fff9/ListViewAdapter.java" line="79" column="24"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_list_view_adapter_1a9b689f5147a271d5586a2e15748b7181" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>native long</type>
+        <definition>native long crc643f46942d9dd1fff9.ListViewAdapter.n_getItemId</definition>
+        <argsstring>(int p0)</argsstring>
+        <name>n_getItemId</name>
+        <param>
+          <type>int</type>
+          <declname>p0</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/100/android/src/crc643f46942d9dd1fff9/ListViewAdapter.java" line="87" column="21"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_list_view_adapter_1a649b9707ab3953cee39d6591e45111a3" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>native int</type>
+        <definition>native int crc643f46942d9dd1fff9.ListViewAdapter.n_getItemViewType</definition>
+        <argsstring>(int p0)</argsstring>
+        <name>n_getItemViewType</name>
+        <param>
+          <type>int</type>
+          <declname>p0</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/100/android/src/crc643f46942d9dd1fff9/ListViewAdapter.java" line="95" column="20"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_list_view_adapter_1acdc71836ee44c33c769038cc58b29b12" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>native android.view.View</type>
+        <definition>native android.view.View crc643f46942d9dd1fff9.ListViewAdapter.n_getView</definition>
+        <argsstring>(int p0, android.view.View p1, android.view.ViewGroup p2)</argsstring>
+        <name>n_getView</name>
+        <param>
+          <type>int</type>
+          <declname>p0</declname>
+        </param>
+        <param>
+          <type>android.view.View</type>
+          <declname>p1</declname>
+        </param>
+        <param>
+          <type>android.view.ViewGroup</type>
+          <declname>p2</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/100/android/src/crc643f46942d9dd1fff9/ListViewAdapter.java" line="103" column="32"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_list_view_adapter_1ad9e74a368ca4154309a31e466b0290e2" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>native boolean</type>
+        <definition>native boolean crc643f46942d9dd1fff9.ListViewAdapter.n_isEnabled</definition>
+        <argsstring>(int p0)</argsstring>
+        <name>n_isEnabled</name>
+        <param>
+          <type>int</type>
+          <declname>p0</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/100/android/src/crc643f46942d9dd1fff9/ListViewAdapter.java" line="111" column="24"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_list_view_adapter_1a443b6061d915ae9bf2f18563e03f621c" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>native int</type>
+        <definition>native int crc643f46942d9dd1fff9.ListViewAdapter.n_getCount</definition>
+        <argsstring>()</argsstring>
+        <name>n_getCount</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/110/android/src/crc643f46942d9dd1fff9/ListViewAdapter.java" line="47" column="20"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_list_view_adapter_1ac93bcdc1dc75d1d9a33934e24a5842e6" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>native boolean</type>
+        <definition>native boolean crc643f46942d9dd1fff9.ListViewAdapter.n_hasStableIds</definition>
+        <argsstring>()</argsstring>
+        <name>n_hasStableIds</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/110/android/src/crc643f46942d9dd1fff9/ListViewAdapter.java" line="55" column="24"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_list_view_adapter_1a8a5a8a69cea97976ee7d72f73f8d7909" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>native java.lang.Object</type>
+        <definition>native java.lang.Object crc643f46942d9dd1fff9.ListViewAdapter.n_getItem</definition>
+        <argsstring>(int p0)</argsstring>
+        <name>n_getItem</name>
+        <param>
+          <type>int</type>
+          <declname>p0</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/110/android/src/crc643f46942d9dd1fff9/ListViewAdapter.java" line="63" column="31"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_list_view_adapter_1a6055978a3a9c876087a3660fe5cf84f3" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>native int</type>
+        <definition>native int crc643f46942d9dd1fff9.ListViewAdapter.n_getViewTypeCount</definition>
+        <argsstring>()</argsstring>
+        <name>n_getViewTypeCount</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/110/android/src/crc643f46942d9dd1fff9/ListViewAdapter.java" line="71" column="20"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_list_view_adapter_1ac2b229bb3d6e1cfa1f6ca110727ab9ee" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>native boolean</type>
+        <definition>native boolean crc643f46942d9dd1fff9.ListViewAdapter.n_areAllItemsEnabled</definition>
+        <argsstring>()</argsstring>
+        <name>n_areAllItemsEnabled</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/110/android/src/crc643f46942d9dd1fff9/ListViewAdapter.java" line="79" column="24"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_list_view_adapter_1a9b689f5147a271d5586a2e15748b7181" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>native long</type>
+        <definition>native long crc643f46942d9dd1fff9.ListViewAdapter.n_getItemId</definition>
+        <argsstring>(int p0)</argsstring>
+        <name>n_getItemId</name>
+        <param>
+          <type>int</type>
+          <declname>p0</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/110/android/src/crc643f46942d9dd1fff9/ListViewAdapter.java" line="87" column="21"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_list_view_adapter_1a649b9707ab3953cee39d6591e45111a3" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>native int</type>
+        <definition>native int crc643f46942d9dd1fff9.ListViewAdapter.n_getItemViewType</definition>
+        <argsstring>(int p0)</argsstring>
+        <name>n_getItemViewType</name>
+        <param>
+          <type>int</type>
+          <declname>p0</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/110/android/src/crc643f46942d9dd1fff9/ListViewAdapter.java" line="95" column="20"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_list_view_adapter_1acdc71836ee44c33c769038cc58b29b12" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>native android.view.View</type>
+        <definition>native android.view.View crc643f46942d9dd1fff9.ListViewAdapter.n_getView</definition>
+        <argsstring>(int p0, android.view.View p1, android.view.ViewGroup p2)</argsstring>
+        <name>n_getView</name>
+        <param>
+          <type>int</type>
+          <declname>p0</declname>
+        </param>
+        <param>
+          <type>android.view.View</type>
+          <declname>p1</declname>
+        </param>
+        <param>
+          <type>android.view.ViewGroup</type>
+          <declname>p2</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/110/android/src/crc643f46942d9dd1fff9/ListViewAdapter.java" line="103" column="32"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_list_view_adapter_1ad9e74a368ca4154309a31e466b0290e2" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>native boolean</type>
+        <definition>native boolean crc643f46942d9dd1fff9.ListViewAdapter.n_isEnabled</definition>
+        <argsstring>(int p0)</argsstring>
+        <name>n_isEnabled</name>
+        <param>
+          <type>int</type>
+          <declname>p0</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/110/android/src/crc643f46942d9dd1fff9/ListViewAdapter.java" line="111" column="24"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <inheritancegraph>
+      <node id="14">
+        <label>crc643f46942d9dd1fff9.GroupedListViewAdapter</label>
+        <link refid="classcrc643f46942d9dd1fff9_1_1_grouped_list_view_adapter"/>
+        <childnode refid="1" relation="public-inheritance">
+        </childnode>
+        <childnode refid="1" relation="public-inheritance">
+        </childnode>
+        <childnode refid="1" relation="public-inheritance">
+        </childnode>
+        <childnode refid="1" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="3">
+        <label>android::widget::BaseAdapter</label>
+      </node>
+      <node id="13">
+        <label>androidx.appcompat.view.ActionMode.Callback</label>
+      </node>
+      <node id="2">
+        <label>crc643f46942d9dd1fff9.CellAdapter</label>
+        <link refid="classcrc643f46942d9dd1fff9_1_1_cell_adapter"/>
+        <childnode refid="3" relation="public-inheritance">
+        </childnode>
+        <childnode refid="4" relation="public-inheritance">
+        </childnode>
+        <childnode refid="5" relation="public-inheritance">
+        </childnode>
+        <childnode refid="6" relation="public-inheritance">
+        </childnode>
+        <childnode refid="7" relation="public-inheritance">
+        </childnode>
+        <childnode refid="8" relation="public-inheritance">
+        </childnode>
+        <childnode refid="9" relation="public-inheritance">
+        </childnode>
+        <childnode refid="4" relation="public-inheritance">
+        </childnode>
+        <childnode refid="10" relation="public-inheritance">
+        </childnode>
+        <childnode refid="11" relation="public-inheritance">
+        </childnode>
+        <childnode refid="12" relation="public-inheritance">
+        </childnode>
+        <childnode refid="13" relation="public-inheritance">
+        </childnode>
+        <childnode refid="9" relation="public-inheritance">
+        </childnode>
+        <childnode refid="4" relation="public-inheritance">
+        </childnode>
+        <childnode refid="10" relation="public-inheritance">
+        </childnode>
+        <childnode refid="11" relation="public-inheritance">
+        </childnode>
+        <childnode refid="12" relation="public-inheritance">
+        </childnode>
+        <childnode refid="13" relation="public-inheritance">
+        </childnode>
+        <childnode refid="9" relation="public-inheritance">
+        </childnode>
+        <childnode refid="4" relation="public-inheritance">
+        </childnode>
+        <childnode refid="10" relation="public-inheritance">
+        </childnode>
+        <childnode refid="11" relation="public-inheritance">
+        </childnode>
+        <childnode refid="12" relation="public-inheritance">
+        </childnode>
+        <childnode refid="13" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="9">
+        <label>android.widget.BaseAdapter</label>
+      </node>
+      <node id="1">
+        <label>crc643f46942d9dd1fff9.ListViewAdapter</label>
+        <link refid="classcrc643f46942d9dd1fff9_1_1_list_view_adapter"/>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+        <childnode refid="4" relation="public-inheritance">
+        </childnode>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+        <childnode refid="4" relation="public-inheritance">
+        </childnode>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+        <childnode refid="4" relation="public-inheritance">
+        </childnode>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+        <childnode refid="4" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="6">
+        <label>android::view::ActionMode::Callback</label>
+      </node>
+      <node id="10">
+        <label>android.widget.AdapterView.OnItemLongClickListener</label>
+      </node>
+      <node id="11">
+        <label>android.view.ActionMode.Callback</label>
+      </node>
+      <node id="4">
+        <label>mono.android.IGCUserPeer</label>
+      </node>
+      <node id="12">
+        <label>android.widget.AdapterView.OnItemClickListener</label>
+      </node>
+      <node id="7">
+        <label>android::widget::AdapterView::OnItemClickListener</label>
+      </node>
+      <node id="5">
+        <label>android::widget::AdapterView::OnItemLongClickListener</label>
+      </node>
+      <node id="8">
+        <label>androidx::appcompat::view::ActionMode::Callback</label>
+      </node>
+    </inheritancegraph>
+    <collaborationgraph>
+      <node id="3">
+        <label>android::widget::BaseAdapter</label>
+      </node>
+      <node id="13">
+        <label>androidx.appcompat.view.ActionMode.Callback</label>
+      </node>
+      <node id="2">
+        <label>crc643f46942d9dd1fff9.CellAdapter</label>
+        <link refid="classcrc643f46942d9dd1fff9_1_1_cell_adapter"/>
+        <childnode refid="3" relation="public-inheritance">
+        </childnode>
+        <childnode refid="4" relation="public-inheritance">
+        </childnode>
+        <childnode refid="5" relation="public-inheritance">
+        </childnode>
+        <childnode refid="6" relation="public-inheritance">
+        </childnode>
+        <childnode refid="7" relation="public-inheritance">
+        </childnode>
+        <childnode refid="8" relation="public-inheritance">
+        </childnode>
+        <childnode refid="9" relation="public-inheritance">
+        </childnode>
+        <childnode refid="4" relation="public-inheritance">
+        </childnode>
+        <childnode refid="10" relation="public-inheritance">
+        </childnode>
+        <childnode refid="11" relation="public-inheritance">
+        </childnode>
+        <childnode refid="12" relation="public-inheritance">
+        </childnode>
+        <childnode refid="13" relation="public-inheritance">
+        </childnode>
+        <childnode refid="9" relation="public-inheritance">
+        </childnode>
+        <childnode refid="4" relation="public-inheritance">
+        </childnode>
+        <childnode refid="10" relation="public-inheritance">
+        </childnode>
+        <childnode refid="11" relation="public-inheritance">
+        </childnode>
+        <childnode refid="12" relation="public-inheritance">
+        </childnode>
+        <childnode refid="13" relation="public-inheritance">
+        </childnode>
+        <childnode refid="9" relation="public-inheritance">
+        </childnode>
+        <childnode refid="4" relation="public-inheritance">
+        </childnode>
+        <childnode refid="10" relation="public-inheritance">
+        </childnode>
+        <childnode refid="11" relation="public-inheritance">
+        </childnode>
+        <childnode refid="12" relation="public-inheritance">
+        </childnode>
+        <childnode refid="13" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="9">
+        <label>android.widget.BaseAdapter</label>
+      </node>
+      <node id="1">
+        <label>crc643f46942d9dd1fff9.ListViewAdapter</label>
+        <link refid="classcrc643f46942d9dd1fff9_1_1_list_view_adapter"/>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+        <childnode refid="4" relation="public-inheritance">
+        </childnode>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+        <childnode refid="4" relation="public-inheritance">
+        </childnode>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+        <childnode refid="4" relation="public-inheritance">
+        </childnode>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+        <childnode refid="4" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="6">
+        <label>android::view::ActionMode::Callback</label>
+      </node>
+      <node id="10">
+        <label>android.widget.AdapterView.OnItemLongClickListener</label>
+      </node>
+      <node id="11">
+        <label>android.view.ActionMode.Callback</label>
+      </node>
+      <node id="4">
+        <label>mono.android.IGCUserPeer</label>
+      </node>
+      <node id="12">
+        <label>android.widget.AdapterView.OnItemClickListener</label>
+      </node>
+      <node id="7">
+        <label>android::widget::AdapterView::OnItemClickListener</label>
+      </node>
+      <node id="5">
+        <label>android::widget::AdapterView::OnItemLongClickListener</label>
+      </node>
+      <node id="8">
+        <label>androidx::appcompat::view::ActionMode::Callback</label>
+      </node>
+    </collaborationgraph>
+    <location file="Application Green Quake.Android/obj/Debug/100/android/src/crc643f46942d9dd1fff9/ListViewAdapter.java" line="4" column="7" bodyfile="Application Green Quake.Android/obj/Debug/100/android/src/crc643f46942d9dd1fff9/ListViewAdapter.java" bodystart="8" bodyend="126"/>
+    <listofallmembers>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_list_view_adapter_1a185ffe1860e477435dbd3cbab482b288" prot="package" virt="non-virtual"><scope>crc643f46942d9dd1fff9::ListViewAdapter</scope><name>[static initializer]</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_list_view_adapter_1a185ffe1860e477435dbd3cbab482b288" prot="package" virt="non-virtual"><scope>crc643f46942d9dd1fff9::ListViewAdapter</scope><name>[static initializer]</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_list_view_adapter_1a185ffe1860e477435dbd3cbab482b288" prot="package" virt="non-virtual"><scope>crc643f46942d9dd1fff9::ListViewAdapter</scope><name>[static initializer]</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_list_view_adapter_1a185ffe1860e477435dbd3cbab482b288" prot="package" virt="non-virtual"><scope>crc643f46942d9dd1fff9::ListViewAdapter</scope><name>[static initializer]</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_list_view_adapter_1a29410cfad4ce9b0bfe08c483148d4d9e" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::ListViewAdapter</scope><name>__md_methods</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_list_view_adapter_1aae8369fd16ea928650eff655f94d41a2" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::ListViewAdapter</scope><name>areAllItemsEnabled</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_list_view_adapter_1aae8369fd16ea928650eff655f94d41a2" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::ListViewAdapter</scope><name>areAllItemsEnabled</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_list_view_adapter_1aae8369fd16ea928650eff655f94d41a2" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::ListViewAdapter</scope><name>areAllItemsEnabled</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_list_view_adapter_1aae8369fd16ea928650eff655f94d41a2" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::ListViewAdapter</scope><name>areAllItemsEnabled</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_cell_adapter_1acb02fe63f721e2db24c840afc5436298" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::ListViewAdapter</scope><name>CellAdapter</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_cell_adapter_1a325bc28a81f49b833b99f5f595da6b08" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::ListViewAdapter</scope><name>CellAdapter</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_cell_adapter_1acb02fe63f721e2db24c840afc5436298" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::ListViewAdapter</scope><name>CellAdapter</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_cell_adapter_1a325bc28a81f49b833b99f5f595da6b08" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::ListViewAdapter</scope><name>CellAdapter</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_cell_adapter_1acb02fe63f721e2db24c840afc5436298" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::ListViewAdapter</scope><name>CellAdapter</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_cell_adapter_1a325bc28a81f49b833b99f5f595da6b08" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::ListViewAdapter</scope><name>CellAdapter</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_cell_adapter_1acb02fe63f721e2db24c840afc5436298" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::ListViewAdapter</scope><name>CellAdapter</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_cell_adapter_1a325bc28a81f49b833b99f5f595da6b08" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::ListViewAdapter</scope><name>CellAdapter</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_list_view_adapter_1a4d20375b48599c2e5731323a73367ef4" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::ListViewAdapter</scope><name>getCount</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_list_view_adapter_1a4d20375b48599c2e5731323a73367ef4" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::ListViewAdapter</scope><name>getCount</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_list_view_adapter_1a4d20375b48599c2e5731323a73367ef4" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::ListViewAdapter</scope><name>getCount</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_list_view_adapter_1a4d20375b48599c2e5731323a73367ef4" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::ListViewAdapter</scope><name>getCount</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_list_view_adapter_1a2ef0978b1398db12c8b13f0ea413e169" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::ListViewAdapter</scope><name>getItem</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_list_view_adapter_1a2ef0978b1398db12c8b13f0ea413e169" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::ListViewAdapter</scope><name>getItem</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_list_view_adapter_1a2ef0978b1398db12c8b13f0ea413e169" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::ListViewAdapter</scope><name>getItem</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_list_view_adapter_1a2ef0978b1398db12c8b13f0ea413e169" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::ListViewAdapter</scope><name>getItem</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_list_view_adapter_1a61bb47f5d5403c9055068e8e503ba922" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::ListViewAdapter</scope><name>getItemId</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_list_view_adapter_1a61bb47f5d5403c9055068e8e503ba922" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::ListViewAdapter</scope><name>getItemId</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_list_view_adapter_1a61bb47f5d5403c9055068e8e503ba922" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::ListViewAdapter</scope><name>getItemId</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_list_view_adapter_1a61bb47f5d5403c9055068e8e503ba922" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::ListViewAdapter</scope><name>getItemId</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_list_view_adapter_1a08e81033a3589530e01f0733b4dd9666" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::ListViewAdapter</scope><name>getItemViewType</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_list_view_adapter_1a08e81033a3589530e01f0733b4dd9666" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::ListViewAdapter</scope><name>getItemViewType</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_list_view_adapter_1a08e81033a3589530e01f0733b4dd9666" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::ListViewAdapter</scope><name>getItemViewType</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_list_view_adapter_1a08e81033a3589530e01f0733b4dd9666" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::ListViewAdapter</scope><name>getItemViewType</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_list_view_adapter_1a877486a74e66fce87f54972bb80e349a" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::ListViewAdapter</scope><name>getView</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_list_view_adapter_1a877486a74e66fce87f54972bb80e349a" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::ListViewAdapter</scope><name>getView</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_list_view_adapter_1a877486a74e66fce87f54972bb80e349a" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::ListViewAdapter</scope><name>getView</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_list_view_adapter_1a877486a74e66fce87f54972bb80e349a" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::ListViewAdapter</scope><name>getView</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_list_view_adapter_1a09cf61a7555847d8138ea2186159f3cb" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::ListViewAdapter</scope><name>getViewTypeCount</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_list_view_adapter_1a09cf61a7555847d8138ea2186159f3cb" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::ListViewAdapter</scope><name>getViewTypeCount</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_list_view_adapter_1a09cf61a7555847d8138ea2186159f3cb" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::ListViewAdapter</scope><name>getViewTypeCount</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_list_view_adapter_1a09cf61a7555847d8138ea2186159f3cb" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::ListViewAdapter</scope><name>getViewTypeCount</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_list_view_adapter_1ae53393234159e7deaebf7a4912653c27" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::ListViewAdapter</scope><name>hasStableIds</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_list_view_adapter_1ae53393234159e7deaebf7a4912653c27" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::ListViewAdapter</scope><name>hasStableIds</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_list_view_adapter_1ae53393234159e7deaebf7a4912653c27" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::ListViewAdapter</scope><name>hasStableIds</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_list_view_adapter_1ae53393234159e7deaebf7a4912653c27" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::ListViewAdapter</scope><name>hasStableIds</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_list_view_adapter_1acf3a7697310e0649782342ed29cd13ba" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::ListViewAdapter</scope><name>isEnabled</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_list_view_adapter_1acf3a7697310e0649782342ed29cd13ba" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::ListViewAdapter</scope><name>isEnabled</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_list_view_adapter_1acf3a7697310e0649782342ed29cd13ba" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::ListViewAdapter</scope><name>isEnabled</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_list_view_adapter_1acf3a7697310e0649782342ed29cd13ba" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::ListViewAdapter</scope><name>isEnabled</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_list_view_adapter_1ae4e7d993052531657cc66cd73abec1dc" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::ListViewAdapter</scope><name>ListViewAdapter</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_list_view_adapter_1ab332bee85285a50af03528cc509a27dd" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::ListViewAdapter</scope><name>ListViewAdapter</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_list_view_adapter_1ae4e7d993052531657cc66cd73abec1dc" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::ListViewAdapter</scope><name>ListViewAdapter</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_list_view_adapter_1ab332bee85285a50af03528cc509a27dd" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::ListViewAdapter</scope><name>ListViewAdapter</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_list_view_adapter_1ae4e7d993052531657cc66cd73abec1dc" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::ListViewAdapter</scope><name>ListViewAdapter</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_list_view_adapter_1ab332bee85285a50af03528cc509a27dd" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::ListViewAdapter</scope><name>ListViewAdapter</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_list_view_adapter_1ae4e7d993052531657cc66cd73abec1dc" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::ListViewAdapter</scope><name>ListViewAdapter</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_list_view_adapter_1ab332bee85285a50af03528cc509a27dd" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::ListViewAdapter</scope><name>ListViewAdapter</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_list_view_adapter_1ad41e82c2537372ac83e310cb650260c7" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::ListViewAdapter</scope><name>monodroidAddReference</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_list_view_adapter_1ad41e82c2537372ac83e310cb650260c7" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::ListViewAdapter</scope><name>monodroidAddReference</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_list_view_adapter_1ad41e82c2537372ac83e310cb650260c7" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::ListViewAdapter</scope><name>monodroidAddReference</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_list_view_adapter_1ad41e82c2537372ac83e310cb650260c7" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::ListViewAdapter</scope><name>monodroidAddReference</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_list_view_adapter_1a8e9c20f48174c320970addc5f5d06f02" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::ListViewAdapter</scope><name>monodroidClearReferences</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_list_view_adapter_1a8e9c20f48174c320970addc5f5d06f02" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::ListViewAdapter</scope><name>monodroidClearReferences</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_list_view_adapter_1a8e9c20f48174c320970addc5f5d06f02" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::ListViewAdapter</scope><name>monodroidClearReferences</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_list_view_adapter_1a8e9c20f48174c320970addc5f5d06f02" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::ListViewAdapter</scope><name>monodroidClearReferences</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_list_view_adapter_1ac2b229bb3d6e1cfa1f6ca110727ab9ee" prot="private" virt="non-virtual"><scope>crc643f46942d9dd1fff9::ListViewAdapter</scope><name>n_areAllItemsEnabled</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_list_view_adapter_1ac2b229bb3d6e1cfa1f6ca110727ab9ee" prot="private" virt="non-virtual"><scope>crc643f46942d9dd1fff9::ListViewAdapter</scope><name>n_areAllItemsEnabled</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_list_view_adapter_1ac2b229bb3d6e1cfa1f6ca110727ab9ee" prot="private" virt="non-virtual"><scope>crc643f46942d9dd1fff9::ListViewAdapter</scope><name>n_areAllItemsEnabled</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_list_view_adapter_1ac2b229bb3d6e1cfa1f6ca110727ab9ee" prot="private" virt="non-virtual"><scope>crc643f46942d9dd1fff9::ListViewAdapter</scope><name>n_areAllItemsEnabled</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_list_view_adapter_1a443b6061d915ae9bf2f18563e03f621c" prot="private" virt="non-virtual"><scope>crc643f46942d9dd1fff9::ListViewAdapter</scope><name>n_getCount</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_list_view_adapter_1a443b6061d915ae9bf2f18563e03f621c" prot="private" virt="non-virtual"><scope>crc643f46942d9dd1fff9::ListViewAdapter</scope><name>n_getCount</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_list_view_adapter_1a443b6061d915ae9bf2f18563e03f621c" prot="private" virt="non-virtual"><scope>crc643f46942d9dd1fff9::ListViewAdapter</scope><name>n_getCount</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_list_view_adapter_1a443b6061d915ae9bf2f18563e03f621c" prot="private" virt="non-virtual"><scope>crc643f46942d9dd1fff9::ListViewAdapter</scope><name>n_getCount</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_list_view_adapter_1a8a5a8a69cea97976ee7d72f73f8d7909" prot="private" virt="non-virtual"><scope>crc643f46942d9dd1fff9::ListViewAdapter</scope><name>n_getItem</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_list_view_adapter_1a8a5a8a69cea97976ee7d72f73f8d7909" prot="private" virt="non-virtual"><scope>crc643f46942d9dd1fff9::ListViewAdapter</scope><name>n_getItem</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_list_view_adapter_1a8a5a8a69cea97976ee7d72f73f8d7909" prot="private" virt="non-virtual"><scope>crc643f46942d9dd1fff9::ListViewAdapter</scope><name>n_getItem</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_list_view_adapter_1a8a5a8a69cea97976ee7d72f73f8d7909" prot="private" virt="non-virtual"><scope>crc643f46942d9dd1fff9::ListViewAdapter</scope><name>n_getItem</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_list_view_adapter_1a9b689f5147a271d5586a2e15748b7181" prot="private" virt="non-virtual"><scope>crc643f46942d9dd1fff9::ListViewAdapter</scope><name>n_getItemId</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_list_view_adapter_1a9b689f5147a271d5586a2e15748b7181" prot="private" virt="non-virtual"><scope>crc643f46942d9dd1fff9::ListViewAdapter</scope><name>n_getItemId</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_list_view_adapter_1a9b689f5147a271d5586a2e15748b7181" prot="private" virt="non-virtual"><scope>crc643f46942d9dd1fff9::ListViewAdapter</scope><name>n_getItemId</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_list_view_adapter_1a9b689f5147a271d5586a2e15748b7181" prot="private" virt="non-virtual"><scope>crc643f46942d9dd1fff9::ListViewAdapter</scope><name>n_getItemId</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_list_view_adapter_1a649b9707ab3953cee39d6591e45111a3" prot="private" virt="non-virtual"><scope>crc643f46942d9dd1fff9::ListViewAdapter</scope><name>n_getItemViewType</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_list_view_adapter_1a649b9707ab3953cee39d6591e45111a3" prot="private" virt="non-virtual"><scope>crc643f46942d9dd1fff9::ListViewAdapter</scope><name>n_getItemViewType</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_list_view_adapter_1a649b9707ab3953cee39d6591e45111a3" prot="private" virt="non-virtual"><scope>crc643f46942d9dd1fff9::ListViewAdapter</scope><name>n_getItemViewType</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_list_view_adapter_1a649b9707ab3953cee39d6591e45111a3" prot="private" virt="non-virtual"><scope>crc643f46942d9dd1fff9::ListViewAdapter</scope><name>n_getItemViewType</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_list_view_adapter_1acdc71836ee44c33c769038cc58b29b12" prot="private" virt="non-virtual"><scope>crc643f46942d9dd1fff9::ListViewAdapter</scope><name>n_getView</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_list_view_adapter_1acdc71836ee44c33c769038cc58b29b12" prot="private" virt="non-virtual"><scope>crc643f46942d9dd1fff9::ListViewAdapter</scope><name>n_getView</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_list_view_adapter_1acdc71836ee44c33c769038cc58b29b12" prot="private" virt="non-virtual"><scope>crc643f46942d9dd1fff9::ListViewAdapter</scope><name>n_getView</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_list_view_adapter_1acdc71836ee44c33c769038cc58b29b12" prot="private" virt="non-virtual"><scope>crc643f46942d9dd1fff9::ListViewAdapter</scope><name>n_getView</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_list_view_adapter_1a6055978a3a9c876087a3660fe5cf84f3" prot="private" virt="non-virtual"><scope>crc643f46942d9dd1fff9::ListViewAdapter</scope><name>n_getViewTypeCount</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_list_view_adapter_1a6055978a3a9c876087a3660fe5cf84f3" prot="private" virt="non-virtual"><scope>crc643f46942d9dd1fff9::ListViewAdapter</scope><name>n_getViewTypeCount</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_list_view_adapter_1a6055978a3a9c876087a3660fe5cf84f3" prot="private" virt="non-virtual"><scope>crc643f46942d9dd1fff9::ListViewAdapter</scope><name>n_getViewTypeCount</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_list_view_adapter_1a6055978a3a9c876087a3660fe5cf84f3" prot="private" virt="non-virtual"><scope>crc643f46942d9dd1fff9::ListViewAdapter</scope><name>n_getViewTypeCount</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_list_view_adapter_1ac93bcdc1dc75d1d9a33934e24a5842e6" prot="private" virt="non-virtual"><scope>crc643f46942d9dd1fff9::ListViewAdapter</scope><name>n_hasStableIds</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_list_view_adapter_1ac93bcdc1dc75d1d9a33934e24a5842e6" prot="private" virt="non-virtual"><scope>crc643f46942d9dd1fff9::ListViewAdapter</scope><name>n_hasStableIds</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_list_view_adapter_1ac93bcdc1dc75d1d9a33934e24a5842e6" prot="private" virt="non-virtual"><scope>crc643f46942d9dd1fff9::ListViewAdapter</scope><name>n_hasStableIds</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_list_view_adapter_1ac93bcdc1dc75d1d9a33934e24a5842e6" prot="private" virt="non-virtual"><scope>crc643f46942d9dd1fff9::ListViewAdapter</scope><name>n_hasStableIds</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_list_view_adapter_1ad9e74a368ca4154309a31e466b0290e2" prot="private" virt="non-virtual"><scope>crc643f46942d9dd1fff9::ListViewAdapter</scope><name>n_isEnabled</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_list_view_adapter_1ad9e74a368ca4154309a31e466b0290e2" prot="private" virt="non-virtual"><scope>crc643f46942d9dd1fff9::ListViewAdapter</scope><name>n_isEnabled</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_list_view_adapter_1ad9e74a368ca4154309a31e466b0290e2" prot="private" virt="non-virtual"><scope>crc643f46942d9dd1fff9::ListViewAdapter</scope><name>n_isEnabled</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_list_view_adapter_1ad9e74a368ca4154309a31e466b0290e2" prot="private" virt="non-virtual"><scope>crc643f46942d9dd1fff9::ListViewAdapter</scope><name>n_isEnabled</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_cell_adapter_1a42a3cf750d35a257ba0e45f6ae3eacce" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::ListViewAdapter</scope><name>onActionItemClicked</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_cell_adapter_1a6199554a00fa5a719d33ae839234a85c" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::ListViewAdapter</scope><name>onActionItemClicked</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_cell_adapter_1a42a3cf750d35a257ba0e45f6ae3eacce" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::ListViewAdapter</scope><name>onActionItemClicked</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_cell_adapter_1a6199554a00fa5a719d33ae839234a85c" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::ListViewAdapter</scope><name>onActionItemClicked</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_cell_adapter_1a42a3cf750d35a257ba0e45f6ae3eacce" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::ListViewAdapter</scope><name>onActionItemClicked</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_cell_adapter_1a6199554a00fa5a719d33ae839234a85c" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::ListViewAdapter</scope><name>onActionItemClicked</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_cell_adapter_1a42a3cf750d35a257ba0e45f6ae3eacce" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::ListViewAdapter</scope><name>onActionItemClicked</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_cell_adapter_1a6199554a00fa5a719d33ae839234a85c" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::ListViewAdapter</scope><name>onActionItemClicked</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_cell_adapter_1aa83d019a9781c47b465bdeff61785d02" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::ListViewAdapter</scope><name>onCreateActionMode</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_cell_adapter_1a9d4956f3b21df112a31c670af914513f" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::ListViewAdapter</scope><name>onCreateActionMode</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_cell_adapter_1aa83d019a9781c47b465bdeff61785d02" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::ListViewAdapter</scope><name>onCreateActionMode</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_cell_adapter_1a9d4956f3b21df112a31c670af914513f" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::ListViewAdapter</scope><name>onCreateActionMode</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_cell_adapter_1aa83d019a9781c47b465bdeff61785d02" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::ListViewAdapter</scope><name>onCreateActionMode</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_cell_adapter_1a9d4956f3b21df112a31c670af914513f" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::ListViewAdapter</scope><name>onCreateActionMode</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_cell_adapter_1aa83d019a9781c47b465bdeff61785d02" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::ListViewAdapter</scope><name>onCreateActionMode</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_cell_adapter_1a9d4956f3b21df112a31c670af914513f" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::ListViewAdapter</scope><name>onCreateActionMode</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_cell_adapter_1a8da11ed9a2a8dfb6b5be6d88254ff4f3" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::ListViewAdapter</scope><name>onDestroyActionMode</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_cell_adapter_1a361eb5c64e22f5edba057656052ff6bd" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::ListViewAdapter</scope><name>onDestroyActionMode</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_cell_adapter_1a8da11ed9a2a8dfb6b5be6d88254ff4f3" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::ListViewAdapter</scope><name>onDestroyActionMode</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_cell_adapter_1a361eb5c64e22f5edba057656052ff6bd" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::ListViewAdapter</scope><name>onDestroyActionMode</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_cell_adapter_1a8da11ed9a2a8dfb6b5be6d88254ff4f3" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::ListViewAdapter</scope><name>onDestroyActionMode</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_cell_adapter_1a361eb5c64e22f5edba057656052ff6bd" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::ListViewAdapter</scope><name>onDestroyActionMode</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_cell_adapter_1a8da11ed9a2a8dfb6b5be6d88254ff4f3" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::ListViewAdapter</scope><name>onDestroyActionMode</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_cell_adapter_1a361eb5c64e22f5edba057656052ff6bd" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::ListViewAdapter</scope><name>onDestroyActionMode</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_cell_adapter_1a923d30a7abaa001045aac2a413a41314" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::ListViewAdapter</scope><name>onItemClick</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_cell_adapter_1a923d30a7abaa001045aac2a413a41314" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::ListViewAdapter</scope><name>onItemClick</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_cell_adapter_1a923d30a7abaa001045aac2a413a41314" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::ListViewAdapter</scope><name>onItemClick</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_cell_adapter_1a923d30a7abaa001045aac2a413a41314" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::ListViewAdapter</scope><name>onItemClick</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_cell_adapter_1a64507d27b09ffe29bcbeecabb00720f2" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::ListViewAdapter</scope><name>onItemLongClick</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_cell_adapter_1a64507d27b09ffe29bcbeecabb00720f2" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::ListViewAdapter</scope><name>onItemLongClick</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_cell_adapter_1a64507d27b09ffe29bcbeecabb00720f2" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::ListViewAdapter</scope><name>onItemLongClick</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_cell_adapter_1a64507d27b09ffe29bcbeecabb00720f2" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::ListViewAdapter</scope><name>onItemLongClick</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_cell_adapter_1aeeff43d6961ca2a41bf39af405ce8306" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::ListViewAdapter</scope><name>onPrepareActionMode</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_cell_adapter_1a8600f86930fd4ff5580ac24ced508427" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::ListViewAdapter</scope><name>onPrepareActionMode</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_cell_adapter_1aeeff43d6961ca2a41bf39af405ce8306" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::ListViewAdapter</scope><name>onPrepareActionMode</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_cell_adapter_1a8600f86930fd4ff5580ac24ced508427" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::ListViewAdapter</scope><name>onPrepareActionMode</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_cell_adapter_1aeeff43d6961ca2a41bf39af405ce8306" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::ListViewAdapter</scope><name>onPrepareActionMode</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_cell_adapter_1a8600f86930fd4ff5580ac24ced508427" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::ListViewAdapter</scope><name>onPrepareActionMode</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_cell_adapter_1aeeff43d6961ca2a41bf39af405ce8306" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::ListViewAdapter</scope><name>onPrepareActionMode</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_cell_adapter_1a8600f86930fd4ff5580ac24ced508427" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::ListViewAdapter</scope><name>onPrepareActionMode</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_list_view_adapter_1a8916298dd4da746dce3826b313fc02e7" prot="private" virt="non-virtual"><scope>crc643f46942d9dd1fff9::ListViewAdapter</scope><name>refList</name></member>
+    </listofallmembers>
+  </compounddef>
+</doxygen>

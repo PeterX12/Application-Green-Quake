@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.9.1" xml:lang="en-US">
+  <compounddef id="_release_2110_2android_2src_2mono_2androidx_2recyclerview_2widget_2_async_list_differ___list_listener_implementor_8java" kind="file" language="Java">
+    <compoundname>AsyncListDiffer_ListListenerImplementor.java</compoundname>
+    <innerclass refid="classmono_1_1androidx_1_1recyclerview_1_1widget_1_1_async_list_differ___list_listener_implementor" prot="public">mono::androidx::recyclerview::widget::AsyncListDiffer_ListListenerImplementor</innerclass>
+    <innernamespace refid="namespacemono_1_1androidx_1_1recyclerview_1_1widget">mono::androidx::recyclerview::widget</innernamespace>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <programlisting>
+<codeline lineno="1"><highlight class="keyword">package<sp/></highlight><highlight class="normal">mono.androidx.recyclerview.widget;</highlight></codeline>
+<codeline lineno="2"><highlight class="normal"></highlight></codeline>
+<codeline lineno="3"><highlight class="normal"></highlight></codeline>
+<codeline lineno="4"><highlight class="normal"></highlight><highlight class="keyword">public</highlight><highlight class="normal"><sp/></highlight><highlight class="keyword">class<sp/></highlight><highlight class="normal">AsyncListDiffer_ListListenerImplementor</highlight></codeline>
+<codeline lineno="5"><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">extends</highlight><highlight class="normal"><sp/>java.lang.Object</highlight></codeline>
+<codeline lineno="6"><highlight class="normal"><sp/><sp/><sp/><sp/>implements</highlight></codeline>
+<codeline lineno="7"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>mono.android.IGCUserPeer,</highlight></codeline>
+<codeline lineno="8"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>androidx.recyclerview.widget.AsyncListDiffer.ListListener</highlight></codeline>
+<codeline lineno="9"><highlight class="normal">{</highlight></codeline>
+<codeline lineno="11"><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">public</highlight><highlight class="normal"><sp/></highlight><highlight class="keyword">static</highlight><highlight class="normal"><sp/></highlight><highlight class="keyword">final</highlight><highlight class="normal"><sp/>String<sp/><ref refid="classmono_1_1androidx_1_1recyclerview_1_1widget_1_1_async_list_differ___list_listener_implementor_1a99e8445540514b0e3aa53a0693a49bf3" kindref="member">__md_methods</ref>;</highlight></codeline>
+<codeline lineno="12"><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">static</highlight><highlight class="normal"><sp/>{</highlight></codeline>
+<codeline lineno="13"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><ref refid="classmono_1_1androidx_1_1recyclerview_1_1widget_1_1_async_list_differ___list_listener_implementor_1a99e8445540514b0e3aa53a0693a49bf3" kindref="member">__md_methods</ref><sp/>=<sp/></highlight></codeline>
+<codeline lineno="14"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="stringliteral">&quot;n_onCurrentListChanged:(Ljava/util/List;Ljava/util/List;)V:GetOnCurrentListChanged_Ljava_util_List_Ljava_util_List_Handler:AndroidX.RecyclerView.Widget.AsyncListDiffer/IListListenerInvoker,<sp/>Xamarin.AndroidX.RecyclerView\n&quot;</highlight><highlight class="normal"><sp/>+</highlight></codeline>
+<codeline lineno="15"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="stringliteral">&quot;&quot;</highlight><highlight class="normal">;</highlight></codeline>
+<codeline lineno="16"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>mono.android.Runtime.register<sp/>(</highlight><highlight class="stringliteral">&quot;AndroidX.RecyclerView.Widget.AsyncListDiffer+IListListenerImplementor,<sp/>Xamarin.AndroidX.RecyclerView&quot;</highlight><highlight class="normal">,<sp/><ref refid="classmono_1_1androidx_1_1recyclerview_1_1widget_1_1_async_list_differ___list_listener_implementor_1ab22971f3205013a2ce397b6f78ce15c3" kindref="member">AsyncListDiffer_ListListenerImplementor</ref>.class,<sp/><ref refid="classmono_1_1androidx_1_1recyclerview_1_1widget_1_1_async_list_differ___list_listener_implementor_1a99e8445540514b0e3aa53a0693a49bf3" kindref="member">__md_methods</ref>);</highlight></codeline>
+<codeline lineno="17"><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline lineno="18"><highlight class="normal"></highlight></codeline>
+<codeline lineno="19"><highlight class="normal"></highlight></codeline>
+<codeline lineno="20" refid="classmono_1_1androidx_1_1recyclerview_1_1widget_1_1_async_list_differ___list_listener_implementor_1ab22971f3205013a2ce397b6f78ce15c3" refkind="member"><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">public</highlight><highlight class="normal"><sp/><ref refid="classmono_1_1androidx_1_1recyclerview_1_1widget_1_1_async_list_differ___list_listener_implementor_1ab22971f3205013a2ce397b6f78ce15c3" kindref="member">AsyncListDiffer_ListListenerImplementor</ref><sp/>()</highlight></codeline>
+<codeline lineno="21"><highlight class="normal"><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline lineno="22"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>super<sp/>();</highlight></codeline>
+<codeline lineno="23"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">if</highlight><highlight class="normal"><sp/>(getClass<sp/>()<sp/>==<sp/><ref refid="classmono_1_1androidx_1_1recyclerview_1_1widget_1_1_async_list_differ___list_listener_implementor" kindref="compound">AsyncListDiffer_ListListenerImplementor</ref>.class)</highlight></codeline>
+<codeline lineno="24"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>mono.android.TypeManager.Activate<sp/>(</highlight><highlight class="stringliteral">&quot;AndroidX.RecyclerView.Widget.AsyncListDiffer+IListListenerImplementor,<sp/>Xamarin.AndroidX.RecyclerView&quot;</highlight><highlight class="normal">,<sp/></highlight><highlight class="stringliteral">&quot;&quot;</highlight><highlight class="normal">,<sp/></highlight><highlight class="keyword">this</highlight><highlight class="normal">,<sp/></highlight><highlight class="keyword">new</highlight><highlight class="normal"><sp/>java.lang.Object[]<sp/>{<sp/><sp/>});</highlight></codeline>
+<codeline lineno="25"><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline lineno="26"><highlight class="normal"></highlight></codeline>
+<codeline lineno="27"><highlight class="normal"></highlight></codeline>
+<codeline lineno="28" refid="classmono_1_1androidx_1_1recyclerview_1_1widget_1_1_async_list_differ___list_listener_implementor_1a86f6521b87bd813d98392979ee66bf75" refkind="member"><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">public</highlight><highlight class="normal"><sp/></highlight><highlight class="keywordtype">void</highlight><highlight class="normal"><sp/><ref refid="classmono_1_1androidx_1_1recyclerview_1_1widget_1_1_async_list_differ___list_listener_implementor_1a86f6521b87bd813d98392979ee66bf75" kindref="member">onCurrentListChanged</ref><sp/>(java.util.List<sp/>p0,<sp/>java.util.List<sp/>p1)</highlight></codeline>
+<codeline lineno="29"><highlight class="normal"><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline lineno="30"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>n_onCurrentListChanged<sp/>(p0,<sp/>p1);</highlight></codeline>
+<codeline lineno="31"><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline lineno="32"><highlight class="normal"></highlight></codeline>
+<codeline lineno="33"><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">private</highlight><highlight class="normal"><sp/>native<sp/></highlight><highlight class="keywordtype">void</highlight><highlight class="normal"><sp/>n_onCurrentListChanged<sp/>(java.util.List<sp/>p0,<sp/>java.util.List<sp/>p1);</highlight></codeline>
+<codeline lineno="34"><highlight class="normal"></highlight></codeline>
+<codeline lineno="35"><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">private</highlight><highlight class="normal"><sp/>java.util.ArrayList<sp/>refList;</highlight></codeline>
+<codeline lineno="36" refid="classmono_1_1androidx_1_1recyclerview_1_1widget_1_1_async_list_differ___list_listener_implementor_1a402169bed77c5909204393c1de1d7f6e" refkind="member"><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">public</highlight><highlight class="normal"><sp/></highlight><highlight class="keywordtype">void</highlight><highlight class="normal"><sp/><ref refid="classmono_1_1androidx_1_1recyclerview_1_1widget_1_1_async_list_differ___list_listener_implementor_1a402169bed77c5909204393c1de1d7f6e" kindref="member">monodroidAddReference</ref><sp/>(java.lang.Object<sp/>obj)</highlight></codeline>
+<codeline lineno="37"><highlight class="normal"><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline lineno="38"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">if</highlight><highlight class="normal"><sp/>(refList<sp/>==<sp/></highlight><highlight class="keyword">null</highlight><highlight class="normal">)</highlight></codeline>
+<codeline lineno="39"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>refList<sp/>=<sp/></highlight><highlight class="keyword">new</highlight><highlight class="normal"><sp/>java.util.ArrayList<sp/>();</highlight></codeline>
+<codeline lineno="40"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>refList.add<sp/>(obj);</highlight></codeline>
+<codeline lineno="41"><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline lineno="42"><highlight class="normal"></highlight></codeline>
+<codeline lineno="43" refid="classmono_1_1androidx_1_1recyclerview_1_1widget_1_1_async_list_differ___list_listener_implementor_1a802a9325f41caacf95304982d3b92655" refkind="member"><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">public</highlight><highlight class="normal"><sp/></highlight><highlight class="keywordtype">void</highlight><highlight class="normal"><sp/><ref refid="classmono_1_1androidx_1_1recyclerview_1_1widget_1_1_async_list_differ___list_listener_implementor_1a802a9325f41caacf95304982d3b92655" kindref="member">monodroidClearReferences</ref><sp/>()</highlight></codeline>
+<codeline lineno="44"><highlight class="normal"><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline lineno="45"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">if</highlight><highlight class="normal"><sp/>(refList<sp/>!=<sp/></highlight><highlight class="keyword">null</highlight><highlight class="normal">)</highlight></codeline>
+<codeline lineno="46"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>refList.clear<sp/>();</highlight></codeline>
+<codeline lineno="47"><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline lineno="48"><highlight class="normal">}</highlight></codeline>
+    </programlisting>
+    <location file="Application Green Quake.Android/obj/Release/110/android/src/mono/androidx/recyclerview/widget/AsyncListDiffer_ListListenerImplementor.java"/>
+  </compounddef>
+</doxygen>

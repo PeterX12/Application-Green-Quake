@@ -1,0 +1,85 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.9.1" xml:lang="en-US">
+  <compounddef id="class_application___green___quake_1_1_views_1_1_login_splash_page" kind="class" language="C#" prot="public">
+    <compoundname>Application_Green_Quake::Views::LoginSplashPage</compoundname>
+    <basecompoundref prot="public" virt="non-virtual">ContentPage</basecompoundref>
+      <sectiondef kind="private-attrib">
+      <memberdef kind="variable" id="class_application___green___quake_1_1_views_1_1_login_splash_page_1a3abda6d2a1b1f3cdf1f7c112d2943f2e" prot="private" static="no" mutable="no">
+        <type>Image</type>
+        <definition>Image Application_Green_Quake.Views.LoginSplashPage.splashImage</definition>
+        <argsstring></argsstring>
+        <name>splashImage</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake/Views/LoginSplashPage.cs" line="15" column="15" bodyfile="Application Green Quake/Views/LoginSplashPage.cs" bodystart="15" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="public-func">
+      <memberdef kind="function" id="class_application___green___quake_1_1_views_1_1_login_splash_page_1a0ba4859b5ff8b1bff3b13015f6966bbb" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>Application_Green_Quake.Views.LoginSplashPage.LoginSplashPage</definition>
+        <argsstring>()</argsstring>
+        <name>LoginSplashPage</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+<para>This function fires when the Login button is clicked. It provides the splash screen and then navigates to the main menu right after. </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake/Views/LoginSplashPage.cs" line="19" column="16" bodyfile="Application Green Quake/Views/LoginSplashPage.cs" bodystart="19" bodyend="41"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="protected-func">
+      <memberdef kind="function" id="class_application___green___quake_1_1_views_1_1_login_splash_page_1aef0e999e33d5642fadfd922d0ade4ac2" prot="protected" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>override async void</type>
+        <definition>override async void Application_Green_Quake.Views.LoginSplashPage.OnAppearing</definition>
+        <argsstring>()</argsstring>
+        <name>OnAppearing</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake/Views/LoginSplashPage.cs" line="43" column="39" bodyfile="Application Green Quake/Views/LoginSplashPage.cs" bodystart="43" bodyend="50"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <inheritancegraph>
+      <node id="1">
+        <label>Application_Green_Quake.Views.LoginSplashPage</label>
+        <link refid="class_application___green___quake_1_1_views_1_1_login_splash_page"/>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="2">
+        <label>ContentPage</label>
+      </node>
+    </inheritancegraph>
+    <collaborationgraph>
+      <node id="1">
+        <label>Application_Green_Quake.Views.LoginSplashPage</label>
+        <link refid="class_application___green___quake_1_1_views_1_1_login_splash_page"/>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="2">
+        <label>ContentPage</label>
+      </node>
+    </collaborationgraph>
+    <location file="Application Green Quake/Views/LoginSplashPage.cs" line="13" column="11" bodyfile="Application Green Quake/Views/LoginSplashPage.cs" bodystart="14" bodyend="51"/>
+    <listofallmembers>
+      <member refid="class_application___green___quake_1_1_views_1_1_login_splash_page_1a0ba4859b5ff8b1bff3b13015f6966bbb" prot="public" virt="non-virtual"><scope>Application_Green_Quake::Views::LoginSplashPage</scope><name>LoginSplashPage</name></member>
+      <member refid="class_application___green___quake_1_1_views_1_1_login_splash_page_1aef0e999e33d5642fadfd922d0ade4ac2" prot="protected" virt="non-virtual"><scope>Application_Green_Quake::Views::LoginSplashPage</scope><name>OnAppearing</name></member>
+      <member refid="class_application___green___quake_1_1_views_1_1_login_splash_page_1a3abda6d2a1b1f3cdf1f7c112d2943f2e" prot="private" virt="non-virtual"><scope>Application_Green_Quake::Views::LoginSplashPage</scope><name>splashImage</name></member>
+    </listofallmembers>
+  </compounddef>
+</doxygen>

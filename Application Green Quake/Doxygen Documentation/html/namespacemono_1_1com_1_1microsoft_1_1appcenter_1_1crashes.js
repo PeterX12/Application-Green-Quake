@@ -1,0 +1,4 @@
+var namespacemono_1_1com_1_1microsoft_1_1appcenter_1_1crashes =
+[
+    [ "CrashesListenerImplementor", "classmono_1_1com_1_1microsoft_1_1appcenter_1_1crashes_1_1_crashes_listener_implementor.html", "classmono_1_1com_1_1microsoft_1_1appcenter_1_1crashes_1_1_crashes_listener_implementor" ]
+];

@@ -1,0 +1,457 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.9.1" xml:lang="en-US">
+  <compounddef id="classcrc640879981a986d658b_1_1_sf_gradient_view_renderer" kind="class" language="Java" prot="public">
+    <compoundname>crc640879981a986d658b::SfGradientViewRenderer</compoundname>
+    <basecompoundref refid="classcrc643f46942d9dd1fff9_1_1_view_renderer" prot="public" virt="non-virtual">crc643f46942d9dd1fff9.ViewRenderer</basecompoundref>
+    <basecompoundref prot="public" virt="non-virtual">mono.android.IGCUserPeer</basecompoundref>
+      <sectiondef kind="public-static-attrib">
+      <memberdef kind="variable" id="classcrc640879981a986d658b_1_1_sf_gradient_view_renderer_1a9e2e6faded84296ea8948dc5d5206b0b" prot="public" static="yes" mutable="no">
+        <type>final String</type>
+        <definition>final String crc640879981a986d658b.SfGradientViewRenderer.__md_methods</definition>
+        <argsstring></argsstring>
+        <name>__md_methods</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+<para>@hide </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/110/android/src/crc640879981a986d658b/SfGradientViewRenderer.java" line="10" column="28" bodyfile="Application Green Quake.Android/obj/Debug/110/android/src/crc640879981a986d658b/SfGradientViewRenderer.java" bodystart="10" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="private-attrib">
+      <memberdef kind="variable" id="classcrc640879981a986d658b_1_1_sf_gradient_view_renderer_1a18a77f5f9d2c858874f4a483fbb1914d" prot="private" static="no" mutable="no">
+        <type>java.util.ArrayList</type>
+        <definition>java.util.ArrayList crc640879981a986d658b.SfGradientViewRenderer.refList</definition>
+        <argsstring></argsstring>
+        <name>refList</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/110/android/src/crc640879981a986d658b/SfGradientViewRenderer.java" line="50" column="27" bodyfile="Application Green Quake.Android/obj/Debug/110/android/src/crc640879981a986d658b/SfGradientViewRenderer.java" bodystart="50" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="package-static-func">
+      <memberdef kind="function" id="classcrc640879981a986d658b_1_1_sf_gradient_view_renderer_1a5d3e4b9d604dbde830af1d208e19141e" prot="package" static="yes" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>crc640879981a986d658b.SfGradientViewRenderer.[static initializer]</definition>
+        <argsstring></argsstring>
+        <name>[static initializer]</name>
+        <reimplements refid="classcrc643f46942d9dd1fff9_1_1_view_renderer_1a0b1f8c07162fa817ed1708e95d4e9682">[static initializer]</reimplements>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/110/android/src/crc640879981a986d658b/SfGradientViewRenderer.java" line="10" column="28"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="public-func">
+      <memberdef kind="function" id="classcrc640879981a986d658b_1_1_sf_gradient_view_renderer_1afc56b5d3fdca87c5b68cd68f7425eb80" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>crc640879981a986d658b.SfGradientViewRenderer.SfGradientViewRenderer</definition>
+        <argsstring>(android.content.Context p0, android.util.AttributeSet p1, int p2)</argsstring>
+        <name>SfGradientViewRenderer</name>
+        <param>
+          <type>android.content.Context</type>
+          <declname>p0</declname>
+        </param>
+        <param>
+          <type>android.util.AttributeSet</type>
+          <declname>p1</declname>
+        </param>
+        <param>
+          <type>int</type>
+          <declname>p2</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/110/android/src/crc640879981a986d658b/SfGradientViewRenderer.java" line="19" column="8" bodyfile="Application Green Quake.Android/obj/Debug/110/android/src/crc640879981a986d658b/SfGradientViewRenderer.java" bodystart="19" bodyend="24"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc640879981a986d658b_1_1_sf_gradient_view_renderer_1a649bdfd44acb24514d1e6ba248a6dc66" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>crc640879981a986d658b.SfGradientViewRenderer.SfGradientViewRenderer</definition>
+        <argsstring>(android.content.Context p0, android.util.AttributeSet p1)</argsstring>
+        <name>SfGradientViewRenderer</name>
+        <param>
+          <type>android.content.Context</type>
+          <declname>p0</declname>
+        </param>
+        <param>
+          <type>android.util.AttributeSet</type>
+          <declname>p1</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/110/android/src/crc640879981a986d658b/SfGradientViewRenderer.java" line="27" column="8" bodyfile="Application Green Quake.Android/obj/Debug/110/android/src/crc640879981a986d658b/SfGradientViewRenderer.java" bodystart="27" bodyend="32"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc640879981a986d658b_1_1_sf_gradient_view_renderer_1ae550e7dc3f22be082dad146a80d65ade" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>crc640879981a986d658b.SfGradientViewRenderer.SfGradientViewRenderer</definition>
+        <argsstring>(android.content.Context p0)</argsstring>
+        <name>SfGradientViewRenderer</name>
+        <param>
+          <type>android.content.Context</type>
+          <declname>p0</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/110/android/src/crc640879981a986d658b/SfGradientViewRenderer.java" line="35" column="8" bodyfile="Application Green Quake.Android/obj/Debug/110/android/src/crc640879981a986d658b/SfGradientViewRenderer.java" bodystart="35" bodyend="40"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc640879981a986d658b_1_1_sf_gradient_view_renderer_1a1acce759bc53d9ed077f57b568edfc8b" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void crc640879981a986d658b.SfGradientViewRenderer.onDraw</definition>
+        <argsstring>(android.graphics.Canvas p0)</argsstring>
+        <name>onDraw</name>
+        <param>
+          <type>android.graphics.Canvas</type>
+          <declname>p0</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/110/android/src/crc640879981a986d658b/SfGradientViewRenderer.java" line="43" column="13" bodyfile="Application Green Quake.Android/obj/Debug/110/android/src/crc640879981a986d658b/SfGradientViewRenderer.java" bodystart="43" bodyend="46"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc640879981a986d658b_1_1_sf_gradient_view_renderer_1ae5ab8f91702c12eabf26eca28cbace0c" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void crc640879981a986d658b.SfGradientViewRenderer.monodroidAddReference</definition>
+        <argsstring>(java.lang.Object obj)</argsstring>
+        <name>monodroidAddReference</name>
+        <reimplements refid="classcrc643f46942d9dd1fff9_1_1_view_renderer_1a767ec8047a7e678d878172d24e1f61ac">monodroidAddReference</reimplements>
+        <param>
+          <type>java.lang.Object</type>
+          <declname>obj</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/110/android/src/crc640879981a986d658b/SfGradientViewRenderer.java" line="51" column="13" bodyfile="Application Green Quake.Android/obj/Debug/110/android/src/crc640879981a986d658b/SfGradientViewRenderer.java" bodystart="51" bodyend="56"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc640879981a986d658b_1_1_sf_gradient_view_renderer_1a9899ceabaece14b5615b0985e98dc789" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void crc640879981a986d658b.SfGradientViewRenderer.monodroidClearReferences</definition>
+        <argsstring>()</argsstring>
+        <name>monodroidClearReferences</name>
+        <reimplements refid="classcrc643f46942d9dd1fff9_1_1_view_renderer_1a7a3d481edf93ee26421c84e284af4cd4">monodroidClearReferences</reimplements>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/110/android/src/crc640879981a986d658b/SfGradientViewRenderer.java" line="58" column="13" bodyfile="Application Green Quake.Android/obj/Debug/110/android/src/crc640879981a986d658b/SfGradientViewRenderer.java" bodystart="58" bodyend="62"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="private-func">
+      <memberdef kind="function" id="classcrc640879981a986d658b_1_1_sf_gradient_view_renderer_1ae3dd34de1c4d2b0972f1c5e464a26c2a" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>native void</type>
+        <definition>native void crc640879981a986d658b.SfGradientViewRenderer.n_onDraw</definition>
+        <argsstring>(android.graphics.Canvas p0)</argsstring>
+        <name>n_onDraw</name>
+        <param>
+          <type>android.graphics.Canvas</type>
+          <declname>p0</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/110/android/src/crc640879981a986d658b/SfGradientViewRenderer.java" line="48" column="21"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <inheritancegraph>
+      <node id="7">
+        <label>com.xamarin.forms.platform.android.FormsViewGroup</label>
+      </node>
+      <node id="3">
+        <label>crc643f46942d9dd1fff9.ViewRenderer_2</label>
+        <link refid="classcrc643f46942d9dd1fff9_1_1_view_renderer__2"/>
+        <childnode refid="4" relation="public-inheritance">
+        </childnode>
+        <childnode refid="6" relation="public-inheritance">
+        </childnode>
+        <childnode refid="8" relation="public-inheritance">
+        </childnode>
+        <childnode refid="4" relation="public-inheritance">
+        </childnode>
+        <childnode refid="6" relation="public-inheritance">
+        </childnode>
+        <childnode refid="8" relation="public-inheritance">
+        </childnode>
+        <childnode refid="4" relation="public-inheritance">
+        </childnode>
+        <childnode refid="6" relation="public-inheritance">
+        </childnode>
+        <childnode refid="8" relation="public-inheritance">
+        </childnode>
+        <childnode refid="4" relation="public-inheritance">
+        </childnode>
+        <childnode refid="6" relation="public-inheritance">
+        </childnode>
+        <childnode refid="8" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="5">
+        <label>com::xamarin::forms::platform::android::FormsViewGroup</label>
+      </node>
+      <node id="1">
+        <label>crc640879981a986d658b.SfGradientViewRenderer</label>
+        <link refid="classcrc640879981a986d658b_1_1_sf_gradient_view_renderer"/>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+        <childnode refid="6" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="6">
+        <label>mono.android.IGCUserPeer</label>
+      </node>
+      <node id="2">
+        <label>crc643f46942d9dd1fff9.ViewRenderer</label>
+        <link refid="classcrc643f46942d9dd1fff9_1_1_view_renderer"/>
+        <childnode refid="3" relation="public-inheritance">
+        </childnode>
+        <childnode refid="6" relation="public-inheritance">
+        </childnode>
+        <childnode refid="3" relation="public-inheritance">
+        </childnode>
+        <childnode refid="6" relation="public-inheritance">
+        </childnode>
+        <childnode refid="3" relation="public-inheritance">
+        </childnode>
+        <childnode refid="6" relation="public-inheritance">
+        </childnode>
+        <childnode refid="3" relation="public-inheritance">
+        </childnode>
+        <childnode refid="6" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="4">
+        <label>crc643f46942d9dd1fff9.VisualElementRenderer_1</label>
+        <link refid="classcrc643f46942d9dd1fff9_1_1_visual_element_renderer__1"/>
+        <childnode refid="5" relation="public-inheritance">
+        </childnode>
+        <childnode refid="6" relation="public-inheritance">
+        </childnode>
+        <childnode refid="7" relation="public-inheritance">
+        </childnode>
+        <childnode refid="6" relation="public-inheritance">
+        </childnode>
+        <childnode refid="7" relation="public-inheritance">
+        </childnode>
+        <childnode refid="6" relation="public-inheritance">
+        </childnode>
+        <childnode refid="7" relation="public-inheritance">
+        </childnode>
+        <childnode refid="6" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="8">
+        <label>android.view.View.OnFocusChangeListener</label>
+      </node>
+    </inheritancegraph>
+    <collaborationgraph>
+      <node id="7">
+        <label>com.xamarin.forms.platform.android.FormsViewGroup</label>
+      </node>
+      <node id="3">
+        <label>crc643f46942d9dd1fff9.ViewRenderer_2</label>
+        <link refid="classcrc643f46942d9dd1fff9_1_1_view_renderer__2"/>
+        <childnode refid="4" relation="public-inheritance">
+        </childnode>
+        <childnode refid="6" relation="public-inheritance">
+        </childnode>
+        <childnode refid="8" relation="public-inheritance">
+        </childnode>
+        <childnode refid="4" relation="public-inheritance">
+        </childnode>
+        <childnode refid="6" relation="public-inheritance">
+        </childnode>
+        <childnode refid="8" relation="public-inheritance">
+        </childnode>
+        <childnode refid="4" relation="public-inheritance">
+        </childnode>
+        <childnode refid="6" relation="public-inheritance">
+        </childnode>
+        <childnode refid="8" relation="public-inheritance">
+        </childnode>
+        <childnode refid="4" relation="public-inheritance">
+        </childnode>
+        <childnode refid="6" relation="public-inheritance">
+        </childnode>
+        <childnode refid="8" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="5">
+        <label>com::xamarin::forms::platform::android::FormsViewGroup</label>
+      </node>
+      <node id="1">
+        <label>crc640879981a986d658b.SfGradientViewRenderer</label>
+        <link refid="classcrc640879981a986d658b_1_1_sf_gradient_view_renderer"/>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+        <childnode refid="6" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="6">
+        <label>mono.android.IGCUserPeer</label>
+      </node>
+      <node id="2">
+        <label>crc643f46942d9dd1fff9.ViewRenderer</label>
+        <link refid="classcrc643f46942d9dd1fff9_1_1_view_renderer"/>
+        <childnode refid="3" relation="public-inheritance">
+        </childnode>
+        <childnode refid="6" relation="public-inheritance">
+        </childnode>
+        <childnode refid="3" relation="public-inheritance">
+        </childnode>
+        <childnode refid="6" relation="public-inheritance">
+        </childnode>
+        <childnode refid="3" relation="public-inheritance">
+        </childnode>
+        <childnode refid="6" relation="public-inheritance">
+        </childnode>
+        <childnode refid="3" relation="public-inheritance">
+        </childnode>
+        <childnode refid="6" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="4">
+        <label>crc643f46942d9dd1fff9.VisualElementRenderer_1</label>
+        <link refid="classcrc643f46942d9dd1fff9_1_1_visual_element_renderer__1"/>
+        <childnode refid="5" relation="public-inheritance">
+        </childnode>
+        <childnode refid="6" relation="public-inheritance">
+        </childnode>
+        <childnode refid="7" relation="public-inheritance">
+        </childnode>
+        <childnode refid="6" relation="public-inheritance">
+        </childnode>
+        <childnode refid="7" relation="public-inheritance">
+        </childnode>
+        <childnode refid="6" relation="public-inheritance">
+        </childnode>
+        <childnode refid="7" relation="public-inheritance">
+        </childnode>
+        <childnode refid="6" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="8">
+        <label>android.view.View.OnFocusChangeListener</label>
+      </node>
+    </collaborationgraph>
+    <location file="Application Green Quake.Android/obj/Debug/110/android/src/crc640879981a986d658b/SfGradientViewRenderer.java" line="4" column="7" bodyfile="Application Green Quake.Android/obj/Debug/110/android/src/crc640879981a986d658b/SfGradientViewRenderer.java" bodystart="8" bodyend="63"/>
+    <listofallmembers>
+      <member refid="classcrc640879981a986d658b_1_1_sf_gradient_view_renderer_1a5d3e4b9d604dbde830af1d208e19141e" prot="package" virt="non-virtual"><scope>crc640879981a986d658b::SfGradientViewRenderer</scope><name>[static initializer]</name></member>
+      <member refid="classcrc640879981a986d658b_1_1_sf_gradient_view_renderer_1a9e2e6faded84296ea8948dc5d5206b0b" prot="public" virt="non-virtual"><scope>crc640879981a986d658b::SfGradientViewRenderer</scope><name>__md_methods</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_visual_element_renderer__1_1a8b3a1f18416ee5d553d54d8c51f238bd" prot="public" virt="non-virtual"><scope>crc640879981a986d658b::SfGradientViewRenderer</scope><name>dispatchTouchEvent</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_visual_element_renderer__1_1a8b3a1f18416ee5d553d54d8c51f238bd" prot="public" virt="non-virtual"><scope>crc640879981a986d658b::SfGradientViewRenderer</scope><name>dispatchTouchEvent</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_visual_element_renderer__1_1a8b3a1f18416ee5d553d54d8c51f238bd" prot="public" virt="non-virtual"><scope>crc640879981a986d658b::SfGradientViewRenderer</scope><name>dispatchTouchEvent</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_visual_element_renderer__1_1a8b3a1f18416ee5d553d54d8c51f238bd" prot="public" virt="non-virtual"><scope>crc640879981a986d658b::SfGradientViewRenderer</scope><name>dispatchTouchEvent</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_visual_element_renderer__1_1a4fbfdc5e36e0aac29f8113eddde3ffa8" prot="public" virt="non-virtual"><scope>crc640879981a986d658b::SfGradientViewRenderer</scope><name>draw</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_visual_element_renderer__1_1a4fbfdc5e36e0aac29f8113eddde3ffa8" prot="public" virt="non-virtual"><scope>crc640879981a986d658b::SfGradientViewRenderer</scope><name>draw</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_visual_element_renderer__1_1a4fbfdc5e36e0aac29f8113eddde3ffa8" prot="public" virt="non-virtual"><scope>crc640879981a986d658b::SfGradientViewRenderer</scope><name>draw</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_visual_element_renderer__1_1a4fbfdc5e36e0aac29f8113eddde3ffa8" prot="public" virt="non-virtual"><scope>crc640879981a986d658b::SfGradientViewRenderer</scope><name>draw</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_visual_element_renderer__1_1a9f734e4b4776dc9d9ed904a0922d26f7" prot="public" virt="non-virtual"><scope>crc640879981a986d658b::SfGradientViewRenderer</scope><name>focusSearch</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_visual_element_renderer__1_1a9f734e4b4776dc9d9ed904a0922d26f7" prot="public" virt="non-virtual"><scope>crc640879981a986d658b::SfGradientViewRenderer</scope><name>focusSearch</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_visual_element_renderer__1_1a9f734e4b4776dc9d9ed904a0922d26f7" prot="public" virt="non-virtual"><scope>crc640879981a986d658b::SfGradientViewRenderer</scope><name>focusSearch</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_visual_element_renderer__1_1a9f734e4b4776dc9d9ed904a0922d26f7" prot="public" virt="non-virtual"><scope>crc640879981a986d658b::SfGradientViewRenderer</scope><name>focusSearch</name></member>
+      <member refid="classcrc640879981a986d658b_1_1_sf_gradient_view_renderer_1ae5ab8f91702c12eabf26eca28cbace0c" prot="public" virt="non-virtual"><scope>crc640879981a986d658b::SfGradientViewRenderer</scope><name>monodroidAddReference</name></member>
+      <member refid="classcrc640879981a986d658b_1_1_sf_gradient_view_renderer_1a9899ceabaece14b5615b0985e98dc789" prot="public" virt="non-virtual"><scope>crc640879981a986d658b::SfGradientViewRenderer</scope><name>monodroidClearReferences</name></member>
+      <member refid="classcrc640879981a986d658b_1_1_sf_gradient_view_renderer_1ae3dd34de1c4d2b0972f1c5e464a26c2a" prot="private" virt="non-virtual"><scope>crc640879981a986d658b::SfGradientViewRenderer</scope><name>n_onDraw</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_visual_element_renderer__1_1a31a32c8d1668368e4b13d7933a626833" prot="public" virt="non-virtual"><scope>crc640879981a986d658b::SfGradientViewRenderer</scope><name>onConfigurationChanged</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_visual_element_renderer__1_1a31a32c8d1668368e4b13d7933a626833" prot="public" virt="non-virtual"><scope>crc640879981a986d658b::SfGradientViewRenderer</scope><name>onConfigurationChanged</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_visual_element_renderer__1_1a31a32c8d1668368e4b13d7933a626833" prot="public" virt="non-virtual"><scope>crc640879981a986d658b::SfGradientViewRenderer</scope><name>onConfigurationChanged</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_visual_element_renderer__1_1a31a32c8d1668368e4b13d7933a626833" prot="public" virt="non-virtual"><scope>crc640879981a986d658b::SfGradientViewRenderer</scope><name>onConfigurationChanged</name></member>
+      <member refid="classcrc640879981a986d658b_1_1_sf_gradient_view_renderer_1a1acce759bc53d9ed077f57b568edfc8b" prot="public" virt="non-virtual"><scope>crc640879981a986d658b::SfGradientViewRenderer</scope><name>onDraw</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_view_renderer__2_1af7a9cd1b5635deaf68179fcdc4ee9275" prot="public" virt="non-virtual"><scope>crc640879981a986d658b::SfGradientViewRenderer</scope><name>onFocusChange</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_view_renderer__2_1af7a9cd1b5635deaf68179fcdc4ee9275" prot="public" virt="non-virtual"><scope>crc640879981a986d658b::SfGradientViewRenderer</scope><name>onFocusChange</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_view_renderer__2_1af7a9cd1b5635deaf68179fcdc4ee9275" prot="public" virt="non-virtual"><scope>crc640879981a986d658b::SfGradientViewRenderer</scope><name>onFocusChange</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_view_renderer__2_1af7a9cd1b5635deaf68179fcdc4ee9275" prot="public" virt="non-virtual"><scope>crc640879981a986d658b::SfGradientViewRenderer</scope><name>onFocusChange</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_visual_element_renderer__1_1ade33eb4d0895f2536faf5f3e57830bc2" prot="public" virt="non-virtual"><scope>crc640879981a986d658b::SfGradientViewRenderer</scope><name>onInterceptTouchEvent</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_visual_element_renderer__1_1ade33eb4d0895f2536faf5f3e57830bc2" prot="public" virt="non-virtual"><scope>crc640879981a986d658b::SfGradientViewRenderer</scope><name>onInterceptTouchEvent</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_visual_element_renderer__1_1ade33eb4d0895f2536faf5f3e57830bc2" prot="public" virt="non-virtual"><scope>crc640879981a986d658b::SfGradientViewRenderer</scope><name>onInterceptTouchEvent</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_visual_element_renderer__1_1ade33eb4d0895f2536faf5f3e57830bc2" prot="public" virt="non-virtual"><scope>crc640879981a986d658b::SfGradientViewRenderer</scope><name>onInterceptTouchEvent</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_view_renderer__2_1a1e8de2d40d787901b8f14839810a5721" prot="public" virt="non-virtual"><scope>crc640879981a986d658b::SfGradientViewRenderer</scope><name>onLayout</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_view_renderer__2_1a1e8de2d40d787901b8f14839810a5721" prot="public" virt="non-virtual"><scope>crc640879981a986d658b::SfGradientViewRenderer</scope><name>onLayout</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_view_renderer__2_1a1e8de2d40d787901b8f14839810a5721" prot="public" virt="non-virtual"><scope>crc640879981a986d658b::SfGradientViewRenderer</scope><name>onLayout</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_view_renderer__2_1a1e8de2d40d787901b8f14839810a5721" prot="public" virt="non-virtual"><scope>crc640879981a986d658b::SfGradientViewRenderer</scope><name>onLayout</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_visual_element_renderer__1_1a68f705864fbd52c60cb4c29f5372aa76" prot="public" virt="non-virtual"><scope>crc640879981a986d658b::SfGradientViewRenderer</scope><name>onMeasure</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_visual_element_renderer__1_1a68f705864fbd52c60cb4c29f5372aa76" prot="public" virt="non-virtual"><scope>crc640879981a986d658b::SfGradientViewRenderer</scope><name>onMeasure</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_visual_element_renderer__1_1a68f705864fbd52c60cb4c29f5372aa76" prot="public" virt="non-virtual"><scope>crc640879981a986d658b::SfGradientViewRenderer</scope><name>onMeasure</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_visual_element_renderer__1_1a68f705864fbd52c60cb4c29f5372aa76" prot="public" virt="non-virtual"><scope>crc640879981a986d658b::SfGradientViewRenderer</scope><name>onMeasure</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_visual_element_renderer__1_1a11426581e099109c3f05f848cd0f55a4" prot="public" virt="non-virtual"><scope>crc640879981a986d658b::SfGradientViewRenderer</scope><name>onTouchEvent</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_visual_element_renderer__1_1a11426581e099109c3f05f848cd0f55a4" prot="public" virt="non-virtual"><scope>crc640879981a986d658b::SfGradientViewRenderer</scope><name>onTouchEvent</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_visual_element_renderer__1_1a11426581e099109c3f05f848cd0f55a4" prot="public" virt="non-virtual"><scope>crc640879981a986d658b::SfGradientViewRenderer</scope><name>onTouchEvent</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_visual_element_renderer__1_1a11426581e099109c3f05f848cd0f55a4" prot="public" virt="non-virtual"><scope>crc640879981a986d658b::SfGradientViewRenderer</scope><name>onTouchEvent</name></member>
+      <member refid="classcrc640879981a986d658b_1_1_sf_gradient_view_renderer_1a18a77f5f9d2c858874f4a483fbb1914d" prot="private" virt="non-virtual"><scope>crc640879981a986d658b::SfGradientViewRenderer</scope><name>refList</name></member>
+      <member refid="classcrc640879981a986d658b_1_1_sf_gradient_view_renderer_1afc56b5d3fdca87c5b68cd68f7425eb80" prot="public" virt="non-virtual"><scope>crc640879981a986d658b::SfGradientViewRenderer</scope><name>SfGradientViewRenderer</name></member>
+      <member refid="classcrc640879981a986d658b_1_1_sf_gradient_view_renderer_1a649bdfd44acb24514d1e6ba248a6dc66" prot="public" virt="non-virtual"><scope>crc640879981a986d658b::SfGradientViewRenderer</scope><name>SfGradientViewRenderer</name></member>
+      <member refid="classcrc640879981a986d658b_1_1_sf_gradient_view_renderer_1ae550e7dc3f22be082dad146a80d65ade" prot="public" virt="non-virtual"><scope>crc640879981a986d658b::SfGradientViewRenderer</scope><name>SfGradientViewRenderer</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_view_renderer_1a5dab81421ecf8c5bec29e6e1253d2cc2" prot="public" virt="non-virtual"><scope>crc640879981a986d658b::SfGradientViewRenderer</scope><name>ViewRenderer</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_view_renderer_1ab78c69cc57b7ec8756c9bc24d106c2cb" prot="public" virt="non-virtual"><scope>crc640879981a986d658b::SfGradientViewRenderer</scope><name>ViewRenderer</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_view_renderer_1aaf19e3f0027793cf362066fcc68da140" prot="public" virt="non-virtual"><scope>crc640879981a986d658b::SfGradientViewRenderer</scope><name>ViewRenderer</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_view_renderer_1a5dab81421ecf8c5bec29e6e1253d2cc2" prot="public" virt="non-virtual"><scope>crc640879981a986d658b::SfGradientViewRenderer</scope><name>ViewRenderer</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_view_renderer_1ab78c69cc57b7ec8756c9bc24d106c2cb" prot="public" virt="non-virtual"><scope>crc640879981a986d658b::SfGradientViewRenderer</scope><name>ViewRenderer</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_view_renderer_1aaf19e3f0027793cf362066fcc68da140" prot="public" virt="non-virtual"><scope>crc640879981a986d658b::SfGradientViewRenderer</scope><name>ViewRenderer</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_view_renderer_1a5dab81421ecf8c5bec29e6e1253d2cc2" prot="public" virt="non-virtual"><scope>crc640879981a986d658b::SfGradientViewRenderer</scope><name>ViewRenderer</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_view_renderer_1ab78c69cc57b7ec8756c9bc24d106c2cb" prot="public" virt="non-virtual"><scope>crc640879981a986d658b::SfGradientViewRenderer</scope><name>ViewRenderer</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_view_renderer_1aaf19e3f0027793cf362066fcc68da140" prot="public" virt="non-virtual"><scope>crc640879981a986d658b::SfGradientViewRenderer</scope><name>ViewRenderer</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_view_renderer_1a5dab81421ecf8c5bec29e6e1253d2cc2" prot="public" virt="non-virtual"><scope>crc640879981a986d658b::SfGradientViewRenderer</scope><name>ViewRenderer</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_view_renderer_1ab78c69cc57b7ec8756c9bc24d106c2cb" prot="public" virt="non-virtual"><scope>crc640879981a986d658b::SfGradientViewRenderer</scope><name>ViewRenderer</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_view_renderer_1aaf19e3f0027793cf362066fcc68da140" prot="public" virt="non-virtual"><scope>crc640879981a986d658b::SfGradientViewRenderer</scope><name>ViewRenderer</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_view_renderer__2_1ad980838ee59d73db13b3aa47b96977a9" prot="public" virt="non-virtual"><scope>crc640879981a986d658b::SfGradientViewRenderer</scope><name>ViewRenderer_2</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_view_renderer__2_1af965f1cbc77bc983fd6a53f8fd4c94b9" prot="public" virt="non-virtual"><scope>crc640879981a986d658b::SfGradientViewRenderer</scope><name>ViewRenderer_2</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_view_renderer__2_1abe3f312104c3407aaad8eb154b5f41cf" prot="public" virt="non-virtual"><scope>crc640879981a986d658b::SfGradientViewRenderer</scope><name>ViewRenderer_2</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_view_renderer__2_1ad980838ee59d73db13b3aa47b96977a9" prot="public" virt="non-virtual"><scope>crc640879981a986d658b::SfGradientViewRenderer</scope><name>ViewRenderer_2</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_view_renderer__2_1af965f1cbc77bc983fd6a53f8fd4c94b9" prot="public" virt="non-virtual"><scope>crc640879981a986d658b::SfGradientViewRenderer</scope><name>ViewRenderer_2</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_view_renderer__2_1abe3f312104c3407aaad8eb154b5f41cf" prot="public" virt="non-virtual"><scope>crc640879981a986d658b::SfGradientViewRenderer</scope><name>ViewRenderer_2</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_view_renderer__2_1ad980838ee59d73db13b3aa47b96977a9" prot="public" virt="non-virtual"><scope>crc640879981a986d658b::SfGradientViewRenderer</scope><name>ViewRenderer_2</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_view_renderer__2_1af965f1cbc77bc983fd6a53f8fd4c94b9" prot="public" virt="non-virtual"><scope>crc640879981a986d658b::SfGradientViewRenderer</scope><name>ViewRenderer_2</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_view_renderer__2_1abe3f312104c3407aaad8eb154b5f41cf" prot="public" virt="non-virtual"><scope>crc640879981a986d658b::SfGradientViewRenderer</scope><name>ViewRenderer_2</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_view_renderer__2_1ad980838ee59d73db13b3aa47b96977a9" prot="public" virt="non-virtual"><scope>crc640879981a986d658b::SfGradientViewRenderer</scope><name>ViewRenderer_2</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_view_renderer__2_1af965f1cbc77bc983fd6a53f8fd4c94b9" prot="public" virt="non-virtual"><scope>crc640879981a986d658b::SfGradientViewRenderer</scope><name>ViewRenderer_2</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_view_renderer__2_1abe3f312104c3407aaad8eb154b5f41cf" prot="public" virt="non-virtual"><scope>crc640879981a986d658b::SfGradientViewRenderer</scope><name>ViewRenderer_2</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_visual_element_renderer__1_1a347f18991a486c5b5f1c4dcd83475f21" prot="public" virt="non-virtual"><scope>crc640879981a986d658b::SfGradientViewRenderer</scope><name>VisualElementRenderer_1</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_visual_element_renderer__1_1a42957113957987d17592ba290f118ec5" prot="public" virt="non-virtual"><scope>crc640879981a986d658b::SfGradientViewRenderer</scope><name>VisualElementRenderer_1</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_visual_element_renderer__1_1a92a3ec4e374dfc2f8b16cfccb9b83c7f" prot="public" virt="non-virtual"><scope>crc640879981a986d658b::SfGradientViewRenderer</scope><name>VisualElementRenderer_1</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_visual_element_renderer__1_1a347f18991a486c5b5f1c4dcd83475f21" prot="public" virt="non-virtual"><scope>crc640879981a986d658b::SfGradientViewRenderer</scope><name>VisualElementRenderer_1</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_visual_element_renderer__1_1a42957113957987d17592ba290f118ec5" prot="public" virt="non-virtual"><scope>crc640879981a986d658b::SfGradientViewRenderer</scope><name>VisualElementRenderer_1</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_visual_element_renderer__1_1a92a3ec4e374dfc2f8b16cfccb9b83c7f" prot="public" virt="non-virtual"><scope>crc640879981a986d658b::SfGradientViewRenderer</scope><name>VisualElementRenderer_1</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_visual_element_renderer__1_1a347f18991a486c5b5f1c4dcd83475f21" prot="public" virt="non-virtual"><scope>crc640879981a986d658b::SfGradientViewRenderer</scope><name>VisualElementRenderer_1</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_visual_element_renderer__1_1a42957113957987d17592ba290f118ec5" prot="public" virt="non-virtual"><scope>crc640879981a986d658b::SfGradientViewRenderer</scope><name>VisualElementRenderer_1</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_visual_element_renderer__1_1a92a3ec4e374dfc2f8b16cfccb9b83c7f" prot="public" virt="non-virtual"><scope>crc640879981a986d658b::SfGradientViewRenderer</scope><name>VisualElementRenderer_1</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_visual_element_renderer__1_1a347f18991a486c5b5f1c4dcd83475f21" prot="public" virt="non-virtual"><scope>crc640879981a986d658b::SfGradientViewRenderer</scope><name>VisualElementRenderer_1</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_visual_element_renderer__1_1a42957113957987d17592ba290f118ec5" prot="public" virt="non-virtual"><scope>crc640879981a986d658b::SfGradientViewRenderer</scope><name>VisualElementRenderer_1</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_visual_element_renderer__1_1a92a3ec4e374dfc2f8b16cfccb9b83c7f" prot="public" virt="non-virtual"><scope>crc640879981a986d658b::SfGradientViewRenderer</scope><name>VisualElementRenderer_1</name></member>
+    </listofallmembers>
+  </compounddef>
+</doxygen>

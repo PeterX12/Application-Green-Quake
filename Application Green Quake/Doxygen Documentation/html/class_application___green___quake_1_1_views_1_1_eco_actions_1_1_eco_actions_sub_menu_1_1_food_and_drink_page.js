@@ -1,0 +1,5 @@
+var class_application___green___quake_1_1_views_1_1_eco_actions_1_1_eco_actions_sub_menu_1_1_food_and_drink_page =
+[
+    [ "FoodAndDrinkPage", "class_application___green___quake_1_1_views_1_1_eco_actions_1_1_eco_actions_sub_menu_1_1_food_and_drink_page.html#a983fdb608256b6cdf338f25549efdd32", null ],
+    [ "OnAppearing", "class_application___green___quake_1_1_views_1_1_eco_actions_1_1_eco_actions_sub_menu_1_1_food_and_drink_page.html#a3035ee28478a98583e8a687dad061645", null ]
+];

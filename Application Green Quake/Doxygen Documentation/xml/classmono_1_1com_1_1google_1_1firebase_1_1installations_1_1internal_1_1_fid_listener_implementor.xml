@@ -1,0 +1,532 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.9.1" xml:lang="en-US">
+  <compounddef id="classmono_1_1com_1_1google_1_1firebase_1_1installations_1_1internal_1_1_fid_listener_implementor" kind="class" language="Java" prot="public">
+    <compoundname>mono::com::google::firebase::installations::internal::FidListenerImplementor</compoundname>
+    <basecompoundref prot="public" virt="non-virtual">java.lang.Object</basecompoundref>
+    <basecompoundref prot="public" virt="non-virtual">mono.android.IGCUserPeer</basecompoundref>
+    <basecompoundref prot="public" virt="non-virtual">com.google.firebase.installations.internal.FidListener</basecompoundref>
+    <basecompoundref prot="public" virt="non-virtual">java.lang.Object</basecompoundref>
+    <basecompoundref prot="public" virt="non-virtual">mono.android.IGCUserPeer</basecompoundref>
+    <basecompoundref prot="public" virt="non-virtual">com.google.firebase.installations.internal.FidListener</basecompoundref>
+    <basecompoundref prot="public" virt="non-virtual">java.lang.Object</basecompoundref>
+    <basecompoundref prot="public" virt="non-virtual">mono.android.IGCUserPeer</basecompoundref>
+    <basecompoundref prot="public" virt="non-virtual">com.google.firebase.installations.internal.FidListener</basecompoundref>
+    <basecompoundref prot="public" virt="non-virtual">java.lang.Object</basecompoundref>
+    <basecompoundref prot="public" virt="non-virtual">mono.android.IGCUserPeer</basecompoundref>
+    <basecompoundref prot="public" virt="non-virtual">com.google.firebase.installations.internal.FidListener</basecompoundref>
+      <sectiondef kind="public-static-attrib">
+      <memberdef kind="variable" id="classmono_1_1com_1_1google_1_1firebase_1_1installations_1_1internal_1_1_fid_listener_implementor_1aa76ebd751b132fe78e669e48b5c0ce16" prot="public" static="yes" mutable="no">
+        <type>final String</type>
+        <definition>static final String mono.com.google.firebase.installations.internal.FidListenerImplementor::__md_methods</definition>
+        <argsstring></argsstring>
+        <name>__md_methods</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+<para>@hide </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/100/android/src/mono/com/google/firebase/installations/internal/FidListenerImplementor.java" line="11" column="28" bodyfile="Application Green Quake.Android/obj/Debug/100/android/src/mono/com/google/firebase/installations/internal/FidListenerImplementor.java" bodystart="11" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="private-attrib">
+      <memberdef kind="variable" id="classmono_1_1com_1_1google_1_1firebase_1_1installations_1_1internal_1_1_fid_listener_implementor_1ad7f949f80e30041d96d26efde997fad6" prot="private" static="no" mutable="no">
+        <type>java.util.ArrayList</type>
+        <definition>java util ArrayList mono.com.google.firebase.installations.internal.FidListenerImplementor::refList</definition>
+        <argsstring></argsstring>
+        <name>refList</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/100/android/src/mono/com/google/firebase/installations/internal/FidListenerImplementor.java" line="35" column="27" bodyfile="Application Green Quake.Android/obj/Debug/100/android/src/mono/com/google/firebase/installations/internal/FidListenerImplementor.java" bodystart="35" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="package-static-func">
+      <memberdef kind="function" id="classmono_1_1com_1_1google_1_1firebase_1_1installations_1_1internal_1_1_fid_listener_implementor_1a2e226d51aa44ca3fc37c5a3657cd96b5" prot="package" static="yes" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>mono.com.google.firebase.installations.internal.FidListenerImplementor.[static initializer]</definition>
+        <argsstring></argsstring>
+        <name>[static initializer]</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/100/android/src/mono/com/google/firebase/installations/internal/FidListenerImplementor.java" line="11" column="28"/>
+      </memberdef>
+      <memberdef kind="function" id="classmono_1_1com_1_1google_1_1firebase_1_1installations_1_1internal_1_1_fid_listener_implementor_1a2e226d51aa44ca3fc37c5a3657cd96b5" prot="package" static="yes" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>mono.com.google.firebase.installations.internal.FidListenerImplementor.[static initializer]</definition>
+        <argsstring></argsstring>
+        <name>[static initializer]</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/110/android/src/mono/com/google/firebase/installations/internal/FidListenerImplementor.java" line="11" column="28"/>
+      </memberdef>
+      <memberdef kind="function" id="classmono_1_1com_1_1google_1_1firebase_1_1installations_1_1internal_1_1_fid_listener_implementor_1a2e226d51aa44ca3fc37c5a3657cd96b5" prot="package" static="yes" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>mono.com.google.firebase.installations.internal.FidListenerImplementor.[static initializer]</definition>
+        <argsstring></argsstring>
+        <name>[static initializer]</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/100/android/src/mono/com/google/firebase/installations/internal/FidListenerImplementor.java" line="11" column="28"/>
+      </memberdef>
+      <memberdef kind="function" id="classmono_1_1com_1_1google_1_1firebase_1_1installations_1_1internal_1_1_fid_listener_implementor_1a2e226d51aa44ca3fc37c5a3657cd96b5" prot="package" static="yes" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>mono.com.google.firebase.installations.internal.FidListenerImplementor.[static initializer]</definition>
+        <argsstring></argsstring>
+        <name>[static initializer]</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/110/android/src/mono/com/google/firebase/installations/internal/FidListenerImplementor.java" line="11" column="28"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="public-func">
+      <memberdef kind="function" id="classmono_1_1com_1_1google_1_1firebase_1_1installations_1_1internal_1_1_fid_listener_implementor_1a403c03d6ffdcc2e81fd302d79272b946" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>mono.com.google.firebase.installations.internal.FidListenerImplementor.FidListenerImplementor</definition>
+        <argsstring>()</argsstring>
+        <name>FidListenerImplementor</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/100/android/src/mono/com/google/firebase/installations/internal/FidListenerImplementor.java" line="20" column="8" bodyfile="Application Green Quake.Android/obj/Debug/100/android/src/mono/com/google/firebase/installations/internal/FidListenerImplementor.java" bodystart="20" bodyend="25"/>
+      </memberdef>
+      <memberdef kind="function" id="classmono_1_1com_1_1google_1_1firebase_1_1installations_1_1internal_1_1_fid_listener_implementor_1a2836d0f839f992ae43aaf4f9a1746070" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void mono.com.google.firebase.installations.internal.FidListenerImplementor.onFidChanged</definition>
+        <argsstring>(java.lang.String p0)</argsstring>
+        <name>onFidChanged</name>
+        <param>
+          <type>java.lang.String</type>
+          <declname>p0</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/100/android/src/mono/com/google/firebase/installations/internal/FidListenerImplementor.java" line="28" column="13" bodyfile="Application Green Quake.Android/obj/Debug/100/android/src/mono/com/google/firebase/installations/internal/FidListenerImplementor.java" bodystart="28" bodyend="31"/>
+      </memberdef>
+      <memberdef kind="function" id="classmono_1_1com_1_1google_1_1firebase_1_1installations_1_1internal_1_1_fid_listener_implementor_1add158c81765e5c7302ae30fb0d0e8b86" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void mono.com.google.firebase.installations.internal.FidListenerImplementor.monodroidAddReference</definition>
+        <argsstring>(java.lang.Object obj)</argsstring>
+        <name>monodroidAddReference</name>
+        <param>
+          <type>java.lang.Object</type>
+          <declname>obj</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/100/android/src/mono/com/google/firebase/installations/internal/FidListenerImplementor.java" line="36" column="13" bodyfile="Application Green Quake.Android/obj/Debug/100/android/src/mono/com/google/firebase/installations/internal/FidListenerImplementor.java" bodystart="36" bodyend="41"/>
+      </memberdef>
+      <memberdef kind="function" id="classmono_1_1com_1_1google_1_1firebase_1_1installations_1_1internal_1_1_fid_listener_implementor_1a314df9bc81f90bebfd9a4fe0c1da7d6b" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void mono.com.google.firebase.installations.internal.FidListenerImplementor.monodroidClearReferences</definition>
+        <argsstring>()</argsstring>
+        <name>monodroidClearReferences</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/100/android/src/mono/com/google/firebase/installations/internal/FidListenerImplementor.java" line="43" column="13" bodyfile="Application Green Quake.Android/obj/Debug/100/android/src/mono/com/google/firebase/installations/internal/FidListenerImplementor.java" bodystart="43" bodyend="47"/>
+      </memberdef>
+      <memberdef kind="function" id="classmono_1_1com_1_1google_1_1firebase_1_1installations_1_1internal_1_1_fid_listener_implementor_1a403c03d6ffdcc2e81fd302d79272b946" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>mono.com.google.firebase.installations.internal.FidListenerImplementor.FidListenerImplementor</definition>
+        <argsstring>()</argsstring>
+        <name>FidListenerImplementor</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/110/android/src/mono/com/google/firebase/installations/internal/FidListenerImplementor.java" line="20" column="8" bodyfile="Application Green Quake.Android/obj/Debug/110/android/src/mono/com/google/firebase/installations/internal/FidListenerImplementor.java" bodystart="20" bodyend="25"/>
+      </memberdef>
+      <memberdef kind="function" id="classmono_1_1com_1_1google_1_1firebase_1_1installations_1_1internal_1_1_fid_listener_implementor_1a2836d0f839f992ae43aaf4f9a1746070" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void mono.com.google.firebase.installations.internal.FidListenerImplementor.onFidChanged</definition>
+        <argsstring>(java.lang.String p0)</argsstring>
+        <name>onFidChanged</name>
+        <param>
+          <type>java.lang.String</type>
+          <declname>p0</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/110/android/src/mono/com/google/firebase/installations/internal/FidListenerImplementor.java" line="28" column="13" bodyfile="Application Green Quake.Android/obj/Debug/110/android/src/mono/com/google/firebase/installations/internal/FidListenerImplementor.java" bodystart="28" bodyend="31"/>
+      </memberdef>
+      <memberdef kind="function" id="classmono_1_1com_1_1google_1_1firebase_1_1installations_1_1internal_1_1_fid_listener_implementor_1add158c81765e5c7302ae30fb0d0e8b86" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void mono.com.google.firebase.installations.internal.FidListenerImplementor.monodroidAddReference</definition>
+        <argsstring>(java.lang.Object obj)</argsstring>
+        <name>monodroidAddReference</name>
+        <param>
+          <type>java.lang.Object</type>
+          <declname>obj</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/110/android/src/mono/com/google/firebase/installations/internal/FidListenerImplementor.java" line="36" column="13" bodyfile="Application Green Quake.Android/obj/Debug/110/android/src/mono/com/google/firebase/installations/internal/FidListenerImplementor.java" bodystart="36" bodyend="41"/>
+      </memberdef>
+      <memberdef kind="function" id="classmono_1_1com_1_1google_1_1firebase_1_1installations_1_1internal_1_1_fid_listener_implementor_1a314df9bc81f90bebfd9a4fe0c1da7d6b" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void mono.com.google.firebase.installations.internal.FidListenerImplementor.monodroidClearReferences</definition>
+        <argsstring>()</argsstring>
+        <name>monodroidClearReferences</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/110/android/src/mono/com/google/firebase/installations/internal/FidListenerImplementor.java" line="43" column="13" bodyfile="Application Green Quake.Android/obj/Debug/110/android/src/mono/com/google/firebase/installations/internal/FidListenerImplementor.java" bodystart="43" bodyend="47"/>
+      </memberdef>
+      <memberdef kind="function" id="classmono_1_1com_1_1google_1_1firebase_1_1installations_1_1internal_1_1_fid_listener_implementor_1a403c03d6ffdcc2e81fd302d79272b946" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>mono.com.google.firebase.installations.internal.FidListenerImplementor.FidListenerImplementor</definition>
+        <argsstring>()</argsstring>
+        <name>FidListenerImplementor</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/100/android/src/mono/com/google/firebase/installations/internal/FidListenerImplementor.java" line="20" column="8" bodyfile="Application Green Quake.Android/obj/Release/100/android/src/mono/com/google/firebase/installations/internal/FidListenerImplementor.java" bodystart="20" bodyend="25"/>
+      </memberdef>
+      <memberdef kind="function" id="classmono_1_1com_1_1google_1_1firebase_1_1installations_1_1internal_1_1_fid_listener_implementor_1a2836d0f839f992ae43aaf4f9a1746070" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void mono.com.google.firebase.installations.internal.FidListenerImplementor.onFidChanged</definition>
+        <argsstring>(java.lang.String p0)</argsstring>
+        <name>onFidChanged</name>
+        <param>
+          <type>java.lang.String</type>
+          <declname>p0</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/100/android/src/mono/com/google/firebase/installations/internal/FidListenerImplementor.java" line="28" column="13" bodyfile="Application Green Quake.Android/obj/Release/100/android/src/mono/com/google/firebase/installations/internal/FidListenerImplementor.java" bodystart="28" bodyend="31"/>
+      </memberdef>
+      <memberdef kind="function" id="classmono_1_1com_1_1google_1_1firebase_1_1installations_1_1internal_1_1_fid_listener_implementor_1add158c81765e5c7302ae30fb0d0e8b86" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void mono.com.google.firebase.installations.internal.FidListenerImplementor.monodroidAddReference</definition>
+        <argsstring>(java.lang.Object obj)</argsstring>
+        <name>monodroidAddReference</name>
+        <param>
+          <type>java.lang.Object</type>
+          <declname>obj</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/100/android/src/mono/com/google/firebase/installations/internal/FidListenerImplementor.java" line="36" column="13" bodyfile="Application Green Quake.Android/obj/Release/100/android/src/mono/com/google/firebase/installations/internal/FidListenerImplementor.java" bodystart="36" bodyend="41"/>
+      </memberdef>
+      <memberdef kind="function" id="classmono_1_1com_1_1google_1_1firebase_1_1installations_1_1internal_1_1_fid_listener_implementor_1a314df9bc81f90bebfd9a4fe0c1da7d6b" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void mono.com.google.firebase.installations.internal.FidListenerImplementor.monodroidClearReferences</definition>
+        <argsstring>()</argsstring>
+        <name>monodroidClearReferences</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/100/android/src/mono/com/google/firebase/installations/internal/FidListenerImplementor.java" line="43" column="13" bodyfile="Application Green Quake.Android/obj/Release/100/android/src/mono/com/google/firebase/installations/internal/FidListenerImplementor.java" bodystart="43" bodyend="47"/>
+      </memberdef>
+      <memberdef kind="function" id="classmono_1_1com_1_1google_1_1firebase_1_1installations_1_1internal_1_1_fid_listener_implementor_1a403c03d6ffdcc2e81fd302d79272b946" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>mono.com.google.firebase.installations.internal.FidListenerImplementor.FidListenerImplementor</definition>
+        <argsstring>()</argsstring>
+        <name>FidListenerImplementor</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/110/android/src/mono/com/google/firebase/installations/internal/FidListenerImplementor.java" line="20" column="8" bodyfile="Application Green Quake.Android/obj/Release/110/android/src/mono/com/google/firebase/installations/internal/FidListenerImplementor.java" bodystart="20" bodyend="25"/>
+      </memberdef>
+      <memberdef kind="function" id="classmono_1_1com_1_1google_1_1firebase_1_1installations_1_1internal_1_1_fid_listener_implementor_1a2836d0f839f992ae43aaf4f9a1746070" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void mono.com.google.firebase.installations.internal.FidListenerImplementor.onFidChanged</definition>
+        <argsstring>(java.lang.String p0)</argsstring>
+        <name>onFidChanged</name>
+        <param>
+          <type>java.lang.String</type>
+          <declname>p0</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/110/android/src/mono/com/google/firebase/installations/internal/FidListenerImplementor.java" line="28" column="13" bodyfile="Application Green Quake.Android/obj/Release/110/android/src/mono/com/google/firebase/installations/internal/FidListenerImplementor.java" bodystart="28" bodyend="31"/>
+      </memberdef>
+      <memberdef kind="function" id="classmono_1_1com_1_1google_1_1firebase_1_1installations_1_1internal_1_1_fid_listener_implementor_1add158c81765e5c7302ae30fb0d0e8b86" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void mono.com.google.firebase.installations.internal.FidListenerImplementor.monodroidAddReference</definition>
+        <argsstring>(java.lang.Object obj)</argsstring>
+        <name>monodroidAddReference</name>
+        <param>
+          <type>java.lang.Object</type>
+          <declname>obj</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/110/android/src/mono/com/google/firebase/installations/internal/FidListenerImplementor.java" line="36" column="13" bodyfile="Application Green Quake.Android/obj/Release/110/android/src/mono/com/google/firebase/installations/internal/FidListenerImplementor.java" bodystart="36" bodyend="41"/>
+      </memberdef>
+      <memberdef kind="function" id="classmono_1_1com_1_1google_1_1firebase_1_1installations_1_1internal_1_1_fid_listener_implementor_1a314df9bc81f90bebfd9a4fe0c1da7d6b" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void mono.com.google.firebase.installations.internal.FidListenerImplementor.monodroidClearReferences</definition>
+        <argsstring>()</argsstring>
+        <name>monodroidClearReferences</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/110/android/src/mono/com/google/firebase/installations/internal/FidListenerImplementor.java" line="43" column="13" bodyfile="Application Green Quake.Android/obj/Release/110/android/src/mono/com/google/firebase/installations/internal/FidListenerImplementor.java" bodystart="43" bodyend="47"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="private-func">
+      <memberdef kind="function" id="classmono_1_1com_1_1google_1_1firebase_1_1installations_1_1internal_1_1_fid_listener_implementor_1a3ac9604b6897052f7fc2495bff88248b" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>native void</type>
+        <definition>native void mono.com.google.firebase.installations.internal.FidListenerImplementor.n_onFidChanged</definition>
+        <argsstring>(java.lang.String p0)</argsstring>
+        <name>n_onFidChanged</name>
+        <param>
+          <type>java.lang.String</type>
+          <declname>p0</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/100/android/src/mono/com/google/firebase/installations/internal/FidListenerImplementor.java" line="33" column="21"/>
+      </memberdef>
+      <memberdef kind="function" id="classmono_1_1com_1_1google_1_1firebase_1_1installations_1_1internal_1_1_fid_listener_implementor_1a3ac9604b6897052f7fc2495bff88248b" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>native void</type>
+        <definition>native void mono.com.google.firebase.installations.internal.FidListenerImplementor.n_onFidChanged</definition>
+        <argsstring>(java.lang.String p0)</argsstring>
+        <name>n_onFidChanged</name>
+        <param>
+          <type>java.lang.String</type>
+          <declname>p0</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/110/android/src/mono/com/google/firebase/installations/internal/FidListenerImplementor.java" line="33" column="21"/>
+      </memberdef>
+      <memberdef kind="function" id="classmono_1_1com_1_1google_1_1firebase_1_1installations_1_1internal_1_1_fid_listener_implementor_1a3ac9604b6897052f7fc2495bff88248b" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>native void</type>
+        <definition>native void mono.com.google.firebase.installations.internal.FidListenerImplementor.n_onFidChanged</definition>
+        <argsstring>(java.lang.String p0)</argsstring>
+        <name>n_onFidChanged</name>
+        <param>
+          <type>java.lang.String</type>
+          <declname>p0</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/100/android/src/mono/com/google/firebase/installations/internal/FidListenerImplementor.java" line="33" column="21"/>
+      </memberdef>
+      <memberdef kind="function" id="classmono_1_1com_1_1google_1_1firebase_1_1installations_1_1internal_1_1_fid_listener_implementor_1a3ac9604b6897052f7fc2495bff88248b" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>native void</type>
+        <definition>native void mono.com.google.firebase.installations.internal.FidListenerImplementor.n_onFidChanged</definition>
+        <argsstring>(java.lang.String p0)</argsstring>
+        <name>n_onFidChanged</name>
+        <param>
+          <type>java.lang.String</type>
+          <declname>p0</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/110/android/src/mono/com/google/firebase/installations/internal/FidListenerImplementor.java" line="33" column="21"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <inheritancegraph>
+      <node id="3">
+        <label>mono.android.IGCUserPeer</label>
+      </node>
+      <node id="2">
+        <label>java.lang.Object</label>
+      </node>
+      <node id="5">
+        <label>com.google.firebase.installations.internal.FidListener</label>
+      </node>
+      <node id="1">
+        <label>mono.com.google.firebase.installations.internal.FidListenerImplementor</label>
+        <link refid="classmono_1_1com_1_1google_1_1firebase_1_1installations_1_1internal_1_1_fid_listener_implementor"/>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+        <childnode refid="3" relation="public-inheritance">
+        </childnode>
+        <childnode refid="4" relation="public-inheritance">
+        </childnode>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+        <childnode refid="3" relation="public-inheritance">
+        </childnode>
+        <childnode refid="5" relation="public-inheritance">
+        </childnode>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+        <childnode refid="3" relation="public-inheritance">
+        </childnode>
+        <childnode refid="5" relation="public-inheritance">
+        </childnode>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+        <childnode refid="3" relation="public-inheritance">
+        </childnode>
+        <childnode refid="5" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="4">
+        <label>com::google::firebase::installations::internal::FidListener</label>
+      </node>
+    </inheritancegraph>
+    <collaborationgraph>
+      <node id="3">
+        <label>mono.android.IGCUserPeer</label>
+      </node>
+      <node id="2">
+        <label>java.lang.Object</label>
+      </node>
+      <node id="5">
+        <label>com.google.firebase.installations.internal.FidListener</label>
+      </node>
+      <node id="1">
+        <label>mono.com.google.firebase.installations.internal.FidListenerImplementor</label>
+        <link refid="classmono_1_1com_1_1google_1_1firebase_1_1installations_1_1internal_1_1_fid_listener_implementor"/>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+        <childnode refid="3" relation="public-inheritance">
+        </childnode>
+        <childnode refid="4" relation="public-inheritance">
+        </childnode>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+        <childnode refid="3" relation="public-inheritance">
+        </childnode>
+        <childnode refid="5" relation="public-inheritance">
+        </childnode>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+        <childnode refid="3" relation="public-inheritance">
+        </childnode>
+        <childnode refid="5" relation="public-inheritance">
+        </childnode>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+        <childnode refid="3" relation="public-inheritance">
+        </childnode>
+        <childnode refid="5" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="4">
+        <label>com::google::firebase::installations::internal::FidListener</label>
+      </node>
+    </collaborationgraph>
+    <location file="Application Green Quake.Android/obj/Debug/100/android/src/mono/com/google/firebase/installations/internal/FidListenerImplementor.java" line="4" column="7" bodyfile="Application Green Quake.Android/obj/Debug/100/android/src/mono/com/google/firebase/installations/internal/FidListenerImplementor.java" bodystart="9" bodyend="48"/>
+    <listofallmembers>
+      <member refid="classmono_1_1com_1_1google_1_1firebase_1_1installations_1_1internal_1_1_fid_listener_implementor_1a2e226d51aa44ca3fc37c5a3657cd96b5" prot="package" virt="non-virtual"><scope>mono::com::google::firebase::installations::internal::FidListenerImplementor</scope><name>[static initializer]</name></member>
+      <member refid="classmono_1_1com_1_1google_1_1firebase_1_1installations_1_1internal_1_1_fid_listener_implementor_1a2e226d51aa44ca3fc37c5a3657cd96b5" prot="package" virt="non-virtual"><scope>mono::com::google::firebase::installations::internal::FidListenerImplementor</scope><name>[static initializer]</name></member>
+      <member refid="classmono_1_1com_1_1google_1_1firebase_1_1installations_1_1internal_1_1_fid_listener_implementor_1a2e226d51aa44ca3fc37c5a3657cd96b5" prot="package" virt="non-virtual"><scope>mono::com::google::firebase::installations::internal::FidListenerImplementor</scope><name>[static initializer]</name></member>
+      <member refid="classmono_1_1com_1_1google_1_1firebase_1_1installations_1_1internal_1_1_fid_listener_implementor_1a2e226d51aa44ca3fc37c5a3657cd96b5" prot="package" virt="non-virtual"><scope>mono::com::google::firebase::installations::internal::FidListenerImplementor</scope><name>[static initializer]</name></member>
+      <member refid="classmono_1_1com_1_1google_1_1firebase_1_1installations_1_1internal_1_1_fid_listener_implementor_1aa76ebd751b132fe78e669e48b5c0ce16" prot="public" virt="non-virtual"><scope>mono::com::google::firebase::installations::internal::FidListenerImplementor</scope><name>__md_methods</name></member>
+      <member refid="classmono_1_1com_1_1google_1_1firebase_1_1installations_1_1internal_1_1_fid_listener_implementor_1a403c03d6ffdcc2e81fd302d79272b946" prot="public" virt="non-virtual"><scope>mono::com::google::firebase::installations::internal::FidListenerImplementor</scope><name>FidListenerImplementor</name></member>
+      <member refid="classmono_1_1com_1_1google_1_1firebase_1_1installations_1_1internal_1_1_fid_listener_implementor_1a403c03d6ffdcc2e81fd302d79272b946" prot="public" virt="non-virtual"><scope>mono::com::google::firebase::installations::internal::FidListenerImplementor</scope><name>FidListenerImplementor</name></member>
+      <member refid="classmono_1_1com_1_1google_1_1firebase_1_1installations_1_1internal_1_1_fid_listener_implementor_1a403c03d6ffdcc2e81fd302d79272b946" prot="public" virt="non-virtual"><scope>mono::com::google::firebase::installations::internal::FidListenerImplementor</scope><name>FidListenerImplementor</name></member>
+      <member refid="classmono_1_1com_1_1google_1_1firebase_1_1installations_1_1internal_1_1_fid_listener_implementor_1a403c03d6ffdcc2e81fd302d79272b946" prot="public" virt="non-virtual"><scope>mono::com::google::firebase::installations::internal::FidListenerImplementor</scope><name>FidListenerImplementor</name></member>
+      <member refid="classmono_1_1com_1_1google_1_1firebase_1_1installations_1_1internal_1_1_fid_listener_implementor_1add158c81765e5c7302ae30fb0d0e8b86" prot="public" virt="non-virtual"><scope>mono::com::google::firebase::installations::internal::FidListenerImplementor</scope><name>monodroidAddReference</name></member>
+      <member refid="classmono_1_1com_1_1google_1_1firebase_1_1installations_1_1internal_1_1_fid_listener_implementor_1add158c81765e5c7302ae30fb0d0e8b86" prot="public" virt="non-virtual"><scope>mono::com::google::firebase::installations::internal::FidListenerImplementor</scope><name>monodroidAddReference</name></member>
+      <member refid="classmono_1_1com_1_1google_1_1firebase_1_1installations_1_1internal_1_1_fid_listener_implementor_1add158c81765e5c7302ae30fb0d0e8b86" prot="public" virt="non-virtual"><scope>mono::com::google::firebase::installations::internal::FidListenerImplementor</scope><name>monodroidAddReference</name></member>
+      <member refid="classmono_1_1com_1_1google_1_1firebase_1_1installations_1_1internal_1_1_fid_listener_implementor_1add158c81765e5c7302ae30fb0d0e8b86" prot="public" virt="non-virtual"><scope>mono::com::google::firebase::installations::internal::FidListenerImplementor</scope><name>monodroidAddReference</name></member>
+      <member refid="classmono_1_1com_1_1google_1_1firebase_1_1installations_1_1internal_1_1_fid_listener_implementor_1a314df9bc81f90bebfd9a4fe0c1da7d6b" prot="public" virt="non-virtual"><scope>mono::com::google::firebase::installations::internal::FidListenerImplementor</scope><name>monodroidClearReferences</name></member>
+      <member refid="classmono_1_1com_1_1google_1_1firebase_1_1installations_1_1internal_1_1_fid_listener_implementor_1a314df9bc81f90bebfd9a4fe0c1da7d6b" prot="public" virt="non-virtual"><scope>mono::com::google::firebase::installations::internal::FidListenerImplementor</scope><name>monodroidClearReferences</name></member>
+      <member refid="classmono_1_1com_1_1google_1_1firebase_1_1installations_1_1internal_1_1_fid_listener_implementor_1a314df9bc81f90bebfd9a4fe0c1da7d6b" prot="public" virt="non-virtual"><scope>mono::com::google::firebase::installations::internal::FidListenerImplementor</scope><name>monodroidClearReferences</name></member>
+      <member refid="classmono_1_1com_1_1google_1_1firebase_1_1installations_1_1internal_1_1_fid_listener_implementor_1a314df9bc81f90bebfd9a4fe0c1da7d6b" prot="public" virt="non-virtual"><scope>mono::com::google::firebase::installations::internal::FidListenerImplementor</scope><name>monodroidClearReferences</name></member>
+      <member refid="classmono_1_1com_1_1google_1_1firebase_1_1installations_1_1internal_1_1_fid_listener_implementor_1a3ac9604b6897052f7fc2495bff88248b" prot="private" virt="non-virtual"><scope>mono::com::google::firebase::installations::internal::FidListenerImplementor</scope><name>n_onFidChanged</name></member>
+      <member refid="classmono_1_1com_1_1google_1_1firebase_1_1installations_1_1internal_1_1_fid_listener_implementor_1a3ac9604b6897052f7fc2495bff88248b" prot="private" virt="non-virtual"><scope>mono::com::google::firebase::installations::internal::FidListenerImplementor</scope><name>n_onFidChanged</name></member>
+      <member refid="classmono_1_1com_1_1google_1_1firebase_1_1installations_1_1internal_1_1_fid_listener_implementor_1a3ac9604b6897052f7fc2495bff88248b" prot="private" virt="non-virtual"><scope>mono::com::google::firebase::installations::internal::FidListenerImplementor</scope><name>n_onFidChanged</name></member>
+      <member refid="classmono_1_1com_1_1google_1_1firebase_1_1installations_1_1internal_1_1_fid_listener_implementor_1a3ac9604b6897052f7fc2495bff88248b" prot="private" virt="non-virtual"><scope>mono::com::google::firebase::installations::internal::FidListenerImplementor</scope><name>n_onFidChanged</name></member>
+      <member refid="classmono_1_1com_1_1google_1_1firebase_1_1installations_1_1internal_1_1_fid_listener_implementor_1a2836d0f839f992ae43aaf4f9a1746070" prot="public" virt="non-virtual"><scope>mono::com::google::firebase::installations::internal::FidListenerImplementor</scope><name>onFidChanged</name></member>
+      <member refid="classmono_1_1com_1_1google_1_1firebase_1_1installations_1_1internal_1_1_fid_listener_implementor_1a2836d0f839f992ae43aaf4f9a1746070" prot="public" virt="non-virtual"><scope>mono::com::google::firebase::installations::internal::FidListenerImplementor</scope><name>onFidChanged</name></member>
+      <member refid="classmono_1_1com_1_1google_1_1firebase_1_1installations_1_1internal_1_1_fid_listener_implementor_1a2836d0f839f992ae43aaf4f9a1746070" prot="public" virt="non-virtual"><scope>mono::com::google::firebase::installations::internal::FidListenerImplementor</scope><name>onFidChanged</name></member>
+      <member refid="classmono_1_1com_1_1google_1_1firebase_1_1installations_1_1internal_1_1_fid_listener_implementor_1a2836d0f839f992ae43aaf4f9a1746070" prot="public" virt="non-virtual"><scope>mono::com::google::firebase::installations::internal::FidListenerImplementor</scope><name>onFidChanged</name></member>
+      <member refid="classmono_1_1com_1_1google_1_1firebase_1_1installations_1_1internal_1_1_fid_listener_implementor_1ad7f949f80e30041d96d26efde997fad6" prot="private" virt="non-virtual"><scope>mono::com::google::firebase::installations::internal::FidListenerImplementor</scope><name>refList</name></member>
+    </listofallmembers>
+  </compounddef>
+</doxygen>

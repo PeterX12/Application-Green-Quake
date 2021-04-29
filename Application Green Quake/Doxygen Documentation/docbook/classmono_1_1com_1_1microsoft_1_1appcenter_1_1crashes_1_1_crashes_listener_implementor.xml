@@ -1,0 +1,206 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<section xmlns="http://docbook.org/ns/docbook" version="5.0" xmlns:xlink="http://www.w3.org/1999/xlink" xml:id="_classmono_1_1com_1_1microsoft_1_1appcenter_1_1crashes_1_1_crashes_listener_implementor" xml:lang="en-US">
+<title>mono.com.microsoft.appcenter.crashes.CrashesListenerImplementor Class Reference</title>
+<indexterm><primary>mono.com.microsoft.appcenter.crashes.CrashesListenerImplementor</primary></indexterm>
+Inheritance diagram for mono.com.microsoft.appcenter.crashes.CrashesListenerImplementor:<para>
+    <informalfigure>
+        <mediaobject>
+            <imageobject>
+                <imagedata width="50%" align="center" valign="middle" scalefit="0" fileref="classmono_1_1com_1_1microsoft_1_1appcenter_1_1crashes_1_1_crashes_listener_implementor__inherit__graph.png"></imagedata>
+            </imageobject>
+        </mediaobject>
+    </informalfigure>
+</para>
+Collaboration diagram for mono.com.microsoft.appcenter.crashes.CrashesListenerImplementor:<para>
+    <informalfigure>
+        <mediaobject>
+            <imageobject>
+                <imagedata width="50%" align="center" valign="middle" scalefit="0" fileref="classmono_1_1com_1_1microsoft_1_1appcenter_1_1crashes_1_1_crashes_listener_implementor__coll__graph.png"></imagedata>
+            </imageobject>
+        </mediaobject>
+    </informalfigure>
+</para>
+<simplesect>
+    <title>Public Member Functions    </title>
+        <itemizedlist>
+            <listitem><para><link linkend="_classmono_1_1com_1_1microsoft_1_1appcenter_1_1crashes_1_1_crashes_listener_implementor_1ae745340497811487f817172d69a2cb6d">CrashesListenerImplementor</link> ()</para>
+</listitem>
+            <listitem><para>java.lang.Iterable <link linkend="_classmono_1_1com_1_1microsoft_1_1appcenter_1_1crashes_1_1_crashes_listener_implementor_1a9c5161d49cc8f425a55b3bc2040b08a5">getErrorAttachments</link> (com.microsoft.appcenter.crashes.model.ErrorReport p0)</para>
+</listitem>
+            <listitem><para>void <link linkend="_classmono_1_1com_1_1microsoft_1_1appcenter_1_1crashes_1_1_crashes_listener_implementor_1ae23ff0cdac08e989b45da1c03447cc27">onBeforeSending</link> (com.microsoft.appcenter.crashes.model.ErrorReport p0)</para>
+</listitem>
+            <listitem><para>void <link linkend="_classmono_1_1com_1_1microsoft_1_1appcenter_1_1crashes_1_1_crashes_listener_implementor_1a5a1478d9f4cd14750c0b8026fc9d8e1b">onSendingFailed</link> (com.microsoft.appcenter.crashes.model.ErrorReport p0, java.lang.Exception p1)</para>
+</listitem>
+            <listitem><para>void <link linkend="_classmono_1_1com_1_1microsoft_1_1appcenter_1_1crashes_1_1_crashes_listener_implementor_1a9faff7480a7d2a164ff59584f66df38e">onSendingSucceeded</link> (com.microsoft.appcenter.crashes.model.ErrorReport p0)</para>
+</listitem>
+            <listitem><para>boolean <link linkend="_classmono_1_1com_1_1microsoft_1_1appcenter_1_1crashes_1_1_crashes_listener_implementor_1a66ae3705e8a51d049f499b6084f37edc">shouldAwaitUserConfirmation</link> ()</para>
+</listitem>
+            <listitem><para>boolean <link linkend="_classmono_1_1com_1_1microsoft_1_1appcenter_1_1crashes_1_1_crashes_listener_implementor_1a9ac31bf72453062181e99502e2e8f5d8">shouldProcess</link> (com.microsoft.appcenter.crashes.model.ErrorReport p0)</para>
+</listitem>
+            <listitem><para>void <link linkend="_classmono_1_1com_1_1microsoft_1_1appcenter_1_1crashes_1_1_crashes_listener_implementor_1a6682809d67059749d3147e35671c7866">monodroidAddReference</link> (java.lang.Object obj)</para>
+</listitem>
+            <listitem><para>void <link linkend="_classmono_1_1com_1_1microsoft_1_1appcenter_1_1crashes_1_1_crashes_listener_implementor_1a932b2082ce52b2061cd88fdcda18324c">monodroidClearReferences</link> ()</para>
+</listitem>
+            <listitem><para><link linkend="_classmono_1_1com_1_1microsoft_1_1appcenter_1_1crashes_1_1_crashes_listener_implementor_1ae745340497811487f817172d69a2cb6d">CrashesListenerImplementor</link> ()</para>
+</listitem>
+            <listitem><para>java.lang.Iterable <link linkend="_classmono_1_1com_1_1microsoft_1_1appcenter_1_1crashes_1_1_crashes_listener_implementor_1a9c5161d49cc8f425a55b3bc2040b08a5">getErrorAttachments</link> (com.microsoft.appcenter.crashes.model.ErrorReport p0)</para>
+</listitem>
+            <listitem><para>void <link linkend="_classmono_1_1com_1_1microsoft_1_1appcenter_1_1crashes_1_1_crashes_listener_implementor_1ae23ff0cdac08e989b45da1c03447cc27">onBeforeSending</link> (com.microsoft.appcenter.crashes.model.ErrorReport p0)</para>
+</listitem>
+            <listitem><para>void <link linkend="_classmono_1_1com_1_1microsoft_1_1appcenter_1_1crashes_1_1_crashes_listener_implementor_1a5a1478d9f4cd14750c0b8026fc9d8e1b">onSendingFailed</link> (com.microsoft.appcenter.crashes.model.ErrorReport p0, java.lang.Exception p1)</para>
+</listitem>
+            <listitem><para>void <link linkend="_classmono_1_1com_1_1microsoft_1_1appcenter_1_1crashes_1_1_crashes_listener_implementor_1a9faff7480a7d2a164ff59584f66df38e">onSendingSucceeded</link> (com.microsoft.appcenter.crashes.model.ErrorReport p0)</para>
+</listitem>
+            <listitem><para>boolean <link linkend="_classmono_1_1com_1_1microsoft_1_1appcenter_1_1crashes_1_1_crashes_listener_implementor_1a66ae3705e8a51d049f499b6084f37edc">shouldAwaitUserConfirmation</link> ()</para>
+</listitem>
+            <listitem><para>boolean <link linkend="_classmono_1_1com_1_1microsoft_1_1appcenter_1_1crashes_1_1_crashes_listener_implementor_1a9ac31bf72453062181e99502e2e8f5d8">shouldProcess</link> (com.microsoft.appcenter.crashes.model.ErrorReport p0)</para>
+</listitem>
+            <listitem><para>void <link linkend="_classmono_1_1com_1_1microsoft_1_1appcenter_1_1crashes_1_1_crashes_listener_implementor_1a6682809d67059749d3147e35671c7866">monodroidAddReference</link> (java.lang.Object obj)</para>
+</listitem>
+            <listitem><para>void <link linkend="_classmono_1_1com_1_1microsoft_1_1appcenter_1_1crashes_1_1_crashes_listener_implementor_1a932b2082ce52b2061cd88fdcda18324c">monodroidClearReferences</link> ()</para>
+</listitem>
+        </itemizedlist>
+</simplesect>
+<simplesect>
+    <title>Static Public Attributes    </title>
+        <itemizedlist>
+            <listitem><para>static final String <link linkend="_classmono_1_1com_1_1microsoft_1_1appcenter_1_1crashes_1_1_crashes_listener_implementor_1adfac6899da401f27007a7512c567cfbb">__md_methods</link></para>
+</listitem>
+        </itemizedlist>
+</simplesect>
+<section>
+<title>Detailed Description</title>
+<para>
+Definition at line 4 of file CrashesListenerImplementor.java.</para>
+</section>
+<section>
+<title>Constructor &amp; Destructor Documentation</title>
+<anchor xml:id="_classmono_1_1com_1_1microsoft_1_1appcenter_1_1crashes_1_1_crashes_listener_implementor_1ae745340497811487f817172d69a2cb6d"/>    <section>
+    <title>CrashesListenerImplementor()<computeroutput>[1/2]</computeroutput></title>
+<indexterm><primary>CrashesListenerImplementor</primary><secondary>mono.com.microsoft.appcenter.crashes.CrashesListenerImplementor</secondary></indexterm>
+<indexterm><primary>mono.com.microsoft.appcenter.crashes.CrashesListenerImplementor</primary><secondary>CrashesListenerImplementor</secondary></indexterm>
+<para><computeroutput>mono.com.microsoft.appcenter.crashes.CrashesListenerImplementor.CrashesListenerImplementor ( )</computeroutput></para><para>
+Definition at line 25 of file CrashesListenerImplementor.java.</para>
+    </section><anchor xml:id="_classmono_1_1com_1_1microsoft_1_1appcenter_1_1crashes_1_1_crashes_listener_implementor_1ae745340497811487f817172d69a2cb6d"/>    <section>
+    <title>CrashesListenerImplementor()<computeroutput>[2/2]</computeroutput></title>
+<indexterm><primary>CrashesListenerImplementor</primary><secondary>mono.com.microsoft.appcenter.crashes.CrashesListenerImplementor</secondary></indexterm>
+<indexterm><primary>mono.com.microsoft.appcenter.crashes.CrashesListenerImplementor</primary><secondary>CrashesListenerImplementor</secondary></indexterm>
+<para><computeroutput>mono.com.microsoft.appcenter.crashes.CrashesListenerImplementor.CrashesListenerImplementor ( )</computeroutput></para><para>
+Definition at line 25 of file CrashesListenerImplementor.java.</para>
+</section>
+</section>
+<section>
+<title>Member Function Documentation</title>
+<anchor xml:id="_classmono_1_1com_1_1microsoft_1_1appcenter_1_1crashes_1_1_crashes_listener_implementor_1a9c5161d49cc8f425a55b3bc2040b08a5"/>    <section>
+    <title>getErrorAttachments()<computeroutput>[1/2]</computeroutput></title>
+<indexterm><primary>getErrorAttachments</primary><secondary>mono.com.microsoft.appcenter.crashes.CrashesListenerImplementor</secondary></indexterm>
+<indexterm><primary>mono.com.microsoft.appcenter.crashes.CrashesListenerImplementor</primary><secondary>getErrorAttachments</secondary></indexterm>
+<para><computeroutput>java.lang.Iterable mono.com.microsoft.appcenter.crashes.CrashesListenerImplementor.getErrorAttachments (com.microsoft.appcenter.crashes.model.ErrorReport p0)</computeroutput></para><para>
+Definition at line 33 of file CrashesListenerImplementor.java.</para>
+    </section><anchor xml:id="_classmono_1_1com_1_1microsoft_1_1appcenter_1_1crashes_1_1_crashes_listener_implementor_1a9c5161d49cc8f425a55b3bc2040b08a5"/>    <section>
+    <title>getErrorAttachments()<computeroutput>[2/2]</computeroutput></title>
+<indexterm><primary>getErrorAttachments</primary><secondary>mono.com.microsoft.appcenter.crashes.CrashesListenerImplementor</secondary></indexterm>
+<indexterm><primary>mono.com.microsoft.appcenter.crashes.CrashesListenerImplementor</primary><secondary>getErrorAttachments</secondary></indexterm>
+<para><computeroutput>java.lang.Iterable mono.com.microsoft.appcenter.crashes.CrashesListenerImplementor.getErrorAttachments (com.microsoft.appcenter.crashes.model.ErrorReport p0)</computeroutput></para><para>
+Definition at line 33 of file CrashesListenerImplementor.java.</para>
+    </section><anchor xml:id="_classmono_1_1com_1_1microsoft_1_1appcenter_1_1crashes_1_1_crashes_listener_implementor_1a6682809d67059749d3147e35671c7866"/>    <section>
+    <title>monodroidAddReference()<computeroutput>[1/2]</computeroutput></title>
+<indexterm><primary>monodroidAddReference</primary><secondary>mono.com.microsoft.appcenter.crashes.CrashesListenerImplementor</secondary></indexterm>
+<indexterm><primary>mono.com.microsoft.appcenter.crashes.CrashesListenerImplementor</primary><secondary>monodroidAddReference</secondary></indexterm>
+<para><computeroutput>void mono.com.microsoft.appcenter.crashes.CrashesListenerImplementor.monodroidAddReference (java.lang.Object obj)</computeroutput></para><para>
+Definition at line 81 of file CrashesListenerImplementor.java.</para>
+    </section><anchor xml:id="_classmono_1_1com_1_1microsoft_1_1appcenter_1_1crashes_1_1_crashes_listener_implementor_1a6682809d67059749d3147e35671c7866"/>    <section>
+    <title>monodroidAddReference()<computeroutput>[2/2]</computeroutput></title>
+<indexterm><primary>monodroidAddReference</primary><secondary>mono.com.microsoft.appcenter.crashes.CrashesListenerImplementor</secondary></indexterm>
+<indexterm><primary>mono.com.microsoft.appcenter.crashes.CrashesListenerImplementor</primary><secondary>monodroidAddReference</secondary></indexterm>
+<para><computeroutput>void mono.com.microsoft.appcenter.crashes.CrashesListenerImplementor.monodroidAddReference (java.lang.Object obj)</computeroutput></para><para>
+Definition at line 81 of file CrashesListenerImplementor.java.</para>
+    </section><anchor xml:id="_classmono_1_1com_1_1microsoft_1_1appcenter_1_1crashes_1_1_crashes_listener_implementor_1a932b2082ce52b2061cd88fdcda18324c"/>    <section>
+    <title>monodroidClearReferences()<computeroutput>[1/2]</computeroutput></title>
+<indexterm><primary>monodroidClearReferences</primary><secondary>mono.com.microsoft.appcenter.crashes.CrashesListenerImplementor</secondary></indexterm>
+<indexterm><primary>mono.com.microsoft.appcenter.crashes.CrashesListenerImplementor</primary><secondary>monodroidClearReferences</secondary></indexterm>
+<para><computeroutput>void mono.com.microsoft.appcenter.crashes.CrashesListenerImplementor.monodroidClearReferences ( )</computeroutput></para><para>
+Definition at line 88 of file CrashesListenerImplementor.java.</para>
+    </section><anchor xml:id="_classmono_1_1com_1_1microsoft_1_1appcenter_1_1crashes_1_1_crashes_listener_implementor_1a932b2082ce52b2061cd88fdcda18324c"/>    <section>
+    <title>monodroidClearReferences()<computeroutput>[2/2]</computeroutput></title>
+<indexterm><primary>monodroidClearReferences</primary><secondary>mono.com.microsoft.appcenter.crashes.CrashesListenerImplementor</secondary></indexterm>
+<indexterm><primary>mono.com.microsoft.appcenter.crashes.CrashesListenerImplementor</primary><secondary>monodroidClearReferences</secondary></indexterm>
+<para><computeroutput>void mono.com.microsoft.appcenter.crashes.CrashesListenerImplementor.monodroidClearReferences ( )</computeroutput></para><para>
+Definition at line 88 of file CrashesListenerImplementor.java.</para>
+    </section><anchor xml:id="_classmono_1_1com_1_1microsoft_1_1appcenter_1_1crashes_1_1_crashes_listener_implementor_1ae23ff0cdac08e989b45da1c03447cc27"/>    <section>
+    <title>onBeforeSending()<computeroutput>[1/2]</computeroutput></title>
+<indexterm><primary>onBeforeSending</primary><secondary>mono.com.microsoft.appcenter.crashes.CrashesListenerImplementor</secondary></indexterm>
+<indexterm><primary>mono.com.microsoft.appcenter.crashes.CrashesListenerImplementor</primary><secondary>onBeforeSending</secondary></indexterm>
+<para><computeroutput>void mono.com.microsoft.appcenter.crashes.CrashesListenerImplementor.onBeforeSending (com.microsoft.appcenter.crashes.model.ErrorReport p0)</computeroutput></para><para>
+Definition at line 41 of file CrashesListenerImplementor.java.</para>
+    </section><anchor xml:id="_classmono_1_1com_1_1microsoft_1_1appcenter_1_1crashes_1_1_crashes_listener_implementor_1ae23ff0cdac08e989b45da1c03447cc27"/>    <section>
+    <title>onBeforeSending()<computeroutput>[2/2]</computeroutput></title>
+<indexterm><primary>onBeforeSending</primary><secondary>mono.com.microsoft.appcenter.crashes.CrashesListenerImplementor</secondary></indexterm>
+<indexterm><primary>mono.com.microsoft.appcenter.crashes.CrashesListenerImplementor</primary><secondary>onBeforeSending</secondary></indexterm>
+<para><computeroutput>void mono.com.microsoft.appcenter.crashes.CrashesListenerImplementor.onBeforeSending (com.microsoft.appcenter.crashes.model.ErrorReport p0)</computeroutput></para><para>
+Definition at line 41 of file CrashesListenerImplementor.java.</para>
+    </section><anchor xml:id="_classmono_1_1com_1_1microsoft_1_1appcenter_1_1crashes_1_1_crashes_listener_implementor_1a5a1478d9f4cd14750c0b8026fc9d8e1b"/>    <section>
+    <title>onSendingFailed()<computeroutput>[1/2]</computeroutput></title>
+<indexterm><primary>onSendingFailed</primary><secondary>mono.com.microsoft.appcenter.crashes.CrashesListenerImplementor</secondary></indexterm>
+<indexterm><primary>mono.com.microsoft.appcenter.crashes.CrashesListenerImplementor</primary><secondary>onSendingFailed</secondary></indexterm>
+<para><computeroutput>void mono.com.microsoft.appcenter.crashes.CrashesListenerImplementor.onSendingFailed (com.microsoft.appcenter.crashes.model.ErrorReport p0, java.lang.Exception p1)</computeroutput></para><para>
+Definition at line 49 of file CrashesListenerImplementor.java.</para>
+    </section><anchor xml:id="_classmono_1_1com_1_1microsoft_1_1appcenter_1_1crashes_1_1_crashes_listener_implementor_1a5a1478d9f4cd14750c0b8026fc9d8e1b"/>    <section>
+    <title>onSendingFailed()<computeroutput>[2/2]</computeroutput></title>
+<indexterm><primary>onSendingFailed</primary><secondary>mono.com.microsoft.appcenter.crashes.CrashesListenerImplementor</secondary></indexterm>
+<indexterm><primary>mono.com.microsoft.appcenter.crashes.CrashesListenerImplementor</primary><secondary>onSendingFailed</secondary></indexterm>
+<para><computeroutput>void mono.com.microsoft.appcenter.crashes.CrashesListenerImplementor.onSendingFailed (com.microsoft.appcenter.crashes.model.ErrorReport p0, java.lang.Exception p1)</computeroutput></para><para>
+Definition at line 49 of file CrashesListenerImplementor.java.</para>
+    </section><anchor xml:id="_classmono_1_1com_1_1microsoft_1_1appcenter_1_1crashes_1_1_crashes_listener_implementor_1a9faff7480a7d2a164ff59584f66df38e"/>    <section>
+    <title>onSendingSucceeded()<computeroutput>[1/2]</computeroutput></title>
+<indexterm><primary>onSendingSucceeded</primary><secondary>mono.com.microsoft.appcenter.crashes.CrashesListenerImplementor</secondary></indexterm>
+<indexterm><primary>mono.com.microsoft.appcenter.crashes.CrashesListenerImplementor</primary><secondary>onSendingSucceeded</secondary></indexterm>
+<para><computeroutput>void mono.com.microsoft.appcenter.crashes.CrashesListenerImplementor.onSendingSucceeded (com.microsoft.appcenter.crashes.model.ErrorReport p0)</computeroutput></para><para>
+Definition at line 57 of file CrashesListenerImplementor.java.</para>
+    </section><anchor xml:id="_classmono_1_1com_1_1microsoft_1_1appcenter_1_1crashes_1_1_crashes_listener_implementor_1a9faff7480a7d2a164ff59584f66df38e"/>    <section>
+    <title>onSendingSucceeded()<computeroutput>[2/2]</computeroutput></title>
+<indexterm><primary>onSendingSucceeded</primary><secondary>mono.com.microsoft.appcenter.crashes.CrashesListenerImplementor</secondary></indexterm>
+<indexterm><primary>mono.com.microsoft.appcenter.crashes.CrashesListenerImplementor</primary><secondary>onSendingSucceeded</secondary></indexterm>
+<para><computeroutput>void mono.com.microsoft.appcenter.crashes.CrashesListenerImplementor.onSendingSucceeded (com.microsoft.appcenter.crashes.model.ErrorReport p0)</computeroutput></para><para>
+Definition at line 57 of file CrashesListenerImplementor.java.</para>
+    </section><anchor xml:id="_classmono_1_1com_1_1microsoft_1_1appcenter_1_1crashes_1_1_crashes_listener_implementor_1a66ae3705e8a51d049f499b6084f37edc"/>    <section>
+    <title>shouldAwaitUserConfirmation()<computeroutput>[1/2]</computeroutput></title>
+<indexterm><primary>shouldAwaitUserConfirmation</primary><secondary>mono.com.microsoft.appcenter.crashes.CrashesListenerImplementor</secondary></indexterm>
+<indexterm><primary>mono.com.microsoft.appcenter.crashes.CrashesListenerImplementor</primary><secondary>shouldAwaitUserConfirmation</secondary></indexterm>
+<para><computeroutput>boolean mono.com.microsoft.appcenter.crashes.CrashesListenerImplementor.shouldAwaitUserConfirmation ( )</computeroutput></para><para>
+Definition at line 65 of file CrashesListenerImplementor.java.</para>
+    </section><anchor xml:id="_classmono_1_1com_1_1microsoft_1_1appcenter_1_1crashes_1_1_crashes_listener_implementor_1a66ae3705e8a51d049f499b6084f37edc"/>    <section>
+    <title>shouldAwaitUserConfirmation()<computeroutput>[2/2]</computeroutput></title>
+<indexterm><primary>shouldAwaitUserConfirmation</primary><secondary>mono.com.microsoft.appcenter.crashes.CrashesListenerImplementor</secondary></indexterm>
+<indexterm><primary>mono.com.microsoft.appcenter.crashes.CrashesListenerImplementor</primary><secondary>shouldAwaitUserConfirmation</secondary></indexterm>
+<para><computeroutput>boolean mono.com.microsoft.appcenter.crashes.CrashesListenerImplementor.shouldAwaitUserConfirmation ( )</computeroutput></para><para>
+Definition at line 65 of file CrashesListenerImplementor.java.</para>
+    </section><anchor xml:id="_classmono_1_1com_1_1microsoft_1_1appcenter_1_1crashes_1_1_crashes_listener_implementor_1a9ac31bf72453062181e99502e2e8f5d8"/>    <section>
+    <title>shouldProcess()<computeroutput>[1/2]</computeroutput></title>
+<indexterm><primary>shouldProcess</primary><secondary>mono.com.microsoft.appcenter.crashes.CrashesListenerImplementor</secondary></indexterm>
+<indexterm><primary>mono.com.microsoft.appcenter.crashes.CrashesListenerImplementor</primary><secondary>shouldProcess</secondary></indexterm>
+<para><computeroutput>boolean mono.com.microsoft.appcenter.crashes.CrashesListenerImplementor.shouldProcess (com.microsoft.appcenter.crashes.model.ErrorReport p0)</computeroutput></para><para>
+Definition at line 73 of file CrashesListenerImplementor.java.</para>
+    </section><anchor xml:id="_classmono_1_1com_1_1microsoft_1_1appcenter_1_1crashes_1_1_crashes_listener_implementor_1a9ac31bf72453062181e99502e2e8f5d8"/>    <section>
+    <title>shouldProcess()<computeroutput>[2/2]</computeroutput></title>
+<indexterm><primary>shouldProcess</primary><secondary>mono.com.microsoft.appcenter.crashes.CrashesListenerImplementor</secondary></indexterm>
+<indexterm><primary>mono.com.microsoft.appcenter.crashes.CrashesListenerImplementor</primary><secondary>shouldProcess</secondary></indexterm>
+<para><computeroutput>boolean mono.com.microsoft.appcenter.crashes.CrashesListenerImplementor.shouldProcess (com.microsoft.appcenter.crashes.model.ErrorReport p0)</computeroutput></para><para>
+Definition at line 73 of file CrashesListenerImplementor.java.</para>
+</section>
+</section>
+<section>
+<title>Member Data Documentation</title>
+<anchor xml:id="_classmono_1_1com_1_1microsoft_1_1appcenter_1_1crashes_1_1_crashes_listener_implementor_1adfac6899da401f27007a7512c567cfbb"/>    <section>
+    <title>__md_methods</title>
+<indexterm><primary>__md_methods</primary><secondary>mono.com.microsoft.appcenter.crashes.CrashesListenerImplementor</secondary></indexterm>
+<indexterm><primary>mono.com.microsoft.appcenter.crashes.CrashesListenerImplementor</primary><secondary>__md_methods</secondary></indexterm>
+<para><computeroutput>static final String mono.com.microsoft.appcenter.crashes.CrashesListenerImplementor.__md_methods<computeroutput>[static]</computeroutput></computeroutput></para>
+<para>@hide </para>
+<para>
+Definition at line 11 of file CrashesListenerImplementor.java.</para>
+</section>
+<para>
+The documentation for this class was generated from the following file:</para>
+Application Green Quake.Android/obj/Debug/110/android/src/mono/com/microsoft/appcenter/crashes/<link linkend="__debug_2110_2android_2src_2mono_2com_2microsoft_2appcenter_2crashes_2_crashes_listener_implementor_8java">CrashesListenerImplementor.java</link></section>
+</section>

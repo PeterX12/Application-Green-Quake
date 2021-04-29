@@ -1,0 +1,74 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.9.1" xml:lang="en-US">
+  <compounddef id="class_main_application" kind="class" language="C#" prot="public">
+    <compoundname>MainApplication</compoundname>
+    <basecompoundref prot="public" virt="non-virtual">Application</basecompoundref>
+      <sectiondef kind="public-func">
+      <memberdef kind="function" id="class_main_application_1a034f1d1829933d696ba85e3004bca0a1" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>MainApplication.MainApplication</definition>
+        <argsstring>(IntPtr handle, JniHandleOwnership transer)</argsstring>
+        <name>MainApplication</name>
+        <param>
+          <type>IntPtr</type>
+          <declname>handle</declname>
+        </param>
+        <param>
+          <type>JniHandleOwnership</type>
+          <declname>transer</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/MainApplication.cs" line="30" column="8" bodyfile="Application Green Quake.Android/MainApplication.cs" bodystart="30" bodyend="33"/>
+      </memberdef>
+      <memberdef kind="function" id="class_main_application_1a2de80e3040698f0b8ce2e94a48c54ce7" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>override void</type>
+        <definition>override void MainApplication.OnCreate</definition>
+        <argsstring>()</argsstring>
+        <name>OnCreate</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/MainApplication.cs" line="35" column="22" bodyfile="Application Green Quake.Android/MainApplication.cs" bodystart="35" bodyend="39"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <inheritancegraph>
+      <node id="1">
+        <label>MainApplication</label>
+        <link refid="class_main_application"/>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="2">
+        <label>Application</label>
+      </node>
+    </inheritancegraph>
+    <collaborationgraph>
+      <node id="1">
+        <label>MainApplication</label>
+        <link refid="class_main_application"/>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="2">
+        <label>Application</label>
+      </node>
+    </collaborationgraph>
+    <location file="Application Green Quake.Android/MainApplication.cs" line="28" column="7" bodyfile="Application Green Quake.Android/MainApplication.cs" bodystart="29" bodyend="40"/>
+    <listofallmembers>
+      <member refid="class_main_application_1a034f1d1829933d696ba85e3004bca0a1" prot="public" virt="non-virtual"><scope>MainApplication</scope><name>MainApplication</name></member>
+      <member refid="class_main_application_1a2de80e3040698f0b8ce2e94a48c54ce7" prot="public" virt="non-virtual"><scope>MainApplication</scope><name>OnCreate</name></member>
+    </listofallmembers>
+  </compounddef>
+</doxygen>

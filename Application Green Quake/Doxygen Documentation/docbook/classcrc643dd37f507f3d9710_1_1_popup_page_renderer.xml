@@ -1,0 +1,470 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<section xmlns="http://docbook.org/ns/docbook" version="5.0" xmlns:xlink="http://www.w3.org/1999/xlink" xml:id="_classcrc643dd37f507f3d9710_1_1_popup_page_renderer" xml:lang="en-US">
+<title>crc643dd37f507f3d9710.PopupPageRenderer Class Reference</title>
+<indexterm><primary>crc643dd37f507f3d9710.PopupPageRenderer</primary></indexterm>
+Inheritance diagram for crc643dd37f507f3d9710.PopupPageRenderer:<para>
+    <informalfigure>
+        <mediaobject>
+            <imageobject>
+                <imagedata width="50%" align="center" valign="middle" scalefit="0" fileref="classcrc643dd37f507f3d9710_1_1_popup_page_renderer__inherit__graph.png"></imagedata>
+            </imageobject>
+        </mediaobject>
+    </informalfigure>
+</para>
+Collaboration diagram for crc643dd37f507f3d9710.PopupPageRenderer:<para>
+    <informalfigure>
+        <mediaobject>
+            <imageobject>
+                <imagedata width="50%" align="center" valign="middle" scalefit="0" fileref="classcrc643dd37f507f3d9710_1_1_popup_page_renderer__coll__graph.png"></imagedata>
+            </imageobject>
+        </mediaobject>
+    </informalfigure>
+</para>
+<simplesect>
+    <title>Public Member Functions    </title>
+        <itemizedlist>
+            <listitem><para><link linkend="_classcrc643dd37f507f3d9710_1_1_popup_page_renderer_1a0e5ad5fb79e8ec014ed6e66975c2cf58">PopupPageRenderer</link> (android.content.Context p0, android.util.AttributeSet p1, int p2)</para>
+</listitem>
+            <listitem><para><link linkend="_classcrc643dd37f507f3d9710_1_1_popup_page_renderer_1afd1b1a02971394503abaa744b36fe3c7">PopupPageRenderer</link> (android.content.Context p0, android.util.AttributeSet p1)</para>
+</listitem>
+            <listitem><para><link linkend="_classcrc643dd37f507f3d9710_1_1_popup_page_renderer_1a1c58798d87bf82000a5f73a63138126a">PopupPageRenderer</link> (android.content.Context p0)</para>
+</listitem>
+            <listitem><para>void <link linkend="_classcrc643dd37f507f3d9710_1_1_popup_page_renderer_1a839ca6a7f6d16f4f230159413731c987">onLayout</link> (boolean p0, int p1, int p2, int p3, int p4)</para>
+</listitem>
+            <listitem><para>void <link linkend="_classcrc643dd37f507f3d9710_1_1_popup_page_renderer_1a09ec49c0ad5efa7090528c32d1c11156">onAttachedToWindow</link> ()</para>
+</listitem>
+            <listitem><para>void <link linkend="_classcrc643dd37f507f3d9710_1_1_popup_page_renderer_1aa2da745616b7f192c2c0156e97b6ae29">onDetachedFromWindow</link> ()</para>
+</listitem>
+            <listitem><para>void <link linkend="_classcrc643dd37f507f3d9710_1_1_popup_page_renderer_1a0fdc5819f6bac4ee7a723df371bc0d1b">onWindowVisibilityChanged</link> (int p0)</para>
+</listitem>
+            <listitem><para>boolean <link linkend="_classcrc643dd37f507f3d9710_1_1_popup_page_renderer_1a6408815df679f7e0d9e1e713e44d9806">dispatchTouchEvent</link> (android.view.MotionEvent p0)</para>
+</listitem>
+            <listitem><para>boolean <link linkend="_classcrc643dd37f507f3d9710_1_1_popup_page_renderer_1afed6d68722e7a937adc0e2877f45533f">onTouchEvent</link> (android.view.MotionEvent p0)</para>
+</listitem>
+            <listitem><para>void <link linkend="_classcrc643dd37f507f3d9710_1_1_popup_page_renderer_1a065fc6c95ac987db739490bc3d0f601e">monodroidAddReference</link> (java.lang.Object obj)</para>
+</listitem>
+            <listitem><para>void <link linkend="_classcrc643dd37f507f3d9710_1_1_popup_page_renderer_1ae7253da61cb9135f30b771e36597d5c2">monodroidClearReferences</link> ()</para>
+</listitem>
+            <listitem><para><link linkend="_classcrc643dd37f507f3d9710_1_1_popup_page_renderer_1a0e5ad5fb79e8ec014ed6e66975c2cf58">PopupPageRenderer</link> (android.content.Context p0, android.util.AttributeSet p1, int p2)</para>
+</listitem>
+            <listitem><para><link linkend="_classcrc643dd37f507f3d9710_1_1_popup_page_renderer_1afd1b1a02971394503abaa744b36fe3c7">PopupPageRenderer</link> (android.content.Context p0, android.util.AttributeSet p1)</para>
+</listitem>
+            <listitem><para><link linkend="_classcrc643dd37f507f3d9710_1_1_popup_page_renderer_1a1c58798d87bf82000a5f73a63138126a">PopupPageRenderer</link> (android.content.Context p0)</para>
+</listitem>
+            <listitem><para>void <link linkend="_classcrc643dd37f507f3d9710_1_1_popup_page_renderer_1a839ca6a7f6d16f4f230159413731c987">onLayout</link> (boolean p0, int p1, int p2, int p3, int p4)</para>
+</listitem>
+            <listitem><para>void <link linkend="_classcrc643dd37f507f3d9710_1_1_popup_page_renderer_1a09ec49c0ad5efa7090528c32d1c11156">onAttachedToWindow</link> ()</para>
+</listitem>
+            <listitem><para>void <link linkend="_classcrc643dd37f507f3d9710_1_1_popup_page_renderer_1aa2da745616b7f192c2c0156e97b6ae29">onDetachedFromWindow</link> ()</para>
+</listitem>
+            <listitem><para>void <link linkend="_classcrc643dd37f507f3d9710_1_1_popup_page_renderer_1a0fdc5819f6bac4ee7a723df371bc0d1b">onWindowVisibilityChanged</link> (int p0)</para>
+</listitem>
+            <listitem><para>boolean <link linkend="_classcrc643dd37f507f3d9710_1_1_popup_page_renderer_1a6408815df679f7e0d9e1e713e44d9806">dispatchTouchEvent</link> (android.view.MotionEvent p0)</para>
+</listitem>
+            <listitem><para>boolean <link linkend="_classcrc643dd37f507f3d9710_1_1_popup_page_renderer_1afed6d68722e7a937adc0e2877f45533f">onTouchEvent</link> (android.view.MotionEvent p0)</para>
+</listitem>
+            <listitem><para>void <link linkend="_classcrc643dd37f507f3d9710_1_1_popup_page_renderer_1a065fc6c95ac987db739490bc3d0f601e">monodroidAddReference</link> (java.lang.Object obj)</para>
+</listitem>
+            <listitem><para>void <link linkend="_classcrc643dd37f507f3d9710_1_1_popup_page_renderer_1ae7253da61cb9135f30b771e36597d5c2">monodroidClearReferences</link> ()</para>
+</listitem>
+            <listitem><para><link linkend="_classcrc643dd37f507f3d9710_1_1_popup_page_renderer_1a0e5ad5fb79e8ec014ed6e66975c2cf58">PopupPageRenderer</link> (android.content.Context p0, android.util.AttributeSet p1, int p2)</para>
+</listitem>
+            <listitem><para><link linkend="_classcrc643dd37f507f3d9710_1_1_popup_page_renderer_1afd1b1a02971394503abaa744b36fe3c7">PopupPageRenderer</link> (android.content.Context p0, android.util.AttributeSet p1)</para>
+</listitem>
+            <listitem><para><link linkend="_classcrc643dd37f507f3d9710_1_1_popup_page_renderer_1a1c58798d87bf82000a5f73a63138126a">PopupPageRenderer</link> (android.content.Context p0)</para>
+</listitem>
+            <listitem><para>void <link linkend="_classcrc643dd37f507f3d9710_1_1_popup_page_renderer_1a839ca6a7f6d16f4f230159413731c987">onLayout</link> (boolean p0, int p1, int p2, int p3, int p4)</para>
+</listitem>
+            <listitem><para>void <link linkend="_classcrc643dd37f507f3d9710_1_1_popup_page_renderer_1a09ec49c0ad5efa7090528c32d1c11156">onAttachedToWindow</link> ()</para>
+</listitem>
+            <listitem><para>void <link linkend="_classcrc643dd37f507f3d9710_1_1_popup_page_renderer_1aa2da745616b7f192c2c0156e97b6ae29">onDetachedFromWindow</link> ()</para>
+</listitem>
+            <listitem><para>void <link linkend="_classcrc643dd37f507f3d9710_1_1_popup_page_renderer_1a0fdc5819f6bac4ee7a723df371bc0d1b">onWindowVisibilityChanged</link> (int p0)</para>
+</listitem>
+            <listitem><para>boolean <link linkend="_classcrc643dd37f507f3d9710_1_1_popup_page_renderer_1a6408815df679f7e0d9e1e713e44d9806">dispatchTouchEvent</link> (android.view.MotionEvent p0)</para>
+</listitem>
+            <listitem><para>boolean <link linkend="_classcrc643dd37f507f3d9710_1_1_popup_page_renderer_1afed6d68722e7a937adc0e2877f45533f">onTouchEvent</link> (android.view.MotionEvent p0)</para>
+</listitem>
+            <listitem><para>void <link linkend="_classcrc643dd37f507f3d9710_1_1_popup_page_renderer_1a065fc6c95ac987db739490bc3d0f601e">monodroidAddReference</link> (java.lang.Object obj)</para>
+</listitem>
+            <listitem><para>void <link linkend="_classcrc643dd37f507f3d9710_1_1_popup_page_renderer_1ae7253da61cb9135f30b771e36597d5c2">monodroidClearReferences</link> ()</para>
+</listitem>
+            <listitem><para><link linkend="_classcrc643dd37f507f3d9710_1_1_popup_page_renderer_1a0e5ad5fb79e8ec014ed6e66975c2cf58">PopupPageRenderer</link> (android.content.Context p0, android.util.AttributeSet p1, int p2)</para>
+</listitem>
+            <listitem><para><link linkend="_classcrc643dd37f507f3d9710_1_1_popup_page_renderer_1afd1b1a02971394503abaa744b36fe3c7">PopupPageRenderer</link> (android.content.Context p0, android.util.AttributeSet p1)</para>
+</listitem>
+            <listitem><para><link linkend="_classcrc643dd37f507f3d9710_1_1_popup_page_renderer_1a1c58798d87bf82000a5f73a63138126a">PopupPageRenderer</link> (android.content.Context p0)</para>
+</listitem>
+            <listitem><para>void <link linkend="_classcrc643dd37f507f3d9710_1_1_popup_page_renderer_1a839ca6a7f6d16f4f230159413731c987">onLayout</link> (boolean p0, int p1, int p2, int p3, int p4)</para>
+</listitem>
+            <listitem><para>void <link linkend="_classcrc643dd37f507f3d9710_1_1_popup_page_renderer_1a09ec49c0ad5efa7090528c32d1c11156">onAttachedToWindow</link> ()</para>
+</listitem>
+            <listitem><para>void <link linkend="_classcrc643dd37f507f3d9710_1_1_popup_page_renderer_1aa2da745616b7f192c2c0156e97b6ae29">onDetachedFromWindow</link> ()</para>
+</listitem>
+            <listitem><para>void <link linkend="_classcrc643dd37f507f3d9710_1_1_popup_page_renderer_1a0fdc5819f6bac4ee7a723df371bc0d1b">onWindowVisibilityChanged</link> (int p0)</para>
+</listitem>
+            <listitem><para>boolean <link linkend="_classcrc643dd37f507f3d9710_1_1_popup_page_renderer_1a6408815df679f7e0d9e1e713e44d9806">dispatchTouchEvent</link> (android.view.MotionEvent p0)</para>
+</listitem>
+            <listitem><para>boolean <link linkend="_classcrc643dd37f507f3d9710_1_1_popup_page_renderer_1afed6d68722e7a937adc0e2877f45533f">onTouchEvent</link> (android.view.MotionEvent p0)</para>
+</listitem>
+            <listitem><para>void <link linkend="_classcrc643dd37f507f3d9710_1_1_popup_page_renderer_1a065fc6c95ac987db739490bc3d0f601e">monodroidAddReference</link> (java.lang.Object obj)</para>
+</listitem>
+            <listitem><para>void <link linkend="_classcrc643dd37f507f3d9710_1_1_popup_page_renderer_1ae7253da61cb9135f30b771e36597d5c2">monodroidClearReferences</link> ()</para>
+</listitem>
+        </itemizedlist>
+</simplesect>
+<simplesect>
+    <title>Static Public Attributes    </title>
+        <itemizedlist>
+            <listitem><para>static final String <link linkend="_classcrc643dd37f507f3d9710_1_1_popup_page_renderer_1ac91683013f170df4a1c2de38388eb94f">__md_methods</link></para>
+</listitem>
+        </itemizedlist>
+</simplesect>
+<section>
+<title>Detailed Description</title>
+<para>
+Definition at line 4 of file PopupPageRenderer.java.</para>
+</section>
+<section>
+<title>Constructor &amp; Destructor Documentation</title>
+<anchor xml:id="_classcrc643dd37f507f3d9710_1_1_popup_page_renderer_1a0e5ad5fb79e8ec014ed6e66975c2cf58"/>    <section>
+    <title>PopupPageRenderer()<computeroutput>[1/12]</computeroutput></title>
+<indexterm><primary>PopupPageRenderer</primary><secondary>crc643dd37f507f3d9710.PopupPageRenderer</secondary></indexterm>
+<indexterm><primary>crc643dd37f507f3d9710.PopupPageRenderer</primary><secondary>PopupPageRenderer</secondary></indexterm>
+<para><computeroutput>crc643dd37f507f3d9710.PopupPageRenderer.PopupPageRenderer (android.content.Context p0, android.util.AttributeSet p1, int p2)</computeroutput></para><para>
+Definition at line 24 of file PopupPageRenderer.java.</para>
+    </section><anchor xml:id="_classcrc643dd37f507f3d9710_1_1_popup_page_renderer_1afd1b1a02971394503abaa744b36fe3c7"/>    <section>
+    <title>PopupPageRenderer()<computeroutput>[2/12]</computeroutput></title>
+<indexterm><primary>PopupPageRenderer</primary><secondary>crc643dd37f507f3d9710.PopupPageRenderer</secondary></indexterm>
+<indexterm><primary>crc643dd37f507f3d9710.PopupPageRenderer</primary><secondary>PopupPageRenderer</secondary></indexterm>
+<para><computeroutput>crc643dd37f507f3d9710.PopupPageRenderer.PopupPageRenderer (android.content.Context p0, android.util.AttributeSet p1)</computeroutput></para><para>
+Definition at line 32 of file PopupPageRenderer.java.</para>
+    </section><anchor xml:id="_classcrc643dd37f507f3d9710_1_1_popup_page_renderer_1a1c58798d87bf82000a5f73a63138126a"/>    <section>
+    <title>PopupPageRenderer()<computeroutput>[3/12]</computeroutput></title>
+<indexterm><primary>PopupPageRenderer</primary><secondary>crc643dd37f507f3d9710.PopupPageRenderer</secondary></indexterm>
+<indexterm><primary>crc643dd37f507f3d9710.PopupPageRenderer</primary><secondary>PopupPageRenderer</secondary></indexterm>
+<para><computeroutput>crc643dd37f507f3d9710.PopupPageRenderer.PopupPageRenderer (android.content.Context p0)</computeroutput></para><para>
+Definition at line 40 of file PopupPageRenderer.java.</para>
+    </section><anchor xml:id="_classcrc643dd37f507f3d9710_1_1_popup_page_renderer_1a0e5ad5fb79e8ec014ed6e66975c2cf58"/>    <section>
+    <title>PopupPageRenderer()<computeroutput>[4/12]</computeroutput></title>
+<indexterm><primary>PopupPageRenderer</primary><secondary>crc643dd37f507f3d9710.PopupPageRenderer</secondary></indexterm>
+<indexterm><primary>crc643dd37f507f3d9710.PopupPageRenderer</primary><secondary>PopupPageRenderer</secondary></indexterm>
+<para><computeroutput>crc643dd37f507f3d9710.PopupPageRenderer.PopupPageRenderer (android.content.Context p0, android.util.AttributeSet p1, int p2)</computeroutput></para><para>
+Definition at line 24 of file PopupPageRenderer.java.</para>
+    </section><anchor xml:id="_classcrc643dd37f507f3d9710_1_1_popup_page_renderer_1afd1b1a02971394503abaa744b36fe3c7"/>    <section>
+    <title>PopupPageRenderer()<computeroutput>[5/12]</computeroutput></title>
+<indexterm><primary>PopupPageRenderer</primary><secondary>crc643dd37f507f3d9710.PopupPageRenderer</secondary></indexterm>
+<indexterm><primary>crc643dd37f507f3d9710.PopupPageRenderer</primary><secondary>PopupPageRenderer</secondary></indexterm>
+<para><computeroutput>crc643dd37f507f3d9710.PopupPageRenderer.PopupPageRenderer (android.content.Context p0, android.util.AttributeSet p1)</computeroutput></para><para>
+Definition at line 32 of file PopupPageRenderer.java.</para>
+    </section><anchor xml:id="_classcrc643dd37f507f3d9710_1_1_popup_page_renderer_1a1c58798d87bf82000a5f73a63138126a"/>    <section>
+    <title>PopupPageRenderer()<computeroutput>[6/12]</computeroutput></title>
+<indexterm><primary>PopupPageRenderer</primary><secondary>crc643dd37f507f3d9710.PopupPageRenderer</secondary></indexterm>
+<indexterm><primary>crc643dd37f507f3d9710.PopupPageRenderer</primary><secondary>PopupPageRenderer</secondary></indexterm>
+<para><computeroutput>crc643dd37f507f3d9710.PopupPageRenderer.PopupPageRenderer (android.content.Context p0)</computeroutput></para><para>
+Definition at line 40 of file PopupPageRenderer.java.</para>
+    </section><anchor xml:id="_classcrc643dd37f507f3d9710_1_1_popup_page_renderer_1a0e5ad5fb79e8ec014ed6e66975c2cf58"/>    <section>
+    <title>PopupPageRenderer()<computeroutput>[7/12]</computeroutput></title>
+<indexterm><primary>PopupPageRenderer</primary><secondary>crc643dd37f507f3d9710.PopupPageRenderer</secondary></indexterm>
+<indexterm><primary>crc643dd37f507f3d9710.PopupPageRenderer</primary><secondary>PopupPageRenderer</secondary></indexterm>
+<para><computeroutput>crc643dd37f507f3d9710.PopupPageRenderer.PopupPageRenderer (android.content.Context p0, android.util.AttributeSet p1, int p2)</computeroutput></para><para>
+Definition at line 24 of file PopupPageRenderer.java.</para>
+    </section><anchor xml:id="_classcrc643dd37f507f3d9710_1_1_popup_page_renderer_1afd1b1a02971394503abaa744b36fe3c7"/>    <section>
+    <title>PopupPageRenderer()<computeroutput>[8/12]</computeroutput></title>
+<indexterm><primary>PopupPageRenderer</primary><secondary>crc643dd37f507f3d9710.PopupPageRenderer</secondary></indexterm>
+<indexterm><primary>crc643dd37f507f3d9710.PopupPageRenderer</primary><secondary>PopupPageRenderer</secondary></indexterm>
+<para><computeroutput>crc643dd37f507f3d9710.PopupPageRenderer.PopupPageRenderer (android.content.Context p0, android.util.AttributeSet p1)</computeroutput></para><para>
+Definition at line 32 of file PopupPageRenderer.java.</para>
+    </section><anchor xml:id="_classcrc643dd37f507f3d9710_1_1_popup_page_renderer_1a1c58798d87bf82000a5f73a63138126a"/>    <section>
+    <title>PopupPageRenderer()<computeroutput>[9/12]</computeroutput></title>
+<indexterm><primary>PopupPageRenderer</primary><secondary>crc643dd37f507f3d9710.PopupPageRenderer</secondary></indexterm>
+<indexterm><primary>crc643dd37f507f3d9710.PopupPageRenderer</primary><secondary>PopupPageRenderer</secondary></indexterm>
+<para><computeroutput>crc643dd37f507f3d9710.PopupPageRenderer.PopupPageRenderer (android.content.Context p0)</computeroutput></para><para>
+Definition at line 40 of file PopupPageRenderer.java.</para>
+    </section><anchor xml:id="_classcrc643dd37f507f3d9710_1_1_popup_page_renderer_1a0e5ad5fb79e8ec014ed6e66975c2cf58"/>    <section>
+    <title>PopupPageRenderer()<computeroutput>[10/12]</computeroutput></title>
+<indexterm><primary>PopupPageRenderer</primary><secondary>crc643dd37f507f3d9710.PopupPageRenderer</secondary></indexterm>
+<indexterm><primary>crc643dd37f507f3d9710.PopupPageRenderer</primary><secondary>PopupPageRenderer</secondary></indexterm>
+<para><computeroutput>crc643dd37f507f3d9710.PopupPageRenderer.PopupPageRenderer (android.content.Context p0, android.util.AttributeSet p1, int p2)</computeroutput></para><para>
+Definition at line 24 of file PopupPageRenderer.java.</para>
+    </section><anchor xml:id="_classcrc643dd37f507f3d9710_1_1_popup_page_renderer_1afd1b1a02971394503abaa744b36fe3c7"/>    <section>
+    <title>PopupPageRenderer()<computeroutput>[11/12]</computeroutput></title>
+<indexterm><primary>PopupPageRenderer</primary><secondary>crc643dd37f507f3d9710.PopupPageRenderer</secondary></indexterm>
+<indexterm><primary>crc643dd37f507f3d9710.PopupPageRenderer</primary><secondary>PopupPageRenderer</secondary></indexterm>
+<para><computeroutput>crc643dd37f507f3d9710.PopupPageRenderer.PopupPageRenderer (android.content.Context p0, android.util.AttributeSet p1)</computeroutput></para><para>
+Definition at line 32 of file PopupPageRenderer.java.</para>
+    </section><anchor xml:id="_classcrc643dd37f507f3d9710_1_1_popup_page_renderer_1a1c58798d87bf82000a5f73a63138126a"/>    <section>
+    <title>PopupPageRenderer()<computeroutput>[12/12]</computeroutput></title>
+<indexterm><primary>PopupPageRenderer</primary><secondary>crc643dd37f507f3d9710.PopupPageRenderer</secondary></indexterm>
+<indexterm><primary>crc643dd37f507f3d9710.PopupPageRenderer</primary><secondary>PopupPageRenderer</secondary></indexterm>
+<para><computeroutput>crc643dd37f507f3d9710.PopupPageRenderer.PopupPageRenderer (android.content.Context p0)</computeroutput></para><para>
+Definition at line 40 of file PopupPageRenderer.java.</para>
+</section>
+</section>
+<section>
+<title>Member Function Documentation</title>
+<anchor xml:id="_classcrc643dd37f507f3d9710_1_1_popup_page_renderer_1a6408815df679f7e0d9e1e713e44d9806"/>    <section>
+    <title>dispatchTouchEvent()<computeroutput>[1/4]</computeroutput></title>
+<indexterm><primary>dispatchTouchEvent</primary><secondary>crc643dd37f507f3d9710.PopupPageRenderer</secondary></indexterm>
+<indexterm><primary>crc643dd37f507f3d9710.PopupPageRenderer</primary><secondary>dispatchTouchEvent</secondary></indexterm>
+<para><computeroutput>boolean crc643dd37f507f3d9710.PopupPageRenderer.dispatchTouchEvent (android.view.MotionEvent p0)</computeroutput></para><para>
+Reimplemented from <link linkend="_classcrc643f46942d9dd1fff9_1_1_visual_element_renderer__1_1a8b3a1f18416ee5d553d54d8c51f238bd">crc643f46942d9dd1fff9.VisualElementRenderer_1</link>.</para>
+<para>
+Definition at line 80 of file PopupPageRenderer.java.</para>
+    </section><anchor xml:id="_classcrc643dd37f507f3d9710_1_1_popup_page_renderer_1a6408815df679f7e0d9e1e713e44d9806"/>    <section>
+    <title>dispatchTouchEvent()<computeroutput>[2/4]</computeroutput></title>
+<indexterm><primary>dispatchTouchEvent</primary><secondary>crc643dd37f507f3d9710.PopupPageRenderer</secondary></indexterm>
+<indexterm><primary>crc643dd37f507f3d9710.PopupPageRenderer</primary><secondary>dispatchTouchEvent</secondary></indexterm>
+<para><computeroutput>boolean crc643dd37f507f3d9710.PopupPageRenderer.dispatchTouchEvent (android.view.MotionEvent p0)</computeroutput></para><para>
+Reimplemented from <link linkend="_classcrc643f46942d9dd1fff9_1_1_visual_element_renderer__1_1a8b3a1f18416ee5d553d54d8c51f238bd">crc643f46942d9dd1fff9.VisualElementRenderer_1</link>.</para>
+<para>
+Definition at line 80 of file PopupPageRenderer.java.</para>
+    </section><anchor xml:id="_classcrc643dd37f507f3d9710_1_1_popup_page_renderer_1a6408815df679f7e0d9e1e713e44d9806"/>    <section>
+    <title>dispatchTouchEvent()<computeroutput>[3/4]</computeroutput></title>
+<indexterm><primary>dispatchTouchEvent</primary><secondary>crc643dd37f507f3d9710.PopupPageRenderer</secondary></indexterm>
+<indexterm><primary>crc643dd37f507f3d9710.PopupPageRenderer</primary><secondary>dispatchTouchEvent</secondary></indexterm>
+<para><computeroutput>boolean crc643dd37f507f3d9710.PopupPageRenderer.dispatchTouchEvent (android.view.MotionEvent p0)</computeroutput></para><para>
+Reimplemented from <link linkend="_classcrc643f46942d9dd1fff9_1_1_visual_element_renderer__1_1a8b3a1f18416ee5d553d54d8c51f238bd">crc643f46942d9dd1fff9.VisualElementRenderer_1</link>.</para>
+<para>
+Definition at line 80 of file PopupPageRenderer.java.</para>
+    </section><anchor xml:id="_classcrc643dd37f507f3d9710_1_1_popup_page_renderer_1a6408815df679f7e0d9e1e713e44d9806"/>    <section>
+    <title>dispatchTouchEvent()<computeroutput>[4/4]</computeroutput></title>
+<indexterm><primary>dispatchTouchEvent</primary><secondary>crc643dd37f507f3d9710.PopupPageRenderer</secondary></indexterm>
+<indexterm><primary>crc643dd37f507f3d9710.PopupPageRenderer</primary><secondary>dispatchTouchEvent</secondary></indexterm>
+<para><computeroutput>boolean crc643dd37f507f3d9710.PopupPageRenderer.dispatchTouchEvent (android.view.MotionEvent p0)</computeroutput></para><para>
+Reimplemented from <link linkend="_classcrc643f46942d9dd1fff9_1_1_visual_element_renderer__1_1a8b3a1f18416ee5d553d54d8c51f238bd">crc643f46942d9dd1fff9.VisualElementRenderer_1</link>.</para>
+<para>
+Definition at line 80 of file PopupPageRenderer.java.</para>
+    </section><anchor xml:id="_classcrc643dd37f507f3d9710_1_1_popup_page_renderer_1a065fc6c95ac987db739490bc3d0f601e"/>    <section>
+    <title>monodroidAddReference()<computeroutput>[1/4]</computeroutput></title>
+<indexterm><primary>monodroidAddReference</primary><secondary>crc643dd37f507f3d9710.PopupPageRenderer</secondary></indexterm>
+<indexterm><primary>crc643dd37f507f3d9710.PopupPageRenderer</primary><secondary>monodroidAddReference</secondary></indexterm>
+<para><computeroutput>void crc643dd37f507f3d9710.PopupPageRenderer.monodroidAddReference (java.lang.Object obj)</computeroutput></para><para>
+Reimplemented from <link linkend="_classcrc643f46942d9dd1fff9_1_1_page_renderer_1a3bca66ba4df1ef68199c4a28224ec788">crc643f46942d9dd1fff9.PageRenderer</link>.</para>
+<para>
+Definition at line 96 of file PopupPageRenderer.java.</para>
+    </section><anchor xml:id="_classcrc643dd37f507f3d9710_1_1_popup_page_renderer_1a065fc6c95ac987db739490bc3d0f601e"/>    <section>
+    <title>monodroidAddReference()<computeroutput>[2/4]</computeroutput></title>
+<indexterm><primary>monodroidAddReference</primary><secondary>crc643dd37f507f3d9710.PopupPageRenderer</secondary></indexterm>
+<indexterm><primary>crc643dd37f507f3d9710.PopupPageRenderer</primary><secondary>monodroidAddReference</secondary></indexterm>
+<para><computeroutput>void crc643dd37f507f3d9710.PopupPageRenderer.monodroidAddReference (java.lang.Object obj)</computeroutput></para><para>
+Reimplemented from <link linkend="_classcrc643f46942d9dd1fff9_1_1_page_renderer_1a3bca66ba4df1ef68199c4a28224ec788">crc643f46942d9dd1fff9.PageRenderer</link>.</para>
+<para>
+Definition at line 96 of file PopupPageRenderer.java.</para>
+    </section><anchor xml:id="_classcrc643dd37f507f3d9710_1_1_popup_page_renderer_1a065fc6c95ac987db739490bc3d0f601e"/>    <section>
+    <title>monodroidAddReference()<computeroutput>[3/4]</computeroutput></title>
+<indexterm><primary>monodroidAddReference</primary><secondary>crc643dd37f507f3d9710.PopupPageRenderer</secondary></indexterm>
+<indexterm><primary>crc643dd37f507f3d9710.PopupPageRenderer</primary><secondary>monodroidAddReference</secondary></indexterm>
+<para><computeroutput>void crc643dd37f507f3d9710.PopupPageRenderer.monodroidAddReference (java.lang.Object obj)</computeroutput></para><para>
+Reimplemented from <link linkend="_classcrc643f46942d9dd1fff9_1_1_page_renderer_1a3bca66ba4df1ef68199c4a28224ec788">crc643f46942d9dd1fff9.PageRenderer</link>.</para>
+<para>
+Definition at line 96 of file PopupPageRenderer.java.</para>
+    </section><anchor xml:id="_classcrc643dd37f507f3d9710_1_1_popup_page_renderer_1a065fc6c95ac987db739490bc3d0f601e"/>    <section>
+    <title>monodroidAddReference()<computeroutput>[4/4]</computeroutput></title>
+<indexterm><primary>monodroidAddReference</primary><secondary>crc643dd37f507f3d9710.PopupPageRenderer</secondary></indexterm>
+<indexterm><primary>crc643dd37f507f3d9710.PopupPageRenderer</primary><secondary>monodroidAddReference</secondary></indexterm>
+<para><computeroutput>void crc643dd37f507f3d9710.PopupPageRenderer.monodroidAddReference (java.lang.Object obj)</computeroutput></para><para>
+Reimplemented from <link linkend="_classcrc643f46942d9dd1fff9_1_1_page_renderer_1a3bca66ba4df1ef68199c4a28224ec788">crc643f46942d9dd1fff9.PageRenderer</link>.</para>
+<para>
+Definition at line 96 of file PopupPageRenderer.java.</para>
+    </section><anchor xml:id="_classcrc643dd37f507f3d9710_1_1_popup_page_renderer_1ae7253da61cb9135f30b771e36597d5c2"/>    <section>
+    <title>monodroidClearReferences()<computeroutput>[1/4]</computeroutput></title>
+<indexterm><primary>monodroidClearReferences</primary><secondary>crc643dd37f507f3d9710.PopupPageRenderer</secondary></indexterm>
+<indexterm><primary>crc643dd37f507f3d9710.PopupPageRenderer</primary><secondary>monodroidClearReferences</secondary></indexterm>
+<para><computeroutput>void crc643dd37f507f3d9710.PopupPageRenderer.monodroidClearReferences ( )</computeroutput></para><para>
+Reimplemented from <link linkend="_classcrc643f46942d9dd1fff9_1_1_page_renderer_1ae3711697e46b1f33f3ef6c9539a391c1">crc643f46942d9dd1fff9.PageRenderer</link>.</para>
+<para>
+Definition at line 103 of file PopupPageRenderer.java.</para>
+    </section><anchor xml:id="_classcrc643dd37f507f3d9710_1_1_popup_page_renderer_1ae7253da61cb9135f30b771e36597d5c2"/>    <section>
+    <title>monodroidClearReferences()<computeroutput>[2/4]</computeroutput></title>
+<indexterm><primary>monodroidClearReferences</primary><secondary>crc643dd37f507f3d9710.PopupPageRenderer</secondary></indexterm>
+<indexterm><primary>crc643dd37f507f3d9710.PopupPageRenderer</primary><secondary>monodroidClearReferences</secondary></indexterm>
+<para><computeroutput>void crc643dd37f507f3d9710.PopupPageRenderer.monodroidClearReferences ( )</computeroutput></para><para>
+Reimplemented from <link linkend="_classcrc643f46942d9dd1fff9_1_1_page_renderer_1ae3711697e46b1f33f3ef6c9539a391c1">crc643f46942d9dd1fff9.PageRenderer</link>.</para>
+<para>
+Definition at line 103 of file PopupPageRenderer.java.</para>
+    </section><anchor xml:id="_classcrc643dd37f507f3d9710_1_1_popup_page_renderer_1ae7253da61cb9135f30b771e36597d5c2"/>    <section>
+    <title>monodroidClearReferences()<computeroutput>[3/4]</computeroutput></title>
+<indexterm><primary>monodroidClearReferences</primary><secondary>crc643dd37f507f3d9710.PopupPageRenderer</secondary></indexterm>
+<indexterm><primary>crc643dd37f507f3d9710.PopupPageRenderer</primary><secondary>monodroidClearReferences</secondary></indexterm>
+<para><computeroutput>void crc643dd37f507f3d9710.PopupPageRenderer.monodroidClearReferences ( )</computeroutput></para><para>
+Reimplemented from <link linkend="_classcrc643f46942d9dd1fff9_1_1_page_renderer_1ae3711697e46b1f33f3ef6c9539a391c1">crc643f46942d9dd1fff9.PageRenderer</link>.</para>
+<para>
+Definition at line 103 of file PopupPageRenderer.java.</para>
+    </section><anchor xml:id="_classcrc643dd37f507f3d9710_1_1_popup_page_renderer_1ae7253da61cb9135f30b771e36597d5c2"/>    <section>
+    <title>monodroidClearReferences()<computeroutput>[4/4]</computeroutput></title>
+<indexterm><primary>monodroidClearReferences</primary><secondary>crc643dd37f507f3d9710.PopupPageRenderer</secondary></indexterm>
+<indexterm><primary>crc643dd37f507f3d9710.PopupPageRenderer</primary><secondary>monodroidClearReferences</secondary></indexterm>
+<para><computeroutput>void crc643dd37f507f3d9710.PopupPageRenderer.monodroidClearReferences ( )</computeroutput></para><para>
+Reimplemented from <link linkend="_classcrc643f46942d9dd1fff9_1_1_page_renderer_1ae3711697e46b1f33f3ef6c9539a391c1">crc643f46942d9dd1fff9.PageRenderer</link>.</para>
+<para>
+Definition at line 103 of file PopupPageRenderer.java.</para>
+    </section><anchor xml:id="_classcrc643dd37f507f3d9710_1_1_popup_page_renderer_1a09ec49c0ad5efa7090528c32d1c11156"/>    <section>
+    <title>onAttachedToWindow()<computeroutput>[1/4]</computeroutput></title>
+<indexterm><primary>onAttachedToWindow</primary><secondary>crc643dd37f507f3d9710.PopupPageRenderer</secondary></indexterm>
+<indexterm><primary>crc643dd37f507f3d9710.PopupPageRenderer</primary><secondary>onAttachedToWindow</secondary></indexterm>
+<para><computeroutput>void crc643dd37f507f3d9710.PopupPageRenderer.onAttachedToWindow ( )</computeroutput></para><para>
+Reimplemented from <link linkend="_classcrc643f46942d9dd1fff9_1_1_page_renderer_1a4f6a5722cc8f0f1ddcb018cec87fa5fa">crc643f46942d9dd1fff9.PageRenderer</link>.</para>
+<para>
+Definition at line 56 of file PopupPageRenderer.java.</para>
+    </section><anchor xml:id="_classcrc643dd37f507f3d9710_1_1_popup_page_renderer_1a09ec49c0ad5efa7090528c32d1c11156"/>    <section>
+    <title>onAttachedToWindow()<computeroutput>[2/4]</computeroutput></title>
+<indexterm><primary>onAttachedToWindow</primary><secondary>crc643dd37f507f3d9710.PopupPageRenderer</secondary></indexterm>
+<indexterm><primary>crc643dd37f507f3d9710.PopupPageRenderer</primary><secondary>onAttachedToWindow</secondary></indexterm>
+<para><computeroutput>void crc643dd37f507f3d9710.PopupPageRenderer.onAttachedToWindow ( )</computeroutput></para><para>
+Reimplemented from <link linkend="_classcrc643f46942d9dd1fff9_1_1_page_renderer_1a4f6a5722cc8f0f1ddcb018cec87fa5fa">crc643f46942d9dd1fff9.PageRenderer</link>.</para>
+<para>
+Definition at line 56 of file PopupPageRenderer.java.</para>
+    </section><anchor xml:id="_classcrc643dd37f507f3d9710_1_1_popup_page_renderer_1a09ec49c0ad5efa7090528c32d1c11156"/>    <section>
+    <title>onAttachedToWindow()<computeroutput>[3/4]</computeroutput></title>
+<indexterm><primary>onAttachedToWindow</primary><secondary>crc643dd37f507f3d9710.PopupPageRenderer</secondary></indexterm>
+<indexterm><primary>crc643dd37f507f3d9710.PopupPageRenderer</primary><secondary>onAttachedToWindow</secondary></indexterm>
+<para><computeroutput>void crc643dd37f507f3d9710.PopupPageRenderer.onAttachedToWindow ( )</computeroutput></para><para>
+Reimplemented from <link linkend="_classcrc643f46942d9dd1fff9_1_1_page_renderer_1a4f6a5722cc8f0f1ddcb018cec87fa5fa">crc643f46942d9dd1fff9.PageRenderer</link>.</para>
+<para>
+Definition at line 56 of file PopupPageRenderer.java.</para>
+    </section><anchor xml:id="_classcrc643dd37f507f3d9710_1_1_popup_page_renderer_1a09ec49c0ad5efa7090528c32d1c11156"/>    <section>
+    <title>onAttachedToWindow()<computeroutput>[4/4]</computeroutput></title>
+<indexterm><primary>onAttachedToWindow</primary><secondary>crc643dd37f507f3d9710.PopupPageRenderer</secondary></indexterm>
+<indexterm><primary>crc643dd37f507f3d9710.PopupPageRenderer</primary><secondary>onAttachedToWindow</secondary></indexterm>
+<para><computeroutput>void crc643dd37f507f3d9710.PopupPageRenderer.onAttachedToWindow ( )</computeroutput></para><para>
+Reimplemented from <link linkend="_classcrc643f46942d9dd1fff9_1_1_page_renderer_1a4f6a5722cc8f0f1ddcb018cec87fa5fa">crc643f46942d9dd1fff9.PageRenderer</link>.</para>
+<para>
+Definition at line 56 of file PopupPageRenderer.java.</para>
+    </section><anchor xml:id="_classcrc643dd37f507f3d9710_1_1_popup_page_renderer_1aa2da745616b7f192c2c0156e97b6ae29"/>    <section>
+    <title>onDetachedFromWindow()<computeroutput>[1/4]</computeroutput></title>
+<indexterm><primary>onDetachedFromWindow</primary><secondary>crc643dd37f507f3d9710.PopupPageRenderer</secondary></indexterm>
+<indexterm><primary>crc643dd37f507f3d9710.PopupPageRenderer</primary><secondary>onDetachedFromWindow</secondary></indexterm>
+<para><computeroutput>void crc643dd37f507f3d9710.PopupPageRenderer.onDetachedFromWindow ( )</computeroutput></para><para>
+Reimplemented from <link linkend="_classcrc643f46942d9dd1fff9_1_1_page_renderer_1abc5b84fc61e2fec45b3a186627d252bd">crc643f46942d9dd1fff9.PageRenderer</link>.</para>
+<para>
+Definition at line 64 of file PopupPageRenderer.java.</para>
+    </section><anchor xml:id="_classcrc643dd37f507f3d9710_1_1_popup_page_renderer_1aa2da745616b7f192c2c0156e97b6ae29"/>    <section>
+    <title>onDetachedFromWindow()<computeroutput>[2/4]</computeroutput></title>
+<indexterm><primary>onDetachedFromWindow</primary><secondary>crc643dd37f507f3d9710.PopupPageRenderer</secondary></indexterm>
+<indexterm><primary>crc643dd37f507f3d9710.PopupPageRenderer</primary><secondary>onDetachedFromWindow</secondary></indexterm>
+<para><computeroutput>void crc643dd37f507f3d9710.PopupPageRenderer.onDetachedFromWindow ( )</computeroutput></para><para>
+Reimplemented from <link linkend="_classcrc643f46942d9dd1fff9_1_1_page_renderer_1abc5b84fc61e2fec45b3a186627d252bd">crc643f46942d9dd1fff9.PageRenderer</link>.</para>
+<para>
+Definition at line 64 of file PopupPageRenderer.java.</para>
+    </section><anchor xml:id="_classcrc643dd37f507f3d9710_1_1_popup_page_renderer_1aa2da745616b7f192c2c0156e97b6ae29"/>    <section>
+    <title>onDetachedFromWindow()<computeroutput>[3/4]</computeroutput></title>
+<indexterm><primary>onDetachedFromWindow</primary><secondary>crc643dd37f507f3d9710.PopupPageRenderer</secondary></indexterm>
+<indexterm><primary>crc643dd37f507f3d9710.PopupPageRenderer</primary><secondary>onDetachedFromWindow</secondary></indexterm>
+<para><computeroutput>void crc643dd37f507f3d9710.PopupPageRenderer.onDetachedFromWindow ( )</computeroutput></para><para>
+Reimplemented from <link linkend="_classcrc643f46942d9dd1fff9_1_1_page_renderer_1abc5b84fc61e2fec45b3a186627d252bd">crc643f46942d9dd1fff9.PageRenderer</link>.</para>
+<para>
+Definition at line 64 of file PopupPageRenderer.java.</para>
+    </section><anchor xml:id="_classcrc643dd37f507f3d9710_1_1_popup_page_renderer_1aa2da745616b7f192c2c0156e97b6ae29"/>    <section>
+    <title>onDetachedFromWindow()<computeroutput>[4/4]</computeroutput></title>
+<indexterm><primary>onDetachedFromWindow</primary><secondary>crc643dd37f507f3d9710.PopupPageRenderer</secondary></indexterm>
+<indexterm><primary>crc643dd37f507f3d9710.PopupPageRenderer</primary><secondary>onDetachedFromWindow</secondary></indexterm>
+<para><computeroutput>void crc643dd37f507f3d9710.PopupPageRenderer.onDetachedFromWindow ( )</computeroutput></para><para>
+Reimplemented from <link linkend="_classcrc643f46942d9dd1fff9_1_1_page_renderer_1abc5b84fc61e2fec45b3a186627d252bd">crc643f46942d9dd1fff9.PageRenderer</link>.</para>
+<para>
+Definition at line 64 of file PopupPageRenderer.java.</para>
+    </section><anchor xml:id="_classcrc643dd37f507f3d9710_1_1_popup_page_renderer_1a839ca6a7f6d16f4f230159413731c987"/>    <section>
+    <title>onLayout()<computeroutput>[1/4]</computeroutput></title>
+<indexterm><primary>onLayout</primary><secondary>crc643dd37f507f3d9710.PopupPageRenderer</secondary></indexterm>
+<indexterm><primary>crc643dd37f507f3d9710.PopupPageRenderer</primary><secondary>onLayout</secondary></indexterm>
+<para><computeroutput>void crc643dd37f507f3d9710.PopupPageRenderer.onLayout (boolean p0, int p1, int p2, int p3, int p4)</computeroutput></para><para>
+Reimplemented from <link linkend="_classcrc643f46942d9dd1fff9_1_1_page_renderer_1a63a8d80c1b2075608244ee1c6b6745e5">crc643f46942d9dd1fff9.PageRenderer</link>.</para>
+<para>
+Definition at line 48 of file PopupPageRenderer.java.</para>
+    </section><anchor xml:id="_classcrc643dd37f507f3d9710_1_1_popup_page_renderer_1a839ca6a7f6d16f4f230159413731c987"/>    <section>
+    <title>onLayout()<computeroutput>[2/4]</computeroutput></title>
+<indexterm><primary>onLayout</primary><secondary>crc643dd37f507f3d9710.PopupPageRenderer</secondary></indexterm>
+<indexterm><primary>crc643dd37f507f3d9710.PopupPageRenderer</primary><secondary>onLayout</secondary></indexterm>
+<para><computeroutput>void crc643dd37f507f3d9710.PopupPageRenderer.onLayout (boolean p0, int p1, int p2, int p3, int p4)</computeroutput></para><para>
+Reimplemented from <link linkend="_classcrc643f46942d9dd1fff9_1_1_page_renderer_1a63a8d80c1b2075608244ee1c6b6745e5">crc643f46942d9dd1fff9.PageRenderer</link>.</para>
+<para>
+Definition at line 48 of file PopupPageRenderer.java.</para>
+    </section><anchor xml:id="_classcrc643dd37f507f3d9710_1_1_popup_page_renderer_1a839ca6a7f6d16f4f230159413731c987"/>    <section>
+    <title>onLayout()<computeroutput>[3/4]</computeroutput></title>
+<indexterm><primary>onLayout</primary><secondary>crc643dd37f507f3d9710.PopupPageRenderer</secondary></indexterm>
+<indexterm><primary>crc643dd37f507f3d9710.PopupPageRenderer</primary><secondary>onLayout</secondary></indexterm>
+<para><computeroutput>void crc643dd37f507f3d9710.PopupPageRenderer.onLayout (boolean p0, int p1, int p2, int p3, int p4)</computeroutput></para><para>
+Reimplemented from <link linkend="_classcrc643f46942d9dd1fff9_1_1_page_renderer_1a63a8d80c1b2075608244ee1c6b6745e5">crc643f46942d9dd1fff9.PageRenderer</link>.</para>
+<para>
+Definition at line 48 of file PopupPageRenderer.java.</para>
+    </section><anchor xml:id="_classcrc643dd37f507f3d9710_1_1_popup_page_renderer_1a839ca6a7f6d16f4f230159413731c987"/>    <section>
+    <title>onLayout()<computeroutput>[4/4]</computeroutput></title>
+<indexterm><primary>onLayout</primary><secondary>crc643dd37f507f3d9710.PopupPageRenderer</secondary></indexterm>
+<indexterm><primary>crc643dd37f507f3d9710.PopupPageRenderer</primary><secondary>onLayout</secondary></indexterm>
+<para><computeroutput>void crc643dd37f507f3d9710.PopupPageRenderer.onLayout (boolean p0, int p1, int p2, int p3, int p4)</computeroutput></para><para>
+Reimplemented from <link linkend="_classcrc643f46942d9dd1fff9_1_1_page_renderer_1a63a8d80c1b2075608244ee1c6b6745e5">crc643f46942d9dd1fff9.PageRenderer</link>.</para>
+<para>
+Definition at line 48 of file PopupPageRenderer.java.</para>
+    </section><anchor xml:id="_classcrc643dd37f507f3d9710_1_1_popup_page_renderer_1afed6d68722e7a937adc0e2877f45533f"/>    <section>
+    <title>onTouchEvent()<computeroutput>[1/4]</computeroutput></title>
+<indexterm><primary>onTouchEvent</primary><secondary>crc643dd37f507f3d9710.PopupPageRenderer</secondary></indexterm>
+<indexterm><primary>crc643dd37f507f3d9710.PopupPageRenderer</primary><secondary>onTouchEvent</secondary></indexterm>
+<para><computeroutput>boolean crc643dd37f507f3d9710.PopupPageRenderer.onTouchEvent (android.view.MotionEvent p0)</computeroutput></para><para>
+Reimplemented from <link linkend="_classcrc643f46942d9dd1fff9_1_1_page_renderer_1ae718a6a26db275a25193a5c5265314b3">crc643f46942d9dd1fff9.PageRenderer</link>.</para>
+<para>
+Definition at line 88 of file PopupPageRenderer.java.</para>
+    </section><anchor xml:id="_classcrc643dd37f507f3d9710_1_1_popup_page_renderer_1afed6d68722e7a937adc0e2877f45533f"/>    <section>
+    <title>onTouchEvent()<computeroutput>[2/4]</computeroutput></title>
+<indexterm><primary>onTouchEvent</primary><secondary>crc643dd37f507f3d9710.PopupPageRenderer</secondary></indexterm>
+<indexterm><primary>crc643dd37f507f3d9710.PopupPageRenderer</primary><secondary>onTouchEvent</secondary></indexterm>
+<para><computeroutput>boolean crc643dd37f507f3d9710.PopupPageRenderer.onTouchEvent (android.view.MotionEvent p0)</computeroutput></para><para>
+Reimplemented from <link linkend="_classcrc643f46942d9dd1fff9_1_1_page_renderer_1ae718a6a26db275a25193a5c5265314b3">crc643f46942d9dd1fff9.PageRenderer</link>.</para>
+<para>
+Definition at line 88 of file PopupPageRenderer.java.</para>
+    </section><anchor xml:id="_classcrc643dd37f507f3d9710_1_1_popup_page_renderer_1afed6d68722e7a937adc0e2877f45533f"/>    <section>
+    <title>onTouchEvent()<computeroutput>[3/4]</computeroutput></title>
+<indexterm><primary>onTouchEvent</primary><secondary>crc643dd37f507f3d9710.PopupPageRenderer</secondary></indexterm>
+<indexterm><primary>crc643dd37f507f3d9710.PopupPageRenderer</primary><secondary>onTouchEvent</secondary></indexterm>
+<para><computeroutput>boolean crc643dd37f507f3d9710.PopupPageRenderer.onTouchEvent (android.view.MotionEvent p0)</computeroutput></para><para>
+Reimplemented from <link linkend="_classcrc643f46942d9dd1fff9_1_1_page_renderer_1ae718a6a26db275a25193a5c5265314b3">crc643f46942d9dd1fff9.PageRenderer</link>.</para>
+<para>
+Definition at line 88 of file PopupPageRenderer.java.</para>
+    </section><anchor xml:id="_classcrc643dd37f507f3d9710_1_1_popup_page_renderer_1afed6d68722e7a937adc0e2877f45533f"/>    <section>
+    <title>onTouchEvent()<computeroutput>[4/4]</computeroutput></title>
+<indexterm><primary>onTouchEvent</primary><secondary>crc643dd37f507f3d9710.PopupPageRenderer</secondary></indexterm>
+<indexterm><primary>crc643dd37f507f3d9710.PopupPageRenderer</primary><secondary>onTouchEvent</secondary></indexterm>
+<para><computeroutput>boolean crc643dd37f507f3d9710.PopupPageRenderer.onTouchEvent (android.view.MotionEvent p0)</computeroutput></para><para>
+Reimplemented from <link linkend="_classcrc643f46942d9dd1fff9_1_1_page_renderer_1ae718a6a26db275a25193a5c5265314b3">crc643f46942d9dd1fff9.PageRenderer</link>.</para>
+<para>
+Definition at line 88 of file PopupPageRenderer.java.</para>
+    </section><anchor xml:id="_classcrc643dd37f507f3d9710_1_1_popup_page_renderer_1a0fdc5819f6bac4ee7a723df371bc0d1b"/>    <section>
+    <title>onWindowVisibilityChanged()<computeroutput>[1/4]</computeroutput></title>
+<indexterm><primary>onWindowVisibilityChanged</primary><secondary>crc643dd37f507f3d9710.PopupPageRenderer</secondary></indexterm>
+<indexterm><primary>crc643dd37f507f3d9710.PopupPageRenderer</primary><secondary>onWindowVisibilityChanged</secondary></indexterm>
+<para><computeroutput>void crc643dd37f507f3d9710.PopupPageRenderer.onWindowVisibilityChanged (int p0)</computeroutput></para><para>
+Definition at line 72 of file PopupPageRenderer.java.</para>
+    </section><anchor xml:id="_classcrc643dd37f507f3d9710_1_1_popup_page_renderer_1a0fdc5819f6bac4ee7a723df371bc0d1b"/>    <section>
+    <title>onWindowVisibilityChanged()<computeroutput>[2/4]</computeroutput></title>
+<indexterm><primary>onWindowVisibilityChanged</primary><secondary>crc643dd37f507f3d9710.PopupPageRenderer</secondary></indexterm>
+<indexterm><primary>crc643dd37f507f3d9710.PopupPageRenderer</primary><secondary>onWindowVisibilityChanged</secondary></indexterm>
+<para><computeroutput>void crc643dd37f507f3d9710.PopupPageRenderer.onWindowVisibilityChanged (int p0)</computeroutput></para><para>
+Definition at line 72 of file PopupPageRenderer.java.</para>
+    </section><anchor xml:id="_classcrc643dd37f507f3d9710_1_1_popup_page_renderer_1a0fdc5819f6bac4ee7a723df371bc0d1b"/>    <section>
+    <title>onWindowVisibilityChanged()<computeroutput>[3/4]</computeroutput></title>
+<indexterm><primary>onWindowVisibilityChanged</primary><secondary>crc643dd37f507f3d9710.PopupPageRenderer</secondary></indexterm>
+<indexterm><primary>crc643dd37f507f3d9710.PopupPageRenderer</primary><secondary>onWindowVisibilityChanged</secondary></indexterm>
+<para><computeroutput>void crc643dd37f507f3d9710.PopupPageRenderer.onWindowVisibilityChanged (int p0)</computeroutput></para><para>
+Definition at line 72 of file PopupPageRenderer.java.</para>
+    </section><anchor xml:id="_classcrc643dd37f507f3d9710_1_1_popup_page_renderer_1a0fdc5819f6bac4ee7a723df371bc0d1b"/>    <section>
+    <title>onWindowVisibilityChanged()<computeroutput>[4/4]</computeroutput></title>
+<indexterm><primary>onWindowVisibilityChanged</primary><secondary>crc643dd37f507f3d9710.PopupPageRenderer</secondary></indexterm>
+<indexterm><primary>crc643dd37f507f3d9710.PopupPageRenderer</primary><secondary>onWindowVisibilityChanged</secondary></indexterm>
+<para><computeroutput>void crc643dd37f507f3d9710.PopupPageRenderer.onWindowVisibilityChanged (int p0)</computeroutput></para><para>
+Definition at line 72 of file PopupPageRenderer.java.</para>
+</section>
+</section>
+<section>
+<title>Member Data Documentation</title>
+<anchor xml:id="_classcrc643dd37f507f3d9710_1_1_popup_page_renderer_1ac91683013f170df4a1c2de38388eb94f"/>    <section>
+    <title>__md_methods</title>
+<indexterm><primary>__md_methods</primary><secondary>crc643dd37f507f3d9710.PopupPageRenderer</secondary></indexterm>
+<indexterm><primary>crc643dd37f507f3d9710.PopupPageRenderer</primary><secondary>__md_methods</secondary></indexterm>
+<para><computeroutput>static final String crc643dd37f507f3d9710.PopupPageRenderer.__md_methods<computeroutput>[static]</computeroutput></computeroutput></para>
+<para>@hide </para>
+<para>
+Definition at line 10 of file PopupPageRenderer.java.</para>
+</section>
+<para>
+The documentation for this class was generated from the following file:</para>
+Application Green Quake.Android/obj/Debug/100/android/src/crc643dd37f507f3d9710/<link linkend="__debug_2100_2android_2src_2crc643dd37f507f3d9710_2_popup_page_renderer_8java">PopupPageRenderer.java</link></section>
+</section>

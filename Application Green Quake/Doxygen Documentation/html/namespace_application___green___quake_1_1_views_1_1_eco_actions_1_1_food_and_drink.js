@@ -1,0 +1,12 @@
+var namespace_application___green___quake_1_1_views_1_1_eco_actions_1_1_food_and_drink =
+[
+    [ "BuyOrganicFood", "class_application___green___quake_1_1_views_1_1_eco_actions_1_1_food_and_drink_1_1_buy_organic_food.html", "class_application___green___quake_1_1_views_1_1_eco_actions_1_1_food_and_drink_1_1_buy_organic_food" ],
+    [ "EatAllYouMake", "class_application___green___quake_1_1_views_1_1_eco_actions_1_1_food_and_drink_1_1_eat_all_you_make.html", "class_application___green___quake_1_1_views_1_1_eco_actions_1_1_food_and_drink_1_1_eat_all_you_make" ],
+    [ "FoodDelivered", "class_application___green___quake_1_1_views_1_1_eco_actions_1_1_food_and_drink_1_1_food_delivered.html", "class_application___green___quake_1_1_views_1_1_eco_actions_1_1_food_and_drink_1_1_food_delivered" ],
+    [ "NoMeat", "class_application___green___quake_1_1_views_1_1_eco_actions_1_1_food_and_drink_1_1_no_meat.html", "class_application___green___quake_1_1_views_1_1_eco_actions_1_1_food_and_drink_1_1_no_meat" ],
+    [ "OwnCoffee", "class_application___green___quake_1_1_views_1_1_eco_actions_1_1_food_and_drink_1_1_own_coffee.html", "class_application___green___quake_1_1_views_1_1_eco_actions_1_1_food_and_drink_1_1_own_coffee" ],
+    [ "ReCoffeeMug", "class_application___green___quake_1_1_views_1_1_eco_actions_1_1_food_and_drink_1_1_re_coffee_mug.html", "class_application___green___quake_1_1_views_1_1_eco_actions_1_1_food_and_drink_1_1_re_coffee_mug" ],
+    [ "SaveLeftOvers", "class_application___green___quake_1_1_views_1_1_eco_actions_1_1_food_and_drink_1_1_save_left_overs.html", "class_application___green___quake_1_1_views_1_1_eco_actions_1_1_food_and_drink_1_1_save_left_overs" ],
+    [ "SteelStraw", "class_application___green___quake_1_1_views_1_1_eco_actions_1_1_food_and_drink_1_1_steel_straw.html", "class_application___green___quake_1_1_views_1_1_eco_actions_1_1_food_and_drink_1_1_steel_straw" ],
+    [ "WaterOverFizzy", "class_application___green___quake_1_1_views_1_1_eco_actions_1_1_food_and_drink_1_1_water_over_fizzy.html", "class_application___green___quake_1_1_views_1_1_eco_actions_1_1_food_and_drink_1_1_water_over_fizzy" ]
+];

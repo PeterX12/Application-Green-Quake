@@ -1,0 +1,154 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.9.1" xml:lang="en-US">
+  <compounddef id="class_application___green___quake_1_1_views_1_1_eco_actions_1_1_food_and_drink_1_1_food_delivered" kind="class" language="C#" prot="public">
+    <compoundname>Application_Green_Quake::Views::EcoActions::FoodAndDrink::FoodDelivered</compoundname>
+    <basecompoundref prot="public" virt="non-virtual">global.XamarinForms.ContentPage</basecompoundref>
+    <basecompoundref prot="public" virt="non-virtual">global.XamarinForms.ContentPage</basecompoundref>
+    <basecompoundref prot="public" virt="non-virtual">ContentPage</basecompoundref>
+      <sectiondef kind="private-attrib">
+      <memberdef kind="variable" id="class_application___green___quake_1_1_views_1_1_eco_actions_1_1_food_and_drink_1_1_food_delivered_1a1242bc37b4024f5dbb917396d29c612b" prot="private" static="no" mutable="no">
+        <type>global::Xamarin.Forms.Label</type>
+        <definition>Xamarin Forms global::Label Application_Green_Quake.Views.EcoActions.FoodAndDrink.FoodDelivered::theLevel</definition>
+        <argsstring></argsstring>
+        <name>theLevel</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake/obj/Debug/netstandard2.0/Views/EcoActions/FoodAndDrink/FoodDelivered.xaml.g.cs" line="20" column="43" bodyfile="Application Green Quake/obj/Debug/netstandard2.0/Views/EcoActions/FoodAndDrink/FoodDelivered.xaml.g.cs" bodystart="20" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="private-func">
+      <memberdef kind="function" id="class_application___green___quake_1_1_views_1_1_eco_actions_1_1_food_and_drink_1_1_food_delivered_1ac774ce5c0cde64e3a45c93a0c725bfc3" prot="private" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void Application_Green_Quake.Views.EcoActions.FoodAndDrink.FoodDelivered.InitializeComponent</definition>
+        <argsstring>()</argsstring>
+        <name>InitializeComponent</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake/obj/Debug/netstandard2.0/Views/EcoActions/FoodAndDrink/FoodDelivered.xaml.g.cs" line="23" column="22" bodyfile="Application Green Quake/obj/Debug/netstandard2.0/Views/EcoActions/FoodAndDrink/FoodDelivered.xaml.g.cs" bodystart="23" bodyend="26"/>
+      </memberdef>
+      <memberdef kind="function" id="class_application___green___quake_1_1_views_1_1_eco_actions_1_1_food_and_drink_1_1_food_delivered_1ac774ce5c0cde64e3a45c93a0c725bfc3" prot="private" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void Application_Green_Quake.Views.EcoActions.FoodAndDrink.FoodDelivered.InitializeComponent</definition>
+        <argsstring>()</argsstring>
+        <name>InitializeComponent</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake/obj/Release/netstandard2.0/Views/EcoActions/FoodAndDrink/FoodDelivered.xaml.g.cs" line="23" column="22" bodyfile="Application Green Quake/obj/Release/netstandard2.0/Views/EcoActions/FoodAndDrink/FoodDelivered.xaml.g.cs" bodystart="23" bodyend="26"/>
+      </memberdef>
+      <memberdef kind="function" id="class_application___green___quake_1_1_views_1_1_eco_actions_1_1_food_and_drink_1_1_food_delivered_1a57fd2834c34ed84cbe5919dc12877315" prot="private" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>async void</type>
+        <definition>async void Application_Green_Quake.Views.EcoActions.FoodAndDrink.FoodDelivered.AddPointsClicked</definition>
+        <argsstring>(object sender, EventArgs e)</argsstring>
+        <name>AddPointsClicked</name>
+        <param>
+          <type>object</type>
+          <declname>sender</declname>
+        </param>
+        <param>
+          <type>EventArgs</type>
+          <declname>e</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+<para>This function creates objects and calls their methods. First the security methods are called and if they return false call the points updating methods </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake/Views/EcoActions/FoodAndDrink/FoodDelivered.xaml.cs" line="29" column="28" bodyfile="Application Green Quake/Views/EcoActions/FoodAndDrink/FoodDelivered.xaml.cs" bodystart="29" bodyend="57"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="public-func">
+      <memberdef kind="function" id="class_application___green___quake_1_1_views_1_1_eco_actions_1_1_food_and_drink_1_1_food_delivered_1a9e33d5c9e3ed730dae14026a3b701eb5" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>Application_Green_Quake.Views.EcoActions.FoodAndDrink.FoodDelivered.FoodDelivered</definition>
+        <argsstring>()</argsstring>
+        <name>FoodDelivered</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake/Views/EcoActions/FoodAndDrink/FoodDelivered.xaml.cs" line="21" column="16" bodyfile="Application Green Quake/Views/EcoActions/FoodAndDrink/FoodDelivered.xaml.cs" bodystart="21" bodyend="25"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="protected-func">
+      <memberdef kind="function" id="class_application___green___quake_1_1_views_1_1_eco_actions_1_1_food_and_drink_1_1_food_delivered_1a331d4e4a851b175ad966245ed7439e86" prot="protected" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>override void</type>
+        <definition>override void Application_Green_Quake.Views.EcoActions.FoodAndDrink.FoodDelivered.OnAppearing</definition>
+        <argsstring>()</argsstring>
+        <name>OnAppearing</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+<para>This function is called before the page is displayed and it created an object ans uses it&apos;s SetLvl method to set the players level in the app and display it in the navigation bar. </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake/Views/EcoActions/FoodAndDrink/FoodDelivered.xaml.cs" line="61" column="33" bodyfile="Application Green Quake/Views/EcoActions/FoodAndDrink/FoodDelivered.xaml.cs" bodystart="61" bodyend="67"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <inheritancegraph>
+      <node id="1">
+        <label>Application_Green_Quake.Views.EcoActions.FoodAndDrink.FoodDelivered</label>
+        <link refid="class_application___green___quake_1_1_views_1_1_eco_actions_1_1_food_and_drink_1_1_food_delivered"/>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+        <childnode refid="3" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="3">
+        <label>ContentPage</label>
+      </node>
+      <node id="2">
+        <label>global::XamarinForms::ContentPage</label>
+      </node>
+    </inheritancegraph>
+    <collaborationgraph>
+      <node id="1">
+        <label>Application_Green_Quake.Views.EcoActions.FoodAndDrink.FoodDelivered</label>
+        <link refid="class_application___green___quake_1_1_views_1_1_eco_actions_1_1_food_and_drink_1_1_food_delivered"/>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+        <childnode refid="3" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="3">
+        <label>ContentPage</label>
+      </node>
+      <node id="2">
+        <label>global::XamarinForms::ContentPage</label>
+      </node>
+    </collaborationgraph>
+    <location file="Application Green Quake/obj/Debug/netstandard2.0/Views/EcoActions/FoodAndDrink/FoodDelivered.xaml.g.cs" line="17" column="19" bodyfile="Application Green Quake/obj/Debug/netstandard2.0/Views/EcoActions/FoodAndDrink/FoodDelivered.xaml.g.cs" bodystart="17" bodyend="27"/>
+    <listofallmembers>
+      <member refid="class_application___green___quake_1_1_views_1_1_eco_actions_1_1_food_and_drink_1_1_food_delivered_1a57fd2834c34ed84cbe5919dc12877315" prot="private" virt="non-virtual"><scope>Application_Green_Quake::Views::EcoActions::FoodAndDrink::FoodDelivered</scope><name>AddPointsClicked</name></member>
+      <member refid="class_application___green___quake_1_1_views_1_1_eco_actions_1_1_food_and_drink_1_1_food_delivered_1a9e33d5c9e3ed730dae14026a3b701eb5" prot="public" virt="non-virtual"><scope>Application_Green_Quake::Views::EcoActions::FoodAndDrink::FoodDelivered</scope><name>FoodDelivered</name></member>
+      <member refid="class_application___green___quake_1_1_views_1_1_eco_actions_1_1_food_and_drink_1_1_food_delivered_1ac774ce5c0cde64e3a45c93a0c725bfc3" prot="private" virt="non-virtual"><scope>Application_Green_Quake::Views::EcoActions::FoodAndDrink::FoodDelivered</scope><name>InitializeComponent</name></member>
+      <member refid="class_application___green___quake_1_1_views_1_1_eco_actions_1_1_food_and_drink_1_1_food_delivered_1ac774ce5c0cde64e3a45c93a0c725bfc3" prot="private" virt="non-virtual"><scope>Application_Green_Quake::Views::EcoActions::FoodAndDrink::FoodDelivered</scope><name>InitializeComponent</name></member>
+      <member refid="class_application___green___quake_1_1_views_1_1_eco_actions_1_1_food_and_drink_1_1_food_delivered_1a331d4e4a851b175ad966245ed7439e86" prot="protected" virt="non-virtual"><scope>Application_Green_Quake::Views::EcoActions::FoodAndDrink::FoodDelivered</scope><name>OnAppearing</name></member>
+      <member refid="class_application___green___quake_1_1_views_1_1_eco_actions_1_1_food_and_drink_1_1_food_delivered_1a1242bc37b4024f5dbb917396d29c612b" prot="private" virt="non-virtual"><scope>Application_Green_Quake::Views::EcoActions::FoodAndDrink::FoodDelivered</scope><name>theLevel</name></member>
+    </listofallmembers>
+  </compounddef>
+</doxygen>

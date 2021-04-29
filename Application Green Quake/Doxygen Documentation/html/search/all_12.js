@@ -1,0 +1,6 @@
+var searchData=
+[
+  ['query_5153',['query',['../classmono_1_1_mono_runtime_provider.html#a5f038667e16324d54f940968f4abd86f',1,'mono.MonoRuntimeProvider.query(android.net.Uri uri, String[] projection, String selection, String[] selectionArgs, String sortOrder)'],['../classmono_1_1_mono_runtime_provider.html#a5f038667e16324d54f940968f4abd86f',1,'mono.MonoRuntimeProvider.query(android.net.Uri uri, String[] projection, String selection, String[] selectionArgs, String sortOrder)'],['../classmono_1_1_mono_runtime_provider.html#a5f038667e16324d54f940968f4abd86f',1,'mono.MonoRuntimeProvider.query(android.net.Uri uri, String[] projection, String selection, String[] selectionArgs, String sortOrder)'],['../classmono_1_1_mono_runtime_provider.html#a5f038667e16324d54f940968f4abd86f',1,'mono.MonoRuntimeProvider.query(android.net.Uri uri, String[] projection, String selection, String[] selectionArgs, String sortOrder)']]],
+  ['querybackground_5154',['queryBackground',['../class_application___green___quake_1_1_droid_1_1_resource_1_1_attribute.html#a798c2aa9c855b2b2412ca12aadc1ac0f',1,'Application_Green_Quake::Droid::Resource::Attribute']]],
+  ['queryhint_5155',['queryHint',['../class_application___green___quake_1_1_droid_1_1_resource_1_1_attribute.html#aef139f61824bb7644528d3ae2210a23d',1,'Application_Green_Quake::Droid::Resource::Attribute']]]
+];

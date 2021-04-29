@@ -1,0 +1,286 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<section xmlns="http://docbook.org/ns/docbook" version="5.0" xmlns:xlink="http://www.w3.org/1999/xlink" xml:id="_classmono_1_1androidx_1_1constraintlayout_1_1motion_1_1widget_1_1_motion_layout___transition_listener_implementor" xml:lang="en-US">
+<title>mono.androidx.constraintlayout.motion.widget.MotionLayout_TransitionListenerImplementor Class Reference</title>
+<indexterm><primary>mono.androidx.constraintlayout.motion.widget.MotionLayout_TransitionListenerImplementor</primary></indexterm>
+Inheritance diagram for mono.androidx.constraintlayout.motion.widget.MotionLayout_TransitionListenerImplementor:<para>
+    <informalfigure>
+        <mediaobject>
+            <imageobject>
+                <imagedata width="50%" align="center" valign="middle" scalefit="0" fileref="classmono_1_1androidx_1_1constraintlayout_1_1motion_1_1widget_1_1_motion_layout___transition_lisb4b2e2882f6c335b1c1dcb262cb414df.png"></imagedata>
+            </imageobject>
+        </mediaobject>
+    </informalfigure>
+</para>
+Collaboration diagram for mono.androidx.constraintlayout.motion.widget.MotionLayout_TransitionListenerImplementor:<para>
+    <informalfigure>
+        <mediaobject>
+            <imageobject>
+                <imagedata width="50%" align="center" valign="middle" scalefit="0" fileref="classmono_1_1androidx_1_1constraintlayout_1_1motion_1_1widget_1_1_motion_layout___transition_listener_implementor__coll__graph.png"></imagedata>
+            </imageobject>
+        </mediaobject>
+    </informalfigure>
+</para>
+<simplesect>
+    <title>Public Member Functions    </title>
+        <itemizedlist>
+            <listitem><para><link linkend="_classmono_1_1androidx_1_1constraintlayout_1_1motion_1_1widget_1_1_motion_layout___transition_listener_implementor_1a4c809ef62be305e8daece03bec8e39b8">MotionLayout_TransitionListenerImplementor</link> ()</para>
+</listitem>
+            <listitem><para>void <link linkend="_classmono_1_1androidx_1_1constraintlayout_1_1motion_1_1widget_1_1_motion_layout___transition_listener_implementor_1a3f34657ae14982ac5bfc9d5c7dd4a35e">onTransitionChange</link> (androidx.constraintlayout.motion.widget.MotionLayout p0, int p1, int p2, float p3)</para>
+</listitem>
+            <listitem><para>void <link linkend="_classmono_1_1androidx_1_1constraintlayout_1_1motion_1_1widget_1_1_motion_layout___transition_listener_implementor_1ae677435d8de4f086df27eecb15969fc4">onTransitionCompleted</link> (androidx.constraintlayout.motion.widget.MotionLayout p0, int p1)</para>
+</listitem>
+            <listitem><para>void <link linkend="_classmono_1_1androidx_1_1constraintlayout_1_1motion_1_1widget_1_1_motion_layout___transition_listener_implementor_1aff12d1466827b4b82a2cae3ca4e08a27">onTransitionStarted</link> (androidx.constraintlayout.motion.widget.MotionLayout p0, int p1, int p2)</para>
+</listitem>
+            <listitem><para>void <link linkend="_classmono_1_1androidx_1_1constraintlayout_1_1motion_1_1widget_1_1_motion_layout___transition_listener_implementor_1a346d17c5269ef06a48fb760dd55992a8">onTransitionTrigger</link> (androidx.constraintlayout.motion.widget.MotionLayout p0, int p1, boolean p2, float p3)</para>
+</listitem>
+            <listitem><para>void <link linkend="_classmono_1_1androidx_1_1constraintlayout_1_1motion_1_1widget_1_1_motion_layout___transition_listener_implementor_1ac4383dd7d4870ae1c74a5e36cb62635d">monodroidAddReference</link> (java.lang.Object obj)</para>
+</listitem>
+            <listitem><para>void <link linkend="_classmono_1_1androidx_1_1constraintlayout_1_1motion_1_1widget_1_1_motion_layout___transition_listener_implementor_1a4aad904c76f11c8dec1385319114c1f8">monodroidClearReferences</link> ()</para>
+</listitem>
+            <listitem><para><link linkend="_classmono_1_1androidx_1_1constraintlayout_1_1motion_1_1widget_1_1_motion_layout___transition_listener_implementor_1a4c809ef62be305e8daece03bec8e39b8">MotionLayout_TransitionListenerImplementor</link> ()</para>
+</listitem>
+            <listitem><para>void <link linkend="_classmono_1_1androidx_1_1constraintlayout_1_1motion_1_1widget_1_1_motion_layout___transition_listener_implementor_1a3f34657ae14982ac5bfc9d5c7dd4a35e">onTransitionChange</link> (androidx.constraintlayout.motion.widget.MotionLayout p0, int p1, int p2, float p3)</para>
+</listitem>
+            <listitem><para>void <link linkend="_classmono_1_1androidx_1_1constraintlayout_1_1motion_1_1widget_1_1_motion_layout___transition_listener_implementor_1ae677435d8de4f086df27eecb15969fc4">onTransitionCompleted</link> (androidx.constraintlayout.motion.widget.MotionLayout p0, int p1)</para>
+</listitem>
+            <listitem><para>void <link linkend="_classmono_1_1androidx_1_1constraintlayout_1_1motion_1_1widget_1_1_motion_layout___transition_listener_implementor_1aff12d1466827b4b82a2cae3ca4e08a27">onTransitionStarted</link> (androidx.constraintlayout.motion.widget.MotionLayout p0, int p1, int p2)</para>
+</listitem>
+            <listitem><para>void <link linkend="_classmono_1_1androidx_1_1constraintlayout_1_1motion_1_1widget_1_1_motion_layout___transition_listener_implementor_1a346d17c5269ef06a48fb760dd55992a8">onTransitionTrigger</link> (androidx.constraintlayout.motion.widget.MotionLayout p0, int p1, boolean p2, float p3)</para>
+</listitem>
+            <listitem><para>void <link linkend="_classmono_1_1androidx_1_1constraintlayout_1_1motion_1_1widget_1_1_motion_layout___transition_listener_implementor_1ac4383dd7d4870ae1c74a5e36cb62635d">monodroidAddReference</link> (java.lang.Object obj)</para>
+</listitem>
+            <listitem><para>void <link linkend="_classmono_1_1androidx_1_1constraintlayout_1_1motion_1_1widget_1_1_motion_layout___transition_listener_implementor_1a4aad904c76f11c8dec1385319114c1f8">monodroidClearReferences</link> ()</para>
+</listitem>
+            <listitem><para><link linkend="_classmono_1_1androidx_1_1constraintlayout_1_1motion_1_1widget_1_1_motion_layout___transition_listener_implementor_1a4c809ef62be305e8daece03bec8e39b8">MotionLayout_TransitionListenerImplementor</link> ()</para>
+</listitem>
+            <listitem><para>void <link linkend="_classmono_1_1androidx_1_1constraintlayout_1_1motion_1_1widget_1_1_motion_layout___transition_listener_implementor_1a3f34657ae14982ac5bfc9d5c7dd4a35e">onTransitionChange</link> (androidx.constraintlayout.motion.widget.MotionLayout p0, int p1, int p2, float p3)</para>
+</listitem>
+            <listitem><para>void <link linkend="_classmono_1_1androidx_1_1constraintlayout_1_1motion_1_1widget_1_1_motion_layout___transition_listener_implementor_1ae677435d8de4f086df27eecb15969fc4">onTransitionCompleted</link> (androidx.constraintlayout.motion.widget.MotionLayout p0, int p1)</para>
+</listitem>
+            <listitem><para>void <link linkend="_classmono_1_1androidx_1_1constraintlayout_1_1motion_1_1widget_1_1_motion_layout___transition_listener_implementor_1aff12d1466827b4b82a2cae3ca4e08a27">onTransitionStarted</link> (androidx.constraintlayout.motion.widget.MotionLayout p0, int p1, int p2)</para>
+</listitem>
+            <listitem><para>void <link linkend="_classmono_1_1androidx_1_1constraintlayout_1_1motion_1_1widget_1_1_motion_layout___transition_listener_implementor_1a346d17c5269ef06a48fb760dd55992a8">onTransitionTrigger</link> (androidx.constraintlayout.motion.widget.MotionLayout p0, int p1, boolean p2, float p3)</para>
+</listitem>
+            <listitem><para>void <link linkend="_classmono_1_1androidx_1_1constraintlayout_1_1motion_1_1widget_1_1_motion_layout___transition_listener_implementor_1ac4383dd7d4870ae1c74a5e36cb62635d">monodroidAddReference</link> (java.lang.Object obj)</para>
+</listitem>
+            <listitem><para>void <link linkend="_classmono_1_1androidx_1_1constraintlayout_1_1motion_1_1widget_1_1_motion_layout___transition_listener_implementor_1a4aad904c76f11c8dec1385319114c1f8">monodroidClearReferences</link> ()</para>
+</listitem>
+            <listitem><para><link linkend="_classmono_1_1androidx_1_1constraintlayout_1_1motion_1_1widget_1_1_motion_layout___transition_listener_implementor_1a4c809ef62be305e8daece03bec8e39b8">MotionLayout_TransitionListenerImplementor</link> ()</para>
+</listitem>
+            <listitem><para>void <link linkend="_classmono_1_1androidx_1_1constraintlayout_1_1motion_1_1widget_1_1_motion_layout___transition_listener_implementor_1a3f34657ae14982ac5bfc9d5c7dd4a35e">onTransitionChange</link> (androidx.constraintlayout.motion.widget.MotionLayout p0, int p1, int p2, float p3)</para>
+</listitem>
+            <listitem><para>void <link linkend="_classmono_1_1androidx_1_1constraintlayout_1_1motion_1_1widget_1_1_motion_layout___transition_listener_implementor_1ae677435d8de4f086df27eecb15969fc4">onTransitionCompleted</link> (androidx.constraintlayout.motion.widget.MotionLayout p0, int p1)</para>
+</listitem>
+            <listitem><para>void <link linkend="_classmono_1_1androidx_1_1constraintlayout_1_1motion_1_1widget_1_1_motion_layout___transition_listener_implementor_1aff12d1466827b4b82a2cae3ca4e08a27">onTransitionStarted</link> (androidx.constraintlayout.motion.widget.MotionLayout p0, int p1, int p2)</para>
+</listitem>
+            <listitem><para>void <link linkend="_classmono_1_1androidx_1_1constraintlayout_1_1motion_1_1widget_1_1_motion_layout___transition_listener_implementor_1a346d17c5269ef06a48fb760dd55992a8">onTransitionTrigger</link> (androidx.constraintlayout.motion.widget.MotionLayout p0, int p1, boolean p2, float p3)</para>
+</listitem>
+            <listitem><para>void <link linkend="_classmono_1_1androidx_1_1constraintlayout_1_1motion_1_1widget_1_1_motion_layout___transition_listener_implementor_1ac4383dd7d4870ae1c74a5e36cb62635d">monodroidAddReference</link> (java.lang.Object obj)</para>
+</listitem>
+            <listitem><para>void <link linkend="_classmono_1_1androidx_1_1constraintlayout_1_1motion_1_1widget_1_1_motion_layout___transition_listener_implementor_1a4aad904c76f11c8dec1385319114c1f8">monodroidClearReferences</link> ()</para>
+</listitem>
+        </itemizedlist>
+</simplesect>
+<simplesect>
+    <title>Static Public Attributes    </title>
+        <itemizedlist>
+            <listitem><para>static final String <link linkend="_classmono_1_1androidx_1_1constraintlayout_1_1motion_1_1widget_1_1_motion_layout___transition_listener_implementor_1a35e37cf0123a8d3f315eadf079eaa2c0">__md_methods</link></para>
+</listitem>
+        </itemizedlist>
+</simplesect>
+<section>
+<title>Detailed Description</title>
+<para>
+Definition at line 4 of file MotionLayout_TransitionListenerImplementor.java.</para>
+</section>
+<section>
+<title>Constructor &amp; Destructor Documentation</title>
+<anchor xml:id="_classmono_1_1androidx_1_1constraintlayout_1_1motion_1_1widget_1_1_motion_layout___transition_listener_implementor_1a4c809ef62be305e8daece03bec8e39b8"/>    <section>
+    <title>MotionLayout_TransitionListenerImplementor()<computeroutput>[1/4]</computeroutput></title>
+<indexterm><primary>MotionLayout_TransitionListenerImplementor</primary><secondary>mono.androidx.constraintlayout.motion.widget.MotionLayout_TransitionListenerImplementor</secondary></indexterm>
+<indexterm><primary>mono.androidx.constraintlayout.motion.widget.MotionLayout_TransitionListenerImplementor</primary><secondary>MotionLayout_TransitionListenerImplementor</secondary></indexterm>
+<para><computeroutput>mono.androidx.constraintlayout.motion.widget.MotionLayout_TransitionListenerImplementor.MotionLayout_TransitionListenerImplementor ( )</computeroutput></para><para>
+Definition at line 23 of file MotionLayout_TransitionListenerImplementor.java.</para>
+    </section><anchor xml:id="_classmono_1_1androidx_1_1constraintlayout_1_1motion_1_1widget_1_1_motion_layout___transition_listener_implementor_1a4c809ef62be305e8daece03bec8e39b8"/>    <section>
+    <title>MotionLayout_TransitionListenerImplementor()<computeroutput>[2/4]</computeroutput></title>
+<indexterm><primary>MotionLayout_TransitionListenerImplementor</primary><secondary>mono.androidx.constraintlayout.motion.widget.MotionLayout_TransitionListenerImplementor</secondary></indexterm>
+<indexterm><primary>mono.androidx.constraintlayout.motion.widget.MotionLayout_TransitionListenerImplementor</primary><secondary>MotionLayout_TransitionListenerImplementor</secondary></indexterm>
+<para><computeroutput>mono.androidx.constraintlayout.motion.widget.MotionLayout_TransitionListenerImplementor.MotionLayout_TransitionListenerImplementor ( )</computeroutput></para><para>
+Definition at line 23 of file MotionLayout_TransitionListenerImplementor.java.</para>
+    </section><anchor xml:id="_classmono_1_1androidx_1_1constraintlayout_1_1motion_1_1widget_1_1_motion_layout___transition_listener_implementor_1a4c809ef62be305e8daece03bec8e39b8"/>    <section>
+    <title>MotionLayout_TransitionListenerImplementor()<computeroutput>[3/4]</computeroutput></title>
+<indexterm><primary>MotionLayout_TransitionListenerImplementor</primary><secondary>mono.androidx.constraintlayout.motion.widget.MotionLayout_TransitionListenerImplementor</secondary></indexterm>
+<indexterm><primary>mono.androidx.constraintlayout.motion.widget.MotionLayout_TransitionListenerImplementor</primary><secondary>MotionLayout_TransitionListenerImplementor</secondary></indexterm>
+<para><computeroutput>mono.androidx.constraintlayout.motion.widget.MotionLayout_TransitionListenerImplementor.MotionLayout_TransitionListenerImplementor ( )</computeroutput></para><para>
+Definition at line 23 of file MotionLayout_TransitionListenerImplementor.java.</para>
+    </section><anchor xml:id="_classmono_1_1androidx_1_1constraintlayout_1_1motion_1_1widget_1_1_motion_layout___transition_listener_implementor_1a4c809ef62be305e8daece03bec8e39b8"/>    <section>
+    <title>MotionLayout_TransitionListenerImplementor()<computeroutput>[4/4]</computeroutput></title>
+<indexterm><primary>MotionLayout_TransitionListenerImplementor</primary><secondary>mono.androidx.constraintlayout.motion.widget.MotionLayout_TransitionListenerImplementor</secondary></indexterm>
+<indexterm><primary>mono.androidx.constraintlayout.motion.widget.MotionLayout_TransitionListenerImplementor</primary><secondary>MotionLayout_TransitionListenerImplementor</secondary></indexterm>
+<para><computeroutput>mono.androidx.constraintlayout.motion.widget.MotionLayout_TransitionListenerImplementor.MotionLayout_TransitionListenerImplementor ( )</computeroutput></para><para>
+Definition at line 23 of file MotionLayout_TransitionListenerImplementor.java.</para>
+</section>
+</section>
+<section>
+<title>Member Function Documentation</title>
+<anchor xml:id="_classmono_1_1androidx_1_1constraintlayout_1_1motion_1_1widget_1_1_motion_layout___transition_listener_implementor_1ac4383dd7d4870ae1c74a5e36cb62635d"/>    <section>
+    <title>monodroidAddReference()<computeroutput>[1/4]</computeroutput></title>
+<indexterm><primary>monodroidAddReference</primary><secondary>mono.androidx.constraintlayout.motion.widget.MotionLayout_TransitionListenerImplementor</secondary></indexterm>
+<indexterm><primary>mono.androidx.constraintlayout.motion.widget.MotionLayout_TransitionListenerImplementor</primary><secondary>monodroidAddReference</secondary></indexterm>
+<para><computeroutput>void mono.androidx.constraintlayout.motion.widget.MotionLayout_TransitionListenerImplementor.monodroidAddReference (java.lang.Object obj)</computeroutput></para><para>
+Definition at line 63 of file MotionLayout_TransitionListenerImplementor.java.</para>
+    </section><anchor xml:id="_classmono_1_1androidx_1_1constraintlayout_1_1motion_1_1widget_1_1_motion_layout___transition_listener_implementor_1ac4383dd7d4870ae1c74a5e36cb62635d"/>    <section>
+    <title>monodroidAddReference()<computeroutput>[2/4]</computeroutput></title>
+<indexterm><primary>monodroidAddReference</primary><secondary>mono.androidx.constraintlayout.motion.widget.MotionLayout_TransitionListenerImplementor</secondary></indexterm>
+<indexterm><primary>mono.androidx.constraintlayout.motion.widget.MotionLayout_TransitionListenerImplementor</primary><secondary>monodroidAddReference</secondary></indexterm>
+<para><computeroutput>void mono.androidx.constraintlayout.motion.widget.MotionLayout_TransitionListenerImplementor.monodroidAddReference (java.lang.Object obj)</computeroutput></para><para>
+Definition at line 63 of file MotionLayout_TransitionListenerImplementor.java.</para>
+    </section><anchor xml:id="_classmono_1_1androidx_1_1constraintlayout_1_1motion_1_1widget_1_1_motion_layout___transition_listener_implementor_1ac4383dd7d4870ae1c74a5e36cb62635d"/>    <section>
+    <title>monodroidAddReference()<computeroutput>[3/4]</computeroutput></title>
+<indexterm><primary>monodroidAddReference</primary><secondary>mono.androidx.constraintlayout.motion.widget.MotionLayout_TransitionListenerImplementor</secondary></indexterm>
+<indexterm><primary>mono.androidx.constraintlayout.motion.widget.MotionLayout_TransitionListenerImplementor</primary><secondary>monodroidAddReference</secondary></indexterm>
+<para><computeroutput>void mono.androidx.constraintlayout.motion.widget.MotionLayout_TransitionListenerImplementor.monodroidAddReference (java.lang.Object obj)</computeroutput></para><para>
+Definition at line 63 of file MotionLayout_TransitionListenerImplementor.java.</para>
+    </section><anchor xml:id="_classmono_1_1androidx_1_1constraintlayout_1_1motion_1_1widget_1_1_motion_layout___transition_listener_implementor_1ac4383dd7d4870ae1c74a5e36cb62635d"/>    <section>
+    <title>monodroidAddReference()<computeroutput>[4/4]</computeroutput></title>
+<indexterm><primary>monodroidAddReference</primary><secondary>mono.androidx.constraintlayout.motion.widget.MotionLayout_TransitionListenerImplementor</secondary></indexterm>
+<indexterm><primary>mono.androidx.constraintlayout.motion.widget.MotionLayout_TransitionListenerImplementor</primary><secondary>monodroidAddReference</secondary></indexterm>
+<para><computeroutput>void mono.androidx.constraintlayout.motion.widget.MotionLayout_TransitionListenerImplementor.monodroidAddReference (java.lang.Object obj)</computeroutput></para><para>
+Definition at line 63 of file MotionLayout_TransitionListenerImplementor.java.</para>
+    </section><anchor xml:id="_classmono_1_1androidx_1_1constraintlayout_1_1motion_1_1widget_1_1_motion_layout___transition_listener_implementor_1a4aad904c76f11c8dec1385319114c1f8"/>    <section>
+    <title>monodroidClearReferences()<computeroutput>[1/4]</computeroutput></title>
+<indexterm><primary>monodroidClearReferences</primary><secondary>mono.androidx.constraintlayout.motion.widget.MotionLayout_TransitionListenerImplementor</secondary></indexterm>
+<indexterm><primary>mono.androidx.constraintlayout.motion.widget.MotionLayout_TransitionListenerImplementor</primary><secondary>monodroidClearReferences</secondary></indexterm>
+<para><computeroutput>void mono.androidx.constraintlayout.motion.widget.MotionLayout_TransitionListenerImplementor.monodroidClearReferences ( )</computeroutput></para><para>
+Definition at line 70 of file MotionLayout_TransitionListenerImplementor.java.</para>
+    </section><anchor xml:id="_classmono_1_1androidx_1_1constraintlayout_1_1motion_1_1widget_1_1_motion_layout___transition_listener_implementor_1a4aad904c76f11c8dec1385319114c1f8"/>    <section>
+    <title>monodroidClearReferences()<computeroutput>[2/4]</computeroutput></title>
+<indexterm><primary>monodroidClearReferences</primary><secondary>mono.androidx.constraintlayout.motion.widget.MotionLayout_TransitionListenerImplementor</secondary></indexterm>
+<indexterm><primary>mono.androidx.constraintlayout.motion.widget.MotionLayout_TransitionListenerImplementor</primary><secondary>monodroidClearReferences</secondary></indexterm>
+<para><computeroutput>void mono.androidx.constraintlayout.motion.widget.MotionLayout_TransitionListenerImplementor.monodroidClearReferences ( )</computeroutput></para><para>
+Definition at line 70 of file MotionLayout_TransitionListenerImplementor.java.</para>
+    </section><anchor xml:id="_classmono_1_1androidx_1_1constraintlayout_1_1motion_1_1widget_1_1_motion_layout___transition_listener_implementor_1a4aad904c76f11c8dec1385319114c1f8"/>    <section>
+    <title>monodroidClearReferences()<computeroutput>[3/4]</computeroutput></title>
+<indexterm><primary>monodroidClearReferences</primary><secondary>mono.androidx.constraintlayout.motion.widget.MotionLayout_TransitionListenerImplementor</secondary></indexterm>
+<indexterm><primary>mono.androidx.constraintlayout.motion.widget.MotionLayout_TransitionListenerImplementor</primary><secondary>monodroidClearReferences</secondary></indexterm>
+<para><computeroutput>void mono.androidx.constraintlayout.motion.widget.MotionLayout_TransitionListenerImplementor.monodroidClearReferences ( )</computeroutput></para><para>
+Definition at line 70 of file MotionLayout_TransitionListenerImplementor.java.</para>
+    </section><anchor xml:id="_classmono_1_1androidx_1_1constraintlayout_1_1motion_1_1widget_1_1_motion_layout___transition_listener_implementor_1a4aad904c76f11c8dec1385319114c1f8"/>    <section>
+    <title>monodroidClearReferences()<computeroutput>[4/4]</computeroutput></title>
+<indexterm><primary>monodroidClearReferences</primary><secondary>mono.androidx.constraintlayout.motion.widget.MotionLayout_TransitionListenerImplementor</secondary></indexterm>
+<indexterm><primary>mono.androidx.constraintlayout.motion.widget.MotionLayout_TransitionListenerImplementor</primary><secondary>monodroidClearReferences</secondary></indexterm>
+<para><computeroutput>void mono.androidx.constraintlayout.motion.widget.MotionLayout_TransitionListenerImplementor.monodroidClearReferences ( )</computeroutput></para><para>
+Definition at line 70 of file MotionLayout_TransitionListenerImplementor.java.</para>
+    </section><anchor xml:id="_classmono_1_1androidx_1_1constraintlayout_1_1motion_1_1widget_1_1_motion_layout___transition_listener_implementor_1a3f34657ae14982ac5bfc9d5c7dd4a35e"/>    <section>
+    <title>onTransitionChange()<computeroutput>[1/4]</computeroutput></title>
+<indexterm><primary>onTransitionChange</primary><secondary>mono.androidx.constraintlayout.motion.widget.MotionLayout_TransitionListenerImplementor</secondary></indexterm>
+<indexterm><primary>mono.androidx.constraintlayout.motion.widget.MotionLayout_TransitionListenerImplementor</primary><secondary>onTransitionChange</secondary></indexterm>
+<para><computeroutput>void mono.androidx.constraintlayout.motion.widget.MotionLayout_TransitionListenerImplementor.onTransitionChange (androidx.constraintlayout.motion.widget.MotionLayout p0, int p1, int p2, float p3)</computeroutput></para><para>
+Definition at line 31 of file MotionLayout_TransitionListenerImplementor.java.</para>
+    </section><anchor xml:id="_classmono_1_1androidx_1_1constraintlayout_1_1motion_1_1widget_1_1_motion_layout___transition_listener_implementor_1a3f34657ae14982ac5bfc9d5c7dd4a35e"/>    <section>
+    <title>onTransitionChange()<computeroutput>[2/4]</computeroutput></title>
+<indexterm><primary>onTransitionChange</primary><secondary>mono.androidx.constraintlayout.motion.widget.MotionLayout_TransitionListenerImplementor</secondary></indexterm>
+<indexterm><primary>mono.androidx.constraintlayout.motion.widget.MotionLayout_TransitionListenerImplementor</primary><secondary>onTransitionChange</secondary></indexterm>
+<para><computeroutput>void mono.androidx.constraintlayout.motion.widget.MotionLayout_TransitionListenerImplementor.onTransitionChange (androidx.constraintlayout.motion.widget.MotionLayout p0, int p1, int p2, float p3)</computeroutput></para><para>
+Definition at line 31 of file MotionLayout_TransitionListenerImplementor.java.</para>
+    </section><anchor xml:id="_classmono_1_1androidx_1_1constraintlayout_1_1motion_1_1widget_1_1_motion_layout___transition_listener_implementor_1a3f34657ae14982ac5bfc9d5c7dd4a35e"/>    <section>
+    <title>onTransitionChange()<computeroutput>[3/4]</computeroutput></title>
+<indexterm><primary>onTransitionChange</primary><secondary>mono.androidx.constraintlayout.motion.widget.MotionLayout_TransitionListenerImplementor</secondary></indexterm>
+<indexterm><primary>mono.androidx.constraintlayout.motion.widget.MotionLayout_TransitionListenerImplementor</primary><secondary>onTransitionChange</secondary></indexterm>
+<para><computeroutput>void mono.androidx.constraintlayout.motion.widget.MotionLayout_TransitionListenerImplementor.onTransitionChange (androidx.constraintlayout.motion.widget.MotionLayout p0, int p1, int p2, float p3)</computeroutput></para><para>
+Definition at line 31 of file MotionLayout_TransitionListenerImplementor.java.</para>
+    </section><anchor xml:id="_classmono_1_1androidx_1_1constraintlayout_1_1motion_1_1widget_1_1_motion_layout___transition_listener_implementor_1a3f34657ae14982ac5bfc9d5c7dd4a35e"/>    <section>
+    <title>onTransitionChange()<computeroutput>[4/4]</computeroutput></title>
+<indexterm><primary>onTransitionChange</primary><secondary>mono.androidx.constraintlayout.motion.widget.MotionLayout_TransitionListenerImplementor</secondary></indexterm>
+<indexterm><primary>mono.androidx.constraintlayout.motion.widget.MotionLayout_TransitionListenerImplementor</primary><secondary>onTransitionChange</secondary></indexterm>
+<para><computeroutput>void mono.androidx.constraintlayout.motion.widget.MotionLayout_TransitionListenerImplementor.onTransitionChange (androidx.constraintlayout.motion.widget.MotionLayout p0, int p1, int p2, float p3)</computeroutput></para><para>
+Definition at line 31 of file MotionLayout_TransitionListenerImplementor.java.</para>
+    </section><anchor xml:id="_classmono_1_1androidx_1_1constraintlayout_1_1motion_1_1widget_1_1_motion_layout___transition_listener_implementor_1ae677435d8de4f086df27eecb15969fc4"/>    <section>
+    <title>onTransitionCompleted()<computeroutput>[1/4]</computeroutput></title>
+<indexterm><primary>onTransitionCompleted</primary><secondary>mono.androidx.constraintlayout.motion.widget.MotionLayout_TransitionListenerImplementor</secondary></indexterm>
+<indexterm><primary>mono.androidx.constraintlayout.motion.widget.MotionLayout_TransitionListenerImplementor</primary><secondary>onTransitionCompleted</secondary></indexterm>
+<para><computeroutput>void mono.androidx.constraintlayout.motion.widget.MotionLayout_TransitionListenerImplementor.onTransitionCompleted (androidx.constraintlayout.motion.widget.MotionLayout p0, int p1)</computeroutput></para><para>
+Definition at line 39 of file MotionLayout_TransitionListenerImplementor.java.</para>
+    </section><anchor xml:id="_classmono_1_1androidx_1_1constraintlayout_1_1motion_1_1widget_1_1_motion_layout___transition_listener_implementor_1ae677435d8de4f086df27eecb15969fc4"/>    <section>
+    <title>onTransitionCompleted()<computeroutput>[2/4]</computeroutput></title>
+<indexterm><primary>onTransitionCompleted</primary><secondary>mono.androidx.constraintlayout.motion.widget.MotionLayout_TransitionListenerImplementor</secondary></indexterm>
+<indexterm><primary>mono.androidx.constraintlayout.motion.widget.MotionLayout_TransitionListenerImplementor</primary><secondary>onTransitionCompleted</secondary></indexterm>
+<para><computeroutput>void mono.androidx.constraintlayout.motion.widget.MotionLayout_TransitionListenerImplementor.onTransitionCompleted (androidx.constraintlayout.motion.widget.MotionLayout p0, int p1)</computeroutput></para><para>
+Definition at line 39 of file MotionLayout_TransitionListenerImplementor.java.</para>
+    </section><anchor xml:id="_classmono_1_1androidx_1_1constraintlayout_1_1motion_1_1widget_1_1_motion_layout___transition_listener_implementor_1ae677435d8de4f086df27eecb15969fc4"/>    <section>
+    <title>onTransitionCompleted()<computeroutput>[3/4]</computeroutput></title>
+<indexterm><primary>onTransitionCompleted</primary><secondary>mono.androidx.constraintlayout.motion.widget.MotionLayout_TransitionListenerImplementor</secondary></indexterm>
+<indexterm><primary>mono.androidx.constraintlayout.motion.widget.MotionLayout_TransitionListenerImplementor</primary><secondary>onTransitionCompleted</secondary></indexterm>
+<para><computeroutput>void mono.androidx.constraintlayout.motion.widget.MotionLayout_TransitionListenerImplementor.onTransitionCompleted (androidx.constraintlayout.motion.widget.MotionLayout p0, int p1)</computeroutput></para><para>
+Definition at line 39 of file MotionLayout_TransitionListenerImplementor.java.</para>
+    </section><anchor xml:id="_classmono_1_1androidx_1_1constraintlayout_1_1motion_1_1widget_1_1_motion_layout___transition_listener_implementor_1ae677435d8de4f086df27eecb15969fc4"/>    <section>
+    <title>onTransitionCompleted()<computeroutput>[4/4]</computeroutput></title>
+<indexterm><primary>onTransitionCompleted</primary><secondary>mono.androidx.constraintlayout.motion.widget.MotionLayout_TransitionListenerImplementor</secondary></indexterm>
+<indexterm><primary>mono.androidx.constraintlayout.motion.widget.MotionLayout_TransitionListenerImplementor</primary><secondary>onTransitionCompleted</secondary></indexterm>
+<para><computeroutput>void mono.androidx.constraintlayout.motion.widget.MotionLayout_TransitionListenerImplementor.onTransitionCompleted (androidx.constraintlayout.motion.widget.MotionLayout p0, int p1)</computeroutput></para><para>
+Definition at line 39 of file MotionLayout_TransitionListenerImplementor.java.</para>
+    </section><anchor xml:id="_classmono_1_1androidx_1_1constraintlayout_1_1motion_1_1widget_1_1_motion_layout___transition_listener_implementor_1aff12d1466827b4b82a2cae3ca4e08a27"/>    <section>
+    <title>onTransitionStarted()<computeroutput>[1/4]</computeroutput></title>
+<indexterm><primary>onTransitionStarted</primary><secondary>mono.androidx.constraintlayout.motion.widget.MotionLayout_TransitionListenerImplementor</secondary></indexterm>
+<indexterm><primary>mono.androidx.constraintlayout.motion.widget.MotionLayout_TransitionListenerImplementor</primary><secondary>onTransitionStarted</secondary></indexterm>
+<para><computeroutput>void mono.androidx.constraintlayout.motion.widget.MotionLayout_TransitionListenerImplementor.onTransitionStarted (androidx.constraintlayout.motion.widget.MotionLayout p0, int p1, int p2)</computeroutput></para><para>
+Definition at line 47 of file MotionLayout_TransitionListenerImplementor.java.</para>
+    </section><anchor xml:id="_classmono_1_1androidx_1_1constraintlayout_1_1motion_1_1widget_1_1_motion_layout___transition_listener_implementor_1aff12d1466827b4b82a2cae3ca4e08a27"/>    <section>
+    <title>onTransitionStarted()<computeroutput>[2/4]</computeroutput></title>
+<indexterm><primary>onTransitionStarted</primary><secondary>mono.androidx.constraintlayout.motion.widget.MotionLayout_TransitionListenerImplementor</secondary></indexterm>
+<indexterm><primary>mono.androidx.constraintlayout.motion.widget.MotionLayout_TransitionListenerImplementor</primary><secondary>onTransitionStarted</secondary></indexterm>
+<para><computeroutput>void mono.androidx.constraintlayout.motion.widget.MotionLayout_TransitionListenerImplementor.onTransitionStarted (androidx.constraintlayout.motion.widget.MotionLayout p0, int p1, int p2)</computeroutput></para><para>
+Definition at line 47 of file MotionLayout_TransitionListenerImplementor.java.</para>
+    </section><anchor xml:id="_classmono_1_1androidx_1_1constraintlayout_1_1motion_1_1widget_1_1_motion_layout___transition_listener_implementor_1aff12d1466827b4b82a2cae3ca4e08a27"/>    <section>
+    <title>onTransitionStarted()<computeroutput>[3/4]</computeroutput></title>
+<indexterm><primary>onTransitionStarted</primary><secondary>mono.androidx.constraintlayout.motion.widget.MotionLayout_TransitionListenerImplementor</secondary></indexterm>
+<indexterm><primary>mono.androidx.constraintlayout.motion.widget.MotionLayout_TransitionListenerImplementor</primary><secondary>onTransitionStarted</secondary></indexterm>
+<para><computeroutput>void mono.androidx.constraintlayout.motion.widget.MotionLayout_TransitionListenerImplementor.onTransitionStarted (androidx.constraintlayout.motion.widget.MotionLayout p0, int p1, int p2)</computeroutput></para><para>
+Definition at line 47 of file MotionLayout_TransitionListenerImplementor.java.</para>
+    </section><anchor xml:id="_classmono_1_1androidx_1_1constraintlayout_1_1motion_1_1widget_1_1_motion_layout___transition_listener_implementor_1aff12d1466827b4b82a2cae3ca4e08a27"/>    <section>
+    <title>onTransitionStarted()<computeroutput>[4/4]</computeroutput></title>
+<indexterm><primary>onTransitionStarted</primary><secondary>mono.androidx.constraintlayout.motion.widget.MotionLayout_TransitionListenerImplementor</secondary></indexterm>
+<indexterm><primary>mono.androidx.constraintlayout.motion.widget.MotionLayout_TransitionListenerImplementor</primary><secondary>onTransitionStarted</secondary></indexterm>
+<para><computeroutput>void mono.androidx.constraintlayout.motion.widget.MotionLayout_TransitionListenerImplementor.onTransitionStarted (androidx.constraintlayout.motion.widget.MotionLayout p0, int p1, int p2)</computeroutput></para><para>
+Definition at line 47 of file MotionLayout_TransitionListenerImplementor.java.</para>
+    </section><anchor xml:id="_classmono_1_1androidx_1_1constraintlayout_1_1motion_1_1widget_1_1_motion_layout___transition_listener_implementor_1a346d17c5269ef06a48fb760dd55992a8"/>    <section>
+    <title>onTransitionTrigger()<computeroutput>[1/4]</computeroutput></title>
+<indexterm><primary>onTransitionTrigger</primary><secondary>mono.androidx.constraintlayout.motion.widget.MotionLayout_TransitionListenerImplementor</secondary></indexterm>
+<indexterm><primary>mono.androidx.constraintlayout.motion.widget.MotionLayout_TransitionListenerImplementor</primary><secondary>onTransitionTrigger</secondary></indexterm>
+<para><computeroutput>void mono.androidx.constraintlayout.motion.widget.MotionLayout_TransitionListenerImplementor.onTransitionTrigger (androidx.constraintlayout.motion.widget.MotionLayout p0, int p1, boolean p2, float p3)</computeroutput></para><para>
+Definition at line 55 of file MotionLayout_TransitionListenerImplementor.java.</para>
+    </section><anchor xml:id="_classmono_1_1androidx_1_1constraintlayout_1_1motion_1_1widget_1_1_motion_layout___transition_listener_implementor_1a346d17c5269ef06a48fb760dd55992a8"/>    <section>
+    <title>onTransitionTrigger()<computeroutput>[2/4]</computeroutput></title>
+<indexterm><primary>onTransitionTrigger</primary><secondary>mono.androidx.constraintlayout.motion.widget.MotionLayout_TransitionListenerImplementor</secondary></indexterm>
+<indexterm><primary>mono.androidx.constraintlayout.motion.widget.MotionLayout_TransitionListenerImplementor</primary><secondary>onTransitionTrigger</secondary></indexterm>
+<para><computeroutput>void mono.androidx.constraintlayout.motion.widget.MotionLayout_TransitionListenerImplementor.onTransitionTrigger (androidx.constraintlayout.motion.widget.MotionLayout p0, int p1, boolean p2, float p3)</computeroutput></para><para>
+Definition at line 55 of file MotionLayout_TransitionListenerImplementor.java.</para>
+    </section><anchor xml:id="_classmono_1_1androidx_1_1constraintlayout_1_1motion_1_1widget_1_1_motion_layout___transition_listener_implementor_1a346d17c5269ef06a48fb760dd55992a8"/>    <section>
+    <title>onTransitionTrigger()<computeroutput>[3/4]</computeroutput></title>
+<indexterm><primary>onTransitionTrigger</primary><secondary>mono.androidx.constraintlayout.motion.widget.MotionLayout_TransitionListenerImplementor</secondary></indexterm>
+<indexterm><primary>mono.androidx.constraintlayout.motion.widget.MotionLayout_TransitionListenerImplementor</primary><secondary>onTransitionTrigger</secondary></indexterm>
+<para><computeroutput>void mono.androidx.constraintlayout.motion.widget.MotionLayout_TransitionListenerImplementor.onTransitionTrigger (androidx.constraintlayout.motion.widget.MotionLayout p0, int p1, boolean p2, float p3)</computeroutput></para><para>
+Definition at line 55 of file MotionLayout_TransitionListenerImplementor.java.</para>
+    </section><anchor xml:id="_classmono_1_1androidx_1_1constraintlayout_1_1motion_1_1widget_1_1_motion_layout___transition_listener_implementor_1a346d17c5269ef06a48fb760dd55992a8"/>    <section>
+    <title>onTransitionTrigger()<computeroutput>[4/4]</computeroutput></title>
+<indexterm><primary>onTransitionTrigger</primary><secondary>mono.androidx.constraintlayout.motion.widget.MotionLayout_TransitionListenerImplementor</secondary></indexterm>
+<indexterm><primary>mono.androidx.constraintlayout.motion.widget.MotionLayout_TransitionListenerImplementor</primary><secondary>onTransitionTrigger</secondary></indexterm>
+<para><computeroutput>void mono.androidx.constraintlayout.motion.widget.MotionLayout_TransitionListenerImplementor.onTransitionTrigger (androidx.constraintlayout.motion.widget.MotionLayout p0, int p1, boolean p2, float p3)</computeroutput></para><para>
+Definition at line 55 of file MotionLayout_TransitionListenerImplementor.java.</para>
+</section>
+</section>
+<section>
+<title>Member Data Documentation</title>
+<anchor xml:id="_classmono_1_1androidx_1_1constraintlayout_1_1motion_1_1widget_1_1_motion_layout___transition_listener_implementor_1a35e37cf0123a8d3f315eadf079eaa2c0"/>    <section>
+    <title>__md_methods</title>
+<indexterm><primary>__md_methods</primary><secondary>mono.androidx.constraintlayout.motion.widget.MotionLayout_TransitionListenerImplementor</secondary></indexterm>
+<indexterm><primary>mono.androidx.constraintlayout.motion.widget.MotionLayout_TransitionListenerImplementor</primary><secondary>__md_methods</secondary></indexterm>
+<para><computeroutput>static final String mono.androidx.constraintlayout.motion.widget.MotionLayout_TransitionListenerImplementor.__md_methods<computeroutput>[static]</computeroutput></computeroutput></para>
+<para>@hide </para>
+<para>
+Definition at line 11 of file MotionLayout_TransitionListenerImplementor.java.</para>
+</section>
+<para>
+The documentation for this class was generated from the following file:</para>
+Application Green Quake.Android/obj/Debug/100/android/src/mono/androidx/constraintlayout/motion/widget/<link linkend="__debug_2100_2android_2src_2mono_2androidx_2constraintlayout_2motion_2widget_2_motion_layout___tr2baa21371346b0e4d6242f40f3868111">MotionLayout_TransitionListenerImplementor.java</link></section>
+</section>

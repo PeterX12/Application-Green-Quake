@@ -1,0 +1,154 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.9.1" xml:lang="en-US">
+  <compounddef id="class_application___green___quake_1_1_views_1_1_eco_actions_1_1_waste_1_1_set_up_recycling_bin" kind="class" language="C#" prot="public">
+    <compoundname>Application_Green_Quake::Views::EcoActions::Waste::SetUpRecyclingBin</compoundname>
+    <basecompoundref prot="public" virt="non-virtual">global.XamarinForms.ContentPage</basecompoundref>
+    <basecompoundref prot="public" virt="non-virtual">global.XamarinForms.ContentPage</basecompoundref>
+    <basecompoundref prot="public" virt="non-virtual">ContentPage</basecompoundref>
+      <sectiondef kind="private-attrib">
+      <memberdef kind="variable" id="class_application___green___quake_1_1_views_1_1_eco_actions_1_1_waste_1_1_set_up_recycling_bin_1a93f0608693d98d76b3de4b81926601f1" prot="private" static="no" mutable="no">
+        <type>global::Xamarin.Forms.Label</type>
+        <definition>Xamarin Forms global::Label Application_Green_Quake.Views.EcoActions.Waste.SetUpRecyclingBin::theLevel</definition>
+        <argsstring></argsstring>
+        <name>theLevel</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake/obj/Debug/netstandard2.0/Views/EcoActions/Waste/SetUpRecyclingBin.xaml.g.cs" line="20" column="43" bodyfile="Application Green Quake/obj/Debug/netstandard2.0/Views/EcoActions/Waste/SetUpRecyclingBin.xaml.g.cs" bodystart="20" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="private-func">
+      <memberdef kind="function" id="class_application___green___quake_1_1_views_1_1_eco_actions_1_1_waste_1_1_set_up_recycling_bin_1a0e61690a9e33d50ae2a5e5f2ea346511" prot="private" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void Application_Green_Quake.Views.EcoActions.Waste.SetUpRecyclingBin.InitializeComponent</definition>
+        <argsstring>()</argsstring>
+        <name>InitializeComponent</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake/obj/Debug/netstandard2.0/Views/EcoActions/Waste/SetUpRecyclingBin.xaml.g.cs" line="23" column="22" bodyfile="Application Green Quake/obj/Debug/netstandard2.0/Views/EcoActions/Waste/SetUpRecyclingBin.xaml.g.cs" bodystart="23" bodyend="26"/>
+      </memberdef>
+      <memberdef kind="function" id="class_application___green___quake_1_1_views_1_1_eco_actions_1_1_waste_1_1_set_up_recycling_bin_1a0e61690a9e33d50ae2a5e5f2ea346511" prot="private" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void Application_Green_Quake.Views.EcoActions.Waste.SetUpRecyclingBin.InitializeComponent</definition>
+        <argsstring>()</argsstring>
+        <name>InitializeComponent</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake/obj/Release/netstandard2.0/Views/EcoActions/Waste/SetUpRecyclingBin.xaml.g.cs" line="23" column="22" bodyfile="Application Green Quake/obj/Release/netstandard2.0/Views/EcoActions/Waste/SetUpRecyclingBin.xaml.g.cs" bodystart="23" bodyend="26"/>
+      </memberdef>
+      <memberdef kind="function" id="class_application___green___quake_1_1_views_1_1_eco_actions_1_1_waste_1_1_set_up_recycling_bin_1a4b0b482bb23070d996fe5d70f5a5cf5f" prot="private" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>async void</type>
+        <definition>async void Application_Green_Quake.Views.EcoActions.Waste.SetUpRecyclingBin.AddPointsClicked</definition>
+        <argsstring>(object sender, EventArgs e)</argsstring>
+        <name>AddPointsClicked</name>
+        <param>
+          <type>object</type>
+          <declname>sender</declname>
+        </param>
+        <param>
+          <type>EventArgs</type>
+          <declname>e</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+<para>This function creates objects and calls their methods. First the security methods are called and if they return false call the points updating methods </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake/Views/EcoActions/Waste/SetUpRecyclingBin.xaml.cs" line="29" column="28" bodyfile="Application Green Quake/Views/EcoActions/Waste/SetUpRecyclingBin.xaml.cs" bodystart="29" bodyend="57"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="public-func">
+      <memberdef kind="function" id="class_application___green___quake_1_1_views_1_1_eco_actions_1_1_waste_1_1_set_up_recycling_bin_1acc92dd2f107dd210f5bce0efddffdb2a" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>Application_Green_Quake.Views.EcoActions.Waste.SetUpRecyclingBin.SetUpRecyclingBin</definition>
+        <argsstring>()</argsstring>
+        <name>SetUpRecyclingBin</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake/Views/EcoActions/Waste/SetUpRecyclingBin.xaml.cs" line="21" column="16" bodyfile="Application Green Quake/Views/EcoActions/Waste/SetUpRecyclingBin.xaml.cs" bodystart="21" bodyend="25"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="protected-func">
+      <memberdef kind="function" id="class_application___green___quake_1_1_views_1_1_eco_actions_1_1_waste_1_1_set_up_recycling_bin_1a765594e829101ebeaf3cfa61fa3f23ee" prot="protected" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>override void</type>
+        <definition>override void Application_Green_Quake.Views.EcoActions.Waste.SetUpRecyclingBin.OnAppearing</definition>
+        <argsstring>()</argsstring>
+        <name>OnAppearing</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+<para>This function creates objects and calls their methods. First the security methods are called and if they return false call the points updating methods </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake/Views/EcoActions/Waste/SetUpRecyclingBin.xaml.cs" line="61" column="33" bodyfile="Application Green Quake/Views/EcoActions/Waste/SetUpRecyclingBin.xaml.cs" bodystart="61" bodyend="67"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <inheritancegraph>
+      <node id="3">
+        <label>ContentPage</label>
+      </node>
+      <node id="1">
+        <label>Application_Green_Quake.Views.EcoActions.Waste.SetUpRecyclingBin</label>
+        <link refid="class_application___green___quake_1_1_views_1_1_eco_actions_1_1_waste_1_1_set_up_recycling_bin"/>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+        <childnode refid="3" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="2">
+        <label>global::XamarinForms::ContentPage</label>
+      </node>
+    </inheritancegraph>
+    <collaborationgraph>
+      <node id="3">
+        <label>ContentPage</label>
+      </node>
+      <node id="1">
+        <label>Application_Green_Quake.Views.EcoActions.Waste.SetUpRecyclingBin</label>
+        <link refid="class_application___green___quake_1_1_views_1_1_eco_actions_1_1_waste_1_1_set_up_recycling_bin"/>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+        <childnode refid="3" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="2">
+        <label>global::XamarinForms::ContentPage</label>
+      </node>
+    </collaborationgraph>
+    <location file="Application Green Quake/obj/Debug/netstandard2.0/Views/EcoActions/Waste/SetUpRecyclingBin.xaml.g.cs" line="17" column="19" bodyfile="Application Green Quake/obj/Debug/netstandard2.0/Views/EcoActions/Waste/SetUpRecyclingBin.xaml.g.cs" bodystart="17" bodyend="27"/>
+    <listofallmembers>
+      <member refid="class_application___green___quake_1_1_views_1_1_eco_actions_1_1_waste_1_1_set_up_recycling_bin_1a4b0b482bb23070d996fe5d70f5a5cf5f" prot="private" virt="non-virtual"><scope>Application_Green_Quake::Views::EcoActions::Waste::SetUpRecyclingBin</scope><name>AddPointsClicked</name></member>
+      <member refid="class_application___green___quake_1_1_views_1_1_eco_actions_1_1_waste_1_1_set_up_recycling_bin_1a0e61690a9e33d50ae2a5e5f2ea346511" prot="private" virt="non-virtual"><scope>Application_Green_Quake::Views::EcoActions::Waste::SetUpRecyclingBin</scope><name>InitializeComponent</name></member>
+      <member refid="class_application___green___quake_1_1_views_1_1_eco_actions_1_1_waste_1_1_set_up_recycling_bin_1a0e61690a9e33d50ae2a5e5f2ea346511" prot="private" virt="non-virtual"><scope>Application_Green_Quake::Views::EcoActions::Waste::SetUpRecyclingBin</scope><name>InitializeComponent</name></member>
+      <member refid="class_application___green___quake_1_1_views_1_1_eco_actions_1_1_waste_1_1_set_up_recycling_bin_1a765594e829101ebeaf3cfa61fa3f23ee" prot="protected" virt="non-virtual"><scope>Application_Green_Quake::Views::EcoActions::Waste::SetUpRecyclingBin</scope><name>OnAppearing</name></member>
+      <member refid="class_application___green___quake_1_1_views_1_1_eco_actions_1_1_waste_1_1_set_up_recycling_bin_1acc92dd2f107dd210f5bce0efddffdb2a" prot="public" virt="non-virtual"><scope>Application_Green_Quake::Views::EcoActions::Waste::SetUpRecyclingBin</scope><name>SetUpRecyclingBin</name></member>
+      <member refid="class_application___green___quake_1_1_views_1_1_eco_actions_1_1_waste_1_1_set_up_recycling_bin_1a93f0608693d98d76b3de4b81926601f1" prot="private" virt="non-virtual"><scope>Application_Green_Quake::Views::EcoActions::Waste::SetUpRecyclingBin</scope><name>theLevel</name></member>
+    </listofallmembers>
+  </compounddef>
+</doxygen>

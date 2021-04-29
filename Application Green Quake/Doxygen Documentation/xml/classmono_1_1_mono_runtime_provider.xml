@@ -1,0 +1,779 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.9.1" xml:lang="en-US">
+  <compounddef id="classmono_1_1_mono_runtime_provider" kind="class" language="Java" prot="public">
+    <compoundname>mono::MonoRuntimeProvider</compoundname>
+    <basecompoundref prot="public" virt="non-virtual">android.content.ContentProvider</basecompoundref>
+    <basecompoundref prot="public" virt="non-virtual">android.content.ContentProvider</basecompoundref>
+    <basecompoundref prot="public" virt="non-virtual">android.content.ContentProvider</basecompoundref>
+    <basecompoundref prot="public" virt="non-virtual">android.content.ContentProvider</basecompoundref>
+      <sectiondef kind="public-func">
+      <memberdef kind="function" id="classmono_1_1_mono_runtime_provider_1a7a06cc58b7a7891aa5f1e523206a5249" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>mono.MonoRuntimeProvider.MonoRuntimeProvider</definition>
+        <argsstring>()</argsstring>
+        <name>MonoRuntimeProvider</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/100/android/src/mono/MonoRuntimeProvider.java" line="8" column="8" bodyfile="Application Green Quake.Android/obj/Debug/100/android/src/mono/MonoRuntimeProvider.java" bodystart="8" bodyend="10"/>
+      </memberdef>
+      <memberdef kind="function" id="classmono_1_1_mono_runtime_provider_1ac5640d3ce8472accc1953fe591e683c3" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>boolean</type>
+        <definition>boolean mono.MonoRuntimeProvider.onCreate</definition>
+        <argsstring>()</argsstring>
+        <name>onCreate</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/100/android/src/mono/MonoRuntimeProvider.java" line="13" column="16" bodyfile="Application Green Quake.Android/obj/Debug/100/android/src/mono/MonoRuntimeProvider.java" bodystart="13" bodyend="16"/>
+      </memberdef>
+      <memberdef kind="function" id="classmono_1_1_mono_runtime_provider_1a4fb9f5a38268fb642d211e7ef0fd9228" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void mono.MonoRuntimeProvider.attachInfo</definition>
+        <argsstring>(android.content.Context context, android.content.pm.ProviderInfo info)</argsstring>
+        <name>attachInfo</name>
+        <param>
+          <type>android.content.Context</type>
+          <declname>context</declname>
+        </param>
+        <param>
+          <type>android.content.pm.ProviderInfo</type>
+          <declname>info</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/100/android/src/mono/MonoRuntimeProvider.java" line="19" column="13" bodyfile="Application Green Quake.Android/obj/Debug/100/android/src/mono/MonoRuntimeProvider.java" bodystart="19" bodyend="38"/>
+      </memberdef>
+      <memberdef kind="function" id="classmono_1_1_mono_runtime_provider_1a5f038667e16324d54f940968f4abd86f" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>android.database.Cursor</type>
+        <definition>android.database.Cursor mono.MonoRuntimeProvider.query</definition>
+        <argsstring>(android.net.Uri uri, String[] projection, String selection, String[] selectionArgs, String sortOrder)</argsstring>
+        <name>query</name>
+        <param>
+          <type>android.net.Uri</type>
+          <declname>uri</declname>
+        </param>
+        <param>
+          <type>String[]</type>
+          <declname>projection</declname>
+        </param>
+        <param>
+          <type>String</type>
+          <declname>selection</declname>
+        </param>
+        <param>
+          <type>String[]</type>
+          <declname>selectionArgs</declname>
+        </param>
+        <param>
+          <type>String</type>
+          <declname>sortOrder</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/100/android/src/mono/MonoRuntimeProvider.java" line="41" column="30" bodyfile="Application Green Quake.Android/obj/Debug/100/android/src/mono/MonoRuntimeProvider.java" bodystart="41" bodyend="44"/>
+      </memberdef>
+      <memberdef kind="function" id="classmono_1_1_mono_runtime_provider_1ab7978ccd79378f86aabc9a1997bff129" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>String</type>
+        <definition>String mono.MonoRuntimeProvider.getType</definition>
+        <argsstring>(android.net.Uri uri)</argsstring>
+        <name>getType</name>
+        <param>
+          <type>android.net.Uri</type>
+          <declname>uri</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/100/android/src/mono/MonoRuntimeProvider.java" line="47" column="15" bodyfile="Application Green Quake.Android/obj/Debug/100/android/src/mono/MonoRuntimeProvider.java" bodystart="47" bodyend="50"/>
+      </memberdef>
+      <memberdef kind="function" id="classmono_1_1_mono_runtime_provider_1afbf0b2575d76132ac379064f3f695013" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>android.net.Uri</type>
+        <definition>android.net.Uri mono.MonoRuntimeProvider.insert</definition>
+        <argsstring>(android.net.Uri uri, android.content.ContentValues initialValues)</argsstring>
+        <name>insert</name>
+        <param>
+          <type>android.net.Uri</type>
+          <declname>uri</declname>
+        </param>
+        <param>
+          <type>android.content.ContentValues</type>
+          <declname>initialValues</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/100/android/src/mono/MonoRuntimeProvider.java" line="53" column="22" bodyfile="Application Green Quake.Android/obj/Debug/100/android/src/mono/MonoRuntimeProvider.java" bodystart="53" bodyend="56"/>
+      </memberdef>
+      <memberdef kind="function" id="classmono_1_1_mono_runtime_provider_1a20fd29ee82e2fbc6ca8e3a7d53e89b9f" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>int</type>
+        <definition>int mono.MonoRuntimeProvider.delete</definition>
+        <argsstring>(android.net.Uri uri, String where, String[] whereArgs)</argsstring>
+        <name>delete</name>
+        <param>
+          <type>android.net.Uri</type>
+          <declname>uri</declname>
+        </param>
+        <param>
+          <type>String</type>
+          <declname>where</declname>
+        </param>
+        <param>
+          <type>String[]</type>
+          <declname>whereArgs</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/100/android/src/mono/MonoRuntimeProvider.java" line="59" column="12" bodyfile="Application Green Quake.Android/obj/Debug/100/android/src/mono/MonoRuntimeProvider.java" bodystart="59" bodyend="62"/>
+      </memberdef>
+      <memberdef kind="function" id="classmono_1_1_mono_runtime_provider_1a70342b01de97d26ab215db961f4a714c" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>int</type>
+        <definition>int mono.MonoRuntimeProvider.update</definition>
+        <argsstring>(android.net.Uri uri, android.content.ContentValues values, String where, String[] whereArgs)</argsstring>
+        <name>update</name>
+        <param>
+          <type>android.net.Uri</type>
+          <declname>uri</declname>
+        </param>
+        <param>
+          <type>android.content.ContentValues</type>
+          <declname>values</declname>
+        </param>
+        <param>
+          <type>String</type>
+          <declname>where</declname>
+        </param>
+        <param>
+          <type>String[]</type>
+          <declname>whereArgs</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/100/android/src/mono/MonoRuntimeProvider.java" line="65" column="12" bodyfile="Application Green Quake.Android/obj/Debug/100/android/src/mono/MonoRuntimeProvider.java" bodystart="65" bodyend="68"/>
+      </memberdef>
+      <memberdef kind="function" id="classmono_1_1_mono_runtime_provider_1a7a06cc58b7a7891aa5f1e523206a5249" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>mono.MonoRuntimeProvider.MonoRuntimeProvider</definition>
+        <argsstring>()</argsstring>
+        <name>MonoRuntimeProvider</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/110/android/src/mono/MonoRuntimeProvider.java" line="8" column="8" bodyfile="Application Green Quake.Android/obj/Debug/110/android/src/mono/MonoRuntimeProvider.java" bodystart="8" bodyend="10"/>
+      </memberdef>
+      <memberdef kind="function" id="classmono_1_1_mono_runtime_provider_1ac5640d3ce8472accc1953fe591e683c3" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>boolean</type>
+        <definition>boolean mono.MonoRuntimeProvider.onCreate</definition>
+        <argsstring>()</argsstring>
+        <name>onCreate</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/110/android/src/mono/MonoRuntimeProvider.java" line="13" column="16" bodyfile="Application Green Quake.Android/obj/Debug/110/android/src/mono/MonoRuntimeProvider.java" bodystart="13" bodyend="16"/>
+      </memberdef>
+      <memberdef kind="function" id="classmono_1_1_mono_runtime_provider_1a4fb9f5a38268fb642d211e7ef0fd9228" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void mono.MonoRuntimeProvider.attachInfo</definition>
+        <argsstring>(android.content.Context context, android.content.pm.ProviderInfo info)</argsstring>
+        <name>attachInfo</name>
+        <param>
+          <type>android.content.Context</type>
+          <declname>context</declname>
+        </param>
+        <param>
+          <type>android.content.pm.ProviderInfo</type>
+          <declname>info</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/110/android/src/mono/MonoRuntimeProvider.java" line="19" column="13" bodyfile="Application Green Quake.Android/obj/Debug/110/android/src/mono/MonoRuntimeProvider.java" bodystart="19" bodyend="38"/>
+      </memberdef>
+      <memberdef kind="function" id="classmono_1_1_mono_runtime_provider_1a5f038667e16324d54f940968f4abd86f" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>android.database.Cursor</type>
+        <definition>android.database.Cursor mono.MonoRuntimeProvider.query</definition>
+        <argsstring>(android.net.Uri uri, String[] projection, String selection, String[] selectionArgs, String sortOrder)</argsstring>
+        <name>query</name>
+        <param>
+          <type>android.net.Uri</type>
+          <declname>uri</declname>
+        </param>
+        <param>
+          <type>String[]</type>
+          <declname>projection</declname>
+        </param>
+        <param>
+          <type>String</type>
+          <declname>selection</declname>
+        </param>
+        <param>
+          <type>String[]</type>
+          <declname>selectionArgs</declname>
+        </param>
+        <param>
+          <type>String</type>
+          <declname>sortOrder</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/110/android/src/mono/MonoRuntimeProvider.java" line="41" column="30" bodyfile="Application Green Quake.Android/obj/Debug/110/android/src/mono/MonoRuntimeProvider.java" bodystart="41" bodyend="44"/>
+      </memberdef>
+      <memberdef kind="function" id="classmono_1_1_mono_runtime_provider_1ab7978ccd79378f86aabc9a1997bff129" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>String</type>
+        <definition>String mono.MonoRuntimeProvider.getType</definition>
+        <argsstring>(android.net.Uri uri)</argsstring>
+        <name>getType</name>
+        <param>
+          <type>android.net.Uri</type>
+          <declname>uri</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/110/android/src/mono/MonoRuntimeProvider.java" line="47" column="15" bodyfile="Application Green Quake.Android/obj/Debug/110/android/src/mono/MonoRuntimeProvider.java" bodystart="47" bodyend="50"/>
+      </memberdef>
+      <memberdef kind="function" id="classmono_1_1_mono_runtime_provider_1afbf0b2575d76132ac379064f3f695013" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>android.net.Uri</type>
+        <definition>android.net.Uri mono.MonoRuntimeProvider.insert</definition>
+        <argsstring>(android.net.Uri uri, android.content.ContentValues initialValues)</argsstring>
+        <name>insert</name>
+        <param>
+          <type>android.net.Uri</type>
+          <declname>uri</declname>
+        </param>
+        <param>
+          <type>android.content.ContentValues</type>
+          <declname>initialValues</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/110/android/src/mono/MonoRuntimeProvider.java" line="53" column="22" bodyfile="Application Green Quake.Android/obj/Debug/110/android/src/mono/MonoRuntimeProvider.java" bodystart="53" bodyend="56"/>
+      </memberdef>
+      <memberdef kind="function" id="classmono_1_1_mono_runtime_provider_1a20fd29ee82e2fbc6ca8e3a7d53e89b9f" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>int</type>
+        <definition>int mono.MonoRuntimeProvider.delete</definition>
+        <argsstring>(android.net.Uri uri, String where, String[] whereArgs)</argsstring>
+        <name>delete</name>
+        <param>
+          <type>android.net.Uri</type>
+          <declname>uri</declname>
+        </param>
+        <param>
+          <type>String</type>
+          <declname>where</declname>
+        </param>
+        <param>
+          <type>String[]</type>
+          <declname>whereArgs</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/110/android/src/mono/MonoRuntimeProvider.java" line="59" column="12" bodyfile="Application Green Quake.Android/obj/Debug/110/android/src/mono/MonoRuntimeProvider.java" bodystart="59" bodyend="62"/>
+      </memberdef>
+      <memberdef kind="function" id="classmono_1_1_mono_runtime_provider_1a70342b01de97d26ab215db961f4a714c" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>int</type>
+        <definition>int mono.MonoRuntimeProvider.update</definition>
+        <argsstring>(android.net.Uri uri, android.content.ContentValues values, String where, String[] whereArgs)</argsstring>
+        <name>update</name>
+        <param>
+          <type>android.net.Uri</type>
+          <declname>uri</declname>
+        </param>
+        <param>
+          <type>android.content.ContentValues</type>
+          <declname>values</declname>
+        </param>
+        <param>
+          <type>String</type>
+          <declname>where</declname>
+        </param>
+        <param>
+          <type>String[]</type>
+          <declname>whereArgs</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/110/android/src/mono/MonoRuntimeProvider.java" line="65" column="12" bodyfile="Application Green Quake.Android/obj/Debug/110/android/src/mono/MonoRuntimeProvider.java" bodystart="65" bodyend="68"/>
+      </memberdef>
+      <memberdef kind="function" id="classmono_1_1_mono_runtime_provider_1a7a06cc58b7a7891aa5f1e523206a5249" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>mono.MonoRuntimeProvider.MonoRuntimeProvider</definition>
+        <argsstring>()</argsstring>
+        <name>MonoRuntimeProvider</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/100/android/src/mono/MonoRuntimeProvider.java" line="8" column="8" bodyfile="Application Green Quake.Android/obj/Release/100/android/src/mono/MonoRuntimeProvider.java" bodystart="8" bodyend="10"/>
+      </memberdef>
+      <memberdef kind="function" id="classmono_1_1_mono_runtime_provider_1ac5640d3ce8472accc1953fe591e683c3" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>boolean</type>
+        <definition>boolean mono.MonoRuntimeProvider.onCreate</definition>
+        <argsstring>()</argsstring>
+        <name>onCreate</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/100/android/src/mono/MonoRuntimeProvider.java" line="13" column="16" bodyfile="Application Green Quake.Android/obj/Release/100/android/src/mono/MonoRuntimeProvider.java" bodystart="13" bodyend="16"/>
+      </memberdef>
+      <memberdef kind="function" id="classmono_1_1_mono_runtime_provider_1a4fb9f5a38268fb642d211e7ef0fd9228" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void mono.MonoRuntimeProvider.attachInfo</definition>
+        <argsstring>(android.content.Context context, android.content.pm.ProviderInfo info)</argsstring>
+        <name>attachInfo</name>
+        <param>
+          <type>android.content.Context</type>
+          <declname>context</declname>
+        </param>
+        <param>
+          <type>android.content.pm.ProviderInfo</type>
+          <declname>info</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/100/android/src/mono/MonoRuntimeProvider.java" line="19" column="13" bodyfile="Application Green Quake.Android/obj/Release/100/android/src/mono/MonoRuntimeProvider.java" bodystart="19" bodyend="38"/>
+      </memberdef>
+      <memberdef kind="function" id="classmono_1_1_mono_runtime_provider_1a5f038667e16324d54f940968f4abd86f" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>android.database.Cursor</type>
+        <definition>android.database.Cursor mono.MonoRuntimeProvider.query</definition>
+        <argsstring>(android.net.Uri uri, String[] projection, String selection, String[] selectionArgs, String sortOrder)</argsstring>
+        <name>query</name>
+        <param>
+          <type>android.net.Uri</type>
+          <declname>uri</declname>
+        </param>
+        <param>
+          <type>String[]</type>
+          <declname>projection</declname>
+        </param>
+        <param>
+          <type>String</type>
+          <declname>selection</declname>
+        </param>
+        <param>
+          <type>String[]</type>
+          <declname>selectionArgs</declname>
+        </param>
+        <param>
+          <type>String</type>
+          <declname>sortOrder</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/100/android/src/mono/MonoRuntimeProvider.java" line="41" column="30" bodyfile="Application Green Quake.Android/obj/Release/100/android/src/mono/MonoRuntimeProvider.java" bodystart="41" bodyend="44"/>
+      </memberdef>
+      <memberdef kind="function" id="classmono_1_1_mono_runtime_provider_1ab7978ccd79378f86aabc9a1997bff129" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>String</type>
+        <definition>String mono.MonoRuntimeProvider.getType</definition>
+        <argsstring>(android.net.Uri uri)</argsstring>
+        <name>getType</name>
+        <param>
+          <type>android.net.Uri</type>
+          <declname>uri</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/100/android/src/mono/MonoRuntimeProvider.java" line="47" column="15" bodyfile="Application Green Quake.Android/obj/Release/100/android/src/mono/MonoRuntimeProvider.java" bodystart="47" bodyend="50"/>
+      </memberdef>
+      <memberdef kind="function" id="classmono_1_1_mono_runtime_provider_1afbf0b2575d76132ac379064f3f695013" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>android.net.Uri</type>
+        <definition>android.net.Uri mono.MonoRuntimeProvider.insert</definition>
+        <argsstring>(android.net.Uri uri, android.content.ContentValues initialValues)</argsstring>
+        <name>insert</name>
+        <param>
+          <type>android.net.Uri</type>
+          <declname>uri</declname>
+        </param>
+        <param>
+          <type>android.content.ContentValues</type>
+          <declname>initialValues</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/100/android/src/mono/MonoRuntimeProvider.java" line="53" column="22" bodyfile="Application Green Quake.Android/obj/Release/100/android/src/mono/MonoRuntimeProvider.java" bodystart="53" bodyend="56"/>
+      </memberdef>
+      <memberdef kind="function" id="classmono_1_1_mono_runtime_provider_1a20fd29ee82e2fbc6ca8e3a7d53e89b9f" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>int</type>
+        <definition>int mono.MonoRuntimeProvider.delete</definition>
+        <argsstring>(android.net.Uri uri, String where, String[] whereArgs)</argsstring>
+        <name>delete</name>
+        <param>
+          <type>android.net.Uri</type>
+          <declname>uri</declname>
+        </param>
+        <param>
+          <type>String</type>
+          <declname>where</declname>
+        </param>
+        <param>
+          <type>String[]</type>
+          <declname>whereArgs</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/100/android/src/mono/MonoRuntimeProvider.java" line="59" column="12" bodyfile="Application Green Quake.Android/obj/Release/100/android/src/mono/MonoRuntimeProvider.java" bodystart="59" bodyend="62"/>
+      </memberdef>
+      <memberdef kind="function" id="classmono_1_1_mono_runtime_provider_1a70342b01de97d26ab215db961f4a714c" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>int</type>
+        <definition>int mono.MonoRuntimeProvider.update</definition>
+        <argsstring>(android.net.Uri uri, android.content.ContentValues values, String where, String[] whereArgs)</argsstring>
+        <name>update</name>
+        <param>
+          <type>android.net.Uri</type>
+          <declname>uri</declname>
+        </param>
+        <param>
+          <type>android.content.ContentValues</type>
+          <declname>values</declname>
+        </param>
+        <param>
+          <type>String</type>
+          <declname>where</declname>
+        </param>
+        <param>
+          <type>String[]</type>
+          <declname>whereArgs</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/100/android/src/mono/MonoRuntimeProvider.java" line="65" column="12" bodyfile="Application Green Quake.Android/obj/Release/100/android/src/mono/MonoRuntimeProvider.java" bodystart="65" bodyend="68"/>
+      </memberdef>
+      <memberdef kind="function" id="classmono_1_1_mono_runtime_provider_1a7a06cc58b7a7891aa5f1e523206a5249" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>mono.MonoRuntimeProvider.MonoRuntimeProvider</definition>
+        <argsstring>()</argsstring>
+        <name>MonoRuntimeProvider</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/110/android/src/mono/MonoRuntimeProvider.java" line="8" column="8" bodyfile="Application Green Quake.Android/obj/Release/110/android/src/mono/MonoRuntimeProvider.java" bodystart="8" bodyend="10"/>
+      </memberdef>
+      <memberdef kind="function" id="classmono_1_1_mono_runtime_provider_1ac5640d3ce8472accc1953fe591e683c3" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>boolean</type>
+        <definition>boolean mono.MonoRuntimeProvider.onCreate</definition>
+        <argsstring>()</argsstring>
+        <name>onCreate</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/110/android/src/mono/MonoRuntimeProvider.java" line="13" column="16" bodyfile="Application Green Quake.Android/obj/Release/110/android/src/mono/MonoRuntimeProvider.java" bodystart="13" bodyend="16"/>
+      </memberdef>
+      <memberdef kind="function" id="classmono_1_1_mono_runtime_provider_1a4fb9f5a38268fb642d211e7ef0fd9228" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void mono.MonoRuntimeProvider.attachInfo</definition>
+        <argsstring>(android.content.Context context, android.content.pm.ProviderInfo info)</argsstring>
+        <name>attachInfo</name>
+        <param>
+          <type>android.content.Context</type>
+          <declname>context</declname>
+        </param>
+        <param>
+          <type>android.content.pm.ProviderInfo</type>
+          <declname>info</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/110/android/src/mono/MonoRuntimeProvider.java" line="19" column="13" bodyfile="Application Green Quake.Android/obj/Release/110/android/src/mono/MonoRuntimeProvider.java" bodystart="19" bodyend="38"/>
+      </memberdef>
+      <memberdef kind="function" id="classmono_1_1_mono_runtime_provider_1a5f038667e16324d54f940968f4abd86f" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>android.database.Cursor</type>
+        <definition>android.database.Cursor mono.MonoRuntimeProvider.query</definition>
+        <argsstring>(android.net.Uri uri, String[] projection, String selection, String[] selectionArgs, String sortOrder)</argsstring>
+        <name>query</name>
+        <param>
+          <type>android.net.Uri</type>
+          <declname>uri</declname>
+        </param>
+        <param>
+          <type>String[]</type>
+          <declname>projection</declname>
+        </param>
+        <param>
+          <type>String</type>
+          <declname>selection</declname>
+        </param>
+        <param>
+          <type>String[]</type>
+          <declname>selectionArgs</declname>
+        </param>
+        <param>
+          <type>String</type>
+          <declname>sortOrder</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/110/android/src/mono/MonoRuntimeProvider.java" line="41" column="30" bodyfile="Application Green Quake.Android/obj/Release/110/android/src/mono/MonoRuntimeProvider.java" bodystart="41" bodyend="44"/>
+      </memberdef>
+      <memberdef kind="function" id="classmono_1_1_mono_runtime_provider_1ab7978ccd79378f86aabc9a1997bff129" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>String</type>
+        <definition>String mono.MonoRuntimeProvider.getType</definition>
+        <argsstring>(android.net.Uri uri)</argsstring>
+        <name>getType</name>
+        <param>
+          <type>android.net.Uri</type>
+          <declname>uri</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/110/android/src/mono/MonoRuntimeProvider.java" line="47" column="15" bodyfile="Application Green Quake.Android/obj/Release/110/android/src/mono/MonoRuntimeProvider.java" bodystart="47" bodyend="50"/>
+      </memberdef>
+      <memberdef kind="function" id="classmono_1_1_mono_runtime_provider_1afbf0b2575d76132ac379064f3f695013" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>android.net.Uri</type>
+        <definition>android.net.Uri mono.MonoRuntimeProvider.insert</definition>
+        <argsstring>(android.net.Uri uri, android.content.ContentValues initialValues)</argsstring>
+        <name>insert</name>
+        <param>
+          <type>android.net.Uri</type>
+          <declname>uri</declname>
+        </param>
+        <param>
+          <type>android.content.ContentValues</type>
+          <declname>initialValues</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/110/android/src/mono/MonoRuntimeProvider.java" line="53" column="22" bodyfile="Application Green Quake.Android/obj/Release/110/android/src/mono/MonoRuntimeProvider.java" bodystart="53" bodyend="56"/>
+      </memberdef>
+      <memberdef kind="function" id="classmono_1_1_mono_runtime_provider_1a20fd29ee82e2fbc6ca8e3a7d53e89b9f" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>int</type>
+        <definition>int mono.MonoRuntimeProvider.delete</definition>
+        <argsstring>(android.net.Uri uri, String where, String[] whereArgs)</argsstring>
+        <name>delete</name>
+        <param>
+          <type>android.net.Uri</type>
+          <declname>uri</declname>
+        </param>
+        <param>
+          <type>String</type>
+          <declname>where</declname>
+        </param>
+        <param>
+          <type>String[]</type>
+          <declname>whereArgs</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/110/android/src/mono/MonoRuntimeProvider.java" line="59" column="12" bodyfile="Application Green Quake.Android/obj/Release/110/android/src/mono/MonoRuntimeProvider.java" bodystart="59" bodyend="62"/>
+      </memberdef>
+      <memberdef kind="function" id="classmono_1_1_mono_runtime_provider_1a70342b01de97d26ab215db961f4a714c" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>int</type>
+        <definition>int mono.MonoRuntimeProvider.update</definition>
+        <argsstring>(android.net.Uri uri, android.content.ContentValues values, String where, String[] whereArgs)</argsstring>
+        <name>update</name>
+        <param>
+          <type>android.net.Uri</type>
+          <declname>uri</declname>
+        </param>
+        <param>
+          <type>android.content.ContentValues</type>
+          <declname>values</declname>
+        </param>
+        <param>
+          <type>String</type>
+          <declname>where</declname>
+        </param>
+        <param>
+          <type>String[]</type>
+          <declname>whereArgs</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/110/android/src/mono/MonoRuntimeProvider.java" line="65" column="12" bodyfile="Application Green Quake.Android/obj/Release/110/android/src/mono/MonoRuntimeProvider.java" bodystart="65" bodyend="68"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <inheritancegraph>
+      <node id="2">
+        <label>android::content::ContentProvider</label>
+      </node>
+      <node id="1">
+        <label>mono.MonoRuntimeProvider</label>
+        <link refid="classmono_1_1_mono_runtime_provider"/>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+        <childnode refid="3" relation="public-inheritance">
+        </childnode>
+        <childnode refid="3" relation="public-inheritance">
+        </childnode>
+        <childnode refid="3" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="3">
+        <label>android.content.ContentProvider</label>
+      </node>
+    </inheritancegraph>
+    <collaborationgraph>
+      <node id="2">
+        <label>android::content::ContentProvider</label>
+      </node>
+      <node id="1">
+        <label>mono.MonoRuntimeProvider</label>
+        <link refid="classmono_1_1_mono_runtime_provider"/>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+        <childnode refid="3" relation="public-inheritance">
+        </childnode>
+        <childnode refid="3" relation="public-inheritance">
+        </childnode>
+        <childnode refid="3" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="3">
+        <label>android.content.ContentProvider</label>
+      </node>
+    </collaborationgraph>
+    <location file="Application Green Quake.Android/obj/Debug/100/android/src/mono/MonoRuntimeProvider.java" line="5" column="7" bodyfile="Application Green Quake.Android/obj/Debug/100/android/src/mono/MonoRuntimeProvider.java" bodystart="7" bodyend="69"/>
+    <listofallmembers>
+      <member refid="classmono_1_1_mono_runtime_provider_1a4fb9f5a38268fb642d211e7ef0fd9228" prot="public" virt="non-virtual"><scope>mono::MonoRuntimeProvider</scope><name>attachInfo</name></member>
+      <member refid="classmono_1_1_mono_runtime_provider_1a4fb9f5a38268fb642d211e7ef0fd9228" prot="public" virt="non-virtual"><scope>mono::MonoRuntimeProvider</scope><name>attachInfo</name></member>
+      <member refid="classmono_1_1_mono_runtime_provider_1a4fb9f5a38268fb642d211e7ef0fd9228" prot="public" virt="non-virtual"><scope>mono::MonoRuntimeProvider</scope><name>attachInfo</name></member>
+      <member refid="classmono_1_1_mono_runtime_provider_1a4fb9f5a38268fb642d211e7ef0fd9228" prot="public" virt="non-virtual"><scope>mono::MonoRuntimeProvider</scope><name>attachInfo</name></member>
+      <member refid="classmono_1_1_mono_runtime_provider_1a20fd29ee82e2fbc6ca8e3a7d53e89b9f" prot="public" virt="non-virtual"><scope>mono::MonoRuntimeProvider</scope><name>delete</name></member>
+      <member refid="classmono_1_1_mono_runtime_provider_1a20fd29ee82e2fbc6ca8e3a7d53e89b9f" prot="public" virt="non-virtual"><scope>mono::MonoRuntimeProvider</scope><name>delete</name></member>
+      <member refid="classmono_1_1_mono_runtime_provider_1a20fd29ee82e2fbc6ca8e3a7d53e89b9f" prot="public" virt="non-virtual"><scope>mono::MonoRuntimeProvider</scope><name>delete</name></member>
+      <member refid="classmono_1_1_mono_runtime_provider_1a20fd29ee82e2fbc6ca8e3a7d53e89b9f" prot="public" virt="non-virtual"><scope>mono::MonoRuntimeProvider</scope><name>delete</name></member>
+      <member refid="classmono_1_1_mono_runtime_provider_1ab7978ccd79378f86aabc9a1997bff129" prot="public" virt="non-virtual"><scope>mono::MonoRuntimeProvider</scope><name>getType</name></member>
+      <member refid="classmono_1_1_mono_runtime_provider_1ab7978ccd79378f86aabc9a1997bff129" prot="public" virt="non-virtual"><scope>mono::MonoRuntimeProvider</scope><name>getType</name></member>
+      <member refid="classmono_1_1_mono_runtime_provider_1ab7978ccd79378f86aabc9a1997bff129" prot="public" virt="non-virtual"><scope>mono::MonoRuntimeProvider</scope><name>getType</name></member>
+      <member refid="classmono_1_1_mono_runtime_provider_1ab7978ccd79378f86aabc9a1997bff129" prot="public" virt="non-virtual"><scope>mono::MonoRuntimeProvider</scope><name>getType</name></member>
+      <member refid="classmono_1_1_mono_runtime_provider_1afbf0b2575d76132ac379064f3f695013" prot="public" virt="non-virtual"><scope>mono::MonoRuntimeProvider</scope><name>insert</name></member>
+      <member refid="classmono_1_1_mono_runtime_provider_1afbf0b2575d76132ac379064f3f695013" prot="public" virt="non-virtual"><scope>mono::MonoRuntimeProvider</scope><name>insert</name></member>
+      <member refid="classmono_1_1_mono_runtime_provider_1afbf0b2575d76132ac379064f3f695013" prot="public" virt="non-virtual"><scope>mono::MonoRuntimeProvider</scope><name>insert</name></member>
+      <member refid="classmono_1_1_mono_runtime_provider_1afbf0b2575d76132ac379064f3f695013" prot="public" virt="non-virtual"><scope>mono::MonoRuntimeProvider</scope><name>insert</name></member>
+      <member refid="classmono_1_1_mono_runtime_provider_1a7a06cc58b7a7891aa5f1e523206a5249" prot="public" virt="non-virtual"><scope>mono::MonoRuntimeProvider</scope><name>MonoRuntimeProvider</name></member>
+      <member refid="classmono_1_1_mono_runtime_provider_1a7a06cc58b7a7891aa5f1e523206a5249" prot="public" virt="non-virtual"><scope>mono::MonoRuntimeProvider</scope><name>MonoRuntimeProvider</name></member>
+      <member refid="classmono_1_1_mono_runtime_provider_1a7a06cc58b7a7891aa5f1e523206a5249" prot="public" virt="non-virtual"><scope>mono::MonoRuntimeProvider</scope><name>MonoRuntimeProvider</name></member>
+      <member refid="classmono_1_1_mono_runtime_provider_1a7a06cc58b7a7891aa5f1e523206a5249" prot="public" virt="non-virtual"><scope>mono::MonoRuntimeProvider</scope><name>MonoRuntimeProvider</name></member>
+      <member refid="classmono_1_1_mono_runtime_provider_1ac5640d3ce8472accc1953fe591e683c3" prot="public" virt="non-virtual"><scope>mono::MonoRuntimeProvider</scope><name>onCreate</name></member>
+      <member refid="classmono_1_1_mono_runtime_provider_1ac5640d3ce8472accc1953fe591e683c3" prot="public" virt="non-virtual"><scope>mono::MonoRuntimeProvider</scope><name>onCreate</name></member>
+      <member refid="classmono_1_1_mono_runtime_provider_1ac5640d3ce8472accc1953fe591e683c3" prot="public" virt="non-virtual"><scope>mono::MonoRuntimeProvider</scope><name>onCreate</name></member>
+      <member refid="classmono_1_1_mono_runtime_provider_1ac5640d3ce8472accc1953fe591e683c3" prot="public" virt="non-virtual"><scope>mono::MonoRuntimeProvider</scope><name>onCreate</name></member>
+      <member refid="classmono_1_1_mono_runtime_provider_1a5f038667e16324d54f940968f4abd86f" prot="public" virt="non-virtual"><scope>mono::MonoRuntimeProvider</scope><name>query</name></member>
+      <member refid="classmono_1_1_mono_runtime_provider_1a5f038667e16324d54f940968f4abd86f" prot="public" virt="non-virtual"><scope>mono::MonoRuntimeProvider</scope><name>query</name></member>
+      <member refid="classmono_1_1_mono_runtime_provider_1a5f038667e16324d54f940968f4abd86f" prot="public" virt="non-virtual"><scope>mono::MonoRuntimeProvider</scope><name>query</name></member>
+      <member refid="classmono_1_1_mono_runtime_provider_1a5f038667e16324d54f940968f4abd86f" prot="public" virt="non-virtual"><scope>mono::MonoRuntimeProvider</scope><name>query</name></member>
+      <member refid="classmono_1_1_mono_runtime_provider_1a70342b01de97d26ab215db961f4a714c" prot="public" virt="non-virtual"><scope>mono::MonoRuntimeProvider</scope><name>update</name></member>
+      <member refid="classmono_1_1_mono_runtime_provider_1a70342b01de97d26ab215db961f4a714c" prot="public" virt="non-virtual"><scope>mono::MonoRuntimeProvider</scope><name>update</name></member>
+      <member refid="classmono_1_1_mono_runtime_provider_1a70342b01de97d26ab215db961f4a714c" prot="public" virt="non-virtual"><scope>mono::MonoRuntimeProvider</scope><name>update</name></member>
+      <member refid="classmono_1_1_mono_runtime_provider_1a70342b01de97d26ab215db961f4a714c" prot="public" virt="non-virtual"><scope>mono::MonoRuntimeProvider</scope><name>update</name></member>
+    </listofallmembers>
+  </compounddef>
+</doxygen>

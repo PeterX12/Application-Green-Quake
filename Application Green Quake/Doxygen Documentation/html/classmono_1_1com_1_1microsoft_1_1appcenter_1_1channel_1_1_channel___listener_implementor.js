@@ -1,0 +1,27 @@
+var classmono_1_1com_1_1microsoft_1_1appcenter_1_1channel_1_1_channel___listener_implementor =
+[
+    [ "Channel_ListenerImplementor", "classmono_1_1com_1_1microsoft_1_1appcenter_1_1channel_1_1_channel___listener_implementor.html#ae7aa19a31bdfea91c29df14f240efc2b", null ],
+    [ "Channel_ListenerImplementor", "classmono_1_1com_1_1microsoft_1_1appcenter_1_1channel_1_1_channel___listener_implementor.html#ae7aa19a31bdfea91c29df14f240efc2b", null ],
+    [ "monodroidAddReference", "classmono_1_1com_1_1microsoft_1_1appcenter_1_1channel_1_1_channel___listener_implementor.html#aa929541e1eb6aa0a1a236c66b842a696", null ],
+    [ "monodroidAddReference", "classmono_1_1com_1_1microsoft_1_1appcenter_1_1channel_1_1_channel___listener_implementor.html#aa929541e1eb6aa0a1a236c66b842a696", null ],
+    [ "monodroidClearReferences", "classmono_1_1com_1_1microsoft_1_1appcenter_1_1channel_1_1_channel___listener_implementor.html#a9545c55db185c5212841d2ac282b028b", null ],
+    [ "monodroidClearReferences", "classmono_1_1com_1_1microsoft_1_1appcenter_1_1channel_1_1_channel___listener_implementor.html#a9545c55db185c5212841d2ac282b028b", null ],
+    [ "onClear", "classmono_1_1com_1_1microsoft_1_1appcenter_1_1channel_1_1_channel___listener_implementor.html#afe728078d45d923bb97fa2b9b3641e64", null ],
+    [ "onClear", "classmono_1_1com_1_1microsoft_1_1appcenter_1_1channel_1_1_channel___listener_implementor.html#afe728078d45d923bb97fa2b9b3641e64", null ],
+    [ "onGloballyEnabled", "classmono_1_1com_1_1microsoft_1_1appcenter_1_1channel_1_1_channel___listener_implementor.html#a5b120eba975f716f6283b55ced54caa0", null ],
+    [ "onGloballyEnabled", "classmono_1_1com_1_1microsoft_1_1appcenter_1_1channel_1_1_channel___listener_implementor.html#a5b120eba975f716f6283b55ced54caa0", null ],
+    [ "onGroupAdded", "classmono_1_1com_1_1microsoft_1_1appcenter_1_1channel_1_1_channel___listener_implementor.html#acb0c6c0d5c24656f64834646382ef710", null ],
+    [ "onGroupAdded", "classmono_1_1com_1_1microsoft_1_1appcenter_1_1channel_1_1_channel___listener_implementor.html#acb0c6c0d5c24656f64834646382ef710", null ],
+    [ "onGroupRemoved", "classmono_1_1com_1_1microsoft_1_1appcenter_1_1channel_1_1_channel___listener_implementor.html#a70b5688854bc47bb6dbfb352b06ada8d", null ],
+    [ "onGroupRemoved", "classmono_1_1com_1_1microsoft_1_1appcenter_1_1channel_1_1_channel___listener_implementor.html#a70b5688854bc47bb6dbfb352b06ada8d", null ],
+    [ "onPaused", "classmono_1_1com_1_1microsoft_1_1appcenter_1_1channel_1_1_channel___listener_implementor.html#ab06b70e3761a59a37c3a2c4ec6a807de", null ],
+    [ "onPaused", "classmono_1_1com_1_1microsoft_1_1appcenter_1_1channel_1_1_channel___listener_implementor.html#ab06b70e3761a59a37c3a2c4ec6a807de", null ],
+    [ "onPreparedLog", "classmono_1_1com_1_1microsoft_1_1appcenter_1_1channel_1_1_channel___listener_implementor.html#a6cc4846ca0abced6fbb68cdbcff53e93", null ],
+    [ "onPreparedLog", "classmono_1_1com_1_1microsoft_1_1appcenter_1_1channel_1_1_channel___listener_implementor.html#a6cc4846ca0abced6fbb68cdbcff53e93", null ],
+    [ "onPreparingLog", "classmono_1_1com_1_1microsoft_1_1appcenter_1_1channel_1_1_channel___listener_implementor.html#ae4572b5e23437d9036581993d366a0f4", null ],
+    [ "onPreparingLog", "classmono_1_1com_1_1microsoft_1_1appcenter_1_1channel_1_1_channel___listener_implementor.html#ae4572b5e23437d9036581993d366a0f4", null ],
+    [ "onResumed", "classmono_1_1com_1_1microsoft_1_1appcenter_1_1channel_1_1_channel___listener_implementor.html#adb9fb45aceda26074cbe7de42f28a28b", null ],
+    [ "onResumed", "classmono_1_1com_1_1microsoft_1_1appcenter_1_1channel_1_1_channel___listener_implementor.html#adb9fb45aceda26074cbe7de42f28a28b", null ],
+    [ "shouldFilter", "classmono_1_1com_1_1microsoft_1_1appcenter_1_1channel_1_1_channel___listener_implementor.html#af92c0e12e4ad4dcb8e0b4699f2ff7c00", null ],
+    [ "shouldFilter", "classmono_1_1com_1_1microsoft_1_1appcenter_1_1channel_1_1_channel___listener_implementor.html#af92c0e12e4ad4dcb8e0b4699f2ff7c00", null ]
+];

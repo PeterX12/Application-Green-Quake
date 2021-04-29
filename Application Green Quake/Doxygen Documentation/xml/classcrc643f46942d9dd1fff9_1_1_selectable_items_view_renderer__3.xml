@@ -1,0 +1,812 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.9.1" xml:lang="en-US">
+  <compounddef id="classcrc643f46942d9dd1fff9_1_1_selectable_items_view_renderer__3" kind="class" language="Java" prot="public">
+    <compoundname>crc643f46942d9dd1fff9::SelectableItemsViewRenderer_3</compoundname>
+    <basecompoundref refid="classcrc643f46942d9dd1fff9_1_1_structured_items_view_renderer__3" prot="public" virt="non-virtual">crc643f46942d9dd1fff9.StructuredItemsViewRenderer_3</basecompoundref>
+    <basecompoundref prot="public" virt="non-virtual">mono.android.IGCUserPeer</basecompoundref>
+    <basecompoundref refid="classcrc643f46942d9dd1fff9_1_1_structured_items_view_renderer__3" prot="public" virt="non-virtual">crc643f46942d9dd1fff9.StructuredItemsViewRenderer_3</basecompoundref>
+    <basecompoundref prot="public" virt="non-virtual">mono.android.IGCUserPeer</basecompoundref>
+    <basecompoundref refid="classcrc643f46942d9dd1fff9_1_1_structured_items_view_renderer__3" prot="public" virt="non-virtual">crc643f46942d9dd1fff9.StructuredItemsViewRenderer_3</basecompoundref>
+    <basecompoundref prot="public" virt="non-virtual">mono.android.IGCUserPeer</basecompoundref>
+    <basecompoundref refid="classcrc643f46942d9dd1fff9_1_1_structured_items_view_renderer__3" prot="public" virt="non-virtual">crc643f46942d9dd1fff9.StructuredItemsViewRenderer_3</basecompoundref>
+    <basecompoundref prot="public" virt="non-virtual">mono.android.IGCUserPeer</basecompoundref>
+    <derivedcompoundref refid="classcrc643f46942d9dd1fff9_1_1_groupable_items_view_renderer__3" prot="public" virt="non-virtual">crc643f46942d9dd1fff9.GroupableItemsViewRenderer_3</derivedcompoundref>
+    <derivedcompoundref refid="classcrc643f46942d9dd1fff9_1_1_groupable_items_view_renderer__3" prot="public" virt="non-virtual">crc643f46942d9dd1fff9.GroupableItemsViewRenderer_3</derivedcompoundref>
+    <derivedcompoundref refid="classcrc643f46942d9dd1fff9_1_1_groupable_items_view_renderer__3" prot="public" virt="non-virtual">crc643f46942d9dd1fff9.GroupableItemsViewRenderer_3</derivedcompoundref>
+    <derivedcompoundref refid="classcrc643f46942d9dd1fff9_1_1_groupable_items_view_renderer__3" prot="public" virt="non-virtual">crc643f46942d9dd1fff9.GroupableItemsViewRenderer_3</derivedcompoundref>
+      <sectiondef kind="public-static-attrib">
+      <memberdef kind="variable" id="classcrc643f46942d9dd1fff9_1_1_selectable_items_view_renderer__3_1a54996c18160b71f84dad63adf6992562" prot="public" static="yes" mutable="no">
+        <type>final String</type>
+        <definition>static final String crc643f46942d9dd1fff9.SelectableItemsViewRenderer_3::__md_methods</definition>
+        <argsstring></argsstring>
+        <name>__md_methods</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+<para>@hide </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/100/android/src/crc643f46942d9dd1fff9/SelectableItemsViewRenderer_3.java" line="10" column="28" bodyfile="Application Green Quake.Android/obj/Debug/100/android/src/crc643f46942d9dd1fff9/SelectableItemsViewRenderer_3.java" bodystart="10" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="private-attrib">
+      <memberdef kind="variable" id="classcrc643f46942d9dd1fff9_1_1_selectable_items_view_renderer__3_1a00b7b54086db819d54ffb8c119fce504" prot="private" static="no" mutable="no">
+        <type>java.util.ArrayList</type>
+        <definition>java util ArrayList crc643f46942d9dd1fff9.SelectableItemsViewRenderer_3::refList</definition>
+        <argsstring></argsstring>
+        <name>refList</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/100/android/src/crc643f46942d9dd1fff9/SelectableItemsViewRenderer_3.java" line="41" column="27" bodyfile="Application Green Quake.Android/obj/Debug/100/android/src/crc643f46942d9dd1fff9/SelectableItemsViewRenderer_3.java" bodystart="41" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="package-static-func">
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_selectable_items_view_renderer__3_1a8994e6f5ee1838b8dcddc3ba2c084d47" prot="package" static="yes" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>crc643f46942d9dd1fff9.SelectableItemsViewRenderer_3.[static initializer]</definition>
+        <argsstring></argsstring>
+        <name>[static initializer]</name>
+        <reimplements refid="classcrc643f46942d9dd1fff9_1_1_structured_items_view_renderer__3_1a4def9ada0c37d8b9d0d27c35d35b6882">[static initializer]</reimplements>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_collection_view_renderer_1a902aea6dee7714d60870c18cd7b44c29">[static initializer]</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_groupable_items_view_renderer__3_1a11cbc0bf3afeb02b1c305c7aaaed013e">[static initializer]</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_collection_view_renderer_1a902aea6dee7714d60870c18cd7b44c29">[static initializer]</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_groupable_items_view_renderer__3_1a11cbc0bf3afeb02b1c305c7aaaed013e">[static initializer]</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_collection_view_renderer_1a902aea6dee7714d60870c18cd7b44c29">[static initializer]</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_groupable_items_view_renderer__3_1a11cbc0bf3afeb02b1c305c7aaaed013e">[static initializer]</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_collection_view_renderer_1a902aea6dee7714d60870c18cd7b44c29">[static initializer]</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_groupable_items_view_renderer__3_1a11cbc0bf3afeb02b1c305c7aaaed013e">[static initializer]</reimplementedby>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/100/android/src/crc643f46942d9dd1fff9/SelectableItemsViewRenderer_3.java" line="10" column="28"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_selectable_items_view_renderer__3_1a8994e6f5ee1838b8dcddc3ba2c084d47" prot="package" static="yes" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>crc643f46942d9dd1fff9.SelectableItemsViewRenderer_3.[static initializer]</definition>
+        <argsstring></argsstring>
+        <name>[static initializer]</name>
+        <reimplements refid="classcrc643f46942d9dd1fff9_1_1_structured_items_view_renderer__3_1a4def9ada0c37d8b9d0d27c35d35b6882">[static initializer]</reimplements>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_collection_view_renderer_1a902aea6dee7714d60870c18cd7b44c29">[static initializer]</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_groupable_items_view_renderer__3_1a11cbc0bf3afeb02b1c305c7aaaed013e">[static initializer]</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_collection_view_renderer_1a902aea6dee7714d60870c18cd7b44c29">[static initializer]</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_groupable_items_view_renderer__3_1a11cbc0bf3afeb02b1c305c7aaaed013e">[static initializer]</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_collection_view_renderer_1a902aea6dee7714d60870c18cd7b44c29">[static initializer]</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_groupable_items_view_renderer__3_1a11cbc0bf3afeb02b1c305c7aaaed013e">[static initializer]</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_collection_view_renderer_1a902aea6dee7714d60870c18cd7b44c29">[static initializer]</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_groupable_items_view_renderer__3_1a11cbc0bf3afeb02b1c305c7aaaed013e">[static initializer]</reimplementedby>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/110/android/src/crc643f46942d9dd1fff9/SelectableItemsViewRenderer_3.java" line="10" column="28"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_selectable_items_view_renderer__3_1a8994e6f5ee1838b8dcddc3ba2c084d47" prot="package" static="yes" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>crc643f46942d9dd1fff9.SelectableItemsViewRenderer_3.[static initializer]</definition>
+        <argsstring></argsstring>
+        <name>[static initializer]</name>
+        <reimplements refid="classcrc643f46942d9dd1fff9_1_1_structured_items_view_renderer__3_1a4def9ada0c37d8b9d0d27c35d35b6882">[static initializer]</reimplements>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_collection_view_renderer_1a902aea6dee7714d60870c18cd7b44c29">[static initializer]</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_groupable_items_view_renderer__3_1a11cbc0bf3afeb02b1c305c7aaaed013e">[static initializer]</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_collection_view_renderer_1a902aea6dee7714d60870c18cd7b44c29">[static initializer]</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_groupable_items_view_renderer__3_1a11cbc0bf3afeb02b1c305c7aaaed013e">[static initializer]</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_collection_view_renderer_1a902aea6dee7714d60870c18cd7b44c29">[static initializer]</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_groupable_items_view_renderer__3_1a11cbc0bf3afeb02b1c305c7aaaed013e">[static initializer]</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_collection_view_renderer_1a902aea6dee7714d60870c18cd7b44c29">[static initializer]</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_groupable_items_view_renderer__3_1a11cbc0bf3afeb02b1c305c7aaaed013e">[static initializer]</reimplementedby>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/100/android/src/crc643f46942d9dd1fff9/SelectableItemsViewRenderer_3.java" line="10" column="28"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_selectable_items_view_renderer__3_1a8994e6f5ee1838b8dcddc3ba2c084d47" prot="package" static="yes" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>crc643f46942d9dd1fff9.SelectableItemsViewRenderer_3.[static initializer]</definition>
+        <argsstring></argsstring>
+        <name>[static initializer]</name>
+        <reimplements refid="classcrc643f46942d9dd1fff9_1_1_structured_items_view_renderer__3_1a4def9ada0c37d8b9d0d27c35d35b6882">[static initializer]</reimplements>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_collection_view_renderer_1a902aea6dee7714d60870c18cd7b44c29">[static initializer]</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_groupable_items_view_renderer__3_1a11cbc0bf3afeb02b1c305c7aaaed013e">[static initializer]</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_collection_view_renderer_1a902aea6dee7714d60870c18cd7b44c29">[static initializer]</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_groupable_items_view_renderer__3_1a11cbc0bf3afeb02b1c305c7aaaed013e">[static initializer]</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_collection_view_renderer_1a902aea6dee7714d60870c18cd7b44c29">[static initializer]</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_groupable_items_view_renderer__3_1a11cbc0bf3afeb02b1c305c7aaaed013e">[static initializer]</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_collection_view_renderer_1a902aea6dee7714d60870c18cd7b44c29">[static initializer]</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_groupable_items_view_renderer__3_1a11cbc0bf3afeb02b1c305c7aaaed013e">[static initializer]</reimplementedby>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/110/android/src/crc643f46942d9dd1fff9/SelectableItemsViewRenderer_3.java" line="10" column="28"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="public-func">
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_selectable_items_view_renderer__3_1a3f1658313ca809f685fa675852b9fe32" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>crc643f46942d9dd1fff9.SelectableItemsViewRenderer_3.SelectableItemsViewRenderer_3</definition>
+        <argsstring>(android.content.Context p0)</argsstring>
+        <name>SelectableItemsViewRenderer_3</name>
+        <param>
+          <type>android.content.Context</type>
+          <declname>p0</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/100/android/src/crc643f46942d9dd1fff9/SelectableItemsViewRenderer_3.java" line="18" column="8" bodyfile="Application Green Quake.Android/obj/Debug/100/android/src/crc643f46942d9dd1fff9/SelectableItemsViewRenderer_3.java" bodystart="18" bodyend="23"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_selectable_items_view_renderer__3_1ab7ce15901372f05c72306a17de268d14" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>crc643f46942d9dd1fff9.SelectableItemsViewRenderer_3.SelectableItemsViewRenderer_3</definition>
+        <argsstring>(android.content.Context p0, android.util.AttributeSet p1)</argsstring>
+        <name>SelectableItemsViewRenderer_3</name>
+        <param>
+          <type>android.content.Context</type>
+          <declname>p0</declname>
+        </param>
+        <param>
+          <type>android.util.AttributeSet</type>
+          <declname>p1</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/100/android/src/crc643f46942d9dd1fff9/SelectableItemsViewRenderer_3.java" line="26" column="8" bodyfile="Application Green Quake.Android/obj/Debug/100/android/src/crc643f46942d9dd1fff9/SelectableItemsViewRenderer_3.java" bodystart="26" bodyend="31"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_selectable_items_view_renderer__3_1a8e73af28c45ba6c01de2c7cd8d32c185" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>crc643f46942d9dd1fff9.SelectableItemsViewRenderer_3.SelectableItemsViewRenderer_3</definition>
+        <argsstring>(android.content.Context p0, android.util.AttributeSet p1, int p2)</argsstring>
+        <name>SelectableItemsViewRenderer_3</name>
+        <param>
+          <type>android.content.Context</type>
+          <declname>p0</declname>
+        </param>
+        <param>
+          <type>android.util.AttributeSet</type>
+          <declname>p1</declname>
+        </param>
+        <param>
+          <type>int</type>
+          <declname>p2</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/100/android/src/crc643f46942d9dd1fff9/SelectableItemsViewRenderer_3.java" line="34" column="8" bodyfile="Application Green Quake.Android/obj/Debug/100/android/src/crc643f46942d9dd1fff9/SelectableItemsViewRenderer_3.java" bodystart="34" bodyend="39"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_selectable_items_view_renderer__3_1a32c9b33d3082e8075884d9162b53d23f" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void crc643f46942d9dd1fff9.SelectableItemsViewRenderer_3.monodroidAddReference</definition>
+        <argsstring>(java.lang.Object obj)</argsstring>
+        <name>monodroidAddReference</name>
+        <reimplements refid="classcrc643f46942d9dd1fff9_1_1_structured_items_view_renderer__3_1a78da61380835061632ce322eeb7a21d0">monodroidAddReference</reimplements>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_collection_view_renderer_1a3870a2d4f25f316c9f821dcfdd860d2a">monodroidAddReference</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_groupable_items_view_renderer__3_1a0cd8f3333e0c9906a3c78a71bac504bb">monodroidAddReference</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_collection_view_renderer_1a3870a2d4f25f316c9f821dcfdd860d2a">monodroidAddReference</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_groupable_items_view_renderer__3_1a0cd8f3333e0c9906a3c78a71bac504bb">monodroidAddReference</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_collection_view_renderer_1a3870a2d4f25f316c9f821dcfdd860d2a">monodroidAddReference</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_groupable_items_view_renderer__3_1a0cd8f3333e0c9906a3c78a71bac504bb">monodroidAddReference</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_collection_view_renderer_1a3870a2d4f25f316c9f821dcfdd860d2a">monodroidAddReference</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_groupable_items_view_renderer__3_1a0cd8f3333e0c9906a3c78a71bac504bb">monodroidAddReference</reimplementedby>
+        <param>
+          <type>java.lang.Object</type>
+          <declname>obj</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/100/android/src/crc643f46942d9dd1fff9/SelectableItemsViewRenderer_3.java" line="42" column="13" bodyfile="Application Green Quake.Android/obj/Debug/100/android/src/crc643f46942d9dd1fff9/SelectableItemsViewRenderer_3.java" bodystart="42" bodyend="47"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_selectable_items_view_renderer__3_1a243fa4f2bdc10b2dd2970a28cbdff17e" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void crc643f46942d9dd1fff9.SelectableItemsViewRenderer_3.monodroidClearReferences</definition>
+        <argsstring>()</argsstring>
+        <name>monodroidClearReferences</name>
+        <reimplements refid="classcrc643f46942d9dd1fff9_1_1_structured_items_view_renderer__3_1aa2063b2095243f3060a58f08c6b5deb3">monodroidClearReferences</reimplements>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_collection_view_renderer_1a661236263d6c76316126c036f489548e">monodroidClearReferences</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_groupable_items_view_renderer__3_1acd3407cdb944925a3b6673084278e3a4">monodroidClearReferences</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_collection_view_renderer_1a661236263d6c76316126c036f489548e">monodroidClearReferences</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_groupable_items_view_renderer__3_1acd3407cdb944925a3b6673084278e3a4">monodroidClearReferences</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_collection_view_renderer_1a661236263d6c76316126c036f489548e">monodroidClearReferences</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_groupable_items_view_renderer__3_1acd3407cdb944925a3b6673084278e3a4">monodroidClearReferences</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_collection_view_renderer_1a661236263d6c76316126c036f489548e">monodroidClearReferences</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_groupable_items_view_renderer__3_1acd3407cdb944925a3b6673084278e3a4">monodroidClearReferences</reimplementedby>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/100/android/src/crc643f46942d9dd1fff9/SelectableItemsViewRenderer_3.java" line="49" column="13" bodyfile="Application Green Quake.Android/obj/Debug/100/android/src/crc643f46942d9dd1fff9/SelectableItemsViewRenderer_3.java" bodystart="49" bodyend="53"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_selectable_items_view_renderer__3_1a3f1658313ca809f685fa675852b9fe32" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>crc643f46942d9dd1fff9.SelectableItemsViewRenderer_3.SelectableItemsViewRenderer_3</definition>
+        <argsstring>(android.content.Context p0)</argsstring>
+        <name>SelectableItemsViewRenderer_3</name>
+        <param>
+          <type>android.content.Context</type>
+          <declname>p0</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/110/android/src/crc643f46942d9dd1fff9/SelectableItemsViewRenderer_3.java" line="18" column="8" bodyfile="Application Green Quake.Android/obj/Debug/110/android/src/crc643f46942d9dd1fff9/SelectableItemsViewRenderer_3.java" bodystart="18" bodyend="23"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_selectable_items_view_renderer__3_1ab7ce15901372f05c72306a17de268d14" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>crc643f46942d9dd1fff9.SelectableItemsViewRenderer_3.SelectableItemsViewRenderer_3</definition>
+        <argsstring>(android.content.Context p0, android.util.AttributeSet p1)</argsstring>
+        <name>SelectableItemsViewRenderer_3</name>
+        <param>
+          <type>android.content.Context</type>
+          <declname>p0</declname>
+        </param>
+        <param>
+          <type>android.util.AttributeSet</type>
+          <declname>p1</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/110/android/src/crc643f46942d9dd1fff9/SelectableItemsViewRenderer_3.java" line="26" column="8" bodyfile="Application Green Quake.Android/obj/Debug/110/android/src/crc643f46942d9dd1fff9/SelectableItemsViewRenderer_3.java" bodystart="26" bodyend="31"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_selectable_items_view_renderer__3_1a8e73af28c45ba6c01de2c7cd8d32c185" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>crc643f46942d9dd1fff9.SelectableItemsViewRenderer_3.SelectableItemsViewRenderer_3</definition>
+        <argsstring>(android.content.Context p0, android.util.AttributeSet p1, int p2)</argsstring>
+        <name>SelectableItemsViewRenderer_3</name>
+        <param>
+          <type>android.content.Context</type>
+          <declname>p0</declname>
+        </param>
+        <param>
+          <type>android.util.AttributeSet</type>
+          <declname>p1</declname>
+        </param>
+        <param>
+          <type>int</type>
+          <declname>p2</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/110/android/src/crc643f46942d9dd1fff9/SelectableItemsViewRenderer_3.java" line="34" column="8" bodyfile="Application Green Quake.Android/obj/Debug/110/android/src/crc643f46942d9dd1fff9/SelectableItemsViewRenderer_3.java" bodystart="34" bodyend="39"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_selectable_items_view_renderer__3_1a32c9b33d3082e8075884d9162b53d23f" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void crc643f46942d9dd1fff9.SelectableItemsViewRenderer_3.monodroidAddReference</definition>
+        <argsstring>(java.lang.Object obj)</argsstring>
+        <name>monodroidAddReference</name>
+        <reimplements refid="classcrc643f46942d9dd1fff9_1_1_structured_items_view_renderer__3_1a78da61380835061632ce322eeb7a21d0">monodroidAddReference</reimplements>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_collection_view_renderer_1a3870a2d4f25f316c9f821dcfdd860d2a">monodroidAddReference</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_groupable_items_view_renderer__3_1a0cd8f3333e0c9906a3c78a71bac504bb">monodroidAddReference</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_collection_view_renderer_1a3870a2d4f25f316c9f821dcfdd860d2a">monodroidAddReference</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_groupable_items_view_renderer__3_1a0cd8f3333e0c9906a3c78a71bac504bb">monodroidAddReference</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_collection_view_renderer_1a3870a2d4f25f316c9f821dcfdd860d2a">monodroidAddReference</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_groupable_items_view_renderer__3_1a0cd8f3333e0c9906a3c78a71bac504bb">monodroidAddReference</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_collection_view_renderer_1a3870a2d4f25f316c9f821dcfdd860d2a">monodroidAddReference</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_groupable_items_view_renderer__3_1a0cd8f3333e0c9906a3c78a71bac504bb">monodroidAddReference</reimplementedby>
+        <param>
+          <type>java.lang.Object</type>
+          <declname>obj</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/110/android/src/crc643f46942d9dd1fff9/SelectableItemsViewRenderer_3.java" line="42" column="13" bodyfile="Application Green Quake.Android/obj/Debug/110/android/src/crc643f46942d9dd1fff9/SelectableItemsViewRenderer_3.java" bodystart="42" bodyend="47"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_selectable_items_view_renderer__3_1a243fa4f2bdc10b2dd2970a28cbdff17e" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void crc643f46942d9dd1fff9.SelectableItemsViewRenderer_3.monodroidClearReferences</definition>
+        <argsstring>()</argsstring>
+        <name>monodroidClearReferences</name>
+        <reimplements refid="classcrc643f46942d9dd1fff9_1_1_structured_items_view_renderer__3_1aa2063b2095243f3060a58f08c6b5deb3">monodroidClearReferences</reimplements>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_collection_view_renderer_1a661236263d6c76316126c036f489548e">monodroidClearReferences</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_groupable_items_view_renderer__3_1acd3407cdb944925a3b6673084278e3a4">monodroidClearReferences</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_collection_view_renderer_1a661236263d6c76316126c036f489548e">monodroidClearReferences</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_groupable_items_view_renderer__3_1acd3407cdb944925a3b6673084278e3a4">monodroidClearReferences</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_collection_view_renderer_1a661236263d6c76316126c036f489548e">monodroidClearReferences</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_groupable_items_view_renderer__3_1acd3407cdb944925a3b6673084278e3a4">monodroidClearReferences</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_collection_view_renderer_1a661236263d6c76316126c036f489548e">monodroidClearReferences</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_groupable_items_view_renderer__3_1acd3407cdb944925a3b6673084278e3a4">monodroidClearReferences</reimplementedby>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/110/android/src/crc643f46942d9dd1fff9/SelectableItemsViewRenderer_3.java" line="49" column="13" bodyfile="Application Green Quake.Android/obj/Debug/110/android/src/crc643f46942d9dd1fff9/SelectableItemsViewRenderer_3.java" bodystart="49" bodyend="53"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_selectable_items_view_renderer__3_1a3f1658313ca809f685fa675852b9fe32" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>crc643f46942d9dd1fff9.SelectableItemsViewRenderer_3.SelectableItemsViewRenderer_3</definition>
+        <argsstring>(android.content.Context p0)</argsstring>
+        <name>SelectableItemsViewRenderer_3</name>
+        <param>
+          <type>android.content.Context</type>
+          <declname>p0</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/100/android/src/crc643f46942d9dd1fff9/SelectableItemsViewRenderer_3.java" line="18" column="8" bodyfile="Application Green Quake.Android/obj/Release/100/android/src/crc643f46942d9dd1fff9/SelectableItemsViewRenderer_3.java" bodystart="18" bodyend="23"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_selectable_items_view_renderer__3_1ab7ce15901372f05c72306a17de268d14" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>crc643f46942d9dd1fff9.SelectableItemsViewRenderer_3.SelectableItemsViewRenderer_3</definition>
+        <argsstring>(android.content.Context p0, android.util.AttributeSet p1)</argsstring>
+        <name>SelectableItemsViewRenderer_3</name>
+        <param>
+          <type>android.content.Context</type>
+          <declname>p0</declname>
+        </param>
+        <param>
+          <type>android.util.AttributeSet</type>
+          <declname>p1</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/100/android/src/crc643f46942d9dd1fff9/SelectableItemsViewRenderer_3.java" line="26" column="8" bodyfile="Application Green Quake.Android/obj/Release/100/android/src/crc643f46942d9dd1fff9/SelectableItemsViewRenderer_3.java" bodystart="26" bodyend="31"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_selectable_items_view_renderer__3_1a8e73af28c45ba6c01de2c7cd8d32c185" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>crc643f46942d9dd1fff9.SelectableItemsViewRenderer_3.SelectableItemsViewRenderer_3</definition>
+        <argsstring>(android.content.Context p0, android.util.AttributeSet p1, int p2)</argsstring>
+        <name>SelectableItemsViewRenderer_3</name>
+        <param>
+          <type>android.content.Context</type>
+          <declname>p0</declname>
+        </param>
+        <param>
+          <type>android.util.AttributeSet</type>
+          <declname>p1</declname>
+        </param>
+        <param>
+          <type>int</type>
+          <declname>p2</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/100/android/src/crc643f46942d9dd1fff9/SelectableItemsViewRenderer_3.java" line="34" column="8" bodyfile="Application Green Quake.Android/obj/Release/100/android/src/crc643f46942d9dd1fff9/SelectableItemsViewRenderer_3.java" bodystart="34" bodyend="39"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_selectable_items_view_renderer__3_1a32c9b33d3082e8075884d9162b53d23f" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void crc643f46942d9dd1fff9.SelectableItemsViewRenderer_3.monodroidAddReference</definition>
+        <argsstring>(java.lang.Object obj)</argsstring>
+        <name>monodroidAddReference</name>
+        <reimplements refid="classcrc643f46942d9dd1fff9_1_1_structured_items_view_renderer__3_1a78da61380835061632ce322eeb7a21d0">monodroidAddReference</reimplements>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_collection_view_renderer_1a3870a2d4f25f316c9f821dcfdd860d2a">monodroidAddReference</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_groupable_items_view_renderer__3_1a0cd8f3333e0c9906a3c78a71bac504bb">monodroidAddReference</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_collection_view_renderer_1a3870a2d4f25f316c9f821dcfdd860d2a">monodroidAddReference</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_groupable_items_view_renderer__3_1a0cd8f3333e0c9906a3c78a71bac504bb">monodroidAddReference</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_collection_view_renderer_1a3870a2d4f25f316c9f821dcfdd860d2a">monodroidAddReference</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_groupable_items_view_renderer__3_1a0cd8f3333e0c9906a3c78a71bac504bb">monodroidAddReference</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_collection_view_renderer_1a3870a2d4f25f316c9f821dcfdd860d2a">monodroidAddReference</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_groupable_items_view_renderer__3_1a0cd8f3333e0c9906a3c78a71bac504bb">monodroidAddReference</reimplementedby>
+        <param>
+          <type>java.lang.Object</type>
+          <declname>obj</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/100/android/src/crc643f46942d9dd1fff9/SelectableItemsViewRenderer_3.java" line="42" column="13" bodyfile="Application Green Quake.Android/obj/Release/100/android/src/crc643f46942d9dd1fff9/SelectableItemsViewRenderer_3.java" bodystart="42" bodyend="47"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_selectable_items_view_renderer__3_1a243fa4f2bdc10b2dd2970a28cbdff17e" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void crc643f46942d9dd1fff9.SelectableItemsViewRenderer_3.monodroidClearReferences</definition>
+        <argsstring>()</argsstring>
+        <name>monodroidClearReferences</name>
+        <reimplements refid="classcrc643f46942d9dd1fff9_1_1_structured_items_view_renderer__3_1aa2063b2095243f3060a58f08c6b5deb3">monodroidClearReferences</reimplements>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_collection_view_renderer_1a661236263d6c76316126c036f489548e">monodroidClearReferences</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_groupable_items_view_renderer__3_1acd3407cdb944925a3b6673084278e3a4">monodroidClearReferences</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_collection_view_renderer_1a661236263d6c76316126c036f489548e">monodroidClearReferences</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_groupable_items_view_renderer__3_1acd3407cdb944925a3b6673084278e3a4">monodroidClearReferences</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_collection_view_renderer_1a661236263d6c76316126c036f489548e">monodroidClearReferences</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_groupable_items_view_renderer__3_1acd3407cdb944925a3b6673084278e3a4">monodroidClearReferences</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_collection_view_renderer_1a661236263d6c76316126c036f489548e">monodroidClearReferences</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_groupable_items_view_renderer__3_1acd3407cdb944925a3b6673084278e3a4">monodroidClearReferences</reimplementedby>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/100/android/src/crc643f46942d9dd1fff9/SelectableItemsViewRenderer_3.java" line="49" column="13" bodyfile="Application Green Quake.Android/obj/Release/100/android/src/crc643f46942d9dd1fff9/SelectableItemsViewRenderer_3.java" bodystart="49" bodyend="53"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_selectable_items_view_renderer__3_1a3f1658313ca809f685fa675852b9fe32" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>crc643f46942d9dd1fff9.SelectableItemsViewRenderer_3.SelectableItemsViewRenderer_3</definition>
+        <argsstring>(android.content.Context p0)</argsstring>
+        <name>SelectableItemsViewRenderer_3</name>
+        <param>
+          <type>android.content.Context</type>
+          <declname>p0</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/110/android/src/crc643f46942d9dd1fff9/SelectableItemsViewRenderer_3.java" line="18" column="8" bodyfile="Application Green Quake.Android/obj/Release/110/android/src/crc643f46942d9dd1fff9/SelectableItemsViewRenderer_3.java" bodystart="18" bodyend="23"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_selectable_items_view_renderer__3_1ab7ce15901372f05c72306a17de268d14" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>crc643f46942d9dd1fff9.SelectableItemsViewRenderer_3.SelectableItemsViewRenderer_3</definition>
+        <argsstring>(android.content.Context p0, android.util.AttributeSet p1)</argsstring>
+        <name>SelectableItemsViewRenderer_3</name>
+        <param>
+          <type>android.content.Context</type>
+          <declname>p0</declname>
+        </param>
+        <param>
+          <type>android.util.AttributeSet</type>
+          <declname>p1</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/110/android/src/crc643f46942d9dd1fff9/SelectableItemsViewRenderer_3.java" line="26" column="8" bodyfile="Application Green Quake.Android/obj/Release/110/android/src/crc643f46942d9dd1fff9/SelectableItemsViewRenderer_3.java" bodystart="26" bodyend="31"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_selectable_items_view_renderer__3_1a8e73af28c45ba6c01de2c7cd8d32c185" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>crc643f46942d9dd1fff9.SelectableItemsViewRenderer_3.SelectableItemsViewRenderer_3</definition>
+        <argsstring>(android.content.Context p0, android.util.AttributeSet p1, int p2)</argsstring>
+        <name>SelectableItemsViewRenderer_3</name>
+        <param>
+          <type>android.content.Context</type>
+          <declname>p0</declname>
+        </param>
+        <param>
+          <type>android.util.AttributeSet</type>
+          <declname>p1</declname>
+        </param>
+        <param>
+          <type>int</type>
+          <declname>p2</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/110/android/src/crc643f46942d9dd1fff9/SelectableItemsViewRenderer_3.java" line="34" column="8" bodyfile="Application Green Quake.Android/obj/Release/110/android/src/crc643f46942d9dd1fff9/SelectableItemsViewRenderer_3.java" bodystart="34" bodyend="39"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_selectable_items_view_renderer__3_1a32c9b33d3082e8075884d9162b53d23f" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void crc643f46942d9dd1fff9.SelectableItemsViewRenderer_3.monodroidAddReference</definition>
+        <argsstring>(java.lang.Object obj)</argsstring>
+        <name>monodroidAddReference</name>
+        <reimplements refid="classcrc643f46942d9dd1fff9_1_1_structured_items_view_renderer__3_1a78da61380835061632ce322eeb7a21d0">monodroidAddReference</reimplements>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_collection_view_renderer_1a3870a2d4f25f316c9f821dcfdd860d2a">monodroidAddReference</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_groupable_items_view_renderer__3_1a0cd8f3333e0c9906a3c78a71bac504bb">monodroidAddReference</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_collection_view_renderer_1a3870a2d4f25f316c9f821dcfdd860d2a">monodroidAddReference</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_groupable_items_view_renderer__3_1a0cd8f3333e0c9906a3c78a71bac504bb">monodroidAddReference</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_collection_view_renderer_1a3870a2d4f25f316c9f821dcfdd860d2a">monodroidAddReference</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_groupable_items_view_renderer__3_1a0cd8f3333e0c9906a3c78a71bac504bb">monodroidAddReference</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_collection_view_renderer_1a3870a2d4f25f316c9f821dcfdd860d2a">monodroidAddReference</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_groupable_items_view_renderer__3_1a0cd8f3333e0c9906a3c78a71bac504bb">monodroidAddReference</reimplementedby>
+        <param>
+          <type>java.lang.Object</type>
+          <declname>obj</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/110/android/src/crc643f46942d9dd1fff9/SelectableItemsViewRenderer_3.java" line="42" column="13" bodyfile="Application Green Quake.Android/obj/Release/110/android/src/crc643f46942d9dd1fff9/SelectableItemsViewRenderer_3.java" bodystart="42" bodyend="47"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_selectable_items_view_renderer__3_1a243fa4f2bdc10b2dd2970a28cbdff17e" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void crc643f46942d9dd1fff9.SelectableItemsViewRenderer_3.monodroidClearReferences</definition>
+        <argsstring>()</argsstring>
+        <name>monodroidClearReferences</name>
+        <reimplements refid="classcrc643f46942d9dd1fff9_1_1_structured_items_view_renderer__3_1aa2063b2095243f3060a58f08c6b5deb3">monodroidClearReferences</reimplements>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_collection_view_renderer_1a661236263d6c76316126c036f489548e">monodroidClearReferences</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_groupable_items_view_renderer__3_1acd3407cdb944925a3b6673084278e3a4">monodroidClearReferences</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_collection_view_renderer_1a661236263d6c76316126c036f489548e">monodroidClearReferences</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_groupable_items_view_renderer__3_1acd3407cdb944925a3b6673084278e3a4">monodroidClearReferences</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_collection_view_renderer_1a661236263d6c76316126c036f489548e">monodroidClearReferences</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_groupable_items_view_renderer__3_1acd3407cdb944925a3b6673084278e3a4">monodroidClearReferences</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_collection_view_renderer_1a661236263d6c76316126c036f489548e">monodroidClearReferences</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_groupable_items_view_renderer__3_1acd3407cdb944925a3b6673084278e3a4">monodroidClearReferences</reimplementedby>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/110/android/src/crc643f46942d9dd1fff9/SelectableItemsViewRenderer_3.java" line="49" column="13" bodyfile="Application Green Quake.Android/obj/Release/110/android/src/crc643f46942d9dd1fff9/SelectableItemsViewRenderer_3.java" bodystart="49" bodyend="53"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <inheritancegraph>
+      <node id="2">
+        <label>crc643f46942d9dd1fff9.StructuredItemsViewRenderer_3</label>
+        <link refid="classcrc643f46942d9dd1fff9_1_1_structured_items_view_renderer__3"/>
+        <childnode refid="3" relation="public-inheritance">
+        </childnode>
+        <childnode refid="5" relation="public-inheritance">
+        </childnode>
+        <childnode refid="3" relation="public-inheritance">
+        </childnode>
+        <childnode refid="5" relation="public-inheritance">
+        </childnode>
+        <childnode refid="3" relation="public-inheritance">
+        </childnode>
+        <childnode refid="5" relation="public-inheritance">
+        </childnode>
+        <childnode refid="3" relation="public-inheritance">
+        </childnode>
+        <childnode refid="5" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="6">
+        <label>androidx.recyclerview.widget.RecyclerView</label>
+      </node>
+      <node id="1">
+        <label>crc643f46942d9dd1fff9.SelectableItemsViewRenderer_3</label>
+        <link refid="classcrc643f46942d9dd1fff9_1_1_selectable_items_view_renderer__3"/>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+        <childnode refid="5" relation="public-inheritance">
+        </childnode>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+        <childnode refid="5" relation="public-inheritance">
+        </childnode>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+        <childnode refid="5" relation="public-inheritance">
+        </childnode>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+        <childnode refid="5" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="5">
+        <label>mono.android.IGCUserPeer</label>
+      </node>
+      <node id="3">
+        <label>crc643f46942d9dd1fff9.ItemsViewRenderer_3</label>
+        <link refid="classcrc643f46942d9dd1fff9_1_1_items_view_renderer__3"/>
+        <childnode refid="4" relation="public-inheritance">
+        </childnode>
+        <childnode refid="5" relation="public-inheritance">
+        </childnode>
+        <childnode refid="6" relation="public-inheritance">
+        </childnode>
+        <childnode refid="5" relation="public-inheritance">
+        </childnode>
+        <childnode refid="6" relation="public-inheritance">
+        </childnode>
+        <childnode refid="5" relation="public-inheritance">
+        </childnode>
+        <childnode refid="6" relation="public-inheritance">
+        </childnode>
+        <childnode refid="5" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="7">
+        <label>crc643f46942d9dd1fff9.GroupableItemsViewRenderer_3</label>
+        <link refid="classcrc643f46942d9dd1fff9_1_1_groupable_items_view_renderer__3"/>
+        <childnode refid="1" relation="public-inheritance">
+        </childnode>
+        <childnode refid="1" relation="public-inheritance">
+        </childnode>
+        <childnode refid="1" relation="public-inheritance">
+        </childnode>
+        <childnode refid="1" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="8">
+        <label>crc643f46942d9dd1fff9.CollectionViewRenderer</label>
+        <link refid="classcrc643f46942d9dd1fff9_1_1_collection_view_renderer"/>
+        <childnode refid="7" relation="public-inheritance">
+        </childnode>
+        <childnode refid="7" relation="public-inheritance">
+        </childnode>
+        <childnode refid="7" relation="public-inheritance">
+        </childnode>
+        <childnode refid="7" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="4">
+        <label>androidx::recyclerview::widget::RecyclerView</label>
+      </node>
+    </inheritancegraph>
+    <collaborationgraph>
+      <node id="2">
+        <label>crc643f46942d9dd1fff9.StructuredItemsViewRenderer_3</label>
+        <link refid="classcrc643f46942d9dd1fff9_1_1_structured_items_view_renderer__3"/>
+        <childnode refid="3" relation="public-inheritance">
+        </childnode>
+        <childnode refid="5" relation="public-inheritance">
+        </childnode>
+        <childnode refid="3" relation="public-inheritance">
+        </childnode>
+        <childnode refid="5" relation="public-inheritance">
+        </childnode>
+        <childnode refid="3" relation="public-inheritance">
+        </childnode>
+        <childnode refid="5" relation="public-inheritance">
+        </childnode>
+        <childnode refid="3" relation="public-inheritance">
+        </childnode>
+        <childnode refid="5" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="6">
+        <label>androidx.recyclerview.widget.RecyclerView</label>
+      </node>
+      <node id="1">
+        <label>crc643f46942d9dd1fff9.SelectableItemsViewRenderer_3</label>
+        <link refid="classcrc643f46942d9dd1fff9_1_1_selectable_items_view_renderer__3"/>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+        <childnode refid="5" relation="public-inheritance">
+        </childnode>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+        <childnode refid="5" relation="public-inheritance">
+        </childnode>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+        <childnode refid="5" relation="public-inheritance">
+        </childnode>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+        <childnode refid="5" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="5">
+        <label>mono.android.IGCUserPeer</label>
+      </node>
+      <node id="3">
+        <label>crc643f46942d9dd1fff9.ItemsViewRenderer_3</label>
+        <link refid="classcrc643f46942d9dd1fff9_1_1_items_view_renderer__3"/>
+        <childnode refid="4" relation="public-inheritance">
+        </childnode>
+        <childnode refid="5" relation="public-inheritance">
+        </childnode>
+        <childnode refid="6" relation="public-inheritance">
+        </childnode>
+        <childnode refid="5" relation="public-inheritance">
+        </childnode>
+        <childnode refid="6" relation="public-inheritance">
+        </childnode>
+        <childnode refid="5" relation="public-inheritance">
+        </childnode>
+        <childnode refid="6" relation="public-inheritance">
+        </childnode>
+        <childnode refid="5" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="4">
+        <label>androidx::recyclerview::widget::RecyclerView</label>
+      </node>
+    </collaborationgraph>
+    <location file="Application Green Quake.Android/obj/Debug/100/android/src/crc643f46942d9dd1fff9/SelectableItemsViewRenderer_3.java" line="4" column="7" bodyfile="Application Green Quake.Android/obj/Debug/100/android/src/crc643f46942d9dd1fff9/SelectableItemsViewRenderer_3.java" bodystart="8" bodyend="54"/>
+    <listofallmembers>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_selectable_items_view_renderer__3_1a8994e6f5ee1838b8dcddc3ba2c084d47" prot="package" virt="non-virtual"><scope>crc643f46942d9dd1fff9::SelectableItemsViewRenderer_3</scope><name>[static initializer]</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_selectable_items_view_renderer__3_1a8994e6f5ee1838b8dcddc3ba2c084d47" prot="package" virt="non-virtual"><scope>crc643f46942d9dd1fff9::SelectableItemsViewRenderer_3</scope><name>[static initializer]</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_selectable_items_view_renderer__3_1a8994e6f5ee1838b8dcddc3ba2c084d47" prot="package" virt="non-virtual"><scope>crc643f46942d9dd1fff9::SelectableItemsViewRenderer_3</scope><name>[static initializer]</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_selectable_items_view_renderer__3_1a8994e6f5ee1838b8dcddc3ba2c084d47" prot="package" virt="non-virtual"><scope>crc643f46942d9dd1fff9::SelectableItemsViewRenderer_3</scope><name>[static initializer]</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_selectable_items_view_renderer__3_1a54996c18160b71f84dad63adf6992562" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::SelectableItemsViewRenderer_3</scope><name>__md_methods</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_items_view_renderer__3_1a6e57116c76185f628bbdb633bc6bf6b8" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::SelectableItemsViewRenderer_3</scope><name>ItemsViewRenderer_3</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_items_view_renderer__3_1a80a301ae23c17d16dbb4ac4818429e0e" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::SelectableItemsViewRenderer_3</scope><name>ItemsViewRenderer_3</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_items_view_renderer__3_1a27316ac935947adaacc4ff88fae0a732" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::SelectableItemsViewRenderer_3</scope><name>ItemsViewRenderer_3</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_items_view_renderer__3_1a6e57116c76185f628bbdb633bc6bf6b8" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::SelectableItemsViewRenderer_3</scope><name>ItemsViewRenderer_3</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_items_view_renderer__3_1a80a301ae23c17d16dbb4ac4818429e0e" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::SelectableItemsViewRenderer_3</scope><name>ItemsViewRenderer_3</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_items_view_renderer__3_1a27316ac935947adaacc4ff88fae0a732" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::SelectableItemsViewRenderer_3</scope><name>ItemsViewRenderer_3</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_items_view_renderer__3_1a6e57116c76185f628bbdb633bc6bf6b8" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::SelectableItemsViewRenderer_3</scope><name>ItemsViewRenderer_3</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_items_view_renderer__3_1a80a301ae23c17d16dbb4ac4818429e0e" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::SelectableItemsViewRenderer_3</scope><name>ItemsViewRenderer_3</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_items_view_renderer__3_1a27316ac935947adaacc4ff88fae0a732" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::SelectableItemsViewRenderer_3</scope><name>ItemsViewRenderer_3</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_items_view_renderer__3_1a6e57116c76185f628bbdb633bc6bf6b8" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::SelectableItemsViewRenderer_3</scope><name>ItemsViewRenderer_3</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_items_view_renderer__3_1a80a301ae23c17d16dbb4ac4818429e0e" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::SelectableItemsViewRenderer_3</scope><name>ItemsViewRenderer_3</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_items_view_renderer__3_1a27316ac935947adaacc4ff88fae0a732" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::SelectableItemsViewRenderer_3</scope><name>ItemsViewRenderer_3</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_selectable_items_view_renderer__3_1a32c9b33d3082e8075884d9162b53d23f" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::SelectableItemsViewRenderer_3</scope><name>monodroidAddReference</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_selectable_items_view_renderer__3_1a32c9b33d3082e8075884d9162b53d23f" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::SelectableItemsViewRenderer_3</scope><name>monodroidAddReference</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_selectable_items_view_renderer__3_1a32c9b33d3082e8075884d9162b53d23f" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::SelectableItemsViewRenderer_3</scope><name>monodroidAddReference</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_selectable_items_view_renderer__3_1a32c9b33d3082e8075884d9162b53d23f" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::SelectableItemsViewRenderer_3</scope><name>monodroidAddReference</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_selectable_items_view_renderer__3_1a243fa4f2bdc10b2dd2970a28cbdff17e" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::SelectableItemsViewRenderer_3</scope><name>monodroidClearReferences</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_selectable_items_view_renderer__3_1a243fa4f2bdc10b2dd2970a28cbdff17e" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::SelectableItemsViewRenderer_3</scope><name>monodroidClearReferences</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_selectable_items_view_renderer__3_1a243fa4f2bdc10b2dd2970a28cbdff17e" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::SelectableItemsViewRenderer_3</scope><name>monodroidClearReferences</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_selectable_items_view_renderer__3_1a243fa4f2bdc10b2dd2970a28cbdff17e" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::SelectableItemsViewRenderer_3</scope><name>monodroidClearReferences</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_items_view_renderer__3_1aba8b51cf6676e9f187cfe3cdae430272" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::SelectableItemsViewRenderer_3</scope><name>onLayout</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_items_view_renderer__3_1aba8b51cf6676e9f187cfe3cdae430272" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::SelectableItemsViewRenderer_3</scope><name>onLayout</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_items_view_renderer__3_1aba8b51cf6676e9f187cfe3cdae430272" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::SelectableItemsViewRenderer_3</scope><name>onLayout</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_items_view_renderer__3_1aba8b51cf6676e9f187cfe3cdae430272" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::SelectableItemsViewRenderer_3</scope><name>onLayout</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_selectable_items_view_renderer__3_1a00b7b54086db819d54ffb8c119fce504" prot="private" virt="non-virtual"><scope>crc643f46942d9dd1fff9::SelectableItemsViewRenderer_3</scope><name>refList</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_selectable_items_view_renderer__3_1a3f1658313ca809f685fa675852b9fe32" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::SelectableItemsViewRenderer_3</scope><name>SelectableItemsViewRenderer_3</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_selectable_items_view_renderer__3_1ab7ce15901372f05c72306a17de268d14" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::SelectableItemsViewRenderer_3</scope><name>SelectableItemsViewRenderer_3</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_selectable_items_view_renderer__3_1a8e73af28c45ba6c01de2c7cd8d32c185" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::SelectableItemsViewRenderer_3</scope><name>SelectableItemsViewRenderer_3</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_selectable_items_view_renderer__3_1a3f1658313ca809f685fa675852b9fe32" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::SelectableItemsViewRenderer_3</scope><name>SelectableItemsViewRenderer_3</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_selectable_items_view_renderer__3_1ab7ce15901372f05c72306a17de268d14" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::SelectableItemsViewRenderer_3</scope><name>SelectableItemsViewRenderer_3</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_selectable_items_view_renderer__3_1a8e73af28c45ba6c01de2c7cd8d32c185" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::SelectableItemsViewRenderer_3</scope><name>SelectableItemsViewRenderer_3</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_selectable_items_view_renderer__3_1a3f1658313ca809f685fa675852b9fe32" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::SelectableItemsViewRenderer_3</scope><name>SelectableItemsViewRenderer_3</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_selectable_items_view_renderer__3_1ab7ce15901372f05c72306a17de268d14" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::SelectableItemsViewRenderer_3</scope><name>SelectableItemsViewRenderer_3</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_selectable_items_view_renderer__3_1a8e73af28c45ba6c01de2c7cd8d32c185" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::SelectableItemsViewRenderer_3</scope><name>SelectableItemsViewRenderer_3</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_selectable_items_view_renderer__3_1a3f1658313ca809f685fa675852b9fe32" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::SelectableItemsViewRenderer_3</scope><name>SelectableItemsViewRenderer_3</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_selectable_items_view_renderer__3_1ab7ce15901372f05c72306a17de268d14" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::SelectableItemsViewRenderer_3</scope><name>SelectableItemsViewRenderer_3</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_selectable_items_view_renderer__3_1a8e73af28c45ba6c01de2c7cd8d32c185" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::SelectableItemsViewRenderer_3</scope><name>SelectableItemsViewRenderer_3</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_structured_items_view_renderer__3_1a347cfbda5876e78feed4446f717f7251" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::SelectableItemsViewRenderer_3</scope><name>StructuredItemsViewRenderer_3</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_structured_items_view_renderer__3_1ab61db1129c237b448252da5e601fef3a" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::SelectableItemsViewRenderer_3</scope><name>StructuredItemsViewRenderer_3</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_structured_items_view_renderer__3_1a84155d7bdc7d92b817dcb59ba734c464" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::SelectableItemsViewRenderer_3</scope><name>StructuredItemsViewRenderer_3</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_structured_items_view_renderer__3_1a347cfbda5876e78feed4446f717f7251" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::SelectableItemsViewRenderer_3</scope><name>StructuredItemsViewRenderer_3</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_structured_items_view_renderer__3_1ab61db1129c237b448252da5e601fef3a" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::SelectableItemsViewRenderer_3</scope><name>StructuredItemsViewRenderer_3</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_structured_items_view_renderer__3_1a84155d7bdc7d92b817dcb59ba734c464" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::SelectableItemsViewRenderer_3</scope><name>StructuredItemsViewRenderer_3</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_structured_items_view_renderer__3_1a347cfbda5876e78feed4446f717f7251" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::SelectableItemsViewRenderer_3</scope><name>StructuredItemsViewRenderer_3</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_structured_items_view_renderer__3_1ab61db1129c237b448252da5e601fef3a" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::SelectableItemsViewRenderer_3</scope><name>StructuredItemsViewRenderer_3</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_structured_items_view_renderer__3_1a84155d7bdc7d92b817dcb59ba734c464" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::SelectableItemsViewRenderer_3</scope><name>StructuredItemsViewRenderer_3</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_structured_items_view_renderer__3_1a347cfbda5876e78feed4446f717f7251" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::SelectableItemsViewRenderer_3</scope><name>StructuredItemsViewRenderer_3</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_structured_items_view_renderer__3_1ab61db1129c237b448252da5e601fef3a" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::SelectableItemsViewRenderer_3</scope><name>StructuredItemsViewRenderer_3</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_structured_items_view_renderer__3_1a84155d7bdc7d92b817dcb59ba734c464" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::SelectableItemsViewRenderer_3</scope><name>StructuredItemsViewRenderer_3</name></member>
+    </listofallmembers>
+  </compounddef>
+</doxygen>

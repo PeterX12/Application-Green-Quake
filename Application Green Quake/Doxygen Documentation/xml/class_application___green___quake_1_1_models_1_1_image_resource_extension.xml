@@ -1,0 +1,72 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.9.1" xml:lang="en-US">
+  <compounddef id="class_application___green___quake_1_1_models_1_1_image_resource_extension" kind="class" language="C#" prot="public">
+    <compoundname>Application_Green_Quake::Models::ImageResourceExtension</compoundname>
+    <basecompoundref prot="public" virt="non-virtual">IMarkupExtension</basecompoundref>
+      <sectiondef kind="property">
+      <memberdef kind="property" id="class_application___green___quake_1_1_models_1_1_image_resource_extension_1a6b04c37077aa60b6f573dd89d04fb8f1" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+        <type>string</type>
+        <definition>string Application_Green_Quake.Models.ImageResourceExtension.Source</definition>
+        <argsstring></argsstring>
+        <name>Source</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake/Models/ImageResourceExtension.cs" line="19" column="23" bodyfile="Application Green Quake/Models/ImageResourceExtension.cs" bodystart="19" bodyend="19"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="public-func">
+      <memberdef kind="function" id="class_application___green___quake_1_1_models_1_1_image_resource_extension_1abc8b232b68a4d4bfaa3632c728001d38" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>object</type>
+        <definition>object Application_Green_Quake.Models.ImageResourceExtension.ProvideValue</definition>
+        <argsstring>(IServiceProvider serviceProvider)</argsstring>
+        <name>ProvideValue</name>
+        <param>
+          <type>IServiceProvider</type>
+          <declname>serviceProvider</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake/Models/ImageResourceExtension.cs" line="21" column="23" bodyfile="Application Green Quake/Models/ImageResourceExtension.cs" bodystart="21" bodyend="33"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <inheritancegraph>
+      <node id="1">
+        <label>Application_Green_Quake.Models.ImageResourceExtension</label>
+        <link refid="class_application___green___quake_1_1_models_1_1_image_resource_extension"/>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="2">
+        <label>IMarkupExtension</label>
+      </node>
+    </inheritancegraph>
+    <collaborationgraph>
+      <node id="1">
+        <label>Application_Green_Quake.Models.ImageResourceExtension</label>
+        <link refid="class_application___green___quake_1_1_models_1_1_image_resource_extension"/>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="2">
+        <label>IMarkupExtension</label>
+      </node>
+    </collaborationgraph>
+    <location file="Application Green Quake/Models/ImageResourceExtension.cs" line="17" column="5" bodyfile="Application Green Quake/Models/ImageResourceExtension.cs" bodystart="18" bodyend="34"/>
+    <listofallmembers>
+      <member refid="class_application___green___quake_1_1_models_1_1_image_resource_extension_1abc8b232b68a4d4bfaa3632c728001d38" prot="public" virt="non-virtual"><scope>Application_Green_Quake::Models::ImageResourceExtension</scope><name>ProvideValue</name></member>
+      <member refid="class_application___green___quake_1_1_models_1_1_image_resource_extension_1a6b04c37077aa60b6f573dd89d04fb8f1" prot="public" virt="non-virtual"><scope>Application_Green_Quake::Models::ImageResourceExtension</scope><name>Source</name></member>
+    </listofallmembers>
+  </compounddef>
+</doxygen>

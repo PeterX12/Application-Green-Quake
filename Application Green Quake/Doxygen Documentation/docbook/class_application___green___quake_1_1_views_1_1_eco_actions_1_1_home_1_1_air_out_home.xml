@@ -1,0 +1,66 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<section xmlns="http://docbook.org/ns/docbook" version="5.0" xmlns:xlink="http://www.w3.org/1999/xlink" xml:id="_class_application___green___quake_1_1_views_1_1_eco_actions_1_1_home_1_1_air_out_home" xml:lang="en-US">
+<title>Application_Green_Quake.Views.EcoActions.Home.AirOutHome Class Reference</title>
+<indexterm><primary>Application_Green_Quake.Views.EcoActions.Home.AirOutHome</primary></indexterm>
+Inheritance diagram for Application_Green_Quake.Views.EcoActions.Home.AirOutHome:<para>
+    <informalfigure>
+        <mediaobject>
+            <imageobject>
+                <imagedata width="50%" align="center" valign="middle" scalefit="0" fileref="class_application___green___quake_1_1_views_1_1_eco_actions_1_1_home_1_1_air_out_home__inherit__graph.png"></imagedata>
+            </imageobject>
+        </mediaobject>
+    </informalfigure>
+</para>
+Collaboration diagram for Application_Green_Quake.Views.EcoActions.Home.AirOutHome:<para>
+    <informalfigure>
+        <mediaobject>
+            <imageobject>
+                <imagedata width="50%" align="center" valign="middle" scalefit="0" fileref="class_application___green___quake_1_1_views_1_1_eco_actions_1_1_home_1_1_air_out_home__coll__graph.png"></imagedata>
+            </imageobject>
+        </mediaobject>
+    </informalfigure>
+</para>
+<simplesect>
+    <title>Public Member Functions    </title>
+        <itemizedlist>
+            <listitem><para><link linkend="_class_application___green___quake_1_1_views_1_1_eco_actions_1_1_home_1_1_air_out_home_1af27b40a970a4359cd1724424c0249748">AirOutHome</link> ()</para>
+</listitem>
+        </itemizedlist>
+</simplesect>
+<simplesect>
+    <title>Protected Member Functions    </title>
+        <itemizedlist>
+            <listitem><para>override void <link linkend="_class_application___green___quake_1_1_views_1_1_eco_actions_1_1_home_1_1_air_out_home_1a9377d38548a2d347796620cac60c1631">OnAppearing</link> ()</para>
+</listitem>
+        </itemizedlist>
+</simplesect>
+<section>
+<title>Detailed Description</title>
+<para>
+Definition at line 17 of file AirOutHome.xaml.g.cs.</para>
+</section>
+<section>
+<title>Constructor &amp; Destructor Documentation</title>
+<anchor xml:id="_class_application___green___quake_1_1_views_1_1_eco_actions_1_1_home_1_1_air_out_home_1af27b40a970a4359cd1724424c0249748"/>    <section>
+    <title>AirOutHome()</title>
+<indexterm><primary>AirOutHome</primary><secondary>Application_Green_Quake.Views.EcoActions.Home.AirOutHome</secondary></indexterm>
+<indexterm><primary>Application_Green_Quake.Views.EcoActions.Home.AirOutHome</primary><secondary>AirOutHome</secondary></indexterm>
+<para><computeroutput>Application_Green_Quake.Views.EcoActions.Home.AirOutHome.AirOutHome ( )</computeroutput></para><para>
+Definition at line 21 of file AirOutHome.xaml.cs.</para>
+</section>
+</section>
+<section>
+<title>Member Function Documentation</title>
+<anchor xml:id="_class_application___green___quake_1_1_views_1_1_eco_actions_1_1_home_1_1_air_out_home_1a9377d38548a2d347796620cac60c1631"/>    <section>
+    <title>OnAppearing()</title>
+<indexterm><primary>OnAppearing</primary><secondary>Application_Green_Quake.Views.EcoActions.Home.AirOutHome</secondary></indexterm>
+<indexterm><primary>Application_Green_Quake.Views.EcoActions.Home.AirOutHome</primary><secondary>OnAppearing</secondary></indexterm>
+<para><computeroutput>override void Application_Green_Quake.Views.EcoActions.Home.AirOutHome.OnAppearing ( )<computeroutput>[protected]</computeroutput></computeroutput></para>
+<para>This function is called before the page is displayed and it created an object ans uses it&apos;s SetLvl method to set the players level in the app and display it in the navigation bar. </para>
+<para>
+Definition at line 61 of file AirOutHome.xaml.cs.</para>
+</section>
+<para>
+The documentation for this class was generated from the following files:</para>
+Application Green Quake/obj/Debug/netstandard2.0/Views/EcoActions/Home/<link linkend="__debug_2netstandard2_80_2_views_2_eco_actions_2_home_2_air_out_home_8xaml_8g_8cs">AirOutHome.xaml.g.cs</link>Application Green Quake/Views/EcoActions/Home/<link linkend="__air_out_home_8xaml_8cs">AirOutHome.xaml.cs</link></section>
+</section>

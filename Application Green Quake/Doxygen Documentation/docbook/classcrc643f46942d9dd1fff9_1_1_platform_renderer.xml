@@ -1,0 +1,350 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<section xmlns="http://docbook.org/ns/docbook" version="5.0" xmlns:xlink="http://www.w3.org/1999/xlink" xml:id="_classcrc643f46942d9dd1fff9_1_1_platform_renderer" xml:lang="en-US">
+<title>crc643f46942d9dd1fff9.PlatformRenderer Class Reference</title>
+<indexterm><primary>crc643f46942d9dd1fff9.PlatformRenderer</primary></indexterm>
+Inheritance diagram for crc643f46942d9dd1fff9.PlatformRenderer:<para>
+    <informalfigure>
+        <mediaobject>
+            <imageobject>
+                <imagedata width="50%" align="center" valign="middle" scalefit="0" fileref="classcrc643f46942d9dd1fff9_1_1_platform_renderer__inherit__graph.png"></imagedata>
+            </imageobject>
+        </mediaobject>
+    </informalfigure>
+</para>
+Collaboration diagram for crc643f46942d9dd1fff9.PlatformRenderer:<para>
+    <informalfigure>
+        <mediaobject>
+            <imageobject>
+                <imagedata width="50%" align="center" valign="middle" scalefit="0" fileref="classcrc643f46942d9dd1fff9_1_1_platform_renderer__coll__graph.png"></imagedata>
+            </imageobject>
+        </mediaobject>
+    </informalfigure>
+</para>
+<simplesect>
+    <title>Public Member Functions    </title>
+        <itemizedlist>
+            <listitem><para><link linkend="_classcrc643f46942d9dd1fff9_1_1_platform_renderer_1af029af818a9bc7b640538a33d8a8e868">PlatformRenderer</link> (android.content.Context p0)</para>
+</listitem>
+            <listitem><para><link linkend="_classcrc643f46942d9dd1fff9_1_1_platform_renderer_1a2df2cf07d37adb942077f407e60d01bb">PlatformRenderer</link> (android.content.Context p0, android.util.AttributeSet p1)</para>
+</listitem>
+            <listitem><para><link linkend="_classcrc643f46942d9dd1fff9_1_1_platform_renderer_1ab776c78f649e506e53216a9f5ebaf2f9">PlatformRenderer</link> (android.content.Context p0, android.util.AttributeSet p1, int p2)</para>
+</listitem>
+            <listitem><para><link linkend="_classcrc643f46942d9dd1fff9_1_1_platform_renderer_1a126ec6385f0d34d96692d9e20ebe185e">PlatformRenderer</link> (android.content.Context p0, android.util.AttributeSet p1, int p2, int p3)</para>
+</listitem>
+            <listitem><para>boolean <link linkend="_classcrc643f46942d9dd1fff9_1_1_platform_renderer_1a0b186a03fd4904ad76403f51c59392ca">dispatchTouchEvent</link> (android.view.MotionEvent p0)</para>
+</listitem>
+            <listitem><para>void <link linkend="_classcrc643f46942d9dd1fff9_1_1_platform_renderer_1a1a8cf276776adafd51cae3b9ba1ebb14">onLayout</link> (boolean p0, int p1, int p2, int p3, int p4)</para>
+</listitem>
+            <listitem><para>void <link linkend="_classcrc643f46942d9dd1fff9_1_1_platform_renderer_1aca5a2269f76ada51e661b8f7f21487e9">onMeasure</link> (int p0, int p1)</para>
+</listitem>
+            <listitem><para>void <link linkend="_classcrc643f46942d9dd1fff9_1_1_platform_renderer_1a9987cb02dae7f013f24ad90090f49b39">monodroidAddReference</link> (java.lang.Object obj)</para>
+</listitem>
+            <listitem><para>void <link linkend="_classcrc643f46942d9dd1fff9_1_1_platform_renderer_1abb5e61b89267f785a1e3714ecfc6f048">monodroidClearReferences</link> ()</para>
+</listitem>
+            <listitem><para><link linkend="_classcrc643f46942d9dd1fff9_1_1_platform_renderer_1af029af818a9bc7b640538a33d8a8e868">PlatformRenderer</link> (android.content.Context p0)</para>
+</listitem>
+            <listitem><para><link linkend="_classcrc643f46942d9dd1fff9_1_1_platform_renderer_1a2df2cf07d37adb942077f407e60d01bb">PlatformRenderer</link> (android.content.Context p0, android.util.AttributeSet p1)</para>
+</listitem>
+            <listitem><para><link linkend="_classcrc643f46942d9dd1fff9_1_1_platform_renderer_1ab776c78f649e506e53216a9f5ebaf2f9">PlatformRenderer</link> (android.content.Context p0, android.util.AttributeSet p1, int p2)</para>
+</listitem>
+            <listitem><para><link linkend="_classcrc643f46942d9dd1fff9_1_1_platform_renderer_1a126ec6385f0d34d96692d9e20ebe185e">PlatformRenderer</link> (android.content.Context p0, android.util.AttributeSet p1, int p2, int p3)</para>
+</listitem>
+            <listitem><para>boolean <link linkend="_classcrc643f46942d9dd1fff9_1_1_platform_renderer_1a0b186a03fd4904ad76403f51c59392ca">dispatchTouchEvent</link> (android.view.MotionEvent p0)</para>
+</listitem>
+            <listitem><para>void <link linkend="_classcrc643f46942d9dd1fff9_1_1_platform_renderer_1a1a8cf276776adafd51cae3b9ba1ebb14">onLayout</link> (boolean p0, int p1, int p2, int p3, int p4)</para>
+</listitem>
+            <listitem><para>void <link linkend="_classcrc643f46942d9dd1fff9_1_1_platform_renderer_1aca5a2269f76ada51e661b8f7f21487e9">onMeasure</link> (int p0, int p1)</para>
+</listitem>
+            <listitem><para>void <link linkend="_classcrc643f46942d9dd1fff9_1_1_platform_renderer_1a9987cb02dae7f013f24ad90090f49b39">monodroidAddReference</link> (java.lang.Object obj)</para>
+</listitem>
+            <listitem><para>void <link linkend="_classcrc643f46942d9dd1fff9_1_1_platform_renderer_1abb5e61b89267f785a1e3714ecfc6f048">monodroidClearReferences</link> ()</para>
+</listitem>
+            <listitem><para><link linkend="_classcrc643f46942d9dd1fff9_1_1_platform_renderer_1af029af818a9bc7b640538a33d8a8e868">PlatformRenderer</link> (android.content.Context p0)</para>
+</listitem>
+            <listitem><para><link linkend="_classcrc643f46942d9dd1fff9_1_1_platform_renderer_1a2df2cf07d37adb942077f407e60d01bb">PlatformRenderer</link> (android.content.Context p0, android.util.AttributeSet p1)</para>
+</listitem>
+            <listitem><para><link linkend="_classcrc643f46942d9dd1fff9_1_1_platform_renderer_1ab776c78f649e506e53216a9f5ebaf2f9">PlatformRenderer</link> (android.content.Context p0, android.util.AttributeSet p1, int p2)</para>
+</listitem>
+            <listitem><para><link linkend="_classcrc643f46942d9dd1fff9_1_1_platform_renderer_1a126ec6385f0d34d96692d9e20ebe185e">PlatformRenderer</link> (android.content.Context p0, android.util.AttributeSet p1, int p2, int p3)</para>
+</listitem>
+            <listitem><para>boolean <link linkend="_classcrc643f46942d9dd1fff9_1_1_platform_renderer_1a0b186a03fd4904ad76403f51c59392ca">dispatchTouchEvent</link> (android.view.MotionEvent p0)</para>
+</listitem>
+            <listitem><para>void <link linkend="_classcrc643f46942d9dd1fff9_1_1_platform_renderer_1a1a8cf276776adafd51cae3b9ba1ebb14">onLayout</link> (boolean p0, int p1, int p2, int p3, int p4)</para>
+</listitem>
+            <listitem><para>void <link linkend="_classcrc643f46942d9dd1fff9_1_1_platform_renderer_1aca5a2269f76ada51e661b8f7f21487e9">onMeasure</link> (int p0, int p1)</para>
+</listitem>
+            <listitem><para>void <link linkend="_classcrc643f46942d9dd1fff9_1_1_platform_renderer_1a9987cb02dae7f013f24ad90090f49b39">monodroidAddReference</link> (java.lang.Object obj)</para>
+</listitem>
+            <listitem><para>void <link linkend="_classcrc643f46942d9dd1fff9_1_1_platform_renderer_1abb5e61b89267f785a1e3714ecfc6f048">monodroidClearReferences</link> ()</para>
+</listitem>
+            <listitem><para><link linkend="_classcrc643f46942d9dd1fff9_1_1_platform_renderer_1af029af818a9bc7b640538a33d8a8e868">PlatformRenderer</link> (android.content.Context p0)</para>
+</listitem>
+            <listitem><para><link linkend="_classcrc643f46942d9dd1fff9_1_1_platform_renderer_1a2df2cf07d37adb942077f407e60d01bb">PlatformRenderer</link> (android.content.Context p0, android.util.AttributeSet p1)</para>
+</listitem>
+            <listitem><para><link linkend="_classcrc643f46942d9dd1fff9_1_1_platform_renderer_1ab776c78f649e506e53216a9f5ebaf2f9">PlatformRenderer</link> (android.content.Context p0, android.util.AttributeSet p1, int p2)</para>
+</listitem>
+            <listitem><para><link linkend="_classcrc643f46942d9dd1fff9_1_1_platform_renderer_1a126ec6385f0d34d96692d9e20ebe185e">PlatformRenderer</link> (android.content.Context p0, android.util.AttributeSet p1, int p2, int p3)</para>
+</listitem>
+            <listitem><para>boolean <link linkend="_classcrc643f46942d9dd1fff9_1_1_platform_renderer_1a0b186a03fd4904ad76403f51c59392ca">dispatchTouchEvent</link> (android.view.MotionEvent p0)</para>
+</listitem>
+            <listitem><para>void <link linkend="_classcrc643f46942d9dd1fff9_1_1_platform_renderer_1a1a8cf276776adafd51cae3b9ba1ebb14">onLayout</link> (boolean p0, int p1, int p2, int p3, int p4)</para>
+</listitem>
+            <listitem><para>void <link linkend="_classcrc643f46942d9dd1fff9_1_1_platform_renderer_1aca5a2269f76ada51e661b8f7f21487e9">onMeasure</link> (int p0, int p1)</para>
+</listitem>
+            <listitem><para>void <link linkend="_classcrc643f46942d9dd1fff9_1_1_platform_renderer_1a9987cb02dae7f013f24ad90090f49b39">monodroidAddReference</link> (java.lang.Object obj)</para>
+</listitem>
+            <listitem><para>void <link linkend="_classcrc643f46942d9dd1fff9_1_1_platform_renderer_1abb5e61b89267f785a1e3714ecfc6f048">monodroidClearReferences</link> ()</para>
+</listitem>
+        </itemizedlist>
+</simplesect>
+<simplesect>
+    <title>Static Public Attributes    </title>
+        <itemizedlist>
+            <listitem><para>static final String <link linkend="_classcrc643f46942d9dd1fff9_1_1_platform_renderer_1af416fa4b848de653515049e81d199b9e">__md_methods</link></para>
+</listitem>
+        </itemizedlist>
+</simplesect>
+<section>
+<title>Detailed Description</title>
+<para>
+Definition at line 4 of file PlatformRenderer.java.</para>
+</section>
+<section>
+<title>Constructor &amp; Destructor Documentation</title>
+<anchor xml:id="_classcrc643f46942d9dd1fff9_1_1_platform_renderer_1af029af818a9bc7b640538a33d8a8e868"/>    <section>
+    <title>PlatformRenderer()<computeroutput>[1/16]</computeroutput></title>
+<indexterm><primary>PlatformRenderer</primary><secondary>crc643f46942d9dd1fff9.PlatformRenderer</secondary></indexterm>
+<indexterm><primary>crc643f46942d9dd1fff9.PlatformRenderer</primary><secondary>PlatformRenderer</secondary></indexterm>
+<para><computeroutput>crc643f46942d9dd1fff9.PlatformRenderer.PlatformRenderer (android.content.Context p0)</computeroutput></para><para>
+Definition at line 21 of file PlatformRenderer.java.</para>
+    </section><anchor xml:id="_classcrc643f46942d9dd1fff9_1_1_platform_renderer_1a2df2cf07d37adb942077f407e60d01bb"/>    <section>
+    <title>PlatformRenderer()<computeroutput>[2/16]</computeroutput></title>
+<indexterm><primary>PlatformRenderer</primary><secondary>crc643f46942d9dd1fff9.PlatformRenderer</secondary></indexterm>
+<indexterm><primary>crc643f46942d9dd1fff9.PlatformRenderer</primary><secondary>PlatformRenderer</secondary></indexterm>
+<para><computeroutput>crc643f46942d9dd1fff9.PlatformRenderer.PlatformRenderer (android.content.Context p0, android.util.AttributeSet p1)</computeroutput></para><para>
+Definition at line 29 of file PlatformRenderer.java.</para>
+    </section><anchor xml:id="_classcrc643f46942d9dd1fff9_1_1_platform_renderer_1ab776c78f649e506e53216a9f5ebaf2f9"/>    <section>
+    <title>PlatformRenderer()<computeroutput>[3/16]</computeroutput></title>
+<indexterm><primary>PlatformRenderer</primary><secondary>crc643f46942d9dd1fff9.PlatformRenderer</secondary></indexterm>
+<indexterm><primary>crc643f46942d9dd1fff9.PlatformRenderer</primary><secondary>PlatformRenderer</secondary></indexterm>
+<para><computeroutput>crc643f46942d9dd1fff9.PlatformRenderer.PlatformRenderer (android.content.Context p0, android.util.AttributeSet p1, int p2)</computeroutput></para><para>
+Definition at line 37 of file PlatformRenderer.java.</para>
+    </section><anchor xml:id="_classcrc643f46942d9dd1fff9_1_1_platform_renderer_1a126ec6385f0d34d96692d9e20ebe185e"/>    <section>
+    <title>PlatformRenderer()<computeroutput>[4/16]</computeroutput></title>
+<indexterm><primary>PlatformRenderer</primary><secondary>crc643f46942d9dd1fff9.PlatformRenderer</secondary></indexterm>
+<indexterm><primary>crc643f46942d9dd1fff9.PlatformRenderer</primary><secondary>PlatformRenderer</secondary></indexterm>
+<para><computeroutput>crc643f46942d9dd1fff9.PlatformRenderer.PlatformRenderer (android.content.Context p0, android.util.AttributeSet p1, int p2, int p3)</computeroutput></para><para>
+Definition at line 45 of file PlatformRenderer.java.</para>
+    </section><anchor xml:id="_classcrc643f46942d9dd1fff9_1_1_platform_renderer_1af029af818a9bc7b640538a33d8a8e868"/>    <section>
+    <title>PlatformRenderer()<computeroutput>[5/16]</computeroutput></title>
+<indexterm><primary>PlatformRenderer</primary><secondary>crc643f46942d9dd1fff9.PlatformRenderer</secondary></indexterm>
+<indexterm><primary>crc643f46942d9dd1fff9.PlatformRenderer</primary><secondary>PlatformRenderer</secondary></indexterm>
+<para><computeroutput>crc643f46942d9dd1fff9.PlatformRenderer.PlatformRenderer (android.content.Context p0)</computeroutput></para><para>
+Definition at line 21 of file PlatformRenderer.java.</para>
+    </section><anchor xml:id="_classcrc643f46942d9dd1fff9_1_1_platform_renderer_1a2df2cf07d37adb942077f407e60d01bb"/>    <section>
+    <title>PlatformRenderer()<computeroutput>[6/16]</computeroutput></title>
+<indexterm><primary>PlatformRenderer</primary><secondary>crc643f46942d9dd1fff9.PlatformRenderer</secondary></indexterm>
+<indexterm><primary>crc643f46942d9dd1fff9.PlatformRenderer</primary><secondary>PlatformRenderer</secondary></indexterm>
+<para><computeroutput>crc643f46942d9dd1fff9.PlatformRenderer.PlatformRenderer (android.content.Context p0, android.util.AttributeSet p1)</computeroutput></para><para>
+Definition at line 29 of file PlatformRenderer.java.</para>
+    </section><anchor xml:id="_classcrc643f46942d9dd1fff9_1_1_platform_renderer_1ab776c78f649e506e53216a9f5ebaf2f9"/>    <section>
+    <title>PlatformRenderer()<computeroutput>[7/16]</computeroutput></title>
+<indexterm><primary>PlatformRenderer</primary><secondary>crc643f46942d9dd1fff9.PlatformRenderer</secondary></indexterm>
+<indexterm><primary>crc643f46942d9dd1fff9.PlatformRenderer</primary><secondary>PlatformRenderer</secondary></indexterm>
+<para><computeroutput>crc643f46942d9dd1fff9.PlatformRenderer.PlatformRenderer (android.content.Context p0, android.util.AttributeSet p1, int p2)</computeroutput></para><para>
+Definition at line 37 of file PlatformRenderer.java.</para>
+    </section><anchor xml:id="_classcrc643f46942d9dd1fff9_1_1_platform_renderer_1a126ec6385f0d34d96692d9e20ebe185e"/>    <section>
+    <title>PlatformRenderer()<computeroutput>[8/16]</computeroutput></title>
+<indexterm><primary>PlatformRenderer</primary><secondary>crc643f46942d9dd1fff9.PlatformRenderer</secondary></indexterm>
+<indexterm><primary>crc643f46942d9dd1fff9.PlatformRenderer</primary><secondary>PlatformRenderer</secondary></indexterm>
+<para><computeroutput>crc643f46942d9dd1fff9.PlatformRenderer.PlatformRenderer (android.content.Context p0, android.util.AttributeSet p1, int p2, int p3)</computeroutput></para><para>
+Definition at line 45 of file PlatformRenderer.java.</para>
+    </section><anchor xml:id="_classcrc643f46942d9dd1fff9_1_1_platform_renderer_1af029af818a9bc7b640538a33d8a8e868"/>    <section>
+    <title>PlatformRenderer()<computeroutput>[9/16]</computeroutput></title>
+<indexterm><primary>PlatformRenderer</primary><secondary>crc643f46942d9dd1fff9.PlatformRenderer</secondary></indexterm>
+<indexterm><primary>crc643f46942d9dd1fff9.PlatformRenderer</primary><secondary>PlatformRenderer</secondary></indexterm>
+<para><computeroutput>crc643f46942d9dd1fff9.PlatformRenderer.PlatformRenderer (android.content.Context p0)</computeroutput></para><para>
+Definition at line 21 of file PlatformRenderer.java.</para>
+    </section><anchor xml:id="_classcrc643f46942d9dd1fff9_1_1_platform_renderer_1a2df2cf07d37adb942077f407e60d01bb"/>    <section>
+    <title>PlatformRenderer()<computeroutput>[10/16]</computeroutput></title>
+<indexterm><primary>PlatformRenderer</primary><secondary>crc643f46942d9dd1fff9.PlatformRenderer</secondary></indexterm>
+<indexterm><primary>crc643f46942d9dd1fff9.PlatformRenderer</primary><secondary>PlatformRenderer</secondary></indexterm>
+<para><computeroutput>crc643f46942d9dd1fff9.PlatformRenderer.PlatformRenderer (android.content.Context p0, android.util.AttributeSet p1)</computeroutput></para><para>
+Definition at line 29 of file PlatformRenderer.java.</para>
+    </section><anchor xml:id="_classcrc643f46942d9dd1fff9_1_1_platform_renderer_1ab776c78f649e506e53216a9f5ebaf2f9"/>    <section>
+    <title>PlatformRenderer()<computeroutput>[11/16]</computeroutput></title>
+<indexterm><primary>PlatformRenderer</primary><secondary>crc643f46942d9dd1fff9.PlatformRenderer</secondary></indexterm>
+<indexterm><primary>crc643f46942d9dd1fff9.PlatformRenderer</primary><secondary>PlatformRenderer</secondary></indexterm>
+<para><computeroutput>crc643f46942d9dd1fff9.PlatformRenderer.PlatformRenderer (android.content.Context p0, android.util.AttributeSet p1, int p2)</computeroutput></para><para>
+Definition at line 37 of file PlatformRenderer.java.</para>
+    </section><anchor xml:id="_classcrc643f46942d9dd1fff9_1_1_platform_renderer_1a126ec6385f0d34d96692d9e20ebe185e"/>    <section>
+    <title>PlatformRenderer()<computeroutput>[12/16]</computeroutput></title>
+<indexterm><primary>PlatformRenderer</primary><secondary>crc643f46942d9dd1fff9.PlatformRenderer</secondary></indexterm>
+<indexterm><primary>crc643f46942d9dd1fff9.PlatformRenderer</primary><secondary>PlatformRenderer</secondary></indexterm>
+<para><computeroutput>crc643f46942d9dd1fff9.PlatformRenderer.PlatformRenderer (android.content.Context p0, android.util.AttributeSet p1, int p2, int p3)</computeroutput></para><para>
+Definition at line 45 of file PlatformRenderer.java.</para>
+    </section><anchor xml:id="_classcrc643f46942d9dd1fff9_1_1_platform_renderer_1af029af818a9bc7b640538a33d8a8e868"/>    <section>
+    <title>PlatformRenderer()<computeroutput>[13/16]</computeroutput></title>
+<indexterm><primary>PlatformRenderer</primary><secondary>crc643f46942d9dd1fff9.PlatformRenderer</secondary></indexterm>
+<indexterm><primary>crc643f46942d9dd1fff9.PlatformRenderer</primary><secondary>PlatformRenderer</secondary></indexterm>
+<para><computeroutput>crc643f46942d9dd1fff9.PlatformRenderer.PlatformRenderer (android.content.Context p0)</computeroutput></para><para>
+Definition at line 21 of file PlatformRenderer.java.</para>
+    </section><anchor xml:id="_classcrc643f46942d9dd1fff9_1_1_platform_renderer_1a2df2cf07d37adb942077f407e60d01bb"/>    <section>
+    <title>PlatformRenderer()<computeroutput>[14/16]</computeroutput></title>
+<indexterm><primary>PlatformRenderer</primary><secondary>crc643f46942d9dd1fff9.PlatformRenderer</secondary></indexterm>
+<indexterm><primary>crc643f46942d9dd1fff9.PlatformRenderer</primary><secondary>PlatformRenderer</secondary></indexterm>
+<para><computeroutput>crc643f46942d9dd1fff9.PlatformRenderer.PlatformRenderer (android.content.Context p0, android.util.AttributeSet p1)</computeroutput></para><para>
+Definition at line 29 of file PlatformRenderer.java.</para>
+    </section><anchor xml:id="_classcrc643f46942d9dd1fff9_1_1_platform_renderer_1ab776c78f649e506e53216a9f5ebaf2f9"/>    <section>
+    <title>PlatformRenderer()<computeroutput>[15/16]</computeroutput></title>
+<indexterm><primary>PlatformRenderer</primary><secondary>crc643f46942d9dd1fff9.PlatformRenderer</secondary></indexterm>
+<indexterm><primary>crc643f46942d9dd1fff9.PlatformRenderer</primary><secondary>PlatformRenderer</secondary></indexterm>
+<para><computeroutput>crc643f46942d9dd1fff9.PlatformRenderer.PlatformRenderer (android.content.Context p0, android.util.AttributeSet p1, int p2)</computeroutput></para><para>
+Definition at line 37 of file PlatformRenderer.java.</para>
+    </section><anchor xml:id="_classcrc643f46942d9dd1fff9_1_1_platform_renderer_1a126ec6385f0d34d96692d9e20ebe185e"/>    <section>
+    <title>PlatformRenderer()<computeroutput>[16/16]</computeroutput></title>
+<indexterm><primary>PlatformRenderer</primary><secondary>crc643f46942d9dd1fff9.PlatformRenderer</secondary></indexterm>
+<indexterm><primary>crc643f46942d9dd1fff9.PlatformRenderer</primary><secondary>PlatformRenderer</secondary></indexterm>
+<para><computeroutput>crc643f46942d9dd1fff9.PlatformRenderer.PlatformRenderer (android.content.Context p0, android.util.AttributeSet p1, int p2, int p3)</computeroutput></para><para>
+Definition at line 45 of file PlatformRenderer.java.</para>
+</section>
+</section>
+<section>
+<title>Member Function Documentation</title>
+<anchor xml:id="_classcrc643f46942d9dd1fff9_1_1_platform_renderer_1a0b186a03fd4904ad76403f51c59392ca"/>    <section>
+    <title>dispatchTouchEvent()<computeroutput>[1/4]</computeroutput></title>
+<indexterm><primary>dispatchTouchEvent</primary><secondary>crc643f46942d9dd1fff9.PlatformRenderer</secondary></indexterm>
+<indexterm><primary>crc643f46942d9dd1fff9.PlatformRenderer</primary><secondary>dispatchTouchEvent</secondary></indexterm>
+<para><computeroutput>boolean crc643f46942d9dd1fff9.PlatformRenderer.dispatchTouchEvent (android.view.MotionEvent p0)</computeroutput></para><para>
+Definition at line 53 of file PlatformRenderer.java.</para>
+    </section><anchor xml:id="_classcrc643f46942d9dd1fff9_1_1_platform_renderer_1a0b186a03fd4904ad76403f51c59392ca"/>    <section>
+    <title>dispatchTouchEvent()<computeroutput>[2/4]</computeroutput></title>
+<indexterm><primary>dispatchTouchEvent</primary><secondary>crc643f46942d9dd1fff9.PlatformRenderer</secondary></indexterm>
+<indexterm><primary>crc643f46942d9dd1fff9.PlatformRenderer</primary><secondary>dispatchTouchEvent</secondary></indexterm>
+<para><computeroutput>boolean crc643f46942d9dd1fff9.PlatformRenderer.dispatchTouchEvent (android.view.MotionEvent p0)</computeroutput></para><para>
+Definition at line 53 of file PlatformRenderer.java.</para>
+    </section><anchor xml:id="_classcrc643f46942d9dd1fff9_1_1_platform_renderer_1a0b186a03fd4904ad76403f51c59392ca"/>    <section>
+    <title>dispatchTouchEvent()<computeroutput>[3/4]</computeroutput></title>
+<indexterm><primary>dispatchTouchEvent</primary><secondary>crc643f46942d9dd1fff9.PlatformRenderer</secondary></indexterm>
+<indexterm><primary>crc643f46942d9dd1fff9.PlatformRenderer</primary><secondary>dispatchTouchEvent</secondary></indexterm>
+<para><computeroutput>boolean crc643f46942d9dd1fff9.PlatformRenderer.dispatchTouchEvent (android.view.MotionEvent p0)</computeroutput></para><para>
+Definition at line 53 of file PlatformRenderer.java.</para>
+    </section><anchor xml:id="_classcrc643f46942d9dd1fff9_1_1_platform_renderer_1a0b186a03fd4904ad76403f51c59392ca"/>    <section>
+    <title>dispatchTouchEvent()<computeroutput>[4/4]</computeroutput></title>
+<indexterm><primary>dispatchTouchEvent</primary><secondary>crc643f46942d9dd1fff9.PlatformRenderer</secondary></indexterm>
+<indexterm><primary>crc643f46942d9dd1fff9.PlatformRenderer</primary><secondary>dispatchTouchEvent</secondary></indexterm>
+<para><computeroutput>boolean crc643f46942d9dd1fff9.PlatformRenderer.dispatchTouchEvent (android.view.MotionEvent p0)</computeroutput></para><para>
+Definition at line 53 of file PlatformRenderer.java.</para>
+    </section><anchor xml:id="_classcrc643f46942d9dd1fff9_1_1_platform_renderer_1a9987cb02dae7f013f24ad90090f49b39"/>    <section>
+    <title>monodroidAddReference()<computeroutput>[1/4]</computeroutput></title>
+<indexterm><primary>monodroidAddReference</primary><secondary>crc643f46942d9dd1fff9.PlatformRenderer</secondary></indexterm>
+<indexterm><primary>crc643f46942d9dd1fff9.PlatformRenderer</primary><secondary>monodroidAddReference</secondary></indexterm>
+<para><computeroutput>void crc643f46942d9dd1fff9.PlatformRenderer.monodroidAddReference (java.lang.Object obj)</computeroutput></para><para>
+Definition at line 77 of file PlatformRenderer.java.</para>
+    </section><anchor xml:id="_classcrc643f46942d9dd1fff9_1_1_platform_renderer_1a9987cb02dae7f013f24ad90090f49b39"/>    <section>
+    <title>monodroidAddReference()<computeroutput>[2/4]</computeroutput></title>
+<indexterm><primary>monodroidAddReference</primary><secondary>crc643f46942d9dd1fff9.PlatformRenderer</secondary></indexterm>
+<indexterm><primary>crc643f46942d9dd1fff9.PlatformRenderer</primary><secondary>monodroidAddReference</secondary></indexterm>
+<para><computeroutput>void crc643f46942d9dd1fff9.PlatformRenderer.monodroidAddReference (java.lang.Object obj)</computeroutput></para><para>
+Definition at line 77 of file PlatformRenderer.java.</para>
+    </section><anchor xml:id="_classcrc643f46942d9dd1fff9_1_1_platform_renderer_1a9987cb02dae7f013f24ad90090f49b39"/>    <section>
+    <title>monodroidAddReference()<computeroutput>[3/4]</computeroutput></title>
+<indexterm><primary>monodroidAddReference</primary><secondary>crc643f46942d9dd1fff9.PlatformRenderer</secondary></indexterm>
+<indexterm><primary>crc643f46942d9dd1fff9.PlatformRenderer</primary><secondary>monodroidAddReference</secondary></indexterm>
+<para><computeroutput>void crc643f46942d9dd1fff9.PlatformRenderer.monodroidAddReference (java.lang.Object obj)</computeroutput></para><para>
+Definition at line 77 of file PlatformRenderer.java.</para>
+    </section><anchor xml:id="_classcrc643f46942d9dd1fff9_1_1_platform_renderer_1a9987cb02dae7f013f24ad90090f49b39"/>    <section>
+    <title>monodroidAddReference()<computeroutput>[4/4]</computeroutput></title>
+<indexterm><primary>monodroidAddReference</primary><secondary>crc643f46942d9dd1fff9.PlatformRenderer</secondary></indexterm>
+<indexterm><primary>crc643f46942d9dd1fff9.PlatformRenderer</primary><secondary>monodroidAddReference</secondary></indexterm>
+<para><computeroutput>void crc643f46942d9dd1fff9.PlatformRenderer.monodroidAddReference (java.lang.Object obj)</computeroutput></para><para>
+Definition at line 77 of file PlatformRenderer.java.</para>
+    </section><anchor xml:id="_classcrc643f46942d9dd1fff9_1_1_platform_renderer_1abb5e61b89267f785a1e3714ecfc6f048"/>    <section>
+    <title>monodroidClearReferences()<computeroutput>[1/4]</computeroutput></title>
+<indexterm><primary>monodroidClearReferences</primary><secondary>crc643f46942d9dd1fff9.PlatformRenderer</secondary></indexterm>
+<indexterm><primary>crc643f46942d9dd1fff9.PlatformRenderer</primary><secondary>monodroidClearReferences</secondary></indexterm>
+<para><computeroutput>void crc643f46942d9dd1fff9.PlatformRenderer.monodroidClearReferences ( )</computeroutput></para><para>
+Definition at line 84 of file PlatformRenderer.java.</para>
+    </section><anchor xml:id="_classcrc643f46942d9dd1fff9_1_1_platform_renderer_1abb5e61b89267f785a1e3714ecfc6f048"/>    <section>
+    <title>monodroidClearReferences()<computeroutput>[2/4]</computeroutput></title>
+<indexterm><primary>monodroidClearReferences</primary><secondary>crc643f46942d9dd1fff9.PlatformRenderer</secondary></indexterm>
+<indexterm><primary>crc643f46942d9dd1fff9.PlatformRenderer</primary><secondary>monodroidClearReferences</secondary></indexterm>
+<para><computeroutput>void crc643f46942d9dd1fff9.PlatformRenderer.monodroidClearReferences ( )</computeroutput></para><para>
+Definition at line 84 of file PlatformRenderer.java.</para>
+    </section><anchor xml:id="_classcrc643f46942d9dd1fff9_1_1_platform_renderer_1abb5e61b89267f785a1e3714ecfc6f048"/>    <section>
+    <title>monodroidClearReferences()<computeroutput>[3/4]</computeroutput></title>
+<indexterm><primary>monodroidClearReferences</primary><secondary>crc643f46942d9dd1fff9.PlatformRenderer</secondary></indexterm>
+<indexterm><primary>crc643f46942d9dd1fff9.PlatformRenderer</primary><secondary>monodroidClearReferences</secondary></indexterm>
+<para><computeroutput>void crc643f46942d9dd1fff9.PlatformRenderer.monodroidClearReferences ( )</computeroutput></para><para>
+Definition at line 84 of file PlatformRenderer.java.</para>
+    </section><anchor xml:id="_classcrc643f46942d9dd1fff9_1_1_platform_renderer_1abb5e61b89267f785a1e3714ecfc6f048"/>    <section>
+    <title>monodroidClearReferences()<computeroutput>[4/4]</computeroutput></title>
+<indexterm><primary>monodroidClearReferences</primary><secondary>crc643f46942d9dd1fff9.PlatformRenderer</secondary></indexterm>
+<indexterm><primary>crc643f46942d9dd1fff9.PlatformRenderer</primary><secondary>monodroidClearReferences</secondary></indexterm>
+<para><computeroutput>void crc643f46942d9dd1fff9.PlatformRenderer.monodroidClearReferences ( )</computeroutput></para><para>
+Definition at line 84 of file PlatformRenderer.java.</para>
+    </section><anchor xml:id="_classcrc643f46942d9dd1fff9_1_1_platform_renderer_1a1a8cf276776adafd51cae3b9ba1ebb14"/>    <section>
+    <title>onLayout()<computeroutput>[1/4]</computeroutput></title>
+<indexterm><primary>onLayout</primary><secondary>crc643f46942d9dd1fff9.PlatformRenderer</secondary></indexterm>
+<indexterm><primary>crc643f46942d9dd1fff9.PlatformRenderer</primary><secondary>onLayout</secondary></indexterm>
+<para><computeroutput>void crc643f46942d9dd1fff9.PlatformRenderer.onLayout (boolean p0, int p1, int p2, int p3, int p4)</computeroutput></para><para>
+Definition at line 61 of file PlatformRenderer.java.</para>
+    </section><anchor xml:id="_classcrc643f46942d9dd1fff9_1_1_platform_renderer_1a1a8cf276776adafd51cae3b9ba1ebb14"/>    <section>
+    <title>onLayout()<computeroutput>[2/4]</computeroutput></title>
+<indexterm><primary>onLayout</primary><secondary>crc643f46942d9dd1fff9.PlatformRenderer</secondary></indexterm>
+<indexterm><primary>crc643f46942d9dd1fff9.PlatformRenderer</primary><secondary>onLayout</secondary></indexterm>
+<para><computeroutput>void crc643f46942d9dd1fff9.PlatformRenderer.onLayout (boolean p0, int p1, int p2, int p3, int p4)</computeroutput></para><para>
+Definition at line 61 of file PlatformRenderer.java.</para>
+    </section><anchor xml:id="_classcrc643f46942d9dd1fff9_1_1_platform_renderer_1a1a8cf276776adafd51cae3b9ba1ebb14"/>    <section>
+    <title>onLayout()<computeroutput>[3/4]</computeroutput></title>
+<indexterm><primary>onLayout</primary><secondary>crc643f46942d9dd1fff9.PlatformRenderer</secondary></indexterm>
+<indexterm><primary>crc643f46942d9dd1fff9.PlatformRenderer</primary><secondary>onLayout</secondary></indexterm>
+<para><computeroutput>void crc643f46942d9dd1fff9.PlatformRenderer.onLayout (boolean p0, int p1, int p2, int p3, int p4)</computeroutput></para><para>
+Definition at line 61 of file PlatformRenderer.java.</para>
+    </section><anchor xml:id="_classcrc643f46942d9dd1fff9_1_1_platform_renderer_1a1a8cf276776adafd51cae3b9ba1ebb14"/>    <section>
+    <title>onLayout()<computeroutput>[4/4]</computeroutput></title>
+<indexterm><primary>onLayout</primary><secondary>crc643f46942d9dd1fff9.PlatformRenderer</secondary></indexterm>
+<indexterm><primary>crc643f46942d9dd1fff9.PlatformRenderer</primary><secondary>onLayout</secondary></indexterm>
+<para><computeroutput>void crc643f46942d9dd1fff9.PlatformRenderer.onLayout (boolean p0, int p1, int p2, int p3, int p4)</computeroutput></para><para>
+Definition at line 61 of file PlatformRenderer.java.</para>
+    </section><anchor xml:id="_classcrc643f46942d9dd1fff9_1_1_platform_renderer_1aca5a2269f76ada51e661b8f7f21487e9"/>    <section>
+    <title>onMeasure()<computeroutput>[1/4]</computeroutput></title>
+<indexterm><primary>onMeasure</primary><secondary>crc643f46942d9dd1fff9.PlatformRenderer</secondary></indexterm>
+<indexterm><primary>crc643f46942d9dd1fff9.PlatformRenderer</primary><secondary>onMeasure</secondary></indexterm>
+<para><computeroutput>void crc643f46942d9dd1fff9.PlatformRenderer.onMeasure (int p0, int p1)</computeroutput></para><para>
+Definition at line 69 of file PlatformRenderer.java.</para>
+    </section><anchor xml:id="_classcrc643f46942d9dd1fff9_1_1_platform_renderer_1aca5a2269f76ada51e661b8f7f21487e9"/>    <section>
+    <title>onMeasure()<computeroutput>[2/4]</computeroutput></title>
+<indexterm><primary>onMeasure</primary><secondary>crc643f46942d9dd1fff9.PlatformRenderer</secondary></indexterm>
+<indexterm><primary>crc643f46942d9dd1fff9.PlatformRenderer</primary><secondary>onMeasure</secondary></indexterm>
+<para><computeroutput>void crc643f46942d9dd1fff9.PlatformRenderer.onMeasure (int p0, int p1)</computeroutput></para><para>
+Definition at line 69 of file PlatformRenderer.java.</para>
+    </section><anchor xml:id="_classcrc643f46942d9dd1fff9_1_1_platform_renderer_1aca5a2269f76ada51e661b8f7f21487e9"/>    <section>
+    <title>onMeasure()<computeroutput>[3/4]</computeroutput></title>
+<indexterm><primary>onMeasure</primary><secondary>crc643f46942d9dd1fff9.PlatformRenderer</secondary></indexterm>
+<indexterm><primary>crc643f46942d9dd1fff9.PlatformRenderer</primary><secondary>onMeasure</secondary></indexterm>
+<para><computeroutput>void crc643f46942d9dd1fff9.PlatformRenderer.onMeasure (int p0, int p1)</computeroutput></para><para>
+Definition at line 69 of file PlatformRenderer.java.</para>
+    </section><anchor xml:id="_classcrc643f46942d9dd1fff9_1_1_platform_renderer_1aca5a2269f76ada51e661b8f7f21487e9"/>    <section>
+    <title>onMeasure()<computeroutput>[4/4]</computeroutput></title>
+<indexterm><primary>onMeasure</primary><secondary>crc643f46942d9dd1fff9.PlatformRenderer</secondary></indexterm>
+<indexterm><primary>crc643f46942d9dd1fff9.PlatformRenderer</primary><secondary>onMeasure</secondary></indexterm>
+<para><computeroutput>void crc643f46942d9dd1fff9.PlatformRenderer.onMeasure (int p0, int p1)</computeroutput></para><para>
+Definition at line 69 of file PlatformRenderer.java.</para>
+</section>
+</section>
+<section>
+<title>Member Data Documentation</title>
+<anchor xml:id="_classcrc643f46942d9dd1fff9_1_1_platform_renderer_1af416fa4b848de653515049e81d199b9e"/>    <section>
+    <title>__md_methods</title>
+<indexterm><primary>__md_methods</primary><secondary>crc643f46942d9dd1fff9.PlatformRenderer</secondary></indexterm>
+<indexterm><primary>crc643f46942d9dd1fff9.PlatformRenderer</primary><secondary>__md_methods</secondary></indexterm>
+<para><computeroutput>static final String crc643f46942d9dd1fff9.PlatformRenderer.__md_methods<computeroutput>[static]</computeroutput></computeroutput></para>
+<para>@hide </para>
+<para>
+Definition at line 10 of file PlatformRenderer.java.</para>
+</section>
+<para>
+The documentation for this class was generated from the following file:</para>
+Application Green Quake.Android/obj/Debug/100/android/src/crc643f46942d9dd1fff9/<link linkend="__debug_2100_2android_2src_2crc643f46942d9dd1fff9_2_platform_renderer_8java">PlatformRenderer.java</link></section>
+</section>

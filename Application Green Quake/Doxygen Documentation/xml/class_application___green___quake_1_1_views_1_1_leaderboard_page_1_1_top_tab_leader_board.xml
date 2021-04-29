@@ -1,0 +1,319 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.9.1" xml:lang="en-US">
+  <compounddef id="class_application___green___quake_1_1_views_1_1_leaderboard_page_1_1_top_tab_leader_board" kind="class" language="C#" prot="public">
+    <compoundname>Application_Green_Quake::Views::LeaderboardPage::TopTabLeaderBoard</compoundname>
+    <basecompoundref prot="public" virt="non-virtual">global.XamarinForms.ContentPage</basecompoundref>
+    <basecompoundref prot="public" virt="non-virtual">global.XamarinForms.ContentPage</basecompoundref>
+    <basecompoundref prot="public" virt="non-virtual">ContentPage</basecompoundref>
+      <sectiondef kind="private-attrib">
+      <memberdef kind="variable" id="class_application___green___quake_1_1_views_1_1_leaderboard_page_1_1_top_tab_leader_board_1a31be9ebbbf56ddb0c670e93abcc70373" prot="private" static="no" mutable="no">
+        <type>global::Syncfusion.SfPicker.XForms.SfPicker</type>
+        <definition>global::Syncfusion.SfPicker.XForms.SfPicker Application_Green_Quake.Views.LeaderboardPage.TopTabLeaderBoard.picker</definition>
+        <argsstring></argsstring>
+        <name>picker</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake/obj/Debug/netstandard2.0/Views/LeaderboardPage/TopTabLeaderBoard.xaml.g.cs" line="20" column="58" bodyfile="Application Green Quake/obj/Debug/netstandard2.0/Views/LeaderboardPage/TopTabLeaderBoard.xaml.g.cs" bodystart="20" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_application___green___quake_1_1_views_1_1_leaderboard_page_1_1_top_tab_leader_board_1a4634e5e6b78b14afa92d0b1e88ef9458" prot="private" static="no" mutable="no">
+        <type>global::Xamarin.Forms.ListView</type>
+        <definition>Xamarin Forms global::ListView Application_Green_Quake.Views.LeaderboardPage.TopTabLeaderBoard::LeaderBoard</definition>
+        <argsstring></argsstring>
+        <name>LeaderBoard</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake/obj/Debug/netstandard2.0/Views/LeaderboardPage/TopTabLeaderBoard.xaml.g.cs" line="23" column="46" bodyfile="Application Green Quake/obj/Debug/netstandard2.0/Views/LeaderboardPage/TopTabLeaderBoard.xaml.g.cs" bodystart="23" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_application___green___quake_1_1_views_1_1_leaderboard_page_1_1_top_tab_leader_board_1ae0cff2ab974a3814b94438e7adc8f5b7" prot="private" static="no" mutable="no">
+        <type>string</type>
+        <definition>string Application_Green_Quake.Views.LeaderboardPage.TopTabLeaderBoard.selectedNation</definition>
+        <argsstring></argsstring>
+        <name>selectedNation</name>
+        <initializer>= &quot;All&quot;</initializer>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake/Views/LeaderboardPage/TopTabLeaderBoard.xaml.cs" line="28" column="24" bodyfile="Application Green Quake/Views/LeaderboardPage/TopTabLeaderBoard.xaml.cs" bodystart="28" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_application___green___quake_1_1_views_1_1_leaderboard_page_1_1_top_tab_leader_board_1a99ed139c87b054b3b47b265d97da7f56" prot="private" static="no" mutable="no">
+        <type>int</type>
+        <definition>int Application_Green_Quake.Views.LeaderboardPage.TopTabLeaderBoard.min</definition>
+        <argsstring></argsstring>
+        <name>min</name>
+        <initializer>= 0</initializer>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake/Views/LeaderboardPage/TopTabLeaderBoard.xaml.cs" line="29" column="21" bodyfile="Application Green Quake/Views/LeaderboardPage/TopTabLeaderBoard.xaml.cs" bodystart="29" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_application___green___quake_1_1_views_1_1_leaderboard_page_1_1_top_tab_leader_board_1af6409ffb882d6efb19a514bd8344aba4" prot="private" static="no" mutable="no">
+        <type>int</type>
+        <definition>int Application_Green_Quake.Views.LeaderboardPage.TopTabLeaderBoard.count</definition>
+        <argsstring></argsstring>
+        <name>count</name>
+        <initializer>= 10</initializer>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake/Views/LeaderboardPage/TopTabLeaderBoard.xaml.cs" line="30" column="21" bodyfile="Application Green Quake/Views/LeaderboardPage/TopTabLeaderBoard.xaml.cs" bodystart="30" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_application___green___quake_1_1_views_1_1_leaderboard_page_1_1_top_tab_leader_board_1a3b3b3e6c77a6bb6015b91c35f81f8b25" prot="private" static="no" mutable="no">
+        <type><ref refid="interface_application___green___quake_1_1_i_auth" kindref="compound">IAuth</ref></type>
+        <definition>IAuth Application_Green_Quake.Views.LeaderboardPage.TopTabLeaderBoard.auth</definition>
+        <argsstring></argsstring>
+        <name>auth</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake/Views/LeaderboardPage/TopTabLeaderBoard.xaml.cs" line="31" column="15" bodyfile="Application Green Quake/Views/LeaderboardPage/TopTabLeaderBoard.xaml.cs" bodystart="31" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="private-func">
+      <memberdef kind="function" id="class_application___green___quake_1_1_views_1_1_leaderboard_page_1_1_top_tab_leader_board_1adb80e8c4f791951155c285aa43cf0da7" prot="private" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void Application_Green_Quake.Views.LeaderboardPage.TopTabLeaderBoard.InitializeComponent</definition>
+        <argsstring>()</argsstring>
+        <name>InitializeComponent</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake/obj/Debug/netstandard2.0/Views/LeaderboardPage/TopTabLeaderBoard.xaml.g.cs" line="26" column="22" bodyfile="Application Green Quake/obj/Debug/netstandard2.0/Views/LeaderboardPage/TopTabLeaderBoard.xaml.g.cs" bodystart="26" bodyend="30"/>
+      </memberdef>
+      <memberdef kind="function" id="class_application___green___quake_1_1_views_1_1_leaderboard_page_1_1_top_tab_leader_board_1adb80e8c4f791951155c285aa43cf0da7" prot="private" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void Application_Green_Quake.Views.LeaderboardPage.TopTabLeaderBoard.InitializeComponent</definition>
+        <argsstring>()</argsstring>
+        <name>InitializeComponent</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake/obj/Release/netstandard2.0/Views/LeaderboardPage/TopTabLeaderBoard.xaml.g.cs" line="23" column="22" bodyfile="Application Green Quake/obj/Release/netstandard2.0/Views/LeaderboardPage/TopTabLeaderBoard.xaml.g.cs" bodystart="23" bodyend="26"/>
+      </memberdef>
+      <memberdef kind="function" id="class_application___green___quake_1_1_views_1_1_leaderboard_page_1_1_top_tab_leader_board_1a83c4a4ef753d6cc8092c8bf78b012615" prot="private" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void Application_Green_Quake.Views.LeaderboardPage.TopTabLeaderBoard.OnItemTapped</definition>
+        <argsstring>(Object sender, ItemTappedEventArgs e)</argsstring>
+        <name>OnItemTapped</name>
+        <param>
+          <type>Object</type>
+          <declname>sender</declname>
+        </param>
+        <param>
+          <type>ItemTappedEventArgs</type>
+          <declname>e</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+<para>This function displays the correct popup when a profile on the leader board is tapped. </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake/Views/LeaderboardPage/TopTabLeaderBoard.xaml.cs" line="389" column="22" bodyfile="Application Green Quake/Views/LeaderboardPage/TopTabLeaderBoard.xaml.cs" bodystart="389" bodyend="394"/>
+      </memberdef>
+      <memberdef kind="function" id="class_application___green___quake_1_1_views_1_1_leaderboard_page_1_1_top_tab_leader_board_1a570b50b9ce256a2112f13c12a0f114c7" prot="private" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>async void</type>
+        <definition>async void Application_Green_Quake.Views.LeaderboardPage.TopTabLeaderBoard.ImageClicked</definition>
+        <argsstring>(object sender, EventArgs e)</argsstring>
+        <name>ImageClicked</name>
+        <param>
+          <type>object</type>
+          <declname>sender</declname>
+        </param>
+        <param>
+          <type>EventArgs</type>
+          <declname>e</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+<para>This function displays the picker when the icon is pressed. </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake/Views/LeaderboardPage/TopTabLeaderBoard.xaml.cs" line="397" column="28" bodyfile="Application Green Quake/Views/LeaderboardPage/TopTabLeaderBoard.xaml.cs" bodystart="397" bodyend="400"/>
+      </memberdef>
+      <memberdef kind="function" id="class_application___green___quake_1_1_views_1_1_leaderboard_page_1_1_top_tab_leader_board_1a136d121fb2ba5781c688ad78f6c181dd" prot="private" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>async void</type>
+        <definition>async void Application_Green_Quake.Views.LeaderboardPage.TopTabLeaderBoard.PickerOnOkButtonClicked</definition>
+        <argsstring>(object sender, SelectionChangedEventArgs e)</argsstring>
+        <name>PickerOnOkButtonClicked</name>
+        <param>
+          <type>object</type>
+          <declname>sender</declname>
+        </param>
+        <param>
+          <type><ref refid="_top_tab_leader_board_8xaml_8cs_1a1c6d6ea16ab853cc24a0b7c5af67bf5c" kindref="member">SelectionChangedEventArgs</ref></type>
+          <declname>e</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+<para>This function sets the selectedNation variable when a value is selected on the picker and ok is pressed.. </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake/Views/LeaderboardPage/TopTabLeaderBoard.xaml.cs" line="404" column="28" bodyfile="Application Green Quake/Views/LeaderboardPage/TopTabLeaderBoard.xaml.cs" bodystart="404" bodyend="616"/>
+      </memberdef>
+      <memberdef kind="function" id="class_application___green___quake_1_1_views_1_1_leaderboard_page_1_1_top_tab_leader_board_1a11d0f468f4776434e16c1028e87c822b" prot="private" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void Application_Green_Quake.Views.LeaderboardPage.TopTabLeaderBoard.NextPageClicked</definition>
+        <argsstring>(object sender, EventArgs e)</argsstring>
+        <name>NextPageClicked</name>
+        <param>
+          <type>object</type>
+          <declname>sender</declname>
+        </param>
+        <param>
+          <type>EventArgs</type>
+          <declname>e</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+<para>This function displays the next ten items on the leader board. </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake/Views/LeaderboardPage/TopTabLeaderBoard.xaml.cs" line="620" column="22" bodyfile="Application Green Quake/Views/LeaderboardPage/TopTabLeaderBoard.xaml.cs" bodystart="620" bodyend="624"/>
+      </memberdef>
+      <memberdef kind="function" id="class_application___green___quake_1_1_views_1_1_leaderboard_page_1_1_top_tab_leader_board_1a0fd6fb836057ee04948dfe42da49712b" prot="private" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void Application_Green_Quake.Views.LeaderboardPage.TopTabLeaderBoard.FirstPageClicked</definition>
+        <argsstring>(object sender, EventArgs e)</argsstring>
+        <name>FirstPageClicked</name>
+        <param>
+          <type>object</type>
+          <declname>sender</declname>
+        </param>
+        <param>
+          <type>EventArgs</type>
+          <declname>e</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+<para>This function displays the first page of the leader board again. </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake/Views/LeaderboardPage/TopTabLeaderBoard.xaml.cs" line="628" column="22" bodyfile="Application Green Quake/Views/LeaderboardPage/TopTabLeaderBoard.xaml.cs" bodystart="628" bodyend="632"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="public-func">
+      <memberdef kind="function" id="class_application___green___quake_1_1_views_1_1_leaderboard_page_1_1_top_tab_leader_board_1a1f5837b26e1fcb853b425804c31b5937" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>Application_Green_Quake.Views.LeaderboardPage.TopTabLeaderBoard.TopTabLeaderBoard</definition>
+        <argsstring>()</argsstring>
+        <name>TopTabLeaderBoard</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake/Views/LeaderboardPage/TopTabLeaderBoard.xaml.cs" line="32" column="16" bodyfile="Application Green Quake/Views/LeaderboardPage/TopTabLeaderBoard.xaml.cs" bodystart="32" bodyend="95"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="protected-func">
+      <memberdef kind="function" id="class_application___green___quake_1_1_views_1_1_leaderboard_page_1_1_top_tab_leader_board_1a2b6f2c2430bf77042a560f2dd6efc044" prot="protected" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>override async void</type>
+        <definition>override async void Application_Green_Quake.Views.LeaderboardPage.TopTabLeaderBoard.OnAppearing</definition>
+        <argsstring>()</argsstring>
+        <name>OnAppearing</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+<para>This function is called before the page is displayed. </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake/Views/LeaderboardPage/TopTabLeaderBoard.xaml.cs" line="98" column="39" bodyfile="Application Green Quake/Views/LeaderboardPage/TopTabLeaderBoard.xaml.cs" bodystart="98" bodyend="385"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <inheritancegraph>
+      <node id="1">
+        <label>Application_Green_Quake.Views.LeaderboardPage.TopTabLeaderBoard</label>
+        <link refid="class_application___green___quake_1_1_views_1_1_leaderboard_page_1_1_top_tab_leader_board"/>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+        <childnode refid="3" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="3">
+        <label>ContentPage</label>
+      </node>
+      <node id="2">
+        <label>global::XamarinForms::ContentPage</label>
+      </node>
+    </inheritancegraph>
+    <collaborationgraph>
+      <node id="1">
+        <label>Application_Green_Quake.Views.LeaderboardPage.TopTabLeaderBoard</label>
+        <link refid="class_application___green___quake_1_1_views_1_1_leaderboard_page_1_1_top_tab_leader_board"/>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+        <childnode refid="3" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="3">
+        <label>ContentPage</label>
+      </node>
+      <node id="2">
+        <label>global::XamarinForms::ContentPage</label>
+      </node>
+    </collaborationgraph>
+    <location file="Application Green Quake/obj/Debug/netstandard2.0/Views/LeaderboardPage/TopTabLeaderBoard.xaml.g.cs" line="17" column="19" bodyfile="Application Green Quake/obj/Debug/netstandard2.0/Views/LeaderboardPage/TopTabLeaderBoard.xaml.g.cs" bodystart="17" bodyend="31"/>
+    <listofallmembers>
+      <member refid="class_application___green___quake_1_1_views_1_1_leaderboard_page_1_1_top_tab_leader_board_1a3b3b3e6c77a6bb6015b91c35f81f8b25" prot="private" virt="non-virtual"><scope>Application_Green_Quake::Views::LeaderboardPage::TopTabLeaderBoard</scope><name>auth</name></member>
+      <member refid="class_application___green___quake_1_1_views_1_1_leaderboard_page_1_1_top_tab_leader_board_1af6409ffb882d6efb19a514bd8344aba4" prot="private" virt="non-virtual"><scope>Application_Green_Quake::Views::LeaderboardPage::TopTabLeaderBoard</scope><name>count</name></member>
+      <member refid="class_application___green___quake_1_1_views_1_1_leaderboard_page_1_1_top_tab_leader_board_1a0fd6fb836057ee04948dfe42da49712b" prot="private" virt="non-virtual"><scope>Application_Green_Quake::Views::LeaderboardPage::TopTabLeaderBoard</scope><name>FirstPageClicked</name></member>
+      <member refid="class_application___green___quake_1_1_views_1_1_leaderboard_page_1_1_top_tab_leader_board_1a570b50b9ce256a2112f13c12a0f114c7" prot="private" virt="non-virtual"><scope>Application_Green_Quake::Views::LeaderboardPage::TopTabLeaderBoard</scope><name>ImageClicked</name></member>
+      <member refid="class_application___green___quake_1_1_views_1_1_leaderboard_page_1_1_top_tab_leader_board_1adb80e8c4f791951155c285aa43cf0da7" prot="private" virt="non-virtual"><scope>Application_Green_Quake::Views::LeaderboardPage::TopTabLeaderBoard</scope><name>InitializeComponent</name></member>
+      <member refid="class_application___green___quake_1_1_views_1_1_leaderboard_page_1_1_top_tab_leader_board_1adb80e8c4f791951155c285aa43cf0da7" prot="private" virt="non-virtual"><scope>Application_Green_Quake::Views::LeaderboardPage::TopTabLeaderBoard</scope><name>InitializeComponent</name></member>
+      <member refid="class_application___green___quake_1_1_views_1_1_leaderboard_page_1_1_top_tab_leader_board_1a4634e5e6b78b14afa92d0b1e88ef9458" prot="private" virt="non-virtual"><scope>Application_Green_Quake::Views::LeaderboardPage::TopTabLeaderBoard</scope><name>LeaderBoard</name></member>
+      <member refid="class_application___green___quake_1_1_views_1_1_leaderboard_page_1_1_top_tab_leader_board_1a99ed139c87b054b3b47b265d97da7f56" prot="private" virt="non-virtual"><scope>Application_Green_Quake::Views::LeaderboardPage::TopTabLeaderBoard</scope><name>min</name></member>
+      <member refid="class_application___green___quake_1_1_views_1_1_leaderboard_page_1_1_top_tab_leader_board_1a11d0f468f4776434e16c1028e87c822b" prot="private" virt="non-virtual"><scope>Application_Green_Quake::Views::LeaderboardPage::TopTabLeaderBoard</scope><name>NextPageClicked</name></member>
+      <member refid="class_application___green___quake_1_1_views_1_1_leaderboard_page_1_1_top_tab_leader_board_1a2b6f2c2430bf77042a560f2dd6efc044" prot="protected" virt="non-virtual"><scope>Application_Green_Quake::Views::LeaderboardPage::TopTabLeaderBoard</scope><name>OnAppearing</name></member>
+      <member refid="class_application___green___quake_1_1_views_1_1_leaderboard_page_1_1_top_tab_leader_board_1a83c4a4ef753d6cc8092c8bf78b012615" prot="private" virt="non-virtual"><scope>Application_Green_Quake::Views::LeaderboardPage::TopTabLeaderBoard</scope><name>OnItemTapped</name></member>
+      <member refid="class_application___green___quake_1_1_views_1_1_leaderboard_page_1_1_top_tab_leader_board_1a31be9ebbbf56ddb0c670e93abcc70373" prot="private" virt="non-virtual"><scope>Application_Green_Quake::Views::LeaderboardPage::TopTabLeaderBoard</scope><name>picker</name></member>
+      <member refid="class_application___green___quake_1_1_views_1_1_leaderboard_page_1_1_top_tab_leader_board_1a136d121fb2ba5781c688ad78f6c181dd" prot="private" virt="non-virtual"><scope>Application_Green_Quake::Views::LeaderboardPage::TopTabLeaderBoard</scope><name>PickerOnOkButtonClicked</name></member>
+      <member refid="class_application___green___quake_1_1_views_1_1_leaderboard_page_1_1_top_tab_leader_board_1ae0cff2ab974a3814b94438e7adc8f5b7" prot="private" virt="non-virtual"><scope>Application_Green_Quake::Views::LeaderboardPage::TopTabLeaderBoard</scope><name>selectedNation</name></member>
+      <member refid="class_application___green___quake_1_1_views_1_1_leaderboard_page_1_1_top_tab_leader_board_1a1f5837b26e1fcb853b425804c31b5937" prot="public" virt="non-virtual"><scope>Application_Green_Quake::Views::LeaderboardPage::TopTabLeaderBoard</scope><name>TopTabLeaderBoard</name></member>
+    </listofallmembers>
+  </compounddef>
+</doxygen>

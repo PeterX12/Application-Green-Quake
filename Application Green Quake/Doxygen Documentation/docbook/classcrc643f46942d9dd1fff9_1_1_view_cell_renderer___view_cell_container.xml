@@ -1,0 +1,382 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<section xmlns="http://docbook.org/ns/docbook" version="5.0" xmlns:xlink="http://www.w3.org/1999/xlink" xml:id="_classcrc643f46942d9dd1fff9_1_1_view_cell_renderer___view_cell_container" xml:lang="en-US">
+<title>crc643f46942d9dd1fff9.ViewCellRenderer_ViewCellContainer Class Reference</title>
+<indexterm><primary>crc643f46942d9dd1fff9.ViewCellRenderer_ViewCellContainer</primary></indexterm>
+Inheritance diagram for crc643f46942d9dd1fff9.ViewCellRenderer_ViewCellContainer:<para>
+    <informalfigure>
+        <mediaobject>
+            <imageobject>
+                <imagedata width="50%" align="center" valign="middle" scalefit="0" fileref="classcrc643f46942d9dd1fff9_1_1_view_cell_renderer___view_cell_container__inherit__graph.png"></imagedata>
+            </imageobject>
+        </mediaobject>
+    </informalfigure>
+</para>
+Collaboration diagram for crc643f46942d9dd1fff9.ViewCellRenderer_ViewCellContainer:<para>
+    <informalfigure>
+        <mediaobject>
+            <imageobject>
+                <imagedata width="50%" align="center" valign="middle" scalefit="0" fileref="classcrc643f46942d9dd1fff9_1_1_view_cell_renderer___view_cell_container__coll__graph.png"></imagedata>
+            </imageobject>
+        </mediaobject>
+    </informalfigure>
+</para>
+<simplesect>
+    <title>Public Member Functions    </title>
+        <itemizedlist>
+            <listitem><para><link linkend="_classcrc643f46942d9dd1fff9_1_1_view_cell_renderer___view_cell_container_1aca451a6f0cfab80f4ada6287b427f545">ViewCellRenderer_ViewCellContainer</link> (android.content.Context p0)</para>
+</listitem>
+            <listitem><para><link linkend="_classcrc643f46942d9dd1fff9_1_1_view_cell_renderer___view_cell_container_1a0767b5d76f7a707d570b255437ce3211">ViewCellRenderer_ViewCellContainer</link> (android.content.Context p0, android.util.AttributeSet p1)</para>
+</listitem>
+            <listitem><para><link linkend="_classcrc643f46942d9dd1fff9_1_1_view_cell_renderer___view_cell_container_1a11bb3d5f259e9e6f14e503c936993f61">ViewCellRenderer_ViewCellContainer</link> (android.content.Context p0, android.util.AttributeSet p1, int p2)</para>
+</listitem>
+            <listitem><para><link linkend="_classcrc643f46942d9dd1fff9_1_1_view_cell_renderer___view_cell_container_1a710f8299113f7e4fabeadc7364e1c217">ViewCellRenderer_ViewCellContainer</link> (android.content.Context p0, android.util.AttributeSet p1, int p2, int p3)</para>
+</listitem>
+            <listitem><para>boolean <link linkend="_classcrc643f46942d9dd1fff9_1_1_view_cell_renderer___view_cell_container_1ab0bf99b7aec9035b644db708ed2f2b06">onInterceptTouchEvent</link> (android.view.MotionEvent p0)</para>
+</listitem>
+            <listitem><para>boolean <link linkend="_classcrc643f46942d9dd1fff9_1_1_view_cell_renderer___view_cell_container_1a7cdef42ba64d5a94139f092210002bff">dispatchTouchEvent</link> (android.view.MotionEvent p0)</para>
+</listitem>
+            <listitem><para>void <link linkend="_classcrc643f46942d9dd1fff9_1_1_view_cell_renderer___view_cell_container_1a065e8d5cd817fe1a5799220bd82f5b72">onLayout</link> (boolean p0, int p1, int p2, int p3, int p4)</para>
+</listitem>
+            <listitem><para>void <link linkend="_classcrc643f46942d9dd1fff9_1_1_view_cell_renderer___view_cell_container_1a6ac10928a078776b68515e862165d37c">onMeasure</link> (int p0, int p1)</para>
+</listitem>
+            <listitem><para>void <link linkend="_classcrc643f46942d9dd1fff9_1_1_view_cell_renderer___view_cell_container_1a0eadd85f105838579545406cacc46eaf">monodroidAddReference</link> (java.lang.Object obj)</para>
+</listitem>
+            <listitem><para>void <link linkend="_classcrc643f46942d9dd1fff9_1_1_view_cell_renderer___view_cell_container_1a0a2edab91bcde0447b3bf8ccedce1c07">monodroidClearReferences</link> ()</para>
+</listitem>
+            <listitem><para><link linkend="_classcrc643f46942d9dd1fff9_1_1_view_cell_renderer___view_cell_container_1aca451a6f0cfab80f4ada6287b427f545">ViewCellRenderer_ViewCellContainer</link> (android.content.Context p0)</para>
+</listitem>
+            <listitem><para><link linkend="_classcrc643f46942d9dd1fff9_1_1_view_cell_renderer___view_cell_container_1a0767b5d76f7a707d570b255437ce3211">ViewCellRenderer_ViewCellContainer</link> (android.content.Context p0, android.util.AttributeSet p1)</para>
+</listitem>
+            <listitem><para><link linkend="_classcrc643f46942d9dd1fff9_1_1_view_cell_renderer___view_cell_container_1a11bb3d5f259e9e6f14e503c936993f61">ViewCellRenderer_ViewCellContainer</link> (android.content.Context p0, android.util.AttributeSet p1, int p2)</para>
+</listitem>
+            <listitem><para><link linkend="_classcrc643f46942d9dd1fff9_1_1_view_cell_renderer___view_cell_container_1a710f8299113f7e4fabeadc7364e1c217">ViewCellRenderer_ViewCellContainer</link> (android.content.Context p0, android.util.AttributeSet p1, int p2, int p3)</para>
+</listitem>
+            <listitem><para>boolean <link linkend="_classcrc643f46942d9dd1fff9_1_1_view_cell_renderer___view_cell_container_1ab0bf99b7aec9035b644db708ed2f2b06">onInterceptTouchEvent</link> (android.view.MotionEvent p0)</para>
+</listitem>
+            <listitem><para>boolean <link linkend="_classcrc643f46942d9dd1fff9_1_1_view_cell_renderer___view_cell_container_1a7cdef42ba64d5a94139f092210002bff">dispatchTouchEvent</link> (android.view.MotionEvent p0)</para>
+</listitem>
+            <listitem><para>void <link linkend="_classcrc643f46942d9dd1fff9_1_1_view_cell_renderer___view_cell_container_1a065e8d5cd817fe1a5799220bd82f5b72">onLayout</link> (boolean p0, int p1, int p2, int p3, int p4)</para>
+</listitem>
+            <listitem><para>void <link linkend="_classcrc643f46942d9dd1fff9_1_1_view_cell_renderer___view_cell_container_1a6ac10928a078776b68515e862165d37c">onMeasure</link> (int p0, int p1)</para>
+</listitem>
+            <listitem><para>void <link linkend="_classcrc643f46942d9dd1fff9_1_1_view_cell_renderer___view_cell_container_1a0eadd85f105838579545406cacc46eaf">monodroidAddReference</link> (java.lang.Object obj)</para>
+</listitem>
+            <listitem><para>void <link linkend="_classcrc643f46942d9dd1fff9_1_1_view_cell_renderer___view_cell_container_1a0a2edab91bcde0447b3bf8ccedce1c07">monodroidClearReferences</link> ()</para>
+</listitem>
+            <listitem><para><link linkend="_classcrc643f46942d9dd1fff9_1_1_view_cell_renderer___view_cell_container_1aca451a6f0cfab80f4ada6287b427f545">ViewCellRenderer_ViewCellContainer</link> (android.content.Context p0)</para>
+</listitem>
+            <listitem><para><link linkend="_classcrc643f46942d9dd1fff9_1_1_view_cell_renderer___view_cell_container_1a0767b5d76f7a707d570b255437ce3211">ViewCellRenderer_ViewCellContainer</link> (android.content.Context p0, android.util.AttributeSet p1)</para>
+</listitem>
+            <listitem><para><link linkend="_classcrc643f46942d9dd1fff9_1_1_view_cell_renderer___view_cell_container_1a11bb3d5f259e9e6f14e503c936993f61">ViewCellRenderer_ViewCellContainer</link> (android.content.Context p0, android.util.AttributeSet p1, int p2)</para>
+</listitem>
+            <listitem><para><link linkend="_classcrc643f46942d9dd1fff9_1_1_view_cell_renderer___view_cell_container_1a710f8299113f7e4fabeadc7364e1c217">ViewCellRenderer_ViewCellContainer</link> (android.content.Context p0, android.util.AttributeSet p1, int p2, int p3)</para>
+</listitem>
+            <listitem><para>boolean <link linkend="_classcrc643f46942d9dd1fff9_1_1_view_cell_renderer___view_cell_container_1ab0bf99b7aec9035b644db708ed2f2b06">onInterceptTouchEvent</link> (android.view.MotionEvent p0)</para>
+</listitem>
+            <listitem><para>boolean <link linkend="_classcrc643f46942d9dd1fff9_1_1_view_cell_renderer___view_cell_container_1a7cdef42ba64d5a94139f092210002bff">dispatchTouchEvent</link> (android.view.MotionEvent p0)</para>
+</listitem>
+            <listitem><para>void <link linkend="_classcrc643f46942d9dd1fff9_1_1_view_cell_renderer___view_cell_container_1a065e8d5cd817fe1a5799220bd82f5b72">onLayout</link> (boolean p0, int p1, int p2, int p3, int p4)</para>
+</listitem>
+            <listitem><para>void <link linkend="_classcrc643f46942d9dd1fff9_1_1_view_cell_renderer___view_cell_container_1a6ac10928a078776b68515e862165d37c">onMeasure</link> (int p0, int p1)</para>
+</listitem>
+            <listitem><para>void <link linkend="_classcrc643f46942d9dd1fff9_1_1_view_cell_renderer___view_cell_container_1a0eadd85f105838579545406cacc46eaf">monodroidAddReference</link> (java.lang.Object obj)</para>
+</listitem>
+            <listitem><para>void <link linkend="_classcrc643f46942d9dd1fff9_1_1_view_cell_renderer___view_cell_container_1a0a2edab91bcde0447b3bf8ccedce1c07">monodroidClearReferences</link> ()</para>
+</listitem>
+            <listitem><para><link linkend="_classcrc643f46942d9dd1fff9_1_1_view_cell_renderer___view_cell_container_1aca451a6f0cfab80f4ada6287b427f545">ViewCellRenderer_ViewCellContainer</link> (android.content.Context p0)</para>
+</listitem>
+            <listitem><para><link linkend="_classcrc643f46942d9dd1fff9_1_1_view_cell_renderer___view_cell_container_1a0767b5d76f7a707d570b255437ce3211">ViewCellRenderer_ViewCellContainer</link> (android.content.Context p0, android.util.AttributeSet p1)</para>
+</listitem>
+            <listitem><para><link linkend="_classcrc643f46942d9dd1fff9_1_1_view_cell_renderer___view_cell_container_1a11bb3d5f259e9e6f14e503c936993f61">ViewCellRenderer_ViewCellContainer</link> (android.content.Context p0, android.util.AttributeSet p1, int p2)</para>
+</listitem>
+            <listitem><para><link linkend="_classcrc643f46942d9dd1fff9_1_1_view_cell_renderer___view_cell_container_1a710f8299113f7e4fabeadc7364e1c217">ViewCellRenderer_ViewCellContainer</link> (android.content.Context p0, android.util.AttributeSet p1, int p2, int p3)</para>
+</listitem>
+            <listitem><para>boolean <link linkend="_classcrc643f46942d9dd1fff9_1_1_view_cell_renderer___view_cell_container_1ab0bf99b7aec9035b644db708ed2f2b06">onInterceptTouchEvent</link> (android.view.MotionEvent p0)</para>
+</listitem>
+            <listitem><para>boolean <link linkend="_classcrc643f46942d9dd1fff9_1_1_view_cell_renderer___view_cell_container_1a7cdef42ba64d5a94139f092210002bff">dispatchTouchEvent</link> (android.view.MotionEvent p0)</para>
+</listitem>
+            <listitem><para>void <link linkend="_classcrc643f46942d9dd1fff9_1_1_view_cell_renderer___view_cell_container_1a065e8d5cd817fe1a5799220bd82f5b72">onLayout</link> (boolean p0, int p1, int p2, int p3, int p4)</para>
+</listitem>
+            <listitem><para>void <link linkend="_classcrc643f46942d9dd1fff9_1_1_view_cell_renderer___view_cell_container_1a6ac10928a078776b68515e862165d37c">onMeasure</link> (int p0, int p1)</para>
+</listitem>
+            <listitem><para>void <link linkend="_classcrc643f46942d9dd1fff9_1_1_view_cell_renderer___view_cell_container_1a0eadd85f105838579545406cacc46eaf">monodroidAddReference</link> (java.lang.Object obj)</para>
+</listitem>
+            <listitem><para>void <link linkend="_classcrc643f46942d9dd1fff9_1_1_view_cell_renderer___view_cell_container_1a0a2edab91bcde0447b3bf8ccedce1c07">monodroidClearReferences</link> ()</para>
+</listitem>
+        </itemizedlist>
+</simplesect>
+<simplesect>
+    <title>Static Public Attributes    </title>
+        <itemizedlist>
+            <listitem><para>static final String <link linkend="_classcrc643f46942d9dd1fff9_1_1_view_cell_renderer___view_cell_container_1aed727c4c33b1a85273228d5dd80d4f31">__md_methods</link></para>
+</listitem>
+        </itemizedlist>
+</simplesect>
+<section>
+<title>Detailed Description</title>
+<para>
+Definition at line 4 of file ViewCellRenderer_ViewCellContainer.java.</para>
+</section>
+<section>
+<title>Constructor &amp; Destructor Documentation</title>
+<anchor xml:id="_classcrc643f46942d9dd1fff9_1_1_view_cell_renderer___view_cell_container_1aca451a6f0cfab80f4ada6287b427f545"/>    <section>
+    <title>ViewCellRenderer_ViewCellContainer()<computeroutput>[1/16]</computeroutput></title>
+<indexterm><primary>ViewCellRenderer_ViewCellContainer</primary><secondary>crc643f46942d9dd1fff9.ViewCellRenderer_ViewCellContainer</secondary></indexterm>
+<indexterm><primary>crc643f46942d9dd1fff9.ViewCellRenderer_ViewCellContainer</primary><secondary>ViewCellRenderer_ViewCellContainer</secondary></indexterm>
+<para><computeroutput>crc643f46942d9dd1fff9.ViewCellRenderer_ViewCellContainer.ViewCellRenderer_ViewCellContainer (android.content.Context p0)</computeroutput></para><para>
+Definition at line 22 of file ViewCellRenderer_ViewCellContainer.java.</para>
+    </section><anchor xml:id="_classcrc643f46942d9dd1fff9_1_1_view_cell_renderer___view_cell_container_1a0767b5d76f7a707d570b255437ce3211"/>    <section>
+    <title>ViewCellRenderer_ViewCellContainer()<computeroutput>[2/16]</computeroutput></title>
+<indexterm><primary>ViewCellRenderer_ViewCellContainer</primary><secondary>crc643f46942d9dd1fff9.ViewCellRenderer_ViewCellContainer</secondary></indexterm>
+<indexterm><primary>crc643f46942d9dd1fff9.ViewCellRenderer_ViewCellContainer</primary><secondary>ViewCellRenderer_ViewCellContainer</secondary></indexterm>
+<para><computeroutput>crc643f46942d9dd1fff9.ViewCellRenderer_ViewCellContainer.ViewCellRenderer_ViewCellContainer (android.content.Context p0, android.util.AttributeSet p1)</computeroutput></para><para>
+Definition at line 30 of file ViewCellRenderer_ViewCellContainer.java.</para>
+    </section><anchor xml:id="_classcrc643f46942d9dd1fff9_1_1_view_cell_renderer___view_cell_container_1a11bb3d5f259e9e6f14e503c936993f61"/>    <section>
+    <title>ViewCellRenderer_ViewCellContainer()<computeroutput>[3/16]</computeroutput></title>
+<indexterm><primary>ViewCellRenderer_ViewCellContainer</primary><secondary>crc643f46942d9dd1fff9.ViewCellRenderer_ViewCellContainer</secondary></indexterm>
+<indexterm><primary>crc643f46942d9dd1fff9.ViewCellRenderer_ViewCellContainer</primary><secondary>ViewCellRenderer_ViewCellContainer</secondary></indexterm>
+<para><computeroutput>crc643f46942d9dd1fff9.ViewCellRenderer_ViewCellContainer.ViewCellRenderer_ViewCellContainer (android.content.Context p0, android.util.AttributeSet p1, int p2)</computeroutput></para><para>
+Definition at line 38 of file ViewCellRenderer_ViewCellContainer.java.</para>
+    </section><anchor xml:id="_classcrc643f46942d9dd1fff9_1_1_view_cell_renderer___view_cell_container_1a710f8299113f7e4fabeadc7364e1c217"/>    <section>
+    <title>ViewCellRenderer_ViewCellContainer()<computeroutput>[4/16]</computeroutput></title>
+<indexterm><primary>ViewCellRenderer_ViewCellContainer</primary><secondary>crc643f46942d9dd1fff9.ViewCellRenderer_ViewCellContainer</secondary></indexterm>
+<indexterm><primary>crc643f46942d9dd1fff9.ViewCellRenderer_ViewCellContainer</primary><secondary>ViewCellRenderer_ViewCellContainer</secondary></indexterm>
+<para><computeroutput>crc643f46942d9dd1fff9.ViewCellRenderer_ViewCellContainer.ViewCellRenderer_ViewCellContainer (android.content.Context p0, android.util.AttributeSet p1, int p2, int p3)</computeroutput></para><para>
+Definition at line 46 of file ViewCellRenderer_ViewCellContainer.java.</para>
+    </section><anchor xml:id="_classcrc643f46942d9dd1fff9_1_1_view_cell_renderer___view_cell_container_1aca451a6f0cfab80f4ada6287b427f545"/>    <section>
+    <title>ViewCellRenderer_ViewCellContainer()<computeroutput>[5/16]</computeroutput></title>
+<indexterm><primary>ViewCellRenderer_ViewCellContainer</primary><secondary>crc643f46942d9dd1fff9.ViewCellRenderer_ViewCellContainer</secondary></indexterm>
+<indexterm><primary>crc643f46942d9dd1fff9.ViewCellRenderer_ViewCellContainer</primary><secondary>ViewCellRenderer_ViewCellContainer</secondary></indexterm>
+<para><computeroutput>crc643f46942d9dd1fff9.ViewCellRenderer_ViewCellContainer.ViewCellRenderer_ViewCellContainer (android.content.Context p0)</computeroutput></para><para>
+Definition at line 22 of file ViewCellRenderer_ViewCellContainer.java.</para>
+    </section><anchor xml:id="_classcrc643f46942d9dd1fff9_1_1_view_cell_renderer___view_cell_container_1a0767b5d76f7a707d570b255437ce3211"/>    <section>
+    <title>ViewCellRenderer_ViewCellContainer()<computeroutput>[6/16]</computeroutput></title>
+<indexterm><primary>ViewCellRenderer_ViewCellContainer</primary><secondary>crc643f46942d9dd1fff9.ViewCellRenderer_ViewCellContainer</secondary></indexterm>
+<indexterm><primary>crc643f46942d9dd1fff9.ViewCellRenderer_ViewCellContainer</primary><secondary>ViewCellRenderer_ViewCellContainer</secondary></indexterm>
+<para><computeroutput>crc643f46942d9dd1fff9.ViewCellRenderer_ViewCellContainer.ViewCellRenderer_ViewCellContainer (android.content.Context p0, android.util.AttributeSet p1)</computeroutput></para><para>
+Definition at line 30 of file ViewCellRenderer_ViewCellContainer.java.</para>
+    </section><anchor xml:id="_classcrc643f46942d9dd1fff9_1_1_view_cell_renderer___view_cell_container_1a11bb3d5f259e9e6f14e503c936993f61"/>    <section>
+    <title>ViewCellRenderer_ViewCellContainer()<computeroutput>[7/16]</computeroutput></title>
+<indexterm><primary>ViewCellRenderer_ViewCellContainer</primary><secondary>crc643f46942d9dd1fff9.ViewCellRenderer_ViewCellContainer</secondary></indexterm>
+<indexterm><primary>crc643f46942d9dd1fff9.ViewCellRenderer_ViewCellContainer</primary><secondary>ViewCellRenderer_ViewCellContainer</secondary></indexterm>
+<para><computeroutput>crc643f46942d9dd1fff9.ViewCellRenderer_ViewCellContainer.ViewCellRenderer_ViewCellContainer (android.content.Context p0, android.util.AttributeSet p1, int p2)</computeroutput></para><para>
+Definition at line 38 of file ViewCellRenderer_ViewCellContainer.java.</para>
+    </section><anchor xml:id="_classcrc643f46942d9dd1fff9_1_1_view_cell_renderer___view_cell_container_1a710f8299113f7e4fabeadc7364e1c217"/>    <section>
+    <title>ViewCellRenderer_ViewCellContainer()<computeroutput>[8/16]</computeroutput></title>
+<indexterm><primary>ViewCellRenderer_ViewCellContainer</primary><secondary>crc643f46942d9dd1fff9.ViewCellRenderer_ViewCellContainer</secondary></indexterm>
+<indexterm><primary>crc643f46942d9dd1fff9.ViewCellRenderer_ViewCellContainer</primary><secondary>ViewCellRenderer_ViewCellContainer</secondary></indexterm>
+<para><computeroutput>crc643f46942d9dd1fff9.ViewCellRenderer_ViewCellContainer.ViewCellRenderer_ViewCellContainer (android.content.Context p0, android.util.AttributeSet p1, int p2, int p3)</computeroutput></para><para>
+Definition at line 46 of file ViewCellRenderer_ViewCellContainer.java.</para>
+    </section><anchor xml:id="_classcrc643f46942d9dd1fff9_1_1_view_cell_renderer___view_cell_container_1aca451a6f0cfab80f4ada6287b427f545"/>    <section>
+    <title>ViewCellRenderer_ViewCellContainer()<computeroutput>[9/16]</computeroutput></title>
+<indexterm><primary>ViewCellRenderer_ViewCellContainer</primary><secondary>crc643f46942d9dd1fff9.ViewCellRenderer_ViewCellContainer</secondary></indexterm>
+<indexterm><primary>crc643f46942d9dd1fff9.ViewCellRenderer_ViewCellContainer</primary><secondary>ViewCellRenderer_ViewCellContainer</secondary></indexterm>
+<para><computeroutput>crc643f46942d9dd1fff9.ViewCellRenderer_ViewCellContainer.ViewCellRenderer_ViewCellContainer (android.content.Context p0)</computeroutput></para><para>
+Definition at line 22 of file ViewCellRenderer_ViewCellContainer.java.</para>
+    </section><anchor xml:id="_classcrc643f46942d9dd1fff9_1_1_view_cell_renderer___view_cell_container_1a0767b5d76f7a707d570b255437ce3211"/>    <section>
+    <title>ViewCellRenderer_ViewCellContainer()<computeroutput>[10/16]</computeroutput></title>
+<indexterm><primary>ViewCellRenderer_ViewCellContainer</primary><secondary>crc643f46942d9dd1fff9.ViewCellRenderer_ViewCellContainer</secondary></indexterm>
+<indexterm><primary>crc643f46942d9dd1fff9.ViewCellRenderer_ViewCellContainer</primary><secondary>ViewCellRenderer_ViewCellContainer</secondary></indexterm>
+<para><computeroutput>crc643f46942d9dd1fff9.ViewCellRenderer_ViewCellContainer.ViewCellRenderer_ViewCellContainer (android.content.Context p0, android.util.AttributeSet p1)</computeroutput></para><para>
+Definition at line 30 of file ViewCellRenderer_ViewCellContainer.java.</para>
+    </section><anchor xml:id="_classcrc643f46942d9dd1fff9_1_1_view_cell_renderer___view_cell_container_1a11bb3d5f259e9e6f14e503c936993f61"/>    <section>
+    <title>ViewCellRenderer_ViewCellContainer()<computeroutput>[11/16]</computeroutput></title>
+<indexterm><primary>ViewCellRenderer_ViewCellContainer</primary><secondary>crc643f46942d9dd1fff9.ViewCellRenderer_ViewCellContainer</secondary></indexterm>
+<indexterm><primary>crc643f46942d9dd1fff9.ViewCellRenderer_ViewCellContainer</primary><secondary>ViewCellRenderer_ViewCellContainer</secondary></indexterm>
+<para><computeroutput>crc643f46942d9dd1fff9.ViewCellRenderer_ViewCellContainer.ViewCellRenderer_ViewCellContainer (android.content.Context p0, android.util.AttributeSet p1, int p2)</computeroutput></para><para>
+Definition at line 38 of file ViewCellRenderer_ViewCellContainer.java.</para>
+    </section><anchor xml:id="_classcrc643f46942d9dd1fff9_1_1_view_cell_renderer___view_cell_container_1a710f8299113f7e4fabeadc7364e1c217"/>    <section>
+    <title>ViewCellRenderer_ViewCellContainer()<computeroutput>[12/16]</computeroutput></title>
+<indexterm><primary>ViewCellRenderer_ViewCellContainer</primary><secondary>crc643f46942d9dd1fff9.ViewCellRenderer_ViewCellContainer</secondary></indexterm>
+<indexterm><primary>crc643f46942d9dd1fff9.ViewCellRenderer_ViewCellContainer</primary><secondary>ViewCellRenderer_ViewCellContainer</secondary></indexterm>
+<para><computeroutput>crc643f46942d9dd1fff9.ViewCellRenderer_ViewCellContainer.ViewCellRenderer_ViewCellContainer (android.content.Context p0, android.util.AttributeSet p1, int p2, int p3)</computeroutput></para><para>
+Definition at line 46 of file ViewCellRenderer_ViewCellContainer.java.</para>
+    </section><anchor xml:id="_classcrc643f46942d9dd1fff9_1_1_view_cell_renderer___view_cell_container_1aca451a6f0cfab80f4ada6287b427f545"/>    <section>
+    <title>ViewCellRenderer_ViewCellContainer()<computeroutput>[13/16]</computeroutput></title>
+<indexterm><primary>ViewCellRenderer_ViewCellContainer</primary><secondary>crc643f46942d9dd1fff9.ViewCellRenderer_ViewCellContainer</secondary></indexterm>
+<indexterm><primary>crc643f46942d9dd1fff9.ViewCellRenderer_ViewCellContainer</primary><secondary>ViewCellRenderer_ViewCellContainer</secondary></indexterm>
+<para><computeroutput>crc643f46942d9dd1fff9.ViewCellRenderer_ViewCellContainer.ViewCellRenderer_ViewCellContainer (android.content.Context p0)</computeroutput></para><para>
+Definition at line 22 of file ViewCellRenderer_ViewCellContainer.java.</para>
+    </section><anchor xml:id="_classcrc643f46942d9dd1fff9_1_1_view_cell_renderer___view_cell_container_1a0767b5d76f7a707d570b255437ce3211"/>    <section>
+    <title>ViewCellRenderer_ViewCellContainer()<computeroutput>[14/16]</computeroutput></title>
+<indexterm><primary>ViewCellRenderer_ViewCellContainer</primary><secondary>crc643f46942d9dd1fff9.ViewCellRenderer_ViewCellContainer</secondary></indexterm>
+<indexterm><primary>crc643f46942d9dd1fff9.ViewCellRenderer_ViewCellContainer</primary><secondary>ViewCellRenderer_ViewCellContainer</secondary></indexterm>
+<para><computeroutput>crc643f46942d9dd1fff9.ViewCellRenderer_ViewCellContainer.ViewCellRenderer_ViewCellContainer (android.content.Context p0, android.util.AttributeSet p1)</computeroutput></para><para>
+Definition at line 30 of file ViewCellRenderer_ViewCellContainer.java.</para>
+    </section><anchor xml:id="_classcrc643f46942d9dd1fff9_1_1_view_cell_renderer___view_cell_container_1a11bb3d5f259e9e6f14e503c936993f61"/>    <section>
+    <title>ViewCellRenderer_ViewCellContainer()<computeroutput>[15/16]</computeroutput></title>
+<indexterm><primary>ViewCellRenderer_ViewCellContainer</primary><secondary>crc643f46942d9dd1fff9.ViewCellRenderer_ViewCellContainer</secondary></indexterm>
+<indexterm><primary>crc643f46942d9dd1fff9.ViewCellRenderer_ViewCellContainer</primary><secondary>ViewCellRenderer_ViewCellContainer</secondary></indexterm>
+<para><computeroutput>crc643f46942d9dd1fff9.ViewCellRenderer_ViewCellContainer.ViewCellRenderer_ViewCellContainer (android.content.Context p0, android.util.AttributeSet p1, int p2)</computeroutput></para><para>
+Definition at line 38 of file ViewCellRenderer_ViewCellContainer.java.</para>
+    </section><anchor xml:id="_classcrc643f46942d9dd1fff9_1_1_view_cell_renderer___view_cell_container_1a710f8299113f7e4fabeadc7364e1c217"/>    <section>
+    <title>ViewCellRenderer_ViewCellContainer()<computeroutput>[16/16]</computeroutput></title>
+<indexterm><primary>ViewCellRenderer_ViewCellContainer</primary><secondary>crc643f46942d9dd1fff9.ViewCellRenderer_ViewCellContainer</secondary></indexterm>
+<indexterm><primary>crc643f46942d9dd1fff9.ViewCellRenderer_ViewCellContainer</primary><secondary>ViewCellRenderer_ViewCellContainer</secondary></indexterm>
+<para><computeroutput>crc643f46942d9dd1fff9.ViewCellRenderer_ViewCellContainer.ViewCellRenderer_ViewCellContainer (android.content.Context p0, android.util.AttributeSet p1, int p2, int p3)</computeroutput></para><para>
+Definition at line 46 of file ViewCellRenderer_ViewCellContainer.java.</para>
+</section>
+</section>
+<section>
+<title>Member Function Documentation</title>
+<anchor xml:id="_classcrc643f46942d9dd1fff9_1_1_view_cell_renderer___view_cell_container_1a7cdef42ba64d5a94139f092210002bff"/>    <section>
+    <title>dispatchTouchEvent()<computeroutput>[1/4]</computeroutput></title>
+<indexterm><primary>dispatchTouchEvent</primary><secondary>crc643f46942d9dd1fff9.ViewCellRenderer_ViewCellContainer</secondary></indexterm>
+<indexterm><primary>crc643f46942d9dd1fff9.ViewCellRenderer_ViewCellContainer</primary><secondary>dispatchTouchEvent</secondary></indexterm>
+<para><computeroutput>boolean crc643f46942d9dd1fff9.ViewCellRenderer_ViewCellContainer.dispatchTouchEvent (android.view.MotionEvent p0)</computeroutput></para><para>
+Definition at line 62 of file ViewCellRenderer_ViewCellContainer.java.</para>
+    </section><anchor xml:id="_classcrc643f46942d9dd1fff9_1_1_view_cell_renderer___view_cell_container_1a7cdef42ba64d5a94139f092210002bff"/>    <section>
+    <title>dispatchTouchEvent()<computeroutput>[2/4]</computeroutput></title>
+<indexterm><primary>dispatchTouchEvent</primary><secondary>crc643f46942d9dd1fff9.ViewCellRenderer_ViewCellContainer</secondary></indexterm>
+<indexterm><primary>crc643f46942d9dd1fff9.ViewCellRenderer_ViewCellContainer</primary><secondary>dispatchTouchEvent</secondary></indexterm>
+<para><computeroutput>boolean crc643f46942d9dd1fff9.ViewCellRenderer_ViewCellContainer.dispatchTouchEvent (android.view.MotionEvent p0)</computeroutput></para><para>
+Definition at line 62 of file ViewCellRenderer_ViewCellContainer.java.</para>
+    </section><anchor xml:id="_classcrc643f46942d9dd1fff9_1_1_view_cell_renderer___view_cell_container_1a7cdef42ba64d5a94139f092210002bff"/>    <section>
+    <title>dispatchTouchEvent()<computeroutput>[3/4]</computeroutput></title>
+<indexterm><primary>dispatchTouchEvent</primary><secondary>crc643f46942d9dd1fff9.ViewCellRenderer_ViewCellContainer</secondary></indexterm>
+<indexterm><primary>crc643f46942d9dd1fff9.ViewCellRenderer_ViewCellContainer</primary><secondary>dispatchTouchEvent</secondary></indexterm>
+<para><computeroutput>boolean crc643f46942d9dd1fff9.ViewCellRenderer_ViewCellContainer.dispatchTouchEvent (android.view.MotionEvent p0)</computeroutput></para><para>
+Definition at line 62 of file ViewCellRenderer_ViewCellContainer.java.</para>
+    </section><anchor xml:id="_classcrc643f46942d9dd1fff9_1_1_view_cell_renderer___view_cell_container_1a7cdef42ba64d5a94139f092210002bff"/>    <section>
+    <title>dispatchTouchEvent()<computeroutput>[4/4]</computeroutput></title>
+<indexterm><primary>dispatchTouchEvent</primary><secondary>crc643f46942d9dd1fff9.ViewCellRenderer_ViewCellContainer</secondary></indexterm>
+<indexterm><primary>crc643f46942d9dd1fff9.ViewCellRenderer_ViewCellContainer</primary><secondary>dispatchTouchEvent</secondary></indexterm>
+<para><computeroutput>boolean crc643f46942d9dd1fff9.ViewCellRenderer_ViewCellContainer.dispatchTouchEvent (android.view.MotionEvent p0)</computeroutput></para><para>
+Definition at line 62 of file ViewCellRenderer_ViewCellContainer.java.</para>
+    </section><anchor xml:id="_classcrc643f46942d9dd1fff9_1_1_view_cell_renderer___view_cell_container_1a0eadd85f105838579545406cacc46eaf"/>    <section>
+    <title>monodroidAddReference()<computeroutput>[1/4]</computeroutput></title>
+<indexterm><primary>monodroidAddReference</primary><secondary>crc643f46942d9dd1fff9.ViewCellRenderer_ViewCellContainer</secondary></indexterm>
+<indexterm><primary>crc643f46942d9dd1fff9.ViewCellRenderer_ViewCellContainer</primary><secondary>monodroidAddReference</secondary></indexterm>
+<para><computeroutput>void crc643f46942d9dd1fff9.ViewCellRenderer_ViewCellContainer.monodroidAddReference (java.lang.Object obj)</computeroutput></para><para>
+Definition at line 86 of file ViewCellRenderer_ViewCellContainer.java.</para>
+    </section><anchor xml:id="_classcrc643f46942d9dd1fff9_1_1_view_cell_renderer___view_cell_container_1a0eadd85f105838579545406cacc46eaf"/>    <section>
+    <title>monodroidAddReference()<computeroutput>[2/4]</computeroutput></title>
+<indexterm><primary>monodroidAddReference</primary><secondary>crc643f46942d9dd1fff9.ViewCellRenderer_ViewCellContainer</secondary></indexterm>
+<indexterm><primary>crc643f46942d9dd1fff9.ViewCellRenderer_ViewCellContainer</primary><secondary>monodroidAddReference</secondary></indexterm>
+<para><computeroutput>void crc643f46942d9dd1fff9.ViewCellRenderer_ViewCellContainer.monodroidAddReference (java.lang.Object obj)</computeroutput></para><para>
+Definition at line 86 of file ViewCellRenderer_ViewCellContainer.java.</para>
+    </section><anchor xml:id="_classcrc643f46942d9dd1fff9_1_1_view_cell_renderer___view_cell_container_1a0eadd85f105838579545406cacc46eaf"/>    <section>
+    <title>monodroidAddReference()<computeroutput>[3/4]</computeroutput></title>
+<indexterm><primary>monodroidAddReference</primary><secondary>crc643f46942d9dd1fff9.ViewCellRenderer_ViewCellContainer</secondary></indexterm>
+<indexterm><primary>crc643f46942d9dd1fff9.ViewCellRenderer_ViewCellContainer</primary><secondary>monodroidAddReference</secondary></indexterm>
+<para><computeroutput>void crc643f46942d9dd1fff9.ViewCellRenderer_ViewCellContainer.monodroidAddReference (java.lang.Object obj)</computeroutput></para><para>
+Definition at line 86 of file ViewCellRenderer_ViewCellContainer.java.</para>
+    </section><anchor xml:id="_classcrc643f46942d9dd1fff9_1_1_view_cell_renderer___view_cell_container_1a0eadd85f105838579545406cacc46eaf"/>    <section>
+    <title>monodroidAddReference()<computeroutput>[4/4]</computeroutput></title>
+<indexterm><primary>monodroidAddReference</primary><secondary>crc643f46942d9dd1fff9.ViewCellRenderer_ViewCellContainer</secondary></indexterm>
+<indexterm><primary>crc643f46942d9dd1fff9.ViewCellRenderer_ViewCellContainer</primary><secondary>monodroidAddReference</secondary></indexterm>
+<para><computeroutput>void crc643f46942d9dd1fff9.ViewCellRenderer_ViewCellContainer.monodroidAddReference (java.lang.Object obj)</computeroutput></para><para>
+Definition at line 86 of file ViewCellRenderer_ViewCellContainer.java.</para>
+    </section><anchor xml:id="_classcrc643f46942d9dd1fff9_1_1_view_cell_renderer___view_cell_container_1a0a2edab91bcde0447b3bf8ccedce1c07"/>    <section>
+    <title>monodroidClearReferences()<computeroutput>[1/4]</computeroutput></title>
+<indexterm><primary>monodroidClearReferences</primary><secondary>crc643f46942d9dd1fff9.ViewCellRenderer_ViewCellContainer</secondary></indexterm>
+<indexterm><primary>crc643f46942d9dd1fff9.ViewCellRenderer_ViewCellContainer</primary><secondary>monodroidClearReferences</secondary></indexterm>
+<para><computeroutput>void crc643f46942d9dd1fff9.ViewCellRenderer_ViewCellContainer.monodroidClearReferences ( )</computeroutput></para><para>
+Definition at line 93 of file ViewCellRenderer_ViewCellContainer.java.</para>
+    </section><anchor xml:id="_classcrc643f46942d9dd1fff9_1_1_view_cell_renderer___view_cell_container_1a0a2edab91bcde0447b3bf8ccedce1c07"/>    <section>
+    <title>monodroidClearReferences()<computeroutput>[2/4]</computeroutput></title>
+<indexterm><primary>monodroidClearReferences</primary><secondary>crc643f46942d9dd1fff9.ViewCellRenderer_ViewCellContainer</secondary></indexterm>
+<indexterm><primary>crc643f46942d9dd1fff9.ViewCellRenderer_ViewCellContainer</primary><secondary>monodroidClearReferences</secondary></indexterm>
+<para><computeroutput>void crc643f46942d9dd1fff9.ViewCellRenderer_ViewCellContainer.monodroidClearReferences ( )</computeroutput></para><para>
+Definition at line 93 of file ViewCellRenderer_ViewCellContainer.java.</para>
+    </section><anchor xml:id="_classcrc643f46942d9dd1fff9_1_1_view_cell_renderer___view_cell_container_1a0a2edab91bcde0447b3bf8ccedce1c07"/>    <section>
+    <title>monodroidClearReferences()<computeroutput>[3/4]</computeroutput></title>
+<indexterm><primary>monodroidClearReferences</primary><secondary>crc643f46942d9dd1fff9.ViewCellRenderer_ViewCellContainer</secondary></indexterm>
+<indexterm><primary>crc643f46942d9dd1fff9.ViewCellRenderer_ViewCellContainer</primary><secondary>monodroidClearReferences</secondary></indexterm>
+<para><computeroutput>void crc643f46942d9dd1fff9.ViewCellRenderer_ViewCellContainer.monodroidClearReferences ( )</computeroutput></para><para>
+Definition at line 93 of file ViewCellRenderer_ViewCellContainer.java.</para>
+    </section><anchor xml:id="_classcrc643f46942d9dd1fff9_1_1_view_cell_renderer___view_cell_container_1a0a2edab91bcde0447b3bf8ccedce1c07"/>    <section>
+    <title>monodroidClearReferences()<computeroutput>[4/4]</computeroutput></title>
+<indexterm><primary>monodroidClearReferences</primary><secondary>crc643f46942d9dd1fff9.ViewCellRenderer_ViewCellContainer</secondary></indexterm>
+<indexterm><primary>crc643f46942d9dd1fff9.ViewCellRenderer_ViewCellContainer</primary><secondary>monodroidClearReferences</secondary></indexterm>
+<para><computeroutput>void crc643f46942d9dd1fff9.ViewCellRenderer_ViewCellContainer.monodroidClearReferences ( )</computeroutput></para><para>
+Definition at line 93 of file ViewCellRenderer_ViewCellContainer.java.</para>
+    </section><anchor xml:id="_classcrc643f46942d9dd1fff9_1_1_view_cell_renderer___view_cell_container_1ab0bf99b7aec9035b644db708ed2f2b06"/>    <section>
+    <title>onInterceptTouchEvent()<computeroutput>[1/4]</computeroutput></title>
+<indexterm><primary>onInterceptTouchEvent</primary><secondary>crc643f46942d9dd1fff9.ViewCellRenderer_ViewCellContainer</secondary></indexterm>
+<indexterm><primary>crc643f46942d9dd1fff9.ViewCellRenderer_ViewCellContainer</primary><secondary>onInterceptTouchEvent</secondary></indexterm>
+<para><computeroutput>boolean crc643f46942d9dd1fff9.ViewCellRenderer_ViewCellContainer.onInterceptTouchEvent (android.view.MotionEvent p0)</computeroutput></para><para>
+Definition at line 54 of file ViewCellRenderer_ViewCellContainer.java.</para>
+    </section><anchor xml:id="_classcrc643f46942d9dd1fff9_1_1_view_cell_renderer___view_cell_container_1ab0bf99b7aec9035b644db708ed2f2b06"/>    <section>
+    <title>onInterceptTouchEvent()<computeroutput>[2/4]</computeroutput></title>
+<indexterm><primary>onInterceptTouchEvent</primary><secondary>crc643f46942d9dd1fff9.ViewCellRenderer_ViewCellContainer</secondary></indexterm>
+<indexterm><primary>crc643f46942d9dd1fff9.ViewCellRenderer_ViewCellContainer</primary><secondary>onInterceptTouchEvent</secondary></indexterm>
+<para><computeroutput>boolean crc643f46942d9dd1fff9.ViewCellRenderer_ViewCellContainer.onInterceptTouchEvent (android.view.MotionEvent p0)</computeroutput></para><para>
+Definition at line 54 of file ViewCellRenderer_ViewCellContainer.java.</para>
+    </section><anchor xml:id="_classcrc643f46942d9dd1fff9_1_1_view_cell_renderer___view_cell_container_1ab0bf99b7aec9035b644db708ed2f2b06"/>    <section>
+    <title>onInterceptTouchEvent()<computeroutput>[3/4]</computeroutput></title>
+<indexterm><primary>onInterceptTouchEvent</primary><secondary>crc643f46942d9dd1fff9.ViewCellRenderer_ViewCellContainer</secondary></indexterm>
+<indexterm><primary>crc643f46942d9dd1fff9.ViewCellRenderer_ViewCellContainer</primary><secondary>onInterceptTouchEvent</secondary></indexterm>
+<para><computeroutput>boolean crc643f46942d9dd1fff9.ViewCellRenderer_ViewCellContainer.onInterceptTouchEvent (android.view.MotionEvent p0)</computeroutput></para><para>
+Definition at line 54 of file ViewCellRenderer_ViewCellContainer.java.</para>
+    </section><anchor xml:id="_classcrc643f46942d9dd1fff9_1_1_view_cell_renderer___view_cell_container_1ab0bf99b7aec9035b644db708ed2f2b06"/>    <section>
+    <title>onInterceptTouchEvent()<computeroutput>[4/4]</computeroutput></title>
+<indexterm><primary>onInterceptTouchEvent</primary><secondary>crc643f46942d9dd1fff9.ViewCellRenderer_ViewCellContainer</secondary></indexterm>
+<indexterm><primary>crc643f46942d9dd1fff9.ViewCellRenderer_ViewCellContainer</primary><secondary>onInterceptTouchEvent</secondary></indexterm>
+<para><computeroutput>boolean crc643f46942d9dd1fff9.ViewCellRenderer_ViewCellContainer.onInterceptTouchEvent (android.view.MotionEvent p0)</computeroutput></para><para>
+Definition at line 54 of file ViewCellRenderer_ViewCellContainer.java.</para>
+    </section><anchor xml:id="_classcrc643f46942d9dd1fff9_1_1_view_cell_renderer___view_cell_container_1a065e8d5cd817fe1a5799220bd82f5b72"/>    <section>
+    <title>onLayout()<computeroutput>[1/4]</computeroutput></title>
+<indexterm><primary>onLayout</primary><secondary>crc643f46942d9dd1fff9.ViewCellRenderer_ViewCellContainer</secondary></indexterm>
+<indexterm><primary>crc643f46942d9dd1fff9.ViewCellRenderer_ViewCellContainer</primary><secondary>onLayout</secondary></indexterm>
+<para><computeroutput>void crc643f46942d9dd1fff9.ViewCellRenderer_ViewCellContainer.onLayout (boolean p0, int p1, int p2, int p3, int p4)</computeroutput></para><para>
+Definition at line 70 of file ViewCellRenderer_ViewCellContainer.java.</para>
+    </section><anchor xml:id="_classcrc643f46942d9dd1fff9_1_1_view_cell_renderer___view_cell_container_1a065e8d5cd817fe1a5799220bd82f5b72"/>    <section>
+    <title>onLayout()<computeroutput>[2/4]</computeroutput></title>
+<indexterm><primary>onLayout</primary><secondary>crc643f46942d9dd1fff9.ViewCellRenderer_ViewCellContainer</secondary></indexterm>
+<indexterm><primary>crc643f46942d9dd1fff9.ViewCellRenderer_ViewCellContainer</primary><secondary>onLayout</secondary></indexterm>
+<para><computeroutput>void crc643f46942d9dd1fff9.ViewCellRenderer_ViewCellContainer.onLayout (boolean p0, int p1, int p2, int p3, int p4)</computeroutput></para><para>
+Definition at line 70 of file ViewCellRenderer_ViewCellContainer.java.</para>
+    </section><anchor xml:id="_classcrc643f46942d9dd1fff9_1_1_view_cell_renderer___view_cell_container_1a065e8d5cd817fe1a5799220bd82f5b72"/>    <section>
+    <title>onLayout()<computeroutput>[3/4]</computeroutput></title>
+<indexterm><primary>onLayout</primary><secondary>crc643f46942d9dd1fff9.ViewCellRenderer_ViewCellContainer</secondary></indexterm>
+<indexterm><primary>crc643f46942d9dd1fff9.ViewCellRenderer_ViewCellContainer</primary><secondary>onLayout</secondary></indexterm>
+<para><computeroutput>void crc643f46942d9dd1fff9.ViewCellRenderer_ViewCellContainer.onLayout (boolean p0, int p1, int p2, int p3, int p4)</computeroutput></para><para>
+Definition at line 70 of file ViewCellRenderer_ViewCellContainer.java.</para>
+    </section><anchor xml:id="_classcrc643f46942d9dd1fff9_1_1_view_cell_renderer___view_cell_container_1a065e8d5cd817fe1a5799220bd82f5b72"/>    <section>
+    <title>onLayout()<computeroutput>[4/4]</computeroutput></title>
+<indexterm><primary>onLayout</primary><secondary>crc643f46942d9dd1fff9.ViewCellRenderer_ViewCellContainer</secondary></indexterm>
+<indexterm><primary>crc643f46942d9dd1fff9.ViewCellRenderer_ViewCellContainer</primary><secondary>onLayout</secondary></indexterm>
+<para><computeroutput>void crc643f46942d9dd1fff9.ViewCellRenderer_ViewCellContainer.onLayout (boolean p0, int p1, int p2, int p3, int p4)</computeroutput></para><para>
+Definition at line 70 of file ViewCellRenderer_ViewCellContainer.java.</para>
+    </section><anchor xml:id="_classcrc643f46942d9dd1fff9_1_1_view_cell_renderer___view_cell_container_1a6ac10928a078776b68515e862165d37c"/>    <section>
+    <title>onMeasure()<computeroutput>[1/4]</computeroutput></title>
+<indexterm><primary>onMeasure</primary><secondary>crc643f46942d9dd1fff9.ViewCellRenderer_ViewCellContainer</secondary></indexterm>
+<indexterm><primary>crc643f46942d9dd1fff9.ViewCellRenderer_ViewCellContainer</primary><secondary>onMeasure</secondary></indexterm>
+<para><computeroutput>void crc643f46942d9dd1fff9.ViewCellRenderer_ViewCellContainer.onMeasure (int p0, int p1)</computeroutput></para><para>
+Definition at line 78 of file ViewCellRenderer_ViewCellContainer.java.</para>
+    </section><anchor xml:id="_classcrc643f46942d9dd1fff9_1_1_view_cell_renderer___view_cell_container_1a6ac10928a078776b68515e862165d37c"/>    <section>
+    <title>onMeasure()<computeroutput>[2/4]</computeroutput></title>
+<indexterm><primary>onMeasure</primary><secondary>crc643f46942d9dd1fff9.ViewCellRenderer_ViewCellContainer</secondary></indexterm>
+<indexterm><primary>crc643f46942d9dd1fff9.ViewCellRenderer_ViewCellContainer</primary><secondary>onMeasure</secondary></indexterm>
+<para><computeroutput>void crc643f46942d9dd1fff9.ViewCellRenderer_ViewCellContainer.onMeasure (int p0, int p1)</computeroutput></para><para>
+Definition at line 78 of file ViewCellRenderer_ViewCellContainer.java.</para>
+    </section><anchor xml:id="_classcrc643f46942d9dd1fff9_1_1_view_cell_renderer___view_cell_container_1a6ac10928a078776b68515e862165d37c"/>    <section>
+    <title>onMeasure()<computeroutput>[3/4]</computeroutput></title>
+<indexterm><primary>onMeasure</primary><secondary>crc643f46942d9dd1fff9.ViewCellRenderer_ViewCellContainer</secondary></indexterm>
+<indexterm><primary>crc643f46942d9dd1fff9.ViewCellRenderer_ViewCellContainer</primary><secondary>onMeasure</secondary></indexterm>
+<para><computeroutput>void crc643f46942d9dd1fff9.ViewCellRenderer_ViewCellContainer.onMeasure (int p0, int p1)</computeroutput></para><para>
+Definition at line 78 of file ViewCellRenderer_ViewCellContainer.java.</para>
+    </section><anchor xml:id="_classcrc643f46942d9dd1fff9_1_1_view_cell_renderer___view_cell_container_1a6ac10928a078776b68515e862165d37c"/>    <section>
+    <title>onMeasure()<computeroutput>[4/4]</computeroutput></title>
+<indexterm><primary>onMeasure</primary><secondary>crc643f46942d9dd1fff9.ViewCellRenderer_ViewCellContainer</secondary></indexterm>
+<indexterm><primary>crc643f46942d9dd1fff9.ViewCellRenderer_ViewCellContainer</primary><secondary>onMeasure</secondary></indexterm>
+<para><computeroutput>void crc643f46942d9dd1fff9.ViewCellRenderer_ViewCellContainer.onMeasure (int p0, int p1)</computeroutput></para><para>
+Definition at line 78 of file ViewCellRenderer_ViewCellContainer.java.</para>
+</section>
+</section>
+<section>
+<title>Member Data Documentation</title>
+<anchor xml:id="_classcrc643f46942d9dd1fff9_1_1_view_cell_renderer___view_cell_container_1aed727c4c33b1a85273228d5dd80d4f31"/>    <section>
+    <title>__md_methods</title>
+<indexterm><primary>__md_methods</primary><secondary>crc643f46942d9dd1fff9.ViewCellRenderer_ViewCellContainer</secondary></indexterm>
+<indexterm><primary>crc643f46942d9dd1fff9.ViewCellRenderer_ViewCellContainer</primary><secondary>__md_methods</secondary></indexterm>
+<para><computeroutput>static final String crc643f46942d9dd1fff9.ViewCellRenderer_ViewCellContainer.__md_methods<computeroutput>[static]</computeroutput></computeroutput></para>
+<para>@hide </para>
+<para>
+Definition at line 10 of file ViewCellRenderer_ViewCellContainer.java.</para>
+</section>
+<para>
+The documentation for this class was generated from the following file:</para>
+Application Green Quake.Android/obj/Debug/100/android/src/crc643f46942d9dd1fff9/<link linkend="__debug_2100_2android_2src_2crc643f46942d9dd1fff9_2_view_cell_renderer___view_cell_container_8java">ViewCellRenderer_ViewCellContainer.java</link></section>
+</section>

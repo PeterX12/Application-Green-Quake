@@ -1,0 +1,387 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.9.1" xml:lang="en-US">
+  <compounddef id="classcrc64cad742debd39f951_1_1_material_sf_picker_renderer" kind="class" language="Java" prot="public">
+    <compoundname>crc64cad742debd39f951::MaterialSfPickerRenderer</compoundname>
+    <basecompoundref refid="classcrc64cad742debd39f951_1_1_sf_picker_renderer" prot="public" virt="non-virtual">crc64cad742debd39f951.SfPickerRenderer</basecompoundref>
+    <basecompoundref prot="public" virt="non-virtual">mono.android.IGCUserPeer</basecompoundref>
+      <sectiondef kind="public-static-attrib">
+      <memberdef kind="variable" id="classcrc64cad742debd39f951_1_1_material_sf_picker_renderer_1a33ede3e5e4e01fe79e59cc74a59731ec" prot="public" static="yes" mutable="no">
+        <type>final String</type>
+        <definition>final String crc64cad742debd39f951.MaterialSfPickerRenderer.__md_methods</definition>
+        <argsstring></argsstring>
+        <name>__md_methods</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+<para>@hide </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/110/android/src/crc64cad742debd39f951/MaterialSfPickerRenderer.java" line="10" column="28" bodyfile="Application Green Quake.Android/obj/Debug/110/android/src/crc64cad742debd39f951/MaterialSfPickerRenderer.java" bodystart="10" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="private-attrib">
+      <memberdef kind="variable" id="classcrc64cad742debd39f951_1_1_material_sf_picker_renderer_1ab194cf3f7001df1933ff9beaca349e6f" prot="private" static="no" mutable="no">
+        <type>java.util.ArrayList</type>
+        <definition>java.util.ArrayList crc64cad742debd39f951.MaterialSfPickerRenderer.refList</definition>
+        <argsstring></argsstring>
+        <name>refList</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/110/android/src/crc64cad742debd39f951/MaterialSfPickerRenderer.java" line="41" column="27" bodyfile="Application Green Quake.Android/obj/Debug/110/android/src/crc64cad742debd39f951/MaterialSfPickerRenderer.java" bodystart="41" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="package-static-func">
+      <memberdef kind="function" id="classcrc64cad742debd39f951_1_1_material_sf_picker_renderer_1a29e7826f0e16613295c87a4ff718d04c" prot="package" static="yes" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>crc64cad742debd39f951.MaterialSfPickerRenderer.[static initializer]</definition>
+        <argsstring></argsstring>
+        <name>[static initializer]</name>
+        <reimplements refid="classcrc64cad742debd39f951_1_1_sf_picker_renderer_1a85e65f90cc1f66db588131a5eb772408">[static initializer]</reimplements>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/110/android/src/crc64cad742debd39f951/MaterialSfPickerRenderer.java" line="10" column="28"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="public-func">
+      <memberdef kind="function" id="classcrc64cad742debd39f951_1_1_material_sf_picker_renderer_1a7631237144048106dd7557cd318a1ca1" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>crc64cad742debd39f951.MaterialSfPickerRenderer.MaterialSfPickerRenderer</definition>
+        <argsstring>(android.content.Context p0, android.util.AttributeSet p1, int p2)</argsstring>
+        <name>MaterialSfPickerRenderer</name>
+        <param>
+          <type>android.content.Context</type>
+          <declname>p0</declname>
+        </param>
+        <param>
+          <type>android.util.AttributeSet</type>
+          <declname>p1</declname>
+        </param>
+        <param>
+          <type>int</type>
+          <declname>p2</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/110/android/src/crc64cad742debd39f951/MaterialSfPickerRenderer.java" line="18" column="8" bodyfile="Application Green Quake.Android/obj/Debug/110/android/src/crc64cad742debd39f951/MaterialSfPickerRenderer.java" bodystart="18" bodyend="23"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc64cad742debd39f951_1_1_material_sf_picker_renderer_1aba75f862a6d9d342f0408013a0504e8a" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>crc64cad742debd39f951.MaterialSfPickerRenderer.MaterialSfPickerRenderer</definition>
+        <argsstring>(android.content.Context p0, android.util.AttributeSet p1)</argsstring>
+        <name>MaterialSfPickerRenderer</name>
+        <param>
+          <type>android.content.Context</type>
+          <declname>p0</declname>
+        </param>
+        <param>
+          <type>android.util.AttributeSet</type>
+          <declname>p1</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/110/android/src/crc64cad742debd39f951/MaterialSfPickerRenderer.java" line="26" column="8" bodyfile="Application Green Quake.Android/obj/Debug/110/android/src/crc64cad742debd39f951/MaterialSfPickerRenderer.java" bodystart="26" bodyend="31"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc64cad742debd39f951_1_1_material_sf_picker_renderer_1afe761ba7030ca4c3e7f161ff9dd3a5cb" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>crc64cad742debd39f951.MaterialSfPickerRenderer.MaterialSfPickerRenderer</definition>
+        <argsstring>(android.content.Context p0)</argsstring>
+        <name>MaterialSfPickerRenderer</name>
+        <param>
+          <type>android.content.Context</type>
+          <declname>p0</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/110/android/src/crc64cad742debd39f951/MaterialSfPickerRenderer.java" line="34" column="8" bodyfile="Application Green Quake.Android/obj/Debug/110/android/src/crc64cad742debd39f951/MaterialSfPickerRenderer.java" bodystart="34" bodyend="39"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc64cad742debd39f951_1_1_material_sf_picker_renderer_1a716b5945a5eb20238e2a13172cafb500" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void crc64cad742debd39f951.MaterialSfPickerRenderer.monodroidAddReference</definition>
+        <argsstring>(java.lang.Object obj)</argsstring>
+        <name>monodroidAddReference</name>
+        <reimplements refid="classcrc64cad742debd39f951_1_1_sf_picker_renderer_1abee1b33564d36f588c4f011356e0c7ab">monodroidAddReference</reimplements>
+        <param>
+          <type>java.lang.Object</type>
+          <declname>obj</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/110/android/src/crc64cad742debd39f951/MaterialSfPickerRenderer.java" line="42" column="13" bodyfile="Application Green Quake.Android/obj/Debug/110/android/src/crc64cad742debd39f951/MaterialSfPickerRenderer.java" bodystart="42" bodyend="47"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc64cad742debd39f951_1_1_material_sf_picker_renderer_1a6624d9de9f3b2ae10ceaf8ed4cd96628" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void crc64cad742debd39f951.MaterialSfPickerRenderer.monodroidClearReferences</definition>
+        <argsstring>()</argsstring>
+        <name>monodroidClearReferences</name>
+        <reimplements refid="classcrc64cad742debd39f951_1_1_sf_picker_renderer_1ac9c7f86195f675be575bce01440b25bf">monodroidClearReferences</reimplements>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/110/android/src/crc64cad742debd39f951/MaterialSfPickerRenderer.java" line="49" column="13" bodyfile="Application Green Quake.Android/obj/Debug/110/android/src/crc64cad742debd39f951/MaterialSfPickerRenderer.java" bodystart="49" bodyend="53"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <inheritancegraph>
+      <node id="7">
+        <label>com.xamarin.forms.platform.android.FormsViewGroup</label>
+      </node>
+      <node id="1">
+        <label>crc64cad742debd39f951.MaterialSfPickerRenderer</label>
+        <link refid="classcrc64cad742debd39f951_1_1_material_sf_picker_renderer"/>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+        <childnode refid="6" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="3">
+        <label>crc643f46942d9dd1fff9.ViewRenderer_2</label>
+        <link refid="classcrc643f46942d9dd1fff9_1_1_view_renderer__2"/>
+        <childnode refid="4" relation="public-inheritance">
+        </childnode>
+        <childnode refid="6" relation="public-inheritance">
+        </childnode>
+        <childnode refid="8" relation="public-inheritance">
+        </childnode>
+        <childnode refid="4" relation="public-inheritance">
+        </childnode>
+        <childnode refid="6" relation="public-inheritance">
+        </childnode>
+        <childnode refid="8" relation="public-inheritance">
+        </childnode>
+        <childnode refid="4" relation="public-inheritance">
+        </childnode>
+        <childnode refid="6" relation="public-inheritance">
+        </childnode>
+        <childnode refid="8" relation="public-inheritance">
+        </childnode>
+        <childnode refid="4" relation="public-inheritance">
+        </childnode>
+        <childnode refid="6" relation="public-inheritance">
+        </childnode>
+        <childnode refid="8" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="2">
+        <label>crc64cad742debd39f951.SfPickerRenderer</label>
+        <link refid="classcrc64cad742debd39f951_1_1_sf_picker_renderer"/>
+        <childnode refid="3" relation="public-inheritance">
+        </childnode>
+        <childnode refid="6" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="5">
+        <label>com::xamarin::forms::platform::android::FormsViewGroup</label>
+      </node>
+      <node id="6">
+        <label>mono.android.IGCUserPeer</label>
+      </node>
+      <node id="4">
+        <label>crc643f46942d9dd1fff9.VisualElementRenderer_1</label>
+        <link refid="classcrc643f46942d9dd1fff9_1_1_visual_element_renderer__1"/>
+        <childnode refid="5" relation="public-inheritance">
+        </childnode>
+        <childnode refid="6" relation="public-inheritance">
+        </childnode>
+        <childnode refid="7" relation="public-inheritance">
+        </childnode>
+        <childnode refid="6" relation="public-inheritance">
+        </childnode>
+        <childnode refid="7" relation="public-inheritance">
+        </childnode>
+        <childnode refid="6" relation="public-inheritance">
+        </childnode>
+        <childnode refid="7" relation="public-inheritance">
+        </childnode>
+        <childnode refid="6" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="8">
+        <label>android.view.View.OnFocusChangeListener</label>
+      </node>
+    </inheritancegraph>
+    <collaborationgraph>
+      <node id="7">
+        <label>com.xamarin.forms.platform.android.FormsViewGroup</label>
+      </node>
+      <node id="1">
+        <label>crc64cad742debd39f951.MaterialSfPickerRenderer</label>
+        <link refid="classcrc64cad742debd39f951_1_1_material_sf_picker_renderer"/>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+        <childnode refid="6" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="3">
+        <label>crc643f46942d9dd1fff9.ViewRenderer_2</label>
+        <link refid="classcrc643f46942d9dd1fff9_1_1_view_renderer__2"/>
+        <childnode refid="4" relation="public-inheritance">
+        </childnode>
+        <childnode refid="6" relation="public-inheritance">
+        </childnode>
+        <childnode refid="8" relation="public-inheritance">
+        </childnode>
+        <childnode refid="4" relation="public-inheritance">
+        </childnode>
+        <childnode refid="6" relation="public-inheritance">
+        </childnode>
+        <childnode refid="8" relation="public-inheritance">
+        </childnode>
+        <childnode refid="4" relation="public-inheritance">
+        </childnode>
+        <childnode refid="6" relation="public-inheritance">
+        </childnode>
+        <childnode refid="8" relation="public-inheritance">
+        </childnode>
+        <childnode refid="4" relation="public-inheritance">
+        </childnode>
+        <childnode refid="6" relation="public-inheritance">
+        </childnode>
+        <childnode refid="8" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="2">
+        <label>crc64cad742debd39f951.SfPickerRenderer</label>
+        <link refid="classcrc64cad742debd39f951_1_1_sf_picker_renderer"/>
+        <childnode refid="3" relation="public-inheritance">
+        </childnode>
+        <childnode refid="6" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="5">
+        <label>com::xamarin::forms::platform::android::FormsViewGroup</label>
+      </node>
+      <node id="6">
+        <label>mono.android.IGCUserPeer</label>
+      </node>
+      <node id="4">
+        <label>crc643f46942d9dd1fff9.VisualElementRenderer_1</label>
+        <link refid="classcrc643f46942d9dd1fff9_1_1_visual_element_renderer__1"/>
+        <childnode refid="5" relation="public-inheritance">
+        </childnode>
+        <childnode refid="6" relation="public-inheritance">
+        </childnode>
+        <childnode refid="7" relation="public-inheritance">
+        </childnode>
+        <childnode refid="6" relation="public-inheritance">
+        </childnode>
+        <childnode refid="7" relation="public-inheritance">
+        </childnode>
+        <childnode refid="6" relation="public-inheritance">
+        </childnode>
+        <childnode refid="7" relation="public-inheritance">
+        </childnode>
+        <childnode refid="6" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="8">
+        <label>android.view.View.OnFocusChangeListener</label>
+      </node>
+    </collaborationgraph>
+    <location file="Application Green Quake.Android/obj/Debug/110/android/src/crc64cad742debd39f951/MaterialSfPickerRenderer.java" line="4" column="7" bodyfile="Application Green Quake.Android/obj/Debug/110/android/src/crc64cad742debd39f951/MaterialSfPickerRenderer.java" bodystart="8" bodyend="54"/>
+    <listofallmembers>
+      <member refid="classcrc64cad742debd39f951_1_1_material_sf_picker_renderer_1a29e7826f0e16613295c87a4ff718d04c" prot="package" virt="non-virtual"><scope>crc64cad742debd39f951::MaterialSfPickerRenderer</scope><name>[static initializer]</name></member>
+      <member refid="classcrc64cad742debd39f951_1_1_material_sf_picker_renderer_1a33ede3e5e4e01fe79e59cc74a59731ec" prot="public" virt="non-virtual"><scope>crc64cad742debd39f951::MaterialSfPickerRenderer</scope><name>__md_methods</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_visual_element_renderer__1_1a8b3a1f18416ee5d553d54d8c51f238bd" prot="public" virt="non-virtual"><scope>crc64cad742debd39f951::MaterialSfPickerRenderer</scope><name>dispatchTouchEvent</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_visual_element_renderer__1_1a8b3a1f18416ee5d553d54d8c51f238bd" prot="public" virt="non-virtual"><scope>crc64cad742debd39f951::MaterialSfPickerRenderer</scope><name>dispatchTouchEvent</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_visual_element_renderer__1_1a8b3a1f18416ee5d553d54d8c51f238bd" prot="public" virt="non-virtual"><scope>crc64cad742debd39f951::MaterialSfPickerRenderer</scope><name>dispatchTouchEvent</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_visual_element_renderer__1_1a8b3a1f18416ee5d553d54d8c51f238bd" prot="public" virt="non-virtual"><scope>crc64cad742debd39f951::MaterialSfPickerRenderer</scope><name>dispatchTouchEvent</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_visual_element_renderer__1_1a4fbfdc5e36e0aac29f8113eddde3ffa8" prot="public" virt="non-virtual"><scope>crc64cad742debd39f951::MaterialSfPickerRenderer</scope><name>draw</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_visual_element_renderer__1_1a4fbfdc5e36e0aac29f8113eddde3ffa8" prot="public" virt="non-virtual"><scope>crc64cad742debd39f951::MaterialSfPickerRenderer</scope><name>draw</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_visual_element_renderer__1_1a4fbfdc5e36e0aac29f8113eddde3ffa8" prot="public" virt="non-virtual"><scope>crc64cad742debd39f951::MaterialSfPickerRenderer</scope><name>draw</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_visual_element_renderer__1_1a4fbfdc5e36e0aac29f8113eddde3ffa8" prot="public" virt="non-virtual"><scope>crc64cad742debd39f951::MaterialSfPickerRenderer</scope><name>draw</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_visual_element_renderer__1_1a9f734e4b4776dc9d9ed904a0922d26f7" prot="public" virt="non-virtual"><scope>crc64cad742debd39f951::MaterialSfPickerRenderer</scope><name>focusSearch</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_visual_element_renderer__1_1a9f734e4b4776dc9d9ed904a0922d26f7" prot="public" virt="non-virtual"><scope>crc64cad742debd39f951::MaterialSfPickerRenderer</scope><name>focusSearch</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_visual_element_renderer__1_1a9f734e4b4776dc9d9ed904a0922d26f7" prot="public" virt="non-virtual"><scope>crc64cad742debd39f951::MaterialSfPickerRenderer</scope><name>focusSearch</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_visual_element_renderer__1_1a9f734e4b4776dc9d9ed904a0922d26f7" prot="public" virt="non-virtual"><scope>crc64cad742debd39f951::MaterialSfPickerRenderer</scope><name>focusSearch</name></member>
+      <member refid="classcrc64cad742debd39f951_1_1_material_sf_picker_renderer_1a7631237144048106dd7557cd318a1ca1" prot="public" virt="non-virtual"><scope>crc64cad742debd39f951::MaterialSfPickerRenderer</scope><name>MaterialSfPickerRenderer</name></member>
+      <member refid="classcrc64cad742debd39f951_1_1_material_sf_picker_renderer_1aba75f862a6d9d342f0408013a0504e8a" prot="public" virt="non-virtual"><scope>crc64cad742debd39f951::MaterialSfPickerRenderer</scope><name>MaterialSfPickerRenderer</name></member>
+      <member refid="classcrc64cad742debd39f951_1_1_material_sf_picker_renderer_1afe761ba7030ca4c3e7f161ff9dd3a5cb" prot="public" virt="non-virtual"><scope>crc64cad742debd39f951::MaterialSfPickerRenderer</scope><name>MaterialSfPickerRenderer</name></member>
+      <member refid="classcrc64cad742debd39f951_1_1_material_sf_picker_renderer_1a716b5945a5eb20238e2a13172cafb500" prot="public" virt="non-virtual"><scope>crc64cad742debd39f951::MaterialSfPickerRenderer</scope><name>monodroidAddReference</name></member>
+      <member refid="classcrc64cad742debd39f951_1_1_material_sf_picker_renderer_1a6624d9de9f3b2ae10ceaf8ed4cd96628" prot="public" virt="non-virtual"><scope>crc64cad742debd39f951::MaterialSfPickerRenderer</scope><name>monodroidClearReferences</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_visual_element_renderer__1_1a31a32c8d1668368e4b13d7933a626833" prot="public" virt="non-virtual"><scope>crc64cad742debd39f951::MaterialSfPickerRenderer</scope><name>onConfigurationChanged</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_visual_element_renderer__1_1a31a32c8d1668368e4b13d7933a626833" prot="public" virt="non-virtual"><scope>crc64cad742debd39f951::MaterialSfPickerRenderer</scope><name>onConfigurationChanged</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_visual_element_renderer__1_1a31a32c8d1668368e4b13d7933a626833" prot="public" virt="non-virtual"><scope>crc64cad742debd39f951::MaterialSfPickerRenderer</scope><name>onConfigurationChanged</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_visual_element_renderer__1_1a31a32c8d1668368e4b13d7933a626833" prot="public" virt="non-virtual"><scope>crc64cad742debd39f951::MaterialSfPickerRenderer</scope><name>onConfigurationChanged</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_view_renderer__2_1af7a9cd1b5635deaf68179fcdc4ee9275" prot="public" virt="non-virtual"><scope>crc64cad742debd39f951::MaterialSfPickerRenderer</scope><name>onFocusChange</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_view_renderer__2_1af7a9cd1b5635deaf68179fcdc4ee9275" prot="public" virt="non-virtual"><scope>crc64cad742debd39f951::MaterialSfPickerRenderer</scope><name>onFocusChange</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_view_renderer__2_1af7a9cd1b5635deaf68179fcdc4ee9275" prot="public" virt="non-virtual"><scope>crc64cad742debd39f951::MaterialSfPickerRenderer</scope><name>onFocusChange</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_view_renderer__2_1af7a9cd1b5635deaf68179fcdc4ee9275" prot="public" virt="non-virtual"><scope>crc64cad742debd39f951::MaterialSfPickerRenderer</scope><name>onFocusChange</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_visual_element_renderer__1_1ade33eb4d0895f2536faf5f3e57830bc2" prot="public" virt="non-virtual"><scope>crc64cad742debd39f951::MaterialSfPickerRenderer</scope><name>onInterceptTouchEvent</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_visual_element_renderer__1_1ade33eb4d0895f2536faf5f3e57830bc2" prot="public" virt="non-virtual"><scope>crc64cad742debd39f951::MaterialSfPickerRenderer</scope><name>onInterceptTouchEvent</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_visual_element_renderer__1_1ade33eb4d0895f2536faf5f3e57830bc2" prot="public" virt="non-virtual"><scope>crc64cad742debd39f951::MaterialSfPickerRenderer</scope><name>onInterceptTouchEvent</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_visual_element_renderer__1_1ade33eb4d0895f2536faf5f3e57830bc2" prot="public" virt="non-virtual"><scope>crc64cad742debd39f951::MaterialSfPickerRenderer</scope><name>onInterceptTouchEvent</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_view_renderer__2_1a1e8de2d40d787901b8f14839810a5721" prot="public" virt="non-virtual"><scope>crc64cad742debd39f951::MaterialSfPickerRenderer</scope><name>onLayout</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_view_renderer__2_1a1e8de2d40d787901b8f14839810a5721" prot="public" virt="non-virtual"><scope>crc64cad742debd39f951::MaterialSfPickerRenderer</scope><name>onLayout</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_view_renderer__2_1a1e8de2d40d787901b8f14839810a5721" prot="public" virt="non-virtual"><scope>crc64cad742debd39f951::MaterialSfPickerRenderer</scope><name>onLayout</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_view_renderer__2_1a1e8de2d40d787901b8f14839810a5721" prot="public" virt="non-virtual"><scope>crc64cad742debd39f951::MaterialSfPickerRenderer</scope><name>onLayout</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_visual_element_renderer__1_1a68f705864fbd52c60cb4c29f5372aa76" prot="public" virt="non-virtual"><scope>crc64cad742debd39f951::MaterialSfPickerRenderer</scope><name>onMeasure</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_visual_element_renderer__1_1a68f705864fbd52c60cb4c29f5372aa76" prot="public" virt="non-virtual"><scope>crc64cad742debd39f951::MaterialSfPickerRenderer</scope><name>onMeasure</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_visual_element_renderer__1_1a68f705864fbd52c60cb4c29f5372aa76" prot="public" virt="non-virtual"><scope>crc64cad742debd39f951::MaterialSfPickerRenderer</scope><name>onMeasure</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_visual_element_renderer__1_1a68f705864fbd52c60cb4c29f5372aa76" prot="public" virt="non-virtual"><scope>crc64cad742debd39f951::MaterialSfPickerRenderer</scope><name>onMeasure</name></member>
+      <member refid="classcrc64cad742debd39f951_1_1_sf_picker_renderer_1a0ae6ef578cc4513d7dc994efe7af1b68" prot="public" virt="non-virtual"><scope>crc64cad742debd39f951::MaterialSfPickerRenderer</scope><name>onSizeChanged</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_visual_element_renderer__1_1a11426581e099109c3f05f848cd0f55a4" prot="public" virt="non-virtual"><scope>crc64cad742debd39f951::MaterialSfPickerRenderer</scope><name>onTouchEvent</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_visual_element_renderer__1_1a11426581e099109c3f05f848cd0f55a4" prot="public" virt="non-virtual"><scope>crc64cad742debd39f951::MaterialSfPickerRenderer</scope><name>onTouchEvent</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_visual_element_renderer__1_1a11426581e099109c3f05f848cd0f55a4" prot="public" virt="non-virtual"><scope>crc64cad742debd39f951::MaterialSfPickerRenderer</scope><name>onTouchEvent</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_visual_element_renderer__1_1a11426581e099109c3f05f848cd0f55a4" prot="public" virt="non-virtual"><scope>crc64cad742debd39f951::MaterialSfPickerRenderer</scope><name>onTouchEvent</name></member>
+      <member refid="classcrc64cad742debd39f951_1_1_material_sf_picker_renderer_1ab194cf3f7001df1933ff9beaca349e6f" prot="private" virt="non-virtual"><scope>crc64cad742debd39f951::MaterialSfPickerRenderer</scope><name>refList</name></member>
+      <member refid="classcrc64cad742debd39f951_1_1_sf_picker_renderer_1a708b4b3680ce8328d25a1ca24c7fa14f" prot="public" virt="non-virtual"><scope>crc64cad742debd39f951::MaterialSfPickerRenderer</scope><name>SfPickerRenderer</name></member>
+      <member refid="classcrc64cad742debd39f951_1_1_sf_picker_renderer_1a7b45681274700d6d893a9ed9633109b3" prot="public" virt="non-virtual"><scope>crc64cad742debd39f951::MaterialSfPickerRenderer</scope><name>SfPickerRenderer</name></member>
+      <member refid="classcrc64cad742debd39f951_1_1_sf_picker_renderer_1ab7c12b6c5bf399b07cc25e86b26dbd43" prot="public" virt="non-virtual"><scope>crc64cad742debd39f951::MaterialSfPickerRenderer</scope><name>SfPickerRenderer</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_view_renderer__2_1ad980838ee59d73db13b3aa47b96977a9" prot="public" virt="non-virtual"><scope>crc64cad742debd39f951::MaterialSfPickerRenderer</scope><name>ViewRenderer_2</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_view_renderer__2_1af965f1cbc77bc983fd6a53f8fd4c94b9" prot="public" virt="non-virtual"><scope>crc64cad742debd39f951::MaterialSfPickerRenderer</scope><name>ViewRenderer_2</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_view_renderer__2_1abe3f312104c3407aaad8eb154b5f41cf" prot="public" virt="non-virtual"><scope>crc64cad742debd39f951::MaterialSfPickerRenderer</scope><name>ViewRenderer_2</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_view_renderer__2_1ad980838ee59d73db13b3aa47b96977a9" prot="public" virt="non-virtual"><scope>crc64cad742debd39f951::MaterialSfPickerRenderer</scope><name>ViewRenderer_2</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_view_renderer__2_1af965f1cbc77bc983fd6a53f8fd4c94b9" prot="public" virt="non-virtual"><scope>crc64cad742debd39f951::MaterialSfPickerRenderer</scope><name>ViewRenderer_2</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_view_renderer__2_1abe3f312104c3407aaad8eb154b5f41cf" prot="public" virt="non-virtual"><scope>crc64cad742debd39f951::MaterialSfPickerRenderer</scope><name>ViewRenderer_2</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_view_renderer__2_1ad980838ee59d73db13b3aa47b96977a9" prot="public" virt="non-virtual"><scope>crc64cad742debd39f951::MaterialSfPickerRenderer</scope><name>ViewRenderer_2</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_view_renderer__2_1af965f1cbc77bc983fd6a53f8fd4c94b9" prot="public" virt="non-virtual"><scope>crc64cad742debd39f951::MaterialSfPickerRenderer</scope><name>ViewRenderer_2</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_view_renderer__2_1abe3f312104c3407aaad8eb154b5f41cf" prot="public" virt="non-virtual"><scope>crc64cad742debd39f951::MaterialSfPickerRenderer</scope><name>ViewRenderer_2</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_view_renderer__2_1ad980838ee59d73db13b3aa47b96977a9" prot="public" virt="non-virtual"><scope>crc64cad742debd39f951::MaterialSfPickerRenderer</scope><name>ViewRenderer_2</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_view_renderer__2_1af965f1cbc77bc983fd6a53f8fd4c94b9" prot="public" virt="non-virtual"><scope>crc64cad742debd39f951::MaterialSfPickerRenderer</scope><name>ViewRenderer_2</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_view_renderer__2_1abe3f312104c3407aaad8eb154b5f41cf" prot="public" virt="non-virtual"><scope>crc64cad742debd39f951::MaterialSfPickerRenderer</scope><name>ViewRenderer_2</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_visual_element_renderer__1_1a347f18991a486c5b5f1c4dcd83475f21" prot="public" virt="non-virtual"><scope>crc64cad742debd39f951::MaterialSfPickerRenderer</scope><name>VisualElementRenderer_1</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_visual_element_renderer__1_1a42957113957987d17592ba290f118ec5" prot="public" virt="non-virtual"><scope>crc64cad742debd39f951::MaterialSfPickerRenderer</scope><name>VisualElementRenderer_1</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_visual_element_renderer__1_1a92a3ec4e374dfc2f8b16cfccb9b83c7f" prot="public" virt="non-virtual"><scope>crc64cad742debd39f951::MaterialSfPickerRenderer</scope><name>VisualElementRenderer_1</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_visual_element_renderer__1_1a347f18991a486c5b5f1c4dcd83475f21" prot="public" virt="non-virtual"><scope>crc64cad742debd39f951::MaterialSfPickerRenderer</scope><name>VisualElementRenderer_1</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_visual_element_renderer__1_1a42957113957987d17592ba290f118ec5" prot="public" virt="non-virtual"><scope>crc64cad742debd39f951::MaterialSfPickerRenderer</scope><name>VisualElementRenderer_1</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_visual_element_renderer__1_1a92a3ec4e374dfc2f8b16cfccb9b83c7f" prot="public" virt="non-virtual"><scope>crc64cad742debd39f951::MaterialSfPickerRenderer</scope><name>VisualElementRenderer_1</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_visual_element_renderer__1_1a347f18991a486c5b5f1c4dcd83475f21" prot="public" virt="non-virtual"><scope>crc64cad742debd39f951::MaterialSfPickerRenderer</scope><name>VisualElementRenderer_1</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_visual_element_renderer__1_1a42957113957987d17592ba290f118ec5" prot="public" virt="non-virtual"><scope>crc64cad742debd39f951::MaterialSfPickerRenderer</scope><name>VisualElementRenderer_1</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_visual_element_renderer__1_1a92a3ec4e374dfc2f8b16cfccb9b83c7f" prot="public" virt="non-virtual"><scope>crc64cad742debd39f951::MaterialSfPickerRenderer</scope><name>VisualElementRenderer_1</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_visual_element_renderer__1_1a347f18991a486c5b5f1c4dcd83475f21" prot="public" virt="non-virtual"><scope>crc64cad742debd39f951::MaterialSfPickerRenderer</scope><name>VisualElementRenderer_1</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_visual_element_renderer__1_1a42957113957987d17592ba290f118ec5" prot="public" virt="non-virtual"><scope>crc64cad742debd39f951::MaterialSfPickerRenderer</scope><name>VisualElementRenderer_1</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_visual_element_renderer__1_1a92a3ec4e374dfc2f8b16cfccb9b83c7f" prot="public" virt="non-virtual"><scope>crc64cad742debd39f951::MaterialSfPickerRenderer</scope><name>VisualElementRenderer_1</name></member>
+    </listofallmembers>
+  </compounddef>
+</doxygen>

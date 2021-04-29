@@ -1,0 +1,66 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<section xmlns="http://docbook.org/ns/docbook" version="5.0" xmlns:xlink="http://www.w3.org/1999/xlink" xml:id="_class_application___green___quake_1_1_views_1_1_eco_actions_1_1_home_1_1_toilet_flushes" xml:lang="en-US">
+<title>Application_Green_Quake.Views.EcoActions.Home.ToiletFlushes Class Reference</title>
+<indexterm><primary>Application_Green_Quake.Views.EcoActions.Home.ToiletFlushes</primary></indexterm>
+Inheritance diagram for Application_Green_Quake.Views.EcoActions.Home.ToiletFlushes:<para>
+    <informalfigure>
+        <mediaobject>
+            <imageobject>
+                <imagedata width="50%" align="center" valign="middle" scalefit="0" fileref="class_application___green___quake_1_1_views_1_1_eco_actions_1_1_home_1_1_toilet_flushes__inherit__graph.png"></imagedata>
+            </imageobject>
+        </mediaobject>
+    </informalfigure>
+</para>
+Collaboration diagram for Application_Green_Quake.Views.EcoActions.Home.ToiletFlushes:<para>
+    <informalfigure>
+        <mediaobject>
+            <imageobject>
+                <imagedata width="50%" align="center" valign="middle" scalefit="0" fileref="class_application___green___quake_1_1_views_1_1_eco_actions_1_1_home_1_1_toilet_flushes__coll__graph.png"></imagedata>
+            </imageobject>
+        </mediaobject>
+    </informalfigure>
+</para>
+<simplesect>
+    <title>Public Member Functions    </title>
+        <itemizedlist>
+            <listitem><para><link linkend="_class_application___green___quake_1_1_views_1_1_eco_actions_1_1_home_1_1_toilet_flushes_1a9508c145ccb19a013fb08105755989bf">ToiletFlushes</link> ()</para>
+</listitem>
+        </itemizedlist>
+</simplesect>
+<simplesect>
+    <title>Protected Member Functions    </title>
+        <itemizedlist>
+            <listitem><para>override void <link linkend="_class_application___green___quake_1_1_views_1_1_eco_actions_1_1_home_1_1_toilet_flushes_1a93f984167500fb2ccaa7971d1054308e">OnAppearing</link> ()</para>
+</listitem>
+        </itemizedlist>
+</simplesect>
+<section>
+<title>Detailed Description</title>
+<para>
+Definition at line 17 of file ToiletFlushes.xaml.g.cs.</para>
+</section>
+<section>
+<title>Constructor &amp; Destructor Documentation</title>
+<anchor xml:id="_class_application___green___quake_1_1_views_1_1_eco_actions_1_1_home_1_1_toilet_flushes_1a9508c145ccb19a013fb08105755989bf"/>    <section>
+    <title>ToiletFlushes()</title>
+<indexterm><primary>ToiletFlushes</primary><secondary>Application_Green_Quake.Views.EcoActions.Home.ToiletFlushes</secondary></indexterm>
+<indexterm><primary>Application_Green_Quake.Views.EcoActions.Home.ToiletFlushes</primary><secondary>ToiletFlushes</secondary></indexterm>
+<para><computeroutput>Application_Green_Quake.Views.EcoActions.Home.ToiletFlushes.ToiletFlushes ( )</computeroutput></para><para>
+Definition at line 21 of file ToiletFlushes.xaml.cs.</para>
+</section>
+</section>
+<section>
+<title>Member Function Documentation</title>
+<anchor xml:id="_class_application___green___quake_1_1_views_1_1_eco_actions_1_1_home_1_1_toilet_flushes_1a93f984167500fb2ccaa7971d1054308e"/>    <section>
+    <title>OnAppearing()</title>
+<indexterm><primary>OnAppearing</primary><secondary>Application_Green_Quake.Views.EcoActions.Home.ToiletFlushes</secondary></indexterm>
+<indexterm><primary>Application_Green_Quake.Views.EcoActions.Home.ToiletFlushes</primary><secondary>OnAppearing</secondary></indexterm>
+<para><computeroutput>override void Application_Green_Quake.Views.EcoActions.Home.ToiletFlushes.OnAppearing ( )<computeroutput>[protected]</computeroutput></computeroutput></para>
+<para>This function is called before the page is displayed and it created an object ans uses it&apos;s SetLvl method to set the players level in the app and display it in the navigation bar. </para>
+<para>
+Definition at line 61 of file ToiletFlushes.xaml.cs.</para>
+</section>
+<para>
+The documentation for this class was generated from the following files:</para>
+Application Green Quake/obj/Debug/netstandard2.0/Views/EcoActions/Home/<link linkend="__debug_2netstandard2_80_2_views_2_eco_actions_2_home_2_toilet_flushes_8xaml_8g_8cs">ToiletFlushes.xaml.g.cs</link>Application Green Quake/Views/EcoActions/Home/<link linkend="__toilet_flushes_8xaml_8cs">ToiletFlushes.xaml.cs</link></section>
+</section>

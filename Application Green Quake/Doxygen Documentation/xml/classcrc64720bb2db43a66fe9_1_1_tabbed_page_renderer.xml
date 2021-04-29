@@ -1,0 +1,2322 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.9.1" xml:lang="en-US">
+  <compounddef id="classcrc64720bb2db43a66fe9_1_1_tabbed_page_renderer" kind="class" language="Java" prot="public">
+    <compoundname>crc64720bb2db43a66fe9::TabbedPageRenderer</compoundname>
+    <basecompoundref refid="classcrc643f46942d9dd1fff9_1_1_visual_element_renderer__1" prot="public" virt="non-virtual">crc643f46942d9dd1fff9.VisualElementRenderer_1</basecompoundref>
+    <basecompoundref prot="public" virt="non-virtual">mono.android.IGCUserPeer</basecompoundref>
+    <basecompoundref prot="public" virt="non-virtual">com.google.android.material.tabs.TabLayout.BaseOnTabSelectedListener</basecompoundref>
+    <basecompoundref prot="public" virt="non-virtual">androidx.viewpager.widget.ViewPager.OnPageChangeListener</basecompoundref>
+    <basecompoundref prot="public" virt="non-virtual">com.google.android.material.bottomnavigation.BottomNavigationView.OnNavigationItemSelectedListener</basecompoundref>
+    <basecompoundref refid="classcrc643f46942d9dd1fff9_1_1_visual_element_renderer__1" prot="public" virt="non-virtual">crc643f46942d9dd1fff9.VisualElementRenderer_1</basecompoundref>
+    <basecompoundref prot="public" virt="non-virtual">mono.android.IGCUserPeer</basecompoundref>
+    <basecompoundref prot="public" virt="non-virtual">com.google.android.material.tabs.TabLayout.BaseOnTabSelectedListener</basecompoundref>
+    <basecompoundref prot="public" virt="non-virtual">androidx.viewpager.widget.ViewPager.OnPageChangeListener</basecompoundref>
+    <basecompoundref prot="public" virt="non-virtual">com.google.android.material.bottomnavigation.BottomNavigationView.OnNavigationItemSelectedListener</basecompoundref>
+    <basecompoundref refid="classcrc643f46942d9dd1fff9_1_1_visual_element_renderer__1" prot="public" virt="non-virtual">crc643f46942d9dd1fff9.VisualElementRenderer_1</basecompoundref>
+    <basecompoundref prot="public" virt="non-virtual">mono.android.IGCUserPeer</basecompoundref>
+    <basecompoundref prot="public" virt="non-virtual">com.google.android.material.tabs.TabLayout.BaseOnTabSelectedListener</basecompoundref>
+    <basecompoundref prot="public" virt="non-virtual">androidx.viewpager.widget.ViewPager.OnPageChangeListener</basecompoundref>
+    <basecompoundref prot="public" virt="non-virtual">com.google.android.material.bottomnavigation.BottomNavigationView.OnNavigationItemSelectedListener</basecompoundref>
+    <basecompoundref refid="classcrc643f46942d9dd1fff9_1_1_visual_element_renderer__1" prot="public" virt="non-virtual">crc643f46942d9dd1fff9.VisualElementRenderer_1</basecompoundref>
+    <basecompoundref prot="public" virt="non-virtual">mono.android.IGCUserPeer</basecompoundref>
+    <basecompoundref prot="public" virt="non-virtual">com.google.android.material.tabs.TabLayout.BaseOnTabSelectedListener</basecompoundref>
+    <basecompoundref prot="public" virt="non-virtual">androidx.viewpager.widget.ViewPager.OnPageChangeListener</basecompoundref>
+    <basecompoundref prot="public" virt="non-virtual">com.google.android.material.bottomnavigation.BottomNavigationView.OnNavigationItemSelectedListener</basecompoundref>
+      <sectiondef kind="public-static-attrib">
+      <memberdef kind="variable" id="classcrc64720bb2db43a66fe9_1_1_tabbed_page_renderer_1a3f81bf6ecfbd37dc39891c3897a601d0" prot="public" static="yes" mutable="no">
+        <type>final String</type>
+        <definition>static final String crc64720bb2db43a66fe9.TabbedPageRenderer::__md_methods</definition>
+        <argsstring></argsstring>
+        <name>__md_methods</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+<para>@hide </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/100/android/src/crc64720bb2db43a66fe9/TabbedPageRenderer.java" line="13" column="28" bodyfile="Application Green Quake.Android/obj/Debug/100/android/src/crc64720bb2db43a66fe9/TabbedPageRenderer.java" bodystart="13" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="private-attrib">
+      <memberdef kind="variable" id="classcrc64720bb2db43a66fe9_1_1_tabbed_page_renderer_1ab185f325292fe801cfc12d0536e6ccee" prot="private" static="no" mutable="no">
+        <type>java.util.ArrayList</type>
+        <definition>java util ArrayList crc64720bb2db43a66fe9.TabbedPageRenderer::refList</definition>
+        <argsstring></argsstring>
+        <name>refList</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/100/android/src/crc64720bb2db43a66fe9/TabbedPageRenderer.java" line="134" column="27" bodyfile="Application Green Quake.Android/obj/Debug/100/android/src/crc64720bb2db43a66fe9/TabbedPageRenderer.java" bodystart="134" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="package-static-func">
+      <memberdef kind="function" id="classcrc64720bb2db43a66fe9_1_1_tabbed_page_renderer_1a99fa164a1ec2463d33929b438cd47204" prot="package" static="yes" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>crc64720bb2db43a66fe9.TabbedPageRenderer.[static initializer]</definition>
+        <argsstring></argsstring>
+        <name>[static initializer]</name>
+        <reimplements refid="classcrc643f46942d9dd1fff9_1_1_visual_element_renderer__1_1ae934805547d21166e74b27d7675e7e30">[static initializer]</reimplements>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/100/android/src/crc64720bb2db43a66fe9/TabbedPageRenderer.java" line="13" column="28"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc64720bb2db43a66fe9_1_1_tabbed_page_renderer_1a99fa164a1ec2463d33929b438cd47204" prot="package" static="yes" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>crc64720bb2db43a66fe9.TabbedPageRenderer.[static initializer]</definition>
+        <argsstring></argsstring>
+        <name>[static initializer]</name>
+        <reimplements refid="classcrc643f46942d9dd1fff9_1_1_visual_element_renderer__1_1ae934805547d21166e74b27d7675e7e30">[static initializer]</reimplements>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/110/android/src/crc64720bb2db43a66fe9/TabbedPageRenderer.java" line="13" column="28"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc64720bb2db43a66fe9_1_1_tabbed_page_renderer_1a99fa164a1ec2463d33929b438cd47204" prot="package" static="yes" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>crc64720bb2db43a66fe9.TabbedPageRenderer.[static initializer]</definition>
+        <argsstring></argsstring>
+        <name>[static initializer]</name>
+        <reimplements refid="classcrc643f46942d9dd1fff9_1_1_visual_element_renderer__1_1ae934805547d21166e74b27d7675e7e30">[static initializer]</reimplements>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/100/android/src/crc64720bb2db43a66fe9/TabbedPageRenderer.java" line="13" column="28"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc64720bb2db43a66fe9_1_1_tabbed_page_renderer_1a99fa164a1ec2463d33929b438cd47204" prot="package" static="yes" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>crc64720bb2db43a66fe9.TabbedPageRenderer.[static initializer]</definition>
+        <argsstring></argsstring>
+        <name>[static initializer]</name>
+        <reimplements refid="classcrc643f46942d9dd1fff9_1_1_visual_element_renderer__1_1ae934805547d21166e74b27d7675e7e30">[static initializer]</reimplements>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/110/android/src/crc64720bb2db43a66fe9/TabbedPageRenderer.java" line="13" column="28"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="public-func">
+      <memberdef kind="function" id="classcrc64720bb2db43a66fe9_1_1_tabbed_page_renderer_1a664276842758c4e6c7446b52fcbb97ad" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>crc64720bb2db43a66fe9.TabbedPageRenderer.TabbedPageRenderer</definition>
+        <argsstring>(android.content.Context p0, android.util.AttributeSet p1, int p2)</argsstring>
+        <name>TabbedPageRenderer</name>
+        <param>
+          <type>android.content.Context</type>
+          <declname>p0</declname>
+        </param>
+        <param>
+          <type>android.util.AttributeSet</type>
+          <declname>p1</declname>
+        </param>
+        <param>
+          <type>int</type>
+          <declname>p2</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/100/android/src/crc64720bb2db43a66fe9/TabbedPageRenderer.java" line="31" column="8" bodyfile="Application Green Quake.Android/obj/Debug/100/android/src/crc64720bb2db43a66fe9/TabbedPageRenderer.java" bodystart="31" bodyend="36"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc64720bb2db43a66fe9_1_1_tabbed_page_renderer_1ae02184f3b9be1a0323a9528ed66df91e" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>crc64720bb2db43a66fe9.TabbedPageRenderer.TabbedPageRenderer</definition>
+        <argsstring>(android.content.Context p0, android.util.AttributeSet p1)</argsstring>
+        <name>TabbedPageRenderer</name>
+        <param>
+          <type>android.content.Context</type>
+          <declname>p0</declname>
+        </param>
+        <param>
+          <type>android.util.AttributeSet</type>
+          <declname>p1</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/100/android/src/crc64720bb2db43a66fe9/TabbedPageRenderer.java" line="39" column="8" bodyfile="Application Green Quake.Android/obj/Debug/100/android/src/crc64720bb2db43a66fe9/TabbedPageRenderer.java" bodystart="39" bodyend="44"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc64720bb2db43a66fe9_1_1_tabbed_page_renderer_1ade913d75ee45e8fe14569265fcb43b7f" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>crc64720bb2db43a66fe9.TabbedPageRenderer.TabbedPageRenderer</definition>
+        <argsstring>(android.content.Context p0)</argsstring>
+        <name>TabbedPageRenderer</name>
+        <param>
+          <type>android.content.Context</type>
+          <declname>p0</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/100/android/src/crc64720bb2db43a66fe9/TabbedPageRenderer.java" line="47" column="8" bodyfile="Application Green Quake.Android/obj/Debug/100/android/src/crc64720bb2db43a66fe9/TabbedPageRenderer.java" bodystart="47" bodyend="52"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc64720bb2db43a66fe9_1_1_tabbed_page_renderer_1a928e7a0616a657303419c6479e3e9c50" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void crc64720bb2db43a66fe9.TabbedPageRenderer.onAttachedToWindow</definition>
+        <argsstring>()</argsstring>
+        <name>onAttachedToWindow</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/100/android/src/crc64720bb2db43a66fe9/TabbedPageRenderer.java" line="55" column="13" bodyfile="Application Green Quake.Android/obj/Debug/100/android/src/crc64720bb2db43a66fe9/TabbedPageRenderer.java" bodystart="55" bodyend="58"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc64720bb2db43a66fe9_1_1_tabbed_page_renderer_1af6de6508cbbb1b2c0443c7987efa9a4d" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void crc64720bb2db43a66fe9.TabbedPageRenderer.onDetachedFromWindow</definition>
+        <argsstring>()</argsstring>
+        <name>onDetachedFromWindow</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/100/android/src/crc64720bb2db43a66fe9/TabbedPageRenderer.java" line="63" column="13" bodyfile="Application Green Quake.Android/obj/Debug/100/android/src/crc64720bb2db43a66fe9/TabbedPageRenderer.java" bodystart="63" bodyend="66"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc64720bb2db43a66fe9_1_1_tabbed_page_renderer_1a63c01f50cc65fa61b046ff2c9f59d8c1" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void crc64720bb2db43a66fe9.TabbedPageRenderer.onLayout</definition>
+        <argsstring>(boolean p0, int p1, int p2, int p3, int p4)</argsstring>
+        <name>onLayout</name>
+        <reimplements refid="classcrc643f46942d9dd1fff9_1_1_visual_element_renderer__1_1aa5204816e51aaac32d4cdf6fab1de3e0">onLayout</reimplements>
+        <param>
+          <type>boolean</type>
+          <declname>p0</declname>
+        </param>
+        <param>
+          <type>int</type>
+          <declname>p1</declname>
+        </param>
+        <param>
+          <type>int</type>
+          <declname>p2</declname>
+        </param>
+        <param>
+          <type>int</type>
+          <declname>p3</declname>
+        </param>
+        <param>
+          <type>int</type>
+          <declname>p4</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/100/android/src/crc64720bb2db43a66fe9/TabbedPageRenderer.java" line="71" column="13" bodyfile="Application Green Quake.Android/obj/Debug/100/android/src/crc64720bb2db43a66fe9/TabbedPageRenderer.java" bodystart="71" bodyend="74"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc64720bb2db43a66fe9_1_1_tabbed_page_renderer_1ada5efbeaa4e1e3c8d89200d661e2a312" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void crc64720bb2db43a66fe9.TabbedPageRenderer.onTabReselected</definition>
+        <argsstring>(com.google.android.material.tabs.TabLayout.Tab p0)</argsstring>
+        <name>onTabReselected</name>
+        <param>
+          <type>com.google.android.material.tabs.TabLayout.Tab</type>
+          <declname>p0</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/100/android/src/crc64720bb2db43a66fe9/TabbedPageRenderer.java" line="79" column="13" bodyfile="Application Green Quake.Android/obj/Debug/100/android/src/crc64720bb2db43a66fe9/TabbedPageRenderer.java" bodystart="79" bodyend="82"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc64720bb2db43a66fe9_1_1_tabbed_page_renderer_1a9572c88157b208bee520f76625c9a6d4" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void crc64720bb2db43a66fe9.TabbedPageRenderer.onTabSelected</definition>
+        <argsstring>(com.google.android.material.tabs.TabLayout.Tab p0)</argsstring>
+        <name>onTabSelected</name>
+        <param>
+          <type>com.google.android.material.tabs.TabLayout.Tab</type>
+          <declname>p0</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/100/android/src/crc64720bb2db43a66fe9/TabbedPageRenderer.java" line="87" column="13" bodyfile="Application Green Quake.Android/obj/Debug/100/android/src/crc64720bb2db43a66fe9/TabbedPageRenderer.java" bodystart="87" bodyend="90"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc64720bb2db43a66fe9_1_1_tabbed_page_renderer_1ac28bf71e2bf0a7e0059a43bce8f3e131" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void crc64720bb2db43a66fe9.TabbedPageRenderer.onTabUnselected</definition>
+        <argsstring>(com.google.android.material.tabs.TabLayout.Tab p0)</argsstring>
+        <name>onTabUnselected</name>
+        <param>
+          <type>com.google.android.material.tabs.TabLayout.Tab</type>
+          <declname>p0</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/100/android/src/crc64720bb2db43a66fe9/TabbedPageRenderer.java" line="95" column="13" bodyfile="Application Green Quake.Android/obj/Debug/100/android/src/crc64720bb2db43a66fe9/TabbedPageRenderer.java" bodystart="95" bodyend="98"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc64720bb2db43a66fe9_1_1_tabbed_page_renderer_1acaddf07bd007a125c81cb8fd12e6a683" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void crc64720bb2db43a66fe9.TabbedPageRenderer.onPageScrollStateChanged</definition>
+        <argsstring>(int p0)</argsstring>
+        <name>onPageScrollStateChanged</name>
+        <param>
+          <type>int</type>
+          <declname>p0</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/100/android/src/crc64720bb2db43a66fe9/TabbedPageRenderer.java" line="103" column="13" bodyfile="Application Green Quake.Android/obj/Debug/100/android/src/crc64720bb2db43a66fe9/TabbedPageRenderer.java" bodystart="103" bodyend="106"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc64720bb2db43a66fe9_1_1_tabbed_page_renderer_1a158f69d373c890461b1569deb2dc74ac" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void crc64720bb2db43a66fe9.TabbedPageRenderer.onPageScrolled</definition>
+        <argsstring>(int p0, float p1, int p2)</argsstring>
+        <name>onPageScrolled</name>
+        <param>
+          <type>int</type>
+          <declname>p0</declname>
+        </param>
+        <param>
+          <type>float</type>
+          <declname>p1</declname>
+        </param>
+        <param>
+          <type>int</type>
+          <declname>p2</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/100/android/src/crc64720bb2db43a66fe9/TabbedPageRenderer.java" line="111" column="13" bodyfile="Application Green Quake.Android/obj/Debug/100/android/src/crc64720bb2db43a66fe9/TabbedPageRenderer.java" bodystart="111" bodyend="114"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc64720bb2db43a66fe9_1_1_tabbed_page_renderer_1aaff34a617a2e1b8939c0da77b4771423" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void crc64720bb2db43a66fe9.TabbedPageRenderer.onPageSelected</definition>
+        <argsstring>(int p0)</argsstring>
+        <name>onPageSelected</name>
+        <param>
+          <type>int</type>
+          <declname>p0</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/100/android/src/crc64720bb2db43a66fe9/TabbedPageRenderer.java" line="119" column="13" bodyfile="Application Green Quake.Android/obj/Debug/100/android/src/crc64720bb2db43a66fe9/TabbedPageRenderer.java" bodystart="119" bodyend="122"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc64720bb2db43a66fe9_1_1_tabbed_page_renderer_1a68f00af2c9c1ad08064276155f70baf0" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>boolean</type>
+        <definition>boolean crc64720bb2db43a66fe9.TabbedPageRenderer.onNavigationItemSelected</definition>
+        <argsstring>(android.view.MenuItem p0)</argsstring>
+        <name>onNavigationItemSelected</name>
+        <param>
+          <type>android.view.MenuItem</type>
+          <declname>p0</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/100/android/src/crc64720bb2db43a66fe9/TabbedPageRenderer.java" line="127" column="16" bodyfile="Application Green Quake.Android/obj/Debug/100/android/src/crc64720bb2db43a66fe9/TabbedPageRenderer.java" bodystart="127" bodyend="130"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc64720bb2db43a66fe9_1_1_tabbed_page_renderer_1a134cd9e1e6958df90651613140f2a319" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void crc64720bb2db43a66fe9.TabbedPageRenderer.monodroidAddReference</definition>
+        <argsstring>(java.lang.Object obj)</argsstring>
+        <name>monodroidAddReference</name>
+        <reimplements refid="classcrc643f46942d9dd1fff9_1_1_visual_element_renderer__1_1a1cfa1f5b3b23ed1754ba77b59d95e5f8">monodroidAddReference</reimplements>
+        <param>
+          <type>java.lang.Object</type>
+          <declname>obj</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/100/android/src/crc64720bb2db43a66fe9/TabbedPageRenderer.java" line="135" column="13" bodyfile="Application Green Quake.Android/obj/Debug/100/android/src/crc64720bb2db43a66fe9/TabbedPageRenderer.java" bodystart="135" bodyend="140"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc64720bb2db43a66fe9_1_1_tabbed_page_renderer_1a141f8d8527902a23b9fabe597edfae9c" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void crc64720bb2db43a66fe9.TabbedPageRenderer.monodroidClearReferences</definition>
+        <argsstring>()</argsstring>
+        <name>monodroidClearReferences</name>
+        <reimplements refid="classcrc643f46942d9dd1fff9_1_1_visual_element_renderer__1_1a1706e0a91234547c4c20637dce966b11">monodroidClearReferences</reimplements>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/100/android/src/crc64720bb2db43a66fe9/TabbedPageRenderer.java" line="142" column="13" bodyfile="Application Green Quake.Android/obj/Debug/100/android/src/crc64720bb2db43a66fe9/TabbedPageRenderer.java" bodystart="142" bodyend="146"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc64720bb2db43a66fe9_1_1_tabbed_page_renderer_1a664276842758c4e6c7446b52fcbb97ad" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>crc64720bb2db43a66fe9.TabbedPageRenderer.TabbedPageRenderer</definition>
+        <argsstring>(android.content.Context p0, android.util.AttributeSet p1, int p2)</argsstring>
+        <name>TabbedPageRenderer</name>
+        <param>
+          <type>android.content.Context</type>
+          <declname>p0</declname>
+        </param>
+        <param>
+          <type>android.util.AttributeSet</type>
+          <declname>p1</declname>
+        </param>
+        <param>
+          <type>int</type>
+          <declname>p2</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/110/android/src/crc64720bb2db43a66fe9/TabbedPageRenderer.java" line="31" column="8" bodyfile="Application Green Quake.Android/obj/Debug/110/android/src/crc64720bb2db43a66fe9/TabbedPageRenderer.java" bodystart="31" bodyend="36"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc64720bb2db43a66fe9_1_1_tabbed_page_renderer_1ae02184f3b9be1a0323a9528ed66df91e" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>crc64720bb2db43a66fe9.TabbedPageRenderer.TabbedPageRenderer</definition>
+        <argsstring>(android.content.Context p0, android.util.AttributeSet p1)</argsstring>
+        <name>TabbedPageRenderer</name>
+        <param>
+          <type>android.content.Context</type>
+          <declname>p0</declname>
+        </param>
+        <param>
+          <type>android.util.AttributeSet</type>
+          <declname>p1</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/110/android/src/crc64720bb2db43a66fe9/TabbedPageRenderer.java" line="39" column="8" bodyfile="Application Green Quake.Android/obj/Debug/110/android/src/crc64720bb2db43a66fe9/TabbedPageRenderer.java" bodystart="39" bodyend="44"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc64720bb2db43a66fe9_1_1_tabbed_page_renderer_1ade913d75ee45e8fe14569265fcb43b7f" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>crc64720bb2db43a66fe9.TabbedPageRenderer.TabbedPageRenderer</definition>
+        <argsstring>(android.content.Context p0)</argsstring>
+        <name>TabbedPageRenderer</name>
+        <param>
+          <type>android.content.Context</type>
+          <declname>p0</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/110/android/src/crc64720bb2db43a66fe9/TabbedPageRenderer.java" line="47" column="8" bodyfile="Application Green Quake.Android/obj/Debug/110/android/src/crc64720bb2db43a66fe9/TabbedPageRenderer.java" bodystart="47" bodyend="52"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc64720bb2db43a66fe9_1_1_tabbed_page_renderer_1a928e7a0616a657303419c6479e3e9c50" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void crc64720bb2db43a66fe9.TabbedPageRenderer.onAttachedToWindow</definition>
+        <argsstring>()</argsstring>
+        <name>onAttachedToWindow</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/110/android/src/crc64720bb2db43a66fe9/TabbedPageRenderer.java" line="55" column="13" bodyfile="Application Green Quake.Android/obj/Debug/110/android/src/crc64720bb2db43a66fe9/TabbedPageRenderer.java" bodystart="55" bodyend="58"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc64720bb2db43a66fe9_1_1_tabbed_page_renderer_1af6de6508cbbb1b2c0443c7987efa9a4d" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void crc64720bb2db43a66fe9.TabbedPageRenderer.onDetachedFromWindow</definition>
+        <argsstring>()</argsstring>
+        <name>onDetachedFromWindow</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/110/android/src/crc64720bb2db43a66fe9/TabbedPageRenderer.java" line="63" column="13" bodyfile="Application Green Quake.Android/obj/Debug/110/android/src/crc64720bb2db43a66fe9/TabbedPageRenderer.java" bodystart="63" bodyend="66"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc64720bb2db43a66fe9_1_1_tabbed_page_renderer_1a63c01f50cc65fa61b046ff2c9f59d8c1" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void crc64720bb2db43a66fe9.TabbedPageRenderer.onLayout</definition>
+        <argsstring>(boolean p0, int p1, int p2, int p3, int p4)</argsstring>
+        <name>onLayout</name>
+        <reimplements refid="classcrc643f46942d9dd1fff9_1_1_visual_element_renderer__1_1aa5204816e51aaac32d4cdf6fab1de3e0">onLayout</reimplements>
+        <param>
+          <type>boolean</type>
+          <declname>p0</declname>
+        </param>
+        <param>
+          <type>int</type>
+          <declname>p1</declname>
+        </param>
+        <param>
+          <type>int</type>
+          <declname>p2</declname>
+        </param>
+        <param>
+          <type>int</type>
+          <declname>p3</declname>
+        </param>
+        <param>
+          <type>int</type>
+          <declname>p4</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/110/android/src/crc64720bb2db43a66fe9/TabbedPageRenderer.java" line="71" column="13" bodyfile="Application Green Quake.Android/obj/Debug/110/android/src/crc64720bb2db43a66fe9/TabbedPageRenderer.java" bodystart="71" bodyend="74"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc64720bb2db43a66fe9_1_1_tabbed_page_renderer_1ada5efbeaa4e1e3c8d89200d661e2a312" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void crc64720bb2db43a66fe9.TabbedPageRenderer.onTabReselected</definition>
+        <argsstring>(com.google.android.material.tabs.TabLayout.Tab p0)</argsstring>
+        <name>onTabReselected</name>
+        <param>
+          <type>com.google.android.material.tabs.TabLayout.Tab</type>
+          <declname>p0</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/110/android/src/crc64720bb2db43a66fe9/TabbedPageRenderer.java" line="79" column="13" bodyfile="Application Green Quake.Android/obj/Debug/110/android/src/crc64720bb2db43a66fe9/TabbedPageRenderer.java" bodystart="79" bodyend="82"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc64720bb2db43a66fe9_1_1_tabbed_page_renderer_1a9572c88157b208bee520f76625c9a6d4" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void crc64720bb2db43a66fe9.TabbedPageRenderer.onTabSelected</definition>
+        <argsstring>(com.google.android.material.tabs.TabLayout.Tab p0)</argsstring>
+        <name>onTabSelected</name>
+        <param>
+          <type>com.google.android.material.tabs.TabLayout.Tab</type>
+          <declname>p0</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/110/android/src/crc64720bb2db43a66fe9/TabbedPageRenderer.java" line="87" column="13" bodyfile="Application Green Quake.Android/obj/Debug/110/android/src/crc64720bb2db43a66fe9/TabbedPageRenderer.java" bodystart="87" bodyend="90"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc64720bb2db43a66fe9_1_1_tabbed_page_renderer_1ac28bf71e2bf0a7e0059a43bce8f3e131" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void crc64720bb2db43a66fe9.TabbedPageRenderer.onTabUnselected</definition>
+        <argsstring>(com.google.android.material.tabs.TabLayout.Tab p0)</argsstring>
+        <name>onTabUnselected</name>
+        <param>
+          <type>com.google.android.material.tabs.TabLayout.Tab</type>
+          <declname>p0</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/110/android/src/crc64720bb2db43a66fe9/TabbedPageRenderer.java" line="95" column="13" bodyfile="Application Green Quake.Android/obj/Debug/110/android/src/crc64720bb2db43a66fe9/TabbedPageRenderer.java" bodystart="95" bodyend="98"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc64720bb2db43a66fe9_1_1_tabbed_page_renderer_1acaddf07bd007a125c81cb8fd12e6a683" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void crc64720bb2db43a66fe9.TabbedPageRenderer.onPageScrollStateChanged</definition>
+        <argsstring>(int p0)</argsstring>
+        <name>onPageScrollStateChanged</name>
+        <param>
+          <type>int</type>
+          <declname>p0</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/110/android/src/crc64720bb2db43a66fe9/TabbedPageRenderer.java" line="103" column="13" bodyfile="Application Green Quake.Android/obj/Debug/110/android/src/crc64720bb2db43a66fe9/TabbedPageRenderer.java" bodystart="103" bodyend="106"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc64720bb2db43a66fe9_1_1_tabbed_page_renderer_1a158f69d373c890461b1569deb2dc74ac" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void crc64720bb2db43a66fe9.TabbedPageRenderer.onPageScrolled</definition>
+        <argsstring>(int p0, float p1, int p2)</argsstring>
+        <name>onPageScrolled</name>
+        <param>
+          <type>int</type>
+          <declname>p0</declname>
+        </param>
+        <param>
+          <type>float</type>
+          <declname>p1</declname>
+        </param>
+        <param>
+          <type>int</type>
+          <declname>p2</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/110/android/src/crc64720bb2db43a66fe9/TabbedPageRenderer.java" line="111" column="13" bodyfile="Application Green Quake.Android/obj/Debug/110/android/src/crc64720bb2db43a66fe9/TabbedPageRenderer.java" bodystart="111" bodyend="114"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc64720bb2db43a66fe9_1_1_tabbed_page_renderer_1aaff34a617a2e1b8939c0da77b4771423" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void crc64720bb2db43a66fe9.TabbedPageRenderer.onPageSelected</definition>
+        <argsstring>(int p0)</argsstring>
+        <name>onPageSelected</name>
+        <param>
+          <type>int</type>
+          <declname>p0</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/110/android/src/crc64720bb2db43a66fe9/TabbedPageRenderer.java" line="119" column="13" bodyfile="Application Green Quake.Android/obj/Debug/110/android/src/crc64720bb2db43a66fe9/TabbedPageRenderer.java" bodystart="119" bodyend="122"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc64720bb2db43a66fe9_1_1_tabbed_page_renderer_1a68f00af2c9c1ad08064276155f70baf0" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>boolean</type>
+        <definition>boolean crc64720bb2db43a66fe9.TabbedPageRenderer.onNavigationItemSelected</definition>
+        <argsstring>(android.view.MenuItem p0)</argsstring>
+        <name>onNavigationItemSelected</name>
+        <param>
+          <type>android.view.MenuItem</type>
+          <declname>p0</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/110/android/src/crc64720bb2db43a66fe9/TabbedPageRenderer.java" line="127" column="16" bodyfile="Application Green Quake.Android/obj/Debug/110/android/src/crc64720bb2db43a66fe9/TabbedPageRenderer.java" bodystart="127" bodyend="130"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc64720bb2db43a66fe9_1_1_tabbed_page_renderer_1a134cd9e1e6958df90651613140f2a319" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void crc64720bb2db43a66fe9.TabbedPageRenderer.monodroidAddReference</definition>
+        <argsstring>(java.lang.Object obj)</argsstring>
+        <name>monodroidAddReference</name>
+        <reimplements refid="classcrc643f46942d9dd1fff9_1_1_visual_element_renderer__1_1a1cfa1f5b3b23ed1754ba77b59d95e5f8">monodroidAddReference</reimplements>
+        <param>
+          <type>java.lang.Object</type>
+          <declname>obj</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/110/android/src/crc64720bb2db43a66fe9/TabbedPageRenderer.java" line="135" column="13" bodyfile="Application Green Quake.Android/obj/Debug/110/android/src/crc64720bb2db43a66fe9/TabbedPageRenderer.java" bodystart="135" bodyend="140"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc64720bb2db43a66fe9_1_1_tabbed_page_renderer_1a141f8d8527902a23b9fabe597edfae9c" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void crc64720bb2db43a66fe9.TabbedPageRenderer.monodroidClearReferences</definition>
+        <argsstring>()</argsstring>
+        <name>monodroidClearReferences</name>
+        <reimplements refid="classcrc643f46942d9dd1fff9_1_1_visual_element_renderer__1_1a1706e0a91234547c4c20637dce966b11">monodroidClearReferences</reimplements>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/110/android/src/crc64720bb2db43a66fe9/TabbedPageRenderer.java" line="142" column="13" bodyfile="Application Green Quake.Android/obj/Debug/110/android/src/crc64720bb2db43a66fe9/TabbedPageRenderer.java" bodystart="142" bodyend="146"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc64720bb2db43a66fe9_1_1_tabbed_page_renderer_1a664276842758c4e6c7446b52fcbb97ad" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>crc64720bb2db43a66fe9.TabbedPageRenderer.TabbedPageRenderer</definition>
+        <argsstring>(android.content.Context p0, android.util.AttributeSet p1, int p2)</argsstring>
+        <name>TabbedPageRenderer</name>
+        <param>
+          <type>android.content.Context</type>
+          <declname>p0</declname>
+        </param>
+        <param>
+          <type>android.util.AttributeSet</type>
+          <declname>p1</declname>
+        </param>
+        <param>
+          <type>int</type>
+          <declname>p2</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/100/android/src/crc64720bb2db43a66fe9/TabbedPageRenderer.java" line="31" column="8" bodyfile="Application Green Quake.Android/obj/Release/100/android/src/crc64720bb2db43a66fe9/TabbedPageRenderer.java" bodystart="31" bodyend="36"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc64720bb2db43a66fe9_1_1_tabbed_page_renderer_1ae02184f3b9be1a0323a9528ed66df91e" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>crc64720bb2db43a66fe9.TabbedPageRenderer.TabbedPageRenderer</definition>
+        <argsstring>(android.content.Context p0, android.util.AttributeSet p1)</argsstring>
+        <name>TabbedPageRenderer</name>
+        <param>
+          <type>android.content.Context</type>
+          <declname>p0</declname>
+        </param>
+        <param>
+          <type>android.util.AttributeSet</type>
+          <declname>p1</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/100/android/src/crc64720bb2db43a66fe9/TabbedPageRenderer.java" line="39" column="8" bodyfile="Application Green Quake.Android/obj/Release/100/android/src/crc64720bb2db43a66fe9/TabbedPageRenderer.java" bodystart="39" bodyend="44"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc64720bb2db43a66fe9_1_1_tabbed_page_renderer_1ade913d75ee45e8fe14569265fcb43b7f" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>crc64720bb2db43a66fe9.TabbedPageRenderer.TabbedPageRenderer</definition>
+        <argsstring>(android.content.Context p0)</argsstring>
+        <name>TabbedPageRenderer</name>
+        <param>
+          <type>android.content.Context</type>
+          <declname>p0</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/100/android/src/crc64720bb2db43a66fe9/TabbedPageRenderer.java" line="47" column="8" bodyfile="Application Green Quake.Android/obj/Release/100/android/src/crc64720bb2db43a66fe9/TabbedPageRenderer.java" bodystart="47" bodyend="52"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc64720bb2db43a66fe9_1_1_tabbed_page_renderer_1a928e7a0616a657303419c6479e3e9c50" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void crc64720bb2db43a66fe9.TabbedPageRenderer.onAttachedToWindow</definition>
+        <argsstring>()</argsstring>
+        <name>onAttachedToWindow</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/100/android/src/crc64720bb2db43a66fe9/TabbedPageRenderer.java" line="55" column="13" bodyfile="Application Green Quake.Android/obj/Release/100/android/src/crc64720bb2db43a66fe9/TabbedPageRenderer.java" bodystart="55" bodyend="58"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc64720bb2db43a66fe9_1_1_tabbed_page_renderer_1af6de6508cbbb1b2c0443c7987efa9a4d" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void crc64720bb2db43a66fe9.TabbedPageRenderer.onDetachedFromWindow</definition>
+        <argsstring>()</argsstring>
+        <name>onDetachedFromWindow</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/100/android/src/crc64720bb2db43a66fe9/TabbedPageRenderer.java" line="63" column="13" bodyfile="Application Green Quake.Android/obj/Release/100/android/src/crc64720bb2db43a66fe9/TabbedPageRenderer.java" bodystart="63" bodyend="66"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc64720bb2db43a66fe9_1_1_tabbed_page_renderer_1a63c01f50cc65fa61b046ff2c9f59d8c1" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void crc64720bb2db43a66fe9.TabbedPageRenderer.onLayout</definition>
+        <argsstring>(boolean p0, int p1, int p2, int p3, int p4)</argsstring>
+        <name>onLayout</name>
+        <reimplements refid="classcrc643f46942d9dd1fff9_1_1_visual_element_renderer__1_1aa5204816e51aaac32d4cdf6fab1de3e0">onLayout</reimplements>
+        <param>
+          <type>boolean</type>
+          <declname>p0</declname>
+        </param>
+        <param>
+          <type>int</type>
+          <declname>p1</declname>
+        </param>
+        <param>
+          <type>int</type>
+          <declname>p2</declname>
+        </param>
+        <param>
+          <type>int</type>
+          <declname>p3</declname>
+        </param>
+        <param>
+          <type>int</type>
+          <declname>p4</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/100/android/src/crc64720bb2db43a66fe9/TabbedPageRenderer.java" line="71" column="13" bodyfile="Application Green Quake.Android/obj/Release/100/android/src/crc64720bb2db43a66fe9/TabbedPageRenderer.java" bodystart="71" bodyend="74"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc64720bb2db43a66fe9_1_1_tabbed_page_renderer_1ada5efbeaa4e1e3c8d89200d661e2a312" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void crc64720bb2db43a66fe9.TabbedPageRenderer.onTabReselected</definition>
+        <argsstring>(com.google.android.material.tabs.TabLayout.Tab p0)</argsstring>
+        <name>onTabReselected</name>
+        <param>
+          <type>com.google.android.material.tabs.TabLayout.Tab</type>
+          <declname>p0</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/100/android/src/crc64720bb2db43a66fe9/TabbedPageRenderer.java" line="79" column="13" bodyfile="Application Green Quake.Android/obj/Release/100/android/src/crc64720bb2db43a66fe9/TabbedPageRenderer.java" bodystart="79" bodyend="82"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc64720bb2db43a66fe9_1_1_tabbed_page_renderer_1a9572c88157b208bee520f76625c9a6d4" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void crc64720bb2db43a66fe9.TabbedPageRenderer.onTabSelected</definition>
+        <argsstring>(com.google.android.material.tabs.TabLayout.Tab p0)</argsstring>
+        <name>onTabSelected</name>
+        <param>
+          <type>com.google.android.material.tabs.TabLayout.Tab</type>
+          <declname>p0</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/100/android/src/crc64720bb2db43a66fe9/TabbedPageRenderer.java" line="87" column="13" bodyfile="Application Green Quake.Android/obj/Release/100/android/src/crc64720bb2db43a66fe9/TabbedPageRenderer.java" bodystart="87" bodyend="90"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc64720bb2db43a66fe9_1_1_tabbed_page_renderer_1ac28bf71e2bf0a7e0059a43bce8f3e131" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void crc64720bb2db43a66fe9.TabbedPageRenderer.onTabUnselected</definition>
+        <argsstring>(com.google.android.material.tabs.TabLayout.Tab p0)</argsstring>
+        <name>onTabUnselected</name>
+        <param>
+          <type>com.google.android.material.tabs.TabLayout.Tab</type>
+          <declname>p0</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/100/android/src/crc64720bb2db43a66fe9/TabbedPageRenderer.java" line="95" column="13" bodyfile="Application Green Quake.Android/obj/Release/100/android/src/crc64720bb2db43a66fe9/TabbedPageRenderer.java" bodystart="95" bodyend="98"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc64720bb2db43a66fe9_1_1_tabbed_page_renderer_1acaddf07bd007a125c81cb8fd12e6a683" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void crc64720bb2db43a66fe9.TabbedPageRenderer.onPageScrollStateChanged</definition>
+        <argsstring>(int p0)</argsstring>
+        <name>onPageScrollStateChanged</name>
+        <param>
+          <type>int</type>
+          <declname>p0</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/100/android/src/crc64720bb2db43a66fe9/TabbedPageRenderer.java" line="103" column="13" bodyfile="Application Green Quake.Android/obj/Release/100/android/src/crc64720bb2db43a66fe9/TabbedPageRenderer.java" bodystart="103" bodyend="106"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc64720bb2db43a66fe9_1_1_tabbed_page_renderer_1a158f69d373c890461b1569deb2dc74ac" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void crc64720bb2db43a66fe9.TabbedPageRenderer.onPageScrolled</definition>
+        <argsstring>(int p0, float p1, int p2)</argsstring>
+        <name>onPageScrolled</name>
+        <param>
+          <type>int</type>
+          <declname>p0</declname>
+        </param>
+        <param>
+          <type>float</type>
+          <declname>p1</declname>
+        </param>
+        <param>
+          <type>int</type>
+          <declname>p2</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/100/android/src/crc64720bb2db43a66fe9/TabbedPageRenderer.java" line="111" column="13" bodyfile="Application Green Quake.Android/obj/Release/100/android/src/crc64720bb2db43a66fe9/TabbedPageRenderer.java" bodystart="111" bodyend="114"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc64720bb2db43a66fe9_1_1_tabbed_page_renderer_1aaff34a617a2e1b8939c0da77b4771423" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void crc64720bb2db43a66fe9.TabbedPageRenderer.onPageSelected</definition>
+        <argsstring>(int p0)</argsstring>
+        <name>onPageSelected</name>
+        <param>
+          <type>int</type>
+          <declname>p0</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/100/android/src/crc64720bb2db43a66fe9/TabbedPageRenderer.java" line="119" column="13" bodyfile="Application Green Quake.Android/obj/Release/100/android/src/crc64720bb2db43a66fe9/TabbedPageRenderer.java" bodystart="119" bodyend="122"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc64720bb2db43a66fe9_1_1_tabbed_page_renderer_1a68f00af2c9c1ad08064276155f70baf0" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>boolean</type>
+        <definition>boolean crc64720bb2db43a66fe9.TabbedPageRenderer.onNavigationItemSelected</definition>
+        <argsstring>(android.view.MenuItem p0)</argsstring>
+        <name>onNavigationItemSelected</name>
+        <param>
+          <type>android.view.MenuItem</type>
+          <declname>p0</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/100/android/src/crc64720bb2db43a66fe9/TabbedPageRenderer.java" line="127" column="16" bodyfile="Application Green Quake.Android/obj/Release/100/android/src/crc64720bb2db43a66fe9/TabbedPageRenderer.java" bodystart="127" bodyend="130"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc64720bb2db43a66fe9_1_1_tabbed_page_renderer_1a134cd9e1e6958df90651613140f2a319" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void crc64720bb2db43a66fe9.TabbedPageRenderer.monodroidAddReference</definition>
+        <argsstring>(java.lang.Object obj)</argsstring>
+        <name>monodroidAddReference</name>
+        <reimplements refid="classcrc643f46942d9dd1fff9_1_1_visual_element_renderer__1_1a1cfa1f5b3b23ed1754ba77b59d95e5f8">monodroidAddReference</reimplements>
+        <param>
+          <type>java.lang.Object</type>
+          <declname>obj</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/100/android/src/crc64720bb2db43a66fe9/TabbedPageRenderer.java" line="135" column="13" bodyfile="Application Green Quake.Android/obj/Release/100/android/src/crc64720bb2db43a66fe9/TabbedPageRenderer.java" bodystart="135" bodyend="140"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc64720bb2db43a66fe9_1_1_tabbed_page_renderer_1a141f8d8527902a23b9fabe597edfae9c" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void crc64720bb2db43a66fe9.TabbedPageRenderer.monodroidClearReferences</definition>
+        <argsstring>()</argsstring>
+        <name>monodroidClearReferences</name>
+        <reimplements refid="classcrc643f46942d9dd1fff9_1_1_visual_element_renderer__1_1a1706e0a91234547c4c20637dce966b11">monodroidClearReferences</reimplements>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/100/android/src/crc64720bb2db43a66fe9/TabbedPageRenderer.java" line="142" column="13" bodyfile="Application Green Quake.Android/obj/Release/100/android/src/crc64720bb2db43a66fe9/TabbedPageRenderer.java" bodystart="142" bodyend="146"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc64720bb2db43a66fe9_1_1_tabbed_page_renderer_1a664276842758c4e6c7446b52fcbb97ad" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>crc64720bb2db43a66fe9.TabbedPageRenderer.TabbedPageRenderer</definition>
+        <argsstring>(android.content.Context p0, android.util.AttributeSet p1, int p2)</argsstring>
+        <name>TabbedPageRenderer</name>
+        <param>
+          <type>android.content.Context</type>
+          <declname>p0</declname>
+        </param>
+        <param>
+          <type>android.util.AttributeSet</type>
+          <declname>p1</declname>
+        </param>
+        <param>
+          <type>int</type>
+          <declname>p2</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/110/android/src/crc64720bb2db43a66fe9/TabbedPageRenderer.java" line="31" column="8" bodyfile="Application Green Quake.Android/obj/Release/110/android/src/crc64720bb2db43a66fe9/TabbedPageRenderer.java" bodystart="31" bodyend="36"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc64720bb2db43a66fe9_1_1_tabbed_page_renderer_1ae02184f3b9be1a0323a9528ed66df91e" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>crc64720bb2db43a66fe9.TabbedPageRenderer.TabbedPageRenderer</definition>
+        <argsstring>(android.content.Context p0, android.util.AttributeSet p1)</argsstring>
+        <name>TabbedPageRenderer</name>
+        <param>
+          <type>android.content.Context</type>
+          <declname>p0</declname>
+        </param>
+        <param>
+          <type>android.util.AttributeSet</type>
+          <declname>p1</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/110/android/src/crc64720bb2db43a66fe9/TabbedPageRenderer.java" line="39" column="8" bodyfile="Application Green Quake.Android/obj/Release/110/android/src/crc64720bb2db43a66fe9/TabbedPageRenderer.java" bodystart="39" bodyend="44"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc64720bb2db43a66fe9_1_1_tabbed_page_renderer_1ade913d75ee45e8fe14569265fcb43b7f" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>crc64720bb2db43a66fe9.TabbedPageRenderer.TabbedPageRenderer</definition>
+        <argsstring>(android.content.Context p0)</argsstring>
+        <name>TabbedPageRenderer</name>
+        <param>
+          <type>android.content.Context</type>
+          <declname>p0</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/110/android/src/crc64720bb2db43a66fe9/TabbedPageRenderer.java" line="47" column="8" bodyfile="Application Green Quake.Android/obj/Release/110/android/src/crc64720bb2db43a66fe9/TabbedPageRenderer.java" bodystart="47" bodyend="52"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc64720bb2db43a66fe9_1_1_tabbed_page_renderer_1a928e7a0616a657303419c6479e3e9c50" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void crc64720bb2db43a66fe9.TabbedPageRenderer.onAttachedToWindow</definition>
+        <argsstring>()</argsstring>
+        <name>onAttachedToWindow</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/110/android/src/crc64720bb2db43a66fe9/TabbedPageRenderer.java" line="55" column="13" bodyfile="Application Green Quake.Android/obj/Release/110/android/src/crc64720bb2db43a66fe9/TabbedPageRenderer.java" bodystart="55" bodyend="58"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc64720bb2db43a66fe9_1_1_tabbed_page_renderer_1af6de6508cbbb1b2c0443c7987efa9a4d" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void crc64720bb2db43a66fe9.TabbedPageRenderer.onDetachedFromWindow</definition>
+        <argsstring>()</argsstring>
+        <name>onDetachedFromWindow</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/110/android/src/crc64720bb2db43a66fe9/TabbedPageRenderer.java" line="63" column="13" bodyfile="Application Green Quake.Android/obj/Release/110/android/src/crc64720bb2db43a66fe9/TabbedPageRenderer.java" bodystart="63" bodyend="66"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc64720bb2db43a66fe9_1_1_tabbed_page_renderer_1a63c01f50cc65fa61b046ff2c9f59d8c1" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void crc64720bb2db43a66fe9.TabbedPageRenderer.onLayout</definition>
+        <argsstring>(boolean p0, int p1, int p2, int p3, int p4)</argsstring>
+        <name>onLayout</name>
+        <reimplements refid="classcrc643f46942d9dd1fff9_1_1_visual_element_renderer__1_1aa5204816e51aaac32d4cdf6fab1de3e0">onLayout</reimplements>
+        <param>
+          <type>boolean</type>
+          <declname>p0</declname>
+        </param>
+        <param>
+          <type>int</type>
+          <declname>p1</declname>
+        </param>
+        <param>
+          <type>int</type>
+          <declname>p2</declname>
+        </param>
+        <param>
+          <type>int</type>
+          <declname>p3</declname>
+        </param>
+        <param>
+          <type>int</type>
+          <declname>p4</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/110/android/src/crc64720bb2db43a66fe9/TabbedPageRenderer.java" line="71" column="13" bodyfile="Application Green Quake.Android/obj/Release/110/android/src/crc64720bb2db43a66fe9/TabbedPageRenderer.java" bodystart="71" bodyend="74"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc64720bb2db43a66fe9_1_1_tabbed_page_renderer_1ada5efbeaa4e1e3c8d89200d661e2a312" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void crc64720bb2db43a66fe9.TabbedPageRenderer.onTabReselected</definition>
+        <argsstring>(com.google.android.material.tabs.TabLayout.Tab p0)</argsstring>
+        <name>onTabReselected</name>
+        <param>
+          <type>com.google.android.material.tabs.TabLayout.Tab</type>
+          <declname>p0</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/110/android/src/crc64720bb2db43a66fe9/TabbedPageRenderer.java" line="79" column="13" bodyfile="Application Green Quake.Android/obj/Release/110/android/src/crc64720bb2db43a66fe9/TabbedPageRenderer.java" bodystart="79" bodyend="82"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc64720bb2db43a66fe9_1_1_tabbed_page_renderer_1a9572c88157b208bee520f76625c9a6d4" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void crc64720bb2db43a66fe9.TabbedPageRenderer.onTabSelected</definition>
+        <argsstring>(com.google.android.material.tabs.TabLayout.Tab p0)</argsstring>
+        <name>onTabSelected</name>
+        <param>
+          <type>com.google.android.material.tabs.TabLayout.Tab</type>
+          <declname>p0</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/110/android/src/crc64720bb2db43a66fe9/TabbedPageRenderer.java" line="87" column="13" bodyfile="Application Green Quake.Android/obj/Release/110/android/src/crc64720bb2db43a66fe9/TabbedPageRenderer.java" bodystart="87" bodyend="90"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc64720bb2db43a66fe9_1_1_tabbed_page_renderer_1ac28bf71e2bf0a7e0059a43bce8f3e131" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void crc64720bb2db43a66fe9.TabbedPageRenderer.onTabUnselected</definition>
+        <argsstring>(com.google.android.material.tabs.TabLayout.Tab p0)</argsstring>
+        <name>onTabUnselected</name>
+        <param>
+          <type>com.google.android.material.tabs.TabLayout.Tab</type>
+          <declname>p0</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/110/android/src/crc64720bb2db43a66fe9/TabbedPageRenderer.java" line="95" column="13" bodyfile="Application Green Quake.Android/obj/Release/110/android/src/crc64720bb2db43a66fe9/TabbedPageRenderer.java" bodystart="95" bodyend="98"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc64720bb2db43a66fe9_1_1_tabbed_page_renderer_1acaddf07bd007a125c81cb8fd12e6a683" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void crc64720bb2db43a66fe9.TabbedPageRenderer.onPageScrollStateChanged</definition>
+        <argsstring>(int p0)</argsstring>
+        <name>onPageScrollStateChanged</name>
+        <param>
+          <type>int</type>
+          <declname>p0</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/110/android/src/crc64720bb2db43a66fe9/TabbedPageRenderer.java" line="103" column="13" bodyfile="Application Green Quake.Android/obj/Release/110/android/src/crc64720bb2db43a66fe9/TabbedPageRenderer.java" bodystart="103" bodyend="106"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc64720bb2db43a66fe9_1_1_tabbed_page_renderer_1a158f69d373c890461b1569deb2dc74ac" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void crc64720bb2db43a66fe9.TabbedPageRenderer.onPageScrolled</definition>
+        <argsstring>(int p0, float p1, int p2)</argsstring>
+        <name>onPageScrolled</name>
+        <param>
+          <type>int</type>
+          <declname>p0</declname>
+        </param>
+        <param>
+          <type>float</type>
+          <declname>p1</declname>
+        </param>
+        <param>
+          <type>int</type>
+          <declname>p2</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/110/android/src/crc64720bb2db43a66fe9/TabbedPageRenderer.java" line="111" column="13" bodyfile="Application Green Quake.Android/obj/Release/110/android/src/crc64720bb2db43a66fe9/TabbedPageRenderer.java" bodystart="111" bodyend="114"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc64720bb2db43a66fe9_1_1_tabbed_page_renderer_1aaff34a617a2e1b8939c0da77b4771423" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void crc64720bb2db43a66fe9.TabbedPageRenderer.onPageSelected</definition>
+        <argsstring>(int p0)</argsstring>
+        <name>onPageSelected</name>
+        <param>
+          <type>int</type>
+          <declname>p0</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/110/android/src/crc64720bb2db43a66fe9/TabbedPageRenderer.java" line="119" column="13" bodyfile="Application Green Quake.Android/obj/Release/110/android/src/crc64720bb2db43a66fe9/TabbedPageRenderer.java" bodystart="119" bodyend="122"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc64720bb2db43a66fe9_1_1_tabbed_page_renderer_1a68f00af2c9c1ad08064276155f70baf0" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>boolean</type>
+        <definition>boolean crc64720bb2db43a66fe9.TabbedPageRenderer.onNavigationItemSelected</definition>
+        <argsstring>(android.view.MenuItem p0)</argsstring>
+        <name>onNavigationItemSelected</name>
+        <param>
+          <type>android.view.MenuItem</type>
+          <declname>p0</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/110/android/src/crc64720bb2db43a66fe9/TabbedPageRenderer.java" line="127" column="16" bodyfile="Application Green Quake.Android/obj/Release/110/android/src/crc64720bb2db43a66fe9/TabbedPageRenderer.java" bodystart="127" bodyend="130"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc64720bb2db43a66fe9_1_1_tabbed_page_renderer_1a134cd9e1e6958df90651613140f2a319" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void crc64720bb2db43a66fe9.TabbedPageRenderer.monodroidAddReference</definition>
+        <argsstring>(java.lang.Object obj)</argsstring>
+        <name>monodroidAddReference</name>
+        <reimplements refid="classcrc643f46942d9dd1fff9_1_1_visual_element_renderer__1_1a1cfa1f5b3b23ed1754ba77b59d95e5f8">monodroidAddReference</reimplements>
+        <param>
+          <type>java.lang.Object</type>
+          <declname>obj</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/110/android/src/crc64720bb2db43a66fe9/TabbedPageRenderer.java" line="135" column="13" bodyfile="Application Green Quake.Android/obj/Release/110/android/src/crc64720bb2db43a66fe9/TabbedPageRenderer.java" bodystart="135" bodyend="140"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc64720bb2db43a66fe9_1_1_tabbed_page_renderer_1a141f8d8527902a23b9fabe597edfae9c" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void crc64720bb2db43a66fe9.TabbedPageRenderer.monodroidClearReferences</definition>
+        <argsstring>()</argsstring>
+        <name>monodroidClearReferences</name>
+        <reimplements refid="classcrc643f46942d9dd1fff9_1_1_visual_element_renderer__1_1a1706e0a91234547c4c20637dce966b11">monodroidClearReferences</reimplements>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/110/android/src/crc64720bb2db43a66fe9/TabbedPageRenderer.java" line="142" column="13" bodyfile="Application Green Quake.Android/obj/Release/110/android/src/crc64720bb2db43a66fe9/TabbedPageRenderer.java" bodystart="142" bodyend="146"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="private-func">
+      <memberdef kind="function" id="classcrc64720bb2db43a66fe9_1_1_tabbed_page_renderer_1a0e81e18510a980ff1822287c8a8f5fe4" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>native void</type>
+        <definition>native void crc64720bb2db43a66fe9.TabbedPageRenderer.n_onAttachedToWindow</definition>
+        <argsstring>()</argsstring>
+        <name>n_onAttachedToWindow</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/100/android/src/crc64720bb2db43a66fe9/TabbedPageRenderer.java" line="60" column="21"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc64720bb2db43a66fe9_1_1_tabbed_page_renderer_1a3a22f779fb0e0ed45043476be08dac49" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>native void</type>
+        <definition>native void crc64720bb2db43a66fe9.TabbedPageRenderer.n_onDetachedFromWindow</definition>
+        <argsstring>()</argsstring>
+        <name>n_onDetachedFromWindow</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/100/android/src/crc64720bb2db43a66fe9/TabbedPageRenderer.java" line="68" column="21"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc64720bb2db43a66fe9_1_1_tabbed_page_renderer_1aabd134a37b76e9d7f304ec08fe06f71c" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>native void</type>
+        <definition>native void crc64720bb2db43a66fe9.TabbedPageRenderer.n_onLayout</definition>
+        <argsstring>(boolean p0, int p1, int p2, int p3, int p4)</argsstring>
+        <name>n_onLayout</name>
+        <reimplements refid="classcrc643f46942d9dd1fff9_1_1_visual_element_renderer__1_1a2f5a8d7684b7c8c278ddff226f34c942">n_onLayout</reimplements>
+        <param>
+          <type>boolean</type>
+          <declname>p0</declname>
+        </param>
+        <param>
+          <type>int</type>
+          <declname>p1</declname>
+        </param>
+        <param>
+          <type>int</type>
+          <declname>p2</declname>
+        </param>
+        <param>
+          <type>int</type>
+          <declname>p3</declname>
+        </param>
+        <param>
+          <type>int</type>
+          <declname>p4</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/100/android/src/crc64720bb2db43a66fe9/TabbedPageRenderer.java" line="76" column="21"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc64720bb2db43a66fe9_1_1_tabbed_page_renderer_1ab888c0a0735f93ef888172a8a518dd52" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>native void</type>
+        <definition>native void crc64720bb2db43a66fe9.TabbedPageRenderer.n_onTabReselected</definition>
+        <argsstring>(com.google.android.material.tabs.TabLayout.Tab p0)</argsstring>
+        <name>n_onTabReselected</name>
+        <param>
+          <type>com.google.android.material.tabs.TabLayout.Tab</type>
+          <declname>p0</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/100/android/src/crc64720bb2db43a66fe9/TabbedPageRenderer.java" line="84" column="21"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc64720bb2db43a66fe9_1_1_tabbed_page_renderer_1ace269827730db38f37a11e29bf4ff687" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>native void</type>
+        <definition>native void crc64720bb2db43a66fe9.TabbedPageRenderer.n_onTabSelected</definition>
+        <argsstring>(com.google.android.material.tabs.TabLayout.Tab p0)</argsstring>
+        <name>n_onTabSelected</name>
+        <param>
+          <type>com.google.android.material.tabs.TabLayout.Tab</type>
+          <declname>p0</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/100/android/src/crc64720bb2db43a66fe9/TabbedPageRenderer.java" line="92" column="21"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc64720bb2db43a66fe9_1_1_tabbed_page_renderer_1a5a5c7be880cd5be58ccdc1465362b078" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>native void</type>
+        <definition>native void crc64720bb2db43a66fe9.TabbedPageRenderer.n_onTabUnselected</definition>
+        <argsstring>(com.google.android.material.tabs.TabLayout.Tab p0)</argsstring>
+        <name>n_onTabUnselected</name>
+        <param>
+          <type>com.google.android.material.tabs.TabLayout.Tab</type>
+          <declname>p0</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/100/android/src/crc64720bb2db43a66fe9/TabbedPageRenderer.java" line="100" column="21"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc64720bb2db43a66fe9_1_1_tabbed_page_renderer_1a1e6741dabadbecc219927bc064ea3e2a" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>native void</type>
+        <definition>native void crc64720bb2db43a66fe9.TabbedPageRenderer.n_onPageScrollStateChanged</definition>
+        <argsstring>(int p0)</argsstring>
+        <name>n_onPageScrollStateChanged</name>
+        <param>
+          <type>int</type>
+          <declname>p0</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/100/android/src/crc64720bb2db43a66fe9/TabbedPageRenderer.java" line="108" column="21"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc64720bb2db43a66fe9_1_1_tabbed_page_renderer_1a387d4ccf30adb06ccc276d9806dc49f6" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>native void</type>
+        <definition>native void crc64720bb2db43a66fe9.TabbedPageRenderer.n_onPageScrolled</definition>
+        <argsstring>(int p0, float p1, int p2)</argsstring>
+        <name>n_onPageScrolled</name>
+        <param>
+          <type>int</type>
+          <declname>p0</declname>
+        </param>
+        <param>
+          <type>float</type>
+          <declname>p1</declname>
+        </param>
+        <param>
+          <type>int</type>
+          <declname>p2</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/100/android/src/crc64720bb2db43a66fe9/TabbedPageRenderer.java" line="116" column="21"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc64720bb2db43a66fe9_1_1_tabbed_page_renderer_1abc2ff08c9b16e9349297cf54c067c068" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>native void</type>
+        <definition>native void crc64720bb2db43a66fe9.TabbedPageRenderer.n_onPageSelected</definition>
+        <argsstring>(int p0)</argsstring>
+        <name>n_onPageSelected</name>
+        <param>
+          <type>int</type>
+          <declname>p0</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/100/android/src/crc64720bb2db43a66fe9/TabbedPageRenderer.java" line="124" column="21"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc64720bb2db43a66fe9_1_1_tabbed_page_renderer_1aa9ffe62a20a192b5ac532d7b1b424e22" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>native boolean</type>
+        <definition>native boolean crc64720bb2db43a66fe9.TabbedPageRenderer.n_onNavigationItemSelected</definition>
+        <argsstring>(android.view.MenuItem p0)</argsstring>
+        <name>n_onNavigationItemSelected</name>
+        <param>
+          <type>android.view.MenuItem</type>
+          <declname>p0</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/100/android/src/crc64720bb2db43a66fe9/TabbedPageRenderer.java" line="132" column="24"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc64720bb2db43a66fe9_1_1_tabbed_page_renderer_1a0e81e18510a980ff1822287c8a8f5fe4" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>native void</type>
+        <definition>native void crc64720bb2db43a66fe9.TabbedPageRenderer.n_onAttachedToWindow</definition>
+        <argsstring>()</argsstring>
+        <name>n_onAttachedToWindow</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/110/android/src/crc64720bb2db43a66fe9/TabbedPageRenderer.java" line="60" column="21"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc64720bb2db43a66fe9_1_1_tabbed_page_renderer_1a3a22f779fb0e0ed45043476be08dac49" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>native void</type>
+        <definition>native void crc64720bb2db43a66fe9.TabbedPageRenderer.n_onDetachedFromWindow</definition>
+        <argsstring>()</argsstring>
+        <name>n_onDetachedFromWindow</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/110/android/src/crc64720bb2db43a66fe9/TabbedPageRenderer.java" line="68" column="21"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc64720bb2db43a66fe9_1_1_tabbed_page_renderer_1aabd134a37b76e9d7f304ec08fe06f71c" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>native void</type>
+        <definition>native void crc64720bb2db43a66fe9.TabbedPageRenderer.n_onLayout</definition>
+        <argsstring>(boolean p0, int p1, int p2, int p3, int p4)</argsstring>
+        <name>n_onLayout</name>
+        <reimplements refid="classcrc643f46942d9dd1fff9_1_1_visual_element_renderer__1_1a2f5a8d7684b7c8c278ddff226f34c942">n_onLayout</reimplements>
+        <param>
+          <type>boolean</type>
+          <declname>p0</declname>
+        </param>
+        <param>
+          <type>int</type>
+          <declname>p1</declname>
+        </param>
+        <param>
+          <type>int</type>
+          <declname>p2</declname>
+        </param>
+        <param>
+          <type>int</type>
+          <declname>p3</declname>
+        </param>
+        <param>
+          <type>int</type>
+          <declname>p4</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/110/android/src/crc64720bb2db43a66fe9/TabbedPageRenderer.java" line="76" column="21"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc64720bb2db43a66fe9_1_1_tabbed_page_renderer_1ab888c0a0735f93ef888172a8a518dd52" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>native void</type>
+        <definition>native void crc64720bb2db43a66fe9.TabbedPageRenderer.n_onTabReselected</definition>
+        <argsstring>(com.google.android.material.tabs.TabLayout.Tab p0)</argsstring>
+        <name>n_onTabReselected</name>
+        <param>
+          <type>com.google.android.material.tabs.TabLayout.Tab</type>
+          <declname>p0</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/110/android/src/crc64720bb2db43a66fe9/TabbedPageRenderer.java" line="84" column="21"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc64720bb2db43a66fe9_1_1_tabbed_page_renderer_1ace269827730db38f37a11e29bf4ff687" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>native void</type>
+        <definition>native void crc64720bb2db43a66fe9.TabbedPageRenderer.n_onTabSelected</definition>
+        <argsstring>(com.google.android.material.tabs.TabLayout.Tab p0)</argsstring>
+        <name>n_onTabSelected</name>
+        <param>
+          <type>com.google.android.material.tabs.TabLayout.Tab</type>
+          <declname>p0</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/110/android/src/crc64720bb2db43a66fe9/TabbedPageRenderer.java" line="92" column="21"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc64720bb2db43a66fe9_1_1_tabbed_page_renderer_1a5a5c7be880cd5be58ccdc1465362b078" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>native void</type>
+        <definition>native void crc64720bb2db43a66fe9.TabbedPageRenderer.n_onTabUnselected</definition>
+        <argsstring>(com.google.android.material.tabs.TabLayout.Tab p0)</argsstring>
+        <name>n_onTabUnselected</name>
+        <param>
+          <type>com.google.android.material.tabs.TabLayout.Tab</type>
+          <declname>p0</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/110/android/src/crc64720bb2db43a66fe9/TabbedPageRenderer.java" line="100" column="21"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc64720bb2db43a66fe9_1_1_tabbed_page_renderer_1a1e6741dabadbecc219927bc064ea3e2a" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>native void</type>
+        <definition>native void crc64720bb2db43a66fe9.TabbedPageRenderer.n_onPageScrollStateChanged</definition>
+        <argsstring>(int p0)</argsstring>
+        <name>n_onPageScrollStateChanged</name>
+        <param>
+          <type>int</type>
+          <declname>p0</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/110/android/src/crc64720bb2db43a66fe9/TabbedPageRenderer.java" line="108" column="21"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc64720bb2db43a66fe9_1_1_tabbed_page_renderer_1a387d4ccf30adb06ccc276d9806dc49f6" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>native void</type>
+        <definition>native void crc64720bb2db43a66fe9.TabbedPageRenderer.n_onPageScrolled</definition>
+        <argsstring>(int p0, float p1, int p2)</argsstring>
+        <name>n_onPageScrolled</name>
+        <param>
+          <type>int</type>
+          <declname>p0</declname>
+        </param>
+        <param>
+          <type>float</type>
+          <declname>p1</declname>
+        </param>
+        <param>
+          <type>int</type>
+          <declname>p2</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/110/android/src/crc64720bb2db43a66fe9/TabbedPageRenderer.java" line="116" column="21"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc64720bb2db43a66fe9_1_1_tabbed_page_renderer_1abc2ff08c9b16e9349297cf54c067c068" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>native void</type>
+        <definition>native void crc64720bb2db43a66fe9.TabbedPageRenderer.n_onPageSelected</definition>
+        <argsstring>(int p0)</argsstring>
+        <name>n_onPageSelected</name>
+        <param>
+          <type>int</type>
+          <declname>p0</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/110/android/src/crc64720bb2db43a66fe9/TabbedPageRenderer.java" line="124" column="21"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc64720bb2db43a66fe9_1_1_tabbed_page_renderer_1aa9ffe62a20a192b5ac532d7b1b424e22" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>native boolean</type>
+        <definition>native boolean crc64720bb2db43a66fe9.TabbedPageRenderer.n_onNavigationItemSelected</definition>
+        <argsstring>(android.view.MenuItem p0)</argsstring>
+        <name>n_onNavigationItemSelected</name>
+        <param>
+          <type>android.view.MenuItem</type>
+          <declname>p0</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/110/android/src/crc64720bb2db43a66fe9/TabbedPageRenderer.java" line="132" column="24"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc64720bb2db43a66fe9_1_1_tabbed_page_renderer_1a0e81e18510a980ff1822287c8a8f5fe4" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>native void</type>
+        <definition>native void crc64720bb2db43a66fe9.TabbedPageRenderer.n_onAttachedToWindow</definition>
+        <argsstring>()</argsstring>
+        <name>n_onAttachedToWindow</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/100/android/src/crc64720bb2db43a66fe9/TabbedPageRenderer.java" line="60" column="21"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc64720bb2db43a66fe9_1_1_tabbed_page_renderer_1a3a22f779fb0e0ed45043476be08dac49" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>native void</type>
+        <definition>native void crc64720bb2db43a66fe9.TabbedPageRenderer.n_onDetachedFromWindow</definition>
+        <argsstring>()</argsstring>
+        <name>n_onDetachedFromWindow</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/100/android/src/crc64720bb2db43a66fe9/TabbedPageRenderer.java" line="68" column="21"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc64720bb2db43a66fe9_1_1_tabbed_page_renderer_1aabd134a37b76e9d7f304ec08fe06f71c" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>native void</type>
+        <definition>native void crc64720bb2db43a66fe9.TabbedPageRenderer.n_onLayout</definition>
+        <argsstring>(boolean p0, int p1, int p2, int p3, int p4)</argsstring>
+        <name>n_onLayout</name>
+        <reimplements refid="classcrc643f46942d9dd1fff9_1_1_visual_element_renderer__1_1a2f5a8d7684b7c8c278ddff226f34c942">n_onLayout</reimplements>
+        <param>
+          <type>boolean</type>
+          <declname>p0</declname>
+        </param>
+        <param>
+          <type>int</type>
+          <declname>p1</declname>
+        </param>
+        <param>
+          <type>int</type>
+          <declname>p2</declname>
+        </param>
+        <param>
+          <type>int</type>
+          <declname>p3</declname>
+        </param>
+        <param>
+          <type>int</type>
+          <declname>p4</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/100/android/src/crc64720bb2db43a66fe9/TabbedPageRenderer.java" line="76" column="21"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc64720bb2db43a66fe9_1_1_tabbed_page_renderer_1ab888c0a0735f93ef888172a8a518dd52" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>native void</type>
+        <definition>native void crc64720bb2db43a66fe9.TabbedPageRenderer.n_onTabReselected</definition>
+        <argsstring>(com.google.android.material.tabs.TabLayout.Tab p0)</argsstring>
+        <name>n_onTabReselected</name>
+        <param>
+          <type>com.google.android.material.tabs.TabLayout.Tab</type>
+          <declname>p0</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/100/android/src/crc64720bb2db43a66fe9/TabbedPageRenderer.java" line="84" column="21"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc64720bb2db43a66fe9_1_1_tabbed_page_renderer_1ace269827730db38f37a11e29bf4ff687" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>native void</type>
+        <definition>native void crc64720bb2db43a66fe9.TabbedPageRenderer.n_onTabSelected</definition>
+        <argsstring>(com.google.android.material.tabs.TabLayout.Tab p0)</argsstring>
+        <name>n_onTabSelected</name>
+        <param>
+          <type>com.google.android.material.tabs.TabLayout.Tab</type>
+          <declname>p0</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/100/android/src/crc64720bb2db43a66fe9/TabbedPageRenderer.java" line="92" column="21"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc64720bb2db43a66fe9_1_1_tabbed_page_renderer_1a5a5c7be880cd5be58ccdc1465362b078" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>native void</type>
+        <definition>native void crc64720bb2db43a66fe9.TabbedPageRenderer.n_onTabUnselected</definition>
+        <argsstring>(com.google.android.material.tabs.TabLayout.Tab p0)</argsstring>
+        <name>n_onTabUnselected</name>
+        <param>
+          <type>com.google.android.material.tabs.TabLayout.Tab</type>
+          <declname>p0</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/100/android/src/crc64720bb2db43a66fe9/TabbedPageRenderer.java" line="100" column="21"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc64720bb2db43a66fe9_1_1_tabbed_page_renderer_1a1e6741dabadbecc219927bc064ea3e2a" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>native void</type>
+        <definition>native void crc64720bb2db43a66fe9.TabbedPageRenderer.n_onPageScrollStateChanged</definition>
+        <argsstring>(int p0)</argsstring>
+        <name>n_onPageScrollStateChanged</name>
+        <param>
+          <type>int</type>
+          <declname>p0</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/100/android/src/crc64720bb2db43a66fe9/TabbedPageRenderer.java" line="108" column="21"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc64720bb2db43a66fe9_1_1_tabbed_page_renderer_1a387d4ccf30adb06ccc276d9806dc49f6" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>native void</type>
+        <definition>native void crc64720bb2db43a66fe9.TabbedPageRenderer.n_onPageScrolled</definition>
+        <argsstring>(int p0, float p1, int p2)</argsstring>
+        <name>n_onPageScrolled</name>
+        <param>
+          <type>int</type>
+          <declname>p0</declname>
+        </param>
+        <param>
+          <type>float</type>
+          <declname>p1</declname>
+        </param>
+        <param>
+          <type>int</type>
+          <declname>p2</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/100/android/src/crc64720bb2db43a66fe9/TabbedPageRenderer.java" line="116" column="21"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc64720bb2db43a66fe9_1_1_tabbed_page_renderer_1abc2ff08c9b16e9349297cf54c067c068" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>native void</type>
+        <definition>native void crc64720bb2db43a66fe9.TabbedPageRenderer.n_onPageSelected</definition>
+        <argsstring>(int p0)</argsstring>
+        <name>n_onPageSelected</name>
+        <param>
+          <type>int</type>
+          <declname>p0</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/100/android/src/crc64720bb2db43a66fe9/TabbedPageRenderer.java" line="124" column="21"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc64720bb2db43a66fe9_1_1_tabbed_page_renderer_1aa9ffe62a20a192b5ac532d7b1b424e22" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>native boolean</type>
+        <definition>native boolean crc64720bb2db43a66fe9.TabbedPageRenderer.n_onNavigationItemSelected</definition>
+        <argsstring>(android.view.MenuItem p0)</argsstring>
+        <name>n_onNavigationItemSelected</name>
+        <param>
+          <type>android.view.MenuItem</type>
+          <declname>p0</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/100/android/src/crc64720bb2db43a66fe9/TabbedPageRenderer.java" line="132" column="24"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc64720bb2db43a66fe9_1_1_tabbed_page_renderer_1a0e81e18510a980ff1822287c8a8f5fe4" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>native void</type>
+        <definition>native void crc64720bb2db43a66fe9.TabbedPageRenderer.n_onAttachedToWindow</definition>
+        <argsstring>()</argsstring>
+        <name>n_onAttachedToWindow</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/110/android/src/crc64720bb2db43a66fe9/TabbedPageRenderer.java" line="60" column="21"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc64720bb2db43a66fe9_1_1_tabbed_page_renderer_1a3a22f779fb0e0ed45043476be08dac49" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>native void</type>
+        <definition>native void crc64720bb2db43a66fe9.TabbedPageRenderer.n_onDetachedFromWindow</definition>
+        <argsstring>()</argsstring>
+        <name>n_onDetachedFromWindow</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/110/android/src/crc64720bb2db43a66fe9/TabbedPageRenderer.java" line="68" column="21"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc64720bb2db43a66fe9_1_1_tabbed_page_renderer_1aabd134a37b76e9d7f304ec08fe06f71c" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>native void</type>
+        <definition>native void crc64720bb2db43a66fe9.TabbedPageRenderer.n_onLayout</definition>
+        <argsstring>(boolean p0, int p1, int p2, int p3, int p4)</argsstring>
+        <name>n_onLayout</name>
+        <reimplements refid="classcrc643f46942d9dd1fff9_1_1_visual_element_renderer__1_1a2f5a8d7684b7c8c278ddff226f34c942">n_onLayout</reimplements>
+        <param>
+          <type>boolean</type>
+          <declname>p0</declname>
+        </param>
+        <param>
+          <type>int</type>
+          <declname>p1</declname>
+        </param>
+        <param>
+          <type>int</type>
+          <declname>p2</declname>
+        </param>
+        <param>
+          <type>int</type>
+          <declname>p3</declname>
+        </param>
+        <param>
+          <type>int</type>
+          <declname>p4</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/110/android/src/crc64720bb2db43a66fe9/TabbedPageRenderer.java" line="76" column="21"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc64720bb2db43a66fe9_1_1_tabbed_page_renderer_1ab888c0a0735f93ef888172a8a518dd52" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>native void</type>
+        <definition>native void crc64720bb2db43a66fe9.TabbedPageRenderer.n_onTabReselected</definition>
+        <argsstring>(com.google.android.material.tabs.TabLayout.Tab p0)</argsstring>
+        <name>n_onTabReselected</name>
+        <param>
+          <type>com.google.android.material.tabs.TabLayout.Tab</type>
+          <declname>p0</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/110/android/src/crc64720bb2db43a66fe9/TabbedPageRenderer.java" line="84" column="21"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc64720bb2db43a66fe9_1_1_tabbed_page_renderer_1ace269827730db38f37a11e29bf4ff687" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>native void</type>
+        <definition>native void crc64720bb2db43a66fe9.TabbedPageRenderer.n_onTabSelected</definition>
+        <argsstring>(com.google.android.material.tabs.TabLayout.Tab p0)</argsstring>
+        <name>n_onTabSelected</name>
+        <param>
+          <type>com.google.android.material.tabs.TabLayout.Tab</type>
+          <declname>p0</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/110/android/src/crc64720bb2db43a66fe9/TabbedPageRenderer.java" line="92" column="21"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc64720bb2db43a66fe9_1_1_tabbed_page_renderer_1a5a5c7be880cd5be58ccdc1465362b078" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>native void</type>
+        <definition>native void crc64720bb2db43a66fe9.TabbedPageRenderer.n_onTabUnselected</definition>
+        <argsstring>(com.google.android.material.tabs.TabLayout.Tab p0)</argsstring>
+        <name>n_onTabUnselected</name>
+        <param>
+          <type>com.google.android.material.tabs.TabLayout.Tab</type>
+          <declname>p0</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/110/android/src/crc64720bb2db43a66fe9/TabbedPageRenderer.java" line="100" column="21"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc64720bb2db43a66fe9_1_1_tabbed_page_renderer_1a1e6741dabadbecc219927bc064ea3e2a" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>native void</type>
+        <definition>native void crc64720bb2db43a66fe9.TabbedPageRenderer.n_onPageScrollStateChanged</definition>
+        <argsstring>(int p0)</argsstring>
+        <name>n_onPageScrollStateChanged</name>
+        <param>
+          <type>int</type>
+          <declname>p0</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/110/android/src/crc64720bb2db43a66fe9/TabbedPageRenderer.java" line="108" column="21"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc64720bb2db43a66fe9_1_1_tabbed_page_renderer_1a387d4ccf30adb06ccc276d9806dc49f6" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>native void</type>
+        <definition>native void crc64720bb2db43a66fe9.TabbedPageRenderer.n_onPageScrolled</definition>
+        <argsstring>(int p0, float p1, int p2)</argsstring>
+        <name>n_onPageScrolled</name>
+        <param>
+          <type>int</type>
+          <declname>p0</declname>
+        </param>
+        <param>
+          <type>float</type>
+          <declname>p1</declname>
+        </param>
+        <param>
+          <type>int</type>
+          <declname>p2</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/110/android/src/crc64720bb2db43a66fe9/TabbedPageRenderer.java" line="116" column="21"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc64720bb2db43a66fe9_1_1_tabbed_page_renderer_1abc2ff08c9b16e9349297cf54c067c068" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>native void</type>
+        <definition>native void crc64720bb2db43a66fe9.TabbedPageRenderer.n_onPageSelected</definition>
+        <argsstring>(int p0)</argsstring>
+        <name>n_onPageSelected</name>
+        <param>
+          <type>int</type>
+          <declname>p0</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/110/android/src/crc64720bb2db43a66fe9/TabbedPageRenderer.java" line="124" column="21"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc64720bb2db43a66fe9_1_1_tabbed_page_renderer_1aa9ffe62a20a192b5ac532d7b1b424e22" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>native boolean</type>
+        <definition>native boolean crc64720bb2db43a66fe9.TabbedPageRenderer.n_onNavigationItemSelected</definition>
+        <argsstring>(android.view.MenuItem p0)</argsstring>
+        <name>n_onNavigationItemSelected</name>
+        <param>
+          <type>android.view.MenuItem</type>
+          <declname>p0</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/110/android/src/crc64720bb2db43a66fe9/TabbedPageRenderer.java" line="132" column="24"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <inheritancegraph>
+      <node id="5">
+        <label>com.xamarin.forms.platform.android.FormsViewGroup</label>
+      </node>
+      <node id="6">
+        <label>com::google::android::material::tabs::TabLayout::BaseOnTabSelectedListener</label>
+      </node>
+      <node id="9">
+        <label>com.google.android.material.tabs.TabLayout.BaseOnTabSelectedListener</label>
+      </node>
+      <node id="3">
+        <label>com::xamarin::forms::platform::android::FormsViewGroup</label>
+      </node>
+      <node id="1">
+        <label>crc64720bb2db43a66fe9.TabbedPageRenderer</label>
+        <link refid="classcrc64720bb2db43a66fe9_1_1_tabbed_page_renderer"/>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+        <childnode refid="4" relation="public-inheritance">
+        </childnode>
+        <childnode refid="6" relation="public-inheritance">
+        </childnode>
+        <childnode refid="7" relation="public-inheritance">
+        </childnode>
+        <childnode refid="8" relation="public-inheritance">
+        </childnode>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+        <childnode refid="4" relation="public-inheritance">
+        </childnode>
+        <childnode refid="9" relation="public-inheritance">
+        </childnode>
+        <childnode refid="7" relation="public-inheritance">
+        </childnode>
+        <childnode refid="8" relation="public-inheritance">
+        </childnode>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+        <childnode refid="4" relation="public-inheritance">
+        </childnode>
+        <childnode refid="9" relation="public-inheritance">
+        </childnode>
+        <childnode refid="7" relation="public-inheritance">
+        </childnode>
+        <childnode refid="8" relation="public-inheritance">
+        </childnode>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+        <childnode refid="4" relation="public-inheritance">
+        </childnode>
+        <childnode refid="9" relation="public-inheritance">
+        </childnode>
+        <childnode refid="7" relation="public-inheritance">
+        </childnode>
+        <childnode refid="8" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="7">
+        <label>androidx.viewpager.widget.ViewPager.OnPageChangeListener</label>
+      </node>
+      <node id="4">
+        <label>mono.android.IGCUserPeer</label>
+      </node>
+      <node id="2">
+        <label>crc643f46942d9dd1fff9.VisualElementRenderer_1</label>
+        <link refid="classcrc643f46942d9dd1fff9_1_1_visual_element_renderer__1"/>
+        <childnode refid="3" relation="public-inheritance">
+        </childnode>
+        <childnode refid="4" relation="public-inheritance">
+        </childnode>
+        <childnode refid="5" relation="public-inheritance">
+        </childnode>
+        <childnode refid="4" relation="public-inheritance">
+        </childnode>
+        <childnode refid="5" relation="public-inheritance">
+        </childnode>
+        <childnode refid="4" relation="public-inheritance">
+        </childnode>
+        <childnode refid="5" relation="public-inheritance">
+        </childnode>
+        <childnode refid="4" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="8">
+        <label>com.google.android.material.bottomnavigation.BottomNavigationView.OnNavigationItemSelectedListener</label>
+      </node>
+    </inheritancegraph>
+    <collaborationgraph>
+      <node id="5">
+        <label>com.xamarin.forms.platform.android.FormsViewGroup</label>
+      </node>
+      <node id="6">
+        <label>com::google::android::material::tabs::TabLayout::BaseOnTabSelectedListener</label>
+      </node>
+      <node id="9">
+        <label>com.google.android.material.tabs.TabLayout.BaseOnTabSelectedListener</label>
+      </node>
+      <node id="3">
+        <label>com::xamarin::forms::platform::android::FormsViewGroup</label>
+      </node>
+      <node id="1">
+        <label>crc64720bb2db43a66fe9.TabbedPageRenderer</label>
+        <link refid="classcrc64720bb2db43a66fe9_1_1_tabbed_page_renderer"/>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+        <childnode refid="4" relation="public-inheritance">
+        </childnode>
+        <childnode refid="6" relation="public-inheritance">
+        </childnode>
+        <childnode refid="7" relation="public-inheritance">
+        </childnode>
+        <childnode refid="8" relation="public-inheritance">
+        </childnode>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+        <childnode refid="4" relation="public-inheritance">
+        </childnode>
+        <childnode refid="9" relation="public-inheritance">
+        </childnode>
+        <childnode refid="7" relation="public-inheritance">
+        </childnode>
+        <childnode refid="8" relation="public-inheritance">
+        </childnode>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+        <childnode refid="4" relation="public-inheritance">
+        </childnode>
+        <childnode refid="9" relation="public-inheritance">
+        </childnode>
+        <childnode refid="7" relation="public-inheritance">
+        </childnode>
+        <childnode refid="8" relation="public-inheritance">
+        </childnode>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+        <childnode refid="4" relation="public-inheritance">
+        </childnode>
+        <childnode refid="9" relation="public-inheritance">
+        </childnode>
+        <childnode refid="7" relation="public-inheritance">
+        </childnode>
+        <childnode refid="8" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="7">
+        <label>androidx.viewpager.widget.ViewPager.OnPageChangeListener</label>
+      </node>
+      <node id="4">
+        <label>mono.android.IGCUserPeer</label>
+      </node>
+      <node id="2">
+        <label>crc643f46942d9dd1fff9.VisualElementRenderer_1</label>
+        <link refid="classcrc643f46942d9dd1fff9_1_1_visual_element_renderer__1"/>
+        <childnode refid="3" relation="public-inheritance">
+        </childnode>
+        <childnode refid="4" relation="public-inheritance">
+        </childnode>
+        <childnode refid="5" relation="public-inheritance">
+        </childnode>
+        <childnode refid="4" relation="public-inheritance">
+        </childnode>
+        <childnode refid="5" relation="public-inheritance">
+        </childnode>
+        <childnode refid="4" relation="public-inheritance">
+        </childnode>
+        <childnode refid="5" relation="public-inheritance">
+        </childnode>
+        <childnode refid="4" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="8">
+        <label>com.google.android.material.bottomnavigation.BottomNavigationView.OnNavigationItemSelectedListener</label>
+      </node>
+    </collaborationgraph>
+    <location file="Application Green Quake.Android/obj/Debug/100/android/src/crc64720bb2db43a66fe9/TabbedPageRenderer.java" line="4" column="7" bodyfile="Application Green Quake.Android/obj/Debug/100/android/src/crc64720bb2db43a66fe9/TabbedPageRenderer.java" bodystart="11" bodyend="147"/>
+    <listofallmembers>
+      <member refid="classcrc64720bb2db43a66fe9_1_1_tabbed_page_renderer_1a99fa164a1ec2463d33929b438cd47204" prot="package" virt="non-virtual"><scope>crc64720bb2db43a66fe9::TabbedPageRenderer</scope><name>[static initializer]</name></member>
+      <member refid="classcrc64720bb2db43a66fe9_1_1_tabbed_page_renderer_1a99fa164a1ec2463d33929b438cd47204" prot="package" virt="non-virtual"><scope>crc64720bb2db43a66fe9::TabbedPageRenderer</scope><name>[static initializer]</name></member>
+      <member refid="classcrc64720bb2db43a66fe9_1_1_tabbed_page_renderer_1a99fa164a1ec2463d33929b438cd47204" prot="package" virt="non-virtual"><scope>crc64720bb2db43a66fe9::TabbedPageRenderer</scope><name>[static initializer]</name></member>
+      <member refid="classcrc64720bb2db43a66fe9_1_1_tabbed_page_renderer_1a99fa164a1ec2463d33929b438cd47204" prot="package" virt="non-virtual"><scope>crc64720bb2db43a66fe9::TabbedPageRenderer</scope><name>[static initializer]</name></member>
+      <member refid="classcrc64720bb2db43a66fe9_1_1_tabbed_page_renderer_1a3f81bf6ecfbd37dc39891c3897a601d0" prot="public" virt="non-virtual"><scope>crc64720bb2db43a66fe9::TabbedPageRenderer</scope><name>__md_methods</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_visual_element_renderer__1_1a8b3a1f18416ee5d553d54d8c51f238bd" prot="public" virt="non-virtual"><scope>crc64720bb2db43a66fe9::TabbedPageRenderer</scope><name>dispatchTouchEvent</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_visual_element_renderer__1_1a8b3a1f18416ee5d553d54d8c51f238bd" prot="public" virt="non-virtual"><scope>crc64720bb2db43a66fe9::TabbedPageRenderer</scope><name>dispatchTouchEvent</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_visual_element_renderer__1_1a8b3a1f18416ee5d553d54d8c51f238bd" prot="public" virt="non-virtual"><scope>crc64720bb2db43a66fe9::TabbedPageRenderer</scope><name>dispatchTouchEvent</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_visual_element_renderer__1_1a8b3a1f18416ee5d553d54d8c51f238bd" prot="public" virt="non-virtual"><scope>crc64720bb2db43a66fe9::TabbedPageRenderer</scope><name>dispatchTouchEvent</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_visual_element_renderer__1_1a4fbfdc5e36e0aac29f8113eddde3ffa8" prot="public" virt="non-virtual"><scope>crc64720bb2db43a66fe9::TabbedPageRenderer</scope><name>draw</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_visual_element_renderer__1_1a4fbfdc5e36e0aac29f8113eddde3ffa8" prot="public" virt="non-virtual"><scope>crc64720bb2db43a66fe9::TabbedPageRenderer</scope><name>draw</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_visual_element_renderer__1_1a4fbfdc5e36e0aac29f8113eddde3ffa8" prot="public" virt="non-virtual"><scope>crc64720bb2db43a66fe9::TabbedPageRenderer</scope><name>draw</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_visual_element_renderer__1_1a4fbfdc5e36e0aac29f8113eddde3ffa8" prot="public" virt="non-virtual"><scope>crc64720bb2db43a66fe9::TabbedPageRenderer</scope><name>draw</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_visual_element_renderer__1_1a9f734e4b4776dc9d9ed904a0922d26f7" prot="public" virt="non-virtual"><scope>crc64720bb2db43a66fe9::TabbedPageRenderer</scope><name>focusSearch</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_visual_element_renderer__1_1a9f734e4b4776dc9d9ed904a0922d26f7" prot="public" virt="non-virtual"><scope>crc64720bb2db43a66fe9::TabbedPageRenderer</scope><name>focusSearch</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_visual_element_renderer__1_1a9f734e4b4776dc9d9ed904a0922d26f7" prot="public" virt="non-virtual"><scope>crc64720bb2db43a66fe9::TabbedPageRenderer</scope><name>focusSearch</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_visual_element_renderer__1_1a9f734e4b4776dc9d9ed904a0922d26f7" prot="public" virt="non-virtual"><scope>crc64720bb2db43a66fe9::TabbedPageRenderer</scope><name>focusSearch</name></member>
+      <member refid="classcrc64720bb2db43a66fe9_1_1_tabbed_page_renderer_1a134cd9e1e6958df90651613140f2a319" prot="public" virt="non-virtual"><scope>crc64720bb2db43a66fe9::TabbedPageRenderer</scope><name>monodroidAddReference</name></member>
+      <member refid="classcrc64720bb2db43a66fe9_1_1_tabbed_page_renderer_1a134cd9e1e6958df90651613140f2a319" prot="public" virt="non-virtual"><scope>crc64720bb2db43a66fe9::TabbedPageRenderer</scope><name>monodroidAddReference</name></member>
+      <member refid="classcrc64720bb2db43a66fe9_1_1_tabbed_page_renderer_1a134cd9e1e6958df90651613140f2a319" prot="public" virt="non-virtual"><scope>crc64720bb2db43a66fe9::TabbedPageRenderer</scope><name>monodroidAddReference</name></member>
+      <member refid="classcrc64720bb2db43a66fe9_1_1_tabbed_page_renderer_1a134cd9e1e6958df90651613140f2a319" prot="public" virt="non-virtual"><scope>crc64720bb2db43a66fe9::TabbedPageRenderer</scope><name>monodroidAddReference</name></member>
+      <member refid="classcrc64720bb2db43a66fe9_1_1_tabbed_page_renderer_1a141f8d8527902a23b9fabe597edfae9c" prot="public" virt="non-virtual"><scope>crc64720bb2db43a66fe9::TabbedPageRenderer</scope><name>monodroidClearReferences</name></member>
+      <member refid="classcrc64720bb2db43a66fe9_1_1_tabbed_page_renderer_1a141f8d8527902a23b9fabe597edfae9c" prot="public" virt="non-virtual"><scope>crc64720bb2db43a66fe9::TabbedPageRenderer</scope><name>monodroidClearReferences</name></member>
+      <member refid="classcrc64720bb2db43a66fe9_1_1_tabbed_page_renderer_1a141f8d8527902a23b9fabe597edfae9c" prot="public" virt="non-virtual"><scope>crc64720bb2db43a66fe9::TabbedPageRenderer</scope><name>monodroidClearReferences</name></member>
+      <member refid="classcrc64720bb2db43a66fe9_1_1_tabbed_page_renderer_1a141f8d8527902a23b9fabe597edfae9c" prot="public" virt="non-virtual"><scope>crc64720bb2db43a66fe9::TabbedPageRenderer</scope><name>monodroidClearReferences</name></member>
+      <member refid="classcrc64720bb2db43a66fe9_1_1_tabbed_page_renderer_1a0e81e18510a980ff1822287c8a8f5fe4" prot="private" virt="non-virtual"><scope>crc64720bb2db43a66fe9::TabbedPageRenderer</scope><name>n_onAttachedToWindow</name></member>
+      <member refid="classcrc64720bb2db43a66fe9_1_1_tabbed_page_renderer_1a0e81e18510a980ff1822287c8a8f5fe4" prot="private" virt="non-virtual"><scope>crc64720bb2db43a66fe9::TabbedPageRenderer</scope><name>n_onAttachedToWindow</name></member>
+      <member refid="classcrc64720bb2db43a66fe9_1_1_tabbed_page_renderer_1a0e81e18510a980ff1822287c8a8f5fe4" prot="private" virt="non-virtual"><scope>crc64720bb2db43a66fe9::TabbedPageRenderer</scope><name>n_onAttachedToWindow</name></member>
+      <member refid="classcrc64720bb2db43a66fe9_1_1_tabbed_page_renderer_1a0e81e18510a980ff1822287c8a8f5fe4" prot="private" virt="non-virtual"><scope>crc64720bb2db43a66fe9::TabbedPageRenderer</scope><name>n_onAttachedToWindow</name></member>
+      <member refid="classcrc64720bb2db43a66fe9_1_1_tabbed_page_renderer_1a3a22f779fb0e0ed45043476be08dac49" prot="private" virt="non-virtual"><scope>crc64720bb2db43a66fe9::TabbedPageRenderer</scope><name>n_onDetachedFromWindow</name></member>
+      <member refid="classcrc64720bb2db43a66fe9_1_1_tabbed_page_renderer_1a3a22f779fb0e0ed45043476be08dac49" prot="private" virt="non-virtual"><scope>crc64720bb2db43a66fe9::TabbedPageRenderer</scope><name>n_onDetachedFromWindow</name></member>
+      <member refid="classcrc64720bb2db43a66fe9_1_1_tabbed_page_renderer_1a3a22f779fb0e0ed45043476be08dac49" prot="private" virt="non-virtual"><scope>crc64720bb2db43a66fe9::TabbedPageRenderer</scope><name>n_onDetachedFromWindow</name></member>
+      <member refid="classcrc64720bb2db43a66fe9_1_1_tabbed_page_renderer_1a3a22f779fb0e0ed45043476be08dac49" prot="private" virt="non-virtual"><scope>crc64720bb2db43a66fe9::TabbedPageRenderer</scope><name>n_onDetachedFromWindow</name></member>
+      <member refid="classcrc64720bb2db43a66fe9_1_1_tabbed_page_renderer_1aabd134a37b76e9d7f304ec08fe06f71c" prot="private" virt="non-virtual"><scope>crc64720bb2db43a66fe9::TabbedPageRenderer</scope><name>n_onLayout</name></member>
+      <member refid="classcrc64720bb2db43a66fe9_1_1_tabbed_page_renderer_1aabd134a37b76e9d7f304ec08fe06f71c" prot="private" virt="non-virtual"><scope>crc64720bb2db43a66fe9::TabbedPageRenderer</scope><name>n_onLayout</name></member>
+      <member refid="classcrc64720bb2db43a66fe9_1_1_tabbed_page_renderer_1aabd134a37b76e9d7f304ec08fe06f71c" prot="private" virt="non-virtual"><scope>crc64720bb2db43a66fe9::TabbedPageRenderer</scope><name>n_onLayout</name></member>
+      <member refid="classcrc64720bb2db43a66fe9_1_1_tabbed_page_renderer_1aabd134a37b76e9d7f304ec08fe06f71c" prot="private" virt="non-virtual"><scope>crc64720bb2db43a66fe9::TabbedPageRenderer</scope><name>n_onLayout</name></member>
+      <member refid="classcrc64720bb2db43a66fe9_1_1_tabbed_page_renderer_1aa9ffe62a20a192b5ac532d7b1b424e22" prot="private" virt="non-virtual"><scope>crc64720bb2db43a66fe9::TabbedPageRenderer</scope><name>n_onNavigationItemSelected</name></member>
+      <member refid="classcrc64720bb2db43a66fe9_1_1_tabbed_page_renderer_1aa9ffe62a20a192b5ac532d7b1b424e22" prot="private" virt="non-virtual"><scope>crc64720bb2db43a66fe9::TabbedPageRenderer</scope><name>n_onNavigationItemSelected</name></member>
+      <member refid="classcrc64720bb2db43a66fe9_1_1_tabbed_page_renderer_1aa9ffe62a20a192b5ac532d7b1b424e22" prot="private" virt="non-virtual"><scope>crc64720bb2db43a66fe9::TabbedPageRenderer</scope><name>n_onNavigationItemSelected</name></member>
+      <member refid="classcrc64720bb2db43a66fe9_1_1_tabbed_page_renderer_1aa9ffe62a20a192b5ac532d7b1b424e22" prot="private" virt="non-virtual"><scope>crc64720bb2db43a66fe9::TabbedPageRenderer</scope><name>n_onNavigationItemSelected</name></member>
+      <member refid="classcrc64720bb2db43a66fe9_1_1_tabbed_page_renderer_1a387d4ccf30adb06ccc276d9806dc49f6" prot="private" virt="non-virtual"><scope>crc64720bb2db43a66fe9::TabbedPageRenderer</scope><name>n_onPageScrolled</name></member>
+      <member refid="classcrc64720bb2db43a66fe9_1_1_tabbed_page_renderer_1a387d4ccf30adb06ccc276d9806dc49f6" prot="private" virt="non-virtual"><scope>crc64720bb2db43a66fe9::TabbedPageRenderer</scope><name>n_onPageScrolled</name></member>
+      <member refid="classcrc64720bb2db43a66fe9_1_1_tabbed_page_renderer_1a387d4ccf30adb06ccc276d9806dc49f6" prot="private" virt="non-virtual"><scope>crc64720bb2db43a66fe9::TabbedPageRenderer</scope><name>n_onPageScrolled</name></member>
+      <member refid="classcrc64720bb2db43a66fe9_1_1_tabbed_page_renderer_1a387d4ccf30adb06ccc276d9806dc49f6" prot="private" virt="non-virtual"><scope>crc64720bb2db43a66fe9::TabbedPageRenderer</scope><name>n_onPageScrolled</name></member>
+      <member refid="classcrc64720bb2db43a66fe9_1_1_tabbed_page_renderer_1a1e6741dabadbecc219927bc064ea3e2a" prot="private" virt="non-virtual"><scope>crc64720bb2db43a66fe9::TabbedPageRenderer</scope><name>n_onPageScrollStateChanged</name></member>
+      <member refid="classcrc64720bb2db43a66fe9_1_1_tabbed_page_renderer_1a1e6741dabadbecc219927bc064ea3e2a" prot="private" virt="non-virtual"><scope>crc64720bb2db43a66fe9::TabbedPageRenderer</scope><name>n_onPageScrollStateChanged</name></member>
+      <member refid="classcrc64720bb2db43a66fe9_1_1_tabbed_page_renderer_1a1e6741dabadbecc219927bc064ea3e2a" prot="private" virt="non-virtual"><scope>crc64720bb2db43a66fe9::TabbedPageRenderer</scope><name>n_onPageScrollStateChanged</name></member>
+      <member refid="classcrc64720bb2db43a66fe9_1_1_tabbed_page_renderer_1a1e6741dabadbecc219927bc064ea3e2a" prot="private" virt="non-virtual"><scope>crc64720bb2db43a66fe9::TabbedPageRenderer</scope><name>n_onPageScrollStateChanged</name></member>
+      <member refid="classcrc64720bb2db43a66fe9_1_1_tabbed_page_renderer_1abc2ff08c9b16e9349297cf54c067c068" prot="private" virt="non-virtual"><scope>crc64720bb2db43a66fe9::TabbedPageRenderer</scope><name>n_onPageSelected</name></member>
+      <member refid="classcrc64720bb2db43a66fe9_1_1_tabbed_page_renderer_1abc2ff08c9b16e9349297cf54c067c068" prot="private" virt="non-virtual"><scope>crc64720bb2db43a66fe9::TabbedPageRenderer</scope><name>n_onPageSelected</name></member>
+      <member refid="classcrc64720bb2db43a66fe9_1_1_tabbed_page_renderer_1abc2ff08c9b16e9349297cf54c067c068" prot="private" virt="non-virtual"><scope>crc64720bb2db43a66fe9::TabbedPageRenderer</scope><name>n_onPageSelected</name></member>
+      <member refid="classcrc64720bb2db43a66fe9_1_1_tabbed_page_renderer_1abc2ff08c9b16e9349297cf54c067c068" prot="private" virt="non-virtual"><scope>crc64720bb2db43a66fe9::TabbedPageRenderer</scope><name>n_onPageSelected</name></member>
+      <member refid="classcrc64720bb2db43a66fe9_1_1_tabbed_page_renderer_1ab888c0a0735f93ef888172a8a518dd52" prot="private" virt="non-virtual"><scope>crc64720bb2db43a66fe9::TabbedPageRenderer</scope><name>n_onTabReselected</name></member>
+      <member refid="classcrc64720bb2db43a66fe9_1_1_tabbed_page_renderer_1ab888c0a0735f93ef888172a8a518dd52" prot="private" virt="non-virtual"><scope>crc64720bb2db43a66fe9::TabbedPageRenderer</scope><name>n_onTabReselected</name></member>
+      <member refid="classcrc64720bb2db43a66fe9_1_1_tabbed_page_renderer_1ab888c0a0735f93ef888172a8a518dd52" prot="private" virt="non-virtual"><scope>crc64720bb2db43a66fe9::TabbedPageRenderer</scope><name>n_onTabReselected</name></member>
+      <member refid="classcrc64720bb2db43a66fe9_1_1_tabbed_page_renderer_1ab888c0a0735f93ef888172a8a518dd52" prot="private" virt="non-virtual"><scope>crc64720bb2db43a66fe9::TabbedPageRenderer</scope><name>n_onTabReselected</name></member>
+      <member refid="classcrc64720bb2db43a66fe9_1_1_tabbed_page_renderer_1ace269827730db38f37a11e29bf4ff687" prot="private" virt="non-virtual"><scope>crc64720bb2db43a66fe9::TabbedPageRenderer</scope><name>n_onTabSelected</name></member>
+      <member refid="classcrc64720bb2db43a66fe9_1_1_tabbed_page_renderer_1ace269827730db38f37a11e29bf4ff687" prot="private" virt="non-virtual"><scope>crc64720bb2db43a66fe9::TabbedPageRenderer</scope><name>n_onTabSelected</name></member>
+      <member refid="classcrc64720bb2db43a66fe9_1_1_tabbed_page_renderer_1ace269827730db38f37a11e29bf4ff687" prot="private" virt="non-virtual"><scope>crc64720bb2db43a66fe9::TabbedPageRenderer</scope><name>n_onTabSelected</name></member>
+      <member refid="classcrc64720bb2db43a66fe9_1_1_tabbed_page_renderer_1ace269827730db38f37a11e29bf4ff687" prot="private" virt="non-virtual"><scope>crc64720bb2db43a66fe9::TabbedPageRenderer</scope><name>n_onTabSelected</name></member>
+      <member refid="classcrc64720bb2db43a66fe9_1_1_tabbed_page_renderer_1a5a5c7be880cd5be58ccdc1465362b078" prot="private" virt="non-virtual"><scope>crc64720bb2db43a66fe9::TabbedPageRenderer</scope><name>n_onTabUnselected</name></member>
+      <member refid="classcrc64720bb2db43a66fe9_1_1_tabbed_page_renderer_1a5a5c7be880cd5be58ccdc1465362b078" prot="private" virt="non-virtual"><scope>crc64720bb2db43a66fe9::TabbedPageRenderer</scope><name>n_onTabUnselected</name></member>
+      <member refid="classcrc64720bb2db43a66fe9_1_1_tabbed_page_renderer_1a5a5c7be880cd5be58ccdc1465362b078" prot="private" virt="non-virtual"><scope>crc64720bb2db43a66fe9::TabbedPageRenderer</scope><name>n_onTabUnselected</name></member>
+      <member refid="classcrc64720bb2db43a66fe9_1_1_tabbed_page_renderer_1a5a5c7be880cd5be58ccdc1465362b078" prot="private" virt="non-virtual"><scope>crc64720bb2db43a66fe9::TabbedPageRenderer</scope><name>n_onTabUnselected</name></member>
+      <member refid="classcrc64720bb2db43a66fe9_1_1_tabbed_page_renderer_1a928e7a0616a657303419c6479e3e9c50" prot="public" virt="non-virtual"><scope>crc64720bb2db43a66fe9::TabbedPageRenderer</scope><name>onAttachedToWindow</name></member>
+      <member refid="classcrc64720bb2db43a66fe9_1_1_tabbed_page_renderer_1a928e7a0616a657303419c6479e3e9c50" prot="public" virt="non-virtual"><scope>crc64720bb2db43a66fe9::TabbedPageRenderer</scope><name>onAttachedToWindow</name></member>
+      <member refid="classcrc64720bb2db43a66fe9_1_1_tabbed_page_renderer_1a928e7a0616a657303419c6479e3e9c50" prot="public" virt="non-virtual"><scope>crc64720bb2db43a66fe9::TabbedPageRenderer</scope><name>onAttachedToWindow</name></member>
+      <member refid="classcrc64720bb2db43a66fe9_1_1_tabbed_page_renderer_1a928e7a0616a657303419c6479e3e9c50" prot="public" virt="non-virtual"><scope>crc64720bb2db43a66fe9::TabbedPageRenderer</scope><name>onAttachedToWindow</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_visual_element_renderer__1_1a31a32c8d1668368e4b13d7933a626833" prot="public" virt="non-virtual"><scope>crc64720bb2db43a66fe9::TabbedPageRenderer</scope><name>onConfigurationChanged</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_visual_element_renderer__1_1a31a32c8d1668368e4b13d7933a626833" prot="public" virt="non-virtual"><scope>crc64720bb2db43a66fe9::TabbedPageRenderer</scope><name>onConfigurationChanged</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_visual_element_renderer__1_1a31a32c8d1668368e4b13d7933a626833" prot="public" virt="non-virtual"><scope>crc64720bb2db43a66fe9::TabbedPageRenderer</scope><name>onConfigurationChanged</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_visual_element_renderer__1_1a31a32c8d1668368e4b13d7933a626833" prot="public" virt="non-virtual"><scope>crc64720bb2db43a66fe9::TabbedPageRenderer</scope><name>onConfigurationChanged</name></member>
+      <member refid="classcrc64720bb2db43a66fe9_1_1_tabbed_page_renderer_1af6de6508cbbb1b2c0443c7987efa9a4d" prot="public" virt="non-virtual"><scope>crc64720bb2db43a66fe9::TabbedPageRenderer</scope><name>onDetachedFromWindow</name></member>
+      <member refid="classcrc64720bb2db43a66fe9_1_1_tabbed_page_renderer_1af6de6508cbbb1b2c0443c7987efa9a4d" prot="public" virt="non-virtual"><scope>crc64720bb2db43a66fe9::TabbedPageRenderer</scope><name>onDetachedFromWindow</name></member>
+      <member refid="classcrc64720bb2db43a66fe9_1_1_tabbed_page_renderer_1af6de6508cbbb1b2c0443c7987efa9a4d" prot="public" virt="non-virtual"><scope>crc64720bb2db43a66fe9::TabbedPageRenderer</scope><name>onDetachedFromWindow</name></member>
+      <member refid="classcrc64720bb2db43a66fe9_1_1_tabbed_page_renderer_1af6de6508cbbb1b2c0443c7987efa9a4d" prot="public" virt="non-virtual"><scope>crc64720bb2db43a66fe9::TabbedPageRenderer</scope><name>onDetachedFromWindow</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_visual_element_renderer__1_1ade33eb4d0895f2536faf5f3e57830bc2" prot="public" virt="non-virtual"><scope>crc64720bb2db43a66fe9::TabbedPageRenderer</scope><name>onInterceptTouchEvent</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_visual_element_renderer__1_1ade33eb4d0895f2536faf5f3e57830bc2" prot="public" virt="non-virtual"><scope>crc64720bb2db43a66fe9::TabbedPageRenderer</scope><name>onInterceptTouchEvent</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_visual_element_renderer__1_1ade33eb4d0895f2536faf5f3e57830bc2" prot="public" virt="non-virtual"><scope>crc64720bb2db43a66fe9::TabbedPageRenderer</scope><name>onInterceptTouchEvent</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_visual_element_renderer__1_1ade33eb4d0895f2536faf5f3e57830bc2" prot="public" virt="non-virtual"><scope>crc64720bb2db43a66fe9::TabbedPageRenderer</scope><name>onInterceptTouchEvent</name></member>
+      <member refid="classcrc64720bb2db43a66fe9_1_1_tabbed_page_renderer_1a63c01f50cc65fa61b046ff2c9f59d8c1" prot="public" virt="non-virtual"><scope>crc64720bb2db43a66fe9::TabbedPageRenderer</scope><name>onLayout</name></member>
+      <member refid="classcrc64720bb2db43a66fe9_1_1_tabbed_page_renderer_1a63c01f50cc65fa61b046ff2c9f59d8c1" prot="public" virt="non-virtual"><scope>crc64720bb2db43a66fe9::TabbedPageRenderer</scope><name>onLayout</name></member>
+      <member refid="classcrc64720bb2db43a66fe9_1_1_tabbed_page_renderer_1a63c01f50cc65fa61b046ff2c9f59d8c1" prot="public" virt="non-virtual"><scope>crc64720bb2db43a66fe9::TabbedPageRenderer</scope><name>onLayout</name></member>
+      <member refid="classcrc64720bb2db43a66fe9_1_1_tabbed_page_renderer_1a63c01f50cc65fa61b046ff2c9f59d8c1" prot="public" virt="non-virtual"><scope>crc64720bb2db43a66fe9::TabbedPageRenderer</scope><name>onLayout</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_visual_element_renderer__1_1a68f705864fbd52c60cb4c29f5372aa76" prot="public" virt="non-virtual"><scope>crc64720bb2db43a66fe9::TabbedPageRenderer</scope><name>onMeasure</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_visual_element_renderer__1_1a68f705864fbd52c60cb4c29f5372aa76" prot="public" virt="non-virtual"><scope>crc64720bb2db43a66fe9::TabbedPageRenderer</scope><name>onMeasure</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_visual_element_renderer__1_1a68f705864fbd52c60cb4c29f5372aa76" prot="public" virt="non-virtual"><scope>crc64720bb2db43a66fe9::TabbedPageRenderer</scope><name>onMeasure</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_visual_element_renderer__1_1a68f705864fbd52c60cb4c29f5372aa76" prot="public" virt="non-virtual"><scope>crc64720bb2db43a66fe9::TabbedPageRenderer</scope><name>onMeasure</name></member>
+      <member refid="classcrc64720bb2db43a66fe9_1_1_tabbed_page_renderer_1a68f00af2c9c1ad08064276155f70baf0" prot="public" virt="non-virtual"><scope>crc64720bb2db43a66fe9::TabbedPageRenderer</scope><name>onNavigationItemSelected</name></member>
+      <member refid="classcrc64720bb2db43a66fe9_1_1_tabbed_page_renderer_1a68f00af2c9c1ad08064276155f70baf0" prot="public" virt="non-virtual"><scope>crc64720bb2db43a66fe9::TabbedPageRenderer</scope><name>onNavigationItemSelected</name></member>
+      <member refid="classcrc64720bb2db43a66fe9_1_1_tabbed_page_renderer_1a68f00af2c9c1ad08064276155f70baf0" prot="public" virt="non-virtual"><scope>crc64720bb2db43a66fe9::TabbedPageRenderer</scope><name>onNavigationItemSelected</name></member>
+      <member refid="classcrc64720bb2db43a66fe9_1_1_tabbed_page_renderer_1a68f00af2c9c1ad08064276155f70baf0" prot="public" virt="non-virtual"><scope>crc64720bb2db43a66fe9::TabbedPageRenderer</scope><name>onNavigationItemSelected</name></member>
+      <member refid="classcrc64720bb2db43a66fe9_1_1_tabbed_page_renderer_1a158f69d373c890461b1569deb2dc74ac" prot="public" virt="non-virtual"><scope>crc64720bb2db43a66fe9::TabbedPageRenderer</scope><name>onPageScrolled</name></member>
+      <member refid="classcrc64720bb2db43a66fe9_1_1_tabbed_page_renderer_1a158f69d373c890461b1569deb2dc74ac" prot="public" virt="non-virtual"><scope>crc64720bb2db43a66fe9::TabbedPageRenderer</scope><name>onPageScrolled</name></member>
+      <member refid="classcrc64720bb2db43a66fe9_1_1_tabbed_page_renderer_1a158f69d373c890461b1569deb2dc74ac" prot="public" virt="non-virtual"><scope>crc64720bb2db43a66fe9::TabbedPageRenderer</scope><name>onPageScrolled</name></member>
+      <member refid="classcrc64720bb2db43a66fe9_1_1_tabbed_page_renderer_1a158f69d373c890461b1569deb2dc74ac" prot="public" virt="non-virtual"><scope>crc64720bb2db43a66fe9::TabbedPageRenderer</scope><name>onPageScrolled</name></member>
+      <member refid="classcrc64720bb2db43a66fe9_1_1_tabbed_page_renderer_1acaddf07bd007a125c81cb8fd12e6a683" prot="public" virt="non-virtual"><scope>crc64720bb2db43a66fe9::TabbedPageRenderer</scope><name>onPageScrollStateChanged</name></member>
+      <member refid="classcrc64720bb2db43a66fe9_1_1_tabbed_page_renderer_1acaddf07bd007a125c81cb8fd12e6a683" prot="public" virt="non-virtual"><scope>crc64720bb2db43a66fe9::TabbedPageRenderer</scope><name>onPageScrollStateChanged</name></member>
+      <member refid="classcrc64720bb2db43a66fe9_1_1_tabbed_page_renderer_1acaddf07bd007a125c81cb8fd12e6a683" prot="public" virt="non-virtual"><scope>crc64720bb2db43a66fe9::TabbedPageRenderer</scope><name>onPageScrollStateChanged</name></member>
+      <member refid="classcrc64720bb2db43a66fe9_1_1_tabbed_page_renderer_1acaddf07bd007a125c81cb8fd12e6a683" prot="public" virt="non-virtual"><scope>crc64720bb2db43a66fe9::TabbedPageRenderer</scope><name>onPageScrollStateChanged</name></member>
+      <member refid="classcrc64720bb2db43a66fe9_1_1_tabbed_page_renderer_1aaff34a617a2e1b8939c0da77b4771423" prot="public" virt="non-virtual"><scope>crc64720bb2db43a66fe9::TabbedPageRenderer</scope><name>onPageSelected</name></member>
+      <member refid="classcrc64720bb2db43a66fe9_1_1_tabbed_page_renderer_1aaff34a617a2e1b8939c0da77b4771423" prot="public" virt="non-virtual"><scope>crc64720bb2db43a66fe9::TabbedPageRenderer</scope><name>onPageSelected</name></member>
+      <member refid="classcrc64720bb2db43a66fe9_1_1_tabbed_page_renderer_1aaff34a617a2e1b8939c0da77b4771423" prot="public" virt="non-virtual"><scope>crc64720bb2db43a66fe9::TabbedPageRenderer</scope><name>onPageSelected</name></member>
+      <member refid="classcrc64720bb2db43a66fe9_1_1_tabbed_page_renderer_1aaff34a617a2e1b8939c0da77b4771423" prot="public" virt="non-virtual"><scope>crc64720bb2db43a66fe9::TabbedPageRenderer</scope><name>onPageSelected</name></member>
+      <member refid="classcrc64720bb2db43a66fe9_1_1_tabbed_page_renderer_1ada5efbeaa4e1e3c8d89200d661e2a312" prot="public" virt="non-virtual"><scope>crc64720bb2db43a66fe9::TabbedPageRenderer</scope><name>onTabReselected</name></member>
+      <member refid="classcrc64720bb2db43a66fe9_1_1_tabbed_page_renderer_1ada5efbeaa4e1e3c8d89200d661e2a312" prot="public" virt="non-virtual"><scope>crc64720bb2db43a66fe9::TabbedPageRenderer</scope><name>onTabReselected</name></member>
+      <member refid="classcrc64720bb2db43a66fe9_1_1_tabbed_page_renderer_1ada5efbeaa4e1e3c8d89200d661e2a312" prot="public" virt="non-virtual"><scope>crc64720bb2db43a66fe9::TabbedPageRenderer</scope><name>onTabReselected</name></member>
+      <member refid="classcrc64720bb2db43a66fe9_1_1_tabbed_page_renderer_1ada5efbeaa4e1e3c8d89200d661e2a312" prot="public" virt="non-virtual"><scope>crc64720bb2db43a66fe9::TabbedPageRenderer</scope><name>onTabReselected</name></member>
+      <member refid="classcrc64720bb2db43a66fe9_1_1_tabbed_page_renderer_1a9572c88157b208bee520f76625c9a6d4" prot="public" virt="non-virtual"><scope>crc64720bb2db43a66fe9::TabbedPageRenderer</scope><name>onTabSelected</name></member>
+      <member refid="classcrc64720bb2db43a66fe9_1_1_tabbed_page_renderer_1a9572c88157b208bee520f76625c9a6d4" prot="public" virt="non-virtual"><scope>crc64720bb2db43a66fe9::TabbedPageRenderer</scope><name>onTabSelected</name></member>
+      <member refid="classcrc64720bb2db43a66fe9_1_1_tabbed_page_renderer_1a9572c88157b208bee520f76625c9a6d4" prot="public" virt="non-virtual"><scope>crc64720bb2db43a66fe9::TabbedPageRenderer</scope><name>onTabSelected</name></member>
+      <member refid="classcrc64720bb2db43a66fe9_1_1_tabbed_page_renderer_1a9572c88157b208bee520f76625c9a6d4" prot="public" virt="non-virtual"><scope>crc64720bb2db43a66fe9::TabbedPageRenderer</scope><name>onTabSelected</name></member>
+      <member refid="classcrc64720bb2db43a66fe9_1_1_tabbed_page_renderer_1ac28bf71e2bf0a7e0059a43bce8f3e131" prot="public" virt="non-virtual"><scope>crc64720bb2db43a66fe9::TabbedPageRenderer</scope><name>onTabUnselected</name></member>
+      <member refid="classcrc64720bb2db43a66fe9_1_1_tabbed_page_renderer_1ac28bf71e2bf0a7e0059a43bce8f3e131" prot="public" virt="non-virtual"><scope>crc64720bb2db43a66fe9::TabbedPageRenderer</scope><name>onTabUnselected</name></member>
+      <member refid="classcrc64720bb2db43a66fe9_1_1_tabbed_page_renderer_1ac28bf71e2bf0a7e0059a43bce8f3e131" prot="public" virt="non-virtual"><scope>crc64720bb2db43a66fe9::TabbedPageRenderer</scope><name>onTabUnselected</name></member>
+      <member refid="classcrc64720bb2db43a66fe9_1_1_tabbed_page_renderer_1ac28bf71e2bf0a7e0059a43bce8f3e131" prot="public" virt="non-virtual"><scope>crc64720bb2db43a66fe9::TabbedPageRenderer</scope><name>onTabUnselected</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_visual_element_renderer__1_1a11426581e099109c3f05f848cd0f55a4" prot="public" virt="non-virtual"><scope>crc64720bb2db43a66fe9::TabbedPageRenderer</scope><name>onTouchEvent</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_visual_element_renderer__1_1a11426581e099109c3f05f848cd0f55a4" prot="public" virt="non-virtual"><scope>crc64720bb2db43a66fe9::TabbedPageRenderer</scope><name>onTouchEvent</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_visual_element_renderer__1_1a11426581e099109c3f05f848cd0f55a4" prot="public" virt="non-virtual"><scope>crc64720bb2db43a66fe9::TabbedPageRenderer</scope><name>onTouchEvent</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_visual_element_renderer__1_1a11426581e099109c3f05f848cd0f55a4" prot="public" virt="non-virtual"><scope>crc64720bb2db43a66fe9::TabbedPageRenderer</scope><name>onTouchEvent</name></member>
+      <member refid="classcrc64720bb2db43a66fe9_1_1_tabbed_page_renderer_1ab185f325292fe801cfc12d0536e6ccee" prot="private" virt="non-virtual"><scope>crc64720bb2db43a66fe9::TabbedPageRenderer</scope><name>refList</name></member>
+      <member refid="classcrc64720bb2db43a66fe9_1_1_tabbed_page_renderer_1a664276842758c4e6c7446b52fcbb97ad" prot="public" virt="non-virtual"><scope>crc64720bb2db43a66fe9::TabbedPageRenderer</scope><name>TabbedPageRenderer</name></member>
+      <member refid="classcrc64720bb2db43a66fe9_1_1_tabbed_page_renderer_1ae02184f3b9be1a0323a9528ed66df91e" prot="public" virt="non-virtual"><scope>crc64720bb2db43a66fe9::TabbedPageRenderer</scope><name>TabbedPageRenderer</name></member>
+      <member refid="classcrc64720bb2db43a66fe9_1_1_tabbed_page_renderer_1ade913d75ee45e8fe14569265fcb43b7f" prot="public" virt="non-virtual"><scope>crc64720bb2db43a66fe9::TabbedPageRenderer</scope><name>TabbedPageRenderer</name></member>
+      <member refid="classcrc64720bb2db43a66fe9_1_1_tabbed_page_renderer_1a664276842758c4e6c7446b52fcbb97ad" prot="public" virt="non-virtual"><scope>crc64720bb2db43a66fe9::TabbedPageRenderer</scope><name>TabbedPageRenderer</name></member>
+      <member refid="classcrc64720bb2db43a66fe9_1_1_tabbed_page_renderer_1ae02184f3b9be1a0323a9528ed66df91e" prot="public" virt="non-virtual"><scope>crc64720bb2db43a66fe9::TabbedPageRenderer</scope><name>TabbedPageRenderer</name></member>
+      <member refid="classcrc64720bb2db43a66fe9_1_1_tabbed_page_renderer_1ade913d75ee45e8fe14569265fcb43b7f" prot="public" virt="non-virtual"><scope>crc64720bb2db43a66fe9::TabbedPageRenderer</scope><name>TabbedPageRenderer</name></member>
+      <member refid="classcrc64720bb2db43a66fe9_1_1_tabbed_page_renderer_1a664276842758c4e6c7446b52fcbb97ad" prot="public" virt="non-virtual"><scope>crc64720bb2db43a66fe9::TabbedPageRenderer</scope><name>TabbedPageRenderer</name></member>
+      <member refid="classcrc64720bb2db43a66fe9_1_1_tabbed_page_renderer_1ae02184f3b9be1a0323a9528ed66df91e" prot="public" virt="non-virtual"><scope>crc64720bb2db43a66fe9::TabbedPageRenderer</scope><name>TabbedPageRenderer</name></member>
+      <member refid="classcrc64720bb2db43a66fe9_1_1_tabbed_page_renderer_1ade913d75ee45e8fe14569265fcb43b7f" prot="public" virt="non-virtual"><scope>crc64720bb2db43a66fe9::TabbedPageRenderer</scope><name>TabbedPageRenderer</name></member>
+      <member refid="classcrc64720bb2db43a66fe9_1_1_tabbed_page_renderer_1a664276842758c4e6c7446b52fcbb97ad" prot="public" virt="non-virtual"><scope>crc64720bb2db43a66fe9::TabbedPageRenderer</scope><name>TabbedPageRenderer</name></member>
+      <member refid="classcrc64720bb2db43a66fe9_1_1_tabbed_page_renderer_1ae02184f3b9be1a0323a9528ed66df91e" prot="public" virt="non-virtual"><scope>crc64720bb2db43a66fe9::TabbedPageRenderer</scope><name>TabbedPageRenderer</name></member>
+      <member refid="classcrc64720bb2db43a66fe9_1_1_tabbed_page_renderer_1ade913d75ee45e8fe14569265fcb43b7f" prot="public" virt="non-virtual"><scope>crc64720bb2db43a66fe9::TabbedPageRenderer</scope><name>TabbedPageRenderer</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_visual_element_renderer__1_1a347f18991a486c5b5f1c4dcd83475f21" prot="public" virt="non-virtual"><scope>crc64720bb2db43a66fe9::TabbedPageRenderer</scope><name>VisualElementRenderer_1</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_visual_element_renderer__1_1a42957113957987d17592ba290f118ec5" prot="public" virt="non-virtual"><scope>crc64720bb2db43a66fe9::TabbedPageRenderer</scope><name>VisualElementRenderer_1</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_visual_element_renderer__1_1a92a3ec4e374dfc2f8b16cfccb9b83c7f" prot="public" virt="non-virtual"><scope>crc64720bb2db43a66fe9::TabbedPageRenderer</scope><name>VisualElementRenderer_1</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_visual_element_renderer__1_1a347f18991a486c5b5f1c4dcd83475f21" prot="public" virt="non-virtual"><scope>crc64720bb2db43a66fe9::TabbedPageRenderer</scope><name>VisualElementRenderer_1</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_visual_element_renderer__1_1a42957113957987d17592ba290f118ec5" prot="public" virt="non-virtual"><scope>crc64720bb2db43a66fe9::TabbedPageRenderer</scope><name>VisualElementRenderer_1</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_visual_element_renderer__1_1a92a3ec4e374dfc2f8b16cfccb9b83c7f" prot="public" virt="non-virtual"><scope>crc64720bb2db43a66fe9::TabbedPageRenderer</scope><name>VisualElementRenderer_1</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_visual_element_renderer__1_1a347f18991a486c5b5f1c4dcd83475f21" prot="public" virt="non-virtual"><scope>crc64720bb2db43a66fe9::TabbedPageRenderer</scope><name>VisualElementRenderer_1</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_visual_element_renderer__1_1a42957113957987d17592ba290f118ec5" prot="public" virt="non-virtual"><scope>crc64720bb2db43a66fe9::TabbedPageRenderer</scope><name>VisualElementRenderer_1</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_visual_element_renderer__1_1a92a3ec4e374dfc2f8b16cfccb9b83c7f" prot="public" virt="non-virtual"><scope>crc64720bb2db43a66fe9::TabbedPageRenderer</scope><name>VisualElementRenderer_1</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_visual_element_renderer__1_1a347f18991a486c5b5f1c4dcd83475f21" prot="public" virt="non-virtual"><scope>crc64720bb2db43a66fe9::TabbedPageRenderer</scope><name>VisualElementRenderer_1</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_visual_element_renderer__1_1a42957113957987d17592ba290f118ec5" prot="public" virt="non-virtual"><scope>crc64720bb2db43a66fe9::TabbedPageRenderer</scope><name>VisualElementRenderer_1</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_visual_element_renderer__1_1a92a3ec4e374dfc2f8b16cfccb9b83c7f" prot="public" virt="non-virtual"><scope>crc64720bb2db43a66fe9::TabbedPageRenderer</scope><name>VisualElementRenderer_1</name></member>
+    </listofallmembers>
+  </compounddef>
+</doxygen>

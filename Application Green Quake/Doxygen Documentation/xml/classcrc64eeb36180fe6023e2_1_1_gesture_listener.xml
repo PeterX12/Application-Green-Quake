@@ -1,0 +1,308 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.9.1" xml:lang="en-US">
+  <compounddef id="classcrc64eeb36180fe6023e2_1_1_gesture_listener" kind="class" language="Java" prot="public">
+    <compoundname>crc64eeb36180fe6023e2::GestureListener</compoundname>
+    <basecompoundref prot="public" virt="non-virtual">android.view.GestureDetector.SimpleOnGestureListener</basecompoundref>
+    <basecompoundref prot="public" virt="non-virtual">mono.android.IGCUserPeer</basecompoundref>
+      <sectiondef kind="public-static-attrib">
+      <memberdef kind="variable" id="classcrc64eeb36180fe6023e2_1_1_gesture_listener_1ac5ca0cf574f79f0ab78e4e82591bc577" prot="public" static="yes" mutable="no">
+        <type>final String</type>
+        <definition>final String crc64eeb36180fe6023e2.GestureListener.__md_methods</definition>
+        <argsstring></argsstring>
+        <name>__md_methods</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+<para>@hide </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/110/android/src/crc64eeb36180fe6023e2/GestureListener.java" line="10" column="28" bodyfile="Application Green Quake.Android/obj/Debug/110/android/src/crc64eeb36180fe6023e2/GestureListener.java" bodystart="10" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="private-attrib">
+      <memberdef kind="variable" id="classcrc64eeb36180fe6023e2_1_1_gesture_listener_1a1cacc19ff369a8343f16e6750ff11be1" prot="private" static="no" mutable="no">
+        <type>java.util.ArrayList</type>
+        <definition>java.util.ArrayList crc64eeb36180fe6023e2.GestureListener.refList</definition>
+        <argsstring></argsstring>
+        <name>refList</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/110/android/src/crc64eeb36180fe6023e2/GestureListener.java" line="68" column="27" bodyfile="Application Green Quake.Android/obj/Debug/110/android/src/crc64eeb36180fe6023e2/GestureListener.java" bodystart="68" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="package-static-func">
+      <memberdef kind="function" id="classcrc64eeb36180fe6023e2_1_1_gesture_listener_1a058d3befd61722d3f47517d1373428c6" prot="package" static="yes" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>crc64eeb36180fe6023e2.GestureListener.[static initializer]</definition>
+        <argsstring></argsstring>
+        <name>[static initializer]</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/110/android/src/crc64eeb36180fe6023e2/GestureListener.java" line="10" column="28"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="public-func">
+      <memberdef kind="function" id="classcrc64eeb36180fe6023e2_1_1_gesture_listener_1af820e7049169f2a4a6d617cc021c8ffc" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>crc64eeb36180fe6023e2.GestureListener.GestureListener</definition>
+        <argsstring>()</argsstring>
+        <name>GestureListener</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/110/android/src/crc64eeb36180fe6023e2/GestureListener.java" line="22" column="8" bodyfile="Application Green Quake.Android/obj/Debug/110/android/src/crc64eeb36180fe6023e2/GestureListener.java" bodystart="22" bodyend="27"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc64eeb36180fe6023e2_1_1_gesture_listener_1aff507ef8292baf164576182078c3d23e" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>crc64eeb36180fe6023e2.GestureListener.GestureListener</definition>
+        <argsstring>(crc64eeb36180fe6023e2.SfEffectsViewRenderer p0)</argsstring>
+        <name>GestureListener</name>
+        <param>
+          <type><ref refid="classcrc64eeb36180fe6023e2_1_1_sf_effects_view_renderer" kindref="compound">crc64eeb36180fe6023e2.SfEffectsViewRenderer</ref></type>
+          <declname>p0</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/110/android/src/crc64eeb36180fe6023e2/GestureListener.java" line="29" column="8" bodyfile="Application Green Quake.Android/obj/Debug/110/android/src/crc64eeb36180fe6023e2/GestureListener.java" bodystart="29" bodyend="34"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc64eeb36180fe6023e2_1_1_gesture_listener_1a45606051ff46de7f80894048df280126" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>boolean</type>
+        <definition>boolean crc64eeb36180fe6023e2.GestureListener.onDown</definition>
+        <argsstring>(android.view.MotionEvent p0)</argsstring>
+        <name>onDown</name>
+        <param>
+          <type>android.view.MotionEvent</type>
+          <declname>p0</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/110/android/src/crc64eeb36180fe6023e2/GestureListener.java" line="37" column="16" bodyfile="Application Green Quake.Android/obj/Debug/110/android/src/crc64eeb36180fe6023e2/GestureListener.java" bodystart="37" bodyend="40"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc64eeb36180fe6023e2_1_1_gesture_listener_1aa71c747f7cd841c8b3c0c55a9d921dea" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void crc64eeb36180fe6023e2.GestureListener.onLongPress</definition>
+        <argsstring>(android.view.MotionEvent p0)</argsstring>
+        <name>onLongPress</name>
+        <param>
+          <type>android.view.MotionEvent</type>
+          <declname>p0</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/110/android/src/crc64eeb36180fe6023e2/GestureListener.java" line="45" column="13" bodyfile="Application Green Quake.Android/obj/Debug/110/android/src/crc64eeb36180fe6023e2/GestureListener.java" bodystart="45" bodyend="48"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc64eeb36180fe6023e2_1_1_gesture_listener_1ad87bebad91adf8c2a8be09550f4eb601" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>boolean</type>
+        <definition>boolean crc64eeb36180fe6023e2.GestureListener.onDoubleTap</definition>
+        <argsstring>(android.view.MotionEvent p0)</argsstring>
+        <name>onDoubleTap</name>
+        <param>
+          <type>android.view.MotionEvent</type>
+          <declname>p0</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/110/android/src/crc64eeb36180fe6023e2/GestureListener.java" line="53" column="16" bodyfile="Application Green Quake.Android/obj/Debug/110/android/src/crc64eeb36180fe6023e2/GestureListener.java" bodystart="53" bodyend="56"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc64eeb36180fe6023e2_1_1_gesture_listener_1acf67fca4d59880d2e74fc50a0cd7f66e" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>boolean</type>
+        <definition>boolean crc64eeb36180fe6023e2.GestureListener.onSingleTapUp</definition>
+        <argsstring>(android.view.MotionEvent p0)</argsstring>
+        <name>onSingleTapUp</name>
+        <param>
+          <type>android.view.MotionEvent</type>
+          <declname>p0</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/110/android/src/crc64eeb36180fe6023e2/GestureListener.java" line="61" column="16" bodyfile="Application Green Quake.Android/obj/Debug/110/android/src/crc64eeb36180fe6023e2/GestureListener.java" bodystart="61" bodyend="64"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc64eeb36180fe6023e2_1_1_gesture_listener_1a8deb8ddb96e2640de47e1e1ea2866b7a" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void crc64eeb36180fe6023e2.GestureListener.monodroidAddReference</definition>
+        <argsstring>(java.lang.Object obj)</argsstring>
+        <name>monodroidAddReference</name>
+        <param>
+          <type>java.lang.Object</type>
+          <declname>obj</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/110/android/src/crc64eeb36180fe6023e2/GestureListener.java" line="69" column="13" bodyfile="Application Green Quake.Android/obj/Debug/110/android/src/crc64eeb36180fe6023e2/GestureListener.java" bodystart="69" bodyend="74"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc64eeb36180fe6023e2_1_1_gesture_listener_1a90f9452c00f41d939f2acd8d49fd8344" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void crc64eeb36180fe6023e2.GestureListener.monodroidClearReferences</definition>
+        <argsstring>()</argsstring>
+        <name>monodroidClearReferences</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/110/android/src/crc64eeb36180fe6023e2/GestureListener.java" line="76" column="13" bodyfile="Application Green Quake.Android/obj/Debug/110/android/src/crc64eeb36180fe6023e2/GestureListener.java" bodystart="76" bodyend="80"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="private-func">
+      <memberdef kind="function" id="classcrc64eeb36180fe6023e2_1_1_gesture_listener_1a431c03d49df93970fe63f34337b1185a" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>native boolean</type>
+        <definition>native boolean crc64eeb36180fe6023e2.GestureListener.n_onDown</definition>
+        <argsstring>(android.view.MotionEvent p0)</argsstring>
+        <name>n_onDown</name>
+        <param>
+          <type>android.view.MotionEvent</type>
+          <declname>p0</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/110/android/src/crc64eeb36180fe6023e2/GestureListener.java" line="42" column="24"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc64eeb36180fe6023e2_1_1_gesture_listener_1a289ceab5da968bcfd8e606ed73f14e79" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>native void</type>
+        <definition>native void crc64eeb36180fe6023e2.GestureListener.n_onLongPress</definition>
+        <argsstring>(android.view.MotionEvent p0)</argsstring>
+        <name>n_onLongPress</name>
+        <param>
+          <type>android.view.MotionEvent</type>
+          <declname>p0</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/110/android/src/crc64eeb36180fe6023e2/GestureListener.java" line="50" column="21"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc64eeb36180fe6023e2_1_1_gesture_listener_1a37f31c90161d0477fc7a307d310d0f70" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>native boolean</type>
+        <definition>native boolean crc64eeb36180fe6023e2.GestureListener.n_onDoubleTap</definition>
+        <argsstring>(android.view.MotionEvent p0)</argsstring>
+        <name>n_onDoubleTap</name>
+        <param>
+          <type>android.view.MotionEvent</type>
+          <declname>p0</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/110/android/src/crc64eeb36180fe6023e2/GestureListener.java" line="58" column="24"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc64eeb36180fe6023e2_1_1_gesture_listener_1a8525bd4247a7cdb53fa8449e7c621cac" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>native boolean</type>
+        <definition>native boolean crc64eeb36180fe6023e2.GestureListener.n_onSingleTapUp</definition>
+        <argsstring>(android.view.MotionEvent p0)</argsstring>
+        <name>n_onSingleTapUp</name>
+        <param>
+          <type>android.view.MotionEvent</type>
+          <declname>p0</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/110/android/src/crc64eeb36180fe6023e2/GestureListener.java" line="66" column="24"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <inheritancegraph>
+      <node id="2">
+        <label>android.view.GestureDetector.SimpleOnGestureListener</label>
+      </node>
+      <node id="1">
+        <label>crc64eeb36180fe6023e2.GestureListener</label>
+        <link refid="classcrc64eeb36180fe6023e2_1_1_gesture_listener"/>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+        <childnode refid="3" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="3">
+        <label>mono.android.IGCUserPeer</label>
+      </node>
+    </inheritancegraph>
+    <collaborationgraph>
+      <node id="2">
+        <label>android.view.GestureDetector.SimpleOnGestureListener</label>
+      </node>
+      <node id="1">
+        <label>crc64eeb36180fe6023e2.GestureListener</label>
+        <link refid="classcrc64eeb36180fe6023e2_1_1_gesture_listener"/>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+        <childnode refid="3" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="3">
+        <label>mono.android.IGCUserPeer</label>
+      </node>
+    </collaborationgraph>
+    <location file="Application Green Quake.Android/obj/Debug/110/android/src/crc64eeb36180fe6023e2/GestureListener.java" line="4" column="7" bodyfile="Application Green Quake.Android/obj/Debug/110/android/src/crc64eeb36180fe6023e2/GestureListener.java" bodystart="8" bodyend="81"/>
+    <listofallmembers>
+      <member refid="classcrc64eeb36180fe6023e2_1_1_gesture_listener_1a058d3befd61722d3f47517d1373428c6" prot="package" virt="non-virtual"><scope>crc64eeb36180fe6023e2::GestureListener</scope><name>[static initializer]</name></member>
+      <member refid="classcrc64eeb36180fe6023e2_1_1_gesture_listener_1ac5ca0cf574f79f0ab78e4e82591bc577" prot="public" virt="non-virtual"><scope>crc64eeb36180fe6023e2::GestureListener</scope><name>__md_methods</name></member>
+      <member refid="classcrc64eeb36180fe6023e2_1_1_gesture_listener_1af820e7049169f2a4a6d617cc021c8ffc" prot="public" virt="non-virtual"><scope>crc64eeb36180fe6023e2::GestureListener</scope><name>GestureListener</name></member>
+      <member refid="classcrc64eeb36180fe6023e2_1_1_gesture_listener_1aff507ef8292baf164576182078c3d23e" prot="public" virt="non-virtual"><scope>crc64eeb36180fe6023e2::GestureListener</scope><name>GestureListener</name></member>
+      <member refid="classcrc64eeb36180fe6023e2_1_1_gesture_listener_1a8deb8ddb96e2640de47e1e1ea2866b7a" prot="public" virt="non-virtual"><scope>crc64eeb36180fe6023e2::GestureListener</scope><name>monodroidAddReference</name></member>
+      <member refid="classcrc64eeb36180fe6023e2_1_1_gesture_listener_1a90f9452c00f41d939f2acd8d49fd8344" prot="public" virt="non-virtual"><scope>crc64eeb36180fe6023e2::GestureListener</scope><name>monodroidClearReferences</name></member>
+      <member refid="classcrc64eeb36180fe6023e2_1_1_gesture_listener_1a37f31c90161d0477fc7a307d310d0f70" prot="private" virt="non-virtual"><scope>crc64eeb36180fe6023e2::GestureListener</scope><name>n_onDoubleTap</name></member>
+      <member refid="classcrc64eeb36180fe6023e2_1_1_gesture_listener_1a431c03d49df93970fe63f34337b1185a" prot="private" virt="non-virtual"><scope>crc64eeb36180fe6023e2::GestureListener</scope><name>n_onDown</name></member>
+      <member refid="classcrc64eeb36180fe6023e2_1_1_gesture_listener_1a289ceab5da968bcfd8e606ed73f14e79" prot="private" virt="non-virtual"><scope>crc64eeb36180fe6023e2::GestureListener</scope><name>n_onLongPress</name></member>
+      <member refid="classcrc64eeb36180fe6023e2_1_1_gesture_listener_1a8525bd4247a7cdb53fa8449e7c621cac" prot="private" virt="non-virtual"><scope>crc64eeb36180fe6023e2::GestureListener</scope><name>n_onSingleTapUp</name></member>
+      <member refid="classcrc64eeb36180fe6023e2_1_1_gesture_listener_1ad87bebad91adf8c2a8be09550f4eb601" prot="public" virt="non-virtual"><scope>crc64eeb36180fe6023e2::GestureListener</scope><name>onDoubleTap</name></member>
+      <member refid="classcrc64eeb36180fe6023e2_1_1_gesture_listener_1a45606051ff46de7f80894048df280126" prot="public" virt="non-virtual"><scope>crc64eeb36180fe6023e2::GestureListener</scope><name>onDown</name></member>
+      <member refid="classcrc64eeb36180fe6023e2_1_1_gesture_listener_1aa71c747f7cd841c8b3c0c55a9d921dea" prot="public" virt="non-virtual"><scope>crc64eeb36180fe6023e2::GestureListener</scope><name>onLongPress</name></member>
+      <member refid="classcrc64eeb36180fe6023e2_1_1_gesture_listener_1acf67fca4d59880d2e74fc50a0cd7f66e" prot="public" virt="non-virtual"><scope>crc64eeb36180fe6023e2::GestureListener</scope><name>onSingleTapUp</name></member>
+      <member refid="classcrc64eeb36180fe6023e2_1_1_gesture_listener_1a1cacc19ff369a8343f16e6750ff11be1" prot="private" virt="non-virtual"><scope>crc64eeb36180fe6023e2::GestureListener</scope><name>refList</name></member>
+    </listofallmembers>
+  </compounddef>
+</doxygen>

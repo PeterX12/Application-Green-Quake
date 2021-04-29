@@ -1,0 +1,1770 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.9.1" xml:lang="en-US">
+  <compounddef id="classcrc643f46942d9dd1fff9_1_1_flyout_page_renderer" kind="class" language="Java" prot="public">
+    <compoundname>crc643f46942d9dd1fff9::FlyoutPageRenderer</compoundname>
+    <basecompoundref prot="public" virt="non-virtual">androidx.drawerlayout.widget.DrawerLayout</basecompoundref>
+    <basecompoundref prot="public" virt="non-virtual">mono.android.IGCUserPeer</basecompoundref>
+    <basecompoundref prot="public" virt="non-virtual">androidx.drawerlayout.widget.DrawerLayout.DrawerListener</basecompoundref>
+    <basecompoundref prot="public" virt="non-virtual">androidx.drawerlayout.widget.DrawerLayout</basecompoundref>
+    <basecompoundref prot="public" virt="non-virtual">mono.android.IGCUserPeer</basecompoundref>
+    <basecompoundref prot="public" virt="non-virtual">androidx.drawerlayout.widget.DrawerLayout.DrawerListener</basecompoundref>
+    <basecompoundref prot="public" virt="non-virtual">androidx.drawerlayout.widget.DrawerLayout</basecompoundref>
+    <basecompoundref prot="public" virt="non-virtual">mono.android.IGCUserPeer</basecompoundref>
+    <basecompoundref prot="public" virt="non-virtual">androidx.drawerlayout.widget.DrawerLayout.DrawerListener</basecompoundref>
+    <basecompoundref prot="public" virt="non-virtual">androidx.drawerlayout.widget.DrawerLayout</basecompoundref>
+    <basecompoundref prot="public" virt="non-virtual">mono.android.IGCUserPeer</basecompoundref>
+    <basecompoundref prot="public" virt="non-virtual">androidx.drawerlayout.widget.DrawerLayout.DrawerListener</basecompoundref>
+    <derivedcompoundref refid="classcrc64720bb2db43a66fe9_1_1_master_detail_page_renderer" prot="public" virt="non-virtual">crc64720bb2db43a66fe9.MasterDetailPageRenderer</derivedcompoundref>
+    <derivedcompoundref refid="classcrc64720bb2db43a66fe9_1_1_master_detail_page_renderer" prot="public" virt="non-virtual">crc64720bb2db43a66fe9.MasterDetailPageRenderer</derivedcompoundref>
+    <derivedcompoundref refid="classcrc64720bb2db43a66fe9_1_1_master_detail_page_renderer" prot="public" virt="non-virtual">crc64720bb2db43a66fe9.MasterDetailPageRenderer</derivedcompoundref>
+    <derivedcompoundref refid="classcrc64720bb2db43a66fe9_1_1_master_detail_page_renderer" prot="public" virt="non-virtual">crc64720bb2db43a66fe9.MasterDetailPageRenderer</derivedcompoundref>
+      <sectiondef kind="public-static-attrib">
+      <memberdef kind="variable" id="classcrc643f46942d9dd1fff9_1_1_flyout_page_renderer_1a49cdbcd4b25c24877f76551af245e962" prot="public" static="yes" mutable="no">
+        <type>final String</type>
+        <definition>static final String crc643f46942d9dd1fff9.FlyoutPageRenderer::__md_methods</definition>
+        <argsstring></argsstring>
+        <name>__md_methods</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+<para>@hide </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/100/android/src/crc643f46942d9dd1fff9/FlyoutPageRenderer.java" line="11" column="28" bodyfile="Application Green Quake.Android/obj/Debug/100/android/src/crc643f46942d9dd1fff9/FlyoutPageRenderer.java" bodystart="11" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="private-attrib">
+      <memberdef kind="variable" id="classcrc643f46942d9dd1fff9_1_1_flyout_page_renderer_1a7cdc71151dd27b37aac0d2d92ee9b628" prot="private" static="no" mutable="no">
+        <type>java.util.ArrayList</type>
+        <definition>java util ArrayList crc643f46942d9dd1fff9.FlyoutPageRenderer::refList</definition>
+        <argsstring></argsstring>
+        <name>refList</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/100/android/src/crc643f46942d9dd1fff9/FlyoutPageRenderer.java" line="105" column="27" bodyfile="Application Green Quake.Android/obj/Debug/100/android/src/crc643f46942d9dd1fff9/FlyoutPageRenderer.java" bodystart="105" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="package-static-func">
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_flyout_page_renderer_1ad9988b8a90a6aaa5038bc2e0e16d1716" prot="package" static="yes" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>crc643f46942d9dd1fff9.FlyoutPageRenderer.[static initializer]</definition>
+        <argsstring></argsstring>
+        <name>[static initializer]</name>
+        <reimplementedby refid="classcrc64720bb2db43a66fe9_1_1_master_detail_page_renderer_1a9ae1c05165930b106cdbef3b8c1e07e5">[static initializer]</reimplementedby>
+        <reimplementedby refid="classcrc64720bb2db43a66fe9_1_1_master_detail_page_renderer_1a9ae1c05165930b106cdbef3b8c1e07e5">[static initializer]</reimplementedby>
+        <reimplementedby refid="classcrc64720bb2db43a66fe9_1_1_master_detail_page_renderer_1a9ae1c05165930b106cdbef3b8c1e07e5">[static initializer]</reimplementedby>
+        <reimplementedby refid="classcrc64720bb2db43a66fe9_1_1_master_detail_page_renderer_1a9ae1c05165930b106cdbef3b8c1e07e5">[static initializer]</reimplementedby>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/100/android/src/crc643f46942d9dd1fff9/FlyoutPageRenderer.java" line="11" column="28"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_flyout_page_renderer_1ad9988b8a90a6aaa5038bc2e0e16d1716" prot="package" static="yes" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>crc643f46942d9dd1fff9.FlyoutPageRenderer.[static initializer]</definition>
+        <argsstring></argsstring>
+        <name>[static initializer]</name>
+        <reimplementedby refid="classcrc64720bb2db43a66fe9_1_1_master_detail_page_renderer_1a9ae1c05165930b106cdbef3b8c1e07e5">[static initializer]</reimplementedby>
+        <reimplementedby refid="classcrc64720bb2db43a66fe9_1_1_master_detail_page_renderer_1a9ae1c05165930b106cdbef3b8c1e07e5">[static initializer]</reimplementedby>
+        <reimplementedby refid="classcrc64720bb2db43a66fe9_1_1_master_detail_page_renderer_1a9ae1c05165930b106cdbef3b8c1e07e5">[static initializer]</reimplementedby>
+        <reimplementedby refid="classcrc64720bb2db43a66fe9_1_1_master_detail_page_renderer_1a9ae1c05165930b106cdbef3b8c1e07e5">[static initializer]</reimplementedby>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/110/android/src/crc643f46942d9dd1fff9/FlyoutPageRenderer.java" line="11" column="28"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_flyout_page_renderer_1ad9988b8a90a6aaa5038bc2e0e16d1716" prot="package" static="yes" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>crc643f46942d9dd1fff9.FlyoutPageRenderer.[static initializer]</definition>
+        <argsstring></argsstring>
+        <name>[static initializer]</name>
+        <reimplementedby refid="classcrc64720bb2db43a66fe9_1_1_master_detail_page_renderer_1a9ae1c05165930b106cdbef3b8c1e07e5">[static initializer]</reimplementedby>
+        <reimplementedby refid="classcrc64720bb2db43a66fe9_1_1_master_detail_page_renderer_1a9ae1c05165930b106cdbef3b8c1e07e5">[static initializer]</reimplementedby>
+        <reimplementedby refid="classcrc64720bb2db43a66fe9_1_1_master_detail_page_renderer_1a9ae1c05165930b106cdbef3b8c1e07e5">[static initializer]</reimplementedby>
+        <reimplementedby refid="classcrc64720bb2db43a66fe9_1_1_master_detail_page_renderer_1a9ae1c05165930b106cdbef3b8c1e07e5">[static initializer]</reimplementedby>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/100/android/src/crc643f46942d9dd1fff9/FlyoutPageRenderer.java" line="11" column="28"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_flyout_page_renderer_1ad9988b8a90a6aaa5038bc2e0e16d1716" prot="package" static="yes" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>crc643f46942d9dd1fff9.FlyoutPageRenderer.[static initializer]</definition>
+        <argsstring></argsstring>
+        <name>[static initializer]</name>
+        <reimplementedby refid="classcrc64720bb2db43a66fe9_1_1_master_detail_page_renderer_1a9ae1c05165930b106cdbef3b8c1e07e5">[static initializer]</reimplementedby>
+        <reimplementedby refid="classcrc64720bb2db43a66fe9_1_1_master_detail_page_renderer_1a9ae1c05165930b106cdbef3b8c1e07e5">[static initializer]</reimplementedby>
+        <reimplementedby refid="classcrc64720bb2db43a66fe9_1_1_master_detail_page_renderer_1a9ae1c05165930b106cdbef3b8c1e07e5">[static initializer]</reimplementedby>
+        <reimplementedby refid="classcrc64720bb2db43a66fe9_1_1_master_detail_page_renderer_1a9ae1c05165930b106cdbef3b8c1e07e5">[static initializer]</reimplementedby>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/110/android/src/crc643f46942d9dd1fff9/FlyoutPageRenderer.java" line="11" column="28"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="public-func">
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_flyout_page_renderer_1ab80c0318b41044c8fbcba04a5dce1d10" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>crc643f46942d9dd1fff9.FlyoutPageRenderer.FlyoutPageRenderer</definition>
+        <argsstring>(android.content.Context p0)</argsstring>
+        <name>FlyoutPageRenderer</name>
+        <param>
+          <type>android.content.Context</type>
+          <declname>p0</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/100/android/src/crc643f46942d9dd1fff9/FlyoutPageRenderer.java" line="26" column="8" bodyfile="Application Green Quake.Android/obj/Debug/100/android/src/crc643f46942d9dd1fff9/FlyoutPageRenderer.java" bodystart="26" bodyend="31"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_flyout_page_renderer_1aefb40d76186230439090ac22ba3c9904" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>crc643f46942d9dd1fff9.FlyoutPageRenderer.FlyoutPageRenderer</definition>
+        <argsstring>(android.content.Context p0, android.util.AttributeSet p1)</argsstring>
+        <name>FlyoutPageRenderer</name>
+        <param>
+          <type>android.content.Context</type>
+          <declname>p0</declname>
+        </param>
+        <param>
+          <type>android.util.AttributeSet</type>
+          <declname>p1</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/100/android/src/crc643f46942d9dd1fff9/FlyoutPageRenderer.java" line="34" column="8" bodyfile="Application Green Quake.Android/obj/Debug/100/android/src/crc643f46942d9dd1fff9/FlyoutPageRenderer.java" bodystart="34" bodyend="39"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_flyout_page_renderer_1a5d60ba9de088655cb641d90b253b53d8" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>crc643f46942d9dd1fff9.FlyoutPageRenderer.FlyoutPageRenderer</definition>
+        <argsstring>(android.content.Context p0, android.util.AttributeSet p1, int p2)</argsstring>
+        <name>FlyoutPageRenderer</name>
+        <param>
+          <type>android.content.Context</type>
+          <declname>p0</declname>
+        </param>
+        <param>
+          <type>android.util.AttributeSet</type>
+          <declname>p1</declname>
+        </param>
+        <param>
+          <type>int</type>
+          <declname>p2</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/100/android/src/crc643f46942d9dd1fff9/FlyoutPageRenderer.java" line="42" column="8" bodyfile="Application Green Quake.Android/obj/Debug/100/android/src/crc643f46942d9dd1fff9/FlyoutPageRenderer.java" bodystart="42" bodyend="47"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_flyout_page_renderer_1a9b010299e78c072c92b42b24754c7b11" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void crc643f46942d9dd1fff9.FlyoutPageRenderer.onAttachedToWindow</definition>
+        <argsstring>()</argsstring>
+        <name>onAttachedToWindow</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/100/android/src/crc643f46942d9dd1fff9/FlyoutPageRenderer.java" line="50" column="13" bodyfile="Application Green Quake.Android/obj/Debug/100/android/src/crc643f46942d9dd1fff9/FlyoutPageRenderer.java" bodystart="50" bodyend="53"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_flyout_page_renderer_1a4a7e6b827ec162aaab3494bd1d56308c" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void crc643f46942d9dd1fff9.FlyoutPageRenderer.onDetachedFromWindow</definition>
+        <argsstring>()</argsstring>
+        <name>onDetachedFromWindow</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/100/android/src/crc643f46942d9dd1fff9/FlyoutPageRenderer.java" line="58" column="13" bodyfile="Application Green Quake.Android/obj/Debug/100/android/src/crc643f46942d9dd1fff9/FlyoutPageRenderer.java" bodystart="58" bodyend="61"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_flyout_page_renderer_1a1891a4881f3769477839aaa7c13b7558" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void crc643f46942d9dd1fff9.FlyoutPageRenderer.onLayout</definition>
+        <argsstring>(boolean p0, int p1, int p2, int p3, int p4)</argsstring>
+        <name>onLayout</name>
+        <param>
+          <type>boolean</type>
+          <declname>p0</declname>
+        </param>
+        <param>
+          <type>int</type>
+          <declname>p1</declname>
+        </param>
+        <param>
+          <type>int</type>
+          <declname>p2</declname>
+        </param>
+        <param>
+          <type>int</type>
+          <declname>p3</declname>
+        </param>
+        <param>
+          <type>int</type>
+          <declname>p4</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/100/android/src/crc643f46942d9dd1fff9/FlyoutPageRenderer.java" line="66" column="13" bodyfile="Application Green Quake.Android/obj/Debug/100/android/src/crc643f46942d9dd1fff9/FlyoutPageRenderer.java" bodystart="66" bodyend="69"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_flyout_page_renderer_1a1228fdd1ebb51fee0aa518e2164a161e" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void crc643f46942d9dd1fff9.FlyoutPageRenderer.onDrawerClosed</definition>
+        <argsstring>(android.view.View p0)</argsstring>
+        <name>onDrawerClosed</name>
+        <param>
+          <type>android.view.View</type>
+          <declname>p0</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/100/android/src/crc643f46942d9dd1fff9/FlyoutPageRenderer.java" line="74" column="13" bodyfile="Application Green Quake.Android/obj/Debug/100/android/src/crc643f46942d9dd1fff9/FlyoutPageRenderer.java" bodystart="74" bodyend="77"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_flyout_page_renderer_1a00cbeec803f7c2ed10c1494bea099872" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void crc643f46942d9dd1fff9.FlyoutPageRenderer.onDrawerOpened</definition>
+        <argsstring>(android.view.View p0)</argsstring>
+        <name>onDrawerOpened</name>
+        <param>
+          <type>android.view.View</type>
+          <declname>p0</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/100/android/src/crc643f46942d9dd1fff9/FlyoutPageRenderer.java" line="82" column="13" bodyfile="Application Green Quake.Android/obj/Debug/100/android/src/crc643f46942d9dd1fff9/FlyoutPageRenderer.java" bodystart="82" bodyend="85"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_flyout_page_renderer_1a47e53515b3b14d62141d8440a1e7091c" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void crc643f46942d9dd1fff9.FlyoutPageRenderer.onDrawerSlide</definition>
+        <argsstring>(android.view.View p0, float p1)</argsstring>
+        <name>onDrawerSlide</name>
+        <param>
+          <type>android.view.View</type>
+          <declname>p0</declname>
+        </param>
+        <param>
+          <type>float</type>
+          <declname>p1</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/100/android/src/crc643f46942d9dd1fff9/FlyoutPageRenderer.java" line="90" column="13" bodyfile="Application Green Quake.Android/obj/Debug/100/android/src/crc643f46942d9dd1fff9/FlyoutPageRenderer.java" bodystart="90" bodyend="93"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_flyout_page_renderer_1a7b288393da0fdd7727a7f3c384b0e5e5" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void crc643f46942d9dd1fff9.FlyoutPageRenderer.onDrawerStateChanged</definition>
+        <argsstring>(int p0)</argsstring>
+        <name>onDrawerStateChanged</name>
+        <param>
+          <type>int</type>
+          <declname>p0</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/100/android/src/crc643f46942d9dd1fff9/FlyoutPageRenderer.java" line="98" column="13" bodyfile="Application Green Quake.Android/obj/Debug/100/android/src/crc643f46942d9dd1fff9/FlyoutPageRenderer.java" bodystart="98" bodyend="101"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_flyout_page_renderer_1ac33bc0aebc1f76358c6e25e4659509dc" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void crc643f46942d9dd1fff9.FlyoutPageRenderer.monodroidAddReference</definition>
+        <argsstring>(java.lang.Object obj)</argsstring>
+        <name>monodroidAddReference</name>
+        <reimplementedby refid="classcrc64720bb2db43a66fe9_1_1_master_detail_page_renderer_1ad1a99db9120581ab0c60596bac1c060f">monodroidAddReference</reimplementedby>
+        <reimplementedby refid="classcrc64720bb2db43a66fe9_1_1_master_detail_page_renderer_1ad1a99db9120581ab0c60596bac1c060f">monodroidAddReference</reimplementedby>
+        <reimplementedby refid="classcrc64720bb2db43a66fe9_1_1_master_detail_page_renderer_1ad1a99db9120581ab0c60596bac1c060f">monodroidAddReference</reimplementedby>
+        <reimplementedby refid="classcrc64720bb2db43a66fe9_1_1_master_detail_page_renderer_1ad1a99db9120581ab0c60596bac1c060f">monodroidAddReference</reimplementedby>
+        <param>
+          <type>java.lang.Object</type>
+          <declname>obj</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/100/android/src/crc643f46942d9dd1fff9/FlyoutPageRenderer.java" line="106" column="13" bodyfile="Application Green Quake.Android/obj/Debug/100/android/src/crc643f46942d9dd1fff9/FlyoutPageRenderer.java" bodystart="106" bodyend="111"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_flyout_page_renderer_1aa427f83eec490fcf7785c4b6ada53729" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void crc643f46942d9dd1fff9.FlyoutPageRenderer.monodroidClearReferences</definition>
+        <argsstring>()</argsstring>
+        <name>monodroidClearReferences</name>
+        <reimplementedby refid="classcrc64720bb2db43a66fe9_1_1_master_detail_page_renderer_1aac47e1143b29925abb877419ed7d93fc">monodroidClearReferences</reimplementedby>
+        <reimplementedby refid="classcrc64720bb2db43a66fe9_1_1_master_detail_page_renderer_1aac47e1143b29925abb877419ed7d93fc">monodroidClearReferences</reimplementedby>
+        <reimplementedby refid="classcrc64720bb2db43a66fe9_1_1_master_detail_page_renderer_1aac47e1143b29925abb877419ed7d93fc">monodroidClearReferences</reimplementedby>
+        <reimplementedby refid="classcrc64720bb2db43a66fe9_1_1_master_detail_page_renderer_1aac47e1143b29925abb877419ed7d93fc">monodroidClearReferences</reimplementedby>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/100/android/src/crc643f46942d9dd1fff9/FlyoutPageRenderer.java" line="113" column="13" bodyfile="Application Green Quake.Android/obj/Debug/100/android/src/crc643f46942d9dd1fff9/FlyoutPageRenderer.java" bodystart="113" bodyend="117"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_flyout_page_renderer_1ab80c0318b41044c8fbcba04a5dce1d10" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>crc643f46942d9dd1fff9.FlyoutPageRenderer.FlyoutPageRenderer</definition>
+        <argsstring>(android.content.Context p0)</argsstring>
+        <name>FlyoutPageRenderer</name>
+        <param>
+          <type>android.content.Context</type>
+          <declname>p0</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/110/android/src/crc643f46942d9dd1fff9/FlyoutPageRenderer.java" line="26" column="8" bodyfile="Application Green Quake.Android/obj/Debug/110/android/src/crc643f46942d9dd1fff9/FlyoutPageRenderer.java" bodystart="26" bodyend="31"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_flyout_page_renderer_1aefb40d76186230439090ac22ba3c9904" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>crc643f46942d9dd1fff9.FlyoutPageRenderer.FlyoutPageRenderer</definition>
+        <argsstring>(android.content.Context p0, android.util.AttributeSet p1)</argsstring>
+        <name>FlyoutPageRenderer</name>
+        <param>
+          <type>android.content.Context</type>
+          <declname>p0</declname>
+        </param>
+        <param>
+          <type>android.util.AttributeSet</type>
+          <declname>p1</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/110/android/src/crc643f46942d9dd1fff9/FlyoutPageRenderer.java" line="34" column="8" bodyfile="Application Green Quake.Android/obj/Debug/110/android/src/crc643f46942d9dd1fff9/FlyoutPageRenderer.java" bodystart="34" bodyend="39"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_flyout_page_renderer_1a5d60ba9de088655cb641d90b253b53d8" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>crc643f46942d9dd1fff9.FlyoutPageRenderer.FlyoutPageRenderer</definition>
+        <argsstring>(android.content.Context p0, android.util.AttributeSet p1, int p2)</argsstring>
+        <name>FlyoutPageRenderer</name>
+        <param>
+          <type>android.content.Context</type>
+          <declname>p0</declname>
+        </param>
+        <param>
+          <type>android.util.AttributeSet</type>
+          <declname>p1</declname>
+        </param>
+        <param>
+          <type>int</type>
+          <declname>p2</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/110/android/src/crc643f46942d9dd1fff9/FlyoutPageRenderer.java" line="42" column="8" bodyfile="Application Green Quake.Android/obj/Debug/110/android/src/crc643f46942d9dd1fff9/FlyoutPageRenderer.java" bodystart="42" bodyend="47"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_flyout_page_renderer_1a9b010299e78c072c92b42b24754c7b11" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void crc643f46942d9dd1fff9.FlyoutPageRenderer.onAttachedToWindow</definition>
+        <argsstring>()</argsstring>
+        <name>onAttachedToWindow</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/110/android/src/crc643f46942d9dd1fff9/FlyoutPageRenderer.java" line="50" column="13" bodyfile="Application Green Quake.Android/obj/Debug/110/android/src/crc643f46942d9dd1fff9/FlyoutPageRenderer.java" bodystart="50" bodyend="53"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_flyout_page_renderer_1a4a7e6b827ec162aaab3494bd1d56308c" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void crc643f46942d9dd1fff9.FlyoutPageRenderer.onDetachedFromWindow</definition>
+        <argsstring>()</argsstring>
+        <name>onDetachedFromWindow</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/110/android/src/crc643f46942d9dd1fff9/FlyoutPageRenderer.java" line="58" column="13" bodyfile="Application Green Quake.Android/obj/Debug/110/android/src/crc643f46942d9dd1fff9/FlyoutPageRenderer.java" bodystart="58" bodyend="61"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_flyout_page_renderer_1a1891a4881f3769477839aaa7c13b7558" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void crc643f46942d9dd1fff9.FlyoutPageRenderer.onLayout</definition>
+        <argsstring>(boolean p0, int p1, int p2, int p3, int p4)</argsstring>
+        <name>onLayout</name>
+        <param>
+          <type>boolean</type>
+          <declname>p0</declname>
+        </param>
+        <param>
+          <type>int</type>
+          <declname>p1</declname>
+        </param>
+        <param>
+          <type>int</type>
+          <declname>p2</declname>
+        </param>
+        <param>
+          <type>int</type>
+          <declname>p3</declname>
+        </param>
+        <param>
+          <type>int</type>
+          <declname>p4</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/110/android/src/crc643f46942d9dd1fff9/FlyoutPageRenderer.java" line="66" column="13" bodyfile="Application Green Quake.Android/obj/Debug/110/android/src/crc643f46942d9dd1fff9/FlyoutPageRenderer.java" bodystart="66" bodyend="69"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_flyout_page_renderer_1a1228fdd1ebb51fee0aa518e2164a161e" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void crc643f46942d9dd1fff9.FlyoutPageRenderer.onDrawerClosed</definition>
+        <argsstring>(android.view.View p0)</argsstring>
+        <name>onDrawerClosed</name>
+        <param>
+          <type>android.view.View</type>
+          <declname>p0</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/110/android/src/crc643f46942d9dd1fff9/FlyoutPageRenderer.java" line="74" column="13" bodyfile="Application Green Quake.Android/obj/Debug/110/android/src/crc643f46942d9dd1fff9/FlyoutPageRenderer.java" bodystart="74" bodyend="77"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_flyout_page_renderer_1a00cbeec803f7c2ed10c1494bea099872" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void crc643f46942d9dd1fff9.FlyoutPageRenderer.onDrawerOpened</definition>
+        <argsstring>(android.view.View p0)</argsstring>
+        <name>onDrawerOpened</name>
+        <param>
+          <type>android.view.View</type>
+          <declname>p0</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/110/android/src/crc643f46942d9dd1fff9/FlyoutPageRenderer.java" line="82" column="13" bodyfile="Application Green Quake.Android/obj/Debug/110/android/src/crc643f46942d9dd1fff9/FlyoutPageRenderer.java" bodystart="82" bodyend="85"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_flyout_page_renderer_1a47e53515b3b14d62141d8440a1e7091c" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void crc643f46942d9dd1fff9.FlyoutPageRenderer.onDrawerSlide</definition>
+        <argsstring>(android.view.View p0, float p1)</argsstring>
+        <name>onDrawerSlide</name>
+        <param>
+          <type>android.view.View</type>
+          <declname>p0</declname>
+        </param>
+        <param>
+          <type>float</type>
+          <declname>p1</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/110/android/src/crc643f46942d9dd1fff9/FlyoutPageRenderer.java" line="90" column="13" bodyfile="Application Green Quake.Android/obj/Debug/110/android/src/crc643f46942d9dd1fff9/FlyoutPageRenderer.java" bodystart="90" bodyend="93"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_flyout_page_renderer_1a7b288393da0fdd7727a7f3c384b0e5e5" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void crc643f46942d9dd1fff9.FlyoutPageRenderer.onDrawerStateChanged</definition>
+        <argsstring>(int p0)</argsstring>
+        <name>onDrawerStateChanged</name>
+        <param>
+          <type>int</type>
+          <declname>p0</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/110/android/src/crc643f46942d9dd1fff9/FlyoutPageRenderer.java" line="98" column="13" bodyfile="Application Green Quake.Android/obj/Debug/110/android/src/crc643f46942d9dd1fff9/FlyoutPageRenderer.java" bodystart="98" bodyend="101"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_flyout_page_renderer_1ac33bc0aebc1f76358c6e25e4659509dc" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void crc643f46942d9dd1fff9.FlyoutPageRenderer.monodroidAddReference</definition>
+        <argsstring>(java.lang.Object obj)</argsstring>
+        <name>monodroidAddReference</name>
+        <reimplementedby refid="classcrc64720bb2db43a66fe9_1_1_master_detail_page_renderer_1ad1a99db9120581ab0c60596bac1c060f">monodroidAddReference</reimplementedby>
+        <reimplementedby refid="classcrc64720bb2db43a66fe9_1_1_master_detail_page_renderer_1ad1a99db9120581ab0c60596bac1c060f">monodroidAddReference</reimplementedby>
+        <reimplementedby refid="classcrc64720bb2db43a66fe9_1_1_master_detail_page_renderer_1ad1a99db9120581ab0c60596bac1c060f">monodroidAddReference</reimplementedby>
+        <reimplementedby refid="classcrc64720bb2db43a66fe9_1_1_master_detail_page_renderer_1ad1a99db9120581ab0c60596bac1c060f">monodroidAddReference</reimplementedby>
+        <param>
+          <type>java.lang.Object</type>
+          <declname>obj</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/110/android/src/crc643f46942d9dd1fff9/FlyoutPageRenderer.java" line="106" column="13" bodyfile="Application Green Quake.Android/obj/Debug/110/android/src/crc643f46942d9dd1fff9/FlyoutPageRenderer.java" bodystart="106" bodyend="111"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_flyout_page_renderer_1aa427f83eec490fcf7785c4b6ada53729" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void crc643f46942d9dd1fff9.FlyoutPageRenderer.monodroidClearReferences</definition>
+        <argsstring>()</argsstring>
+        <name>monodroidClearReferences</name>
+        <reimplementedby refid="classcrc64720bb2db43a66fe9_1_1_master_detail_page_renderer_1aac47e1143b29925abb877419ed7d93fc">monodroidClearReferences</reimplementedby>
+        <reimplementedby refid="classcrc64720bb2db43a66fe9_1_1_master_detail_page_renderer_1aac47e1143b29925abb877419ed7d93fc">monodroidClearReferences</reimplementedby>
+        <reimplementedby refid="classcrc64720bb2db43a66fe9_1_1_master_detail_page_renderer_1aac47e1143b29925abb877419ed7d93fc">monodroidClearReferences</reimplementedby>
+        <reimplementedby refid="classcrc64720bb2db43a66fe9_1_1_master_detail_page_renderer_1aac47e1143b29925abb877419ed7d93fc">monodroidClearReferences</reimplementedby>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/110/android/src/crc643f46942d9dd1fff9/FlyoutPageRenderer.java" line="113" column="13" bodyfile="Application Green Quake.Android/obj/Debug/110/android/src/crc643f46942d9dd1fff9/FlyoutPageRenderer.java" bodystart="113" bodyend="117"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_flyout_page_renderer_1ab80c0318b41044c8fbcba04a5dce1d10" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>crc643f46942d9dd1fff9.FlyoutPageRenderer.FlyoutPageRenderer</definition>
+        <argsstring>(android.content.Context p0)</argsstring>
+        <name>FlyoutPageRenderer</name>
+        <param>
+          <type>android.content.Context</type>
+          <declname>p0</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/100/android/src/crc643f46942d9dd1fff9/FlyoutPageRenderer.java" line="26" column="8" bodyfile="Application Green Quake.Android/obj/Release/100/android/src/crc643f46942d9dd1fff9/FlyoutPageRenderer.java" bodystart="26" bodyend="31"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_flyout_page_renderer_1aefb40d76186230439090ac22ba3c9904" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>crc643f46942d9dd1fff9.FlyoutPageRenderer.FlyoutPageRenderer</definition>
+        <argsstring>(android.content.Context p0, android.util.AttributeSet p1)</argsstring>
+        <name>FlyoutPageRenderer</name>
+        <param>
+          <type>android.content.Context</type>
+          <declname>p0</declname>
+        </param>
+        <param>
+          <type>android.util.AttributeSet</type>
+          <declname>p1</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/100/android/src/crc643f46942d9dd1fff9/FlyoutPageRenderer.java" line="34" column="8" bodyfile="Application Green Quake.Android/obj/Release/100/android/src/crc643f46942d9dd1fff9/FlyoutPageRenderer.java" bodystart="34" bodyend="39"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_flyout_page_renderer_1a5d60ba9de088655cb641d90b253b53d8" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>crc643f46942d9dd1fff9.FlyoutPageRenderer.FlyoutPageRenderer</definition>
+        <argsstring>(android.content.Context p0, android.util.AttributeSet p1, int p2)</argsstring>
+        <name>FlyoutPageRenderer</name>
+        <param>
+          <type>android.content.Context</type>
+          <declname>p0</declname>
+        </param>
+        <param>
+          <type>android.util.AttributeSet</type>
+          <declname>p1</declname>
+        </param>
+        <param>
+          <type>int</type>
+          <declname>p2</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/100/android/src/crc643f46942d9dd1fff9/FlyoutPageRenderer.java" line="42" column="8" bodyfile="Application Green Quake.Android/obj/Release/100/android/src/crc643f46942d9dd1fff9/FlyoutPageRenderer.java" bodystart="42" bodyend="47"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_flyout_page_renderer_1a9b010299e78c072c92b42b24754c7b11" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void crc643f46942d9dd1fff9.FlyoutPageRenderer.onAttachedToWindow</definition>
+        <argsstring>()</argsstring>
+        <name>onAttachedToWindow</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/100/android/src/crc643f46942d9dd1fff9/FlyoutPageRenderer.java" line="50" column="13" bodyfile="Application Green Quake.Android/obj/Release/100/android/src/crc643f46942d9dd1fff9/FlyoutPageRenderer.java" bodystart="50" bodyend="53"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_flyout_page_renderer_1a4a7e6b827ec162aaab3494bd1d56308c" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void crc643f46942d9dd1fff9.FlyoutPageRenderer.onDetachedFromWindow</definition>
+        <argsstring>()</argsstring>
+        <name>onDetachedFromWindow</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/100/android/src/crc643f46942d9dd1fff9/FlyoutPageRenderer.java" line="58" column="13" bodyfile="Application Green Quake.Android/obj/Release/100/android/src/crc643f46942d9dd1fff9/FlyoutPageRenderer.java" bodystart="58" bodyend="61"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_flyout_page_renderer_1a1891a4881f3769477839aaa7c13b7558" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void crc643f46942d9dd1fff9.FlyoutPageRenderer.onLayout</definition>
+        <argsstring>(boolean p0, int p1, int p2, int p3, int p4)</argsstring>
+        <name>onLayout</name>
+        <param>
+          <type>boolean</type>
+          <declname>p0</declname>
+        </param>
+        <param>
+          <type>int</type>
+          <declname>p1</declname>
+        </param>
+        <param>
+          <type>int</type>
+          <declname>p2</declname>
+        </param>
+        <param>
+          <type>int</type>
+          <declname>p3</declname>
+        </param>
+        <param>
+          <type>int</type>
+          <declname>p4</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/100/android/src/crc643f46942d9dd1fff9/FlyoutPageRenderer.java" line="66" column="13" bodyfile="Application Green Quake.Android/obj/Release/100/android/src/crc643f46942d9dd1fff9/FlyoutPageRenderer.java" bodystart="66" bodyend="69"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_flyout_page_renderer_1a1228fdd1ebb51fee0aa518e2164a161e" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void crc643f46942d9dd1fff9.FlyoutPageRenderer.onDrawerClosed</definition>
+        <argsstring>(android.view.View p0)</argsstring>
+        <name>onDrawerClosed</name>
+        <param>
+          <type>android.view.View</type>
+          <declname>p0</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/100/android/src/crc643f46942d9dd1fff9/FlyoutPageRenderer.java" line="74" column="13" bodyfile="Application Green Quake.Android/obj/Release/100/android/src/crc643f46942d9dd1fff9/FlyoutPageRenderer.java" bodystart="74" bodyend="77"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_flyout_page_renderer_1a00cbeec803f7c2ed10c1494bea099872" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void crc643f46942d9dd1fff9.FlyoutPageRenderer.onDrawerOpened</definition>
+        <argsstring>(android.view.View p0)</argsstring>
+        <name>onDrawerOpened</name>
+        <param>
+          <type>android.view.View</type>
+          <declname>p0</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/100/android/src/crc643f46942d9dd1fff9/FlyoutPageRenderer.java" line="82" column="13" bodyfile="Application Green Quake.Android/obj/Release/100/android/src/crc643f46942d9dd1fff9/FlyoutPageRenderer.java" bodystart="82" bodyend="85"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_flyout_page_renderer_1a47e53515b3b14d62141d8440a1e7091c" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void crc643f46942d9dd1fff9.FlyoutPageRenderer.onDrawerSlide</definition>
+        <argsstring>(android.view.View p0, float p1)</argsstring>
+        <name>onDrawerSlide</name>
+        <param>
+          <type>android.view.View</type>
+          <declname>p0</declname>
+        </param>
+        <param>
+          <type>float</type>
+          <declname>p1</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/100/android/src/crc643f46942d9dd1fff9/FlyoutPageRenderer.java" line="90" column="13" bodyfile="Application Green Quake.Android/obj/Release/100/android/src/crc643f46942d9dd1fff9/FlyoutPageRenderer.java" bodystart="90" bodyend="93"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_flyout_page_renderer_1a7b288393da0fdd7727a7f3c384b0e5e5" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void crc643f46942d9dd1fff9.FlyoutPageRenderer.onDrawerStateChanged</definition>
+        <argsstring>(int p0)</argsstring>
+        <name>onDrawerStateChanged</name>
+        <param>
+          <type>int</type>
+          <declname>p0</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/100/android/src/crc643f46942d9dd1fff9/FlyoutPageRenderer.java" line="98" column="13" bodyfile="Application Green Quake.Android/obj/Release/100/android/src/crc643f46942d9dd1fff9/FlyoutPageRenderer.java" bodystart="98" bodyend="101"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_flyout_page_renderer_1ac33bc0aebc1f76358c6e25e4659509dc" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void crc643f46942d9dd1fff9.FlyoutPageRenderer.monodroidAddReference</definition>
+        <argsstring>(java.lang.Object obj)</argsstring>
+        <name>monodroidAddReference</name>
+        <reimplementedby refid="classcrc64720bb2db43a66fe9_1_1_master_detail_page_renderer_1ad1a99db9120581ab0c60596bac1c060f">monodroidAddReference</reimplementedby>
+        <reimplementedby refid="classcrc64720bb2db43a66fe9_1_1_master_detail_page_renderer_1ad1a99db9120581ab0c60596bac1c060f">monodroidAddReference</reimplementedby>
+        <reimplementedby refid="classcrc64720bb2db43a66fe9_1_1_master_detail_page_renderer_1ad1a99db9120581ab0c60596bac1c060f">monodroidAddReference</reimplementedby>
+        <reimplementedby refid="classcrc64720bb2db43a66fe9_1_1_master_detail_page_renderer_1ad1a99db9120581ab0c60596bac1c060f">monodroidAddReference</reimplementedby>
+        <param>
+          <type>java.lang.Object</type>
+          <declname>obj</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/100/android/src/crc643f46942d9dd1fff9/FlyoutPageRenderer.java" line="106" column="13" bodyfile="Application Green Quake.Android/obj/Release/100/android/src/crc643f46942d9dd1fff9/FlyoutPageRenderer.java" bodystart="106" bodyend="111"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_flyout_page_renderer_1aa427f83eec490fcf7785c4b6ada53729" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void crc643f46942d9dd1fff9.FlyoutPageRenderer.monodroidClearReferences</definition>
+        <argsstring>()</argsstring>
+        <name>monodroidClearReferences</name>
+        <reimplementedby refid="classcrc64720bb2db43a66fe9_1_1_master_detail_page_renderer_1aac47e1143b29925abb877419ed7d93fc">monodroidClearReferences</reimplementedby>
+        <reimplementedby refid="classcrc64720bb2db43a66fe9_1_1_master_detail_page_renderer_1aac47e1143b29925abb877419ed7d93fc">monodroidClearReferences</reimplementedby>
+        <reimplementedby refid="classcrc64720bb2db43a66fe9_1_1_master_detail_page_renderer_1aac47e1143b29925abb877419ed7d93fc">monodroidClearReferences</reimplementedby>
+        <reimplementedby refid="classcrc64720bb2db43a66fe9_1_1_master_detail_page_renderer_1aac47e1143b29925abb877419ed7d93fc">monodroidClearReferences</reimplementedby>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/100/android/src/crc643f46942d9dd1fff9/FlyoutPageRenderer.java" line="113" column="13" bodyfile="Application Green Quake.Android/obj/Release/100/android/src/crc643f46942d9dd1fff9/FlyoutPageRenderer.java" bodystart="113" bodyend="117"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_flyout_page_renderer_1ab80c0318b41044c8fbcba04a5dce1d10" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>crc643f46942d9dd1fff9.FlyoutPageRenderer.FlyoutPageRenderer</definition>
+        <argsstring>(android.content.Context p0)</argsstring>
+        <name>FlyoutPageRenderer</name>
+        <param>
+          <type>android.content.Context</type>
+          <declname>p0</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/110/android/src/crc643f46942d9dd1fff9/FlyoutPageRenderer.java" line="26" column="8" bodyfile="Application Green Quake.Android/obj/Release/110/android/src/crc643f46942d9dd1fff9/FlyoutPageRenderer.java" bodystart="26" bodyend="31"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_flyout_page_renderer_1aefb40d76186230439090ac22ba3c9904" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>crc643f46942d9dd1fff9.FlyoutPageRenderer.FlyoutPageRenderer</definition>
+        <argsstring>(android.content.Context p0, android.util.AttributeSet p1)</argsstring>
+        <name>FlyoutPageRenderer</name>
+        <param>
+          <type>android.content.Context</type>
+          <declname>p0</declname>
+        </param>
+        <param>
+          <type>android.util.AttributeSet</type>
+          <declname>p1</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/110/android/src/crc643f46942d9dd1fff9/FlyoutPageRenderer.java" line="34" column="8" bodyfile="Application Green Quake.Android/obj/Release/110/android/src/crc643f46942d9dd1fff9/FlyoutPageRenderer.java" bodystart="34" bodyend="39"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_flyout_page_renderer_1a5d60ba9de088655cb641d90b253b53d8" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>crc643f46942d9dd1fff9.FlyoutPageRenderer.FlyoutPageRenderer</definition>
+        <argsstring>(android.content.Context p0, android.util.AttributeSet p1, int p2)</argsstring>
+        <name>FlyoutPageRenderer</name>
+        <param>
+          <type>android.content.Context</type>
+          <declname>p0</declname>
+        </param>
+        <param>
+          <type>android.util.AttributeSet</type>
+          <declname>p1</declname>
+        </param>
+        <param>
+          <type>int</type>
+          <declname>p2</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/110/android/src/crc643f46942d9dd1fff9/FlyoutPageRenderer.java" line="42" column="8" bodyfile="Application Green Quake.Android/obj/Release/110/android/src/crc643f46942d9dd1fff9/FlyoutPageRenderer.java" bodystart="42" bodyend="47"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_flyout_page_renderer_1a9b010299e78c072c92b42b24754c7b11" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void crc643f46942d9dd1fff9.FlyoutPageRenderer.onAttachedToWindow</definition>
+        <argsstring>()</argsstring>
+        <name>onAttachedToWindow</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/110/android/src/crc643f46942d9dd1fff9/FlyoutPageRenderer.java" line="50" column="13" bodyfile="Application Green Quake.Android/obj/Release/110/android/src/crc643f46942d9dd1fff9/FlyoutPageRenderer.java" bodystart="50" bodyend="53"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_flyout_page_renderer_1a4a7e6b827ec162aaab3494bd1d56308c" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void crc643f46942d9dd1fff9.FlyoutPageRenderer.onDetachedFromWindow</definition>
+        <argsstring>()</argsstring>
+        <name>onDetachedFromWindow</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/110/android/src/crc643f46942d9dd1fff9/FlyoutPageRenderer.java" line="58" column="13" bodyfile="Application Green Quake.Android/obj/Release/110/android/src/crc643f46942d9dd1fff9/FlyoutPageRenderer.java" bodystart="58" bodyend="61"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_flyout_page_renderer_1a1891a4881f3769477839aaa7c13b7558" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void crc643f46942d9dd1fff9.FlyoutPageRenderer.onLayout</definition>
+        <argsstring>(boolean p0, int p1, int p2, int p3, int p4)</argsstring>
+        <name>onLayout</name>
+        <param>
+          <type>boolean</type>
+          <declname>p0</declname>
+        </param>
+        <param>
+          <type>int</type>
+          <declname>p1</declname>
+        </param>
+        <param>
+          <type>int</type>
+          <declname>p2</declname>
+        </param>
+        <param>
+          <type>int</type>
+          <declname>p3</declname>
+        </param>
+        <param>
+          <type>int</type>
+          <declname>p4</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/110/android/src/crc643f46942d9dd1fff9/FlyoutPageRenderer.java" line="66" column="13" bodyfile="Application Green Quake.Android/obj/Release/110/android/src/crc643f46942d9dd1fff9/FlyoutPageRenderer.java" bodystart="66" bodyend="69"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_flyout_page_renderer_1a1228fdd1ebb51fee0aa518e2164a161e" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void crc643f46942d9dd1fff9.FlyoutPageRenderer.onDrawerClosed</definition>
+        <argsstring>(android.view.View p0)</argsstring>
+        <name>onDrawerClosed</name>
+        <param>
+          <type>android.view.View</type>
+          <declname>p0</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/110/android/src/crc643f46942d9dd1fff9/FlyoutPageRenderer.java" line="74" column="13" bodyfile="Application Green Quake.Android/obj/Release/110/android/src/crc643f46942d9dd1fff9/FlyoutPageRenderer.java" bodystart="74" bodyend="77"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_flyout_page_renderer_1a00cbeec803f7c2ed10c1494bea099872" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void crc643f46942d9dd1fff9.FlyoutPageRenderer.onDrawerOpened</definition>
+        <argsstring>(android.view.View p0)</argsstring>
+        <name>onDrawerOpened</name>
+        <param>
+          <type>android.view.View</type>
+          <declname>p0</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/110/android/src/crc643f46942d9dd1fff9/FlyoutPageRenderer.java" line="82" column="13" bodyfile="Application Green Quake.Android/obj/Release/110/android/src/crc643f46942d9dd1fff9/FlyoutPageRenderer.java" bodystart="82" bodyend="85"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_flyout_page_renderer_1a47e53515b3b14d62141d8440a1e7091c" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void crc643f46942d9dd1fff9.FlyoutPageRenderer.onDrawerSlide</definition>
+        <argsstring>(android.view.View p0, float p1)</argsstring>
+        <name>onDrawerSlide</name>
+        <param>
+          <type>android.view.View</type>
+          <declname>p0</declname>
+        </param>
+        <param>
+          <type>float</type>
+          <declname>p1</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/110/android/src/crc643f46942d9dd1fff9/FlyoutPageRenderer.java" line="90" column="13" bodyfile="Application Green Quake.Android/obj/Release/110/android/src/crc643f46942d9dd1fff9/FlyoutPageRenderer.java" bodystart="90" bodyend="93"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_flyout_page_renderer_1a7b288393da0fdd7727a7f3c384b0e5e5" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void crc643f46942d9dd1fff9.FlyoutPageRenderer.onDrawerStateChanged</definition>
+        <argsstring>(int p0)</argsstring>
+        <name>onDrawerStateChanged</name>
+        <param>
+          <type>int</type>
+          <declname>p0</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/110/android/src/crc643f46942d9dd1fff9/FlyoutPageRenderer.java" line="98" column="13" bodyfile="Application Green Quake.Android/obj/Release/110/android/src/crc643f46942d9dd1fff9/FlyoutPageRenderer.java" bodystart="98" bodyend="101"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_flyout_page_renderer_1ac33bc0aebc1f76358c6e25e4659509dc" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void crc643f46942d9dd1fff9.FlyoutPageRenderer.monodroidAddReference</definition>
+        <argsstring>(java.lang.Object obj)</argsstring>
+        <name>monodroidAddReference</name>
+        <reimplementedby refid="classcrc64720bb2db43a66fe9_1_1_master_detail_page_renderer_1ad1a99db9120581ab0c60596bac1c060f">monodroidAddReference</reimplementedby>
+        <reimplementedby refid="classcrc64720bb2db43a66fe9_1_1_master_detail_page_renderer_1ad1a99db9120581ab0c60596bac1c060f">monodroidAddReference</reimplementedby>
+        <reimplementedby refid="classcrc64720bb2db43a66fe9_1_1_master_detail_page_renderer_1ad1a99db9120581ab0c60596bac1c060f">monodroidAddReference</reimplementedby>
+        <reimplementedby refid="classcrc64720bb2db43a66fe9_1_1_master_detail_page_renderer_1ad1a99db9120581ab0c60596bac1c060f">monodroidAddReference</reimplementedby>
+        <param>
+          <type>java.lang.Object</type>
+          <declname>obj</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/110/android/src/crc643f46942d9dd1fff9/FlyoutPageRenderer.java" line="106" column="13" bodyfile="Application Green Quake.Android/obj/Release/110/android/src/crc643f46942d9dd1fff9/FlyoutPageRenderer.java" bodystart="106" bodyend="111"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_flyout_page_renderer_1aa427f83eec490fcf7785c4b6ada53729" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void crc643f46942d9dd1fff9.FlyoutPageRenderer.monodroidClearReferences</definition>
+        <argsstring>()</argsstring>
+        <name>monodroidClearReferences</name>
+        <reimplementedby refid="classcrc64720bb2db43a66fe9_1_1_master_detail_page_renderer_1aac47e1143b29925abb877419ed7d93fc">monodroidClearReferences</reimplementedby>
+        <reimplementedby refid="classcrc64720bb2db43a66fe9_1_1_master_detail_page_renderer_1aac47e1143b29925abb877419ed7d93fc">monodroidClearReferences</reimplementedby>
+        <reimplementedby refid="classcrc64720bb2db43a66fe9_1_1_master_detail_page_renderer_1aac47e1143b29925abb877419ed7d93fc">monodroidClearReferences</reimplementedby>
+        <reimplementedby refid="classcrc64720bb2db43a66fe9_1_1_master_detail_page_renderer_1aac47e1143b29925abb877419ed7d93fc">monodroidClearReferences</reimplementedby>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/110/android/src/crc643f46942d9dd1fff9/FlyoutPageRenderer.java" line="113" column="13" bodyfile="Application Green Quake.Android/obj/Release/110/android/src/crc643f46942d9dd1fff9/FlyoutPageRenderer.java" bodystart="113" bodyend="117"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="private-func">
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_flyout_page_renderer_1aea89cf9429d60ee65ae0030b39ccdd5d" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>native void</type>
+        <definition>native void crc643f46942d9dd1fff9.FlyoutPageRenderer.n_onAttachedToWindow</definition>
+        <argsstring>()</argsstring>
+        <name>n_onAttachedToWindow</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/100/android/src/crc643f46942d9dd1fff9/FlyoutPageRenderer.java" line="55" column="21"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_flyout_page_renderer_1a89d7dd07bf33641e8908eb8c17609da9" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>native void</type>
+        <definition>native void crc643f46942d9dd1fff9.FlyoutPageRenderer.n_onDetachedFromWindow</definition>
+        <argsstring>()</argsstring>
+        <name>n_onDetachedFromWindow</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/100/android/src/crc643f46942d9dd1fff9/FlyoutPageRenderer.java" line="63" column="21"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_flyout_page_renderer_1a4e93d10859959113d9f4ef22a39bc832" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>native void</type>
+        <definition>native void crc643f46942d9dd1fff9.FlyoutPageRenderer.n_onLayout</definition>
+        <argsstring>(boolean p0, int p1, int p2, int p3, int p4)</argsstring>
+        <name>n_onLayout</name>
+        <param>
+          <type>boolean</type>
+          <declname>p0</declname>
+        </param>
+        <param>
+          <type>int</type>
+          <declname>p1</declname>
+        </param>
+        <param>
+          <type>int</type>
+          <declname>p2</declname>
+        </param>
+        <param>
+          <type>int</type>
+          <declname>p3</declname>
+        </param>
+        <param>
+          <type>int</type>
+          <declname>p4</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/100/android/src/crc643f46942d9dd1fff9/FlyoutPageRenderer.java" line="71" column="21"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_flyout_page_renderer_1aaeecc5d4dadc04c905e934d47f029955" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>native void</type>
+        <definition>native void crc643f46942d9dd1fff9.FlyoutPageRenderer.n_onDrawerClosed</definition>
+        <argsstring>(android.view.View p0)</argsstring>
+        <name>n_onDrawerClosed</name>
+        <param>
+          <type>android.view.View</type>
+          <declname>p0</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/100/android/src/crc643f46942d9dd1fff9/FlyoutPageRenderer.java" line="79" column="21"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_flyout_page_renderer_1a338c58b2428b027eaa02a3993830a98b" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>native void</type>
+        <definition>native void crc643f46942d9dd1fff9.FlyoutPageRenderer.n_onDrawerOpened</definition>
+        <argsstring>(android.view.View p0)</argsstring>
+        <name>n_onDrawerOpened</name>
+        <param>
+          <type>android.view.View</type>
+          <declname>p0</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/100/android/src/crc643f46942d9dd1fff9/FlyoutPageRenderer.java" line="87" column="21"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_flyout_page_renderer_1ac47c6c953bd494419a51f562cf23cba0" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>native void</type>
+        <definition>native void crc643f46942d9dd1fff9.FlyoutPageRenderer.n_onDrawerSlide</definition>
+        <argsstring>(android.view.View p0, float p1)</argsstring>
+        <name>n_onDrawerSlide</name>
+        <param>
+          <type>android.view.View</type>
+          <declname>p0</declname>
+        </param>
+        <param>
+          <type>float</type>
+          <declname>p1</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/100/android/src/crc643f46942d9dd1fff9/FlyoutPageRenderer.java" line="95" column="21"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_flyout_page_renderer_1ac152fda425d172f40a6b3683db313eac" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>native void</type>
+        <definition>native void crc643f46942d9dd1fff9.FlyoutPageRenderer.n_onDrawerStateChanged</definition>
+        <argsstring>(int p0)</argsstring>
+        <name>n_onDrawerStateChanged</name>
+        <param>
+          <type>int</type>
+          <declname>p0</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/100/android/src/crc643f46942d9dd1fff9/FlyoutPageRenderer.java" line="103" column="21"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_flyout_page_renderer_1aea89cf9429d60ee65ae0030b39ccdd5d" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>native void</type>
+        <definition>native void crc643f46942d9dd1fff9.FlyoutPageRenderer.n_onAttachedToWindow</definition>
+        <argsstring>()</argsstring>
+        <name>n_onAttachedToWindow</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/110/android/src/crc643f46942d9dd1fff9/FlyoutPageRenderer.java" line="55" column="21"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_flyout_page_renderer_1a89d7dd07bf33641e8908eb8c17609da9" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>native void</type>
+        <definition>native void crc643f46942d9dd1fff9.FlyoutPageRenderer.n_onDetachedFromWindow</definition>
+        <argsstring>()</argsstring>
+        <name>n_onDetachedFromWindow</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/110/android/src/crc643f46942d9dd1fff9/FlyoutPageRenderer.java" line="63" column="21"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_flyout_page_renderer_1a4e93d10859959113d9f4ef22a39bc832" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>native void</type>
+        <definition>native void crc643f46942d9dd1fff9.FlyoutPageRenderer.n_onLayout</definition>
+        <argsstring>(boolean p0, int p1, int p2, int p3, int p4)</argsstring>
+        <name>n_onLayout</name>
+        <param>
+          <type>boolean</type>
+          <declname>p0</declname>
+        </param>
+        <param>
+          <type>int</type>
+          <declname>p1</declname>
+        </param>
+        <param>
+          <type>int</type>
+          <declname>p2</declname>
+        </param>
+        <param>
+          <type>int</type>
+          <declname>p3</declname>
+        </param>
+        <param>
+          <type>int</type>
+          <declname>p4</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/110/android/src/crc643f46942d9dd1fff9/FlyoutPageRenderer.java" line="71" column="21"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_flyout_page_renderer_1aaeecc5d4dadc04c905e934d47f029955" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>native void</type>
+        <definition>native void crc643f46942d9dd1fff9.FlyoutPageRenderer.n_onDrawerClosed</definition>
+        <argsstring>(android.view.View p0)</argsstring>
+        <name>n_onDrawerClosed</name>
+        <param>
+          <type>android.view.View</type>
+          <declname>p0</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/110/android/src/crc643f46942d9dd1fff9/FlyoutPageRenderer.java" line="79" column="21"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_flyout_page_renderer_1a338c58b2428b027eaa02a3993830a98b" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>native void</type>
+        <definition>native void crc643f46942d9dd1fff9.FlyoutPageRenderer.n_onDrawerOpened</definition>
+        <argsstring>(android.view.View p0)</argsstring>
+        <name>n_onDrawerOpened</name>
+        <param>
+          <type>android.view.View</type>
+          <declname>p0</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/110/android/src/crc643f46942d9dd1fff9/FlyoutPageRenderer.java" line="87" column="21"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_flyout_page_renderer_1ac47c6c953bd494419a51f562cf23cba0" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>native void</type>
+        <definition>native void crc643f46942d9dd1fff9.FlyoutPageRenderer.n_onDrawerSlide</definition>
+        <argsstring>(android.view.View p0, float p1)</argsstring>
+        <name>n_onDrawerSlide</name>
+        <param>
+          <type>android.view.View</type>
+          <declname>p0</declname>
+        </param>
+        <param>
+          <type>float</type>
+          <declname>p1</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/110/android/src/crc643f46942d9dd1fff9/FlyoutPageRenderer.java" line="95" column="21"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_flyout_page_renderer_1ac152fda425d172f40a6b3683db313eac" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>native void</type>
+        <definition>native void crc643f46942d9dd1fff9.FlyoutPageRenderer.n_onDrawerStateChanged</definition>
+        <argsstring>(int p0)</argsstring>
+        <name>n_onDrawerStateChanged</name>
+        <param>
+          <type>int</type>
+          <declname>p0</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/110/android/src/crc643f46942d9dd1fff9/FlyoutPageRenderer.java" line="103" column="21"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_flyout_page_renderer_1aea89cf9429d60ee65ae0030b39ccdd5d" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>native void</type>
+        <definition>native void crc643f46942d9dd1fff9.FlyoutPageRenderer.n_onAttachedToWindow</definition>
+        <argsstring>()</argsstring>
+        <name>n_onAttachedToWindow</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/100/android/src/crc643f46942d9dd1fff9/FlyoutPageRenderer.java" line="55" column="21"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_flyout_page_renderer_1a89d7dd07bf33641e8908eb8c17609da9" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>native void</type>
+        <definition>native void crc643f46942d9dd1fff9.FlyoutPageRenderer.n_onDetachedFromWindow</definition>
+        <argsstring>()</argsstring>
+        <name>n_onDetachedFromWindow</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/100/android/src/crc643f46942d9dd1fff9/FlyoutPageRenderer.java" line="63" column="21"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_flyout_page_renderer_1a4e93d10859959113d9f4ef22a39bc832" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>native void</type>
+        <definition>native void crc643f46942d9dd1fff9.FlyoutPageRenderer.n_onLayout</definition>
+        <argsstring>(boolean p0, int p1, int p2, int p3, int p4)</argsstring>
+        <name>n_onLayout</name>
+        <param>
+          <type>boolean</type>
+          <declname>p0</declname>
+        </param>
+        <param>
+          <type>int</type>
+          <declname>p1</declname>
+        </param>
+        <param>
+          <type>int</type>
+          <declname>p2</declname>
+        </param>
+        <param>
+          <type>int</type>
+          <declname>p3</declname>
+        </param>
+        <param>
+          <type>int</type>
+          <declname>p4</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/100/android/src/crc643f46942d9dd1fff9/FlyoutPageRenderer.java" line="71" column="21"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_flyout_page_renderer_1aaeecc5d4dadc04c905e934d47f029955" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>native void</type>
+        <definition>native void crc643f46942d9dd1fff9.FlyoutPageRenderer.n_onDrawerClosed</definition>
+        <argsstring>(android.view.View p0)</argsstring>
+        <name>n_onDrawerClosed</name>
+        <param>
+          <type>android.view.View</type>
+          <declname>p0</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/100/android/src/crc643f46942d9dd1fff9/FlyoutPageRenderer.java" line="79" column="21"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_flyout_page_renderer_1a338c58b2428b027eaa02a3993830a98b" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>native void</type>
+        <definition>native void crc643f46942d9dd1fff9.FlyoutPageRenderer.n_onDrawerOpened</definition>
+        <argsstring>(android.view.View p0)</argsstring>
+        <name>n_onDrawerOpened</name>
+        <param>
+          <type>android.view.View</type>
+          <declname>p0</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/100/android/src/crc643f46942d9dd1fff9/FlyoutPageRenderer.java" line="87" column="21"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_flyout_page_renderer_1ac47c6c953bd494419a51f562cf23cba0" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>native void</type>
+        <definition>native void crc643f46942d9dd1fff9.FlyoutPageRenderer.n_onDrawerSlide</definition>
+        <argsstring>(android.view.View p0, float p1)</argsstring>
+        <name>n_onDrawerSlide</name>
+        <param>
+          <type>android.view.View</type>
+          <declname>p0</declname>
+        </param>
+        <param>
+          <type>float</type>
+          <declname>p1</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/100/android/src/crc643f46942d9dd1fff9/FlyoutPageRenderer.java" line="95" column="21"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_flyout_page_renderer_1ac152fda425d172f40a6b3683db313eac" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>native void</type>
+        <definition>native void crc643f46942d9dd1fff9.FlyoutPageRenderer.n_onDrawerStateChanged</definition>
+        <argsstring>(int p0)</argsstring>
+        <name>n_onDrawerStateChanged</name>
+        <param>
+          <type>int</type>
+          <declname>p0</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/100/android/src/crc643f46942d9dd1fff9/FlyoutPageRenderer.java" line="103" column="21"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_flyout_page_renderer_1aea89cf9429d60ee65ae0030b39ccdd5d" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>native void</type>
+        <definition>native void crc643f46942d9dd1fff9.FlyoutPageRenderer.n_onAttachedToWindow</definition>
+        <argsstring>()</argsstring>
+        <name>n_onAttachedToWindow</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/110/android/src/crc643f46942d9dd1fff9/FlyoutPageRenderer.java" line="55" column="21"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_flyout_page_renderer_1a89d7dd07bf33641e8908eb8c17609da9" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>native void</type>
+        <definition>native void crc643f46942d9dd1fff9.FlyoutPageRenderer.n_onDetachedFromWindow</definition>
+        <argsstring>()</argsstring>
+        <name>n_onDetachedFromWindow</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/110/android/src/crc643f46942d9dd1fff9/FlyoutPageRenderer.java" line="63" column="21"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_flyout_page_renderer_1a4e93d10859959113d9f4ef22a39bc832" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>native void</type>
+        <definition>native void crc643f46942d9dd1fff9.FlyoutPageRenderer.n_onLayout</definition>
+        <argsstring>(boolean p0, int p1, int p2, int p3, int p4)</argsstring>
+        <name>n_onLayout</name>
+        <param>
+          <type>boolean</type>
+          <declname>p0</declname>
+        </param>
+        <param>
+          <type>int</type>
+          <declname>p1</declname>
+        </param>
+        <param>
+          <type>int</type>
+          <declname>p2</declname>
+        </param>
+        <param>
+          <type>int</type>
+          <declname>p3</declname>
+        </param>
+        <param>
+          <type>int</type>
+          <declname>p4</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/110/android/src/crc643f46942d9dd1fff9/FlyoutPageRenderer.java" line="71" column="21"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_flyout_page_renderer_1aaeecc5d4dadc04c905e934d47f029955" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>native void</type>
+        <definition>native void crc643f46942d9dd1fff9.FlyoutPageRenderer.n_onDrawerClosed</definition>
+        <argsstring>(android.view.View p0)</argsstring>
+        <name>n_onDrawerClosed</name>
+        <param>
+          <type>android.view.View</type>
+          <declname>p0</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/110/android/src/crc643f46942d9dd1fff9/FlyoutPageRenderer.java" line="79" column="21"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_flyout_page_renderer_1a338c58b2428b027eaa02a3993830a98b" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>native void</type>
+        <definition>native void crc643f46942d9dd1fff9.FlyoutPageRenderer.n_onDrawerOpened</definition>
+        <argsstring>(android.view.View p0)</argsstring>
+        <name>n_onDrawerOpened</name>
+        <param>
+          <type>android.view.View</type>
+          <declname>p0</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/110/android/src/crc643f46942d9dd1fff9/FlyoutPageRenderer.java" line="87" column="21"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_flyout_page_renderer_1ac47c6c953bd494419a51f562cf23cba0" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>native void</type>
+        <definition>native void crc643f46942d9dd1fff9.FlyoutPageRenderer.n_onDrawerSlide</definition>
+        <argsstring>(android.view.View p0, float p1)</argsstring>
+        <name>n_onDrawerSlide</name>
+        <param>
+          <type>android.view.View</type>
+          <declname>p0</declname>
+        </param>
+        <param>
+          <type>float</type>
+          <declname>p1</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/110/android/src/crc643f46942d9dd1fff9/FlyoutPageRenderer.java" line="95" column="21"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_flyout_page_renderer_1ac152fda425d172f40a6b3683db313eac" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>native void</type>
+        <definition>native void crc643f46942d9dd1fff9.FlyoutPageRenderer.n_onDrawerStateChanged</definition>
+        <argsstring>(int p0)</argsstring>
+        <name>n_onDrawerStateChanged</name>
+        <param>
+          <type>int</type>
+          <declname>p0</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/110/android/src/crc643f46942d9dd1fff9/FlyoutPageRenderer.java" line="103" column="21"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <inheritancegraph>
+      <node id="6">
+        <label>androidx.drawerlayout.widget.DrawerLayout.DrawerListener</label>
+      </node>
+      <node id="7">
+        <label>crc64720bb2db43a66fe9.MasterDetailPageRenderer</label>
+        <link refid="classcrc64720bb2db43a66fe9_1_1_master_detail_page_renderer"/>
+        <childnode refid="1" relation="public-inheritance">
+        </childnode>
+        <childnode refid="1" relation="public-inheritance">
+        </childnode>
+        <childnode refid="1" relation="public-inheritance">
+        </childnode>
+        <childnode refid="1" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="2">
+        <label>androidx::drawerlayout::widget::DrawerLayout</label>
+      </node>
+      <node id="4">
+        <label>androidx::drawerlayout::widget::DrawerLayout::DrawerListener</label>
+      </node>
+      <node id="1">
+        <label>crc643f46942d9dd1fff9.FlyoutPageRenderer</label>
+        <link refid="classcrc643f46942d9dd1fff9_1_1_flyout_page_renderer"/>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+        <childnode refid="3" relation="public-inheritance">
+        </childnode>
+        <childnode refid="4" relation="public-inheritance">
+        </childnode>
+        <childnode refid="5" relation="public-inheritance">
+        </childnode>
+        <childnode refid="3" relation="public-inheritance">
+        </childnode>
+        <childnode refid="6" relation="public-inheritance">
+        </childnode>
+        <childnode refid="5" relation="public-inheritance">
+        </childnode>
+        <childnode refid="3" relation="public-inheritance">
+        </childnode>
+        <childnode refid="6" relation="public-inheritance">
+        </childnode>
+        <childnode refid="5" relation="public-inheritance">
+        </childnode>
+        <childnode refid="3" relation="public-inheritance">
+        </childnode>
+        <childnode refid="6" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="3">
+        <label>mono.android.IGCUserPeer</label>
+      </node>
+      <node id="5">
+        <label>androidx.drawerlayout.widget.DrawerLayout</label>
+      </node>
+    </inheritancegraph>
+    <collaborationgraph>
+      <node id="6">
+        <label>androidx.drawerlayout.widget.DrawerLayout.DrawerListener</label>
+      </node>
+      <node id="2">
+        <label>androidx::drawerlayout::widget::DrawerLayout</label>
+      </node>
+      <node id="4">
+        <label>androidx::drawerlayout::widget::DrawerLayout::DrawerListener</label>
+      </node>
+      <node id="1">
+        <label>crc643f46942d9dd1fff9.FlyoutPageRenderer</label>
+        <link refid="classcrc643f46942d9dd1fff9_1_1_flyout_page_renderer"/>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+        <childnode refid="3" relation="public-inheritance">
+        </childnode>
+        <childnode refid="4" relation="public-inheritance">
+        </childnode>
+        <childnode refid="5" relation="public-inheritance">
+        </childnode>
+        <childnode refid="3" relation="public-inheritance">
+        </childnode>
+        <childnode refid="6" relation="public-inheritance">
+        </childnode>
+        <childnode refid="5" relation="public-inheritance">
+        </childnode>
+        <childnode refid="3" relation="public-inheritance">
+        </childnode>
+        <childnode refid="6" relation="public-inheritance">
+        </childnode>
+        <childnode refid="5" relation="public-inheritance">
+        </childnode>
+        <childnode refid="3" relation="public-inheritance">
+        </childnode>
+        <childnode refid="6" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="3">
+        <label>mono.android.IGCUserPeer</label>
+      </node>
+      <node id="5">
+        <label>androidx.drawerlayout.widget.DrawerLayout</label>
+      </node>
+    </collaborationgraph>
+    <location file="Application Green Quake.Android/obj/Debug/100/android/src/crc643f46942d9dd1fff9/FlyoutPageRenderer.java" line="4" column="7" bodyfile="Application Green Quake.Android/obj/Debug/100/android/src/crc643f46942d9dd1fff9/FlyoutPageRenderer.java" bodystart="9" bodyend="118"/>
+    <listofallmembers>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_flyout_page_renderer_1ad9988b8a90a6aaa5038bc2e0e16d1716" prot="package" virt="non-virtual"><scope>crc643f46942d9dd1fff9::FlyoutPageRenderer</scope><name>[static initializer]</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_flyout_page_renderer_1ad9988b8a90a6aaa5038bc2e0e16d1716" prot="package" virt="non-virtual"><scope>crc643f46942d9dd1fff9::FlyoutPageRenderer</scope><name>[static initializer]</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_flyout_page_renderer_1ad9988b8a90a6aaa5038bc2e0e16d1716" prot="package" virt="non-virtual"><scope>crc643f46942d9dd1fff9::FlyoutPageRenderer</scope><name>[static initializer]</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_flyout_page_renderer_1ad9988b8a90a6aaa5038bc2e0e16d1716" prot="package" virt="non-virtual"><scope>crc643f46942d9dd1fff9::FlyoutPageRenderer</scope><name>[static initializer]</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_flyout_page_renderer_1a49cdbcd4b25c24877f76551af245e962" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::FlyoutPageRenderer</scope><name>__md_methods</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_flyout_page_renderer_1ab80c0318b41044c8fbcba04a5dce1d10" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::FlyoutPageRenderer</scope><name>FlyoutPageRenderer</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_flyout_page_renderer_1aefb40d76186230439090ac22ba3c9904" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::FlyoutPageRenderer</scope><name>FlyoutPageRenderer</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_flyout_page_renderer_1a5d60ba9de088655cb641d90b253b53d8" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::FlyoutPageRenderer</scope><name>FlyoutPageRenderer</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_flyout_page_renderer_1ab80c0318b41044c8fbcba04a5dce1d10" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::FlyoutPageRenderer</scope><name>FlyoutPageRenderer</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_flyout_page_renderer_1aefb40d76186230439090ac22ba3c9904" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::FlyoutPageRenderer</scope><name>FlyoutPageRenderer</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_flyout_page_renderer_1a5d60ba9de088655cb641d90b253b53d8" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::FlyoutPageRenderer</scope><name>FlyoutPageRenderer</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_flyout_page_renderer_1ab80c0318b41044c8fbcba04a5dce1d10" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::FlyoutPageRenderer</scope><name>FlyoutPageRenderer</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_flyout_page_renderer_1aefb40d76186230439090ac22ba3c9904" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::FlyoutPageRenderer</scope><name>FlyoutPageRenderer</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_flyout_page_renderer_1a5d60ba9de088655cb641d90b253b53d8" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::FlyoutPageRenderer</scope><name>FlyoutPageRenderer</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_flyout_page_renderer_1ab80c0318b41044c8fbcba04a5dce1d10" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::FlyoutPageRenderer</scope><name>FlyoutPageRenderer</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_flyout_page_renderer_1aefb40d76186230439090ac22ba3c9904" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::FlyoutPageRenderer</scope><name>FlyoutPageRenderer</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_flyout_page_renderer_1a5d60ba9de088655cb641d90b253b53d8" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::FlyoutPageRenderer</scope><name>FlyoutPageRenderer</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_flyout_page_renderer_1ac33bc0aebc1f76358c6e25e4659509dc" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::FlyoutPageRenderer</scope><name>monodroidAddReference</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_flyout_page_renderer_1ac33bc0aebc1f76358c6e25e4659509dc" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::FlyoutPageRenderer</scope><name>monodroidAddReference</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_flyout_page_renderer_1ac33bc0aebc1f76358c6e25e4659509dc" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::FlyoutPageRenderer</scope><name>monodroidAddReference</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_flyout_page_renderer_1ac33bc0aebc1f76358c6e25e4659509dc" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::FlyoutPageRenderer</scope><name>monodroidAddReference</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_flyout_page_renderer_1aa427f83eec490fcf7785c4b6ada53729" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::FlyoutPageRenderer</scope><name>monodroidClearReferences</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_flyout_page_renderer_1aa427f83eec490fcf7785c4b6ada53729" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::FlyoutPageRenderer</scope><name>monodroidClearReferences</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_flyout_page_renderer_1aa427f83eec490fcf7785c4b6ada53729" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::FlyoutPageRenderer</scope><name>monodroidClearReferences</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_flyout_page_renderer_1aa427f83eec490fcf7785c4b6ada53729" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::FlyoutPageRenderer</scope><name>monodroidClearReferences</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_flyout_page_renderer_1aea89cf9429d60ee65ae0030b39ccdd5d" prot="private" virt="non-virtual"><scope>crc643f46942d9dd1fff9::FlyoutPageRenderer</scope><name>n_onAttachedToWindow</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_flyout_page_renderer_1aea89cf9429d60ee65ae0030b39ccdd5d" prot="private" virt="non-virtual"><scope>crc643f46942d9dd1fff9::FlyoutPageRenderer</scope><name>n_onAttachedToWindow</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_flyout_page_renderer_1aea89cf9429d60ee65ae0030b39ccdd5d" prot="private" virt="non-virtual"><scope>crc643f46942d9dd1fff9::FlyoutPageRenderer</scope><name>n_onAttachedToWindow</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_flyout_page_renderer_1aea89cf9429d60ee65ae0030b39ccdd5d" prot="private" virt="non-virtual"><scope>crc643f46942d9dd1fff9::FlyoutPageRenderer</scope><name>n_onAttachedToWindow</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_flyout_page_renderer_1a89d7dd07bf33641e8908eb8c17609da9" prot="private" virt="non-virtual"><scope>crc643f46942d9dd1fff9::FlyoutPageRenderer</scope><name>n_onDetachedFromWindow</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_flyout_page_renderer_1a89d7dd07bf33641e8908eb8c17609da9" prot="private" virt="non-virtual"><scope>crc643f46942d9dd1fff9::FlyoutPageRenderer</scope><name>n_onDetachedFromWindow</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_flyout_page_renderer_1a89d7dd07bf33641e8908eb8c17609da9" prot="private" virt="non-virtual"><scope>crc643f46942d9dd1fff9::FlyoutPageRenderer</scope><name>n_onDetachedFromWindow</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_flyout_page_renderer_1a89d7dd07bf33641e8908eb8c17609da9" prot="private" virt="non-virtual"><scope>crc643f46942d9dd1fff9::FlyoutPageRenderer</scope><name>n_onDetachedFromWindow</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_flyout_page_renderer_1aaeecc5d4dadc04c905e934d47f029955" prot="private" virt="non-virtual"><scope>crc643f46942d9dd1fff9::FlyoutPageRenderer</scope><name>n_onDrawerClosed</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_flyout_page_renderer_1aaeecc5d4dadc04c905e934d47f029955" prot="private" virt="non-virtual"><scope>crc643f46942d9dd1fff9::FlyoutPageRenderer</scope><name>n_onDrawerClosed</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_flyout_page_renderer_1aaeecc5d4dadc04c905e934d47f029955" prot="private" virt="non-virtual"><scope>crc643f46942d9dd1fff9::FlyoutPageRenderer</scope><name>n_onDrawerClosed</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_flyout_page_renderer_1aaeecc5d4dadc04c905e934d47f029955" prot="private" virt="non-virtual"><scope>crc643f46942d9dd1fff9::FlyoutPageRenderer</scope><name>n_onDrawerClosed</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_flyout_page_renderer_1a338c58b2428b027eaa02a3993830a98b" prot="private" virt="non-virtual"><scope>crc643f46942d9dd1fff9::FlyoutPageRenderer</scope><name>n_onDrawerOpened</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_flyout_page_renderer_1a338c58b2428b027eaa02a3993830a98b" prot="private" virt="non-virtual"><scope>crc643f46942d9dd1fff9::FlyoutPageRenderer</scope><name>n_onDrawerOpened</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_flyout_page_renderer_1a338c58b2428b027eaa02a3993830a98b" prot="private" virt="non-virtual"><scope>crc643f46942d9dd1fff9::FlyoutPageRenderer</scope><name>n_onDrawerOpened</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_flyout_page_renderer_1a338c58b2428b027eaa02a3993830a98b" prot="private" virt="non-virtual"><scope>crc643f46942d9dd1fff9::FlyoutPageRenderer</scope><name>n_onDrawerOpened</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_flyout_page_renderer_1ac47c6c953bd494419a51f562cf23cba0" prot="private" virt="non-virtual"><scope>crc643f46942d9dd1fff9::FlyoutPageRenderer</scope><name>n_onDrawerSlide</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_flyout_page_renderer_1ac47c6c953bd494419a51f562cf23cba0" prot="private" virt="non-virtual"><scope>crc643f46942d9dd1fff9::FlyoutPageRenderer</scope><name>n_onDrawerSlide</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_flyout_page_renderer_1ac47c6c953bd494419a51f562cf23cba0" prot="private" virt="non-virtual"><scope>crc643f46942d9dd1fff9::FlyoutPageRenderer</scope><name>n_onDrawerSlide</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_flyout_page_renderer_1ac47c6c953bd494419a51f562cf23cba0" prot="private" virt="non-virtual"><scope>crc643f46942d9dd1fff9::FlyoutPageRenderer</scope><name>n_onDrawerSlide</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_flyout_page_renderer_1ac152fda425d172f40a6b3683db313eac" prot="private" virt="non-virtual"><scope>crc643f46942d9dd1fff9::FlyoutPageRenderer</scope><name>n_onDrawerStateChanged</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_flyout_page_renderer_1ac152fda425d172f40a6b3683db313eac" prot="private" virt="non-virtual"><scope>crc643f46942d9dd1fff9::FlyoutPageRenderer</scope><name>n_onDrawerStateChanged</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_flyout_page_renderer_1ac152fda425d172f40a6b3683db313eac" prot="private" virt="non-virtual"><scope>crc643f46942d9dd1fff9::FlyoutPageRenderer</scope><name>n_onDrawerStateChanged</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_flyout_page_renderer_1ac152fda425d172f40a6b3683db313eac" prot="private" virt="non-virtual"><scope>crc643f46942d9dd1fff9::FlyoutPageRenderer</scope><name>n_onDrawerStateChanged</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_flyout_page_renderer_1a4e93d10859959113d9f4ef22a39bc832" prot="private" virt="non-virtual"><scope>crc643f46942d9dd1fff9::FlyoutPageRenderer</scope><name>n_onLayout</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_flyout_page_renderer_1a4e93d10859959113d9f4ef22a39bc832" prot="private" virt="non-virtual"><scope>crc643f46942d9dd1fff9::FlyoutPageRenderer</scope><name>n_onLayout</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_flyout_page_renderer_1a4e93d10859959113d9f4ef22a39bc832" prot="private" virt="non-virtual"><scope>crc643f46942d9dd1fff9::FlyoutPageRenderer</scope><name>n_onLayout</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_flyout_page_renderer_1a4e93d10859959113d9f4ef22a39bc832" prot="private" virt="non-virtual"><scope>crc643f46942d9dd1fff9::FlyoutPageRenderer</scope><name>n_onLayout</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_flyout_page_renderer_1a9b010299e78c072c92b42b24754c7b11" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::FlyoutPageRenderer</scope><name>onAttachedToWindow</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_flyout_page_renderer_1a9b010299e78c072c92b42b24754c7b11" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::FlyoutPageRenderer</scope><name>onAttachedToWindow</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_flyout_page_renderer_1a9b010299e78c072c92b42b24754c7b11" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::FlyoutPageRenderer</scope><name>onAttachedToWindow</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_flyout_page_renderer_1a9b010299e78c072c92b42b24754c7b11" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::FlyoutPageRenderer</scope><name>onAttachedToWindow</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_flyout_page_renderer_1a4a7e6b827ec162aaab3494bd1d56308c" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::FlyoutPageRenderer</scope><name>onDetachedFromWindow</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_flyout_page_renderer_1a4a7e6b827ec162aaab3494bd1d56308c" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::FlyoutPageRenderer</scope><name>onDetachedFromWindow</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_flyout_page_renderer_1a4a7e6b827ec162aaab3494bd1d56308c" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::FlyoutPageRenderer</scope><name>onDetachedFromWindow</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_flyout_page_renderer_1a4a7e6b827ec162aaab3494bd1d56308c" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::FlyoutPageRenderer</scope><name>onDetachedFromWindow</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_flyout_page_renderer_1a1228fdd1ebb51fee0aa518e2164a161e" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::FlyoutPageRenderer</scope><name>onDrawerClosed</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_flyout_page_renderer_1a1228fdd1ebb51fee0aa518e2164a161e" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::FlyoutPageRenderer</scope><name>onDrawerClosed</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_flyout_page_renderer_1a1228fdd1ebb51fee0aa518e2164a161e" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::FlyoutPageRenderer</scope><name>onDrawerClosed</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_flyout_page_renderer_1a1228fdd1ebb51fee0aa518e2164a161e" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::FlyoutPageRenderer</scope><name>onDrawerClosed</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_flyout_page_renderer_1a00cbeec803f7c2ed10c1494bea099872" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::FlyoutPageRenderer</scope><name>onDrawerOpened</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_flyout_page_renderer_1a00cbeec803f7c2ed10c1494bea099872" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::FlyoutPageRenderer</scope><name>onDrawerOpened</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_flyout_page_renderer_1a00cbeec803f7c2ed10c1494bea099872" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::FlyoutPageRenderer</scope><name>onDrawerOpened</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_flyout_page_renderer_1a00cbeec803f7c2ed10c1494bea099872" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::FlyoutPageRenderer</scope><name>onDrawerOpened</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_flyout_page_renderer_1a47e53515b3b14d62141d8440a1e7091c" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::FlyoutPageRenderer</scope><name>onDrawerSlide</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_flyout_page_renderer_1a47e53515b3b14d62141d8440a1e7091c" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::FlyoutPageRenderer</scope><name>onDrawerSlide</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_flyout_page_renderer_1a47e53515b3b14d62141d8440a1e7091c" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::FlyoutPageRenderer</scope><name>onDrawerSlide</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_flyout_page_renderer_1a47e53515b3b14d62141d8440a1e7091c" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::FlyoutPageRenderer</scope><name>onDrawerSlide</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_flyout_page_renderer_1a7b288393da0fdd7727a7f3c384b0e5e5" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::FlyoutPageRenderer</scope><name>onDrawerStateChanged</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_flyout_page_renderer_1a7b288393da0fdd7727a7f3c384b0e5e5" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::FlyoutPageRenderer</scope><name>onDrawerStateChanged</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_flyout_page_renderer_1a7b288393da0fdd7727a7f3c384b0e5e5" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::FlyoutPageRenderer</scope><name>onDrawerStateChanged</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_flyout_page_renderer_1a7b288393da0fdd7727a7f3c384b0e5e5" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::FlyoutPageRenderer</scope><name>onDrawerStateChanged</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_flyout_page_renderer_1a1891a4881f3769477839aaa7c13b7558" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::FlyoutPageRenderer</scope><name>onLayout</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_flyout_page_renderer_1a1891a4881f3769477839aaa7c13b7558" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::FlyoutPageRenderer</scope><name>onLayout</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_flyout_page_renderer_1a1891a4881f3769477839aaa7c13b7558" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::FlyoutPageRenderer</scope><name>onLayout</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_flyout_page_renderer_1a1891a4881f3769477839aaa7c13b7558" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::FlyoutPageRenderer</scope><name>onLayout</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_flyout_page_renderer_1a7cdc71151dd27b37aac0d2d92ee9b628" prot="private" virt="non-virtual"><scope>crc643f46942d9dd1fff9::FlyoutPageRenderer</scope><name>refList</name></member>
+    </listofallmembers>
+  </compounddef>
+</doxygen>

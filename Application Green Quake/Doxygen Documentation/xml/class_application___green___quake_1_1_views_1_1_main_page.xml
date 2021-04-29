@@ -1,0 +1,255 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.9.1" xml:lang="en-US">
+  <compounddef id="class_application___green___quake_1_1_views_1_1_main_page" kind="class" language="C#" prot="public">
+    <compoundname>Application_Green_Quake::Views::MainPage</compoundname>
+    <basecompoundref prot="public" virt="non-virtual">global.XamarinForms.ContentPage</basecompoundref>
+    <basecompoundref prot="public" virt="non-virtual">global.XamarinForms.ContentPage</basecompoundref>
+    <basecompoundref prot="public" virt="non-virtual">ContentPage</basecompoundref>
+      <sectiondef kind="private-attrib">
+      <memberdef kind="variable" id="class_application___green___quake_1_1_views_1_1_main_page_1ae42a34b6ebc8748a3072aac55dcefbed" prot="private" static="no" mutable="no">
+        <type>global::Xamarin.Forms.Entry</type>
+        <definition>Xamarin Forms global::Entry Application_Green_Quake.Views.MainPage::EmailInput</definition>
+        <argsstring></argsstring>
+        <name>EmailInput</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake/obj/Debug/netstandard2.0/Views/MainPage.xaml.g.cs" line="20" column="43" bodyfile="Application Green Quake/obj/Debug/netstandard2.0/Views/MainPage.xaml.g.cs" bodystart="20" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_application___green___quake_1_1_views_1_1_main_page_1adb9f5f5a96fb75abb421440b1e114f76" prot="private" static="no" mutable="no">
+        <type>global::Xamarin.Forms.Label</type>
+        <definition>global::Xamarin.Forms.Label Application_Green_Quake.Views.MainPage.EmailErrorLabel</definition>
+        <argsstring></argsstring>
+        <name>EmailErrorLabel</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake/obj/Debug/netstandard2.0/Views/MainPage.xaml.g.cs" line="23" column="43" bodyfile="Application Green Quake/obj/Debug/netstandard2.0/Views/MainPage.xaml.g.cs" bodystart="23" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_application___green___quake_1_1_views_1_1_main_page_1aeca3349e2757307c59d52baa12b0c6f5" prot="private" static="no" mutable="no">
+        <type>global::Xamarin.Forms.Entry</type>
+        <definition>Xamarin Forms global::Entry Application_Green_Quake.Views.MainPage::PasswordInput</definition>
+        <argsstring></argsstring>
+        <name>PasswordInput</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake/obj/Debug/netstandard2.0/Views/MainPage.xaml.g.cs" line="26" column="43" bodyfile="Application Green Quake/obj/Debug/netstandard2.0/Views/MainPage.xaml.g.cs" bodystart="26" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_application___green___quake_1_1_views_1_1_main_page_1a761108b8ee6432b5000e6d6038cfcdec" prot="private" static="no" mutable="no">
+        <type>global::Xamarin.Forms.Label</type>
+        <definition>global::Xamarin.Forms.Label Application_Green_Quake.Views.MainPage.PasswordErrorLabel</definition>
+        <argsstring></argsstring>
+        <name>PasswordErrorLabel</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake/obj/Debug/netstandard2.0/Views/MainPage.xaml.g.cs" line="29" column="43" bodyfile="Application Green Quake/obj/Debug/netstandard2.0/Views/MainPage.xaml.g.cs" bodystart="29" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_application___green___quake_1_1_views_1_1_main_page_1a66c08daf35330835a3dfc0f251171bc1" prot="private" static="no" mutable="no">
+        <type><ref refid="interface_application___green___quake_1_1_i_auth" kindref="compound">IAuth</ref></type>
+        <definition>IAuth Application_Green_Quake.Views.MainPage.auth</definition>
+        <argsstring></argsstring>
+        <name>auth</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake/Views/MainPage.xaml.cs" line="19" column="15" bodyfile="Application Green Quake/Views/MainPage.xaml.cs" bodystart="19" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="public-static-attrib">
+      <memberdef kind="variable" id="class_application___green___quake_1_1_views_1_1_main_page_1a907e279fee0d0e7d64cbef81514bdb39" prot="public" static="yes" mutable="no">
+        <type>string</type>
+        <definition>string Application_Green_Quake.Views.MainPage.token</definition>
+        <argsstring></argsstring>
+        <name>token</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake/Views/MainPage.xaml.cs" line="20" column="30" bodyfile="Application Green Quake/Views/MainPage.xaml.cs" bodystart="20" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="private-func">
+      <memberdef kind="function" id="class_application___green___quake_1_1_views_1_1_main_page_1a40654bbfa44c9fdec066656231ad6954" prot="private" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void Application_Green_Quake.Views.MainPage.InitializeComponent</definition>
+        <argsstring>()</argsstring>
+        <name>InitializeComponent</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake/obj/Debug/netstandard2.0/Views/MainPage.xaml.g.cs" line="32" column="22" bodyfile="Application Green Quake/obj/Debug/netstandard2.0/Views/MainPage.xaml.g.cs" bodystart="32" bodyend="38"/>
+      </memberdef>
+      <memberdef kind="function" id="class_application___green___quake_1_1_views_1_1_main_page_1a40654bbfa44c9fdec066656231ad6954" prot="private" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void Application_Green_Quake.Views.MainPage.InitializeComponent</definition>
+        <argsstring>()</argsstring>
+        <name>InitializeComponent</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake/obj/Release/netstandard2.0/Views/MainPage.xaml.g.cs" line="26" column="22" bodyfile="Application Green Quake/obj/Release/netstandard2.0/Views/MainPage.xaml.g.cs" bodystart="26" bodyend="30"/>
+      </memberdef>
+      <memberdef kind="function" id="class_application___green___quake_1_1_views_1_1_main_page_1a082c77fed749a4459c0f68e4a5641cd6" prot="private" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>async void</type>
+        <definition>async void Application_Green_Quake.Views.MainPage.LoginClicked</definition>
+        <argsstring>(object sender, EventArgs e)</argsstring>
+        <name>LoginClicked</name>
+        <param>
+          <type>object</type>
+          <declname>sender</declname>
+        </param>
+        <param>
+          <type>EventArgs</type>
+          <declname>e</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+<para>This function fires when the Login button is clicked. It carries out validation checks and if all are passed the the user is logged in. If not the correct error message is displayed. </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake/Views/MainPage.xaml.cs" line="29" column="20" bodyfile="Application Green Quake/Views/MainPage.xaml.cs" bodystart="29" bodyend="77"/>
+      </memberdef>
+      <memberdef kind="function" id="class_application___green___quake_1_1_views_1_1_main_page_1ae14d4383e8249f694a8e6653329b8a14" prot="private" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void Application_Green_Quake.Views.MainPage.SignUpClicked</definition>
+        <argsstring>(object sender, EventArgs e)</argsstring>
+        <name>SignUpClicked</name>
+        <param>
+          <type>object</type>
+          <declname>sender</declname>
+        </param>
+        <param>
+          <type>EventArgs</type>
+          <declname>e</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+<para>This function fires when the Sign Up Text is clicked. It signs out the user if a user is signed in and redirects to the Sign Up page. </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake/Views/MainPage.xaml.cs" line="80" column="14" bodyfile="Application Green Quake/Views/MainPage.xaml.cs" bodystart="80" bodyend="88"/>
+      </memberdef>
+      <memberdef kind="function" id="class_application___green___quake_1_1_views_1_1_main_page_1a2af27e325f742e846023c4558f640c56" prot="private" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>async void</type>
+        <definition>async void Application_Green_Quake.Views.MainPage.ForgotPasswordClicked</definition>
+        <argsstring>(object sender, EventArgs e)</argsstring>
+        <name>ForgotPasswordClicked</name>
+        <param>
+          <type>object</type>
+          <declname>sender</declname>
+        </param>
+        <param>
+          <type>EventArgs</type>
+          <declname>e</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+<para>This function fires when the Forgot Password Text is clicked. It redirects to the Forgot Password page. </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake/Views/MainPage.xaml.cs" line="91" column="28" bodyfile="Application Green Quake/Views/MainPage.xaml.cs" bodystart="91" bodyend="94"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="public-func">
+      <memberdef kind="function" id="class_application___green___quake_1_1_views_1_1_main_page_1a6abe73f7a4a9f92315fe23a0dcb44a41" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>Application_Green_Quake.Views.MainPage.MainPage</definition>
+        <argsstring>()</argsstring>
+        <name>MainPage</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake/Views/MainPage.xaml.cs" line="21" column="16" bodyfile="Application Green Quake/Views/MainPage.xaml.cs" bodystart="21" bodyend="25"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <inheritancegraph>
+      <node id="3">
+        <label>ContentPage</label>
+      </node>
+      <node id="1">
+        <label>Application_Green_Quake.Views.MainPage</label>
+        <link refid="class_application___green___quake_1_1_views_1_1_main_page"/>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+        <childnode refid="3" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="2">
+        <label>global::XamarinForms::ContentPage</label>
+      </node>
+    </inheritancegraph>
+    <collaborationgraph>
+      <node id="3">
+        <label>ContentPage</label>
+      </node>
+      <node id="1">
+        <label>Application_Green_Quake.Views.MainPage</label>
+        <link refid="class_application___green___quake_1_1_views_1_1_main_page"/>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+        <childnode refid="3" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="2">
+        <label>global::XamarinForms::ContentPage</label>
+      </node>
+    </collaborationgraph>
+    <location file="Application Green Quake/obj/Debug/netstandard2.0/Views/MainPage.xaml.g.cs" line="17" column="19" bodyfile="Application Green Quake/obj/Debug/netstandard2.0/Views/MainPage.xaml.g.cs" bodystart="17" bodyend="39"/>
+    <listofallmembers>
+      <member refid="class_application___green___quake_1_1_views_1_1_main_page_1a66c08daf35330835a3dfc0f251171bc1" prot="private" virt="non-virtual"><scope>Application_Green_Quake::Views::MainPage</scope><name>auth</name></member>
+      <member refid="class_application___green___quake_1_1_views_1_1_main_page_1adb9f5f5a96fb75abb421440b1e114f76" prot="private" virt="non-virtual"><scope>Application_Green_Quake::Views::MainPage</scope><name>EmailErrorLabel</name></member>
+      <member refid="class_application___green___quake_1_1_views_1_1_main_page_1ae42a34b6ebc8748a3072aac55dcefbed" prot="private" virt="non-virtual"><scope>Application_Green_Quake::Views::MainPage</scope><name>EmailInput</name></member>
+      <member refid="class_application___green___quake_1_1_views_1_1_main_page_1a2af27e325f742e846023c4558f640c56" prot="private" virt="non-virtual"><scope>Application_Green_Quake::Views::MainPage</scope><name>ForgotPasswordClicked</name></member>
+      <member refid="class_application___green___quake_1_1_views_1_1_main_page_1a40654bbfa44c9fdec066656231ad6954" prot="private" virt="non-virtual"><scope>Application_Green_Quake::Views::MainPage</scope><name>InitializeComponent</name></member>
+      <member refid="class_application___green___quake_1_1_views_1_1_main_page_1a40654bbfa44c9fdec066656231ad6954" prot="private" virt="non-virtual"><scope>Application_Green_Quake::Views::MainPage</scope><name>InitializeComponent</name></member>
+      <member refid="class_application___green___quake_1_1_views_1_1_main_page_1a082c77fed749a4459c0f68e4a5641cd6" prot="private" virt="non-virtual"><scope>Application_Green_Quake::Views::MainPage</scope><name>LoginClicked</name></member>
+      <member refid="class_application___green___quake_1_1_views_1_1_main_page_1a6abe73f7a4a9f92315fe23a0dcb44a41" prot="public" virt="non-virtual"><scope>Application_Green_Quake::Views::MainPage</scope><name>MainPage</name></member>
+      <member refid="class_application___green___quake_1_1_views_1_1_main_page_1a761108b8ee6432b5000e6d6038cfcdec" prot="private" virt="non-virtual"><scope>Application_Green_Quake::Views::MainPage</scope><name>PasswordErrorLabel</name></member>
+      <member refid="class_application___green___quake_1_1_views_1_1_main_page_1aeca3349e2757307c59d52baa12b0c6f5" prot="private" virt="non-virtual"><scope>Application_Green_Quake::Views::MainPage</scope><name>PasswordInput</name></member>
+      <member refid="class_application___green___quake_1_1_views_1_1_main_page_1ae14d4383e8249f694a8e6653329b8a14" prot="private" virt="non-virtual"><scope>Application_Green_Quake::Views::MainPage</scope><name>SignUpClicked</name></member>
+      <member refid="class_application___green___quake_1_1_views_1_1_main_page_1a907e279fee0d0e7d64cbef81514bdb39" prot="public" virt="non-virtual"><scope>Application_Green_Quake::Views::MainPage</scope><name>token</name></member>
+    </listofallmembers>
+  </compounddef>
+</doxygen>

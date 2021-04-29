@@ -1,0 +1,375 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.9.1" xml:lang="en-US">
+  <compounddef id="class_application___green___quake_1_1_views_1_1_profile_page_1_1_top_tab_profile" kind="class" language="C#" prot="public">
+    <compoundname>Application_Green_Quake::Views::ProfilePage::TopTabProfile</compoundname>
+    <basecompoundref prot="public" virt="non-virtual">global.XamarinForms.ContentPage</basecompoundref>
+    <basecompoundref prot="public" virt="non-virtual">global.XamarinForms.ContentPage</basecompoundref>
+    <basecompoundref prot="public" virt="non-virtual">ContentPage</basecompoundref>
+      <sectiondef kind="private-attrib">
+      <memberdef kind="variable" id="class_application___green___quake_1_1_views_1_1_profile_page_1_1_top_tab_profile_1a8c5df706d3f717c3de8970c89dce6f32" prot="private" static="no" mutable="no">
+        <type>global::Xamarin.Forms.Image</type>
+        <definition>Xamarin Forms global::Image Application_Green_Quake.Views.ProfilePage.TopTabProfile::ProfilePic</definition>
+        <argsstring></argsstring>
+        <name>ProfilePic</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake/obj/Debug/netstandard2.0/Views/ProfilePage/TopTabProfile.xaml.g.cs" line="20" column="43" bodyfile="Application Green Quake/obj/Debug/netstandard2.0/Views/ProfilePage/TopTabProfile.xaml.g.cs" bodystart="20" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_application___green___quake_1_1_views_1_1_profile_page_1_1_top_tab_profile_1a6db80f42a6cc68c3fb5e103b619d4758" prot="private" static="no" mutable="no">
+        <type>global::Xamarin.Forms.Label</type>
+        <definition>Xamarin Forms global::Label Application_Green_Quake.Views.ProfilePage.TopTabProfile::Username</definition>
+        <argsstring></argsstring>
+        <name>Username</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake/obj/Debug/netstandard2.0/Views/ProfilePage/TopTabProfile.xaml.g.cs" line="23" column="43" bodyfile="Application Green Quake/obj/Debug/netstandard2.0/Views/ProfilePage/TopTabProfile.xaml.g.cs" bodystart="23" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_application___green___quake_1_1_views_1_1_profile_page_1_1_top_tab_profile_1adce871e402398bcfecc042d8a6da0cdf" prot="private" static="no" mutable="no">
+        <type>global::Xamarin.Forms.Entry</type>
+        <definition>Xamarin Forms global::Entry Application_Green_Quake.Views.ProfilePage.TopTabProfile::Bio</definition>
+        <argsstring></argsstring>
+        <name>Bio</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake/obj/Debug/netstandard2.0/Views/ProfilePage/TopTabProfile.xaml.g.cs" line="26" column="43" bodyfile="Application Green Quake/obj/Debug/netstandard2.0/Views/ProfilePage/TopTabProfile.xaml.g.cs" bodystart="26" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_application___green___quake_1_1_views_1_1_profile_page_1_1_top_tab_profile_1a1617414ff5a47377a00d11b4512c6383" prot="private" static="no" mutable="no">
+        <type>global::Xamarin.Forms.Label</type>
+        <definition>Xamarin Forms global::Label Application_Green_Quake.Views.ProfilePage.TopTabProfile::theLevel</definition>
+        <argsstring></argsstring>
+        <name>theLevel</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake/obj/Debug/netstandard2.0/Views/ProfilePage/TopTabProfile.xaml.g.cs" line="29" column="43" bodyfile="Application Green Quake/obj/Debug/netstandard2.0/Views/ProfilePage/TopTabProfile.xaml.g.cs" bodystart="29" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_application___green___quake_1_1_views_1_1_profile_page_1_1_top_tab_profile_1a97d95143621d747f1b2b6e2e48b87918" prot="private" static="no" mutable="no">
+        <type>global::Xamarin.Forms.ProgressBar</type>
+        <definition>Xamarin Forms global::ProgressBar Application_Green_Quake.Views.ProfilePage.TopTabProfile::progressbar</definition>
+        <argsstring></argsstring>
+        <name>progressbar</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake/obj/Debug/netstandard2.0/Views/ProfilePage/TopTabProfile.xaml.g.cs" line="32" column="49" bodyfile="Application Green Quake/obj/Debug/netstandard2.0/Views/ProfilePage/TopTabProfile.xaml.g.cs" bodystart="32" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_application___green___quake_1_1_views_1_1_profile_page_1_1_top_tab_profile_1a2c4d262c2734401b0a0de479bf0d67c1" prot="private" static="no" mutable="no">
+        <type>global::Xamarin.Forms.Image</type>
+        <definition>Xamarin Forms global::Image Application_Green_Quake.Views.ProfilePage.TopTabProfile::mosiac</definition>
+        <argsstring></argsstring>
+        <name>mosiac</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake/obj/Debug/netstandard2.0/Views/ProfilePage/TopTabProfile.xaml.g.cs" line="35" column="43" bodyfile="Application Green Quake/obj/Debug/netstandard2.0/Views/ProfilePage/TopTabProfile.xaml.g.cs" bodystart="35" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_application___green___quake_1_1_views_1_1_profile_page_1_1_top_tab_profile_1abb4af67b8516a9029356b229f72ea89e" prot="private" static="no" mutable="no">
+        <type><ref refid="interface_application___green___quake_1_1_i_auth" kindref="compound">IAuth</ref></type>
+        <definition>IAuth Application_Green_Quake.Views.ProfilePage.TopTabProfile.auth</definition>
+        <argsstring></argsstring>
+        <name>auth</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake/Views/ProfilePage/TopTabProfile.xaml.cs" line="24" column="15" bodyfile="Application Green Quake/Views/ProfilePage/TopTabProfile.xaml.cs" bodystart="24" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_application___green___quake_1_1_views_1_1_profile_page_1_1_top_tab_profile_1ae9db537c813951871de554c32695e805" prot="private" static="no" mutable="no">
+        <type>float</type>
+        <definition>float Application_Green_Quake.Views.ProfilePage.TopTabProfile.progress</definition>
+        <argsstring></argsstring>
+        <name>progress</name>
+        <initializer>= 0</initializer>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake/Views/ProfilePage/TopTabProfile.xaml.cs" line="25" column="15" bodyfile="Application Green Quake/Views/ProfilePage/TopTabProfile.xaml.cs" bodystart="25" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_application___green___quake_1_1_views_1_1_profile_page_1_1_top_tab_profile_1ae0e693d2313a4c970476d20a04a97eb9" prot="private" static="no" mutable="no">
+        <type>string</type>
+        <definition>string Application_Green_Quake.Views.ProfilePage.TopTabProfile.bioInput</definition>
+        <argsstring></argsstring>
+        <name>bioInput</name>
+        <initializer>= &quot;&quot;</initializer>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake/Views/ProfilePage/TopTabProfile.xaml.cs" line="26" column="16" bodyfile="Application Green Quake/Views/ProfilePage/TopTabProfile.xaml.cs" bodystart="26" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_application___green___quake_1_1_views_1_1_profile_page_1_1_top_tab_profile_1a109958688ad22f16880c496ff6abe5f0" prot="private" static="no" mutable="no">
+        <type>float</type>
+        <definition>float Application_Green_Quake.Views.ProfilePage.TopTabProfile.count</definition>
+        <argsstring></argsstring>
+        <name>count</name>
+        <initializer>= 0</initializer>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake/Views/ProfilePage/TopTabProfile.xaml.cs" line="27" column="15" bodyfile="Application Green Quake/Views/ProfilePage/TopTabProfile.xaml.cs" bodystart="27" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="private-func">
+      <memberdef kind="function" id="class_application___green___quake_1_1_views_1_1_profile_page_1_1_top_tab_profile_1a9e44ba7fd0f3aac75ffc8c510035b6de" prot="private" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void Application_Green_Quake.Views.ProfilePage.TopTabProfile.InitializeComponent</definition>
+        <argsstring>()</argsstring>
+        <name>InitializeComponent</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake/obj/Debug/netstandard2.0/Views/ProfilePage/TopTabProfile.xaml.g.cs" line="38" column="22" bodyfile="Application Green Quake/obj/Debug/netstandard2.0/Views/ProfilePage/TopTabProfile.xaml.g.cs" bodystart="38" bodyend="46"/>
+      </memberdef>
+      <memberdef kind="function" id="class_application___green___quake_1_1_views_1_1_profile_page_1_1_top_tab_profile_1a9e44ba7fd0f3aac75ffc8c510035b6de" prot="private" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void Application_Green_Quake.Views.ProfilePage.TopTabProfile.InitializeComponent</definition>
+        <argsstring>()</argsstring>
+        <name>InitializeComponent</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake/obj/Release/netstandard2.0/Views/ProfilePage/TopTabProfile.xaml.g.cs" line="38" column="22" bodyfile="Application Green Quake/obj/Release/netstandard2.0/Views/ProfilePage/TopTabProfile.xaml.g.cs" bodystart="38" bodyend="46"/>
+      </memberdef>
+      <memberdef kind="function" id="class_application___green___quake_1_1_views_1_1_profile_page_1_1_top_tab_profile_1afad73a692e844e75c1583e4f363d03f4" prot="private" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>async void</type>
+        <definition>async void Application_Green_Quake.Views.ProfilePage.TopTabProfile.ImageClicked</definition>
+        <argsstring>(object sender, EventArgs e)</argsstring>
+        <name>ImageClicked</name>
+        <param>
+          <type>object</type>
+          <declname>sender</declname>
+        </param>
+        <param>
+          <type>EventArgs</type>
+          <declname>e</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+<para>This function navigates to <ref refid="class_application___green___quake_1_1_views_1_1_profile_page_1_1_upload_image_pop_up" kindref="compound">UploadImagePopUp</ref> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake/Views/ProfilePage/TopTabProfile.xaml.cs" line="472" column="28" bodyfile="Application Green Quake/Views/ProfilePage/TopTabProfile.xaml.cs" bodystart="472" bodyend="475"/>
+      </memberdef>
+      <memberdef kind="function" id="class_application___green___quake_1_1_views_1_1_profile_page_1_1_top_tab_profile_1ac8e4f0ebe0f2ec1121612c2b7ad2aa9a" prot="private" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>async void</type>
+        <definition>async void Application_Green_Quake.Views.ProfilePage.TopTabProfile.NavigateToTrophyCase</definition>
+        <argsstring>(object sender, EventArgs e)</argsstring>
+        <name>NavigateToTrophyCase</name>
+        <param>
+          <type>object</type>
+          <declname>sender</declname>
+        </param>
+        <param>
+          <type>EventArgs</type>
+          <declname>e</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+<para>This function navigates to <ref refid="class_application___green___quake_1_1_views_1_1_profile_page_1_1_trophy_case" kindref="compound">TrophyCase</ref> at tab 0 </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake/Views/ProfilePage/TopTabProfile.xaml.cs" line="478" column="28" bodyfile="Application Green Quake/Views/ProfilePage/TopTabProfile.xaml.cs" bodystart="478" bodyend="481"/>
+      </memberdef>
+      <memberdef kind="function" id="class_application___green___quake_1_1_views_1_1_profile_page_1_1_top_tab_profile_1a66db995b76afc55934a4a035b1989d01" prot="private" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>async void</type>
+        <definition>async void Application_Green_Quake.Views.ProfilePage.TopTabProfile.NavigateToAchievements</definition>
+        <argsstring>(object sender, EventArgs e)</argsstring>
+        <name>NavigateToAchievements</name>
+        <param>
+          <type>object</type>
+          <declname>sender</declname>
+        </param>
+        <param>
+          <type>EventArgs</type>
+          <declname>e</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+<para>This function navigates to <ref refid="class_application___green___quake_1_1_views_1_1_profile_page_1_1_trophy_case" kindref="compound">TrophyCase</ref> at tab 1 </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake/Views/ProfilePage/TopTabProfile.xaml.cs" line="484" column="28" bodyfile="Application Green Quake/Views/ProfilePage/TopTabProfile.xaml.cs" bodystart="484" bodyend="487"/>
+      </memberdef>
+      <memberdef kind="function" id="class_application___green___quake_1_1_views_1_1_profile_page_1_1_top_tab_profile_1af55e4f92842097a601dc47d35d71b258" prot="private" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>async void</type>
+        <definition>async void Application_Green_Quake.Views.ProfilePage.TopTabProfile.NavigateToBadges</definition>
+        <argsstring>(object sender, EventArgs e)</argsstring>
+        <name>NavigateToBadges</name>
+        <param>
+          <type>object</type>
+          <declname>sender</declname>
+        </param>
+        <param>
+          <type>EventArgs</type>
+          <declname>e</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+<para>This function navigates to <ref refid="class_application___green___quake_1_1_views_1_1_profile_page_1_1_trophy_case" kindref="compound">TrophyCase</ref> at tab 2 </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake/Views/ProfilePage/TopTabProfile.xaml.cs" line="490" column="28" bodyfile="Application Green Quake/Views/ProfilePage/TopTabProfile.xaml.cs" bodystart="490" bodyend="493"/>
+      </memberdef>
+      <memberdef kind="function" id="class_application___green___quake_1_1_views_1_1_profile_page_1_1_top_tab_profile_1a078b0d1361e65fd7f8bb00447eb15761" prot="private" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>async void</type>
+        <definition>async void Application_Green_Quake.Views.ProfilePage.TopTabProfile.SaveText</definition>
+        <argsstring>(object sender, EventArgs e)</argsstring>
+        <name>SaveText</name>
+        <param>
+          <type>object</type>
+          <declname>sender</declname>
+        </param>
+        <param>
+          <type>EventArgs</type>
+          <declname>e</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+<para>This function saves the users bio </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake/Views/ProfilePage/TopTabProfile.xaml.cs" line="496" column="28" bodyfile="Application Green Quake/Views/ProfilePage/TopTabProfile.xaml.cs" bodystart="496" bodyend="506"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="public-func">
+      <memberdef kind="function" id="class_application___green___quake_1_1_views_1_1_profile_page_1_1_top_tab_profile_1ab52c876d4c7bf73937a1662b28b67d51" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>Application_Green_Quake.Views.ProfilePage.TopTabProfile.TopTabProfile</definition>
+        <argsstring>()</argsstring>
+        <name>TopTabProfile</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake/Views/ProfilePage/TopTabProfile.xaml.cs" line="29" column="16" bodyfile="Application Green Quake/Views/ProfilePage/TopTabProfile.xaml.cs" bodystart="29" bodyend="34"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="protected-func">
+      <memberdef kind="function" id="class_application___green___quake_1_1_views_1_1_profile_page_1_1_top_tab_profile_1a86105f0d5ac3bf2e281aee7cd5070ede" prot="protected" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>override async void</type>
+        <definition>override async void Application_Green_Quake.Views.ProfilePage.TopTabProfile.OnAppearing</definition>
+        <argsstring>()</argsstring>
+        <name>OnAppearing</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+<para>This function is called before the page is displayed. It displays the images as the criteria are met and also the bio and username. It also calulates the players level and progress and displays the progress to the next level on a progress bar. </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake/Views/ProfilePage/TopTabProfile.xaml.cs" line="38" column="39" bodyfile="Application Green Quake/Views/ProfilePage/TopTabProfile.xaml.cs" bodystart="38" bodyend="469"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <inheritancegraph>
+      <node id="3">
+        <label>ContentPage</label>
+      </node>
+      <node id="1">
+        <label>Application_Green_Quake.Views.ProfilePage.TopTabProfile</label>
+        <link refid="class_application___green___quake_1_1_views_1_1_profile_page_1_1_top_tab_profile"/>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+        <childnode refid="3" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="2">
+        <label>global::XamarinForms::ContentPage</label>
+      </node>
+    </inheritancegraph>
+    <collaborationgraph>
+      <node id="3">
+        <label>ContentPage</label>
+      </node>
+      <node id="1">
+        <label>Application_Green_Quake.Views.ProfilePage.TopTabProfile</label>
+        <link refid="class_application___green___quake_1_1_views_1_1_profile_page_1_1_top_tab_profile"/>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+        <childnode refid="3" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="2">
+        <label>global::XamarinForms::ContentPage</label>
+      </node>
+    </collaborationgraph>
+    <location file="Application Green Quake/obj/Debug/netstandard2.0/Views/ProfilePage/TopTabProfile.xaml.g.cs" line="17" column="19" bodyfile="Application Green Quake/obj/Debug/netstandard2.0/Views/ProfilePage/TopTabProfile.xaml.g.cs" bodystart="17" bodyend="47"/>
+    <listofallmembers>
+      <member refid="class_application___green___quake_1_1_views_1_1_profile_page_1_1_top_tab_profile_1abb4af67b8516a9029356b229f72ea89e" prot="private" virt="non-virtual"><scope>Application_Green_Quake::Views::ProfilePage::TopTabProfile</scope><name>auth</name></member>
+      <member refid="class_application___green___quake_1_1_views_1_1_profile_page_1_1_top_tab_profile_1adce871e402398bcfecc042d8a6da0cdf" prot="private" virt="non-virtual"><scope>Application_Green_Quake::Views::ProfilePage::TopTabProfile</scope><name>Bio</name></member>
+      <member refid="class_application___green___quake_1_1_views_1_1_profile_page_1_1_top_tab_profile_1ae0e693d2313a4c970476d20a04a97eb9" prot="private" virt="non-virtual"><scope>Application_Green_Quake::Views::ProfilePage::TopTabProfile</scope><name>bioInput</name></member>
+      <member refid="class_application___green___quake_1_1_views_1_1_profile_page_1_1_top_tab_profile_1a109958688ad22f16880c496ff6abe5f0" prot="private" virt="non-virtual"><scope>Application_Green_Quake::Views::ProfilePage::TopTabProfile</scope><name>count</name></member>
+      <member refid="class_application___green___quake_1_1_views_1_1_profile_page_1_1_top_tab_profile_1afad73a692e844e75c1583e4f363d03f4" prot="private" virt="non-virtual"><scope>Application_Green_Quake::Views::ProfilePage::TopTabProfile</scope><name>ImageClicked</name></member>
+      <member refid="class_application___green___quake_1_1_views_1_1_profile_page_1_1_top_tab_profile_1a9e44ba7fd0f3aac75ffc8c510035b6de" prot="private" virt="non-virtual"><scope>Application_Green_Quake::Views::ProfilePage::TopTabProfile</scope><name>InitializeComponent</name></member>
+      <member refid="class_application___green___quake_1_1_views_1_1_profile_page_1_1_top_tab_profile_1a9e44ba7fd0f3aac75ffc8c510035b6de" prot="private" virt="non-virtual"><scope>Application_Green_Quake::Views::ProfilePage::TopTabProfile</scope><name>InitializeComponent</name></member>
+      <member refid="class_application___green___quake_1_1_views_1_1_profile_page_1_1_top_tab_profile_1a2c4d262c2734401b0a0de479bf0d67c1" prot="private" virt="non-virtual"><scope>Application_Green_Quake::Views::ProfilePage::TopTabProfile</scope><name>mosiac</name></member>
+      <member refid="class_application___green___quake_1_1_views_1_1_profile_page_1_1_top_tab_profile_1a66db995b76afc55934a4a035b1989d01" prot="private" virt="non-virtual"><scope>Application_Green_Quake::Views::ProfilePage::TopTabProfile</scope><name>NavigateToAchievements</name></member>
+      <member refid="class_application___green___quake_1_1_views_1_1_profile_page_1_1_top_tab_profile_1af55e4f92842097a601dc47d35d71b258" prot="private" virt="non-virtual"><scope>Application_Green_Quake::Views::ProfilePage::TopTabProfile</scope><name>NavigateToBadges</name></member>
+      <member refid="class_application___green___quake_1_1_views_1_1_profile_page_1_1_top_tab_profile_1ac8e4f0ebe0f2ec1121612c2b7ad2aa9a" prot="private" virt="non-virtual"><scope>Application_Green_Quake::Views::ProfilePage::TopTabProfile</scope><name>NavigateToTrophyCase</name></member>
+      <member refid="class_application___green___quake_1_1_views_1_1_profile_page_1_1_top_tab_profile_1a86105f0d5ac3bf2e281aee7cd5070ede" prot="protected" virt="non-virtual"><scope>Application_Green_Quake::Views::ProfilePage::TopTabProfile</scope><name>OnAppearing</name></member>
+      <member refid="class_application___green___quake_1_1_views_1_1_profile_page_1_1_top_tab_profile_1a8c5df706d3f717c3de8970c89dce6f32" prot="private" virt="non-virtual"><scope>Application_Green_Quake::Views::ProfilePage::TopTabProfile</scope><name>ProfilePic</name></member>
+      <member refid="class_application___green___quake_1_1_views_1_1_profile_page_1_1_top_tab_profile_1ae9db537c813951871de554c32695e805" prot="private" virt="non-virtual"><scope>Application_Green_Quake::Views::ProfilePage::TopTabProfile</scope><name>progress</name></member>
+      <member refid="class_application___green___quake_1_1_views_1_1_profile_page_1_1_top_tab_profile_1a97d95143621d747f1b2b6e2e48b87918" prot="private" virt="non-virtual"><scope>Application_Green_Quake::Views::ProfilePage::TopTabProfile</scope><name>progressbar</name></member>
+      <member refid="class_application___green___quake_1_1_views_1_1_profile_page_1_1_top_tab_profile_1a078b0d1361e65fd7f8bb00447eb15761" prot="private" virt="non-virtual"><scope>Application_Green_Quake::Views::ProfilePage::TopTabProfile</scope><name>SaveText</name></member>
+      <member refid="class_application___green___quake_1_1_views_1_1_profile_page_1_1_top_tab_profile_1a1617414ff5a47377a00d11b4512c6383" prot="private" virt="non-virtual"><scope>Application_Green_Quake::Views::ProfilePage::TopTabProfile</scope><name>theLevel</name></member>
+      <member refid="class_application___green___quake_1_1_views_1_1_profile_page_1_1_top_tab_profile_1ab52c876d4c7bf73937a1662b28b67d51" prot="public" virt="non-virtual"><scope>Application_Green_Quake::Views::ProfilePage::TopTabProfile</scope><name>TopTabProfile</name></member>
+      <member refid="class_application___green___quake_1_1_views_1_1_profile_page_1_1_top_tab_profile_1a6db80f42a6cc68c3fb5e103b619d4758" prot="private" virt="non-virtual"><scope>Application_Green_Quake::Views::ProfilePage::TopTabProfile</scope><name>Username</name></member>
+    </listofallmembers>
+  </compounddef>
+</doxygen>

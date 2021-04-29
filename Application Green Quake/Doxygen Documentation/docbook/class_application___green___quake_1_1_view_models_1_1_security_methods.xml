@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<section xmlns="http://docbook.org/ns/docbook" version="5.0" xmlns:xlink="http://www.w3.org/1999/xlink" xml:id="_class_application___green___quake_1_1_view_models_1_1_security_methods" xml:lang="en-US">
+<title>Application_Green_Quake.ViewModels.SecurityMethods Class Reference</title>
+<indexterm><primary>Application_Green_Quake.ViewModels.SecurityMethods</primary></indexterm>
+<simplesect>
+    <title>Public Member Functions    </title>
+        <itemizedlist>
+            <listitem><para>async Task&lt; bool &gt; <link linkend="_class_application___green___quake_1_1_view_models_1_1_security_methods_1aaf36624e593f544c3d11a5e3c32e1c35">DayLimitLock</link> ()</para>
+</listitem>
+            <listitem><para>async Task&lt; bool &gt; <link linkend="_class_application___green___quake_1_1_view_models_1_1_security_methods_1a833a0f7f9988675286d1dd9a8408875b">TimeLimitLock</link> ()</para>
+</listitem>
+        </itemizedlist>
+</simplesect>
+<section>
+<title>Detailed Description</title>
+<para>
+Definition at line 19 of file SecurityMethods.cs.</para>
+</section>
+<section>
+<title>Member Function Documentation</title>
+<anchor xml:id="_class_application___green___quake_1_1_view_models_1_1_security_methods_1aaf36624e593f544c3d11a5e3c32e1c35"/>    <section>
+    <title>DayLimitLock()</title>
+<indexterm><primary>DayLimitLock</primary><secondary>Application_Green_Quake.ViewModels.SecurityMethods</secondary></indexterm>
+<indexterm><primary>Application_Green_Quake.ViewModels.SecurityMethods</primary><secondary>DayLimitLock</secondary></indexterm>
+<para><computeroutput>async Task&lt;bool&gt; Application_Green_Quake.ViewModels.SecurityMethods.DayLimitLock ( )</computeroutput></para>
+<para>This function gets the date and the count from the SecurityChecks Node in the database and compares the stored date to the current date. If the count is 15 and the date is the same as todays date the function returns true. Otherwise False. <formalpara><title>Returns</title>
+
+<para>value return true/false </para>
+</formalpara>
+</para>
+<para>
+Definition at line 34 of file SecurityMethods.cs.</para>
+    </section><anchor xml:id="_class_application___green___quake_1_1_view_models_1_1_security_methods_1a833a0f7f9988675286d1dd9a8408875b"/>    <section>
+    <title>TimeLimitLock()</title>
+<indexterm><primary>TimeLimitLock</primary><secondary>Application_Green_Quake.ViewModels.SecurityMethods</secondary></indexterm>
+<indexterm><primary>Application_Green_Quake.ViewModels.SecurityMethods</primary><secondary>TimeLimitLock</secondary></indexterm>
+<para><computeroutput>async Task&lt;bool&gt; Application_Green_Quake.ViewModels.SecurityMethods.TimeLimitLock ( )</computeroutput></para>
+<para>This function gets the time from the SecurityChecks Node in the database and compares the stored time to the current time. <link linkend="_class_the">The</link> time difference is found by subtracting the time stored in the database from the current time and if the difference is not greater than or equal to 60 seconds then the function returns true otherwise it returns false. <formalpara><title>Returns</title>
+
+<para>value return true/false </para>
+</formalpara>
+</para>
+<para>
+Definition at line 74 of file SecurityMethods.cs.</para>
+</section>
+<para>
+The documentation for this class was generated from the following file:</para>
+Application Green Quake/ViewModels/<link linkend="__security_methods_8cs">SecurityMethods.cs</link></section>
+</section>

@@ -1,0 +1,1212 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.9.1" xml:lang="en-US">
+  <compounddef id="classcrc643f46942d9dd1fff9_1_1_shape_view" kind="class" language="Java" prot="public">
+    <compoundname>crc643f46942d9dd1fff9::ShapeView</compoundname>
+    <basecompoundref prot="public" virt="non-virtual">android.view.View</basecompoundref>
+    <basecompoundref prot="public" virt="non-virtual">mono.android.IGCUserPeer</basecompoundref>
+    <basecompoundref prot="public" virt="non-virtual">android.view.View</basecompoundref>
+    <basecompoundref prot="public" virt="non-virtual">mono.android.IGCUserPeer</basecompoundref>
+    <basecompoundref prot="public" virt="non-virtual">android.view.View</basecompoundref>
+    <basecompoundref prot="public" virt="non-virtual">mono.android.IGCUserPeer</basecompoundref>
+    <basecompoundref prot="public" virt="non-virtual">android.view.View</basecompoundref>
+    <basecompoundref prot="public" virt="non-virtual">mono.android.IGCUserPeer</basecompoundref>
+    <derivedcompoundref refid="classcrc643f46942d9dd1fff9_1_1_ellipse_view" prot="public" virt="non-virtual">crc643f46942d9dd1fff9.EllipseView</derivedcompoundref>
+    <derivedcompoundref refid="classcrc643f46942d9dd1fff9_1_1_ellipse_view" prot="public" virt="non-virtual">crc643f46942d9dd1fff9.EllipseView</derivedcompoundref>
+    <derivedcompoundref refid="classcrc643f46942d9dd1fff9_1_1_ellipse_view" prot="public" virt="non-virtual">crc643f46942d9dd1fff9.EllipseView</derivedcompoundref>
+    <derivedcompoundref refid="classcrc643f46942d9dd1fff9_1_1_ellipse_view" prot="public" virt="non-virtual">crc643f46942d9dd1fff9.EllipseView</derivedcompoundref>
+    <derivedcompoundref refid="classcrc643f46942d9dd1fff9_1_1_line_view" prot="public" virt="non-virtual">crc643f46942d9dd1fff9.LineView</derivedcompoundref>
+    <derivedcompoundref refid="classcrc643f46942d9dd1fff9_1_1_line_view" prot="public" virt="non-virtual">crc643f46942d9dd1fff9.LineView</derivedcompoundref>
+    <derivedcompoundref refid="classcrc643f46942d9dd1fff9_1_1_line_view" prot="public" virt="non-virtual">crc643f46942d9dd1fff9.LineView</derivedcompoundref>
+    <derivedcompoundref refid="classcrc643f46942d9dd1fff9_1_1_line_view" prot="public" virt="non-virtual">crc643f46942d9dd1fff9.LineView</derivedcompoundref>
+    <derivedcompoundref refid="classcrc643f46942d9dd1fff9_1_1_path_view" prot="public" virt="non-virtual">crc643f46942d9dd1fff9.PathView</derivedcompoundref>
+    <derivedcompoundref refid="classcrc643f46942d9dd1fff9_1_1_path_view" prot="public" virt="non-virtual">crc643f46942d9dd1fff9.PathView</derivedcompoundref>
+    <derivedcompoundref refid="classcrc643f46942d9dd1fff9_1_1_path_view" prot="public" virt="non-virtual">crc643f46942d9dd1fff9.PathView</derivedcompoundref>
+    <derivedcompoundref refid="classcrc643f46942d9dd1fff9_1_1_path_view" prot="public" virt="non-virtual">crc643f46942d9dd1fff9.PathView</derivedcompoundref>
+    <derivedcompoundref refid="classcrc643f46942d9dd1fff9_1_1_polygon_view" prot="public" virt="non-virtual">crc643f46942d9dd1fff9.PolygonView</derivedcompoundref>
+    <derivedcompoundref refid="classcrc643f46942d9dd1fff9_1_1_polygon_view" prot="public" virt="non-virtual">crc643f46942d9dd1fff9.PolygonView</derivedcompoundref>
+    <derivedcompoundref refid="classcrc643f46942d9dd1fff9_1_1_polygon_view" prot="public" virt="non-virtual">crc643f46942d9dd1fff9.PolygonView</derivedcompoundref>
+    <derivedcompoundref refid="classcrc643f46942d9dd1fff9_1_1_polygon_view" prot="public" virt="non-virtual">crc643f46942d9dd1fff9.PolygonView</derivedcompoundref>
+    <derivedcompoundref refid="classcrc643f46942d9dd1fff9_1_1_polyline_view" prot="public" virt="non-virtual">crc643f46942d9dd1fff9.PolylineView</derivedcompoundref>
+    <derivedcompoundref refid="classcrc643f46942d9dd1fff9_1_1_polyline_view" prot="public" virt="non-virtual">crc643f46942d9dd1fff9.PolylineView</derivedcompoundref>
+    <derivedcompoundref refid="classcrc643f46942d9dd1fff9_1_1_polyline_view" prot="public" virt="non-virtual">crc643f46942d9dd1fff9.PolylineView</derivedcompoundref>
+    <derivedcompoundref refid="classcrc643f46942d9dd1fff9_1_1_polyline_view" prot="public" virt="non-virtual">crc643f46942d9dd1fff9.PolylineView</derivedcompoundref>
+    <derivedcompoundref refid="classcrc643f46942d9dd1fff9_1_1_rect_view" prot="public" virt="non-virtual">crc643f46942d9dd1fff9.RectView</derivedcompoundref>
+    <derivedcompoundref refid="classcrc643f46942d9dd1fff9_1_1_rect_view" prot="public" virt="non-virtual">crc643f46942d9dd1fff9.RectView</derivedcompoundref>
+    <derivedcompoundref refid="classcrc643f46942d9dd1fff9_1_1_rect_view" prot="public" virt="non-virtual">crc643f46942d9dd1fff9.RectView</derivedcompoundref>
+    <derivedcompoundref refid="classcrc643f46942d9dd1fff9_1_1_rect_view" prot="public" virt="non-virtual">crc643f46942d9dd1fff9.RectView</derivedcompoundref>
+      <sectiondef kind="public-static-attrib">
+      <memberdef kind="variable" id="classcrc643f46942d9dd1fff9_1_1_shape_view_1ab082bd5483a5db2d3b9b545f19b3fbcb" prot="public" static="yes" mutable="no">
+        <type>final String</type>
+        <definition>static final String crc643f46942d9dd1fff9.ShapeView::__md_methods</definition>
+        <argsstring></argsstring>
+        <name>__md_methods</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+<para>@hide </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/100/android/src/crc643f46942d9dd1fff9/ShapeView.java" line="10" column="28" bodyfile="Application Green Quake.Android/obj/Debug/100/android/src/crc643f46942d9dd1fff9/ShapeView.java" bodystart="10" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="private-attrib">
+      <memberdef kind="variable" id="classcrc643f46942d9dd1fff9_1_1_shape_view_1acf27bff4063b057b8236efa1143d9eaa" prot="private" static="no" mutable="no">
+        <type>java.util.ArrayList</type>
+        <definition>java util ArrayList crc643f46942d9dd1fff9.ShapeView::refList</definition>
+        <argsstring></argsstring>
+        <name>refList</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/100/android/src/crc643f46942d9dd1fff9/ShapeView.java" line="58" column="27" bodyfile="Application Green Quake.Android/obj/Debug/100/android/src/crc643f46942d9dd1fff9/ShapeView.java" bodystart="58" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="package-static-func">
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_shape_view_1ae4ca1997e0ccb454f5d4e012a5298c79" prot="package" static="yes" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>crc643f46942d9dd1fff9.ShapeView.[static initializer]</definition>
+        <argsstring></argsstring>
+        <name>[static initializer]</name>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_ellipse_view_1ae6cb2710b1d384788c0a196b90cf8756">[static initializer]</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_line_view_1a94485852379fcab011276c27775dad07">[static initializer]</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_path_view_1aced4583e55fe4feb5b204c634ad20f1d">[static initializer]</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_polygon_view_1a110511c56726bc34ee292143799d7473">[static initializer]</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_polyline_view_1a8ed4b81255b115aba6cce4e08c5d22fc">[static initializer]</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_rect_view_1a0deb10ea7527dca54c559e2aacd20f37">[static initializer]</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_ellipse_view_1ae6cb2710b1d384788c0a196b90cf8756">[static initializer]</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_line_view_1a94485852379fcab011276c27775dad07">[static initializer]</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_path_view_1aced4583e55fe4feb5b204c634ad20f1d">[static initializer]</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_polygon_view_1a110511c56726bc34ee292143799d7473">[static initializer]</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_polyline_view_1a8ed4b81255b115aba6cce4e08c5d22fc">[static initializer]</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_rect_view_1a0deb10ea7527dca54c559e2aacd20f37">[static initializer]</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_ellipse_view_1ae6cb2710b1d384788c0a196b90cf8756">[static initializer]</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_line_view_1a94485852379fcab011276c27775dad07">[static initializer]</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_path_view_1aced4583e55fe4feb5b204c634ad20f1d">[static initializer]</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_polygon_view_1a110511c56726bc34ee292143799d7473">[static initializer]</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_polyline_view_1a8ed4b81255b115aba6cce4e08c5d22fc">[static initializer]</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_rect_view_1a0deb10ea7527dca54c559e2aacd20f37">[static initializer]</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_ellipse_view_1ae6cb2710b1d384788c0a196b90cf8756">[static initializer]</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_line_view_1a94485852379fcab011276c27775dad07">[static initializer]</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_path_view_1aced4583e55fe4feb5b204c634ad20f1d">[static initializer]</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_polygon_view_1a110511c56726bc34ee292143799d7473">[static initializer]</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_polyline_view_1a8ed4b81255b115aba6cce4e08c5d22fc">[static initializer]</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_rect_view_1a0deb10ea7527dca54c559e2aacd20f37">[static initializer]</reimplementedby>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/100/android/src/crc643f46942d9dd1fff9/ShapeView.java" line="10" column="28"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_shape_view_1ae4ca1997e0ccb454f5d4e012a5298c79" prot="package" static="yes" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>crc643f46942d9dd1fff9.ShapeView.[static initializer]</definition>
+        <argsstring></argsstring>
+        <name>[static initializer]</name>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_ellipse_view_1ae6cb2710b1d384788c0a196b90cf8756">[static initializer]</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_line_view_1a94485852379fcab011276c27775dad07">[static initializer]</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_path_view_1aced4583e55fe4feb5b204c634ad20f1d">[static initializer]</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_polygon_view_1a110511c56726bc34ee292143799d7473">[static initializer]</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_polyline_view_1a8ed4b81255b115aba6cce4e08c5d22fc">[static initializer]</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_rect_view_1a0deb10ea7527dca54c559e2aacd20f37">[static initializer]</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_ellipse_view_1ae6cb2710b1d384788c0a196b90cf8756">[static initializer]</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_line_view_1a94485852379fcab011276c27775dad07">[static initializer]</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_path_view_1aced4583e55fe4feb5b204c634ad20f1d">[static initializer]</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_polygon_view_1a110511c56726bc34ee292143799d7473">[static initializer]</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_polyline_view_1a8ed4b81255b115aba6cce4e08c5d22fc">[static initializer]</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_rect_view_1a0deb10ea7527dca54c559e2aacd20f37">[static initializer]</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_ellipse_view_1ae6cb2710b1d384788c0a196b90cf8756">[static initializer]</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_line_view_1a94485852379fcab011276c27775dad07">[static initializer]</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_path_view_1aced4583e55fe4feb5b204c634ad20f1d">[static initializer]</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_polygon_view_1a110511c56726bc34ee292143799d7473">[static initializer]</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_polyline_view_1a8ed4b81255b115aba6cce4e08c5d22fc">[static initializer]</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_rect_view_1a0deb10ea7527dca54c559e2aacd20f37">[static initializer]</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_ellipse_view_1ae6cb2710b1d384788c0a196b90cf8756">[static initializer]</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_line_view_1a94485852379fcab011276c27775dad07">[static initializer]</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_path_view_1aced4583e55fe4feb5b204c634ad20f1d">[static initializer]</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_polygon_view_1a110511c56726bc34ee292143799d7473">[static initializer]</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_polyline_view_1a8ed4b81255b115aba6cce4e08c5d22fc">[static initializer]</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_rect_view_1a0deb10ea7527dca54c559e2aacd20f37">[static initializer]</reimplementedby>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/110/android/src/crc643f46942d9dd1fff9/ShapeView.java" line="10" column="28"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_shape_view_1ae4ca1997e0ccb454f5d4e012a5298c79" prot="package" static="yes" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>crc643f46942d9dd1fff9.ShapeView.[static initializer]</definition>
+        <argsstring></argsstring>
+        <name>[static initializer]</name>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_ellipse_view_1ae6cb2710b1d384788c0a196b90cf8756">[static initializer]</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_line_view_1a94485852379fcab011276c27775dad07">[static initializer]</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_path_view_1aced4583e55fe4feb5b204c634ad20f1d">[static initializer]</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_polygon_view_1a110511c56726bc34ee292143799d7473">[static initializer]</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_polyline_view_1a8ed4b81255b115aba6cce4e08c5d22fc">[static initializer]</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_rect_view_1a0deb10ea7527dca54c559e2aacd20f37">[static initializer]</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_ellipse_view_1ae6cb2710b1d384788c0a196b90cf8756">[static initializer]</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_line_view_1a94485852379fcab011276c27775dad07">[static initializer]</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_path_view_1aced4583e55fe4feb5b204c634ad20f1d">[static initializer]</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_polygon_view_1a110511c56726bc34ee292143799d7473">[static initializer]</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_polyline_view_1a8ed4b81255b115aba6cce4e08c5d22fc">[static initializer]</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_rect_view_1a0deb10ea7527dca54c559e2aacd20f37">[static initializer]</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_ellipse_view_1ae6cb2710b1d384788c0a196b90cf8756">[static initializer]</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_line_view_1a94485852379fcab011276c27775dad07">[static initializer]</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_path_view_1aced4583e55fe4feb5b204c634ad20f1d">[static initializer]</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_polygon_view_1a110511c56726bc34ee292143799d7473">[static initializer]</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_polyline_view_1a8ed4b81255b115aba6cce4e08c5d22fc">[static initializer]</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_rect_view_1a0deb10ea7527dca54c559e2aacd20f37">[static initializer]</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_ellipse_view_1ae6cb2710b1d384788c0a196b90cf8756">[static initializer]</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_line_view_1a94485852379fcab011276c27775dad07">[static initializer]</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_path_view_1aced4583e55fe4feb5b204c634ad20f1d">[static initializer]</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_polygon_view_1a110511c56726bc34ee292143799d7473">[static initializer]</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_polyline_view_1a8ed4b81255b115aba6cce4e08c5d22fc">[static initializer]</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_rect_view_1a0deb10ea7527dca54c559e2aacd20f37">[static initializer]</reimplementedby>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/100/android/src/crc643f46942d9dd1fff9/ShapeView.java" line="10" column="28"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_shape_view_1ae4ca1997e0ccb454f5d4e012a5298c79" prot="package" static="yes" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>crc643f46942d9dd1fff9.ShapeView.[static initializer]</definition>
+        <argsstring></argsstring>
+        <name>[static initializer]</name>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_ellipse_view_1ae6cb2710b1d384788c0a196b90cf8756">[static initializer]</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_line_view_1a94485852379fcab011276c27775dad07">[static initializer]</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_path_view_1aced4583e55fe4feb5b204c634ad20f1d">[static initializer]</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_polygon_view_1a110511c56726bc34ee292143799d7473">[static initializer]</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_polyline_view_1a8ed4b81255b115aba6cce4e08c5d22fc">[static initializer]</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_rect_view_1a0deb10ea7527dca54c559e2aacd20f37">[static initializer]</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_ellipse_view_1ae6cb2710b1d384788c0a196b90cf8756">[static initializer]</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_line_view_1a94485852379fcab011276c27775dad07">[static initializer]</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_path_view_1aced4583e55fe4feb5b204c634ad20f1d">[static initializer]</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_polygon_view_1a110511c56726bc34ee292143799d7473">[static initializer]</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_polyline_view_1a8ed4b81255b115aba6cce4e08c5d22fc">[static initializer]</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_rect_view_1a0deb10ea7527dca54c559e2aacd20f37">[static initializer]</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_ellipse_view_1ae6cb2710b1d384788c0a196b90cf8756">[static initializer]</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_line_view_1a94485852379fcab011276c27775dad07">[static initializer]</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_path_view_1aced4583e55fe4feb5b204c634ad20f1d">[static initializer]</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_polygon_view_1a110511c56726bc34ee292143799d7473">[static initializer]</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_polyline_view_1a8ed4b81255b115aba6cce4e08c5d22fc">[static initializer]</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_rect_view_1a0deb10ea7527dca54c559e2aacd20f37">[static initializer]</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_ellipse_view_1ae6cb2710b1d384788c0a196b90cf8756">[static initializer]</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_line_view_1a94485852379fcab011276c27775dad07">[static initializer]</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_path_view_1aced4583e55fe4feb5b204c634ad20f1d">[static initializer]</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_polygon_view_1a110511c56726bc34ee292143799d7473">[static initializer]</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_polyline_view_1a8ed4b81255b115aba6cce4e08c5d22fc">[static initializer]</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_rect_view_1a0deb10ea7527dca54c559e2aacd20f37">[static initializer]</reimplementedby>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/110/android/src/crc643f46942d9dd1fff9/ShapeView.java" line="10" column="28"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="public-func">
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_shape_view_1a56f319ff327803b213e07d3beb4eff6a" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>crc643f46942d9dd1fff9.ShapeView.ShapeView</definition>
+        <argsstring>(android.content.Context p0)</argsstring>
+        <name>ShapeView</name>
+        <param>
+          <type>android.content.Context</type>
+          <declname>p0</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/100/android/src/crc643f46942d9dd1fff9/ShapeView.java" line="19" column="8" bodyfile="Application Green Quake.Android/obj/Debug/100/android/src/crc643f46942d9dd1fff9/ShapeView.java" bodystart="19" bodyend="24"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_shape_view_1a996fb677dc3467243794ff538a1e1774" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>crc643f46942d9dd1fff9.ShapeView.ShapeView</definition>
+        <argsstring>(android.content.Context p0, android.util.AttributeSet p1)</argsstring>
+        <name>ShapeView</name>
+        <param>
+          <type>android.content.Context</type>
+          <declname>p0</declname>
+        </param>
+        <param>
+          <type>android.util.AttributeSet</type>
+          <declname>p1</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/100/android/src/crc643f46942d9dd1fff9/ShapeView.java" line="27" column="8" bodyfile="Application Green Quake.Android/obj/Debug/100/android/src/crc643f46942d9dd1fff9/ShapeView.java" bodystart="27" bodyend="32"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_shape_view_1a8a589f37276116537c309c9ed406aa86" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>crc643f46942d9dd1fff9.ShapeView.ShapeView</definition>
+        <argsstring>(android.content.Context p0, android.util.AttributeSet p1, int p2)</argsstring>
+        <name>ShapeView</name>
+        <param>
+          <type>android.content.Context</type>
+          <declname>p0</declname>
+        </param>
+        <param>
+          <type>android.util.AttributeSet</type>
+          <declname>p1</declname>
+        </param>
+        <param>
+          <type>int</type>
+          <declname>p2</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/100/android/src/crc643f46942d9dd1fff9/ShapeView.java" line="35" column="8" bodyfile="Application Green Quake.Android/obj/Debug/100/android/src/crc643f46942d9dd1fff9/ShapeView.java" bodystart="35" bodyend="40"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_shape_view_1ac90f355e6d950b861ba0d4d9cb9751aa" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>crc643f46942d9dd1fff9.ShapeView.ShapeView</definition>
+        <argsstring>(android.content.Context p0, android.util.AttributeSet p1, int p2, int p3)</argsstring>
+        <name>ShapeView</name>
+        <param>
+          <type>android.content.Context</type>
+          <declname>p0</declname>
+        </param>
+        <param>
+          <type>android.util.AttributeSet</type>
+          <declname>p1</declname>
+        </param>
+        <param>
+          <type>int</type>
+          <declname>p2</declname>
+        </param>
+        <param>
+          <type>int</type>
+          <declname>p3</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/100/android/src/crc643f46942d9dd1fff9/ShapeView.java" line="43" column="8" bodyfile="Application Green Quake.Android/obj/Debug/100/android/src/crc643f46942d9dd1fff9/ShapeView.java" bodystart="43" bodyend="48"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_shape_view_1ad0f3b0681a3a05bbd079b39a0ae259c8" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void crc643f46942d9dd1fff9.ShapeView.onDraw</definition>
+        <argsstring>(android.graphics.Canvas p0)</argsstring>
+        <name>onDraw</name>
+        <param>
+          <type>android.graphics.Canvas</type>
+          <declname>p0</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/100/android/src/crc643f46942d9dd1fff9/ShapeView.java" line="51" column="13" bodyfile="Application Green Quake.Android/obj/Debug/100/android/src/crc643f46942d9dd1fff9/ShapeView.java" bodystart="51" bodyend="54"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_shape_view_1a2a2d30734a92da06e380d84e6a7d0057" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void crc643f46942d9dd1fff9.ShapeView.monodroidAddReference</definition>
+        <argsstring>(java.lang.Object obj)</argsstring>
+        <name>monodroidAddReference</name>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_ellipse_view_1a54aba1b083f4c680b634986b0c66952e">monodroidAddReference</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_line_view_1a9b63700cc315baf729996d08bf737c35">monodroidAddReference</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_path_view_1a18fe95bc0d906791330fd8e032ba60ab">monodroidAddReference</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_polygon_view_1a2455ae32dc40a9c167a1178162bc2f2b">monodroidAddReference</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_polyline_view_1a21b530af75124726f3b3ee4a1e571849">monodroidAddReference</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_rect_view_1a3109b25ad026f04b975588c7637d95d8">monodroidAddReference</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_ellipse_view_1a54aba1b083f4c680b634986b0c66952e">monodroidAddReference</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_line_view_1a9b63700cc315baf729996d08bf737c35">monodroidAddReference</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_path_view_1a18fe95bc0d906791330fd8e032ba60ab">monodroidAddReference</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_polygon_view_1a2455ae32dc40a9c167a1178162bc2f2b">monodroidAddReference</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_polyline_view_1a21b530af75124726f3b3ee4a1e571849">monodroidAddReference</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_rect_view_1a3109b25ad026f04b975588c7637d95d8">monodroidAddReference</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_ellipse_view_1a54aba1b083f4c680b634986b0c66952e">monodroidAddReference</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_line_view_1a9b63700cc315baf729996d08bf737c35">monodroidAddReference</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_path_view_1a18fe95bc0d906791330fd8e032ba60ab">monodroidAddReference</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_polygon_view_1a2455ae32dc40a9c167a1178162bc2f2b">monodroidAddReference</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_polyline_view_1a21b530af75124726f3b3ee4a1e571849">monodroidAddReference</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_rect_view_1a3109b25ad026f04b975588c7637d95d8">monodroidAddReference</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_ellipse_view_1a54aba1b083f4c680b634986b0c66952e">monodroidAddReference</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_line_view_1a9b63700cc315baf729996d08bf737c35">monodroidAddReference</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_path_view_1a18fe95bc0d906791330fd8e032ba60ab">monodroidAddReference</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_polygon_view_1a2455ae32dc40a9c167a1178162bc2f2b">monodroidAddReference</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_polyline_view_1a21b530af75124726f3b3ee4a1e571849">monodroidAddReference</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_rect_view_1a3109b25ad026f04b975588c7637d95d8">monodroidAddReference</reimplementedby>
+        <param>
+          <type>java.lang.Object</type>
+          <declname>obj</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/100/android/src/crc643f46942d9dd1fff9/ShapeView.java" line="59" column="13" bodyfile="Application Green Quake.Android/obj/Debug/100/android/src/crc643f46942d9dd1fff9/ShapeView.java" bodystart="59" bodyend="64"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_shape_view_1aafdd116a0b489c4b0e6e8e986bb05f92" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void crc643f46942d9dd1fff9.ShapeView.monodroidClearReferences</definition>
+        <argsstring>()</argsstring>
+        <name>monodroidClearReferences</name>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_ellipse_view_1afe9a7ebf1873f5b5002507d81fe29481">monodroidClearReferences</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_line_view_1a0373181dec9cf21f2db22c7288ab0f81">monodroidClearReferences</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_path_view_1ac1f2e49048766f6b1abceb6b4eb43257">monodroidClearReferences</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_polygon_view_1a43a831ba51559e0ac9c7cec3be848012">monodroidClearReferences</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_polyline_view_1a24cbf5fec2384a8c70d99344e7d91de6">monodroidClearReferences</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_rect_view_1ac704c1b3c58388cc239e2355ceb7c120">monodroidClearReferences</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_ellipse_view_1afe9a7ebf1873f5b5002507d81fe29481">monodroidClearReferences</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_line_view_1a0373181dec9cf21f2db22c7288ab0f81">monodroidClearReferences</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_path_view_1ac1f2e49048766f6b1abceb6b4eb43257">monodroidClearReferences</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_polygon_view_1a43a831ba51559e0ac9c7cec3be848012">monodroidClearReferences</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_polyline_view_1a24cbf5fec2384a8c70d99344e7d91de6">monodroidClearReferences</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_rect_view_1ac704c1b3c58388cc239e2355ceb7c120">monodroidClearReferences</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_ellipse_view_1afe9a7ebf1873f5b5002507d81fe29481">monodroidClearReferences</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_line_view_1a0373181dec9cf21f2db22c7288ab0f81">monodroidClearReferences</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_path_view_1ac1f2e49048766f6b1abceb6b4eb43257">monodroidClearReferences</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_polygon_view_1a43a831ba51559e0ac9c7cec3be848012">monodroidClearReferences</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_polyline_view_1a24cbf5fec2384a8c70d99344e7d91de6">monodroidClearReferences</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_rect_view_1ac704c1b3c58388cc239e2355ceb7c120">monodroidClearReferences</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_ellipse_view_1afe9a7ebf1873f5b5002507d81fe29481">monodroidClearReferences</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_line_view_1a0373181dec9cf21f2db22c7288ab0f81">monodroidClearReferences</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_path_view_1ac1f2e49048766f6b1abceb6b4eb43257">monodroidClearReferences</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_polygon_view_1a43a831ba51559e0ac9c7cec3be848012">monodroidClearReferences</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_polyline_view_1a24cbf5fec2384a8c70d99344e7d91de6">monodroidClearReferences</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_rect_view_1ac704c1b3c58388cc239e2355ceb7c120">monodroidClearReferences</reimplementedby>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/100/android/src/crc643f46942d9dd1fff9/ShapeView.java" line="66" column="13" bodyfile="Application Green Quake.Android/obj/Debug/100/android/src/crc643f46942d9dd1fff9/ShapeView.java" bodystart="66" bodyend="70"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_shape_view_1a56f319ff327803b213e07d3beb4eff6a" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>crc643f46942d9dd1fff9.ShapeView.ShapeView</definition>
+        <argsstring>(android.content.Context p0)</argsstring>
+        <name>ShapeView</name>
+        <param>
+          <type>android.content.Context</type>
+          <declname>p0</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/110/android/src/crc643f46942d9dd1fff9/ShapeView.java" line="19" column="8" bodyfile="Application Green Quake.Android/obj/Debug/110/android/src/crc643f46942d9dd1fff9/ShapeView.java" bodystart="19" bodyend="24"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_shape_view_1a996fb677dc3467243794ff538a1e1774" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>crc643f46942d9dd1fff9.ShapeView.ShapeView</definition>
+        <argsstring>(android.content.Context p0, android.util.AttributeSet p1)</argsstring>
+        <name>ShapeView</name>
+        <param>
+          <type>android.content.Context</type>
+          <declname>p0</declname>
+        </param>
+        <param>
+          <type>android.util.AttributeSet</type>
+          <declname>p1</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/110/android/src/crc643f46942d9dd1fff9/ShapeView.java" line="27" column="8" bodyfile="Application Green Quake.Android/obj/Debug/110/android/src/crc643f46942d9dd1fff9/ShapeView.java" bodystart="27" bodyend="32"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_shape_view_1a8a589f37276116537c309c9ed406aa86" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>crc643f46942d9dd1fff9.ShapeView.ShapeView</definition>
+        <argsstring>(android.content.Context p0, android.util.AttributeSet p1, int p2)</argsstring>
+        <name>ShapeView</name>
+        <param>
+          <type>android.content.Context</type>
+          <declname>p0</declname>
+        </param>
+        <param>
+          <type>android.util.AttributeSet</type>
+          <declname>p1</declname>
+        </param>
+        <param>
+          <type>int</type>
+          <declname>p2</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/110/android/src/crc643f46942d9dd1fff9/ShapeView.java" line="35" column="8" bodyfile="Application Green Quake.Android/obj/Debug/110/android/src/crc643f46942d9dd1fff9/ShapeView.java" bodystart="35" bodyend="40"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_shape_view_1ac90f355e6d950b861ba0d4d9cb9751aa" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>crc643f46942d9dd1fff9.ShapeView.ShapeView</definition>
+        <argsstring>(android.content.Context p0, android.util.AttributeSet p1, int p2, int p3)</argsstring>
+        <name>ShapeView</name>
+        <param>
+          <type>android.content.Context</type>
+          <declname>p0</declname>
+        </param>
+        <param>
+          <type>android.util.AttributeSet</type>
+          <declname>p1</declname>
+        </param>
+        <param>
+          <type>int</type>
+          <declname>p2</declname>
+        </param>
+        <param>
+          <type>int</type>
+          <declname>p3</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/110/android/src/crc643f46942d9dd1fff9/ShapeView.java" line="43" column="8" bodyfile="Application Green Quake.Android/obj/Debug/110/android/src/crc643f46942d9dd1fff9/ShapeView.java" bodystart="43" bodyend="48"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_shape_view_1ad0f3b0681a3a05bbd079b39a0ae259c8" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void crc643f46942d9dd1fff9.ShapeView.onDraw</definition>
+        <argsstring>(android.graphics.Canvas p0)</argsstring>
+        <name>onDraw</name>
+        <param>
+          <type>android.graphics.Canvas</type>
+          <declname>p0</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/110/android/src/crc643f46942d9dd1fff9/ShapeView.java" line="51" column="13" bodyfile="Application Green Quake.Android/obj/Debug/110/android/src/crc643f46942d9dd1fff9/ShapeView.java" bodystart="51" bodyend="54"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_shape_view_1a2a2d30734a92da06e380d84e6a7d0057" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void crc643f46942d9dd1fff9.ShapeView.monodroidAddReference</definition>
+        <argsstring>(java.lang.Object obj)</argsstring>
+        <name>monodroidAddReference</name>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_ellipse_view_1a54aba1b083f4c680b634986b0c66952e">monodroidAddReference</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_line_view_1a9b63700cc315baf729996d08bf737c35">monodroidAddReference</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_path_view_1a18fe95bc0d906791330fd8e032ba60ab">monodroidAddReference</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_polygon_view_1a2455ae32dc40a9c167a1178162bc2f2b">monodroidAddReference</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_polyline_view_1a21b530af75124726f3b3ee4a1e571849">monodroidAddReference</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_rect_view_1a3109b25ad026f04b975588c7637d95d8">monodroidAddReference</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_ellipse_view_1a54aba1b083f4c680b634986b0c66952e">monodroidAddReference</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_line_view_1a9b63700cc315baf729996d08bf737c35">monodroidAddReference</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_path_view_1a18fe95bc0d906791330fd8e032ba60ab">monodroidAddReference</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_polygon_view_1a2455ae32dc40a9c167a1178162bc2f2b">monodroidAddReference</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_polyline_view_1a21b530af75124726f3b3ee4a1e571849">monodroidAddReference</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_rect_view_1a3109b25ad026f04b975588c7637d95d8">monodroidAddReference</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_ellipse_view_1a54aba1b083f4c680b634986b0c66952e">monodroidAddReference</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_line_view_1a9b63700cc315baf729996d08bf737c35">monodroidAddReference</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_path_view_1a18fe95bc0d906791330fd8e032ba60ab">monodroidAddReference</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_polygon_view_1a2455ae32dc40a9c167a1178162bc2f2b">monodroidAddReference</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_polyline_view_1a21b530af75124726f3b3ee4a1e571849">monodroidAddReference</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_rect_view_1a3109b25ad026f04b975588c7637d95d8">monodroidAddReference</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_ellipse_view_1a54aba1b083f4c680b634986b0c66952e">monodroidAddReference</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_line_view_1a9b63700cc315baf729996d08bf737c35">monodroidAddReference</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_path_view_1a18fe95bc0d906791330fd8e032ba60ab">monodroidAddReference</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_polygon_view_1a2455ae32dc40a9c167a1178162bc2f2b">monodroidAddReference</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_polyline_view_1a21b530af75124726f3b3ee4a1e571849">monodroidAddReference</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_rect_view_1a3109b25ad026f04b975588c7637d95d8">monodroidAddReference</reimplementedby>
+        <param>
+          <type>java.lang.Object</type>
+          <declname>obj</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/110/android/src/crc643f46942d9dd1fff9/ShapeView.java" line="59" column="13" bodyfile="Application Green Quake.Android/obj/Debug/110/android/src/crc643f46942d9dd1fff9/ShapeView.java" bodystart="59" bodyend="64"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_shape_view_1aafdd116a0b489c4b0e6e8e986bb05f92" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void crc643f46942d9dd1fff9.ShapeView.monodroidClearReferences</definition>
+        <argsstring>()</argsstring>
+        <name>monodroidClearReferences</name>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_ellipse_view_1afe9a7ebf1873f5b5002507d81fe29481">monodroidClearReferences</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_line_view_1a0373181dec9cf21f2db22c7288ab0f81">monodroidClearReferences</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_path_view_1ac1f2e49048766f6b1abceb6b4eb43257">monodroidClearReferences</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_polygon_view_1a43a831ba51559e0ac9c7cec3be848012">monodroidClearReferences</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_polyline_view_1a24cbf5fec2384a8c70d99344e7d91de6">monodroidClearReferences</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_rect_view_1ac704c1b3c58388cc239e2355ceb7c120">monodroidClearReferences</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_ellipse_view_1afe9a7ebf1873f5b5002507d81fe29481">monodroidClearReferences</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_line_view_1a0373181dec9cf21f2db22c7288ab0f81">monodroidClearReferences</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_path_view_1ac1f2e49048766f6b1abceb6b4eb43257">monodroidClearReferences</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_polygon_view_1a43a831ba51559e0ac9c7cec3be848012">monodroidClearReferences</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_polyline_view_1a24cbf5fec2384a8c70d99344e7d91de6">monodroidClearReferences</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_rect_view_1ac704c1b3c58388cc239e2355ceb7c120">monodroidClearReferences</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_ellipse_view_1afe9a7ebf1873f5b5002507d81fe29481">monodroidClearReferences</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_line_view_1a0373181dec9cf21f2db22c7288ab0f81">monodroidClearReferences</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_path_view_1ac1f2e49048766f6b1abceb6b4eb43257">monodroidClearReferences</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_polygon_view_1a43a831ba51559e0ac9c7cec3be848012">monodroidClearReferences</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_polyline_view_1a24cbf5fec2384a8c70d99344e7d91de6">monodroidClearReferences</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_rect_view_1ac704c1b3c58388cc239e2355ceb7c120">monodroidClearReferences</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_ellipse_view_1afe9a7ebf1873f5b5002507d81fe29481">monodroidClearReferences</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_line_view_1a0373181dec9cf21f2db22c7288ab0f81">monodroidClearReferences</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_path_view_1ac1f2e49048766f6b1abceb6b4eb43257">monodroidClearReferences</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_polygon_view_1a43a831ba51559e0ac9c7cec3be848012">monodroidClearReferences</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_polyline_view_1a24cbf5fec2384a8c70d99344e7d91de6">monodroidClearReferences</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_rect_view_1ac704c1b3c58388cc239e2355ceb7c120">monodroidClearReferences</reimplementedby>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/110/android/src/crc643f46942d9dd1fff9/ShapeView.java" line="66" column="13" bodyfile="Application Green Quake.Android/obj/Debug/110/android/src/crc643f46942d9dd1fff9/ShapeView.java" bodystart="66" bodyend="70"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_shape_view_1a56f319ff327803b213e07d3beb4eff6a" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>crc643f46942d9dd1fff9.ShapeView.ShapeView</definition>
+        <argsstring>(android.content.Context p0)</argsstring>
+        <name>ShapeView</name>
+        <param>
+          <type>android.content.Context</type>
+          <declname>p0</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/100/android/src/crc643f46942d9dd1fff9/ShapeView.java" line="19" column="8" bodyfile="Application Green Quake.Android/obj/Release/100/android/src/crc643f46942d9dd1fff9/ShapeView.java" bodystart="19" bodyend="24"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_shape_view_1a996fb677dc3467243794ff538a1e1774" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>crc643f46942d9dd1fff9.ShapeView.ShapeView</definition>
+        <argsstring>(android.content.Context p0, android.util.AttributeSet p1)</argsstring>
+        <name>ShapeView</name>
+        <param>
+          <type>android.content.Context</type>
+          <declname>p0</declname>
+        </param>
+        <param>
+          <type>android.util.AttributeSet</type>
+          <declname>p1</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/100/android/src/crc643f46942d9dd1fff9/ShapeView.java" line="27" column="8" bodyfile="Application Green Quake.Android/obj/Release/100/android/src/crc643f46942d9dd1fff9/ShapeView.java" bodystart="27" bodyend="32"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_shape_view_1a8a589f37276116537c309c9ed406aa86" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>crc643f46942d9dd1fff9.ShapeView.ShapeView</definition>
+        <argsstring>(android.content.Context p0, android.util.AttributeSet p1, int p2)</argsstring>
+        <name>ShapeView</name>
+        <param>
+          <type>android.content.Context</type>
+          <declname>p0</declname>
+        </param>
+        <param>
+          <type>android.util.AttributeSet</type>
+          <declname>p1</declname>
+        </param>
+        <param>
+          <type>int</type>
+          <declname>p2</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/100/android/src/crc643f46942d9dd1fff9/ShapeView.java" line="35" column="8" bodyfile="Application Green Quake.Android/obj/Release/100/android/src/crc643f46942d9dd1fff9/ShapeView.java" bodystart="35" bodyend="40"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_shape_view_1ac90f355e6d950b861ba0d4d9cb9751aa" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>crc643f46942d9dd1fff9.ShapeView.ShapeView</definition>
+        <argsstring>(android.content.Context p0, android.util.AttributeSet p1, int p2, int p3)</argsstring>
+        <name>ShapeView</name>
+        <param>
+          <type>android.content.Context</type>
+          <declname>p0</declname>
+        </param>
+        <param>
+          <type>android.util.AttributeSet</type>
+          <declname>p1</declname>
+        </param>
+        <param>
+          <type>int</type>
+          <declname>p2</declname>
+        </param>
+        <param>
+          <type>int</type>
+          <declname>p3</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/100/android/src/crc643f46942d9dd1fff9/ShapeView.java" line="43" column="8" bodyfile="Application Green Quake.Android/obj/Release/100/android/src/crc643f46942d9dd1fff9/ShapeView.java" bodystart="43" bodyend="48"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_shape_view_1ad0f3b0681a3a05bbd079b39a0ae259c8" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void crc643f46942d9dd1fff9.ShapeView.onDraw</definition>
+        <argsstring>(android.graphics.Canvas p0)</argsstring>
+        <name>onDraw</name>
+        <param>
+          <type>android.graphics.Canvas</type>
+          <declname>p0</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/100/android/src/crc643f46942d9dd1fff9/ShapeView.java" line="51" column="13" bodyfile="Application Green Quake.Android/obj/Release/100/android/src/crc643f46942d9dd1fff9/ShapeView.java" bodystart="51" bodyend="54"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_shape_view_1a2a2d30734a92da06e380d84e6a7d0057" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void crc643f46942d9dd1fff9.ShapeView.monodroidAddReference</definition>
+        <argsstring>(java.lang.Object obj)</argsstring>
+        <name>monodroidAddReference</name>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_ellipse_view_1a54aba1b083f4c680b634986b0c66952e">monodroidAddReference</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_line_view_1a9b63700cc315baf729996d08bf737c35">monodroidAddReference</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_path_view_1a18fe95bc0d906791330fd8e032ba60ab">monodroidAddReference</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_polygon_view_1a2455ae32dc40a9c167a1178162bc2f2b">monodroidAddReference</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_polyline_view_1a21b530af75124726f3b3ee4a1e571849">monodroidAddReference</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_rect_view_1a3109b25ad026f04b975588c7637d95d8">monodroidAddReference</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_ellipse_view_1a54aba1b083f4c680b634986b0c66952e">monodroidAddReference</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_line_view_1a9b63700cc315baf729996d08bf737c35">monodroidAddReference</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_path_view_1a18fe95bc0d906791330fd8e032ba60ab">monodroidAddReference</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_polygon_view_1a2455ae32dc40a9c167a1178162bc2f2b">monodroidAddReference</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_polyline_view_1a21b530af75124726f3b3ee4a1e571849">monodroidAddReference</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_rect_view_1a3109b25ad026f04b975588c7637d95d8">monodroidAddReference</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_ellipse_view_1a54aba1b083f4c680b634986b0c66952e">monodroidAddReference</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_line_view_1a9b63700cc315baf729996d08bf737c35">monodroidAddReference</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_path_view_1a18fe95bc0d906791330fd8e032ba60ab">monodroidAddReference</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_polygon_view_1a2455ae32dc40a9c167a1178162bc2f2b">monodroidAddReference</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_polyline_view_1a21b530af75124726f3b3ee4a1e571849">monodroidAddReference</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_rect_view_1a3109b25ad026f04b975588c7637d95d8">monodroidAddReference</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_ellipse_view_1a54aba1b083f4c680b634986b0c66952e">monodroidAddReference</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_line_view_1a9b63700cc315baf729996d08bf737c35">monodroidAddReference</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_path_view_1a18fe95bc0d906791330fd8e032ba60ab">monodroidAddReference</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_polygon_view_1a2455ae32dc40a9c167a1178162bc2f2b">monodroidAddReference</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_polyline_view_1a21b530af75124726f3b3ee4a1e571849">monodroidAddReference</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_rect_view_1a3109b25ad026f04b975588c7637d95d8">monodroidAddReference</reimplementedby>
+        <param>
+          <type>java.lang.Object</type>
+          <declname>obj</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/100/android/src/crc643f46942d9dd1fff9/ShapeView.java" line="59" column="13" bodyfile="Application Green Quake.Android/obj/Release/100/android/src/crc643f46942d9dd1fff9/ShapeView.java" bodystart="59" bodyend="64"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_shape_view_1aafdd116a0b489c4b0e6e8e986bb05f92" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void crc643f46942d9dd1fff9.ShapeView.monodroidClearReferences</definition>
+        <argsstring>()</argsstring>
+        <name>monodroidClearReferences</name>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_ellipse_view_1afe9a7ebf1873f5b5002507d81fe29481">monodroidClearReferences</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_line_view_1a0373181dec9cf21f2db22c7288ab0f81">monodroidClearReferences</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_path_view_1ac1f2e49048766f6b1abceb6b4eb43257">monodroidClearReferences</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_polygon_view_1a43a831ba51559e0ac9c7cec3be848012">monodroidClearReferences</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_polyline_view_1a24cbf5fec2384a8c70d99344e7d91de6">monodroidClearReferences</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_rect_view_1ac704c1b3c58388cc239e2355ceb7c120">monodroidClearReferences</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_ellipse_view_1afe9a7ebf1873f5b5002507d81fe29481">monodroidClearReferences</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_line_view_1a0373181dec9cf21f2db22c7288ab0f81">monodroidClearReferences</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_path_view_1ac1f2e49048766f6b1abceb6b4eb43257">monodroidClearReferences</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_polygon_view_1a43a831ba51559e0ac9c7cec3be848012">monodroidClearReferences</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_polyline_view_1a24cbf5fec2384a8c70d99344e7d91de6">monodroidClearReferences</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_rect_view_1ac704c1b3c58388cc239e2355ceb7c120">monodroidClearReferences</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_ellipse_view_1afe9a7ebf1873f5b5002507d81fe29481">monodroidClearReferences</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_line_view_1a0373181dec9cf21f2db22c7288ab0f81">monodroidClearReferences</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_path_view_1ac1f2e49048766f6b1abceb6b4eb43257">monodroidClearReferences</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_polygon_view_1a43a831ba51559e0ac9c7cec3be848012">monodroidClearReferences</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_polyline_view_1a24cbf5fec2384a8c70d99344e7d91de6">monodroidClearReferences</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_rect_view_1ac704c1b3c58388cc239e2355ceb7c120">monodroidClearReferences</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_ellipse_view_1afe9a7ebf1873f5b5002507d81fe29481">monodroidClearReferences</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_line_view_1a0373181dec9cf21f2db22c7288ab0f81">monodroidClearReferences</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_path_view_1ac1f2e49048766f6b1abceb6b4eb43257">monodroidClearReferences</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_polygon_view_1a43a831ba51559e0ac9c7cec3be848012">monodroidClearReferences</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_polyline_view_1a24cbf5fec2384a8c70d99344e7d91de6">monodroidClearReferences</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_rect_view_1ac704c1b3c58388cc239e2355ceb7c120">monodroidClearReferences</reimplementedby>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/100/android/src/crc643f46942d9dd1fff9/ShapeView.java" line="66" column="13" bodyfile="Application Green Quake.Android/obj/Release/100/android/src/crc643f46942d9dd1fff9/ShapeView.java" bodystart="66" bodyend="70"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_shape_view_1a56f319ff327803b213e07d3beb4eff6a" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>crc643f46942d9dd1fff9.ShapeView.ShapeView</definition>
+        <argsstring>(android.content.Context p0)</argsstring>
+        <name>ShapeView</name>
+        <param>
+          <type>android.content.Context</type>
+          <declname>p0</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/110/android/src/crc643f46942d9dd1fff9/ShapeView.java" line="19" column="8" bodyfile="Application Green Quake.Android/obj/Release/110/android/src/crc643f46942d9dd1fff9/ShapeView.java" bodystart="19" bodyend="24"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_shape_view_1a996fb677dc3467243794ff538a1e1774" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>crc643f46942d9dd1fff9.ShapeView.ShapeView</definition>
+        <argsstring>(android.content.Context p0, android.util.AttributeSet p1)</argsstring>
+        <name>ShapeView</name>
+        <param>
+          <type>android.content.Context</type>
+          <declname>p0</declname>
+        </param>
+        <param>
+          <type>android.util.AttributeSet</type>
+          <declname>p1</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/110/android/src/crc643f46942d9dd1fff9/ShapeView.java" line="27" column="8" bodyfile="Application Green Quake.Android/obj/Release/110/android/src/crc643f46942d9dd1fff9/ShapeView.java" bodystart="27" bodyend="32"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_shape_view_1a8a589f37276116537c309c9ed406aa86" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>crc643f46942d9dd1fff9.ShapeView.ShapeView</definition>
+        <argsstring>(android.content.Context p0, android.util.AttributeSet p1, int p2)</argsstring>
+        <name>ShapeView</name>
+        <param>
+          <type>android.content.Context</type>
+          <declname>p0</declname>
+        </param>
+        <param>
+          <type>android.util.AttributeSet</type>
+          <declname>p1</declname>
+        </param>
+        <param>
+          <type>int</type>
+          <declname>p2</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/110/android/src/crc643f46942d9dd1fff9/ShapeView.java" line="35" column="8" bodyfile="Application Green Quake.Android/obj/Release/110/android/src/crc643f46942d9dd1fff9/ShapeView.java" bodystart="35" bodyend="40"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_shape_view_1ac90f355e6d950b861ba0d4d9cb9751aa" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>crc643f46942d9dd1fff9.ShapeView.ShapeView</definition>
+        <argsstring>(android.content.Context p0, android.util.AttributeSet p1, int p2, int p3)</argsstring>
+        <name>ShapeView</name>
+        <param>
+          <type>android.content.Context</type>
+          <declname>p0</declname>
+        </param>
+        <param>
+          <type>android.util.AttributeSet</type>
+          <declname>p1</declname>
+        </param>
+        <param>
+          <type>int</type>
+          <declname>p2</declname>
+        </param>
+        <param>
+          <type>int</type>
+          <declname>p3</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/110/android/src/crc643f46942d9dd1fff9/ShapeView.java" line="43" column="8" bodyfile="Application Green Quake.Android/obj/Release/110/android/src/crc643f46942d9dd1fff9/ShapeView.java" bodystart="43" bodyend="48"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_shape_view_1ad0f3b0681a3a05bbd079b39a0ae259c8" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void crc643f46942d9dd1fff9.ShapeView.onDraw</definition>
+        <argsstring>(android.graphics.Canvas p0)</argsstring>
+        <name>onDraw</name>
+        <param>
+          <type>android.graphics.Canvas</type>
+          <declname>p0</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/110/android/src/crc643f46942d9dd1fff9/ShapeView.java" line="51" column="13" bodyfile="Application Green Quake.Android/obj/Release/110/android/src/crc643f46942d9dd1fff9/ShapeView.java" bodystart="51" bodyend="54"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_shape_view_1a2a2d30734a92da06e380d84e6a7d0057" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void crc643f46942d9dd1fff9.ShapeView.monodroidAddReference</definition>
+        <argsstring>(java.lang.Object obj)</argsstring>
+        <name>monodroidAddReference</name>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_ellipse_view_1a54aba1b083f4c680b634986b0c66952e">monodroidAddReference</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_line_view_1a9b63700cc315baf729996d08bf737c35">monodroidAddReference</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_path_view_1a18fe95bc0d906791330fd8e032ba60ab">monodroidAddReference</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_polygon_view_1a2455ae32dc40a9c167a1178162bc2f2b">monodroidAddReference</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_polyline_view_1a21b530af75124726f3b3ee4a1e571849">monodroidAddReference</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_rect_view_1a3109b25ad026f04b975588c7637d95d8">monodroidAddReference</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_ellipse_view_1a54aba1b083f4c680b634986b0c66952e">monodroidAddReference</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_line_view_1a9b63700cc315baf729996d08bf737c35">monodroidAddReference</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_path_view_1a18fe95bc0d906791330fd8e032ba60ab">monodroidAddReference</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_polygon_view_1a2455ae32dc40a9c167a1178162bc2f2b">monodroidAddReference</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_polyline_view_1a21b530af75124726f3b3ee4a1e571849">monodroidAddReference</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_rect_view_1a3109b25ad026f04b975588c7637d95d8">monodroidAddReference</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_ellipse_view_1a54aba1b083f4c680b634986b0c66952e">monodroidAddReference</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_line_view_1a9b63700cc315baf729996d08bf737c35">monodroidAddReference</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_path_view_1a18fe95bc0d906791330fd8e032ba60ab">monodroidAddReference</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_polygon_view_1a2455ae32dc40a9c167a1178162bc2f2b">monodroidAddReference</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_polyline_view_1a21b530af75124726f3b3ee4a1e571849">monodroidAddReference</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_rect_view_1a3109b25ad026f04b975588c7637d95d8">monodroidAddReference</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_ellipse_view_1a54aba1b083f4c680b634986b0c66952e">monodroidAddReference</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_line_view_1a9b63700cc315baf729996d08bf737c35">monodroidAddReference</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_path_view_1a18fe95bc0d906791330fd8e032ba60ab">monodroidAddReference</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_polygon_view_1a2455ae32dc40a9c167a1178162bc2f2b">monodroidAddReference</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_polyline_view_1a21b530af75124726f3b3ee4a1e571849">monodroidAddReference</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_rect_view_1a3109b25ad026f04b975588c7637d95d8">monodroidAddReference</reimplementedby>
+        <param>
+          <type>java.lang.Object</type>
+          <declname>obj</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/110/android/src/crc643f46942d9dd1fff9/ShapeView.java" line="59" column="13" bodyfile="Application Green Quake.Android/obj/Release/110/android/src/crc643f46942d9dd1fff9/ShapeView.java" bodystart="59" bodyend="64"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_shape_view_1aafdd116a0b489c4b0e6e8e986bb05f92" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void crc643f46942d9dd1fff9.ShapeView.monodroidClearReferences</definition>
+        <argsstring>()</argsstring>
+        <name>monodroidClearReferences</name>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_ellipse_view_1afe9a7ebf1873f5b5002507d81fe29481">monodroidClearReferences</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_line_view_1a0373181dec9cf21f2db22c7288ab0f81">monodroidClearReferences</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_path_view_1ac1f2e49048766f6b1abceb6b4eb43257">monodroidClearReferences</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_polygon_view_1a43a831ba51559e0ac9c7cec3be848012">monodroidClearReferences</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_polyline_view_1a24cbf5fec2384a8c70d99344e7d91de6">monodroidClearReferences</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_rect_view_1ac704c1b3c58388cc239e2355ceb7c120">monodroidClearReferences</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_ellipse_view_1afe9a7ebf1873f5b5002507d81fe29481">monodroidClearReferences</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_line_view_1a0373181dec9cf21f2db22c7288ab0f81">monodroidClearReferences</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_path_view_1ac1f2e49048766f6b1abceb6b4eb43257">monodroidClearReferences</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_polygon_view_1a43a831ba51559e0ac9c7cec3be848012">monodroidClearReferences</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_polyline_view_1a24cbf5fec2384a8c70d99344e7d91de6">monodroidClearReferences</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_rect_view_1ac704c1b3c58388cc239e2355ceb7c120">monodroidClearReferences</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_ellipse_view_1afe9a7ebf1873f5b5002507d81fe29481">monodroidClearReferences</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_line_view_1a0373181dec9cf21f2db22c7288ab0f81">monodroidClearReferences</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_path_view_1ac1f2e49048766f6b1abceb6b4eb43257">monodroidClearReferences</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_polygon_view_1a43a831ba51559e0ac9c7cec3be848012">monodroidClearReferences</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_polyline_view_1a24cbf5fec2384a8c70d99344e7d91de6">monodroidClearReferences</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_rect_view_1ac704c1b3c58388cc239e2355ceb7c120">monodroidClearReferences</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_ellipse_view_1afe9a7ebf1873f5b5002507d81fe29481">monodroidClearReferences</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_line_view_1a0373181dec9cf21f2db22c7288ab0f81">monodroidClearReferences</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_path_view_1ac1f2e49048766f6b1abceb6b4eb43257">monodroidClearReferences</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_polygon_view_1a43a831ba51559e0ac9c7cec3be848012">monodroidClearReferences</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_polyline_view_1a24cbf5fec2384a8c70d99344e7d91de6">monodroidClearReferences</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_rect_view_1ac704c1b3c58388cc239e2355ceb7c120">monodroidClearReferences</reimplementedby>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/110/android/src/crc643f46942d9dd1fff9/ShapeView.java" line="66" column="13" bodyfile="Application Green Quake.Android/obj/Release/110/android/src/crc643f46942d9dd1fff9/ShapeView.java" bodystart="66" bodyend="70"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="private-func">
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_shape_view_1a67203a564e417a8ac362e806b0e2816a" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>native void</type>
+        <definition>native void crc643f46942d9dd1fff9.ShapeView.n_onDraw</definition>
+        <argsstring>(android.graphics.Canvas p0)</argsstring>
+        <name>n_onDraw</name>
+        <param>
+          <type>android.graphics.Canvas</type>
+          <declname>p0</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/100/android/src/crc643f46942d9dd1fff9/ShapeView.java" line="56" column="21"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_shape_view_1a67203a564e417a8ac362e806b0e2816a" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>native void</type>
+        <definition>native void crc643f46942d9dd1fff9.ShapeView.n_onDraw</definition>
+        <argsstring>(android.graphics.Canvas p0)</argsstring>
+        <name>n_onDraw</name>
+        <param>
+          <type>android.graphics.Canvas</type>
+          <declname>p0</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/110/android/src/crc643f46942d9dd1fff9/ShapeView.java" line="56" column="21"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_shape_view_1a67203a564e417a8ac362e806b0e2816a" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>native void</type>
+        <definition>native void crc643f46942d9dd1fff9.ShapeView.n_onDraw</definition>
+        <argsstring>(android.graphics.Canvas p0)</argsstring>
+        <name>n_onDraw</name>
+        <param>
+          <type>android.graphics.Canvas</type>
+          <declname>p0</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/100/android/src/crc643f46942d9dd1fff9/ShapeView.java" line="56" column="21"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_shape_view_1a67203a564e417a8ac362e806b0e2816a" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>native void</type>
+        <definition>native void crc643f46942d9dd1fff9.ShapeView.n_onDraw</definition>
+        <argsstring>(android.graphics.Canvas p0)</argsstring>
+        <name>n_onDraw</name>
+        <param>
+          <type>android.graphics.Canvas</type>
+          <declname>p0</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/110/android/src/crc643f46942d9dd1fff9/ShapeView.java" line="56" column="21"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <inheritancegraph>
+      <node id="8">
+        <label>crc643f46942d9dd1fff9.PolylineView</label>
+        <link refid="classcrc643f46942d9dd1fff9_1_1_polyline_view"/>
+        <childnode refid="1" relation="public-inheritance">
+        </childnode>
+        <childnode refid="1" relation="public-inheritance">
+        </childnode>
+        <childnode refid="1" relation="public-inheritance">
+        </childnode>
+        <childnode refid="1" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="7">
+        <label>crc643f46942d9dd1fff9.PolygonView</label>
+        <link refid="classcrc643f46942d9dd1fff9_1_1_polygon_view"/>
+        <childnode refid="1" relation="public-inheritance">
+        </childnode>
+        <childnode refid="1" relation="public-inheritance">
+        </childnode>
+        <childnode refid="1" relation="public-inheritance">
+        </childnode>
+        <childnode refid="1" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="9">
+        <label>crc643f46942d9dd1fff9.RectView</label>
+        <link refid="classcrc643f46942d9dd1fff9_1_1_rect_view"/>
+        <childnode refid="1" relation="public-inheritance">
+        </childnode>
+        <childnode refid="1" relation="public-inheritance">
+        </childnode>
+        <childnode refid="1" relation="public-inheritance">
+        </childnode>
+        <childnode refid="1" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="5">
+        <label>crc643f46942d9dd1fff9.LineView</label>
+        <link refid="classcrc643f46942d9dd1fff9_1_1_line_view"/>
+        <childnode refid="1" relation="public-inheritance">
+        </childnode>
+        <childnode refid="1" relation="public-inheritance">
+        </childnode>
+        <childnode refid="1" relation="public-inheritance">
+        </childnode>
+        <childnode refid="1" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="1">
+        <label>crc643f46942d9dd1fff9.ShapeView</label>
+        <link refid="classcrc643f46942d9dd1fff9_1_1_shape_view"/>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+        <childnode refid="3" relation="public-inheritance">
+        </childnode>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+        <childnode refid="3" relation="public-inheritance">
+        </childnode>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+        <childnode refid="3" relation="public-inheritance">
+        </childnode>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+        <childnode refid="3" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="4">
+        <label>crc643f46942d9dd1fff9.EllipseView</label>
+        <link refid="classcrc643f46942d9dd1fff9_1_1_ellipse_view"/>
+        <childnode refid="1" relation="public-inheritance">
+        </childnode>
+        <childnode refid="1" relation="public-inheritance">
+        </childnode>
+        <childnode refid="1" relation="public-inheritance">
+        </childnode>
+        <childnode refid="1" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="3">
+        <label>mono.android.IGCUserPeer</label>
+      </node>
+      <node id="2">
+        <label>android.view.View</label>
+      </node>
+      <node id="6">
+        <label>crc643f46942d9dd1fff9.PathView</label>
+        <link refid="classcrc643f46942d9dd1fff9_1_1_path_view"/>
+        <childnode refid="1" relation="public-inheritance">
+        </childnode>
+        <childnode refid="1" relation="public-inheritance">
+        </childnode>
+        <childnode refid="1" relation="public-inheritance">
+        </childnode>
+        <childnode refid="1" relation="public-inheritance">
+        </childnode>
+      </node>
+    </inheritancegraph>
+    <collaborationgraph>
+      <node id="1">
+        <label>crc643f46942d9dd1fff9.ShapeView</label>
+        <link refid="classcrc643f46942d9dd1fff9_1_1_shape_view"/>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+        <childnode refid="3" relation="public-inheritance">
+        </childnode>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+        <childnode refid="3" relation="public-inheritance">
+        </childnode>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+        <childnode refid="3" relation="public-inheritance">
+        </childnode>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+        <childnode refid="3" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="3">
+        <label>mono.android.IGCUserPeer</label>
+      </node>
+      <node id="2">
+        <label>android.view.View</label>
+      </node>
+    </collaborationgraph>
+    <location file="Application Green Quake.Android/obj/Debug/100/android/src/crc643f46942d9dd1fff9/ShapeView.java" line="4" column="7" bodyfile="Application Green Quake.Android/obj/Debug/100/android/src/crc643f46942d9dd1fff9/ShapeView.java" bodystart="8" bodyend="71"/>
+    <listofallmembers>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_shape_view_1ae4ca1997e0ccb454f5d4e012a5298c79" prot="package" virt="non-virtual"><scope>crc643f46942d9dd1fff9::ShapeView</scope><name>[static initializer]</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_shape_view_1ae4ca1997e0ccb454f5d4e012a5298c79" prot="package" virt="non-virtual"><scope>crc643f46942d9dd1fff9::ShapeView</scope><name>[static initializer]</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_shape_view_1ae4ca1997e0ccb454f5d4e012a5298c79" prot="package" virt="non-virtual"><scope>crc643f46942d9dd1fff9::ShapeView</scope><name>[static initializer]</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_shape_view_1ae4ca1997e0ccb454f5d4e012a5298c79" prot="package" virt="non-virtual"><scope>crc643f46942d9dd1fff9::ShapeView</scope><name>[static initializer]</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_shape_view_1ab082bd5483a5db2d3b9b545f19b3fbcb" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::ShapeView</scope><name>__md_methods</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_shape_view_1a2a2d30734a92da06e380d84e6a7d0057" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::ShapeView</scope><name>monodroidAddReference</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_shape_view_1a2a2d30734a92da06e380d84e6a7d0057" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::ShapeView</scope><name>monodroidAddReference</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_shape_view_1a2a2d30734a92da06e380d84e6a7d0057" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::ShapeView</scope><name>monodroidAddReference</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_shape_view_1a2a2d30734a92da06e380d84e6a7d0057" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::ShapeView</scope><name>monodroidAddReference</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_shape_view_1aafdd116a0b489c4b0e6e8e986bb05f92" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::ShapeView</scope><name>monodroidClearReferences</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_shape_view_1aafdd116a0b489c4b0e6e8e986bb05f92" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::ShapeView</scope><name>monodroidClearReferences</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_shape_view_1aafdd116a0b489c4b0e6e8e986bb05f92" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::ShapeView</scope><name>monodroidClearReferences</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_shape_view_1aafdd116a0b489c4b0e6e8e986bb05f92" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::ShapeView</scope><name>monodroidClearReferences</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_shape_view_1a67203a564e417a8ac362e806b0e2816a" prot="private" virt="non-virtual"><scope>crc643f46942d9dd1fff9::ShapeView</scope><name>n_onDraw</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_shape_view_1a67203a564e417a8ac362e806b0e2816a" prot="private" virt="non-virtual"><scope>crc643f46942d9dd1fff9::ShapeView</scope><name>n_onDraw</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_shape_view_1a67203a564e417a8ac362e806b0e2816a" prot="private" virt="non-virtual"><scope>crc643f46942d9dd1fff9::ShapeView</scope><name>n_onDraw</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_shape_view_1a67203a564e417a8ac362e806b0e2816a" prot="private" virt="non-virtual"><scope>crc643f46942d9dd1fff9::ShapeView</scope><name>n_onDraw</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_shape_view_1ad0f3b0681a3a05bbd079b39a0ae259c8" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::ShapeView</scope><name>onDraw</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_shape_view_1ad0f3b0681a3a05bbd079b39a0ae259c8" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::ShapeView</scope><name>onDraw</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_shape_view_1ad0f3b0681a3a05bbd079b39a0ae259c8" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::ShapeView</scope><name>onDraw</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_shape_view_1ad0f3b0681a3a05bbd079b39a0ae259c8" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::ShapeView</scope><name>onDraw</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_shape_view_1acf27bff4063b057b8236efa1143d9eaa" prot="private" virt="non-virtual"><scope>crc643f46942d9dd1fff9::ShapeView</scope><name>refList</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_shape_view_1a56f319ff327803b213e07d3beb4eff6a" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::ShapeView</scope><name>ShapeView</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_shape_view_1a996fb677dc3467243794ff538a1e1774" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::ShapeView</scope><name>ShapeView</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_shape_view_1a8a589f37276116537c309c9ed406aa86" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::ShapeView</scope><name>ShapeView</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_shape_view_1ac90f355e6d950b861ba0d4d9cb9751aa" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::ShapeView</scope><name>ShapeView</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_shape_view_1a56f319ff327803b213e07d3beb4eff6a" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::ShapeView</scope><name>ShapeView</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_shape_view_1a996fb677dc3467243794ff538a1e1774" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::ShapeView</scope><name>ShapeView</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_shape_view_1a8a589f37276116537c309c9ed406aa86" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::ShapeView</scope><name>ShapeView</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_shape_view_1ac90f355e6d950b861ba0d4d9cb9751aa" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::ShapeView</scope><name>ShapeView</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_shape_view_1a56f319ff327803b213e07d3beb4eff6a" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::ShapeView</scope><name>ShapeView</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_shape_view_1a996fb677dc3467243794ff538a1e1774" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::ShapeView</scope><name>ShapeView</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_shape_view_1a8a589f37276116537c309c9ed406aa86" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::ShapeView</scope><name>ShapeView</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_shape_view_1ac90f355e6d950b861ba0d4d9cb9751aa" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::ShapeView</scope><name>ShapeView</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_shape_view_1a56f319ff327803b213e07d3beb4eff6a" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::ShapeView</scope><name>ShapeView</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_shape_view_1a996fb677dc3467243794ff538a1e1774" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::ShapeView</scope><name>ShapeView</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_shape_view_1a8a589f37276116537c309c9ed406aa86" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::ShapeView</scope><name>ShapeView</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_shape_view_1ac90f355e6d950b861ba0d4d9cb9751aa" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::ShapeView</scope><name>ShapeView</name></member>
+    </listofallmembers>
+  </compounddef>
+</doxygen>

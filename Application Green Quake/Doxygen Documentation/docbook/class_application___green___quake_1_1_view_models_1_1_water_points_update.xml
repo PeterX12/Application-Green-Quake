@@ -1,0 +1,71 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<section xmlns="http://docbook.org/ns/docbook" version="5.0" xmlns:xlink="http://www.w3.org/1999/xlink" xml:id="_class_application___green___quake_1_1_view_models_1_1_water_points_update" xml:lang="en-US">
+<title>Application_Green_Quake.ViewModels.WaterPointsUpdate Class Reference</title>
+<indexterm><primary>Application_Green_Quake.ViewModels.WaterPointsUpdate</primary></indexterm>
+<simplesect>
+    <title>Public Member Functions    </title>
+        <itemizedlist>
+            <listitem><para>async void <link linkend="_class_application___green___quake_1_1_view_models_1_1_water_points_update_1a019c2bdaa8f70ed60a15f7a713856cfa">CisternPoints</link> ()</para>
+</listitem>
+            <listitem><para>async void <link linkend="_class_application___green___quake_1_1_view_models_1_1_water_points_update_1ab2078dfec7a9bd0f59e8b36b23d59813">BarrelPoints</link> ()</para>
+</listitem>
+            <listitem><para>async void <link linkend="_class_application___green___quake_1_1_view_models_1_1_water_points_update_1aa54ee96f8c1109077c835936286a6a84">ReWaterPoints</link> ()</para>
+</listitem>
+            <listitem><para>async void <link linkend="_class_application___green___quake_1_1_view_models_1_1_water_points_update_1a273418edecd07859d53b7f1d0fa1e1df">ShowerBucketPoints</link> ()</para>
+</listitem>
+            <listitem><para>async void <link linkend="_class_application___green___quake_1_1_view_models_1_1_water_points_update_1a297fff4dbd9810db821e3aa10079edbb">WSSowerHeadPoints</link> ()</para>
+</listitem>
+        </itemizedlist>
+</simplesect>
+<section>
+<title>Detailed Description</title>
+<para>
+Definition at line 18 of file WaterPointsUpdate.cs.</para>
+</section>
+<section>
+<title>Member Function Documentation</title>
+<anchor xml:id="_class_application___green___quake_1_1_view_models_1_1_water_points_update_1ab2078dfec7a9bd0f59e8b36b23d59813"/>    <section>
+    <title>BarrelPoints()</title>
+<indexterm><primary>BarrelPoints</primary><secondary>Application_Green_Quake.ViewModels.WaterPointsUpdate</secondary></indexterm>
+<indexterm><primary>Application_Green_Quake.ViewModels.WaterPointsUpdate</primary><secondary>BarrelPoints</secondary></indexterm>
+<para><computeroutput>async void Application_Green_Quake.ViewModels.WaterPointsUpdate.BarrelPoints ( )</computeroutput></para>
+<para>This function updates the points in the Water category by ten points. It also increments the number of logs logged in the Water category by one and increments the number of times this particular action was logged by one and sends this data to Firebase. </para>
+<para>
+Definition at line 134 of file WaterPointsUpdate.cs.</para>
+    </section><anchor xml:id="_class_application___green___quake_1_1_view_models_1_1_water_points_update_1a019c2bdaa8f70ed60a15f7a713856cfa"/>    <section>
+    <title>CisternPoints()</title>
+<indexterm><primary>CisternPoints</primary><secondary>Application_Green_Quake.ViewModels.WaterPointsUpdate</secondary></indexterm>
+<indexterm><primary>Application_Green_Quake.ViewModels.WaterPointsUpdate</primary><secondary>CisternPoints</secondary></indexterm>
+<para><computeroutput>async void Application_Green_Quake.ViewModels.WaterPointsUpdate.CisternPoints ( )</computeroutput></para>
+<para>This function updates the points in the Water category by ten points. It also increments the number of logs logged in the Water category by one and increments the number of times this particular action was logged by one and sends this data to Firebase. </para>
+<para>
+Definition at line 34 of file WaterPointsUpdate.cs.</para>
+    </section><anchor xml:id="_class_application___green___quake_1_1_view_models_1_1_water_points_update_1aa54ee96f8c1109077c835936286a6a84"/>    <section>
+    <title>ReWaterPoints()</title>
+<indexterm><primary>ReWaterPoints</primary><secondary>Application_Green_Quake.ViewModels.WaterPointsUpdate</secondary></indexterm>
+<indexterm><primary>Application_Green_Quake.ViewModels.WaterPointsUpdate</primary><secondary>ReWaterPoints</secondary></indexterm>
+<para><computeroutput>async void Application_Green_Quake.ViewModels.WaterPointsUpdate.ReWaterPoints ( )</computeroutput></para>
+<para>This function updates the points in the Water category by eight points. It also increments the number of logs logged in the Water category by one and increments the number of times this particular action was logged by one and sends this data to Firebase. </para>
+<para>
+Definition at line 234 of file WaterPointsUpdate.cs.</para>
+    </section><anchor xml:id="_class_application___green___quake_1_1_view_models_1_1_water_points_update_1a273418edecd07859d53b7f1d0fa1e1df"/>    <section>
+    <title>ShowerBucketPoints()</title>
+<indexterm><primary>ShowerBucketPoints</primary><secondary>Application_Green_Quake.ViewModels.WaterPointsUpdate</secondary></indexterm>
+<indexterm><primary>Application_Green_Quake.ViewModels.WaterPointsUpdate</primary><secondary>ShowerBucketPoints</secondary></indexterm>
+<para><computeroutput>async void Application_Green_Quake.ViewModels.WaterPointsUpdate.ShowerBucketPoints ( )</computeroutput></para>
+<para>This function updates the points in the Water category by eight points. It also increments the number of logs logged in the Water category by one and increments the number of times this particular action was logged by one and sends this data to Firebase. </para>
+<para>
+Definition at line 334 of file WaterPointsUpdate.cs.</para>
+    </section><anchor xml:id="_class_application___green___quake_1_1_view_models_1_1_water_points_update_1a297fff4dbd9810db821e3aa10079edbb"/>    <section>
+    <title>WSSowerHeadPoints()</title>
+<indexterm><primary>WSSowerHeadPoints</primary><secondary>Application_Green_Quake.ViewModels.WaterPointsUpdate</secondary></indexterm>
+<indexterm><primary>Application_Green_Quake.ViewModels.WaterPointsUpdate</primary><secondary>WSSowerHeadPoints</secondary></indexterm>
+<para><computeroutput>async void Application_Green_Quake.ViewModels.WaterPointsUpdate.WSSowerHeadPoints ( )</computeroutput></para>
+<para>This function updates the points in the Water category by ten points. It also increments the number of logs logged in the Water category by one and increments the number of times this particular action was logged by one and sends this data to Firebase. </para>
+<para>
+Definition at line 434 of file WaterPointsUpdate.cs.</para>
+</section>
+<para>
+The documentation for this class was generated from the following file:</para>
+Application Green Quake/ViewModels/<link linkend="__water_points_update_8cs">WaterPointsUpdate.cs</link></section>
+</section>

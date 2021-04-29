@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.9.1" xml:lang="en-US">
+  <compounddef id="_release_2100_2android_2src_2mono_2com_2google_2android_2material_2chip_2_chip_group___on_checkeccbf3d4d3684644f776c358b46470a99" kind="file" language="Java">
+    <compoundname>ChipGroup_OnCheckedChangeListenerImplementor.java</compoundname>
+    <innerclass refid="classmono_1_1com_1_1google_1_1android_1_1material_1_1chip_1_1_chip_group___on_checked_change_listener_implementor" prot="public">mono::com::google::android::material::chip::ChipGroup_OnCheckedChangeListenerImplementor</innerclass>
+    <innernamespace refid="namespacemono_1_1com_1_1google_1_1android_1_1material_1_1chip">mono::com::google::android::material::chip</innernamespace>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <programlisting>
+<codeline lineno="1"><highlight class="keyword">package<sp/></highlight><highlight class="normal">mono.com.google.android.material.chip;</highlight></codeline>
+<codeline lineno="2"><highlight class="normal"></highlight></codeline>
+<codeline lineno="3"><highlight class="normal"></highlight></codeline>
+<codeline lineno="4"><highlight class="normal"></highlight><highlight class="keyword">public</highlight><highlight class="normal"><sp/></highlight><highlight class="keyword">class<sp/></highlight><highlight class="normal">ChipGroup_OnCheckedChangeListenerImplementor</highlight></codeline>
+<codeline lineno="5"><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">extends</highlight><highlight class="normal"><sp/>java.lang.Object</highlight></codeline>
+<codeline lineno="6"><highlight class="normal"><sp/><sp/><sp/><sp/>implements</highlight></codeline>
+<codeline lineno="7"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>mono.android.IGCUserPeer,</highlight></codeline>
+<codeline lineno="8"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>com.google.android.material.chip.ChipGroup.OnCheckedChangeListener</highlight></codeline>
+<codeline lineno="9"><highlight class="normal">{</highlight></codeline>
+<codeline lineno="11"><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">public</highlight><highlight class="normal"><sp/></highlight><highlight class="keyword">static</highlight><highlight class="normal"><sp/></highlight><highlight class="keyword">final</highlight><highlight class="normal"><sp/>String<sp/><ref refid="classmono_1_1com_1_1google_1_1android_1_1material_1_1chip_1_1_chip_group___on_checked_change_listener_implementor_1ae04da8a18ff302c8e5bc4d5f236d825f" kindref="member">__md_methods</ref>;</highlight></codeline>
+<codeline lineno="12"><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">static</highlight><highlight class="normal"><sp/>{</highlight></codeline>
+<codeline lineno="13"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><ref refid="classmono_1_1com_1_1google_1_1android_1_1material_1_1chip_1_1_chip_group___on_checked_change_listener_implementor_1ae04da8a18ff302c8e5bc4d5f236d825f" kindref="member">__md_methods</ref><sp/>=<sp/></highlight></codeline>
+<codeline lineno="14"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="stringliteral">&quot;n_onCheckedChanged:(Lcom/google/android/material/chip/ChipGroup;I)V:GetOnCheckedChanged_Lcom_google_android_material_chip_ChipGroup_IHandler:Google.Android.Material.Chip.ChipGroup/IOnCheckedChangeListenerInvoker,<sp/>Xamarin.Google.Android.Material\n&quot;</highlight><highlight class="normal"><sp/>+</highlight></codeline>
+<codeline lineno="15"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="stringliteral">&quot;&quot;</highlight><highlight class="normal">;</highlight></codeline>
+<codeline lineno="16"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>mono.android.Runtime.register<sp/>(</highlight><highlight class="stringliteral">&quot;Google.Android.Material.Chip.ChipGroup+IOnCheckedChangeListenerImplementor,<sp/>Xamarin.Google.Android.Material&quot;</highlight><highlight class="normal">,<sp/><ref refid="classmono_1_1com_1_1google_1_1android_1_1material_1_1chip_1_1_chip_group___on_checked_change_listener_implementor_1a8e1d30142145e4fd32257b0dd0de02ef" kindref="member">ChipGroup_OnCheckedChangeListenerImplementor</ref>.class,<sp/><ref refid="classmono_1_1com_1_1google_1_1android_1_1material_1_1chip_1_1_chip_group___on_checked_change_listener_implementor_1ae04da8a18ff302c8e5bc4d5f236d825f" kindref="member">__md_methods</ref>);</highlight></codeline>
+<codeline lineno="17"><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline lineno="18"><highlight class="normal"></highlight></codeline>
+<codeline lineno="19"><highlight class="normal"></highlight></codeline>
+<codeline lineno="20" refid="classmono_1_1com_1_1google_1_1android_1_1material_1_1chip_1_1_chip_group___on_checked_change_listener_implementor_1a8e1d30142145e4fd32257b0dd0de02ef" refkind="member"><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">public</highlight><highlight class="normal"><sp/><ref refid="classmono_1_1com_1_1google_1_1android_1_1material_1_1chip_1_1_chip_group___on_checked_change_listener_implementor_1a8e1d30142145e4fd32257b0dd0de02ef" kindref="member">ChipGroup_OnCheckedChangeListenerImplementor</ref><sp/>()</highlight></codeline>
+<codeline lineno="21"><highlight class="normal"><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline lineno="22"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>super<sp/>();</highlight></codeline>
+<codeline lineno="23"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">if</highlight><highlight class="normal"><sp/>(getClass<sp/>()<sp/>==<sp/><ref refid="classmono_1_1com_1_1google_1_1android_1_1material_1_1chip_1_1_chip_group___on_checked_change_listener_implementor" kindref="compound">ChipGroup_OnCheckedChangeListenerImplementor</ref>.class)</highlight></codeline>
+<codeline lineno="24"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>mono.android.TypeManager.Activate<sp/>(</highlight><highlight class="stringliteral">&quot;Google.Android.Material.Chip.ChipGroup+IOnCheckedChangeListenerImplementor,<sp/>Xamarin.Google.Android.Material&quot;</highlight><highlight class="normal">,<sp/></highlight><highlight class="stringliteral">&quot;&quot;</highlight><highlight class="normal">,<sp/></highlight><highlight class="keyword">this</highlight><highlight class="normal">,<sp/></highlight><highlight class="keyword">new</highlight><highlight class="normal"><sp/>java.lang.Object[]<sp/>{<sp/><sp/>});</highlight></codeline>
+<codeline lineno="25"><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline lineno="26"><highlight class="normal"></highlight></codeline>
+<codeline lineno="27"><highlight class="normal"></highlight></codeline>
+<codeline lineno="28" refid="classmono_1_1com_1_1google_1_1android_1_1material_1_1chip_1_1_chip_group___on_checked_change_listener_implementor_1a0ad29fde34a88e9909b6fbef7a57663f" refkind="member"><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">public</highlight><highlight class="normal"><sp/></highlight><highlight class="keywordtype">void</highlight><highlight class="normal"><sp/><ref refid="classmono_1_1com_1_1google_1_1android_1_1material_1_1chip_1_1_chip_group___on_checked_change_listener_implementor_1a0ad29fde34a88e9909b6fbef7a57663f" kindref="member">onCheckedChanged</ref><sp/>(com.google.android.material.chip.ChipGroup<sp/>p0,<sp/></highlight><highlight class="keywordtype">int</highlight><highlight class="normal"><sp/>p1)</highlight></codeline>
+<codeline lineno="29"><highlight class="normal"><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline lineno="30"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>n_onCheckedChanged<sp/>(p0,<sp/>p1);</highlight></codeline>
+<codeline lineno="31"><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline lineno="32"><highlight class="normal"></highlight></codeline>
+<codeline lineno="33"><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">private</highlight><highlight class="normal"><sp/>native<sp/></highlight><highlight class="keywordtype">void</highlight><highlight class="normal"><sp/>n_onCheckedChanged<sp/>(com.google.android.material.chip.ChipGroup<sp/>p0,<sp/></highlight><highlight class="keywordtype">int</highlight><highlight class="normal"><sp/>p1);</highlight></codeline>
+<codeline lineno="34"><highlight class="normal"></highlight></codeline>
+<codeline lineno="35"><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">private</highlight><highlight class="normal"><sp/>java.util.ArrayList<sp/>refList;</highlight></codeline>
+<codeline lineno="36" refid="classmono_1_1com_1_1google_1_1android_1_1material_1_1chip_1_1_chip_group___on_checked_change_listener_implementor_1ad084122dd7e40df7a1826e80105ce41e" refkind="member"><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">public</highlight><highlight class="normal"><sp/></highlight><highlight class="keywordtype">void</highlight><highlight class="normal"><sp/><ref refid="classmono_1_1com_1_1google_1_1android_1_1material_1_1chip_1_1_chip_group___on_checked_change_listener_implementor_1ad084122dd7e40df7a1826e80105ce41e" kindref="member">monodroidAddReference</ref><sp/>(java.lang.Object<sp/>obj)</highlight></codeline>
+<codeline lineno="37"><highlight class="normal"><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline lineno="38"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">if</highlight><highlight class="normal"><sp/>(refList<sp/>==<sp/></highlight><highlight class="keyword">null</highlight><highlight class="normal">)</highlight></codeline>
+<codeline lineno="39"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>refList<sp/>=<sp/></highlight><highlight class="keyword">new</highlight><highlight class="normal"><sp/>java.util.ArrayList<sp/>();</highlight></codeline>
+<codeline lineno="40"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>refList.add<sp/>(obj);</highlight></codeline>
+<codeline lineno="41"><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline lineno="42"><highlight class="normal"></highlight></codeline>
+<codeline lineno="43" refid="classmono_1_1com_1_1google_1_1android_1_1material_1_1chip_1_1_chip_group___on_checked_change_listener_implementor_1a77c22f8408da5f5d2c5865fdf7538c36" refkind="member"><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">public</highlight><highlight class="normal"><sp/></highlight><highlight class="keywordtype">void</highlight><highlight class="normal"><sp/><ref refid="classmono_1_1com_1_1google_1_1android_1_1material_1_1chip_1_1_chip_group___on_checked_change_listener_implementor_1a77c22f8408da5f5d2c5865fdf7538c36" kindref="member">monodroidClearReferences</ref><sp/>()</highlight></codeline>
+<codeline lineno="44"><highlight class="normal"><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline lineno="45"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">if</highlight><highlight class="normal"><sp/>(refList<sp/>!=<sp/></highlight><highlight class="keyword">null</highlight><highlight class="normal">)</highlight></codeline>
+<codeline lineno="46"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>refList.clear<sp/>();</highlight></codeline>
+<codeline lineno="47"><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline lineno="48"><highlight class="normal">}</highlight></codeline>
+    </programlisting>
+    <location file="Application Green Quake.Android/obj/Release/100/android/src/mono/com/google/android/material/chip/ChipGroup_OnCheckedChangeListenerImplementor.java"/>
+  </compounddef>
+</doxygen>

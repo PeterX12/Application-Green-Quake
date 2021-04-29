@@ -1,0 +1,159 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<section xmlns="http://docbook.org/ns/docbook" version="5.0" xmlns:xlink="http://www.w3.org/1999/xlink" xml:id="_class_application___green___quake_1_1_view_models_1_1_energy_points_update" xml:lang="en-US">
+<title>Application_Green_Quake.ViewModels.EnergyPointsUpdate Class Reference</title>
+<indexterm><primary>Application_Green_Quake.ViewModels.EnergyPointsUpdate</primary></indexterm>
+<simplesect>
+    <title>Public Member Functions    </title>
+        <itemizedlist>
+            <listitem><para>async void <link linkend="_class_application___green___quake_1_1_view_models_1_1_energy_points_update_1a3bc037384e5adea8506d684f9120ce80">HangDryPoints</link> ()</para>
+</listitem>
+            <listitem><para>async void <link linkend="_class_application___green___quake_1_1_view_models_1_1_energy_points_update_1a372d962430d4a9c54068fac94f84ecbc">DryerFullPoints</link> ()</para>
+</listitem>
+            <listitem><para>async void <link linkend="_class_application___green___quake_1_1_view_models_1_1_energy_points_update_1ad33a2375c6bd6a136bdf53900af4eb4d">EfficientThermostatPoints</link> ()</para>
+</listitem>
+            <listitem><para>async void <link linkend="_class_application___green___quake_1_1_view_models_1_1_energy_points_update_1a7962c0fce6e4ec6d8af2b3697739b249">InsulateWaterPoints</link> ()</para>
+</listitem>
+            <listitem><para>async void <link linkend="_class_application___green___quake_1_1_view_models_1_1_energy_points_update_1a63200f90a99fb89268a34a0542f13142">IsolateHomePoints</link> ()</para>
+</listitem>
+            <listitem><para>async void <link linkend="_class_application___green___quake_1_1_view_models_1_1_energy_points_update_1ac79b3e3f7e68a15985aaf8e65d7707e5">LedLightsPoints</link> ()</para>
+</listitem>
+            <listitem><para>async void <link linkend="_class_application___green___quake_1_1_view_models_1_1_energy_points_update_1a195fd5bc689558ceac2a38cecbf7ecce">MachineFullPoints</link> ()</para>
+</listitem>
+            <listitem><para>async void <link linkend="_class_application___green___quake_1_1_view_models_1_1_energy_points_update_1a95e3134fbf2126cc73619077c744c286">MicrowavePoints</link> ()</para>
+</listitem>
+            <listitem><para>async void <link linkend="_class_application___green___quake_1_1_view_models_1_1_energy_points_update_1ae0a3d5c8f39ba18501c2b125fabf98c8">SocketPoints</link> ()</para>
+</listitem>
+            <listitem><para>async void <link linkend="_class_application___green___quake_1_1_view_models_1_1_energy_points_update_1a76c8cb91fa69ccffa0e7f67e9479fa61">ReBatteriesPoints</link> ()</para>
+</listitem>
+            <listitem><para>async void <link linkend="_class_application___green___quake_1_1_view_models_1_1_energy_points_update_1a1bf8f069b8ccdb1bfb4b8d14ae549a5d">FridgePoints</link> ()</para>
+</listitem>
+            <listitem><para>async void <link linkend="_class_application___green___quake_1_1_view_models_1_1_energy_points_update_1a9f009b5a16599ee335961804e63dc746">SealDraftsPoints</link> ()</para>
+</listitem>
+            <listitem><para>async void <link linkend="_class_application___green___quake_1_1_view_models_1_1_energy_points_update_1a41816fc2608eab9ea872a61a9d15034c">SealDuctsPoints</link> ()</para>
+</listitem>
+            <listitem><para>async void <link linkend="_class_application___green___quake_1_1_view_models_1_1_energy_points_update_1a033f5becd8b5887d38a9c1f771595521">SolarPanelPoints</link> ()</para>
+</listitem>
+        </itemizedlist>
+</simplesect>
+<section>
+<title>Detailed Description</title>
+<para>
+Definition at line 18 of file EnergyPointsUpdate.cs.</para>
+</section>
+<section>
+<title>Member Function Documentation</title>
+<anchor xml:id="_class_application___green___quake_1_1_view_models_1_1_energy_points_update_1a372d962430d4a9c54068fac94f84ecbc"/>    <section>
+    <title>DryerFullPoints()</title>
+<indexterm><primary>DryerFullPoints</primary><secondary>Application_Green_Quake.ViewModels.EnergyPointsUpdate</secondary></indexterm>
+<indexterm><primary>Application_Green_Quake.ViewModels.EnergyPointsUpdate</primary><secondary>DryerFullPoints</secondary></indexterm>
+<para><computeroutput>async void Application_Green_Quake.ViewModels.EnergyPointsUpdate.DryerFullPoints ( )</computeroutput></para>
+<para>This function updates the points in the Energy category by ten points. It also increments the number of logs logged in the Energy category by one and increments the number of times this particular action was logged by one and sends this data to Firebase. </para>
+<para>
+Definition at line 198 of file EnergyPointsUpdate.cs.</para>
+    </section><anchor xml:id="_class_application___green___quake_1_1_view_models_1_1_energy_points_update_1ad33a2375c6bd6a136bdf53900af4eb4d"/>    <section>
+    <title>EfficientThermostatPoints()</title>
+<indexterm><primary>EfficientThermostatPoints</primary><secondary>Application_Green_Quake.ViewModels.EnergyPointsUpdate</secondary></indexterm>
+<indexterm><primary>Application_Green_Quake.ViewModels.EnergyPointsUpdate</primary><secondary>EfficientThermostatPoints</secondary></indexterm>
+<para><computeroutput>async void Application_Green_Quake.ViewModels.EnergyPointsUpdate.EfficientThermostatPoints ( )</computeroutput></para>
+<para>This function updates the points in the Energy category by eight points. It also increments the number of logs logged in the Energy category by one and increments the number of times this particular action was logged by one and sends this data to Firebase. </para>
+<para>
+Definition at line 352 of file EnergyPointsUpdate.cs.</para>
+    </section><anchor xml:id="_class_application___green___quake_1_1_view_models_1_1_energy_points_update_1a1bf8f069b8ccdb1bfb4b8d14ae549a5d"/>    <section>
+    <title>FridgePoints()</title>
+<indexterm><primary>FridgePoints</primary><secondary>Application_Green_Quake.ViewModels.EnergyPointsUpdate</secondary></indexterm>
+<indexterm><primary>Application_Green_Quake.ViewModels.EnergyPointsUpdate</primary><secondary>FridgePoints</secondary></indexterm>
+<para><computeroutput>async void Application_Green_Quake.ViewModels.EnergyPointsUpdate.FridgePoints ( )</computeroutput></para>
+<para>This function updates the points in the Energy category by eight points. It also increments the number of logs logged in the Energy category by one and increments the number of times this particular action was logged by one and sends this data to Firebase. </para>
+<para>
+Definition at line 1582 of file EnergyPointsUpdate.cs.</para>
+    </section><anchor xml:id="_class_application___green___quake_1_1_view_models_1_1_energy_points_update_1a3bc037384e5adea8506d684f9120ce80"/>    <section>
+    <title>HangDryPoints()</title>
+<indexterm><primary>HangDryPoints</primary><secondary>Application_Green_Quake.ViewModels.EnergyPointsUpdate</secondary></indexterm>
+<indexterm><primary>Application_Green_Quake.ViewModels.EnergyPointsUpdate</primary><secondary>HangDryPoints</secondary></indexterm>
+<para><computeroutput>async void Application_Green_Quake.ViewModels.EnergyPointsUpdate.HangDryPoints ( )</computeroutput></para>
+<para>This function updates the points in the Energy category by ten points. It also increments the number of logs logged in the Energy category by one and increments the number of times this particular action was logged by one and sends this data to Firebase. </para>
+<para>
+Definition at line 44 of file EnergyPointsUpdate.cs.</para>
+    </section><anchor xml:id="_class_application___green___quake_1_1_view_models_1_1_energy_points_update_1a7962c0fce6e4ec6d8af2b3697739b249"/>    <section>
+    <title>InsulateWaterPoints()</title>
+<indexterm><primary>InsulateWaterPoints</primary><secondary>Application_Green_Quake.ViewModels.EnergyPointsUpdate</secondary></indexterm>
+<indexterm><primary>Application_Green_Quake.ViewModels.EnergyPointsUpdate</primary><secondary>InsulateWaterPoints</secondary></indexterm>
+<para><computeroutput>async void Application_Green_Quake.ViewModels.EnergyPointsUpdate.InsulateWaterPoints ( )</computeroutput></para>
+<para>This function updates the points in the Energy category by ten points. It also increments the number of logs logged in the Energy category by one and increments the number of times this particular action was logged by one and sends this data to Firebase. </para>
+<para>
+Definition at line 506 of file EnergyPointsUpdate.cs.</para>
+    </section><anchor xml:id="_class_application___green___quake_1_1_view_models_1_1_energy_points_update_1a63200f90a99fb89268a34a0542f13142"/>    <section>
+    <title>IsolateHomePoints()</title>
+<indexterm><primary>IsolateHomePoints</primary><secondary>Application_Green_Quake.ViewModels.EnergyPointsUpdate</secondary></indexterm>
+<indexterm><primary>Application_Green_Quake.ViewModels.EnergyPointsUpdate</primary><secondary>IsolateHomePoints</secondary></indexterm>
+<para><computeroutput>async void Application_Green_Quake.ViewModels.EnergyPointsUpdate.IsolateHomePoints ( )</computeroutput></para>
+<para>This function updates the points in the Energy category by ten points. It also increments the number of logs logged in the Energy category by one and increments the number of times this particular action was logged by one and sends this data to Firebase. </para>
+<para>
+Definition at line 660 of file EnergyPointsUpdate.cs.</para>
+    </section><anchor xml:id="_class_application___green___quake_1_1_view_models_1_1_energy_points_update_1ac79b3e3f7e68a15985aaf8e65d7707e5"/>    <section>
+    <title>LedLightsPoints()</title>
+<indexterm><primary>LedLightsPoints</primary><secondary>Application_Green_Quake.ViewModels.EnergyPointsUpdate</secondary></indexterm>
+<indexterm><primary>Application_Green_Quake.ViewModels.EnergyPointsUpdate</primary><secondary>LedLightsPoints</secondary></indexterm>
+<para><computeroutput>async void Application_Green_Quake.ViewModels.EnergyPointsUpdate.LedLightsPoints ( )</computeroutput></para>
+<para>This function updates the points in the Energy category by ten points. It also increments the number of logs logged in the Energy category by one and increments the number of times this particular action was logged by one and sends this data to Firebase. </para>
+<para>
+Definition at line 814 of file EnergyPointsUpdate.cs.</para>
+    </section><anchor xml:id="_class_application___green___quake_1_1_view_models_1_1_energy_points_update_1a195fd5bc689558ceac2a38cecbf7ecce"/>    <section>
+    <title>MachineFullPoints()</title>
+<indexterm><primary>MachineFullPoints</primary><secondary>Application_Green_Quake.ViewModels.EnergyPointsUpdate</secondary></indexterm>
+<indexterm><primary>Application_Green_Quake.ViewModels.EnergyPointsUpdate</primary><secondary>MachineFullPoints</secondary></indexterm>
+<para><computeroutput>async void Application_Green_Quake.ViewModels.EnergyPointsUpdate.MachineFullPoints ( )</computeroutput></para>
+<para>This function updates the points in the Energy category by eight points. It also increments the number of logs logged in the Energy category by one and increments the number of times this particular action was logged by one and sends this data to Firebase. </para>
+<para>
+Definition at line 968 of file EnergyPointsUpdate.cs.</para>
+    </section><anchor xml:id="_class_application___green___quake_1_1_view_models_1_1_energy_points_update_1a95e3134fbf2126cc73619077c744c286"/>    <section>
+    <title>MicrowavePoints()</title>
+<indexterm><primary>MicrowavePoints</primary><secondary>Application_Green_Quake.ViewModels.EnergyPointsUpdate</secondary></indexterm>
+<indexterm><primary>Application_Green_Quake.ViewModels.EnergyPointsUpdate</primary><secondary>MicrowavePoints</secondary></indexterm>
+<para><computeroutput>async void Application_Green_Quake.ViewModels.EnergyPointsUpdate.MicrowavePoints ( )</computeroutput></para><para>
+Definition at line 1120 of file EnergyPointsUpdate.cs.</para>
+    </section><anchor xml:id="_class_application___green___quake_1_1_view_models_1_1_energy_points_update_1a76c8cb91fa69ccffa0e7f67e9479fa61"/>    <section>
+    <title>ReBatteriesPoints()</title>
+<indexterm><primary>ReBatteriesPoints</primary><secondary>Application_Green_Quake.ViewModels.EnergyPointsUpdate</secondary></indexterm>
+<indexterm><primary>Application_Green_Quake.ViewModels.EnergyPointsUpdate</primary><secondary>ReBatteriesPoints</secondary></indexterm>
+<para><computeroutput>async void Application_Green_Quake.ViewModels.EnergyPointsUpdate.ReBatteriesPoints ( )</computeroutput></para>
+<para>This function updates the points in the Energy category by six points. It also increments the number of logs logged in the Energy category by one and increments the number of times this particular action was logged by one and sends this data to Firebase. </para>
+<para>
+Definition at line 1428 of file EnergyPointsUpdate.cs.</para>
+    </section><anchor xml:id="_class_application___green___quake_1_1_view_models_1_1_energy_points_update_1a9f009b5a16599ee335961804e63dc746"/>    <section>
+    <title>SealDraftsPoints()</title>
+<indexterm><primary>SealDraftsPoints</primary><secondary>Application_Green_Quake.ViewModels.EnergyPointsUpdate</secondary></indexterm>
+<indexterm><primary>Application_Green_Quake.ViewModels.EnergyPointsUpdate</primary><secondary>SealDraftsPoints</secondary></indexterm>
+<para><computeroutput>async void Application_Green_Quake.ViewModels.EnergyPointsUpdate.SealDraftsPoints ( )</computeroutput></para>
+<para>This function updates the points in the Energy category by ten points. It also increments the number of logs logged in the Energy category by one and increments the number of times this particular action was logged by one and sends this data to Firebase. </para>
+<para>
+Definition at line 1736 of file EnergyPointsUpdate.cs.</para>
+    </section><anchor xml:id="_class_application___green___quake_1_1_view_models_1_1_energy_points_update_1a41816fc2608eab9ea872a61a9d15034c"/>    <section>
+    <title>SealDuctsPoints()</title>
+<indexterm><primary>SealDuctsPoints</primary><secondary>Application_Green_Quake.ViewModels.EnergyPointsUpdate</secondary></indexterm>
+<indexterm><primary>Application_Green_Quake.ViewModels.EnergyPointsUpdate</primary><secondary>SealDuctsPoints</secondary></indexterm>
+<para><computeroutput>async void Application_Green_Quake.ViewModels.EnergyPointsUpdate.SealDuctsPoints ( )</computeroutput></para>
+<para>This function updates the points in the Energy category by eight points. It also increments the number of logs logged in the Energy category by one and increments the number of times this particular action was logged by one and sends this data to Firebase. </para>
+<para>
+Definition at line 1890 of file EnergyPointsUpdate.cs.</para>
+    </section><anchor xml:id="_class_application___green___quake_1_1_view_models_1_1_energy_points_update_1ae0a3d5c8f39ba18501c2b125fabf98c8"/>    <section>
+    <title>SocketPoints()</title>
+<indexterm><primary>SocketPoints</primary><secondary>Application_Green_Quake.ViewModels.EnergyPointsUpdate</secondary></indexterm>
+<indexterm><primary>Application_Green_Quake.ViewModels.EnergyPointsUpdate</primary><secondary>SocketPoints</secondary></indexterm>
+<para><computeroutput>async void Application_Green_Quake.ViewModels.EnergyPointsUpdate.SocketPoints ( )</computeroutput></para>
+<para>This function updates the points in the Energy category by four points. It also increments the number of logs logged in the Energy category by one and increments the number of times this particular action was logged by one and sends this data to Firebase. </para>
+<para>
+Definition at line 1274 of file EnergyPointsUpdate.cs.</para>
+    </section><anchor xml:id="_class_application___green___quake_1_1_view_models_1_1_energy_points_update_1a033f5becd8b5887d38a9c1f771595521"/>    <section>
+    <title>SolarPanelPoints()</title>
+<indexterm><primary>SolarPanelPoints</primary><secondary>Application_Green_Quake.ViewModels.EnergyPointsUpdate</secondary></indexterm>
+<indexterm><primary>Application_Green_Quake.ViewModels.EnergyPointsUpdate</primary><secondary>SolarPanelPoints</secondary></indexterm>
+<para><computeroutput>async void Application_Green_Quake.ViewModels.EnergyPointsUpdate.SolarPanelPoints ( )</computeroutput></para>
+<para>This function updates the points in the Energy category by ten points. It also increments the number of logs logged in the Energy category by one and increments the number of times this particular action was logged by one and sends this data to Firebase. </para>
+<para>
+Definition at line 2044 of file EnergyPointsUpdate.cs.</para>
+</section>
+<para>
+The documentation for this class was generated from the following file:</para>
+Application Green Quake/ViewModels/<link linkend="__energy_points_update_8cs">EnergyPointsUpdate.cs</link></section>
+</section>

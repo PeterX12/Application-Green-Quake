@@ -1,0 +1,151 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<section xmlns="http://docbook.org/ns/docbook" version="5.0" xmlns:xlink="http://www.w3.org/1999/xlink" xml:id="_class_application___green___quake_1_1_view_models_1_1_shopping_points_update" xml:lang="en-US">
+<title>Application_Green_Quake.ViewModels.ShoppingPointsUpdate Class Reference</title>
+<indexterm><primary>Application_Green_Quake.ViewModels.ShoppingPointsUpdate</primary></indexterm>
+<simplesect>
+    <title>Public Member Functions    </title>
+        <itemizedlist>
+            <listitem><para>async void <link linkend="_class_application___green___quake_1_1_view_models_1_1_shopping_points_update_1a4d99947f1157211d6b08aca205d03212">ClothNapkinsPoints</link> ()</para>
+</listitem>
+            <listitem><para>async void <link linkend="_class_application___green___quake_1_1_view_models_1_1_shopping_points_update_1ade379798f6aca5babbec3ce1496d11e3">ClothTowelsPoints</link> ()</para>
+</listitem>
+            <listitem><para>async void <link linkend="_class_application___green___quake_1_1_view_models_1_1_shopping_points_update_1acc5ca902164daea30c25f43c9c177e79">AppliancePoints</link> ()</para>
+</listitem>
+            <listitem><para>async void <link linkend="_class_application___green___quake_1_1_view_models_1_1_shopping_points_update_1aeb285c0fac9610ccb7b0a771e70c292d">ProductPoints</link> ()</para>
+</listitem>
+            <listitem><para>async void <link linkend="_class_application___green___quake_1_1_view_models_1_1_shopping_points_update_1a98e4ef1b76c433ed58d70a24d81b84ee">EcoToothbrushPoints</link> ()</para>
+</listitem>
+            <listitem><para>async void <link linkend="_class_application___green___quake_1_1_view_models_1_1_shopping_points_update_1abb6f8f36dfe6c092c7bb59268caf6ed8">ClothesPoints</link> ()</para>
+</listitem>
+            <listitem><para>async void <link linkend="_class_application___green___quake_1_1_view_models_1_1_shopping_points_update_1a7b936df459d696bd96d583bc98c3f355">FoodInBulkPoints</link> ()</para>
+</listitem>
+            <listitem><para>async void <link linkend="_class_application___green___quake_1_1_view_models_1_1_shopping_points_update_1a111c4aaed0d5a15256b0f7d69fdc69ea">LocalProductPoints</link> ()</para>
+</listitem>
+            <listitem><para>async void <link linkend="_class_application___green___quake_1_1_view_models_1_1_shopping_points_update_1a86a321645a9a379355620362e6a1b817">TeaPoints</link> ()</para>
+</listitem>
+            <listitem><para>async void <link linkend="_class_application___green___quake_1_1_view_models_1_1_shopping_points_update_1adfe8a993aaec4b0bd30a9cd66cc90972">OrganicPoints</link> ()</para>
+</listitem>
+            <listitem><para>async void <link linkend="_class_application___green___quake_1_1_view_models_1_1_shopping_points_update_1a6bb22096a5167aea5e595d2cf9074f23">ReWaterPoints</link> ()</para>
+</listitem>
+            <listitem><para>async void <link linkend="_class_application___green___quake_1_1_view_models_1_1_shopping_points_update_1a96653dcb2ea057ac79836da2c4224f59">ReBattereisPoints</link> ()</para>
+</listitem>
+            <listitem><para>async void <link linkend="_class_application___green___quake_1_1_view_models_1_1_shopping_points_update_1a84bc6e83d11efdddbdee3bb112d432c8">ReBagPoints</link> ()</para>
+</listitem>
+        </itemizedlist>
+</simplesect>
+<section>
+<title>Detailed Description</title>
+<para>
+Definition at line 18 of file ShoppingPointsUpdate.cs.</para>
+</section>
+<section>
+<title>Member Function Documentation</title>
+<anchor xml:id="_class_application___green___quake_1_1_view_models_1_1_shopping_points_update_1acc5ca902164daea30c25f43c9c177e79"/>    <section>
+    <title>AppliancePoints()</title>
+<indexterm><primary>AppliancePoints</primary><secondary>Application_Green_Quake.ViewModels.ShoppingPointsUpdate</secondary></indexterm>
+<indexterm><primary>Application_Green_Quake.ViewModels.ShoppingPointsUpdate</primary><secondary>AppliancePoints</secondary></indexterm>
+<para><computeroutput>async void Application_Green_Quake.ViewModels.ShoppingPointsUpdate.AppliancePoints ( )</computeroutput></para>
+<para>This function updates the points in the Shopping category by two points. It also increments the number of logs logged in the Shopping category by one and increments the number of times this particular action was logged by one and sends this data to Firebase. </para>
+<para>
+Definition at line 338 of file ShoppingPointsUpdate.cs.</para>
+    </section><anchor xml:id="_class_application___green___quake_1_1_view_models_1_1_shopping_points_update_1abb6f8f36dfe6c092c7bb59268caf6ed8"/>    <section>
+    <title>ClothesPoints()</title>
+<indexterm><primary>ClothesPoints</primary><secondary>Application_Green_Quake.ViewModels.ShoppingPointsUpdate</secondary></indexterm>
+<indexterm><primary>Application_Green_Quake.ViewModels.ShoppingPointsUpdate</primary><secondary>ClothesPoints</secondary></indexterm>
+<para><computeroutput>async void Application_Green_Quake.ViewModels.ShoppingPointsUpdate.ClothesPoints ( )</computeroutput></para>
+<para>This function updates the points in the Shopping category by ten points. It also increments the number of logs logged in the Shopping category by one and increments the number of times this particular action was logged by one and sends this data to Firebase. </para>
+<para>
+Definition at line 782 of file ShoppingPointsUpdate.cs.</para>
+    </section><anchor xml:id="_class_application___green___quake_1_1_view_models_1_1_shopping_points_update_1a4d99947f1157211d6b08aca205d03212"/>    <section>
+    <title>ClothNapkinsPoints()</title>
+<indexterm><primary>ClothNapkinsPoints</primary><secondary>Application_Green_Quake.ViewModels.ShoppingPointsUpdate</secondary></indexterm>
+<indexterm><primary>Application_Green_Quake.ViewModels.ShoppingPointsUpdate</primary><secondary>ClothNapkinsPoints</secondary></indexterm>
+<para><computeroutput>async void Application_Green_Quake.ViewModels.ShoppingPointsUpdate.ClothNapkinsPoints ( )</computeroutput></para>
+<para>This function updates the points in the Shopping category by two points. It also increments the number of logs logged in the Shopping category by one and increments the number of times this particular action was logged by one and sends this data to Firebase. </para>
+<para>
+Definition at line 42 of file ShoppingPointsUpdate.cs.</para>
+    </section><anchor xml:id="_class_application___green___quake_1_1_view_models_1_1_shopping_points_update_1ade379798f6aca5babbec3ce1496d11e3"/>    <section>
+    <title>ClothTowelsPoints()</title>
+<indexterm><primary>ClothTowelsPoints</primary><secondary>Application_Green_Quake.ViewModels.ShoppingPointsUpdate</secondary></indexterm>
+<indexterm><primary>Application_Green_Quake.ViewModels.ShoppingPointsUpdate</primary><secondary>ClothTowelsPoints</secondary></indexterm>
+<para><computeroutput>async void Application_Green_Quake.ViewModels.ShoppingPointsUpdate.ClothTowelsPoints ( )</computeroutput></para>
+<para>This function updates the points in the Shopping category by two points. It also increments the number of logs logged in the Shopping category by one and increments the number of times this particular action was logged by one and sends this data to Firebase. </para>
+<para>
+Definition at line 190 of file ShoppingPointsUpdate.cs.</para>
+    </section><anchor xml:id="_class_application___green___quake_1_1_view_models_1_1_shopping_points_update_1a98e4ef1b76c433ed58d70a24d81b84ee"/>    <section>
+    <title>EcoToothbrushPoints()</title>
+<indexterm><primary>EcoToothbrushPoints</primary><secondary>Application_Green_Quake.ViewModels.ShoppingPointsUpdate</secondary></indexterm>
+<indexterm><primary>Application_Green_Quake.ViewModels.ShoppingPointsUpdate</primary><secondary>EcoToothbrushPoints</secondary></indexterm>
+<para><computeroutput>async void Application_Green_Quake.ViewModels.ShoppingPointsUpdate.EcoToothbrushPoints ( )</computeroutput></para>
+<para>This function updates the points in the Shopping category by six points. It also increments the number of logs logged in the Shopping category by one and increments the number of times this particular action was logged by one and sends this data to Firebase. </para>
+<para>
+Definition at line 634 of file ShoppingPointsUpdate.cs.</para>
+    </section><anchor xml:id="_class_application___green___quake_1_1_view_models_1_1_shopping_points_update_1a7b936df459d696bd96d583bc98c3f355"/>    <section>
+    <title>FoodInBulkPoints()</title>
+<indexterm><primary>FoodInBulkPoints</primary><secondary>Application_Green_Quake.ViewModels.ShoppingPointsUpdate</secondary></indexterm>
+<indexterm><primary>Application_Green_Quake.ViewModels.ShoppingPointsUpdate</primary><secondary>FoodInBulkPoints</secondary></indexterm>
+<para><computeroutput>async void Application_Green_Quake.ViewModels.ShoppingPointsUpdate.FoodInBulkPoints ( )</computeroutput></para>
+<para>This function updates the points in the Shopping category by six points. It also increments the number of logs logged in the Shopping category by one and increments the number of times this particular action was logged by one and sends this data to Firebase. </para>
+<para>
+Definition at line 930 of file ShoppingPointsUpdate.cs.</para>
+    </section><anchor xml:id="_class_application___green___quake_1_1_view_models_1_1_shopping_points_update_1a111c4aaed0d5a15256b0f7d69fdc69ea"/>    <section>
+    <title>LocalProductPoints()</title>
+<indexterm><primary>LocalProductPoints</primary><secondary>Application_Green_Quake.ViewModels.ShoppingPointsUpdate</secondary></indexterm>
+<indexterm><primary>Application_Green_Quake.ViewModels.ShoppingPointsUpdate</primary><secondary>LocalProductPoints</secondary></indexterm>
+<para><computeroutput>async void Application_Green_Quake.ViewModels.ShoppingPointsUpdate.LocalProductPoints ( )</computeroutput></para>
+<para>This function updates the points in the Shopping category by eight points. It also increments the number of logs logged in the Shopping category by one and increments the number of times this particular action was logged by one and sends this data to Firebase. </para>
+<para>
+Definition at line 1078 of file ShoppingPointsUpdate.cs.</para>
+    </section><anchor xml:id="_class_application___green___quake_1_1_view_models_1_1_shopping_points_update_1adfe8a993aaec4b0bd30a9cd66cc90972"/>    <section>
+    <title>OrganicPoints()</title>
+<indexterm><primary>OrganicPoints</primary><secondary>Application_Green_Quake.ViewModels.ShoppingPointsUpdate</secondary></indexterm>
+<indexterm><primary>Application_Green_Quake.ViewModels.ShoppingPointsUpdate</primary><secondary>OrganicPoints</secondary></indexterm>
+<para><computeroutput>async void Application_Green_Quake.ViewModels.ShoppingPointsUpdate.OrganicPoints ( )</computeroutput></para>
+<para>This function updates the points in the Shopping category by eight points. It also increments the number of logs logged in the Shopping category by one and increments the number of times this particular action was logged by one and sends this data to Firebase. </para>
+<para>
+Definition at line 1374 of file ShoppingPointsUpdate.cs.</para>
+    </section><anchor xml:id="_class_application___green___quake_1_1_view_models_1_1_shopping_points_update_1aeb285c0fac9610ccb7b0a771e70c292d"/>    <section>
+    <title>ProductPoints()</title>
+<indexterm><primary>ProductPoints</primary><secondary>Application_Green_Quake.ViewModels.ShoppingPointsUpdate</secondary></indexterm>
+<indexterm><primary>Application_Green_Quake.ViewModels.ShoppingPointsUpdate</primary><secondary>ProductPoints</secondary></indexterm>
+<para><computeroutput>async void Application_Green_Quake.ViewModels.ShoppingPointsUpdate.ProductPoints ( )</computeroutput></para>
+<para>This function updates the points in the Shopping category by four points. It also increments the number of logs logged in the Shopping category by one and increments the number of times this particular action was logged by one and sends this data to Firebase. </para>
+<para>
+Definition at line 486 of file ShoppingPointsUpdate.cs.</para>
+    </section><anchor xml:id="_class_application___green___quake_1_1_view_models_1_1_shopping_points_update_1a84bc6e83d11efdddbdee3bb112d432c8"/>    <section>
+    <title>ReBagPoints()</title>
+<indexterm><primary>ReBagPoints</primary><secondary>Application_Green_Quake.ViewModels.ShoppingPointsUpdate</secondary></indexterm>
+<indexterm><primary>Application_Green_Quake.ViewModels.ShoppingPointsUpdate</primary><secondary>ReBagPoints</secondary></indexterm>
+<para><computeroutput>async void Application_Green_Quake.ViewModels.ShoppingPointsUpdate.ReBagPoints ( )</computeroutput></para>
+<para>This function updates the points in the Shopping category by eight points. It also increments the number of logs logged in the Shopping category by one and increments the number of times this particular action was logged by one and sends this data to Firebase. </para>
+<para>
+Definition at line 1818 of file ShoppingPointsUpdate.cs.</para>
+    </section><anchor xml:id="_class_application___green___quake_1_1_view_models_1_1_shopping_points_update_1a96653dcb2ea057ac79836da2c4224f59"/>    <section>
+    <title>ReBattereisPoints()</title>
+<indexterm><primary>ReBattereisPoints</primary><secondary>Application_Green_Quake.ViewModels.ShoppingPointsUpdate</secondary></indexterm>
+<indexterm><primary>Application_Green_Quake.ViewModels.ShoppingPointsUpdate</primary><secondary>ReBattereisPoints</secondary></indexterm>
+<para><computeroutput>async void Application_Green_Quake.ViewModels.ShoppingPointsUpdate.ReBattereisPoints ( )</computeroutput></para>
+<para>This function updates the points in the Shopping category by six points. It also increments the number of logs logged in the Shopping category by one and increments the number of times this particular action was logged by one and sends this data to Firebase. </para>
+<para>
+Definition at line 1670 of file ShoppingPointsUpdate.cs.</para>
+    </section><anchor xml:id="_class_application___green___quake_1_1_view_models_1_1_shopping_points_update_1a6bb22096a5167aea5e595d2cf9074f23"/>    <section>
+    <title>ReWaterPoints()</title>
+<indexterm><primary>ReWaterPoints</primary><secondary>Application_Green_Quake.ViewModels.ShoppingPointsUpdate</secondary></indexterm>
+<indexterm><primary>Application_Green_Quake.ViewModels.ShoppingPointsUpdate</primary><secondary>ReWaterPoints</secondary></indexterm>
+<para><computeroutput>async void Application_Green_Quake.ViewModels.ShoppingPointsUpdate.ReWaterPoints ( )</computeroutput></para>
+<para>This function updates the points in the Shopping category by eight points. It also increments the number of logs logged in the Shopping category by one and increments the number of times this particular action was logged by one and sends this data to Firebase. </para>
+<para>
+Definition at line 1522 of file ShoppingPointsUpdate.cs.</para>
+    </section><anchor xml:id="_class_application___green___quake_1_1_view_models_1_1_shopping_points_update_1a86a321645a9a379355620362e6a1b817"/>    <section>
+    <title>TeaPoints()</title>
+<indexterm><primary>TeaPoints</primary><secondary>Application_Green_Quake.ViewModels.ShoppingPointsUpdate</secondary></indexterm>
+<indexterm><primary>Application_Green_Quake.ViewModels.ShoppingPointsUpdate</primary><secondary>TeaPoints</secondary></indexterm>
+<para><computeroutput>async void Application_Green_Quake.ViewModels.ShoppingPointsUpdate.TeaPoints ( )</computeroutput></para>
+<para>This function updates the points in the Shopping category by four points. It also increments the number of logs logged in the Shopping category by one and increments the number of times this particular action was logged by one and sends this data to Firebase. </para>
+<para>
+Definition at line 1226 of file ShoppingPointsUpdate.cs.</para>
+</section>
+<para>
+The documentation for this class was generated from the following file:</para>
+Application Green Quake/ViewModels/<link linkend="__shopping_points_update_8cs">ShoppingPointsUpdate.cs</link></section>
+</section>

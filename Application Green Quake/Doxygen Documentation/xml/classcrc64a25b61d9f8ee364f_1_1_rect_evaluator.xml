@@ -1,0 +1,590 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.9.1" xml:lang="en-US">
+  <compounddef id="classcrc64a25b61d9f8ee364f_1_1_rect_evaluator" kind="class" language="Java" prot="public">
+    <compoundname>crc64a25b61d9f8ee364f::RectEvaluator</compoundname>
+    <basecompoundref prot="public" virt="non-virtual">java.lang.Object</basecompoundref>
+    <basecompoundref prot="public" virt="non-virtual">mono.android.IGCUserPeer</basecompoundref>
+    <basecompoundref prot="public" virt="non-virtual">android.animation.TypeEvaluator</basecompoundref>
+    <basecompoundref prot="public" virt="non-virtual">java.lang.Object</basecompoundref>
+    <basecompoundref prot="public" virt="non-virtual">mono.android.IGCUserPeer</basecompoundref>
+    <basecompoundref prot="public" virt="non-virtual">android.animation.TypeEvaluator</basecompoundref>
+    <basecompoundref prot="public" virt="non-virtual">java.lang.Object</basecompoundref>
+    <basecompoundref prot="public" virt="non-virtual">mono.android.IGCUserPeer</basecompoundref>
+    <basecompoundref prot="public" virt="non-virtual">android.animation.TypeEvaluator</basecompoundref>
+    <basecompoundref prot="public" virt="non-virtual">java.lang.Object</basecompoundref>
+    <basecompoundref prot="public" virt="non-virtual">mono.android.IGCUserPeer</basecompoundref>
+    <basecompoundref prot="public" virt="non-virtual">android.animation.TypeEvaluator</basecompoundref>
+      <sectiondef kind="public-static-attrib">
+      <memberdef kind="variable" id="classcrc64a25b61d9f8ee364f_1_1_rect_evaluator_1a00f2c283322e756cae10c3dd50798612" prot="public" static="yes" mutable="no">
+        <type>final String</type>
+        <definition>static final String crc64a25b61d9f8ee364f.RectEvaluator::__md_methods</definition>
+        <argsstring></argsstring>
+        <name>__md_methods</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+<para>@hide </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/100/android/src/crc64a25b61d9f8ee364f/RectEvaluator.java" line="11" column="28" bodyfile="Application Green Quake.Android/obj/Debug/100/android/src/crc64a25b61d9f8ee364f/RectEvaluator.java" bodystart="11" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="private-attrib">
+      <memberdef kind="variable" id="classcrc64a25b61d9f8ee364f_1_1_rect_evaluator_1a29980da78480fa5aef47e9733ac4abf7" prot="private" static="no" mutable="no">
+        <type>java.util.ArrayList</type>
+        <definition>java util ArrayList crc64a25b61d9f8ee364f.RectEvaluator::refList</definition>
+        <argsstring></argsstring>
+        <name>refList</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/100/android/src/crc64a25b61d9f8ee364f/RectEvaluator.java" line="35" column="27" bodyfile="Application Green Quake.Android/obj/Debug/100/android/src/crc64a25b61d9f8ee364f/RectEvaluator.java" bodystart="35" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="package-static-func">
+      <memberdef kind="function" id="classcrc64a25b61d9f8ee364f_1_1_rect_evaluator_1a5b48144d643ee9ca11003c83f5f43afd" prot="package" static="yes" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>crc64a25b61d9f8ee364f.RectEvaluator.[static initializer]</definition>
+        <argsstring></argsstring>
+        <name>[static initializer]</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/100/android/src/crc64a25b61d9f8ee364f/RectEvaluator.java" line="11" column="28"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc64a25b61d9f8ee364f_1_1_rect_evaluator_1a5b48144d643ee9ca11003c83f5f43afd" prot="package" static="yes" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>crc64a25b61d9f8ee364f.RectEvaluator.[static initializer]</definition>
+        <argsstring></argsstring>
+        <name>[static initializer]</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/110/android/src/crc64a25b61d9f8ee364f/RectEvaluator.java" line="11" column="28"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc64a25b61d9f8ee364f_1_1_rect_evaluator_1a5b48144d643ee9ca11003c83f5f43afd" prot="package" static="yes" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>crc64a25b61d9f8ee364f.RectEvaluator.[static initializer]</definition>
+        <argsstring></argsstring>
+        <name>[static initializer]</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/100/android/src/crc64a25b61d9f8ee364f/RectEvaluator.java" line="11" column="28"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc64a25b61d9f8ee364f_1_1_rect_evaluator_1a5b48144d643ee9ca11003c83f5f43afd" prot="package" static="yes" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>crc64a25b61d9f8ee364f.RectEvaluator.[static initializer]</definition>
+        <argsstring></argsstring>
+        <name>[static initializer]</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/110/android/src/crc64a25b61d9f8ee364f/RectEvaluator.java" line="11" column="28"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="public-func">
+      <memberdef kind="function" id="classcrc64a25b61d9f8ee364f_1_1_rect_evaluator_1a437c6494d516aeda9a1c13ea8ac85703" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>crc64a25b61d9f8ee364f.RectEvaluator.RectEvaluator</definition>
+        <argsstring>()</argsstring>
+        <name>RectEvaluator</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/100/android/src/crc64a25b61d9f8ee364f/RectEvaluator.java" line="20" column="8" bodyfile="Application Green Quake.Android/obj/Debug/100/android/src/crc64a25b61d9f8ee364f/RectEvaluator.java" bodystart="20" bodyend="25"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc64a25b61d9f8ee364f_1_1_rect_evaluator_1afef65de1dc25f44865a3f135a3ed14d3" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>java.lang.Object</type>
+        <definition>java.lang.Object crc64a25b61d9f8ee364f.RectEvaluator.evaluate</definition>
+        <argsstring>(float p0, java.lang.Object p1, java.lang.Object p2)</argsstring>
+        <name>evaluate</name>
+        <param>
+          <type>float</type>
+          <declname>p0</declname>
+        </param>
+        <param>
+          <type>java.lang.Object</type>
+          <declname>p1</declname>
+        </param>
+        <param>
+          <type>java.lang.Object</type>
+          <declname>p2</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/100/android/src/crc64a25b61d9f8ee364f/RectEvaluator.java" line="28" column="23" bodyfile="Application Green Quake.Android/obj/Debug/100/android/src/crc64a25b61d9f8ee364f/RectEvaluator.java" bodystart="28" bodyend="31"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc64a25b61d9f8ee364f_1_1_rect_evaluator_1add4d76915023a359184e33d268f30659" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void crc64a25b61d9f8ee364f.RectEvaluator.monodroidAddReference</definition>
+        <argsstring>(java.lang.Object obj)</argsstring>
+        <name>monodroidAddReference</name>
+        <param>
+          <type>java.lang.Object</type>
+          <declname>obj</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/100/android/src/crc64a25b61d9f8ee364f/RectEvaluator.java" line="36" column="13" bodyfile="Application Green Quake.Android/obj/Debug/100/android/src/crc64a25b61d9f8ee364f/RectEvaluator.java" bodystart="36" bodyend="41"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc64a25b61d9f8ee364f_1_1_rect_evaluator_1a87cb56f1746de73a32882e203a34da46" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void crc64a25b61d9f8ee364f.RectEvaluator.monodroidClearReferences</definition>
+        <argsstring>()</argsstring>
+        <name>monodroidClearReferences</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/100/android/src/crc64a25b61d9f8ee364f/RectEvaluator.java" line="43" column="13" bodyfile="Application Green Quake.Android/obj/Debug/100/android/src/crc64a25b61d9f8ee364f/RectEvaluator.java" bodystart="43" bodyend="47"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc64a25b61d9f8ee364f_1_1_rect_evaluator_1a437c6494d516aeda9a1c13ea8ac85703" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>crc64a25b61d9f8ee364f.RectEvaluator.RectEvaluator</definition>
+        <argsstring>()</argsstring>
+        <name>RectEvaluator</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/110/android/src/crc64a25b61d9f8ee364f/RectEvaluator.java" line="20" column="8" bodyfile="Application Green Quake.Android/obj/Debug/110/android/src/crc64a25b61d9f8ee364f/RectEvaluator.java" bodystart="20" bodyend="25"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc64a25b61d9f8ee364f_1_1_rect_evaluator_1afef65de1dc25f44865a3f135a3ed14d3" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>java.lang.Object</type>
+        <definition>java.lang.Object crc64a25b61d9f8ee364f.RectEvaluator.evaluate</definition>
+        <argsstring>(float p0, java.lang.Object p1, java.lang.Object p2)</argsstring>
+        <name>evaluate</name>
+        <param>
+          <type>float</type>
+          <declname>p0</declname>
+        </param>
+        <param>
+          <type>java.lang.Object</type>
+          <declname>p1</declname>
+        </param>
+        <param>
+          <type>java.lang.Object</type>
+          <declname>p2</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/110/android/src/crc64a25b61d9f8ee364f/RectEvaluator.java" line="28" column="23" bodyfile="Application Green Quake.Android/obj/Debug/110/android/src/crc64a25b61d9f8ee364f/RectEvaluator.java" bodystart="28" bodyend="31"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc64a25b61d9f8ee364f_1_1_rect_evaluator_1add4d76915023a359184e33d268f30659" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void crc64a25b61d9f8ee364f.RectEvaluator.monodroidAddReference</definition>
+        <argsstring>(java.lang.Object obj)</argsstring>
+        <name>monodroidAddReference</name>
+        <param>
+          <type>java.lang.Object</type>
+          <declname>obj</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/110/android/src/crc64a25b61d9f8ee364f/RectEvaluator.java" line="36" column="13" bodyfile="Application Green Quake.Android/obj/Debug/110/android/src/crc64a25b61d9f8ee364f/RectEvaluator.java" bodystart="36" bodyend="41"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc64a25b61d9f8ee364f_1_1_rect_evaluator_1a87cb56f1746de73a32882e203a34da46" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void crc64a25b61d9f8ee364f.RectEvaluator.monodroidClearReferences</definition>
+        <argsstring>()</argsstring>
+        <name>monodroidClearReferences</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/110/android/src/crc64a25b61d9f8ee364f/RectEvaluator.java" line="43" column="13" bodyfile="Application Green Quake.Android/obj/Debug/110/android/src/crc64a25b61d9f8ee364f/RectEvaluator.java" bodystart="43" bodyend="47"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc64a25b61d9f8ee364f_1_1_rect_evaluator_1a437c6494d516aeda9a1c13ea8ac85703" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>crc64a25b61d9f8ee364f.RectEvaluator.RectEvaluator</definition>
+        <argsstring>()</argsstring>
+        <name>RectEvaluator</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/100/android/src/crc64a25b61d9f8ee364f/RectEvaluator.java" line="20" column="8" bodyfile="Application Green Quake.Android/obj/Release/100/android/src/crc64a25b61d9f8ee364f/RectEvaluator.java" bodystart="20" bodyend="25"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc64a25b61d9f8ee364f_1_1_rect_evaluator_1afef65de1dc25f44865a3f135a3ed14d3" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>java.lang.Object</type>
+        <definition>java.lang.Object crc64a25b61d9f8ee364f.RectEvaluator.evaluate</definition>
+        <argsstring>(float p0, java.lang.Object p1, java.lang.Object p2)</argsstring>
+        <name>evaluate</name>
+        <param>
+          <type>float</type>
+          <declname>p0</declname>
+        </param>
+        <param>
+          <type>java.lang.Object</type>
+          <declname>p1</declname>
+        </param>
+        <param>
+          <type>java.lang.Object</type>
+          <declname>p2</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/100/android/src/crc64a25b61d9f8ee364f/RectEvaluator.java" line="28" column="23" bodyfile="Application Green Quake.Android/obj/Release/100/android/src/crc64a25b61d9f8ee364f/RectEvaluator.java" bodystart="28" bodyend="31"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc64a25b61d9f8ee364f_1_1_rect_evaluator_1add4d76915023a359184e33d268f30659" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void crc64a25b61d9f8ee364f.RectEvaluator.monodroidAddReference</definition>
+        <argsstring>(java.lang.Object obj)</argsstring>
+        <name>monodroidAddReference</name>
+        <param>
+          <type>java.lang.Object</type>
+          <declname>obj</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/100/android/src/crc64a25b61d9f8ee364f/RectEvaluator.java" line="36" column="13" bodyfile="Application Green Quake.Android/obj/Release/100/android/src/crc64a25b61d9f8ee364f/RectEvaluator.java" bodystart="36" bodyend="41"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc64a25b61d9f8ee364f_1_1_rect_evaluator_1a87cb56f1746de73a32882e203a34da46" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void crc64a25b61d9f8ee364f.RectEvaluator.monodroidClearReferences</definition>
+        <argsstring>()</argsstring>
+        <name>monodroidClearReferences</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/100/android/src/crc64a25b61d9f8ee364f/RectEvaluator.java" line="43" column="13" bodyfile="Application Green Quake.Android/obj/Release/100/android/src/crc64a25b61d9f8ee364f/RectEvaluator.java" bodystart="43" bodyend="47"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc64a25b61d9f8ee364f_1_1_rect_evaluator_1a437c6494d516aeda9a1c13ea8ac85703" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>crc64a25b61d9f8ee364f.RectEvaluator.RectEvaluator</definition>
+        <argsstring>()</argsstring>
+        <name>RectEvaluator</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/110/android/src/crc64a25b61d9f8ee364f/RectEvaluator.java" line="20" column="8" bodyfile="Application Green Quake.Android/obj/Release/110/android/src/crc64a25b61d9f8ee364f/RectEvaluator.java" bodystart="20" bodyend="25"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc64a25b61d9f8ee364f_1_1_rect_evaluator_1afef65de1dc25f44865a3f135a3ed14d3" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>java.lang.Object</type>
+        <definition>java.lang.Object crc64a25b61d9f8ee364f.RectEvaluator.evaluate</definition>
+        <argsstring>(float p0, java.lang.Object p1, java.lang.Object p2)</argsstring>
+        <name>evaluate</name>
+        <param>
+          <type>float</type>
+          <declname>p0</declname>
+        </param>
+        <param>
+          <type>java.lang.Object</type>
+          <declname>p1</declname>
+        </param>
+        <param>
+          <type>java.lang.Object</type>
+          <declname>p2</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/110/android/src/crc64a25b61d9f8ee364f/RectEvaluator.java" line="28" column="23" bodyfile="Application Green Quake.Android/obj/Release/110/android/src/crc64a25b61d9f8ee364f/RectEvaluator.java" bodystart="28" bodyend="31"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc64a25b61d9f8ee364f_1_1_rect_evaluator_1add4d76915023a359184e33d268f30659" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void crc64a25b61d9f8ee364f.RectEvaluator.monodroidAddReference</definition>
+        <argsstring>(java.lang.Object obj)</argsstring>
+        <name>monodroidAddReference</name>
+        <param>
+          <type>java.lang.Object</type>
+          <declname>obj</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/110/android/src/crc64a25b61d9f8ee364f/RectEvaluator.java" line="36" column="13" bodyfile="Application Green Quake.Android/obj/Release/110/android/src/crc64a25b61d9f8ee364f/RectEvaluator.java" bodystart="36" bodyend="41"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc64a25b61d9f8ee364f_1_1_rect_evaluator_1a87cb56f1746de73a32882e203a34da46" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void crc64a25b61d9f8ee364f.RectEvaluator.monodroidClearReferences</definition>
+        <argsstring>()</argsstring>
+        <name>monodroidClearReferences</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/110/android/src/crc64a25b61d9f8ee364f/RectEvaluator.java" line="43" column="13" bodyfile="Application Green Quake.Android/obj/Release/110/android/src/crc64a25b61d9f8ee364f/RectEvaluator.java" bodystart="43" bodyend="47"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="private-func">
+      <memberdef kind="function" id="classcrc64a25b61d9f8ee364f_1_1_rect_evaluator_1a42a09e49d0c398edcfc726ca9bccd888" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>native java.lang.Object</type>
+        <definition>native java.lang.Object crc64a25b61d9f8ee364f.RectEvaluator.n_evaluate</definition>
+        <argsstring>(float p0, java.lang.Object p1, java.lang.Object p2)</argsstring>
+        <name>n_evaluate</name>
+        <param>
+          <type>float</type>
+          <declname>p0</declname>
+        </param>
+        <param>
+          <type>java.lang.Object</type>
+          <declname>p1</declname>
+        </param>
+        <param>
+          <type>java.lang.Object</type>
+          <declname>p2</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/100/android/src/crc64a25b61d9f8ee364f/RectEvaluator.java" line="33" column="31"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc64a25b61d9f8ee364f_1_1_rect_evaluator_1a42a09e49d0c398edcfc726ca9bccd888" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>native java.lang.Object</type>
+        <definition>native java.lang.Object crc64a25b61d9f8ee364f.RectEvaluator.n_evaluate</definition>
+        <argsstring>(float p0, java.lang.Object p1, java.lang.Object p2)</argsstring>
+        <name>n_evaluate</name>
+        <param>
+          <type>float</type>
+          <declname>p0</declname>
+        </param>
+        <param>
+          <type>java.lang.Object</type>
+          <declname>p1</declname>
+        </param>
+        <param>
+          <type>java.lang.Object</type>
+          <declname>p2</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/110/android/src/crc64a25b61d9f8ee364f/RectEvaluator.java" line="33" column="31"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc64a25b61d9f8ee364f_1_1_rect_evaluator_1a42a09e49d0c398edcfc726ca9bccd888" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>native java.lang.Object</type>
+        <definition>native java.lang.Object crc64a25b61d9f8ee364f.RectEvaluator.n_evaluate</definition>
+        <argsstring>(float p0, java.lang.Object p1, java.lang.Object p2)</argsstring>
+        <name>n_evaluate</name>
+        <param>
+          <type>float</type>
+          <declname>p0</declname>
+        </param>
+        <param>
+          <type>java.lang.Object</type>
+          <declname>p1</declname>
+        </param>
+        <param>
+          <type>java.lang.Object</type>
+          <declname>p2</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/100/android/src/crc64a25b61d9f8ee364f/RectEvaluator.java" line="33" column="31"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc64a25b61d9f8ee364f_1_1_rect_evaluator_1a42a09e49d0c398edcfc726ca9bccd888" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>native java.lang.Object</type>
+        <definition>native java.lang.Object crc64a25b61d9f8ee364f.RectEvaluator.n_evaluate</definition>
+        <argsstring>(float p0, java.lang.Object p1, java.lang.Object p2)</argsstring>
+        <name>n_evaluate</name>
+        <param>
+          <type>float</type>
+          <declname>p0</declname>
+        </param>
+        <param>
+          <type>java.lang.Object</type>
+          <declname>p1</declname>
+        </param>
+        <param>
+          <type>java.lang.Object</type>
+          <declname>p2</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/110/android/src/crc64a25b61d9f8ee364f/RectEvaluator.java" line="33" column="31"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <inheritancegraph>
+      <node id="1">
+        <label>crc64a25b61d9f8ee364f.RectEvaluator</label>
+        <link refid="classcrc64a25b61d9f8ee364f_1_1_rect_evaluator"/>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+        <childnode refid="3" relation="public-inheritance">
+        </childnode>
+        <childnode refid="4" relation="public-inheritance">
+        </childnode>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+        <childnode refid="3" relation="public-inheritance">
+        </childnode>
+        <childnode refid="4" relation="public-inheritance">
+        </childnode>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+        <childnode refid="3" relation="public-inheritance">
+        </childnode>
+        <childnode refid="4" relation="public-inheritance">
+        </childnode>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+        <childnode refid="3" relation="public-inheritance">
+        </childnode>
+        <childnode refid="4" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="3">
+        <label>mono.android.IGCUserPeer</label>
+      </node>
+      <node id="2">
+        <label>java.lang.Object</label>
+      </node>
+      <node id="4">
+        <label>android.animation.TypeEvaluator</label>
+      </node>
+    </inheritancegraph>
+    <collaborationgraph>
+      <node id="1">
+        <label>crc64a25b61d9f8ee364f.RectEvaluator</label>
+        <link refid="classcrc64a25b61d9f8ee364f_1_1_rect_evaluator"/>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+        <childnode refid="3" relation="public-inheritance">
+        </childnode>
+        <childnode refid="4" relation="public-inheritance">
+        </childnode>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+        <childnode refid="3" relation="public-inheritance">
+        </childnode>
+        <childnode refid="4" relation="public-inheritance">
+        </childnode>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+        <childnode refid="3" relation="public-inheritance">
+        </childnode>
+        <childnode refid="4" relation="public-inheritance">
+        </childnode>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+        <childnode refid="3" relation="public-inheritance">
+        </childnode>
+        <childnode refid="4" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="3">
+        <label>mono.android.IGCUserPeer</label>
+      </node>
+      <node id="2">
+        <label>java.lang.Object</label>
+      </node>
+      <node id="4">
+        <label>android.animation.TypeEvaluator</label>
+      </node>
+    </collaborationgraph>
+    <location file="Application Green Quake.Android/obj/Debug/100/android/src/crc64a25b61d9f8ee364f/RectEvaluator.java" line="4" column="7" bodyfile="Application Green Quake.Android/obj/Debug/100/android/src/crc64a25b61d9f8ee364f/RectEvaluator.java" bodystart="9" bodyend="48"/>
+    <listofallmembers>
+      <member refid="classcrc64a25b61d9f8ee364f_1_1_rect_evaluator_1a5b48144d643ee9ca11003c83f5f43afd" prot="package" virt="non-virtual"><scope>crc64a25b61d9f8ee364f::RectEvaluator</scope><name>[static initializer]</name></member>
+      <member refid="classcrc64a25b61d9f8ee364f_1_1_rect_evaluator_1a5b48144d643ee9ca11003c83f5f43afd" prot="package" virt="non-virtual"><scope>crc64a25b61d9f8ee364f::RectEvaluator</scope><name>[static initializer]</name></member>
+      <member refid="classcrc64a25b61d9f8ee364f_1_1_rect_evaluator_1a5b48144d643ee9ca11003c83f5f43afd" prot="package" virt="non-virtual"><scope>crc64a25b61d9f8ee364f::RectEvaluator</scope><name>[static initializer]</name></member>
+      <member refid="classcrc64a25b61d9f8ee364f_1_1_rect_evaluator_1a5b48144d643ee9ca11003c83f5f43afd" prot="package" virt="non-virtual"><scope>crc64a25b61d9f8ee364f::RectEvaluator</scope><name>[static initializer]</name></member>
+      <member refid="classcrc64a25b61d9f8ee364f_1_1_rect_evaluator_1a00f2c283322e756cae10c3dd50798612" prot="public" virt="non-virtual"><scope>crc64a25b61d9f8ee364f::RectEvaluator</scope><name>__md_methods</name></member>
+      <member refid="classcrc64a25b61d9f8ee364f_1_1_rect_evaluator_1afef65de1dc25f44865a3f135a3ed14d3" prot="public" virt="non-virtual"><scope>crc64a25b61d9f8ee364f::RectEvaluator</scope><name>evaluate</name></member>
+      <member refid="classcrc64a25b61d9f8ee364f_1_1_rect_evaluator_1afef65de1dc25f44865a3f135a3ed14d3" prot="public" virt="non-virtual"><scope>crc64a25b61d9f8ee364f::RectEvaluator</scope><name>evaluate</name></member>
+      <member refid="classcrc64a25b61d9f8ee364f_1_1_rect_evaluator_1afef65de1dc25f44865a3f135a3ed14d3" prot="public" virt="non-virtual"><scope>crc64a25b61d9f8ee364f::RectEvaluator</scope><name>evaluate</name></member>
+      <member refid="classcrc64a25b61d9f8ee364f_1_1_rect_evaluator_1afef65de1dc25f44865a3f135a3ed14d3" prot="public" virt="non-virtual"><scope>crc64a25b61d9f8ee364f::RectEvaluator</scope><name>evaluate</name></member>
+      <member refid="classcrc64a25b61d9f8ee364f_1_1_rect_evaluator_1add4d76915023a359184e33d268f30659" prot="public" virt="non-virtual"><scope>crc64a25b61d9f8ee364f::RectEvaluator</scope><name>monodroidAddReference</name></member>
+      <member refid="classcrc64a25b61d9f8ee364f_1_1_rect_evaluator_1add4d76915023a359184e33d268f30659" prot="public" virt="non-virtual"><scope>crc64a25b61d9f8ee364f::RectEvaluator</scope><name>monodroidAddReference</name></member>
+      <member refid="classcrc64a25b61d9f8ee364f_1_1_rect_evaluator_1add4d76915023a359184e33d268f30659" prot="public" virt="non-virtual"><scope>crc64a25b61d9f8ee364f::RectEvaluator</scope><name>monodroidAddReference</name></member>
+      <member refid="classcrc64a25b61d9f8ee364f_1_1_rect_evaluator_1add4d76915023a359184e33d268f30659" prot="public" virt="non-virtual"><scope>crc64a25b61d9f8ee364f::RectEvaluator</scope><name>monodroidAddReference</name></member>
+      <member refid="classcrc64a25b61d9f8ee364f_1_1_rect_evaluator_1a87cb56f1746de73a32882e203a34da46" prot="public" virt="non-virtual"><scope>crc64a25b61d9f8ee364f::RectEvaluator</scope><name>monodroidClearReferences</name></member>
+      <member refid="classcrc64a25b61d9f8ee364f_1_1_rect_evaluator_1a87cb56f1746de73a32882e203a34da46" prot="public" virt="non-virtual"><scope>crc64a25b61d9f8ee364f::RectEvaluator</scope><name>monodroidClearReferences</name></member>
+      <member refid="classcrc64a25b61d9f8ee364f_1_1_rect_evaluator_1a87cb56f1746de73a32882e203a34da46" prot="public" virt="non-virtual"><scope>crc64a25b61d9f8ee364f::RectEvaluator</scope><name>monodroidClearReferences</name></member>
+      <member refid="classcrc64a25b61d9f8ee364f_1_1_rect_evaluator_1a87cb56f1746de73a32882e203a34da46" prot="public" virt="non-virtual"><scope>crc64a25b61d9f8ee364f::RectEvaluator</scope><name>monodroidClearReferences</name></member>
+      <member refid="classcrc64a25b61d9f8ee364f_1_1_rect_evaluator_1a42a09e49d0c398edcfc726ca9bccd888" prot="private" virt="non-virtual"><scope>crc64a25b61d9f8ee364f::RectEvaluator</scope><name>n_evaluate</name></member>
+      <member refid="classcrc64a25b61d9f8ee364f_1_1_rect_evaluator_1a42a09e49d0c398edcfc726ca9bccd888" prot="private" virt="non-virtual"><scope>crc64a25b61d9f8ee364f::RectEvaluator</scope><name>n_evaluate</name></member>
+      <member refid="classcrc64a25b61d9f8ee364f_1_1_rect_evaluator_1a42a09e49d0c398edcfc726ca9bccd888" prot="private" virt="non-virtual"><scope>crc64a25b61d9f8ee364f::RectEvaluator</scope><name>n_evaluate</name></member>
+      <member refid="classcrc64a25b61d9f8ee364f_1_1_rect_evaluator_1a42a09e49d0c398edcfc726ca9bccd888" prot="private" virt="non-virtual"><scope>crc64a25b61d9f8ee364f::RectEvaluator</scope><name>n_evaluate</name></member>
+      <member refid="classcrc64a25b61d9f8ee364f_1_1_rect_evaluator_1a437c6494d516aeda9a1c13ea8ac85703" prot="public" virt="non-virtual"><scope>crc64a25b61d9f8ee364f::RectEvaluator</scope><name>RectEvaluator</name></member>
+      <member refid="classcrc64a25b61d9f8ee364f_1_1_rect_evaluator_1a437c6494d516aeda9a1c13ea8ac85703" prot="public" virt="non-virtual"><scope>crc64a25b61d9f8ee364f::RectEvaluator</scope><name>RectEvaluator</name></member>
+      <member refid="classcrc64a25b61d9f8ee364f_1_1_rect_evaluator_1a437c6494d516aeda9a1c13ea8ac85703" prot="public" virt="non-virtual"><scope>crc64a25b61d9f8ee364f::RectEvaluator</scope><name>RectEvaluator</name></member>
+      <member refid="classcrc64a25b61d9f8ee364f_1_1_rect_evaluator_1a437c6494d516aeda9a1c13ea8ac85703" prot="public" virt="non-virtual"><scope>crc64a25b61d9f8ee364f::RectEvaluator</scope><name>RectEvaluator</name></member>
+      <member refid="classcrc64a25b61d9f8ee364f_1_1_rect_evaluator_1a29980da78480fa5aef47e9733ac4abf7" prot="private" virt="non-virtual"><scope>crc64a25b61d9f8ee364f::RectEvaluator</scope><name>refList</name></member>
+    </listofallmembers>
+  </compounddef>
+</doxygen>

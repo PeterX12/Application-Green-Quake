@@ -1,0 +1,218 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.9.1" xml:lang="en-US">
+  <compounddef id="class_application___green___quake_1_1_views_1_1_profile_page_1_1_badge_pop_up" kind="class" language="C#" prot="public">
+    <compoundname>Application_Green_Quake::Views::ProfilePage::BadgePopUp</compoundname>
+    <basecompoundref prot="public" virt="non-virtual">global.RgPlugins.Popup.Pages.PopupPage</basecompoundref>
+    <basecompoundref prot="public" virt="non-virtual">global.RgPlugins.Popup.Pages.PopupPage</basecompoundref>
+      <sectiondef kind="private-attrib">
+      <memberdef kind="variable" id="class_application___green___quake_1_1_views_1_1_profile_page_1_1_badge_pop_up_1a21a39e55d84e9722081e5aabd5fda9ae" prot="private" static="no" mutable="no">
+        <type>global::Xamarin.Forms.Label</type>
+        <definition>Xamarin Forms global::Label Application_Green_Quake.Views.ProfilePage.BadgePopUp::badgeHeading</definition>
+        <argsstring></argsstring>
+        <name>badgeHeading</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake/obj/Debug/netstandard2.0/Views/ProfilePage/BadgePopUp.xaml.g.cs" line="20" column="43" bodyfile="Application Green Quake/obj/Debug/netstandard2.0/Views/ProfilePage/BadgePopUp.xaml.g.cs" bodystart="20" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_application___green___quake_1_1_views_1_1_profile_page_1_1_badge_pop_up_1a1245f1fa325935e3646be3168ec4c7c3" prot="private" static="no" mutable="no">
+        <type>global::Xamarin.Forms.Label</type>
+        <definition>Xamarin Forms global::Label Application_Green_Quake.Views.ProfilePage.BadgePopUp::badgeSubHeading</definition>
+        <argsstring></argsstring>
+        <name>badgeSubHeading</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake/obj/Debug/netstandard2.0/Views/ProfilePage/BadgePopUp.xaml.g.cs" line="23" column="43" bodyfile="Application Green Quake/obj/Debug/netstandard2.0/Views/ProfilePage/BadgePopUp.xaml.g.cs" bodystart="23" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_application___green___quake_1_1_views_1_1_profile_page_1_1_badge_pop_up_1a5e4c93f16c26ec00b46cbf81cf507ccc" prot="private" static="no" mutable="no">
+        <type>global::Xamarin.Forms.Image</type>
+        <definition>Xamarin Forms global::Image Application_Green_Quake.Views.ProfilePage.BadgePopUp::badge</definition>
+        <argsstring></argsstring>
+        <name>badge</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake/obj/Debug/netstandard2.0/Views/ProfilePage/BadgePopUp.xaml.g.cs" line="26" column="43" bodyfile="Application Green Quake/obj/Debug/netstandard2.0/Views/ProfilePage/BadgePopUp.xaml.g.cs" bodystart="26" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_application___green___quake_1_1_views_1_1_profile_page_1_1_badge_pop_up_1a719182b3ac0adfe0a4ff1ad6fe51079c" prot="private" static="no" mutable="no">
+        <type>global::Xamarin.Forms.Label</type>
+        <definition>Xamarin Forms global::Label Application_Green_Quake.Views.ProfilePage.BadgePopUp::badgeTxt</definition>
+        <argsstring></argsstring>
+        <name>badgeTxt</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake/obj/Debug/netstandard2.0/Views/ProfilePage/BadgePopUp.xaml.g.cs" line="29" column="43" bodyfile="Application Green Quake/obj/Debug/netstandard2.0/Views/ProfilePage/BadgePopUp.xaml.g.cs" bodystart="29" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_application___green___quake_1_1_views_1_1_profile_page_1_1_badge_pop_up_1ad85451ef3b639cf591729f7c62ff238d" prot="private" static="no" mutable="no">
+        <type>int</type>
+        <definition>int Application_Green_Quake.Views.ProfilePage.BadgePopUp.num</definition>
+        <argsstring></argsstring>
+        <name>num</name>
+        <initializer>= 0</initializer>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake/Views/ProfilePage/BadgePopUp.xaml.cs" line="17" column="13" bodyfile="Application Green Quake/Views/ProfilePage/BadgePopUp.xaml.cs" bodystart="17" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_application___green___quake_1_1_views_1_1_profile_page_1_1_badge_pop_up_1a2de36809104f707b947534493a51bfd5" prot="private" static="no" mutable="no">
+        <type>int</type>
+        <definition>int Application_Green_Quake.Views.ProfilePage.BadgePopUp.badgeState</definition>
+        <argsstring></argsstring>
+        <name>badgeState</name>
+        <initializer>= 0</initializer>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake/Views/ProfilePage/BadgePopUp.xaml.cs" line="18" column="13" bodyfile="Application Green Quake/Views/ProfilePage/BadgePopUp.xaml.cs" bodystart="18" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="private-func">
+      <memberdef kind="function" id="class_application___green___quake_1_1_views_1_1_profile_page_1_1_badge_pop_up_1a1abe45802fa06fd72167312c238fdd1c" prot="private" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void Application_Green_Quake.Views.ProfilePage.BadgePopUp.InitializeComponent</definition>
+        <argsstring>()</argsstring>
+        <name>InitializeComponent</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake/obj/Debug/netstandard2.0/Views/ProfilePage/BadgePopUp.xaml.g.cs" line="32" column="22" bodyfile="Application Green Quake/obj/Debug/netstandard2.0/Views/ProfilePage/BadgePopUp.xaml.g.cs" bodystart="32" bodyend="38"/>
+      </memberdef>
+      <memberdef kind="function" id="class_application___green___quake_1_1_views_1_1_profile_page_1_1_badge_pop_up_1a1abe45802fa06fd72167312c238fdd1c" prot="private" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void Application_Green_Quake.Views.ProfilePage.BadgePopUp.InitializeComponent</definition>
+        <argsstring>()</argsstring>
+        <name>InitializeComponent</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake/obj/Release/netstandard2.0/Views/ProfilePage/BadgePopUp.xaml.g.cs" line="32" column="22" bodyfile="Application Green Quake/obj/Release/netstandard2.0/Views/ProfilePage/BadgePopUp.xaml.g.cs" bodystart="32" bodyend="38"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="public-func">
+      <memberdef kind="function" id="class_application___green___quake_1_1_views_1_1_profile_page_1_1_badge_pop_up_1ad4c0eb02bf4d05588cf74ab0f6026dc8" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>Application_Green_Quake.Views.ProfilePage.BadgePopUp.BadgePopUp</definition>
+        <argsstring>(int number, int stage)</argsstring>
+        <name>BadgePopUp</name>
+        <param>
+          <type>int</type>
+          <declname>number</declname>
+        </param>
+        <param>
+          <type>int</type>
+          <declname>stage</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+<para><ref refid="class_the" kindref="compound">The</ref> <ref refid="class_application___green___quake_1_1_views_1_1_profile_page_1_1_badge_pop_up" kindref="compound">BadgePopUp</ref> Constructor <parameterlist kind="param"><parameteritem>
+<parameternamelist>
+<parametername>number</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>is used to specify which badge it is </para>
+</parameterdescription>
+</parameteritem>
+<parameteritem>
+<parameternamelist>
+<parametername>stage</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>is used to specify what stage the badge is in </para>
+</parameterdescription>
+</parameteritem>
+</parameterlist>
+</para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake/Views/ProfilePage/BadgePopUp.xaml.cs" line="23" column="16" bodyfile="Application Green Quake/Views/ProfilePage/BadgePopUp.xaml.cs" bodystart="23" bodyend="29"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="protected-func">
+      <memberdef kind="function" id="class_application___green___quake_1_1_views_1_1_profile_page_1_1_badge_pop_up_1a37be51ea45086032c498aa93828c0991" prot="protected" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>override void</type>
+        <definition>override void Application_Green_Quake.Views.ProfilePage.BadgePopUp.OnAppearing</definition>
+        <argsstring>()</argsstring>
+        <name>OnAppearing</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+<para>This function is called before the page is displayed. It displays the correct information and badge based on what was passed into the constructor </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake/Views/ProfilePage/BadgePopUp.xaml.cs" line="33" column="33" bodyfile="Application Green Quake/Views/ProfilePage/BadgePopUp.xaml.cs" bodystart="33" bodyend="551"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <inheritancegraph>
+      <node id="2">
+        <label>global::RgPlugins::Popup::Pages::PopupPage</label>
+      </node>
+      <node id="1">
+        <label>Application_Green_Quake.Views.ProfilePage.BadgePopUp</label>
+        <link refid="class_application___green___quake_1_1_views_1_1_profile_page_1_1_badge_pop_up"/>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+      </node>
+    </inheritancegraph>
+    <collaborationgraph>
+      <node id="2">
+        <label>global::RgPlugins::Popup::Pages::PopupPage</label>
+      </node>
+      <node id="1">
+        <label>Application_Green_Quake.Views.ProfilePage.BadgePopUp</label>
+        <link refid="class_application___green___quake_1_1_views_1_1_profile_page_1_1_badge_pop_up"/>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+      </node>
+    </collaborationgraph>
+    <location file="Application Green Quake/obj/Debug/netstandard2.0/Views/ProfilePage/BadgePopUp.xaml.g.cs" line="17" column="19" bodyfile="Application Green Quake/obj/Debug/netstandard2.0/Views/ProfilePage/BadgePopUp.xaml.g.cs" bodystart="17" bodyend="39"/>
+    <listofallmembers>
+      <member refid="class_application___green___quake_1_1_views_1_1_profile_page_1_1_badge_pop_up_1a5e4c93f16c26ec00b46cbf81cf507ccc" prot="private" virt="non-virtual"><scope>Application_Green_Quake::Views::ProfilePage::BadgePopUp</scope><name>badge</name></member>
+      <member refid="class_application___green___quake_1_1_views_1_1_profile_page_1_1_badge_pop_up_1a21a39e55d84e9722081e5aabd5fda9ae" prot="private" virt="non-virtual"><scope>Application_Green_Quake::Views::ProfilePage::BadgePopUp</scope><name>badgeHeading</name></member>
+      <member refid="class_application___green___quake_1_1_views_1_1_profile_page_1_1_badge_pop_up_1ad4c0eb02bf4d05588cf74ab0f6026dc8" prot="public" virt="non-virtual"><scope>Application_Green_Quake::Views::ProfilePage::BadgePopUp</scope><name>BadgePopUp</name></member>
+      <member refid="class_application___green___quake_1_1_views_1_1_profile_page_1_1_badge_pop_up_1a2de36809104f707b947534493a51bfd5" prot="private" virt="non-virtual"><scope>Application_Green_Quake::Views::ProfilePage::BadgePopUp</scope><name>badgeState</name></member>
+      <member refid="class_application___green___quake_1_1_views_1_1_profile_page_1_1_badge_pop_up_1a1245f1fa325935e3646be3168ec4c7c3" prot="private" virt="non-virtual"><scope>Application_Green_Quake::Views::ProfilePage::BadgePopUp</scope><name>badgeSubHeading</name></member>
+      <member refid="class_application___green___quake_1_1_views_1_1_profile_page_1_1_badge_pop_up_1a719182b3ac0adfe0a4ff1ad6fe51079c" prot="private" virt="non-virtual"><scope>Application_Green_Quake::Views::ProfilePage::BadgePopUp</scope><name>badgeTxt</name></member>
+      <member refid="class_application___green___quake_1_1_views_1_1_profile_page_1_1_badge_pop_up_1a1abe45802fa06fd72167312c238fdd1c" prot="private" virt="non-virtual"><scope>Application_Green_Quake::Views::ProfilePage::BadgePopUp</scope><name>InitializeComponent</name></member>
+      <member refid="class_application___green___quake_1_1_views_1_1_profile_page_1_1_badge_pop_up_1a1abe45802fa06fd72167312c238fdd1c" prot="private" virt="non-virtual"><scope>Application_Green_Quake::Views::ProfilePage::BadgePopUp</scope><name>InitializeComponent</name></member>
+      <member refid="class_application___green___quake_1_1_views_1_1_profile_page_1_1_badge_pop_up_1ad85451ef3b639cf591729f7c62ff238d" prot="private" virt="non-virtual"><scope>Application_Green_Quake::Views::ProfilePage::BadgePopUp</scope><name>num</name></member>
+      <member refid="class_application___green___quake_1_1_views_1_1_profile_page_1_1_badge_pop_up_1a37be51ea45086032c498aa93828c0991" prot="protected" virt="non-virtual"><scope>Application_Green_Quake::Views::ProfilePage::BadgePopUp</scope><name>OnAppearing</name></member>
+    </listofallmembers>
+  </compounddef>
+</doxygen>

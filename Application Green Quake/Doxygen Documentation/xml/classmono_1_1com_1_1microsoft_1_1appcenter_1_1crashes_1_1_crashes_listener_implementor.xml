@@ -1,0 +1,664 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.9.1" xml:lang="en-US">
+  <compounddef id="classmono_1_1com_1_1microsoft_1_1appcenter_1_1crashes_1_1_crashes_listener_implementor" kind="class" language="Java" prot="public">
+    <compoundname>mono::com::microsoft::appcenter::crashes::CrashesListenerImplementor</compoundname>
+    <basecompoundref prot="public" virt="non-virtual">java.lang.Object</basecompoundref>
+    <basecompoundref prot="public" virt="non-virtual">mono.android.IGCUserPeer</basecompoundref>
+    <basecompoundref prot="public" virt="non-virtual">com.microsoft.appcenter.crashes.CrashesListener</basecompoundref>
+    <basecompoundref prot="public" virt="non-virtual">java.lang.Object</basecompoundref>
+    <basecompoundref prot="public" virt="non-virtual">mono.android.IGCUserPeer</basecompoundref>
+    <basecompoundref prot="public" virt="non-virtual">com.microsoft.appcenter.crashes.CrashesListener</basecompoundref>
+      <sectiondef kind="public-static-attrib">
+      <memberdef kind="variable" id="classmono_1_1com_1_1microsoft_1_1appcenter_1_1crashes_1_1_crashes_listener_implementor_1adfac6899da401f27007a7512c567cfbb" prot="public" static="yes" mutable="no">
+        <type>final String</type>
+        <definition>static final String mono.com.microsoft.appcenter.crashes.CrashesListenerImplementor::__md_methods</definition>
+        <argsstring></argsstring>
+        <name>__md_methods</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+<para>@hide </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/110/android/src/mono/com/microsoft/appcenter/crashes/CrashesListenerImplementor.java" line="11" column="28" bodyfile="Application Green Quake.Android/obj/Debug/110/android/src/mono/com/microsoft/appcenter/crashes/CrashesListenerImplementor.java" bodystart="11" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="private-attrib">
+      <memberdef kind="variable" id="classmono_1_1com_1_1microsoft_1_1appcenter_1_1crashes_1_1_crashes_listener_implementor_1a45f56c7b4cb533219531a4f456dd39d0" prot="private" static="no" mutable="no">
+        <type>java.util.ArrayList</type>
+        <definition>java util ArrayList mono.com.microsoft.appcenter.crashes.CrashesListenerImplementor::refList</definition>
+        <argsstring></argsstring>
+        <name>refList</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/110/android/src/mono/com/microsoft/appcenter/crashes/CrashesListenerImplementor.java" line="80" column="27" bodyfile="Application Green Quake.Android/obj/Debug/110/android/src/mono/com/microsoft/appcenter/crashes/CrashesListenerImplementor.java" bodystart="80" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="package-static-func">
+      <memberdef kind="function" id="classmono_1_1com_1_1microsoft_1_1appcenter_1_1crashes_1_1_crashes_listener_implementor_1a4a5be5ba7ae9a379f0937443968bbcca" prot="package" static="yes" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>mono.com.microsoft.appcenter.crashes.CrashesListenerImplementor.[static initializer]</definition>
+        <argsstring></argsstring>
+        <name>[static initializer]</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/110/android/src/mono/com/microsoft/appcenter/crashes/CrashesListenerImplementor.java" line="11" column="28"/>
+      </memberdef>
+      <memberdef kind="function" id="classmono_1_1com_1_1microsoft_1_1appcenter_1_1crashes_1_1_crashes_listener_implementor_1a4a5be5ba7ae9a379f0937443968bbcca" prot="package" static="yes" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>mono.com.microsoft.appcenter.crashes.CrashesListenerImplementor.[static initializer]</definition>
+        <argsstring></argsstring>
+        <name>[static initializer]</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/110/android/src/mono/com/microsoft/appcenter/crashes/CrashesListenerImplementor.java" line="11" column="28"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="public-func">
+      <memberdef kind="function" id="classmono_1_1com_1_1microsoft_1_1appcenter_1_1crashes_1_1_crashes_listener_implementor_1ae745340497811487f817172d69a2cb6d" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>mono.com.microsoft.appcenter.crashes.CrashesListenerImplementor.CrashesListenerImplementor</definition>
+        <argsstring>()</argsstring>
+        <name>CrashesListenerImplementor</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/110/android/src/mono/com/microsoft/appcenter/crashes/CrashesListenerImplementor.java" line="25" column="8" bodyfile="Application Green Quake.Android/obj/Debug/110/android/src/mono/com/microsoft/appcenter/crashes/CrashesListenerImplementor.java" bodystart="25" bodyend="30"/>
+      </memberdef>
+      <memberdef kind="function" id="classmono_1_1com_1_1microsoft_1_1appcenter_1_1crashes_1_1_crashes_listener_implementor_1a9c5161d49cc8f425a55b3bc2040b08a5" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>java.lang.Iterable</type>
+        <definition>java.lang.Iterable mono.com.microsoft.appcenter.crashes.CrashesListenerImplementor.getErrorAttachments</definition>
+        <argsstring>(com.microsoft.appcenter.crashes.model.ErrorReport p0)</argsstring>
+        <name>getErrorAttachments</name>
+        <param>
+          <type>com.microsoft.appcenter.crashes.model.ErrorReport</type>
+          <declname>p0</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/110/android/src/mono/com/microsoft/appcenter/crashes/CrashesListenerImplementor.java" line="33" column="25" bodyfile="Application Green Quake.Android/obj/Debug/110/android/src/mono/com/microsoft/appcenter/crashes/CrashesListenerImplementor.java" bodystart="33" bodyend="36"/>
+      </memberdef>
+      <memberdef kind="function" id="classmono_1_1com_1_1microsoft_1_1appcenter_1_1crashes_1_1_crashes_listener_implementor_1ae23ff0cdac08e989b45da1c03447cc27" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void mono.com.microsoft.appcenter.crashes.CrashesListenerImplementor.onBeforeSending</definition>
+        <argsstring>(com.microsoft.appcenter.crashes.model.ErrorReport p0)</argsstring>
+        <name>onBeforeSending</name>
+        <param>
+          <type>com.microsoft.appcenter.crashes.model.ErrorReport</type>
+          <declname>p0</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/110/android/src/mono/com/microsoft/appcenter/crashes/CrashesListenerImplementor.java" line="41" column="13" bodyfile="Application Green Quake.Android/obj/Debug/110/android/src/mono/com/microsoft/appcenter/crashes/CrashesListenerImplementor.java" bodystart="41" bodyend="44"/>
+      </memberdef>
+      <memberdef kind="function" id="classmono_1_1com_1_1microsoft_1_1appcenter_1_1crashes_1_1_crashes_listener_implementor_1a5a1478d9f4cd14750c0b8026fc9d8e1b" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void mono.com.microsoft.appcenter.crashes.CrashesListenerImplementor.onSendingFailed</definition>
+        <argsstring>(com.microsoft.appcenter.crashes.model.ErrorReport p0, java.lang.Exception p1)</argsstring>
+        <name>onSendingFailed</name>
+        <param>
+          <type>com.microsoft.appcenter.crashes.model.ErrorReport</type>
+          <declname>p0</declname>
+        </param>
+        <param>
+          <type>java.lang.Exception</type>
+          <declname>p1</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/110/android/src/mono/com/microsoft/appcenter/crashes/CrashesListenerImplementor.java" line="49" column="13" bodyfile="Application Green Quake.Android/obj/Debug/110/android/src/mono/com/microsoft/appcenter/crashes/CrashesListenerImplementor.java" bodystart="49" bodyend="52"/>
+      </memberdef>
+      <memberdef kind="function" id="classmono_1_1com_1_1microsoft_1_1appcenter_1_1crashes_1_1_crashes_listener_implementor_1a9faff7480a7d2a164ff59584f66df38e" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void mono.com.microsoft.appcenter.crashes.CrashesListenerImplementor.onSendingSucceeded</definition>
+        <argsstring>(com.microsoft.appcenter.crashes.model.ErrorReport p0)</argsstring>
+        <name>onSendingSucceeded</name>
+        <param>
+          <type>com.microsoft.appcenter.crashes.model.ErrorReport</type>
+          <declname>p0</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/110/android/src/mono/com/microsoft/appcenter/crashes/CrashesListenerImplementor.java" line="57" column="13" bodyfile="Application Green Quake.Android/obj/Debug/110/android/src/mono/com/microsoft/appcenter/crashes/CrashesListenerImplementor.java" bodystart="57" bodyend="60"/>
+      </memberdef>
+      <memberdef kind="function" id="classmono_1_1com_1_1microsoft_1_1appcenter_1_1crashes_1_1_crashes_listener_implementor_1a66ae3705e8a51d049f499b6084f37edc" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>boolean</type>
+        <definition>boolean mono.com.microsoft.appcenter.crashes.CrashesListenerImplementor.shouldAwaitUserConfirmation</definition>
+        <argsstring>()</argsstring>
+        <name>shouldAwaitUserConfirmation</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/110/android/src/mono/com/microsoft/appcenter/crashes/CrashesListenerImplementor.java" line="65" column="16" bodyfile="Application Green Quake.Android/obj/Debug/110/android/src/mono/com/microsoft/appcenter/crashes/CrashesListenerImplementor.java" bodystart="65" bodyend="68"/>
+      </memberdef>
+      <memberdef kind="function" id="classmono_1_1com_1_1microsoft_1_1appcenter_1_1crashes_1_1_crashes_listener_implementor_1a9ac31bf72453062181e99502e2e8f5d8" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>boolean</type>
+        <definition>boolean mono.com.microsoft.appcenter.crashes.CrashesListenerImplementor.shouldProcess</definition>
+        <argsstring>(com.microsoft.appcenter.crashes.model.ErrorReport p0)</argsstring>
+        <name>shouldProcess</name>
+        <param>
+          <type>com.microsoft.appcenter.crashes.model.ErrorReport</type>
+          <declname>p0</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/110/android/src/mono/com/microsoft/appcenter/crashes/CrashesListenerImplementor.java" line="73" column="16" bodyfile="Application Green Quake.Android/obj/Debug/110/android/src/mono/com/microsoft/appcenter/crashes/CrashesListenerImplementor.java" bodystart="73" bodyend="76"/>
+      </memberdef>
+      <memberdef kind="function" id="classmono_1_1com_1_1microsoft_1_1appcenter_1_1crashes_1_1_crashes_listener_implementor_1a6682809d67059749d3147e35671c7866" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void mono.com.microsoft.appcenter.crashes.CrashesListenerImplementor.monodroidAddReference</definition>
+        <argsstring>(java.lang.Object obj)</argsstring>
+        <name>monodroidAddReference</name>
+        <param>
+          <type>java.lang.Object</type>
+          <declname>obj</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/110/android/src/mono/com/microsoft/appcenter/crashes/CrashesListenerImplementor.java" line="81" column="13" bodyfile="Application Green Quake.Android/obj/Debug/110/android/src/mono/com/microsoft/appcenter/crashes/CrashesListenerImplementor.java" bodystart="81" bodyend="86"/>
+      </memberdef>
+      <memberdef kind="function" id="classmono_1_1com_1_1microsoft_1_1appcenter_1_1crashes_1_1_crashes_listener_implementor_1a932b2082ce52b2061cd88fdcda18324c" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void mono.com.microsoft.appcenter.crashes.CrashesListenerImplementor.monodroidClearReferences</definition>
+        <argsstring>()</argsstring>
+        <name>monodroidClearReferences</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/110/android/src/mono/com/microsoft/appcenter/crashes/CrashesListenerImplementor.java" line="88" column="13" bodyfile="Application Green Quake.Android/obj/Debug/110/android/src/mono/com/microsoft/appcenter/crashes/CrashesListenerImplementor.java" bodystart="88" bodyend="92"/>
+      </memberdef>
+      <memberdef kind="function" id="classmono_1_1com_1_1microsoft_1_1appcenter_1_1crashes_1_1_crashes_listener_implementor_1ae745340497811487f817172d69a2cb6d" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>mono.com.microsoft.appcenter.crashes.CrashesListenerImplementor.CrashesListenerImplementor</definition>
+        <argsstring>()</argsstring>
+        <name>CrashesListenerImplementor</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/110/android/src/mono/com/microsoft/appcenter/crashes/CrashesListenerImplementor.java" line="25" column="8" bodyfile="Application Green Quake.Android/obj/Release/110/android/src/mono/com/microsoft/appcenter/crashes/CrashesListenerImplementor.java" bodystart="25" bodyend="30"/>
+      </memberdef>
+      <memberdef kind="function" id="classmono_1_1com_1_1microsoft_1_1appcenter_1_1crashes_1_1_crashes_listener_implementor_1a9c5161d49cc8f425a55b3bc2040b08a5" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>java.lang.Iterable</type>
+        <definition>java.lang.Iterable mono.com.microsoft.appcenter.crashes.CrashesListenerImplementor.getErrorAttachments</definition>
+        <argsstring>(com.microsoft.appcenter.crashes.model.ErrorReport p0)</argsstring>
+        <name>getErrorAttachments</name>
+        <param>
+          <type>com.microsoft.appcenter.crashes.model.ErrorReport</type>
+          <declname>p0</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/110/android/src/mono/com/microsoft/appcenter/crashes/CrashesListenerImplementor.java" line="33" column="25" bodyfile="Application Green Quake.Android/obj/Release/110/android/src/mono/com/microsoft/appcenter/crashes/CrashesListenerImplementor.java" bodystart="33" bodyend="36"/>
+      </memberdef>
+      <memberdef kind="function" id="classmono_1_1com_1_1microsoft_1_1appcenter_1_1crashes_1_1_crashes_listener_implementor_1ae23ff0cdac08e989b45da1c03447cc27" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void mono.com.microsoft.appcenter.crashes.CrashesListenerImplementor.onBeforeSending</definition>
+        <argsstring>(com.microsoft.appcenter.crashes.model.ErrorReport p0)</argsstring>
+        <name>onBeforeSending</name>
+        <param>
+          <type>com.microsoft.appcenter.crashes.model.ErrorReport</type>
+          <declname>p0</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/110/android/src/mono/com/microsoft/appcenter/crashes/CrashesListenerImplementor.java" line="41" column="13" bodyfile="Application Green Quake.Android/obj/Release/110/android/src/mono/com/microsoft/appcenter/crashes/CrashesListenerImplementor.java" bodystart="41" bodyend="44"/>
+      </memberdef>
+      <memberdef kind="function" id="classmono_1_1com_1_1microsoft_1_1appcenter_1_1crashes_1_1_crashes_listener_implementor_1a5a1478d9f4cd14750c0b8026fc9d8e1b" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void mono.com.microsoft.appcenter.crashes.CrashesListenerImplementor.onSendingFailed</definition>
+        <argsstring>(com.microsoft.appcenter.crashes.model.ErrorReport p0, java.lang.Exception p1)</argsstring>
+        <name>onSendingFailed</name>
+        <param>
+          <type>com.microsoft.appcenter.crashes.model.ErrorReport</type>
+          <declname>p0</declname>
+        </param>
+        <param>
+          <type>java.lang.Exception</type>
+          <declname>p1</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/110/android/src/mono/com/microsoft/appcenter/crashes/CrashesListenerImplementor.java" line="49" column="13" bodyfile="Application Green Quake.Android/obj/Release/110/android/src/mono/com/microsoft/appcenter/crashes/CrashesListenerImplementor.java" bodystart="49" bodyend="52"/>
+      </memberdef>
+      <memberdef kind="function" id="classmono_1_1com_1_1microsoft_1_1appcenter_1_1crashes_1_1_crashes_listener_implementor_1a9faff7480a7d2a164ff59584f66df38e" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void mono.com.microsoft.appcenter.crashes.CrashesListenerImplementor.onSendingSucceeded</definition>
+        <argsstring>(com.microsoft.appcenter.crashes.model.ErrorReport p0)</argsstring>
+        <name>onSendingSucceeded</name>
+        <param>
+          <type>com.microsoft.appcenter.crashes.model.ErrorReport</type>
+          <declname>p0</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/110/android/src/mono/com/microsoft/appcenter/crashes/CrashesListenerImplementor.java" line="57" column="13" bodyfile="Application Green Quake.Android/obj/Release/110/android/src/mono/com/microsoft/appcenter/crashes/CrashesListenerImplementor.java" bodystart="57" bodyend="60"/>
+      </memberdef>
+      <memberdef kind="function" id="classmono_1_1com_1_1microsoft_1_1appcenter_1_1crashes_1_1_crashes_listener_implementor_1a66ae3705e8a51d049f499b6084f37edc" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>boolean</type>
+        <definition>boolean mono.com.microsoft.appcenter.crashes.CrashesListenerImplementor.shouldAwaitUserConfirmation</definition>
+        <argsstring>()</argsstring>
+        <name>shouldAwaitUserConfirmation</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/110/android/src/mono/com/microsoft/appcenter/crashes/CrashesListenerImplementor.java" line="65" column="16" bodyfile="Application Green Quake.Android/obj/Release/110/android/src/mono/com/microsoft/appcenter/crashes/CrashesListenerImplementor.java" bodystart="65" bodyend="68"/>
+      </memberdef>
+      <memberdef kind="function" id="classmono_1_1com_1_1microsoft_1_1appcenter_1_1crashes_1_1_crashes_listener_implementor_1a9ac31bf72453062181e99502e2e8f5d8" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>boolean</type>
+        <definition>boolean mono.com.microsoft.appcenter.crashes.CrashesListenerImplementor.shouldProcess</definition>
+        <argsstring>(com.microsoft.appcenter.crashes.model.ErrorReport p0)</argsstring>
+        <name>shouldProcess</name>
+        <param>
+          <type>com.microsoft.appcenter.crashes.model.ErrorReport</type>
+          <declname>p0</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/110/android/src/mono/com/microsoft/appcenter/crashes/CrashesListenerImplementor.java" line="73" column="16" bodyfile="Application Green Quake.Android/obj/Release/110/android/src/mono/com/microsoft/appcenter/crashes/CrashesListenerImplementor.java" bodystart="73" bodyend="76"/>
+      </memberdef>
+      <memberdef kind="function" id="classmono_1_1com_1_1microsoft_1_1appcenter_1_1crashes_1_1_crashes_listener_implementor_1a6682809d67059749d3147e35671c7866" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void mono.com.microsoft.appcenter.crashes.CrashesListenerImplementor.monodroidAddReference</definition>
+        <argsstring>(java.lang.Object obj)</argsstring>
+        <name>monodroidAddReference</name>
+        <param>
+          <type>java.lang.Object</type>
+          <declname>obj</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/110/android/src/mono/com/microsoft/appcenter/crashes/CrashesListenerImplementor.java" line="81" column="13" bodyfile="Application Green Quake.Android/obj/Release/110/android/src/mono/com/microsoft/appcenter/crashes/CrashesListenerImplementor.java" bodystart="81" bodyend="86"/>
+      </memberdef>
+      <memberdef kind="function" id="classmono_1_1com_1_1microsoft_1_1appcenter_1_1crashes_1_1_crashes_listener_implementor_1a932b2082ce52b2061cd88fdcda18324c" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void mono.com.microsoft.appcenter.crashes.CrashesListenerImplementor.monodroidClearReferences</definition>
+        <argsstring>()</argsstring>
+        <name>monodroidClearReferences</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/110/android/src/mono/com/microsoft/appcenter/crashes/CrashesListenerImplementor.java" line="88" column="13" bodyfile="Application Green Quake.Android/obj/Release/110/android/src/mono/com/microsoft/appcenter/crashes/CrashesListenerImplementor.java" bodystart="88" bodyend="92"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="private-func">
+      <memberdef kind="function" id="classmono_1_1com_1_1microsoft_1_1appcenter_1_1crashes_1_1_crashes_listener_implementor_1abc959f1bb854261daa970be2685addab" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>native java.lang.Iterable</type>
+        <definition>native java.lang.Iterable mono.com.microsoft.appcenter.crashes.CrashesListenerImplementor.n_getErrorAttachments</definition>
+        <argsstring>(com.microsoft.appcenter.crashes.model.ErrorReport p0)</argsstring>
+        <name>n_getErrorAttachments</name>
+        <param>
+          <type>com.microsoft.appcenter.crashes.model.ErrorReport</type>
+          <declname>p0</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/110/android/src/mono/com/microsoft/appcenter/crashes/CrashesListenerImplementor.java" line="38" column="33"/>
+      </memberdef>
+      <memberdef kind="function" id="classmono_1_1com_1_1microsoft_1_1appcenter_1_1crashes_1_1_crashes_listener_implementor_1a827aa5d7a74853078bdbfe76c9ae8ccf" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>native void</type>
+        <definition>native void mono.com.microsoft.appcenter.crashes.CrashesListenerImplementor.n_onBeforeSending</definition>
+        <argsstring>(com.microsoft.appcenter.crashes.model.ErrorReport p0)</argsstring>
+        <name>n_onBeforeSending</name>
+        <param>
+          <type>com.microsoft.appcenter.crashes.model.ErrorReport</type>
+          <declname>p0</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/110/android/src/mono/com/microsoft/appcenter/crashes/CrashesListenerImplementor.java" line="46" column="21"/>
+      </memberdef>
+      <memberdef kind="function" id="classmono_1_1com_1_1microsoft_1_1appcenter_1_1crashes_1_1_crashes_listener_implementor_1a115614e3d1f7e2b83fc21eb6f906f2f5" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>native void</type>
+        <definition>native void mono.com.microsoft.appcenter.crashes.CrashesListenerImplementor.n_onSendingFailed</definition>
+        <argsstring>(com.microsoft.appcenter.crashes.model.ErrorReport p0, java.lang.Exception p1)</argsstring>
+        <name>n_onSendingFailed</name>
+        <param>
+          <type>com.microsoft.appcenter.crashes.model.ErrorReport</type>
+          <declname>p0</declname>
+        </param>
+        <param>
+          <type>java.lang.Exception</type>
+          <declname>p1</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/110/android/src/mono/com/microsoft/appcenter/crashes/CrashesListenerImplementor.java" line="54" column="21"/>
+      </memberdef>
+      <memberdef kind="function" id="classmono_1_1com_1_1microsoft_1_1appcenter_1_1crashes_1_1_crashes_listener_implementor_1a6ced0410c284dda26fa3d4c5fb711f3b" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>native void</type>
+        <definition>native void mono.com.microsoft.appcenter.crashes.CrashesListenerImplementor.n_onSendingSucceeded</definition>
+        <argsstring>(com.microsoft.appcenter.crashes.model.ErrorReport p0)</argsstring>
+        <name>n_onSendingSucceeded</name>
+        <param>
+          <type>com.microsoft.appcenter.crashes.model.ErrorReport</type>
+          <declname>p0</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/110/android/src/mono/com/microsoft/appcenter/crashes/CrashesListenerImplementor.java" line="62" column="21"/>
+      </memberdef>
+      <memberdef kind="function" id="classmono_1_1com_1_1microsoft_1_1appcenter_1_1crashes_1_1_crashes_listener_implementor_1a436db16fbbc6a44832190bd81e660571" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>native boolean</type>
+        <definition>native boolean mono.com.microsoft.appcenter.crashes.CrashesListenerImplementor.n_shouldAwaitUserConfirmation</definition>
+        <argsstring>()</argsstring>
+        <name>n_shouldAwaitUserConfirmation</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/110/android/src/mono/com/microsoft/appcenter/crashes/CrashesListenerImplementor.java" line="70" column="24"/>
+      </memberdef>
+      <memberdef kind="function" id="classmono_1_1com_1_1microsoft_1_1appcenter_1_1crashes_1_1_crashes_listener_implementor_1a447dc5d8549be3cce431950c1df4185d" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>native boolean</type>
+        <definition>native boolean mono.com.microsoft.appcenter.crashes.CrashesListenerImplementor.n_shouldProcess</definition>
+        <argsstring>(com.microsoft.appcenter.crashes.model.ErrorReport p0)</argsstring>
+        <name>n_shouldProcess</name>
+        <param>
+          <type>com.microsoft.appcenter.crashes.model.ErrorReport</type>
+          <declname>p0</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/110/android/src/mono/com/microsoft/appcenter/crashes/CrashesListenerImplementor.java" line="78" column="24"/>
+      </memberdef>
+      <memberdef kind="function" id="classmono_1_1com_1_1microsoft_1_1appcenter_1_1crashes_1_1_crashes_listener_implementor_1abc959f1bb854261daa970be2685addab" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>native java.lang.Iterable</type>
+        <definition>native java.lang.Iterable mono.com.microsoft.appcenter.crashes.CrashesListenerImplementor.n_getErrorAttachments</definition>
+        <argsstring>(com.microsoft.appcenter.crashes.model.ErrorReport p0)</argsstring>
+        <name>n_getErrorAttachments</name>
+        <param>
+          <type>com.microsoft.appcenter.crashes.model.ErrorReport</type>
+          <declname>p0</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/110/android/src/mono/com/microsoft/appcenter/crashes/CrashesListenerImplementor.java" line="38" column="33"/>
+      </memberdef>
+      <memberdef kind="function" id="classmono_1_1com_1_1microsoft_1_1appcenter_1_1crashes_1_1_crashes_listener_implementor_1a827aa5d7a74853078bdbfe76c9ae8ccf" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>native void</type>
+        <definition>native void mono.com.microsoft.appcenter.crashes.CrashesListenerImplementor.n_onBeforeSending</definition>
+        <argsstring>(com.microsoft.appcenter.crashes.model.ErrorReport p0)</argsstring>
+        <name>n_onBeforeSending</name>
+        <param>
+          <type>com.microsoft.appcenter.crashes.model.ErrorReport</type>
+          <declname>p0</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/110/android/src/mono/com/microsoft/appcenter/crashes/CrashesListenerImplementor.java" line="46" column="21"/>
+      </memberdef>
+      <memberdef kind="function" id="classmono_1_1com_1_1microsoft_1_1appcenter_1_1crashes_1_1_crashes_listener_implementor_1a115614e3d1f7e2b83fc21eb6f906f2f5" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>native void</type>
+        <definition>native void mono.com.microsoft.appcenter.crashes.CrashesListenerImplementor.n_onSendingFailed</definition>
+        <argsstring>(com.microsoft.appcenter.crashes.model.ErrorReport p0, java.lang.Exception p1)</argsstring>
+        <name>n_onSendingFailed</name>
+        <param>
+          <type>com.microsoft.appcenter.crashes.model.ErrorReport</type>
+          <declname>p0</declname>
+        </param>
+        <param>
+          <type>java.lang.Exception</type>
+          <declname>p1</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/110/android/src/mono/com/microsoft/appcenter/crashes/CrashesListenerImplementor.java" line="54" column="21"/>
+      </memberdef>
+      <memberdef kind="function" id="classmono_1_1com_1_1microsoft_1_1appcenter_1_1crashes_1_1_crashes_listener_implementor_1a6ced0410c284dda26fa3d4c5fb711f3b" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>native void</type>
+        <definition>native void mono.com.microsoft.appcenter.crashes.CrashesListenerImplementor.n_onSendingSucceeded</definition>
+        <argsstring>(com.microsoft.appcenter.crashes.model.ErrorReport p0)</argsstring>
+        <name>n_onSendingSucceeded</name>
+        <param>
+          <type>com.microsoft.appcenter.crashes.model.ErrorReport</type>
+          <declname>p0</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/110/android/src/mono/com/microsoft/appcenter/crashes/CrashesListenerImplementor.java" line="62" column="21"/>
+      </memberdef>
+      <memberdef kind="function" id="classmono_1_1com_1_1microsoft_1_1appcenter_1_1crashes_1_1_crashes_listener_implementor_1a436db16fbbc6a44832190bd81e660571" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>native boolean</type>
+        <definition>native boolean mono.com.microsoft.appcenter.crashes.CrashesListenerImplementor.n_shouldAwaitUserConfirmation</definition>
+        <argsstring>()</argsstring>
+        <name>n_shouldAwaitUserConfirmation</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/110/android/src/mono/com/microsoft/appcenter/crashes/CrashesListenerImplementor.java" line="70" column="24"/>
+      </memberdef>
+      <memberdef kind="function" id="classmono_1_1com_1_1microsoft_1_1appcenter_1_1crashes_1_1_crashes_listener_implementor_1a447dc5d8549be3cce431950c1df4185d" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>native boolean</type>
+        <definition>native boolean mono.com.microsoft.appcenter.crashes.CrashesListenerImplementor.n_shouldProcess</definition>
+        <argsstring>(com.microsoft.appcenter.crashes.model.ErrorReport p0)</argsstring>
+        <name>n_shouldProcess</name>
+        <param>
+          <type>com.microsoft.appcenter.crashes.model.ErrorReport</type>
+          <declname>p0</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/110/android/src/mono/com/microsoft/appcenter/crashes/CrashesListenerImplementor.java" line="78" column="24"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <inheritancegraph>
+      <node id="1">
+        <label>mono.com.microsoft.appcenter.crashes.CrashesListenerImplementor</label>
+        <link refid="classmono_1_1com_1_1microsoft_1_1appcenter_1_1crashes_1_1_crashes_listener_implementor"/>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+        <childnode refid="3" relation="public-inheritance">
+        </childnode>
+        <childnode refid="4" relation="public-inheritance">
+        </childnode>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+        <childnode refid="3" relation="public-inheritance">
+        </childnode>
+        <childnode refid="4" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="4">
+        <label>com.microsoft.appcenter.crashes.CrashesListener</label>
+      </node>
+      <node id="3">
+        <label>mono.android.IGCUserPeer</label>
+      </node>
+      <node id="2">
+        <label>java.lang.Object</label>
+      </node>
+    </inheritancegraph>
+    <collaborationgraph>
+      <node id="1">
+        <label>mono.com.microsoft.appcenter.crashes.CrashesListenerImplementor</label>
+        <link refid="classmono_1_1com_1_1microsoft_1_1appcenter_1_1crashes_1_1_crashes_listener_implementor"/>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+        <childnode refid="3" relation="public-inheritance">
+        </childnode>
+        <childnode refid="4" relation="public-inheritance">
+        </childnode>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+        <childnode refid="3" relation="public-inheritance">
+        </childnode>
+        <childnode refid="4" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="4">
+        <label>com.microsoft.appcenter.crashes.CrashesListener</label>
+      </node>
+      <node id="3">
+        <label>mono.android.IGCUserPeer</label>
+      </node>
+      <node id="2">
+        <label>java.lang.Object</label>
+      </node>
+    </collaborationgraph>
+    <location file="Application Green Quake.Android/obj/Debug/110/android/src/mono/com/microsoft/appcenter/crashes/CrashesListenerImplementor.java" line="4" column="7" bodyfile="Application Green Quake.Android/obj/Debug/110/android/src/mono/com/microsoft/appcenter/crashes/CrashesListenerImplementor.java" bodystart="9" bodyend="93"/>
+    <listofallmembers>
+      <member refid="classmono_1_1com_1_1microsoft_1_1appcenter_1_1crashes_1_1_crashes_listener_implementor_1a4a5be5ba7ae9a379f0937443968bbcca" prot="package" virt="non-virtual"><scope>mono::com::microsoft::appcenter::crashes::CrashesListenerImplementor</scope><name>[static initializer]</name></member>
+      <member refid="classmono_1_1com_1_1microsoft_1_1appcenter_1_1crashes_1_1_crashes_listener_implementor_1a4a5be5ba7ae9a379f0937443968bbcca" prot="package" virt="non-virtual"><scope>mono::com::microsoft::appcenter::crashes::CrashesListenerImplementor</scope><name>[static initializer]</name></member>
+      <member refid="classmono_1_1com_1_1microsoft_1_1appcenter_1_1crashes_1_1_crashes_listener_implementor_1adfac6899da401f27007a7512c567cfbb" prot="public" virt="non-virtual"><scope>mono::com::microsoft::appcenter::crashes::CrashesListenerImplementor</scope><name>__md_methods</name></member>
+      <member refid="classmono_1_1com_1_1microsoft_1_1appcenter_1_1crashes_1_1_crashes_listener_implementor_1ae745340497811487f817172d69a2cb6d" prot="public" virt="non-virtual"><scope>mono::com::microsoft::appcenter::crashes::CrashesListenerImplementor</scope><name>CrashesListenerImplementor</name></member>
+      <member refid="classmono_1_1com_1_1microsoft_1_1appcenter_1_1crashes_1_1_crashes_listener_implementor_1ae745340497811487f817172d69a2cb6d" prot="public" virt="non-virtual"><scope>mono::com::microsoft::appcenter::crashes::CrashesListenerImplementor</scope><name>CrashesListenerImplementor</name></member>
+      <member refid="classmono_1_1com_1_1microsoft_1_1appcenter_1_1crashes_1_1_crashes_listener_implementor_1a9c5161d49cc8f425a55b3bc2040b08a5" prot="public" virt="non-virtual"><scope>mono::com::microsoft::appcenter::crashes::CrashesListenerImplementor</scope><name>getErrorAttachments</name></member>
+      <member refid="classmono_1_1com_1_1microsoft_1_1appcenter_1_1crashes_1_1_crashes_listener_implementor_1a9c5161d49cc8f425a55b3bc2040b08a5" prot="public" virt="non-virtual"><scope>mono::com::microsoft::appcenter::crashes::CrashesListenerImplementor</scope><name>getErrorAttachments</name></member>
+      <member refid="classmono_1_1com_1_1microsoft_1_1appcenter_1_1crashes_1_1_crashes_listener_implementor_1a6682809d67059749d3147e35671c7866" prot="public" virt="non-virtual"><scope>mono::com::microsoft::appcenter::crashes::CrashesListenerImplementor</scope><name>monodroidAddReference</name></member>
+      <member refid="classmono_1_1com_1_1microsoft_1_1appcenter_1_1crashes_1_1_crashes_listener_implementor_1a6682809d67059749d3147e35671c7866" prot="public" virt="non-virtual"><scope>mono::com::microsoft::appcenter::crashes::CrashesListenerImplementor</scope><name>monodroidAddReference</name></member>
+      <member refid="classmono_1_1com_1_1microsoft_1_1appcenter_1_1crashes_1_1_crashes_listener_implementor_1a932b2082ce52b2061cd88fdcda18324c" prot="public" virt="non-virtual"><scope>mono::com::microsoft::appcenter::crashes::CrashesListenerImplementor</scope><name>monodroidClearReferences</name></member>
+      <member refid="classmono_1_1com_1_1microsoft_1_1appcenter_1_1crashes_1_1_crashes_listener_implementor_1a932b2082ce52b2061cd88fdcda18324c" prot="public" virt="non-virtual"><scope>mono::com::microsoft::appcenter::crashes::CrashesListenerImplementor</scope><name>monodroidClearReferences</name></member>
+      <member refid="classmono_1_1com_1_1microsoft_1_1appcenter_1_1crashes_1_1_crashes_listener_implementor_1abc959f1bb854261daa970be2685addab" prot="private" virt="non-virtual"><scope>mono::com::microsoft::appcenter::crashes::CrashesListenerImplementor</scope><name>n_getErrorAttachments</name></member>
+      <member refid="classmono_1_1com_1_1microsoft_1_1appcenter_1_1crashes_1_1_crashes_listener_implementor_1abc959f1bb854261daa970be2685addab" prot="private" virt="non-virtual"><scope>mono::com::microsoft::appcenter::crashes::CrashesListenerImplementor</scope><name>n_getErrorAttachments</name></member>
+      <member refid="classmono_1_1com_1_1microsoft_1_1appcenter_1_1crashes_1_1_crashes_listener_implementor_1a827aa5d7a74853078bdbfe76c9ae8ccf" prot="private" virt="non-virtual"><scope>mono::com::microsoft::appcenter::crashes::CrashesListenerImplementor</scope><name>n_onBeforeSending</name></member>
+      <member refid="classmono_1_1com_1_1microsoft_1_1appcenter_1_1crashes_1_1_crashes_listener_implementor_1a827aa5d7a74853078bdbfe76c9ae8ccf" prot="private" virt="non-virtual"><scope>mono::com::microsoft::appcenter::crashes::CrashesListenerImplementor</scope><name>n_onBeforeSending</name></member>
+      <member refid="classmono_1_1com_1_1microsoft_1_1appcenter_1_1crashes_1_1_crashes_listener_implementor_1a115614e3d1f7e2b83fc21eb6f906f2f5" prot="private" virt="non-virtual"><scope>mono::com::microsoft::appcenter::crashes::CrashesListenerImplementor</scope><name>n_onSendingFailed</name></member>
+      <member refid="classmono_1_1com_1_1microsoft_1_1appcenter_1_1crashes_1_1_crashes_listener_implementor_1a115614e3d1f7e2b83fc21eb6f906f2f5" prot="private" virt="non-virtual"><scope>mono::com::microsoft::appcenter::crashes::CrashesListenerImplementor</scope><name>n_onSendingFailed</name></member>
+      <member refid="classmono_1_1com_1_1microsoft_1_1appcenter_1_1crashes_1_1_crashes_listener_implementor_1a6ced0410c284dda26fa3d4c5fb711f3b" prot="private" virt="non-virtual"><scope>mono::com::microsoft::appcenter::crashes::CrashesListenerImplementor</scope><name>n_onSendingSucceeded</name></member>
+      <member refid="classmono_1_1com_1_1microsoft_1_1appcenter_1_1crashes_1_1_crashes_listener_implementor_1a6ced0410c284dda26fa3d4c5fb711f3b" prot="private" virt="non-virtual"><scope>mono::com::microsoft::appcenter::crashes::CrashesListenerImplementor</scope><name>n_onSendingSucceeded</name></member>
+      <member refid="classmono_1_1com_1_1microsoft_1_1appcenter_1_1crashes_1_1_crashes_listener_implementor_1a436db16fbbc6a44832190bd81e660571" prot="private" virt="non-virtual"><scope>mono::com::microsoft::appcenter::crashes::CrashesListenerImplementor</scope><name>n_shouldAwaitUserConfirmation</name></member>
+      <member refid="classmono_1_1com_1_1microsoft_1_1appcenter_1_1crashes_1_1_crashes_listener_implementor_1a436db16fbbc6a44832190bd81e660571" prot="private" virt="non-virtual"><scope>mono::com::microsoft::appcenter::crashes::CrashesListenerImplementor</scope><name>n_shouldAwaitUserConfirmation</name></member>
+      <member refid="classmono_1_1com_1_1microsoft_1_1appcenter_1_1crashes_1_1_crashes_listener_implementor_1a447dc5d8549be3cce431950c1df4185d" prot="private" virt="non-virtual"><scope>mono::com::microsoft::appcenter::crashes::CrashesListenerImplementor</scope><name>n_shouldProcess</name></member>
+      <member refid="classmono_1_1com_1_1microsoft_1_1appcenter_1_1crashes_1_1_crashes_listener_implementor_1a447dc5d8549be3cce431950c1df4185d" prot="private" virt="non-virtual"><scope>mono::com::microsoft::appcenter::crashes::CrashesListenerImplementor</scope><name>n_shouldProcess</name></member>
+      <member refid="classmono_1_1com_1_1microsoft_1_1appcenter_1_1crashes_1_1_crashes_listener_implementor_1ae23ff0cdac08e989b45da1c03447cc27" prot="public" virt="non-virtual"><scope>mono::com::microsoft::appcenter::crashes::CrashesListenerImplementor</scope><name>onBeforeSending</name></member>
+      <member refid="classmono_1_1com_1_1microsoft_1_1appcenter_1_1crashes_1_1_crashes_listener_implementor_1ae23ff0cdac08e989b45da1c03447cc27" prot="public" virt="non-virtual"><scope>mono::com::microsoft::appcenter::crashes::CrashesListenerImplementor</scope><name>onBeforeSending</name></member>
+      <member refid="classmono_1_1com_1_1microsoft_1_1appcenter_1_1crashes_1_1_crashes_listener_implementor_1a5a1478d9f4cd14750c0b8026fc9d8e1b" prot="public" virt="non-virtual"><scope>mono::com::microsoft::appcenter::crashes::CrashesListenerImplementor</scope><name>onSendingFailed</name></member>
+      <member refid="classmono_1_1com_1_1microsoft_1_1appcenter_1_1crashes_1_1_crashes_listener_implementor_1a5a1478d9f4cd14750c0b8026fc9d8e1b" prot="public" virt="non-virtual"><scope>mono::com::microsoft::appcenter::crashes::CrashesListenerImplementor</scope><name>onSendingFailed</name></member>
+      <member refid="classmono_1_1com_1_1microsoft_1_1appcenter_1_1crashes_1_1_crashes_listener_implementor_1a9faff7480a7d2a164ff59584f66df38e" prot="public" virt="non-virtual"><scope>mono::com::microsoft::appcenter::crashes::CrashesListenerImplementor</scope><name>onSendingSucceeded</name></member>
+      <member refid="classmono_1_1com_1_1microsoft_1_1appcenter_1_1crashes_1_1_crashes_listener_implementor_1a9faff7480a7d2a164ff59584f66df38e" prot="public" virt="non-virtual"><scope>mono::com::microsoft::appcenter::crashes::CrashesListenerImplementor</scope><name>onSendingSucceeded</name></member>
+      <member refid="classmono_1_1com_1_1microsoft_1_1appcenter_1_1crashes_1_1_crashes_listener_implementor_1a45f56c7b4cb533219531a4f456dd39d0" prot="private" virt="non-virtual"><scope>mono::com::microsoft::appcenter::crashes::CrashesListenerImplementor</scope><name>refList</name></member>
+      <member refid="classmono_1_1com_1_1microsoft_1_1appcenter_1_1crashes_1_1_crashes_listener_implementor_1a66ae3705e8a51d049f499b6084f37edc" prot="public" virt="non-virtual"><scope>mono::com::microsoft::appcenter::crashes::CrashesListenerImplementor</scope><name>shouldAwaitUserConfirmation</name></member>
+      <member refid="classmono_1_1com_1_1microsoft_1_1appcenter_1_1crashes_1_1_crashes_listener_implementor_1a66ae3705e8a51d049f499b6084f37edc" prot="public" virt="non-virtual"><scope>mono::com::microsoft::appcenter::crashes::CrashesListenerImplementor</scope><name>shouldAwaitUserConfirmation</name></member>
+      <member refid="classmono_1_1com_1_1microsoft_1_1appcenter_1_1crashes_1_1_crashes_listener_implementor_1a9ac31bf72453062181e99502e2e8f5d8" prot="public" virt="non-virtual"><scope>mono::com::microsoft::appcenter::crashes::CrashesListenerImplementor</scope><name>shouldProcess</name></member>
+      <member refid="classmono_1_1com_1_1microsoft_1_1appcenter_1_1crashes_1_1_crashes_listener_implementor_1a9ac31bf72453062181e99502e2e8f5d8" prot="public" virt="non-virtual"><scope>mono::com::microsoft::appcenter::crashes::CrashesListenerImplementor</scope><name>shouldProcess</name></member>
+    </listofallmembers>
+  </compounddef>
+</doxygen>

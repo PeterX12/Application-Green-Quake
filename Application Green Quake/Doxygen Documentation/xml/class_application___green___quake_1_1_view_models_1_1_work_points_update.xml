@@ -1,0 +1,166 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.9.1" xml:lang="en-US">
+  <compounddef id="class_application___green___quake_1_1_view_models_1_1_work_points_update" kind="class" language="C#" prot="public">
+    <compoundname>Application_Green_Quake::ViewModels::WorkPointsUpdate</compoundname>
+      <sectiondef kind="private-attrib">
+      <memberdef kind="variable" id="class_application___green___quake_1_1_view_models_1_1_work_points_update_1a74ba22f7eeed9a33677a4747eaa92ca1" prot="private" static="no" mutable="no">
+        <type>int</type>
+        <definition>int Application_Green_Quake.ViewModels.WorkPointsUpdate.points2</definition>
+        <argsstring></argsstring>
+        <name>points2</name>
+        <initializer>= 0</initializer>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake/ViewModels/WorkPointsUpdate.cs" line="20" column="13" bodyfile="Application Green Quake/ViewModels/WorkPointsUpdate.cs" bodystart="20" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_application___green___quake_1_1_view_models_1_1_work_points_update_1a5b3933e497a4c48d0ac44e7bdb517273" prot="private" static="no" mutable="no">
+        <type>int</type>
+        <definition>int Application_Green_Quake.ViewModels.WorkPointsUpdate.numberOfLogs2</definition>
+        <argsstring></argsstring>
+        <name>numberOfLogs2</name>
+        <initializer>= 0</initializer>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake/ViewModels/WorkPointsUpdate.cs" line="21" column="13" bodyfile="Application Green Quake/ViewModels/WorkPointsUpdate.cs" bodystart="21" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_application___green___quake_1_1_view_models_1_1_work_points_update_1a735e8955d3681c2cf2f702a626221f8e" prot="private" static="no" mutable="no">
+        <type>int</type>
+        <definition>int Application_Green_Quake.ViewModels.WorkPointsUpdate.paperCount2</definition>
+        <argsstring></argsstring>
+        <name>paperCount2</name>
+        <initializer>= 0</initializer>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake/ViewModels/WorkPointsUpdate.cs" line="22" column="13" bodyfile="Application Green Quake/ViewModels/WorkPointsUpdate.cs" bodystart="22" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_application___green___quake_1_1_view_models_1_1_work_points_update_1ac759338fe321404a44b68c81647df9bb" prot="private" static="no" mutable="no">
+        <type>int</type>
+        <definition>int Application_Green_Quake.ViewModels.WorkPointsUpdate.offElectronicsCount2</definition>
+        <argsstring></argsstring>
+        <name>offElectronicsCount2</name>
+        <initializer>= 0</initializer>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake/ViewModels/WorkPointsUpdate.cs" line="23" column="13" bodyfile="Application Green Quake/ViewModels/WorkPointsUpdate.cs" bodystart="23" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_application___green___quake_1_1_view_models_1_1_work_points_update_1a61589c7595dfcfb6b0b03d3898cf1de6" prot="private" static="no" mutable="no">
+        <type>int</type>
+        <definition>int Application_Green_Quake.ViewModels.WorkPointsUpdate.remoteWorkCount2</definition>
+        <argsstring></argsstring>
+        <name>remoteWorkCount2</name>
+        <initializer>= 0</initializer>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake/ViewModels/WorkPointsUpdate.cs" line="24" column="13" bodyfile="Application Green Quake/ViewModels/WorkPointsUpdate.cs" bodystart="24" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_application___green___quake_1_1_view_models_1_1_work_points_update_1a6fe1ee6f332fea18c8ba8ff3e05f0ed9" prot="private" static="no" mutable="no">
+        <type>string</type>
+        <definition>string Application_Green_Quake.ViewModels.WorkPointsUpdate.username</definition>
+        <argsstring></argsstring>
+        <name>username</name>
+        <initializer>= &quot;&quot;</initializer>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake/ViewModels/WorkPointsUpdate.cs" line="26" column="16" bodyfile="Application Green Quake/ViewModels/WorkPointsUpdate.cs" bodystart="26" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_application___green___quake_1_1_view_models_1_1_work_points_update_1a3d0c7c80cf77abcb82632b082da15e75" prot="private" static="no" mutable="no">
+        <type><ref refid="interface_application___green___quake_1_1_i_auth" kindref="compound">IAuth</ref></type>
+        <definition>IAuth Application_Green_Quake.ViewModels.WorkPointsUpdate.auth</definition>
+        <argsstring></argsstring>
+        <name>auth</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake/ViewModels/WorkPointsUpdate.cs" line="28" column="15" bodyfile="Application Green Quake/ViewModels/WorkPointsUpdate.cs" bodystart="28" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="public-func">
+      <memberdef kind="function" id="class_application___green___quake_1_1_view_models_1_1_work_points_update_1a0aeb3bbdc71c41becce7b0711f56c9cf" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>async void</type>
+        <definition>async void Application_Green_Quake.ViewModels.WorkPointsUpdate.PaperPoints</definition>
+        <argsstring>()</argsstring>
+        <name>PaperPoints</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+<para>This function updates the points in the Work category by four points. It also increments the number of logs logged in the Work category by one and increments the number of times this particular action was logged by one and sends this data to Firebase. </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake/ViewModels/WorkPointsUpdate.cs" line="32" column="27" bodyfile="Application Green Quake/ViewModels/WorkPointsUpdate.cs" bodystart="32" bodyend="116"/>
+      </memberdef>
+      <memberdef kind="function" id="class_application___green___quake_1_1_view_models_1_1_work_points_update_1a6cd85928e8633844c72a0c77fb1a2be1" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>async void</type>
+        <definition>async void Application_Green_Quake.ViewModels.WorkPointsUpdate.ElectonicsOffPoints</definition>
+        <argsstring>()</argsstring>
+        <name>ElectonicsOffPoints</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+<para>This function updates the points in the Work category by six points. It also increments the number of logs logged in the Work category by one and increments the number of times this particular action was logged by one and sends this data to Firebase. </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake/ViewModels/WorkPointsUpdate.cs" line="120" column="27" bodyfile="Application Green Quake/ViewModels/WorkPointsUpdate.cs" bodystart="120" bodyend="204"/>
+      </memberdef>
+      <memberdef kind="function" id="class_application___green___quake_1_1_view_models_1_1_work_points_update_1a0438f1f750bf7f7f7cda086d627d4c71" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>async void</type>
+        <definition>async void Application_Green_Quake.ViewModels.WorkPointsUpdate.RemoteWorkPoints</definition>
+        <argsstring>()</argsstring>
+        <name>RemoteWorkPoints</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+<para>This function updates the points in the Work category by ten points. It also increments the number of logs logged in the Work category by one and increments the number of times this particular action was logged by one and sends this data to Firebase. </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake/ViewModels/WorkPointsUpdate.cs" line="208" column="27" bodyfile="Application Green Quake/ViewModels/WorkPointsUpdate.cs" bodystart="208" bodyend="292"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <location file="Application Green Quake/ViewModels/WorkPointsUpdate.cs" line="18" column="5" bodyfile="Application Green Quake/ViewModels/WorkPointsUpdate.cs" bodystart="19" bodyend="293"/>
+    <listofallmembers>
+      <member refid="class_application___green___quake_1_1_view_models_1_1_work_points_update_1a3d0c7c80cf77abcb82632b082da15e75" prot="private" virt="non-virtual"><scope>Application_Green_Quake::ViewModels::WorkPointsUpdate</scope><name>auth</name></member>
+      <member refid="class_application___green___quake_1_1_view_models_1_1_work_points_update_1a6cd85928e8633844c72a0c77fb1a2be1" prot="public" virt="non-virtual"><scope>Application_Green_Quake::ViewModels::WorkPointsUpdate</scope><name>ElectonicsOffPoints</name></member>
+      <member refid="class_application___green___quake_1_1_view_models_1_1_work_points_update_1a5b3933e497a4c48d0ac44e7bdb517273" prot="private" virt="non-virtual"><scope>Application_Green_Quake::ViewModels::WorkPointsUpdate</scope><name>numberOfLogs2</name></member>
+      <member refid="class_application___green___quake_1_1_view_models_1_1_work_points_update_1ac759338fe321404a44b68c81647df9bb" prot="private" virt="non-virtual"><scope>Application_Green_Quake::ViewModels::WorkPointsUpdate</scope><name>offElectronicsCount2</name></member>
+      <member refid="class_application___green___quake_1_1_view_models_1_1_work_points_update_1a735e8955d3681c2cf2f702a626221f8e" prot="private" virt="non-virtual"><scope>Application_Green_Quake::ViewModels::WorkPointsUpdate</scope><name>paperCount2</name></member>
+      <member refid="class_application___green___quake_1_1_view_models_1_1_work_points_update_1a0aeb3bbdc71c41becce7b0711f56c9cf" prot="public" virt="non-virtual"><scope>Application_Green_Quake::ViewModels::WorkPointsUpdate</scope><name>PaperPoints</name></member>
+      <member refid="class_application___green___quake_1_1_view_models_1_1_work_points_update_1a74ba22f7eeed9a33677a4747eaa92ca1" prot="private" virt="non-virtual"><scope>Application_Green_Quake::ViewModels::WorkPointsUpdate</scope><name>points2</name></member>
+      <member refid="class_application___green___quake_1_1_view_models_1_1_work_points_update_1a61589c7595dfcfb6b0b03d3898cf1de6" prot="private" virt="non-virtual"><scope>Application_Green_Quake::ViewModels::WorkPointsUpdate</scope><name>remoteWorkCount2</name></member>
+      <member refid="class_application___green___quake_1_1_view_models_1_1_work_points_update_1a0438f1f750bf7f7f7cda086d627d4c71" prot="public" virt="non-virtual"><scope>Application_Green_Quake::ViewModels::WorkPointsUpdate</scope><name>RemoteWorkPoints</name></member>
+      <member refid="class_application___green___quake_1_1_view_models_1_1_work_points_update_1a6fe1ee6f332fea18c8ba8ff3e05f0ed9" prot="private" virt="non-virtual"><scope>Application_Green_Quake::ViewModels::WorkPointsUpdate</scope><name>username</name></member>
+    </listofallmembers>
+  </compounddef>
+</doxygen>

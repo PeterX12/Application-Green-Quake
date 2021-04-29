@@ -1,0 +1,66 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<section xmlns="http://docbook.org/ns/docbook" version="5.0" xmlns:xlink="http://www.w3.org/1999/xlink" xml:id="_class_application___green___quake_1_1_views_1_1_login_splash_page" xml:lang="en-US">
+<title>Application_Green_Quake.Views.LoginSplashPage Class Reference</title>
+<indexterm><primary>Application_Green_Quake.Views.LoginSplashPage</primary></indexterm>
+Inheritance diagram for Application_Green_Quake.Views.LoginSplashPage:<para>
+    <informalfigure>
+        <mediaobject>
+            <imageobject>
+                <imagedata width="50%" align="center" valign="middle" scalefit="0" fileref="class_application___green___quake_1_1_views_1_1_login_splash_page__inherit__graph.png"></imagedata>
+            </imageobject>
+        </mediaobject>
+    </informalfigure>
+</para>
+Collaboration diagram for Application_Green_Quake.Views.LoginSplashPage:<para>
+    <informalfigure>
+        <mediaobject>
+            <imageobject>
+                <imagedata width="50%" align="center" valign="middle" scalefit="0" fileref="class_application___green___quake_1_1_views_1_1_login_splash_page__coll__graph.png"></imagedata>
+            </imageobject>
+        </mediaobject>
+    </informalfigure>
+</para>
+<simplesect>
+    <title>Public Member Functions    </title>
+        <itemizedlist>
+            <listitem><para><link linkend="_class_application___green___quake_1_1_views_1_1_login_splash_page_1a0ba4859b5ff8b1bff3b13015f6966bbb">LoginSplashPage</link> ()</para>
+</listitem>
+        </itemizedlist>
+</simplesect>
+<simplesect>
+    <title>Protected Member Functions    </title>
+        <itemizedlist>
+            <listitem><para>override async void <link linkend="_class_application___green___quake_1_1_views_1_1_login_splash_page_1aef0e999e33d5642fadfd922d0ade4ac2">OnAppearing</link> ()</para>
+</listitem>
+        </itemizedlist>
+</simplesect>
+<section>
+<title>Detailed Description</title>
+<para>
+Definition at line 13 of file LoginSplashPage.cs.</para>
+</section>
+<section>
+<title>Constructor &amp; Destructor Documentation</title>
+<anchor xml:id="_class_application___green___quake_1_1_views_1_1_login_splash_page_1a0ba4859b5ff8b1bff3b13015f6966bbb"/>    <section>
+    <title>LoginSplashPage()</title>
+<indexterm><primary>LoginSplashPage</primary><secondary>Application_Green_Quake.Views.LoginSplashPage</secondary></indexterm>
+<indexterm><primary>Application_Green_Quake.Views.LoginSplashPage</primary><secondary>LoginSplashPage</secondary></indexterm>
+<para><computeroutput>Application_Green_Quake.Views.LoginSplashPage.LoginSplashPage ( )</computeroutput></para>
+<para>This function fires when the Login button is clicked. It provides the splash screen and then navigates to the main menu right after. </para>
+<para>
+Definition at line 19 of file LoginSplashPage.cs.</para>
+</section>
+</section>
+<section>
+<title>Member Function Documentation</title>
+<anchor xml:id="_class_application___green___quake_1_1_views_1_1_login_splash_page_1aef0e999e33d5642fadfd922d0ade4ac2"/>    <section>
+    <title>OnAppearing()</title>
+<indexterm><primary>OnAppearing</primary><secondary>Application_Green_Quake.Views.LoginSplashPage</secondary></indexterm>
+<indexterm><primary>Application_Green_Quake.Views.LoginSplashPage</primary><secondary>OnAppearing</secondary></indexterm>
+<para><computeroutput>override async void Application_Green_Quake.Views.LoginSplashPage.OnAppearing ( )<computeroutput>[protected]</computeroutput></computeroutput></para><para>
+Definition at line 43 of file LoginSplashPage.cs.</para>
+</section>
+<para>
+The documentation for this class was generated from the following file:</para>
+Application Green Quake/Views/<link linkend="__login_splash_page_8cs">LoginSplashPage.cs</link></section>
+</section>

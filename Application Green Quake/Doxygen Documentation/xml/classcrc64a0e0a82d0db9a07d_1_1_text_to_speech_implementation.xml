@@ -1,0 +1,708 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.9.1" xml:lang="en-US">
+  <compounddef id="classcrc64a0e0a82d0db9a07d_1_1_text_to_speech_implementation" kind="class" language="Java" prot="public">
+    <compoundname>crc64a0e0a82d0db9a07d::TextToSpeechImplementation</compoundname>
+    <basecompoundref prot="public" virt="non-virtual">java.lang.Object</basecompoundref>
+    <basecompoundref prot="public" virt="non-virtual">mono.android.IGCUserPeer</basecompoundref>
+    <basecompoundref prot="public" virt="non-virtual">android.speech.tts.TextToSpeech.OnInitListener</basecompoundref>
+    <basecompoundref prot="public" virt="non-virtual">android.speech.tts.TextToSpeech.OnUtteranceCompletedListener</basecompoundref>
+    <basecompoundref prot="public" virt="non-virtual">java.lang.Object</basecompoundref>
+    <basecompoundref prot="public" virt="non-virtual">mono.android.IGCUserPeer</basecompoundref>
+    <basecompoundref prot="public" virt="non-virtual">android.speech.tts.TextToSpeech.OnInitListener</basecompoundref>
+    <basecompoundref prot="public" virt="non-virtual">android.speech.tts.TextToSpeech.OnUtteranceCompletedListener</basecompoundref>
+    <basecompoundref prot="public" virt="non-virtual">java.lang.Object</basecompoundref>
+    <basecompoundref prot="public" virt="non-virtual">mono.android.IGCUserPeer</basecompoundref>
+    <basecompoundref prot="public" virt="non-virtual">android.speech.tts.TextToSpeech.OnInitListener</basecompoundref>
+    <basecompoundref prot="public" virt="non-virtual">android.speech.tts.TextToSpeech.OnUtteranceCompletedListener</basecompoundref>
+    <basecompoundref prot="public" virt="non-virtual">java.lang.Object</basecompoundref>
+    <basecompoundref prot="public" virt="non-virtual">mono.android.IGCUserPeer</basecompoundref>
+    <basecompoundref prot="public" virt="non-virtual">android.speech.tts.TextToSpeech.OnInitListener</basecompoundref>
+    <basecompoundref prot="public" virt="non-virtual">android.speech.tts.TextToSpeech.OnUtteranceCompletedListener</basecompoundref>
+      <sectiondef kind="public-static-attrib">
+      <memberdef kind="variable" id="classcrc64a0e0a82d0db9a07d_1_1_text_to_speech_implementation_1aad1fcac246aebfefc4d5835bbe9536a1" prot="public" static="yes" mutable="no">
+        <type>final String</type>
+        <definition>static final String crc64a0e0a82d0db9a07d.TextToSpeechImplementation::__md_methods</definition>
+        <argsstring></argsstring>
+        <name>__md_methods</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+<para>@hide </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/100/android/src/crc64a0e0a82d0db9a07d/TextToSpeechImplementation.java" line="12" column="28" bodyfile="Application Green Quake.Android/obj/Debug/100/android/src/crc64a0e0a82d0db9a07d/TextToSpeechImplementation.java" bodystart="12" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="private-attrib">
+      <memberdef kind="variable" id="classcrc64a0e0a82d0db9a07d_1_1_text_to_speech_implementation_1a7c68a53f7e4c3b298ded1d13aeee394e" prot="private" static="no" mutable="no">
+        <type>java.util.ArrayList</type>
+        <definition>java util ArrayList crc64a0e0a82d0db9a07d.TextToSpeechImplementation::refList</definition>
+        <argsstring></argsstring>
+        <name>refList</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/100/android/src/crc64a0e0a82d0db9a07d/TextToSpeechImplementation.java" line="45" column="27" bodyfile="Application Green Quake.Android/obj/Debug/100/android/src/crc64a0e0a82d0db9a07d/TextToSpeechImplementation.java" bodystart="45" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="package-static-func">
+      <memberdef kind="function" id="classcrc64a0e0a82d0db9a07d_1_1_text_to_speech_implementation_1a6c5da9780a0301421f6f7d5154c7d7ce" prot="package" static="yes" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>crc64a0e0a82d0db9a07d.TextToSpeechImplementation.[static initializer]</definition>
+        <argsstring></argsstring>
+        <name>[static initializer]</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/100/android/src/crc64a0e0a82d0db9a07d/TextToSpeechImplementation.java" line="12" column="28"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc64a0e0a82d0db9a07d_1_1_text_to_speech_implementation_1a6c5da9780a0301421f6f7d5154c7d7ce" prot="package" static="yes" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>crc64a0e0a82d0db9a07d.TextToSpeechImplementation.[static initializer]</definition>
+        <argsstring></argsstring>
+        <name>[static initializer]</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/110/android/src/crc64a0e0a82d0db9a07d/TextToSpeechImplementation.java" line="12" column="28"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc64a0e0a82d0db9a07d_1_1_text_to_speech_implementation_1a6c5da9780a0301421f6f7d5154c7d7ce" prot="package" static="yes" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>crc64a0e0a82d0db9a07d.TextToSpeechImplementation.[static initializer]</definition>
+        <argsstring></argsstring>
+        <name>[static initializer]</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/100/android/src/crc64a0e0a82d0db9a07d/TextToSpeechImplementation.java" line="12" column="28"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc64a0e0a82d0db9a07d_1_1_text_to_speech_implementation_1a6c5da9780a0301421f6f7d5154c7d7ce" prot="package" static="yes" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>crc64a0e0a82d0db9a07d.TextToSpeechImplementation.[static initializer]</definition>
+        <argsstring></argsstring>
+        <name>[static initializer]</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/110/android/src/crc64a0e0a82d0db9a07d/TextToSpeechImplementation.java" line="12" column="28"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="public-func">
+      <memberdef kind="function" id="classcrc64a0e0a82d0db9a07d_1_1_text_to_speech_implementation_1a879d14f654d6b93d7761a23f94e1d4cf" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>crc64a0e0a82d0db9a07d.TextToSpeechImplementation.TextToSpeechImplementation</definition>
+        <argsstring>()</argsstring>
+        <name>TextToSpeechImplementation</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/100/android/src/crc64a0e0a82d0db9a07d/TextToSpeechImplementation.java" line="22" column="8" bodyfile="Application Green Quake.Android/obj/Debug/100/android/src/crc64a0e0a82d0db9a07d/TextToSpeechImplementation.java" bodystart="22" bodyend="27"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc64a0e0a82d0db9a07d_1_1_text_to_speech_implementation_1a5f84cd8bafc86f385c0d49786094e97d" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void crc64a0e0a82d0db9a07d.TextToSpeechImplementation.onInit</definition>
+        <argsstring>(int p0)</argsstring>
+        <name>onInit</name>
+        <param>
+          <type>int</type>
+          <declname>p0</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/100/android/src/crc64a0e0a82d0db9a07d/TextToSpeechImplementation.java" line="30" column="13" bodyfile="Application Green Quake.Android/obj/Debug/100/android/src/crc64a0e0a82d0db9a07d/TextToSpeechImplementation.java" bodystart="30" bodyend="33"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc64a0e0a82d0db9a07d_1_1_text_to_speech_implementation_1a5fc980052190c53678a29289ce97fd4c" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void crc64a0e0a82d0db9a07d.TextToSpeechImplementation.onUtteranceCompleted</definition>
+        <argsstring>(java.lang.String p0)</argsstring>
+        <name>onUtteranceCompleted</name>
+        <param>
+          <type>java.lang.String</type>
+          <declname>p0</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/100/android/src/crc64a0e0a82d0db9a07d/TextToSpeechImplementation.java" line="38" column="13" bodyfile="Application Green Quake.Android/obj/Debug/100/android/src/crc64a0e0a82d0db9a07d/TextToSpeechImplementation.java" bodystart="38" bodyend="41"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc64a0e0a82d0db9a07d_1_1_text_to_speech_implementation_1ab4375190b5d96fc0530535dfe71e8732" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void crc64a0e0a82d0db9a07d.TextToSpeechImplementation.monodroidAddReference</definition>
+        <argsstring>(java.lang.Object obj)</argsstring>
+        <name>monodroidAddReference</name>
+        <param>
+          <type>java.lang.Object</type>
+          <declname>obj</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/100/android/src/crc64a0e0a82d0db9a07d/TextToSpeechImplementation.java" line="46" column="13" bodyfile="Application Green Quake.Android/obj/Debug/100/android/src/crc64a0e0a82d0db9a07d/TextToSpeechImplementation.java" bodystart="46" bodyend="51"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc64a0e0a82d0db9a07d_1_1_text_to_speech_implementation_1a0fd2155452ead723bab5e1f451d66b67" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void crc64a0e0a82d0db9a07d.TextToSpeechImplementation.monodroidClearReferences</definition>
+        <argsstring>()</argsstring>
+        <name>monodroidClearReferences</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/100/android/src/crc64a0e0a82d0db9a07d/TextToSpeechImplementation.java" line="53" column="13" bodyfile="Application Green Quake.Android/obj/Debug/100/android/src/crc64a0e0a82d0db9a07d/TextToSpeechImplementation.java" bodystart="53" bodyend="57"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc64a0e0a82d0db9a07d_1_1_text_to_speech_implementation_1a879d14f654d6b93d7761a23f94e1d4cf" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>crc64a0e0a82d0db9a07d.TextToSpeechImplementation.TextToSpeechImplementation</definition>
+        <argsstring>()</argsstring>
+        <name>TextToSpeechImplementation</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/110/android/src/crc64a0e0a82d0db9a07d/TextToSpeechImplementation.java" line="22" column="8" bodyfile="Application Green Quake.Android/obj/Debug/110/android/src/crc64a0e0a82d0db9a07d/TextToSpeechImplementation.java" bodystart="22" bodyend="27"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc64a0e0a82d0db9a07d_1_1_text_to_speech_implementation_1a5f84cd8bafc86f385c0d49786094e97d" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void crc64a0e0a82d0db9a07d.TextToSpeechImplementation.onInit</definition>
+        <argsstring>(int p0)</argsstring>
+        <name>onInit</name>
+        <param>
+          <type>int</type>
+          <declname>p0</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/110/android/src/crc64a0e0a82d0db9a07d/TextToSpeechImplementation.java" line="30" column="13" bodyfile="Application Green Quake.Android/obj/Debug/110/android/src/crc64a0e0a82d0db9a07d/TextToSpeechImplementation.java" bodystart="30" bodyend="33"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc64a0e0a82d0db9a07d_1_1_text_to_speech_implementation_1a5fc980052190c53678a29289ce97fd4c" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void crc64a0e0a82d0db9a07d.TextToSpeechImplementation.onUtteranceCompleted</definition>
+        <argsstring>(java.lang.String p0)</argsstring>
+        <name>onUtteranceCompleted</name>
+        <param>
+          <type>java.lang.String</type>
+          <declname>p0</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/110/android/src/crc64a0e0a82d0db9a07d/TextToSpeechImplementation.java" line="38" column="13" bodyfile="Application Green Quake.Android/obj/Debug/110/android/src/crc64a0e0a82d0db9a07d/TextToSpeechImplementation.java" bodystart="38" bodyend="41"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc64a0e0a82d0db9a07d_1_1_text_to_speech_implementation_1ab4375190b5d96fc0530535dfe71e8732" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void crc64a0e0a82d0db9a07d.TextToSpeechImplementation.monodroidAddReference</definition>
+        <argsstring>(java.lang.Object obj)</argsstring>
+        <name>monodroidAddReference</name>
+        <param>
+          <type>java.lang.Object</type>
+          <declname>obj</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/110/android/src/crc64a0e0a82d0db9a07d/TextToSpeechImplementation.java" line="46" column="13" bodyfile="Application Green Quake.Android/obj/Debug/110/android/src/crc64a0e0a82d0db9a07d/TextToSpeechImplementation.java" bodystart="46" bodyend="51"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc64a0e0a82d0db9a07d_1_1_text_to_speech_implementation_1a0fd2155452ead723bab5e1f451d66b67" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void crc64a0e0a82d0db9a07d.TextToSpeechImplementation.monodroidClearReferences</definition>
+        <argsstring>()</argsstring>
+        <name>monodroidClearReferences</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/110/android/src/crc64a0e0a82d0db9a07d/TextToSpeechImplementation.java" line="53" column="13" bodyfile="Application Green Quake.Android/obj/Debug/110/android/src/crc64a0e0a82d0db9a07d/TextToSpeechImplementation.java" bodystart="53" bodyend="57"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc64a0e0a82d0db9a07d_1_1_text_to_speech_implementation_1a879d14f654d6b93d7761a23f94e1d4cf" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>crc64a0e0a82d0db9a07d.TextToSpeechImplementation.TextToSpeechImplementation</definition>
+        <argsstring>()</argsstring>
+        <name>TextToSpeechImplementation</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/100/android/src/crc64a0e0a82d0db9a07d/TextToSpeechImplementation.java" line="22" column="8" bodyfile="Application Green Quake.Android/obj/Release/100/android/src/crc64a0e0a82d0db9a07d/TextToSpeechImplementation.java" bodystart="22" bodyend="27"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc64a0e0a82d0db9a07d_1_1_text_to_speech_implementation_1a5f84cd8bafc86f385c0d49786094e97d" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void crc64a0e0a82d0db9a07d.TextToSpeechImplementation.onInit</definition>
+        <argsstring>(int p0)</argsstring>
+        <name>onInit</name>
+        <param>
+          <type>int</type>
+          <declname>p0</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/100/android/src/crc64a0e0a82d0db9a07d/TextToSpeechImplementation.java" line="30" column="13" bodyfile="Application Green Quake.Android/obj/Release/100/android/src/crc64a0e0a82d0db9a07d/TextToSpeechImplementation.java" bodystart="30" bodyend="33"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc64a0e0a82d0db9a07d_1_1_text_to_speech_implementation_1a5fc980052190c53678a29289ce97fd4c" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void crc64a0e0a82d0db9a07d.TextToSpeechImplementation.onUtteranceCompleted</definition>
+        <argsstring>(java.lang.String p0)</argsstring>
+        <name>onUtteranceCompleted</name>
+        <param>
+          <type>java.lang.String</type>
+          <declname>p0</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/100/android/src/crc64a0e0a82d0db9a07d/TextToSpeechImplementation.java" line="38" column="13" bodyfile="Application Green Quake.Android/obj/Release/100/android/src/crc64a0e0a82d0db9a07d/TextToSpeechImplementation.java" bodystart="38" bodyend="41"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc64a0e0a82d0db9a07d_1_1_text_to_speech_implementation_1ab4375190b5d96fc0530535dfe71e8732" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void crc64a0e0a82d0db9a07d.TextToSpeechImplementation.monodroidAddReference</definition>
+        <argsstring>(java.lang.Object obj)</argsstring>
+        <name>monodroidAddReference</name>
+        <param>
+          <type>java.lang.Object</type>
+          <declname>obj</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/100/android/src/crc64a0e0a82d0db9a07d/TextToSpeechImplementation.java" line="46" column="13" bodyfile="Application Green Quake.Android/obj/Release/100/android/src/crc64a0e0a82d0db9a07d/TextToSpeechImplementation.java" bodystart="46" bodyend="51"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc64a0e0a82d0db9a07d_1_1_text_to_speech_implementation_1a0fd2155452ead723bab5e1f451d66b67" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void crc64a0e0a82d0db9a07d.TextToSpeechImplementation.monodroidClearReferences</definition>
+        <argsstring>()</argsstring>
+        <name>monodroidClearReferences</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/100/android/src/crc64a0e0a82d0db9a07d/TextToSpeechImplementation.java" line="53" column="13" bodyfile="Application Green Quake.Android/obj/Release/100/android/src/crc64a0e0a82d0db9a07d/TextToSpeechImplementation.java" bodystart="53" bodyend="57"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc64a0e0a82d0db9a07d_1_1_text_to_speech_implementation_1a879d14f654d6b93d7761a23f94e1d4cf" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>crc64a0e0a82d0db9a07d.TextToSpeechImplementation.TextToSpeechImplementation</definition>
+        <argsstring>()</argsstring>
+        <name>TextToSpeechImplementation</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/110/android/src/crc64a0e0a82d0db9a07d/TextToSpeechImplementation.java" line="22" column="8" bodyfile="Application Green Quake.Android/obj/Release/110/android/src/crc64a0e0a82d0db9a07d/TextToSpeechImplementation.java" bodystart="22" bodyend="27"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc64a0e0a82d0db9a07d_1_1_text_to_speech_implementation_1a5f84cd8bafc86f385c0d49786094e97d" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void crc64a0e0a82d0db9a07d.TextToSpeechImplementation.onInit</definition>
+        <argsstring>(int p0)</argsstring>
+        <name>onInit</name>
+        <param>
+          <type>int</type>
+          <declname>p0</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/110/android/src/crc64a0e0a82d0db9a07d/TextToSpeechImplementation.java" line="30" column="13" bodyfile="Application Green Quake.Android/obj/Release/110/android/src/crc64a0e0a82d0db9a07d/TextToSpeechImplementation.java" bodystart="30" bodyend="33"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc64a0e0a82d0db9a07d_1_1_text_to_speech_implementation_1a5fc980052190c53678a29289ce97fd4c" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void crc64a0e0a82d0db9a07d.TextToSpeechImplementation.onUtteranceCompleted</definition>
+        <argsstring>(java.lang.String p0)</argsstring>
+        <name>onUtteranceCompleted</name>
+        <param>
+          <type>java.lang.String</type>
+          <declname>p0</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/110/android/src/crc64a0e0a82d0db9a07d/TextToSpeechImplementation.java" line="38" column="13" bodyfile="Application Green Quake.Android/obj/Release/110/android/src/crc64a0e0a82d0db9a07d/TextToSpeechImplementation.java" bodystart="38" bodyend="41"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc64a0e0a82d0db9a07d_1_1_text_to_speech_implementation_1ab4375190b5d96fc0530535dfe71e8732" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void crc64a0e0a82d0db9a07d.TextToSpeechImplementation.monodroidAddReference</definition>
+        <argsstring>(java.lang.Object obj)</argsstring>
+        <name>monodroidAddReference</name>
+        <param>
+          <type>java.lang.Object</type>
+          <declname>obj</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/110/android/src/crc64a0e0a82d0db9a07d/TextToSpeechImplementation.java" line="46" column="13" bodyfile="Application Green Quake.Android/obj/Release/110/android/src/crc64a0e0a82d0db9a07d/TextToSpeechImplementation.java" bodystart="46" bodyend="51"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc64a0e0a82d0db9a07d_1_1_text_to_speech_implementation_1a0fd2155452ead723bab5e1f451d66b67" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void crc64a0e0a82d0db9a07d.TextToSpeechImplementation.monodroidClearReferences</definition>
+        <argsstring>()</argsstring>
+        <name>monodroidClearReferences</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/110/android/src/crc64a0e0a82d0db9a07d/TextToSpeechImplementation.java" line="53" column="13" bodyfile="Application Green Quake.Android/obj/Release/110/android/src/crc64a0e0a82d0db9a07d/TextToSpeechImplementation.java" bodystart="53" bodyend="57"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="private-func">
+      <memberdef kind="function" id="classcrc64a0e0a82d0db9a07d_1_1_text_to_speech_implementation_1af207b37d726339770a72255b00730e9e" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>native void</type>
+        <definition>native void crc64a0e0a82d0db9a07d.TextToSpeechImplementation.n_onInit</definition>
+        <argsstring>(int p0)</argsstring>
+        <name>n_onInit</name>
+        <param>
+          <type>int</type>
+          <declname>p0</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/100/android/src/crc64a0e0a82d0db9a07d/TextToSpeechImplementation.java" line="35" column="21"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc64a0e0a82d0db9a07d_1_1_text_to_speech_implementation_1aa70dae47ef7e92588bc8177c8edc25b9" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>native void</type>
+        <definition>native void crc64a0e0a82d0db9a07d.TextToSpeechImplementation.n_onUtteranceCompleted</definition>
+        <argsstring>(java.lang.String p0)</argsstring>
+        <name>n_onUtteranceCompleted</name>
+        <param>
+          <type>java.lang.String</type>
+          <declname>p0</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/100/android/src/crc64a0e0a82d0db9a07d/TextToSpeechImplementation.java" line="43" column="21"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc64a0e0a82d0db9a07d_1_1_text_to_speech_implementation_1af207b37d726339770a72255b00730e9e" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>native void</type>
+        <definition>native void crc64a0e0a82d0db9a07d.TextToSpeechImplementation.n_onInit</definition>
+        <argsstring>(int p0)</argsstring>
+        <name>n_onInit</name>
+        <param>
+          <type>int</type>
+          <declname>p0</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/110/android/src/crc64a0e0a82d0db9a07d/TextToSpeechImplementation.java" line="35" column="21"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc64a0e0a82d0db9a07d_1_1_text_to_speech_implementation_1aa70dae47ef7e92588bc8177c8edc25b9" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>native void</type>
+        <definition>native void crc64a0e0a82d0db9a07d.TextToSpeechImplementation.n_onUtteranceCompleted</definition>
+        <argsstring>(java.lang.String p0)</argsstring>
+        <name>n_onUtteranceCompleted</name>
+        <param>
+          <type>java.lang.String</type>
+          <declname>p0</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/110/android/src/crc64a0e0a82d0db9a07d/TextToSpeechImplementation.java" line="43" column="21"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc64a0e0a82d0db9a07d_1_1_text_to_speech_implementation_1af207b37d726339770a72255b00730e9e" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>native void</type>
+        <definition>native void crc64a0e0a82d0db9a07d.TextToSpeechImplementation.n_onInit</definition>
+        <argsstring>(int p0)</argsstring>
+        <name>n_onInit</name>
+        <param>
+          <type>int</type>
+          <declname>p0</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/100/android/src/crc64a0e0a82d0db9a07d/TextToSpeechImplementation.java" line="35" column="21"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc64a0e0a82d0db9a07d_1_1_text_to_speech_implementation_1aa70dae47ef7e92588bc8177c8edc25b9" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>native void</type>
+        <definition>native void crc64a0e0a82d0db9a07d.TextToSpeechImplementation.n_onUtteranceCompleted</definition>
+        <argsstring>(java.lang.String p0)</argsstring>
+        <name>n_onUtteranceCompleted</name>
+        <param>
+          <type>java.lang.String</type>
+          <declname>p0</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/100/android/src/crc64a0e0a82d0db9a07d/TextToSpeechImplementation.java" line="43" column="21"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc64a0e0a82d0db9a07d_1_1_text_to_speech_implementation_1af207b37d726339770a72255b00730e9e" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>native void</type>
+        <definition>native void crc64a0e0a82d0db9a07d.TextToSpeechImplementation.n_onInit</definition>
+        <argsstring>(int p0)</argsstring>
+        <name>n_onInit</name>
+        <param>
+          <type>int</type>
+          <declname>p0</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/110/android/src/crc64a0e0a82d0db9a07d/TextToSpeechImplementation.java" line="35" column="21"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc64a0e0a82d0db9a07d_1_1_text_to_speech_implementation_1aa70dae47ef7e92588bc8177c8edc25b9" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>native void</type>
+        <definition>native void crc64a0e0a82d0db9a07d.TextToSpeechImplementation.n_onUtteranceCompleted</definition>
+        <argsstring>(java.lang.String p0)</argsstring>
+        <name>n_onUtteranceCompleted</name>
+        <param>
+          <type>java.lang.String</type>
+          <declname>p0</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/110/android/src/crc64a0e0a82d0db9a07d/TextToSpeechImplementation.java" line="43" column="21"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <inheritancegraph>
+      <node id="6">
+        <label>android.speech.tts.TextToSpeech.OnInitListener</label>
+      </node>
+      <node id="1">
+        <label>crc64a0e0a82d0db9a07d.TextToSpeechImplementation</label>
+        <link refid="classcrc64a0e0a82d0db9a07d_1_1_text_to_speech_implementation"/>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+        <childnode refid="3" relation="public-inheritance">
+        </childnode>
+        <childnode refid="4" relation="public-inheritance">
+        </childnode>
+        <childnode refid="5" relation="public-inheritance">
+        </childnode>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+        <childnode refid="3" relation="public-inheritance">
+        </childnode>
+        <childnode refid="6" relation="public-inheritance">
+        </childnode>
+        <childnode refid="7" relation="public-inheritance">
+        </childnode>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+        <childnode refid="3" relation="public-inheritance">
+        </childnode>
+        <childnode refid="6" relation="public-inheritance">
+        </childnode>
+        <childnode refid="7" relation="public-inheritance">
+        </childnode>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+        <childnode refid="3" relation="public-inheritance">
+        </childnode>
+        <childnode refid="6" relation="public-inheritance">
+        </childnode>
+        <childnode refid="7" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="4">
+        <label>android::speech::tts::TextToSpeech::OnInitListener</label>
+      </node>
+      <node id="3">
+        <label>mono.android.IGCUserPeer</label>
+      </node>
+      <node id="2">
+        <label>java.lang.Object</label>
+      </node>
+      <node id="5">
+        <label>android::speech::tts::TextToSpeech::OnUtteranceCompletedListener</label>
+      </node>
+      <node id="7">
+        <label>android.speech.tts.TextToSpeech.OnUtteranceCompletedListener</label>
+      </node>
+    </inheritancegraph>
+    <collaborationgraph>
+      <node id="6">
+        <label>android.speech.tts.TextToSpeech.OnInitListener</label>
+      </node>
+      <node id="1">
+        <label>crc64a0e0a82d0db9a07d.TextToSpeechImplementation</label>
+        <link refid="classcrc64a0e0a82d0db9a07d_1_1_text_to_speech_implementation"/>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+        <childnode refid="3" relation="public-inheritance">
+        </childnode>
+        <childnode refid="4" relation="public-inheritance">
+        </childnode>
+        <childnode refid="5" relation="public-inheritance">
+        </childnode>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+        <childnode refid="3" relation="public-inheritance">
+        </childnode>
+        <childnode refid="6" relation="public-inheritance">
+        </childnode>
+        <childnode refid="7" relation="public-inheritance">
+        </childnode>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+        <childnode refid="3" relation="public-inheritance">
+        </childnode>
+        <childnode refid="6" relation="public-inheritance">
+        </childnode>
+        <childnode refid="7" relation="public-inheritance">
+        </childnode>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+        <childnode refid="3" relation="public-inheritance">
+        </childnode>
+        <childnode refid="6" relation="public-inheritance">
+        </childnode>
+        <childnode refid="7" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="4">
+        <label>android::speech::tts::TextToSpeech::OnInitListener</label>
+      </node>
+      <node id="3">
+        <label>mono.android.IGCUserPeer</label>
+      </node>
+      <node id="2">
+        <label>java.lang.Object</label>
+      </node>
+      <node id="5">
+        <label>android::speech::tts::TextToSpeech::OnUtteranceCompletedListener</label>
+      </node>
+      <node id="7">
+        <label>android.speech.tts.TextToSpeech.OnUtteranceCompletedListener</label>
+      </node>
+    </collaborationgraph>
+    <location file="Application Green Quake.Android/obj/Debug/100/android/src/crc64a0e0a82d0db9a07d/TextToSpeechImplementation.java" line="4" column="7" bodyfile="Application Green Quake.Android/obj/Debug/100/android/src/crc64a0e0a82d0db9a07d/TextToSpeechImplementation.java" bodystart="10" bodyend="58"/>
+    <listofallmembers>
+      <member refid="classcrc64a0e0a82d0db9a07d_1_1_text_to_speech_implementation_1a6c5da9780a0301421f6f7d5154c7d7ce" prot="package" virt="non-virtual"><scope>crc64a0e0a82d0db9a07d::TextToSpeechImplementation</scope><name>[static initializer]</name></member>
+      <member refid="classcrc64a0e0a82d0db9a07d_1_1_text_to_speech_implementation_1a6c5da9780a0301421f6f7d5154c7d7ce" prot="package" virt="non-virtual"><scope>crc64a0e0a82d0db9a07d::TextToSpeechImplementation</scope><name>[static initializer]</name></member>
+      <member refid="classcrc64a0e0a82d0db9a07d_1_1_text_to_speech_implementation_1a6c5da9780a0301421f6f7d5154c7d7ce" prot="package" virt="non-virtual"><scope>crc64a0e0a82d0db9a07d::TextToSpeechImplementation</scope><name>[static initializer]</name></member>
+      <member refid="classcrc64a0e0a82d0db9a07d_1_1_text_to_speech_implementation_1a6c5da9780a0301421f6f7d5154c7d7ce" prot="package" virt="non-virtual"><scope>crc64a0e0a82d0db9a07d::TextToSpeechImplementation</scope><name>[static initializer]</name></member>
+      <member refid="classcrc64a0e0a82d0db9a07d_1_1_text_to_speech_implementation_1aad1fcac246aebfefc4d5835bbe9536a1" prot="public" virt="non-virtual"><scope>crc64a0e0a82d0db9a07d::TextToSpeechImplementation</scope><name>__md_methods</name></member>
+      <member refid="classcrc64a0e0a82d0db9a07d_1_1_text_to_speech_implementation_1ab4375190b5d96fc0530535dfe71e8732" prot="public" virt="non-virtual"><scope>crc64a0e0a82d0db9a07d::TextToSpeechImplementation</scope><name>monodroidAddReference</name></member>
+      <member refid="classcrc64a0e0a82d0db9a07d_1_1_text_to_speech_implementation_1ab4375190b5d96fc0530535dfe71e8732" prot="public" virt="non-virtual"><scope>crc64a0e0a82d0db9a07d::TextToSpeechImplementation</scope><name>monodroidAddReference</name></member>
+      <member refid="classcrc64a0e0a82d0db9a07d_1_1_text_to_speech_implementation_1ab4375190b5d96fc0530535dfe71e8732" prot="public" virt="non-virtual"><scope>crc64a0e0a82d0db9a07d::TextToSpeechImplementation</scope><name>monodroidAddReference</name></member>
+      <member refid="classcrc64a0e0a82d0db9a07d_1_1_text_to_speech_implementation_1ab4375190b5d96fc0530535dfe71e8732" prot="public" virt="non-virtual"><scope>crc64a0e0a82d0db9a07d::TextToSpeechImplementation</scope><name>monodroidAddReference</name></member>
+      <member refid="classcrc64a0e0a82d0db9a07d_1_1_text_to_speech_implementation_1a0fd2155452ead723bab5e1f451d66b67" prot="public" virt="non-virtual"><scope>crc64a0e0a82d0db9a07d::TextToSpeechImplementation</scope><name>monodroidClearReferences</name></member>
+      <member refid="classcrc64a0e0a82d0db9a07d_1_1_text_to_speech_implementation_1a0fd2155452ead723bab5e1f451d66b67" prot="public" virt="non-virtual"><scope>crc64a0e0a82d0db9a07d::TextToSpeechImplementation</scope><name>monodroidClearReferences</name></member>
+      <member refid="classcrc64a0e0a82d0db9a07d_1_1_text_to_speech_implementation_1a0fd2155452ead723bab5e1f451d66b67" prot="public" virt="non-virtual"><scope>crc64a0e0a82d0db9a07d::TextToSpeechImplementation</scope><name>monodroidClearReferences</name></member>
+      <member refid="classcrc64a0e0a82d0db9a07d_1_1_text_to_speech_implementation_1a0fd2155452ead723bab5e1f451d66b67" prot="public" virt="non-virtual"><scope>crc64a0e0a82d0db9a07d::TextToSpeechImplementation</scope><name>monodroidClearReferences</name></member>
+      <member refid="classcrc64a0e0a82d0db9a07d_1_1_text_to_speech_implementation_1af207b37d726339770a72255b00730e9e" prot="private" virt="non-virtual"><scope>crc64a0e0a82d0db9a07d::TextToSpeechImplementation</scope><name>n_onInit</name></member>
+      <member refid="classcrc64a0e0a82d0db9a07d_1_1_text_to_speech_implementation_1af207b37d726339770a72255b00730e9e" prot="private" virt="non-virtual"><scope>crc64a0e0a82d0db9a07d::TextToSpeechImplementation</scope><name>n_onInit</name></member>
+      <member refid="classcrc64a0e0a82d0db9a07d_1_1_text_to_speech_implementation_1af207b37d726339770a72255b00730e9e" prot="private" virt="non-virtual"><scope>crc64a0e0a82d0db9a07d::TextToSpeechImplementation</scope><name>n_onInit</name></member>
+      <member refid="classcrc64a0e0a82d0db9a07d_1_1_text_to_speech_implementation_1af207b37d726339770a72255b00730e9e" prot="private" virt="non-virtual"><scope>crc64a0e0a82d0db9a07d::TextToSpeechImplementation</scope><name>n_onInit</name></member>
+      <member refid="classcrc64a0e0a82d0db9a07d_1_1_text_to_speech_implementation_1aa70dae47ef7e92588bc8177c8edc25b9" prot="private" virt="non-virtual"><scope>crc64a0e0a82d0db9a07d::TextToSpeechImplementation</scope><name>n_onUtteranceCompleted</name></member>
+      <member refid="classcrc64a0e0a82d0db9a07d_1_1_text_to_speech_implementation_1aa70dae47ef7e92588bc8177c8edc25b9" prot="private" virt="non-virtual"><scope>crc64a0e0a82d0db9a07d::TextToSpeechImplementation</scope><name>n_onUtteranceCompleted</name></member>
+      <member refid="classcrc64a0e0a82d0db9a07d_1_1_text_to_speech_implementation_1aa70dae47ef7e92588bc8177c8edc25b9" prot="private" virt="non-virtual"><scope>crc64a0e0a82d0db9a07d::TextToSpeechImplementation</scope><name>n_onUtteranceCompleted</name></member>
+      <member refid="classcrc64a0e0a82d0db9a07d_1_1_text_to_speech_implementation_1aa70dae47ef7e92588bc8177c8edc25b9" prot="private" virt="non-virtual"><scope>crc64a0e0a82d0db9a07d::TextToSpeechImplementation</scope><name>n_onUtteranceCompleted</name></member>
+      <member refid="classcrc64a0e0a82d0db9a07d_1_1_text_to_speech_implementation_1a5f84cd8bafc86f385c0d49786094e97d" prot="public" virt="non-virtual"><scope>crc64a0e0a82d0db9a07d::TextToSpeechImplementation</scope><name>onInit</name></member>
+      <member refid="classcrc64a0e0a82d0db9a07d_1_1_text_to_speech_implementation_1a5f84cd8bafc86f385c0d49786094e97d" prot="public" virt="non-virtual"><scope>crc64a0e0a82d0db9a07d::TextToSpeechImplementation</scope><name>onInit</name></member>
+      <member refid="classcrc64a0e0a82d0db9a07d_1_1_text_to_speech_implementation_1a5f84cd8bafc86f385c0d49786094e97d" prot="public" virt="non-virtual"><scope>crc64a0e0a82d0db9a07d::TextToSpeechImplementation</scope><name>onInit</name></member>
+      <member refid="classcrc64a0e0a82d0db9a07d_1_1_text_to_speech_implementation_1a5f84cd8bafc86f385c0d49786094e97d" prot="public" virt="non-virtual"><scope>crc64a0e0a82d0db9a07d::TextToSpeechImplementation</scope><name>onInit</name></member>
+      <member refid="classcrc64a0e0a82d0db9a07d_1_1_text_to_speech_implementation_1a5fc980052190c53678a29289ce97fd4c" prot="public" virt="non-virtual"><scope>crc64a0e0a82d0db9a07d::TextToSpeechImplementation</scope><name>onUtteranceCompleted</name></member>
+      <member refid="classcrc64a0e0a82d0db9a07d_1_1_text_to_speech_implementation_1a5fc980052190c53678a29289ce97fd4c" prot="public" virt="non-virtual"><scope>crc64a0e0a82d0db9a07d::TextToSpeechImplementation</scope><name>onUtteranceCompleted</name></member>
+      <member refid="classcrc64a0e0a82d0db9a07d_1_1_text_to_speech_implementation_1a5fc980052190c53678a29289ce97fd4c" prot="public" virt="non-virtual"><scope>crc64a0e0a82d0db9a07d::TextToSpeechImplementation</scope><name>onUtteranceCompleted</name></member>
+      <member refid="classcrc64a0e0a82d0db9a07d_1_1_text_to_speech_implementation_1a5fc980052190c53678a29289ce97fd4c" prot="public" virt="non-virtual"><scope>crc64a0e0a82d0db9a07d::TextToSpeechImplementation</scope><name>onUtteranceCompleted</name></member>
+      <member refid="classcrc64a0e0a82d0db9a07d_1_1_text_to_speech_implementation_1a7c68a53f7e4c3b298ded1d13aeee394e" prot="private" virt="non-virtual"><scope>crc64a0e0a82d0db9a07d::TextToSpeechImplementation</scope><name>refList</name></member>
+      <member refid="classcrc64a0e0a82d0db9a07d_1_1_text_to_speech_implementation_1a879d14f654d6b93d7761a23f94e1d4cf" prot="public" virt="non-virtual"><scope>crc64a0e0a82d0db9a07d::TextToSpeechImplementation</scope><name>TextToSpeechImplementation</name></member>
+      <member refid="classcrc64a0e0a82d0db9a07d_1_1_text_to_speech_implementation_1a879d14f654d6b93d7761a23f94e1d4cf" prot="public" virt="non-virtual"><scope>crc64a0e0a82d0db9a07d::TextToSpeechImplementation</scope><name>TextToSpeechImplementation</name></member>
+      <member refid="classcrc64a0e0a82d0db9a07d_1_1_text_to_speech_implementation_1a879d14f654d6b93d7761a23f94e1d4cf" prot="public" virt="non-virtual"><scope>crc64a0e0a82d0db9a07d::TextToSpeechImplementation</scope><name>TextToSpeechImplementation</name></member>
+      <member refid="classcrc64a0e0a82d0db9a07d_1_1_text_to_speech_implementation_1a879d14f654d6b93d7761a23f94e1d4cf" prot="public" virt="non-virtual"><scope>crc64a0e0a82d0db9a07d::TextToSpeechImplementation</scope><name>TextToSpeechImplementation</name></member>
+    </listofallmembers>
+  </compounddef>
+</doxygen>

@@ -1,0 +1,71 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<section xmlns="http://docbook.org/ns/docbook" version="5.0" xmlns:xlink="http://www.w3.org/1999/xlink" xml:id="_class_application___green___quake_1_1_view_models_1_1_travel_points_update" xml:lang="en-US">
+<title>Application_Green_Quake.ViewModels.TravelPointsUpdate Class Reference</title>
+<indexterm><primary>Application_Green_Quake.ViewModels.TravelPointsUpdate</primary></indexterm>
+<simplesect>
+    <title>Public Member Functions    </title>
+        <itemizedlist>
+            <listitem><para>async void <link linkend="_class_application___green___quake_1_1_view_models_1_1_travel_points_update_1aa3708339db7e23d550d96725710beff3">CarpoolPoints</link> ()</para>
+</listitem>
+            <listitem><para>async void <link linkend="_class_application___green___quake_1_1_view_models_1_1_travel_points_update_1aacd4cb169215cf5b7448d9db75df21fc">CyclePoints</link> ()</para>
+</listitem>
+            <listitem><para>async void <link linkend="_class_application___green___quake_1_1_view_models_1_1_travel_points_update_1a0717afb3c687cf343a27d8b47c95f5dd">EcoCarPoints</link> ()</para>
+</listitem>
+            <listitem><para>async void <link linkend="_class_application___green___quake_1_1_view_models_1_1_travel_points_update_1ad8f8ca1911c8a2782db0c6d78d3a732d">TransportPoints</link> ()</para>
+</listitem>
+            <listitem><para>async void <link linkend="_class_application___green___quake_1_1_view_models_1_1_travel_points_update_1aa5d5060bd9d1f0f66a5667172565b422">WalkPoints</link> ()</para>
+</listitem>
+        </itemizedlist>
+</simplesect>
+<section>
+<title>Detailed Description</title>
+<para>
+Definition at line 18 of file TravelPointsUpdate.cs.</para>
+</section>
+<section>
+<title>Member Function Documentation</title>
+<anchor xml:id="_class_application___green___quake_1_1_view_models_1_1_travel_points_update_1aa3708339db7e23d550d96725710beff3"/>    <section>
+    <title>CarpoolPoints()</title>
+<indexterm><primary>CarpoolPoints</primary><secondary>Application_Green_Quake.ViewModels.TravelPointsUpdate</secondary></indexterm>
+<indexterm><primary>Application_Green_Quake.ViewModels.TravelPointsUpdate</primary><secondary>CarpoolPoints</secondary></indexterm>
+<para><computeroutput>async void Application_Green_Quake.ViewModels.TravelPointsUpdate.CarpoolPoints ( )</computeroutput></para>
+<para>This function updates the points in the Travel category by six points. It also increments the number of logs logged in the Travel category by one and increments the number of times this particular action was logged by one and sends this data to Firebase. </para>
+<para>
+Definition at line 35 of file TravelPointsUpdate.cs.</para>
+    </section><anchor xml:id="_class_application___green___quake_1_1_view_models_1_1_travel_points_update_1aacd4cb169215cf5b7448d9db75df21fc"/>    <section>
+    <title>CyclePoints()</title>
+<indexterm><primary>CyclePoints</primary><secondary>Application_Green_Quake.ViewModels.TravelPointsUpdate</secondary></indexterm>
+<indexterm><primary>Application_Green_Quake.ViewModels.TravelPointsUpdate</primary><secondary>CyclePoints</secondary></indexterm>
+<para><computeroutput>async void Application_Green_Quake.ViewModels.TravelPointsUpdate.CyclePoints ( )</computeroutput></para>
+<para>This function updates the points in the Travel category by ten points. It also increments the number of logs logged in the Travel category by one and increments the number of times this particular action was logged by one and sends this data to Firebase. </para>
+<para>
+Definition at line 135 of file TravelPointsUpdate.cs.</para>
+    </section><anchor xml:id="_class_application___green___quake_1_1_view_models_1_1_travel_points_update_1a0717afb3c687cf343a27d8b47c95f5dd"/>    <section>
+    <title>EcoCarPoints()</title>
+<indexterm><primary>EcoCarPoints</primary><secondary>Application_Green_Quake.ViewModels.TravelPointsUpdate</secondary></indexterm>
+<indexterm><primary>Application_Green_Quake.ViewModels.TravelPointsUpdate</primary><secondary>EcoCarPoints</secondary></indexterm>
+<para><computeroutput>async void Application_Green_Quake.ViewModels.TravelPointsUpdate.EcoCarPoints ( )</computeroutput></para>
+<para>This function updates the points in the Travel category by ten points. It also increments the number of logs logged in the Travel category by one and increments the number of times this particular action was logged by one and sends this data to Firebase. </para>
+<para>
+Definition at line 235 of file TravelPointsUpdate.cs.</para>
+    </section><anchor xml:id="_class_application___green___quake_1_1_view_models_1_1_travel_points_update_1ad8f8ca1911c8a2782db0c6d78d3a732d"/>    <section>
+    <title>TransportPoints()</title>
+<indexterm><primary>TransportPoints</primary><secondary>Application_Green_Quake.ViewModels.TravelPointsUpdate</secondary></indexterm>
+<indexterm><primary>Application_Green_Quake.ViewModels.TravelPointsUpdate</primary><secondary>TransportPoints</secondary></indexterm>
+<para><computeroutput>async void Application_Green_Quake.ViewModels.TravelPointsUpdate.TransportPoints ( )</computeroutput></para>
+<para>This function updates the points in the Travel category by eight points. It also increments the number of logs logged in the Travel category by one and increments the number of times this particular action was logged by one and sends this data to Firebase. </para>
+<para>
+Definition at line 335 of file TravelPointsUpdate.cs.</para>
+    </section><anchor xml:id="_class_application___green___quake_1_1_view_models_1_1_travel_points_update_1aa5d5060bd9d1f0f66a5667172565b422"/>    <section>
+    <title>WalkPoints()</title>
+<indexterm><primary>WalkPoints</primary><secondary>Application_Green_Quake.ViewModels.TravelPointsUpdate</secondary></indexterm>
+<indexterm><primary>Application_Green_Quake.ViewModels.TravelPointsUpdate</primary><secondary>WalkPoints</secondary></indexterm>
+<para><computeroutput>async void Application_Green_Quake.ViewModels.TravelPointsUpdate.WalkPoints ( )</computeroutput></para>
+<para>This function updates the points in the Travel category by ten points. It also increments the number of logs logged in the Travel category by one and increments the number of times this particular action was logged by one and sends this data to Firebase. </para>
+<para>
+Definition at line 435 of file TravelPointsUpdate.cs.</para>
+</section>
+<para>
+The documentation for this class was generated from the following file:</para>
+Application Green Quake/ViewModels/<link linkend="__travel_points_update_8cs">TravelPointsUpdate.cs</link></section>
+</section>

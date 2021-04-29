@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<section xmlns="http://docbook.org/ns/docbook" version="5.0" xmlns:xlink="http://www.w3.org/1999/xlink" xml:id="_class_application___green___quake_1_1_view_models_1_1_work_points_update" xml:lang="en-US">
+<title>Application_Green_Quake.ViewModels.WorkPointsUpdate Class Reference</title>
+<indexterm><primary>Application_Green_Quake.ViewModels.WorkPointsUpdate</primary></indexterm>
+<simplesect>
+    <title>Public Member Functions    </title>
+        <itemizedlist>
+            <listitem><para>async void <link linkend="_class_application___green___quake_1_1_view_models_1_1_work_points_update_1a0aeb3bbdc71c41becce7b0711f56c9cf">PaperPoints</link> ()</para>
+</listitem>
+            <listitem><para>async void <link linkend="_class_application___green___quake_1_1_view_models_1_1_work_points_update_1a6cd85928e8633844c72a0c77fb1a2be1">ElectonicsOffPoints</link> ()</para>
+</listitem>
+            <listitem><para>async void <link linkend="_class_application___green___quake_1_1_view_models_1_1_work_points_update_1a0438f1f750bf7f7f7cda086d627d4c71">RemoteWorkPoints</link> ()</para>
+</listitem>
+        </itemizedlist>
+</simplesect>
+<section>
+<title>Detailed Description</title>
+<para>
+Definition at line 18 of file WorkPointsUpdate.cs.</para>
+</section>
+<section>
+<title>Member Function Documentation</title>
+<anchor xml:id="_class_application___green___quake_1_1_view_models_1_1_work_points_update_1a6cd85928e8633844c72a0c77fb1a2be1"/>    <section>
+    <title>ElectonicsOffPoints()</title>
+<indexterm><primary>ElectonicsOffPoints</primary><secondary>Application_Green_Quake.ViewModels.WorkPointsUpdate</secondary></indexterm>
+<indexterm><primary>Application_Green_Quake.ViewModels.WorkPointsUpdate</primary><secondary>ElectonicsOffPoints</secondary></indexterm>
+<para><computeroutput>async void Application_Green_Quake.ViewModels.WorkPointsUpdate.ElectonicsOffPoints ( )</computeroutput></para>
+<para>This function updates the points in the Work category by six points. It also increments the number of logs logged in the Work category by one and increments the number of times this particular action was logged by one and sends this data to Firebase. </para>
+<para>
+Definition at line 120 of file WorkPointsUpdate.cs.</para>
+    </section><anchor xml:id="_class_application___green___quake_1_1_view_models_1_1_work_points_update_1a0aeb3bbdc71c41becce7b0711f56c9cf"/>    <section>
+    <title>PaperPoints()</title>
+<indexterm><primary>PaperPoints</primary><secondary>Application_Green_Quake.ViewModels.WorkPointsUpdate</secondary></indexterm>
+<indexterm><primary>Application_Green_Quake.ViewModels.WorkPointsUpdate</primary><secondary>PaperPoints</secondary></indexterm>
+<para><computeroutput>async void Application_Green_Quake.ViewModels.WorkPointsUpdate.PaperPoints ( )</computeroutput></para>
+<para>This function updates the points in the Work category by four points. It also increments the number of logs logged in the Work category by one and increments the number of times this particular action was logged by one and sends this data to Firebase. </para>
+<para>
+Definition at line 32 of file WorkPointsUpdate.cs.</para>
+    </section><anchor xml:id="_class_application___green___quake_1_1_view_models_1_1_work_points_update_1a0438f1f750bf7f7f7cda086d627d4c71"/>    <section>
+    <title>RemoteWorkPoints()</title>
+<indexterm><primary>RemoteWorkPoints</primary><secondary>Application_Green_Quake.ViewModels.WorkPointsUpdate</secondary></indexterm>
+<indexterm><primary>Application_Green_Quake.ViewModels.WorkPointsUpdate</primary><secondary>RemoteWorkPoints</secondary></indexterm>
+<para><computeroutput>async void Application_Green_Quake.ViewModels.WorkPointsUpdate.RemoteWorkPoints ( )</computeroutput></para>
+<para>This function updates the points in the Work category by ten points. It also increments the number of logs logged in the Work category by one and increments the number of times this particular action was logged by one and sends this data to Firebase. </para>
+<para>
+Definition at line 208 of file WorkPointsUpdate.cs.</para>
+</section>
+<para>
+The documentation for this class was generated from the following file:</para>
+Application Green Quake/ViewModels/<link linkend="__work_points_update_8cs">WorkPointsUpdate.cs</link></section>
+</section>

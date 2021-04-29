@@ -1,0 +1,310 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.9.1" xml:lang="en-US">
+  <compounddef id="classmono_1_1com_1_1microsoft_1_1appcenter_1_1utils_1_1context_1_1_user_id_context___listener_implementor" kind="class" language="Java" prot="public">
+    <compoundname>mono::com::microsoft::appcenter::utils::context::UserIdContext_ListenerImplementor</compoundname>
+    <basecompoundref prot="public" virt="non-virtual">java.lang.Object</basecompoundref>
+    <basecompoundref prot="public" virt="non-virtual">mono.android.IGCUserPeer</basecompoundref>
+    <basecompoundref prot="public" virt="non-virtual">com.microsoft.appcenter.utils.context.UserIdContext.Listener</basecompoundref>
+    <basecompoundref prot="public" virt="non-virtual">java.lang.Object</basecompoundref>
+    <basecompoundref prot="public" virt="non-virtual">mono.android.IGCUserPeer</basecompoundref>
+    <basecompoundref prot="public" virt="non-virtual">com.microsoft.appcenter.utils.context.UserIdContext.Listener</basecompoundref>
+      <sectiondef kind="public-static-attrib">
+      <memberdef kind="variable" id="classmono_1_1com_1_1microsoft_1_1appcenter_1_1utils_1_1context_1_1_user_id_context___listener_implementor_1a3dc1760bd863375b49af920ca6771d95" prot="public" static="yes" mutable="no">
+        <type>final String</type>
+        <definition>static final String mono.com.microsoft.appcenter.utils.context.UserIdContext_ListenerImplementor::__md_methods</definition>
+        <argsstring></argsstring>
+        <name>__md_methods</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+<para>@hide </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/110/android/src/mono/com/microsoft/appcenter/utils/context/UserIdContext_ListenerImplementor.java" line="11" column="28" bodyfile="Application Green Quake.Android/obj/Debug/110/android/src/mono/com/microsoft/appcenter/utils/context/UserIdContext_ListenerImplementor.java" bodystart="11" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="private-attrib">
+      <memberdef kind="variable" id="classmono_1_1com_1_1microsoft_1_1appcenter_1_1utils_1_1context_1_1_user_id_context___listener_implementor_1a8ee19c630c632551cc7b0264d754289a" prot="private" static="no" mutable="no">
+        <type>java.util.ArrayList</type>
+        <definition>java util ArrayList mono.com.microsoft.appcenter.utils.context.UserIdContext_ListenerImplementor::refList</definition>
+        <argsstring></argsstring>
+        <name>refList</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/110/android/src/mono/com/microsoft/appcenter/utils/context/UserIdContext_ListenerImplementor.java" line="35" column="27" bodyfile="Application Green Quake.Android/obj/Debug/110/android/src/mono/com/microsoft/appcenter/utils/context/UserIdContext_ListenerImplementor.java" bodystart="35" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="package-static-func">
+      <memberdef kind="function" id="classmono_1_1com_1_1microsoft_1_1appcenter_1_1utils_1_1context_1_1_user_id_context___listener_implementor_1a2395b747d918079a2c219db2b905cad9" prot="package" static="yes" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>mono.com.microsoft.appcenter.utils.context.UserIdContext_ListenerImplementor.[static initializer]</definition>
+        <argsstring></argsstring>
+        <name>[static initializer]</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/110/android/src/mono/com/microsoft/appcenter/utils/context/UserIdContext_ListenerImplementor.java" line="11" column="28"/>
+      </memberdef>
+      <memberdef kind="function" id="classmono_1_1com_1_1microsoft_1_1appcenter_1_1utils_1_1context_1_1_user_id_context___listener_implementor_1a2395b747d918079a2c219db2b905cad9" prot="package" static="yes" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>mono.com.microsoft.appcenter.utils.context.UserIdContext_ListenerImplementor.[static initializer]</definition>
+        <argsstring></argsstring>
+        <name>[static initializer]</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/110/android/src/mono/com/microsoft/appcenter/utils/context/UserIdContext_ListenerImplementor.java" line="11" column="28"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="public-func">
+      <memberdef kind="function" id="classmono_1_1com_1_1microsoft_1_1appcenter_1_1utils_1_1context_1_1_user_id_context___listener_implementor_1a8c8c1c7d4428882ff466d3e3584bd3aa" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>mono.com.microsoft.appcenter.utils.context.UserIdContext_ListenerImplementor.UserIdContext_ListenerImplementor</definition>
+        <argsstring>()</argsstring>
+        <name>UserIdContext_ListenerImplementor</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/110/android/src/mono/com/microsoft/appcenter/utils/context/UserIdContext_ListenerImplementor.java" line="20" column="8" bodyfile="Application Green Quake.Android/obj/Debug/110/android/src/mono/com/microsoft/appcenter/utils/context/UserIdContext_ListenerImplementor.java" bodystart="20" bodyend="25"/>
+      </memberdef>
+      <memberdef kind="function" id="classmono_1_1com_1_1microsoft_1_1appcenter_1_1utils_1_1context_1_1_user_id_context___listener_implementor_1a10ed3b4ba53c331f9092a283d034264d" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void mono.com.microsoft.appcenter.utils.context.UserIdContext_ListenerImplementor.onNewUserId</definition>
+        <argsstring>(java.lang.String p0)</argsstring>
+        <name>onNewUserId</name>
+        <param>
+          <type>java.lang.String</type>
+          <declname>p0</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/110/android/src/mono/com/microsoft/appcenter/utils/context/UserIdContext_ListenerImplementor.java" line="28" column="13" bodyfile="Application Green Quake.Android/obj/Debug/110/android/src/mono/com/microsoft/appcenter/utils/context/UserIdContext_ListenerImplementor.java" bodystart="28" bodyend="31"/>
+      </memberdef>
+      <memberdef kind="function" id="classmono_1_1com_1_1microsoft_1_1appcenter_1_1utils_1_1context_1_1_user_id_context___listener_implementor_1a111e580b121c487bfa47323b6d016a5f" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void mono.com.microsoft.appcenter.utils.context.UserIdContext_ListenerImplementor.monodroidAddReference</definition>
+        <argsstring>(java.lang.Object obj)</argsstring>
+        <name>monodroidAddReference</name>
+        <param>
+          <type>java.lang.Object</type>
+          <declname>obj</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/110/android/src/mono/com/microsoft/appcenter/utils/context/UserIdContext_ListenerImplementor.java" line="36" column="13" bodyfile="Application Green Quake.Android/obj/Debug/110/android/src/mono/com/microsoft/appcenter/utils/context/UserIdContext_ListenerImplementor.java" bodystart="36" bodyend="41"/>
+      </memberdef>
+      <memberdef kind="function" id="classmono_1_1com_1_1microsoft_1_1appcenter_1_1utils_1_1context_1_1_user_id_context___listener_implementor_1a17a9bd9d83fd1d1f70efbad635212fe5" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void mono.com.microsoft.appcenter.utils.context.UserIdContext_ListenerImplementor.monodroidClearReferences</definition>
+        <argsstring>()</argsstring>
+        <name>monodroidClearReferences</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/110/android/src/mono/com/microsoft/appcenter/utils/context/UserIdContext_ListenerImplementor.java" line="43" column="13" bodyfile="Application Green Quake.Android/obj/Debug/110/android/src/mono/com/microsoft/appcenter/utils/context/UserIdContext_ListenerImplementor.java" bodystart="43" bodyend="47"/>
+      </memberdef>
+      <memberdef kind="function" id="classmono_1_1com_1_1microsoft_1_1appcenter_1_1utils_1_1context_1_1_user_id_context___listener_implementor_1a8c8c1c7d4428882ff466d3e3584bd3aa" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>mono.com.microsoft.appcenter.utils.context.UserIdContext_ListenerImplementor.UserIdContext_ListenerImplementor</definition>
+        <argsstring>()</argsstring>
+        <name>UserIdContext_ListenerImplementor</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/110/android/src/mono/com/microsoft/appcenter/utils/context/UserIdContext_ListenerImplementor.java" line="20" column="8" bodyfile="Application Green Quake.Android/obj/Release/110/android/src/mono/com/microsoft/appcenter/utils/context/UserIdContext_ListenerImplementor.java" bodystart="20" bodyend="25"/>
+      </memberdef>
+      <memberdef kind="function" id="classmono_1_1com_1_1microsoft_1_1appcenter_1_1utils_1_1context_1_1_user_id_context___listener_implementor_1a10ed3b4ba53c331f9092a283d034264d" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void mono.com.microsoft.appcenter.utils.context.UserIdContext_ListenerImplementor.onNewUserId</definition>
+        <argsstring>(java.lang.String p0)</argsstring>
+        <name>onNewUserId</name>
+        <param>
+          <type>java.lang.String</type>
+          <declname>p0</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/110/android/src/mono/com/microsoft/appcenter/utils/context/UserIdContext_ListenerImplementor.java" line="28" column="13" bodyfile="Application Green Quake.Android/obj/Release/110/android/src/mono/com/microsoft/appcenter/utils/context/UserIdContext_ListenerImplementor.java" bodystart="28" bodyend="31"/>
+      </memberdef>
+      <memberdef kind="function" id="classmono_1_1com_1_1microsoft_1_1appcenter_1_1utils_1_1context_1_1_user_id_context___listener_implementor_1a111e580b121c487bfa47323b6d016a5f" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void mono.com.microsoft.appcenter.utils.context.UserIdContext_ListenerImplementor.monodroidAddReference</definition>
+        <argsstring>(java.lang.Object obj)</argsstring>
+        <name>monodroidAddReference</name>
+        <param>
+          <type>java.lang.Object</type>
+          <declname>obj</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/110/android/src/mono/com/microsoft/appcenter/utils/context/UserIdContext_ListenerImplementor.java" line="36" column="13" bodyfile="Application Green Quake.Android/obj/Release/110/android/src/mono/com/microsoft/appcenter/utils/context/UserIdContext_ListenerImplementor.java" bodystart="36" bodyend="41"/>
+      </memberdef>
+      <memberdef kind="function" id="classmono_1_1com_1_1microsoft_1_1appcenter_1_1utils_1_1context_1_1_user_id_context___listener_implementor_1a17a9bd9d83fd1d1f70efbad635212fe5" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void mono.com.microsoft.appcenter.utils.context.UserIdContext_ListenerImplementor.monodroidClearReferences</definition>
+        <argsstring>()</argsstring>
+        <name>monodroidClearReferences</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/110/android/src/mono/com/microsoft/appcenter/utils/context/UserIdContext_ListenerImplementor.java" line="43" column="13" bodyfile="Application Green Quake.Android/obj/Release/110/android/src/mono/com/microsoft/appcenter/utils/context/UserIdContext_ListenerImplementor.java" bodystart="43" bodyend="47"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="private-func">
+      <memberdef kind="function" id="classmono_1_1com_1_1microsoft_1_1appcenter_1_1utils_1_1context_1_1_user_id_context___listener_implementor_1abb8c1a34fd437978e967a8c59fad46c4" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>native void</type>
+        <definition>native void mono.com.microsoft.appcenter.utils.context.UserIdContext_ListenerImplementor.n_onNewUserId</definition>
+        <argsstring>(java.lang.String p0)</argsstring>
+        <name>n_onNewUserId</name>
+        <param>
+          <type>java.lang.String</type>
+          <declname>p0</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/110/android/src/mono/com/microsoft/appcenter/utils/context/UserIdContext_ListenerImplementor.java" line="33" column="21"/>
+      </memberdef>
+      <memberdef kind="function" id="classmono_1_1com_1_1microsoft_1_1appcenter_1_1utils_1_1context_1_1_user_id_context___listener_implementor_1abb8c1a34fd437978e967a8c59fad46c4" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>native void</type>
+        <definition>native void mono.com.microsoft.appcenter.utils.context.UserIdContext_ListenerImplementor.n_onNewUserId</definition>
+        <argsstring>(java.lang.String p0)</argsstring>
+        <name>n_onNewUserId</name>
+        <param>
+          <type>java.lang.String</type>
+          <declname>p0</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/110/android/src/mono/com/microsoft/appcenter/utils/context/UserIdContext_ListenerImplementor.java" line="33" column="21"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <inheritancegraph>
+      <node id="5">
+        <label>com.microsoft.appcenter.utils.context.UserIdContext.Listener</label>
+      </node>
+      <node id="1">
+        <label>mono.com.microsoft.appcenter.utils.context.UserIdContext_ListenerImplementor</label>
+        <link refid="classmono_1_1com_1_1microsoft_1_1appcenter_1_1utils_1_1context_1_1_user_id_context___listener_implementor"/>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+        <childnode refid="3" relation="public-inheritance">
+        </childnode>
+        <childnode refid="4" relation="public-inheritance">
+        </childnode>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+        <childnode refid="3" relation="public-inheritance">
+        </childnode>
+        <childnode refid="5" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="3">
+        <label>mono.android.IGCUserPeer</label>
+      </node>
+      <node id="2">
+        <label>java.lang.Object</label>
+      </node>
+      <node id="4">
+        <label>com::microsoft::appcenter::utils::context::UserIdContext::Listener</label>
+      </node>
+    </inheritancegraph>
+    <collaborationgraph>
+      <node id="5">
+        <label>com.microsoft.appcenter.utils.context.UserIdContext.Listener</label>
+      </node>
+      <node id="1">
+        <label>mono.com.microsoft.appcenter.utils.context.UserIdContext_ListenerImplementor</label>
+        <link refid="classmono_1_1com_1_1microsoft_1_1appcenter_1_1utils_1_1context_1_1_user_id_context___listener_implementor"/>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+        <childnode refid="3" relation="public-inheritance">
+        </childnode>
+        <childnode refid="4" relation="public-inheritance">
+        </childnode>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+        <childnode refid="3" relation="public-inheritance">
+        </childnode>
+        <childnode refid="5" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="3">
+        <label>mono.android.IGCUserPeer</label>
+      </node>
+      <node id="2">
+        <label>java.lang.Object</label>
+      </node>
+      <node id="4">
+        <label>com::microsoft::appcenter::utils::context::UserIdContext::Listener</label>
+      </node>
+    </collaborationgraph>
+    <location file="Application Green Quake.Android/obj/Debug/110/android/src/mono/com/microsoft/appcenter/utils/context/UserIdContext_ListenerImplementor.java" line="4" column="7" bodyfile="Application Green Quake.Android/obj/Debug/110/android/src/mono/com/microsoft/appcenter/utils/context/UserIdContext_ListenerImplementor.java" bodystart="9" bodyend="48"/>
+    <listofallmembers>
+      <member refid="classmono_1_1com_1_1microsoft_1_1appcenter_1_1utils_1_1context_1_1_user_id_context___listener_implementor_1a2395b747d918079a2c219db2b905cad9" prot="package" virt="non-virtual"><scope>mono::com::microsoft::appcenter::utils::context::UserIdContext_ListenerImplementor</scope><name>[static initializer]</name></member>
+      <member refid="classmono_1_1com_1_1microsoft_1_1appcenter_1_1utils_1_1context_1_1_user_id_context___listener_implementor_1a2395b747d918079a2c219db2b905cad9" prot="package" virt="non-virtual"><scope>mono::com::microsoft::appcenter::utils::context::UserIdContext_ListenerImplementor</scope><name>[static initializer]</name></member>
+      <member refid="classmono_1_1com_1_1microsoft_1_1appcenter_1_1utils_1_1context_1_1_user_id_context___listener_implementor_1a3dc1760bd863375b49af920ca6771d95" prot="public" virt="non-virtual"><scope>mono::com::microsoft::appcenter::utils::context::UserIdContext_ListenerImplementor</scope><name>__md_methods</name></member>
+      <member refid="classmono_1_1com_1_1microsoft_1_1appcenter_1_1utils_1_1context_1_1_user_id_context___listener_implementor_1a111e580b121c487bfa47323b6d016a5f" prot="public" virt="non-virtual"><scope>mono::com::microsoft::appcenter::utils::context::UserIdContext_ListenerImplementor</scope><name>monodroidAddReference</name></member>
+      <member refid="classmono_1_1com_1_1microsoft_1_1appcenter_1_1utils_1_1context_1_1_user_id_context___listener_implementor_1a111e580b121c487bfa47323b6d016a5f" prot="public" virt="non-virtual"><scope>mono::com::microsoft::appcenter::utils::context::UserIdContext_ListenerImplementor</scope><name>monodroidAddReference</name></member>
+      <member refid="classmono_1_1com_1_1microsoft_1_1appcenter_1_1utils_1_1context_1_1_user_id_context___listener_implementor_1a17a9bd9d83fd1d1f70efbad635212fe5" prot="public" virt="non-virtual"><scope>mono::com::microsoft::appcenter::utils::context::UserIdContext_ListenerImplementor</scope><name>monodroidClearReferences</name></member>
+      <member refid="classmono_1_1com_1_1microsoft_1_1appcenter_1_1utils_1_1context_1_1_user_id_context___listener_implementor_1a17a9bd9d83fd1d1f70efbad635212fe5" prot="public" virt="non-virtual"><scope>mono::com::microsoft::appcenter::utils::context::UserIdContext_ListenerImplementor</scope><name>monodroidClearReferences</name></member>
+      <member refid="classmono_1_1com_1_1microsoft_1_1appcenter_1_1utils_1_1context_1_1_user_id_context___listener_implementor_1abb8c1a34fd437978e967a8c59fad46c4" prot="private" virt="non-virtual"><scope>mono::com::microsoft::appcenter::utils::context::UserIdContext_ListenerImplementor</scope><name>n_onNewUserId</name></member>
+      <member refid="classmono_1_1com_1_1microsoft_1_1appcenter_1_1utils_1_1context_1_1_user_id_context___listener_implementor_1abb8c1a34fd437978e967a8c59fad46c4" prot="private" virt="non-virtual"><scope>mono::com::microsoft::appcenter::utils::context::UserIdContext_ListenerImplementor</scope><name>n_onNewUserId</name></member>
+      <member refid="classmono_1_1com_1_1microsoft_1_1appcenter_1_1utils_1_1context_1_1_user_id_context___listener_implementor_1a10ed3b4ba53c331f9092a283d034264d" prot="public" virt="non-virtual"><scope>mono::com::microsoft::appcenter::utils::context::UserIdContext_ListenerImplementor</scope><name>onNewUserId</name></member>
+      <member refid="classmono_1_1com_1_1microsoft_1_1appcenter_1_1utils_1_1context_1_1_user_id_context___listener_implementor_1a10ed3b4ba53c331f9092a283d034264d" prot="public" virt="non-virtual"><scope>mono::com::microsoft::appcenter::utils::context::UserIdContext_ListenerImplementor</scope><name>onNewUserId</name></member>
+      <member refid="classmono_1_1com_1_1microsoft_1_1appcenter_1_1utils_1_1context_1_1_user_id_context___listener_implementor_1a8ee19c630c632551cc7b0264d754289a" prot="private" virt="non-virtual"><scope>mono::com::microsoft::appcenter::utils::context::UserIdContext_ListenerImplementor</scope><name>refList</name></member>
+      <member refid="classmono_1_1com_1_1microsoft_1_1appcenter_1_1utils_1_1context_1_1_user_id_context___listener_implementor_1a8c8c1c7d4428882ff466d3e3584bd3aa" prot="public" virt="non-virtual"><scope>mono::com::microsoft::appcenter::utils::context::UserIdContext_ListenerImplementor</scope><name>UserIdContext_ListenerImplementor</name></member>
+      <member refid="classmono_1_1com_1_1microsoft_1_1appcenter_1_1utils_1_1context_1_1_user_id_context___listener_implementor_1a8c8c1c7d4428882ff466d3e3584bd3aa" prot="public" virt="non-virtual"><scope>mono::com::microsoft::appcenter::utils::context::UserIdContext_ListenerImplementor</scope><name>UserIdContext_ListenerImplementor</name></member>
+    </listofallmembers>
+  </compounddef>
+</doxygen>

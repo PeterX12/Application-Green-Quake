@@ -1,4 +1,4 @@
-﻿/*! \mainpage The AuthDroid Native Android Class
+﻿/*! \class The AuthDroid Native Android Class
  * \author Peter Lucan, 4th Year Software Development student at IT Carlow, C00228946, c00228956@itcarlow.ie
  * \date 28/04/2021
  * \section desc_sec Description

@@ -1,0 +1,106 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.9.1" xml:lang="en-US">
+  <compounddef id="class_application___green___quake_1_1_view_models_1_1_advanced_points_update" kind="class" language="C#" prot="public">
+    <compoundname>Application_Green_Quake::ViewModels::AdvancedPointsUpdate</compoundname>
+      <sectiondef kind="private-attrib">
+      <memberdef kind="variable" id="class_application___green___quake_1_1_view_models_1_1_advanced_points_update_1a9fd2586df843aac74a34e4a653a4d93c" prot="private" static="no" mutable="no">
+        <type>int</type>
+        <definition>int Application_Green_Quake.ViewModels.AdvancedPointsUpdate.points2</definition>
+        <argsstring></argsstring>
+        <name>points2</name>
+        <initializer>= 0</initializer>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake/ViewModels/AdvancedPointsUpdate.cs" line="20" column="13" bodyfile="Application Green Quake/ViewModels/AdvancedPointsUpdate.cs" bodystart="20" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_application___green___quake_1_1_view_models_1_1_advanced_points_update_1af0fb2491dbb08c9aaaf876d19712237f" prot="private" static="no" mutable="no">
+        <type>int</type>
+        <definition>int Application_Green_Quake.ViewModels.AdvancedPointsUpdate.numberOfLogs2</definition>
+        <argsstring></argsstring>
+        <name>numberOfLogs2</name>
+        <initializer>= 0</initializer>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake/ViewModels/AdvancedPointsUpdate.cs" line="21" column="13" bodyfile="Application Green Quake/ViewModels/AdvancedPointsUpdate.cs" bodystart="21" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_application___green___quake_1_1_view_models_1_1_advanced_points_update_1a86407b1115228a16965513431512f795" prot="private" static="no" mutable="no">
+        <type>int</type>
+        <definition>int Application_Green_Quake.ViewModels.AdvancedPointsUpdate.fixCount2</definition>
+        <argsstring></argsstring>
+        <name>fixCount2</name>
+        <initializer>= 0</initializer>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake/ViewModels/AdvancedPointsUpdate.cs" line="22" column="13" bodyfile="Application Green Quake/ViewModels/AdvancedPointsUpdate.cs" bodystart="22" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_application___green___quake_1_1_view_models_1_1_advanced_points_update_1a498b5b273802f2e305a6ead9f2b3e1c2" prot="private" static="no" mutable="no">
+        <type>string</type>
+        <definition>string Application_Green_Quake.ViewModels.AdvancedPointsUpdate.username</definition>
+        <argsstring></argsstring>
+        <name>username</name>
+        <initializer>= &quot;&quot;</initializer>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake/ViewModels/AdvancedPointsUpdate.cs" line="23" column="16" bodyfile="Application Green Quake/ViewModels/AdvancedPointsUpdate.cs" bodystart="23" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_application___green___quake_1_1_view_models_1_1_advanced_points_update_1aa5fc83fd023f0245a8c97a410f9d3346" prot="private" static="no" mutable="no">
+        <type><ref refid="interface_application___green___quake_1_1_i_auth" kindref="compound">IAuth</ref></type>
+        <definition>IAuth Application_Green_Quake.ViewModels.AdvancedPointsUpdate.auth</definition>
+        <argsstring></argsstring>
+        <name>auth</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake/ViewModels/AdvancedPointsUpdate.cs" line="25" column="15" bodyfile="Application Green Quake/ViewModels/AdvancedPointsUpdate.cs" bodystart="25" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="public-func">
+      <memberdef kind="function" id="class_application___green___quake_1_1_view_models_1_1_advanced_points_update_1a9898a6b068c3ef09901b7d80ec9dd91c" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>async void</type>
+        <definition>async void Application_Green_Quake.ViewModels.AdvancedPointsUpdate.FixPoints</definition>
+        <argsstring>()</argsstring>
+        <name>FixPoints</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+<para>This function updates the points in the Advanced category by ten points. It also increments the number of logs logged in the Advanced category by one and increments the number of times this particular action was logged by one and sends this data to Firebase. </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake/ViewModels/AdvancedPointsUpdate.cs" line="29" column="27" bodyfile="Application Green Quake/ViewModels/AdvancedPointsUpdate.cs" bodystart="29" bodyend="99"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <location file="Application Green Quake/ViewModels/AdvancedPointsUpdate.cs" line="18" column="5" bodyfile="Application Green Quake/ViewModels/AdvancedPointsUpdate.cs" bodystart="19" bodyend="100"/>
+    <listofallmembers>
+      <member refid="class_application___green___quake_1_1_view_models_1_1_advanced_points_update_1aa5fc83fd023f0245a8c97a410f9d3346" prot="private" virt="non-virtual"><scope>Application_Green_Quake::ViewModels::AdvancedPointsUpdate</scope><name>auth</name></member>
+      <member refid="class_application___green___quake_1_1_view_models_1_1_advanced_points_update_1a86407b1115228a16965513431512f795" prot="private" virt="non-virtual"><scope>Application_Green_Quake::ViewModels::AdvancedPointsUpdate</scope><name>fixCount2</name></member>
+      <member refid="class_application___green___quake_1_1_view_models_1_1_advanced_points_update_1a9898a6b068c3ef09901b7d80ec9dd91c" prot="public" virt="non-virtual"><scope>Application_Green_Quake::ViewModels::AdvancedPointsUpdate</scope><name>FixPoints</name></member>
+      <member refid="class_application___green___quake_1_1_view_models_1_1_advanced_points_update_1af0fb2491dbb08c9aaaf876d19712237f" prot="private" virt="non-virtual"><scope>Application_Green_Quake::ViewModels::AdvancedPointsUpdate</scope><name>numberOfLogs2</name></member>
+      <member refid="class_application___green___quake_1_1_view_models_1_1_advanced_points_update_1a9fd2586df843aac74a34e4a653a4d93c" prot="private" virt="non-virtual"><scope>Application_Green_Quake::ViewModels::AdvancedPointsUpdate</scope><name>points2</name></member>
+      <member refid="class_application___green___quake_1_1_view_models_1_1_advanced_points_update_1a498b5b273802f2e305a6ead9f2b3e1c2" prot="private" virt="non-virtual"><scope>Application_Green_Quake::ViewModels::AdvancedPointsUpdate</scope><name>username</name></member>
+    </listofallmembers>
+  </compounddef>
+</doxygen>

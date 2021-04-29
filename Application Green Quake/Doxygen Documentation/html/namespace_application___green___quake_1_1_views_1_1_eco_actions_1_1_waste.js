@@ -1,0 +1,8 @@
+var namespace_application___green___quake_1_1_views_1_1_eco_actions_1_1_waste =
+[
+    [ "BillsOnline", "class_application___green___quake_1_1_views_1_1_eco_actions_1_1_waste_1_1_bills_online.html", "class_application___green___quake_1_1_views_1_1_eco_actions_1_1_waste_1_1_bills_online" ],
+    [ "CompostWaste", "class_application___green___quake_1_1_views_1_1_eco_actions_1_1_waste_1_1_compost_waste.html", "class_application___green___quake_1_1_views_1_1_eco_actions_1_1_waste_1_1_compost_waste" ],
+    [ "SetUpRecyclingBin", "class_application___green___quake_1_1_views_1_1_eco_actions_1_1_waste_1_1_set_up_recycling_bin.html", "class_application___green___quake_1_1_views_1_1_eco_actions_1_1_waste_1_1_set_up_recycling_bin" ],
+    [ "UseBiogradableBinBags", "class_application___green___quake_1_1_views_1_1_eco_actions_1_1_waste_1_1_use_biogradable_bin_bags.html", "class_application___green___quake_1_1_views_1_1_eco_actions_1_1_waste_1_1_use_biogradable_bin_bags" ],
+    [ "UseRecyclingBin", "class_application___green___quake_1_1_views_1_1_eco_actions_1_1_waste_1_1_use_recycling_bin.html", "class_application___green___quake_1_1_views_1_1_eco_actions_1_1_waste_1_1_use_recycling_bin" ]
+];

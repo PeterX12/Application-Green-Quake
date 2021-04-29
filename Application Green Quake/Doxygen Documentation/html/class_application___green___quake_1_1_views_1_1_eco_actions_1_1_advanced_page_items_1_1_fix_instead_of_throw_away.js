@@ -1,0 +1,5 @@
+var class_application___green___quake_1_1_views_1_1_eco_actions_1_1_advanced_page_items_1_1_fix_instead_of_throw_away =
+[
+    [ "FixInsteadOfThrowAway", "class_application___green___quake_1_1_views_1_1_eco_actions_1_1_advanced_page_items_1_1_fix_instead_of_throw_away.html#a00b3f2b80df8085f7a50ce578e4f28a4", null ],
+    [ "OnAppearing", "class_application___green___quake_1_1_views_1_1_eco_actions_1_1_advanced_page_items_1_1_fix_instead_of_throw_away.html#a1579d0768dc03c05d65b7cfe209599db", null ]
+];

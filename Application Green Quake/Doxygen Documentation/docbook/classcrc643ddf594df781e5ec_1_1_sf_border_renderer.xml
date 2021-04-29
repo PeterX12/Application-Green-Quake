@@ -1,0 +1,122 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<section xmlns="http://docbook.org/ns/docbook" version="5.0" xmlns:xlink="http://www.w3.org/1999/xlink" xml:id="_classcrc643ddf594df781e5ec_1_1_sf_border_renderer" xml:lang="en-US">
+<title>crc643ddf594df781e5ec.SfBorderRenderer Class Reference</title>
+<indexterm><primary>crc643ddf594df781e5ec.SfBorderRenderer</primary></indexterm>
+Inheritance diagram for crc643ddf594df781e5ec.SfBorderRenderer:<para>
+    <informalfigure>
+        <mediaobject>
+            <imageobject>
+                <imagedata width="50%" align="center" valign="middle" scalefit="0" fileref="classcrc643ddf594df781e5ec_1_1_sf_border_renderer__inherit__graph.png"></imagedata>
+            </imageobject>
+        </mediaobject>
+    </informalfigure>
+</para>
+Collaboration diagram for crc643ddf594df781e5ec.SfBorderRenderer:<para>
+    <informalfigure>
+        <mediaobject>
+            <imageobject>
+                <imagedata width="50%" align="center" valign="middle" scalefit="0" fileref="classcrc643ddf594df781e5ec_1_1_sf_border_renderer__coll__graph.png"></imagedata>
+            </imageobject>
+        </mediaobject>
+    </informalfigure>
+</para>
+<simplesect>
+    <title>Public Member Functions    </title>
+        <itemizedlist>
+            <listitem><para><link linkend="_classcrc643ddf594df781e5ec_1_1_sf_border_renderer_1a2f8f4c818eac809419a27d30c9fa2e18">SfBorderRenderer</link> (android.content.Context p0, android.util.AttributeSet p1, int p2)</para>
+</listitem>
+            <listitem><para><link linkend="_classcrc643ddf594df781e5ec_1_1_sf_border_renderer_1ab5346da36ee916c010155d9cb7d813ca">SfBorderRenderer</link> (android.content.Context p0, android.util.AttributeSet p1)</para>
+</listitem>
+            <listitem><para><link linkend="_classcrc643ddf594df781e5ec_1_1_sf_border_renderer_1a2b53afbf9e91b0bc286d5caca19dc137">SfBorderRenderer</link> (android.content.Context p0)</para>
+</listitem>
+            <listitem><para>void <link linkend="_classcrc643ddf594df781e5ec_1_1_sf_border_renderer_1a7e7a301ee2036d183cd6221493dfe100">onDraw</link> (android.graphics.Canvas p0)</para>
+</listitem>
+            <listitem><para>boolean <link linkend="_classcrc643ddf594df781e5ec_1_1_sf_border_renderer_1af7f8265f52ab6e4ab3d74b1192d8f1b5">drawChild</link> (android.graphics.Canvas p0, android.view.View p1, long p2)</para>
+</listitem>
+            <listitem><para>void <link linkend="_classcrc643ddf594df781e5ec_1_1_sf_border_renderer_1ac451a5e68553fb20ba93d93b0679dd34">monodroidAddReference</link> (java.lang.Object obj)</para>
+</listitem>
+            <listitem><para>void <link linkend="_classcrc643ddf594df781e5ec_1_1_sf_border_renderer_1a0976eb1861d0987a646ae49ff4e840a3">monodroidClearReferences</link> ()</para>
+</listitem>
+        </itemizedlist>
+</simplesect>
+<simplesect>
+    <title>Static Public Attributes    </title>
+        <itemizedlist>
+            <listitem><para>static final String <link linkend="_classcrc643ddf594df781e5ec_1_1_sf_border_renderer_1a7220503ffbed67df8e2f5b588224a2dc">__md_methods</link></para>
+</listitem>
+        </itemizedlist>
+</simplesect>
+<section>
+<title>Detailed Description</title>
+<para>
+Definition at line 4 of file SfBorderRenderer.java.</para>
+</section>
+<section>
+<title>Constructor &amp; Destructor Documentation</title>
+<anchor xml:id="_classcrc643ddf594df781e5ec_1_1_sf_border_renderer_1a2f8f4c818eac809419a27d30c9fa2e18"/>    <section>
+    <title>SfBorderRenderer()<computeroutput>[1/3]</computeroutput></title>
+<indexterm><primary>SfBorderRenderer</primary><secondary>crc643ddf594df781e5ec.SfBorderRenderer</secondary></indexterm>
+<indexterm><primary>crc643ddf594df781e5ec.SfBorderRenderer</primary><secondary>SfBorderRenderer</secondary></indexterm>
+<para><computeroutput>crc643ddf594df781e5ec.SfBorderRenderer.SfBorderRenderer (android.content.Context p0, android.util.AttributeSet p1, int p2)</computeroutput></para><para>
+Definition at line 20 of file SfBorderRenderer.java.</para>
+    </section><anchor xml:id="_classcrc643ddf594df781e5ec_1_1_sf_border_renderer_1ab5346da36ee916c010155d9cb7d813ca"/>    <section>
+    <title>SfBorderRenderer()<computeroutput>[2/3]</computeroutput></title>
+<indexterm><primary>SfBorderRenderer</primary><secondary>crc643ddf594df781e5ec.SfBorderRenderer</secondary></indexterm>
+<indexterm><primary>crc643ddf594df781e5ec.SfBorderRenderer</primary><secondary>SfBorderRenderer</secondary></indexterm>
+<para><computeroutput>crc643ddf594df781e5ec.SfBorderRenderer.SfBorderRenderer (android.content.Context p0, android.util.AttributeSet p1)</computeroutput></para><para>
+Definition at line 28 of file SfBorderRenderer.java.</para>
+    </section><anchor xml:id="_classcrc643ddf594df781e5ec_1_1_sf_border_renderer_1a2b53afbf9e91b0bc286d5caca19dc137"/>    <section>
+    <title>SfBorderRenderer()<computeroutput>[3/3]</computeroutput></title>
+<indexterm><primary>SfBorderRenderer</primary><secondary>crc643ddf594df781e5ec.SfBorderRenderer</secondary></indexterm>
+<indexterm><primary>crc643ddf594df781e5ec.SfBorderRenderer</primary><secondary>SfBorderRenderer</secondary></indexterm>
+<para><computeroutput>crc643ddf594df781e5ec.SfBorderRenderer.SfBorderRenderer (android.content.Context p0)</computeroutput></para><para>
+Definition at line 36 of file SfBorderRenderer.java.</para>
+</section>
+</section>
+<section>
+<title>Member Function Documentation</title>
+<anchor xml:id="_classcrc643ddf594df781e5ec_1_1_sf_border_renderer_1af7f8265f52ab6e4ab3d74b1192d8f1b5"/>    <section>
+    <title>drawChild()</title>
+<indexterm><primary>drawChild</primary><secondary>crc643ddf594df781e5ec.SfBorderRenderer</secondary></indexterm>
+<indexterm><primary>crc643ddf594df781e5ec.SfBorderRenderer</primary><secondary>drawChild</secondary></indexterm>
+<para><computeroutput>boolean crc643ddf594df781e5ec.SfBorderRenderer.drawChild (android.graphics.Canvas p0, android.view.View p1, long p2)</computeroutput></para><para>
+Definition at line 52 of file SfBorderRenderer.java.</para>
+    </section><anchor xml:id="_classcrc643ddf594df781e5ec_1_1_sf_border_renderer_1ac451a5e68553fb20ba93d93b0679dd34"/>    <section>
+    <title>monodroidAddReference()</title>
+<indexterm><primary>monodroidAddReference</primary><secondary>crc643ddf594df781e5ec.SfBorderRenderer</secondary></indexterm>
+<indexterm><primary>crc643ddf594df781e5ec.SfBorderRenderer</primary><secondary>monodroidAddReference</secondary></indexterm>
+<para><computeroutput>void crc643ddf594df781e5ec.SfBorderRenderer.monodroidAddReference (java.lang.Object obj)</computeroutput></para><para>
+Reimplemented from <link linkend="_classcrc643f46942d9dd1fff9_1_1_view_renderer_1a767ec8047a7e678d878172d24e1f61ac">crc643f46942d9dd1fff9.ViewRenderer</link>.</para>
+<para>
+Definition at line 60 of file SfBorderRenderer.java.</para>
+    </section><anchor xml:id="_classcrc643ddf594df781e5ec_1_1_sf_border_renderer_1a0976eb1861d0987a646ae49ff4e840a3"/>    <section>
+    <title>monodroidClearReferences()</title>
+<indexterm><primary>monodroidClearReferences</primary><secondary>crc643ddf594df781e5ec.SfBorderRenderer</secondary></indexterm>
+<indexterm><primary>crc643ddf594df781e5ec.SfBorderRenderer</primary><secondary>monodroidClearReferences</secondary></indexterm>
+<para><computeroutput>void crc643ddf594df781e5ec.SfBorderRenderer.monodroidClearReferences ( )</computeroutput></para><para>
+Reimplemented from <link linkend="_classcrc643f46942d9dd1fff9_1_1_view_renderer_1a7a3d481edf93ee26421c84e284af4cd4">crc643f46942d9dd1fff9.ViewRenderer</link>.</para>
+<para>
+Definition at line 67 of file SfBorderRenderer.java.</para>
+    </section><anchor xml:id="_classcrc643ddf594df781e5ec_1_1_sf_border_renderer_1a7e7a301ee2036d183cd6221493dfe100"/>    <section>
+    <title>onDraw()</title>
+<indexterm><primary>onDraw</primary><secondary>crc643ddf594df781e5ec.SfBorderRenderer</secondary></indexterm>
+<indexterm><primary>crc643ddf594df781e5ec.SfBorderRenderer</primary><secondary>onDraw</secondary></indexterm>
+<para><computeroutput>void crc643ddf594df781e5ec.SfBorderRenderer.onDraw (android.graphics.Canvas p0)</computeroutput></para><para>
+Definition at line 44 of file SfBorderRenderer.java.</para>
+</section>
+</section>
+<section>
+<title>Member Data Documentation</title>
+<anchor xml:id="_classcrc643ddf594df781e5ec_1_1_sf_border_renderer_1a7220503ffbed67df8e2f5b588224a2dc"/>    <section>
+    <title>__md_methods</title>
+<indexterm><primary>__md_methods</primary><secondary>crc643ddf594df781e5ec.SfBorderRenderer</secondary></indexterm>
+<indexterm><primary>crc643ddf594df781e5ec.SfBorderRenderer</primary><secondary>__md_methods</secondary></indexterm>
+<para><computeroutput>final String crc643ddf594df781e5ec.SfBorderRenderer.__md_methods<computeroutput>[static]</computeroutput></computeroutput></para>
+<para>@hide </para>
+<para>
+Definition at line 10 of file SfBorderRenderer.java.</para>
+</section>
+<para>
+The documentation for this class was generated from the following file:</para>
+Application Green Quake.Android/obj/Debug/110/android/src/crc643ddf594df781e5ec/<link linkend="__sf_border_renderer_8java">SfBorderRenderer.java</link></section>
+</section>

@@ -1,0 +1,286 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<section xmlns="http://docbook.org/ns/docbook" version="5.0" xmlns:xlink="http://www.w3.org/1999/xlink" xml:id="_classmono_1_1androidx_1_1drawerlayout_1_1widget_1_1_drawer_layout___drawer_listener_implementor" xml:lang="en-US">
+<title>mono.androidx.drawerlayout.widget.DrawerLayout_DrawerListenerImplementor Class Reference</title>
+<indexterm><primary>mono.androidx.drawerlayout.widget.DrawerLayout_DrawerListenerImplementor</primary></indexterm>
+Inheritance diagram for mono.androidx.drawerlayout.widget.DrawerLayout_DrawerListenerImplementor:<para>
+    <informalfigure>
+        <mediaobject>
+            <imageobject>
+                <imagedata width="50%" align="center" valign="middle" scalefit="0" fileref="classmono_1_1androidx_1_1drawerlayout_1_1widget_1_1_drawer_layout___drawer_listener_implementor__inherit__graph.png"></imagedata>
+            </imageobject>
+        </mediaobject>
+    </informalfigure>
+</para>
+Collaboration diagram for mono.androidx.drawerlayout.widget.DrawerLayout_DrawerListenerImplementor:<para>
+    <informalfigure>
+        <mediaobject>
+            <imageobject>
+                <imagedata width="50%" align="center" valign="middle" scalefit="0" fileref="classmono_1_1androidx_1_1drawerlayout_1_1widget_1_1_drawer_layout___drawer_listener_implementor__coll__graph.png"></imagedata>
+            </imageobject>
+        </mediaobject>
+    </informalfigure>
+</para>
+<simplesect>
+    <title>Public Member Functions    </title>
+        <itemizedlist>
+            <listitem><para><link linkend="_classmono_1_1androidx_1_1drawerlayout_1_1widget_1_1_drawer_layout___drawer_listener_implementor_1a21e625a7d3ce5a0b8a7618b2f4f683ab">DrawerLayout_DrawerListenerImplementor</link> ()</para>
+</listitem>
+            <listitem><para>void <link linkend="_classmono_1_1androidx_1_1drawerlayout_1_1widget_1_1_drawer_layout___drawer_listener_implementor_1ac7da43fa2895bd2a038fbc99d2d782a9">onDrawerClosed</link> (android.view.View p0)</para>
+</listitem>
+            <listitem><para>void <link linkend="_classmono_1_1androidx_1_1drawerlayout_1_1widget_1_1_drawer_layout___drawer_listener_implementor_1a07bc064763976bc4731b245457419f4e">onDrawerOpened</link> (android.view.View p0)</para>
+</listitem>
+            <listitem><para>void <link linkend="_classmono_1_1androidx_1_1drawerlayout_1_1widget_1_1_drawer_layout___drawer_listener_implementor_1a30c75de4a6d8eca3db0656bb29cccf39">onDrawerSlide</link> (android.view.View p0, float p1)</para>
+</listitem>
+            <listitem><para>void <link linkend="_classmono_1_1androidx_1_1drawerlayout_1_1widget_1_1_drawer_layout___drawer_listener_implementor_1aec839cb149007cb9e79b260b83ffd09c">onDrawerStateChanged</link> (int p0)</para>
+</listitem>
+            <listitem><para>void <link linkend="_classmono_1_1androidx_1_1drawerlayout_1_1widget_1_1_drawer_layout___drawer_listener_implementor_1afcce71af459b3d4f0ab5c470529b9aa1">monodroidAddReference</link> (java.lang.Object obj)</para>
+</listitem>
+            <listitem><para>void <link linkend="_classmono_1_1androidx_1_1drawerlayout_1_1widget_1_1_drawer_layout___drawer_listener_implementor_1a52e017dd8f13bf97d1e05ff6d8cec4ec">monodroidClearReferences</link> ()</para>
+</listitem>
+            <listitem><para><link linkend="_classmono_1_1androidx_1_1drawerlayout_1_1widget_1_1_drawer_layout___drawer_listener_implementor_1a21e625a7d3ce5a0b8a7618b2f4f683ab">DrawerLayout_DrawerListenerImplementor</link> ()</para>
+</listitem>
+            <listitem><para>void <link linkend="_classmono_1_1androidx_1_1drawerlayout_1_1widget_1_1_drawer_layout___drawer_listener_implementor_1ac7da43fa2895bd2a038fbc99d2d782a9">onDrawerClosed</link> (android.view.View p0)</para>
+</listitem>
+            <listitem><para>void <link linkend="_classmono_1_1androidx_1_1drawerlayout_1_1widget_1_1_drawer_layout___drawer_listener_implementor_1a07bc064763976bc4731b245457419f4e">onDrawerOpened</link> (android.view.View p0)</para>
+</listitem>
+            <listitem><para>void <link linkend="_classmono_1_1androidx_1_1drawerlayout_1_1widget_1_1_drawer_layout___drawer_listener_implementor_1a30c75de4a6d8eca3db0656bb29cccf39">onDrawerSlide</link> (android.view.View p0, float p1)</para>
+</listitem>
+            <listitem><para>void <link linkend="_classmono_1_1androidx_1_1drawerlayout_1_1widget_1_1_drawer_layout___drawer_listener_implementor_1aec839cb149007cb9e79b260b83ffd09c">onDrawerStateChanged</link> (int p0)</para>
+</listitem>
+            <listitem><para>void <link linkend="_classmono_1_1androidx_1_1drawerlayout_1_1widget_1_1_drawer_layout___drawer_listener_implementor_1afcce71af459b3d4f0ab5c470529b9aa1">monodroidAddReference</link> (java.lang.Object obj)</para>
+</listitem>
+            <listitem><para>void <link linkend="_classmono_1_1androidx_1_1drawerlayout_1_1widget_1_1_drawer_layout___drawer_listener_implementor_1a52e017dd8f13bf97d1e05ff6d8cec4ec">monodroidClearReferences</link> ()</para>
+</listitem>
+            <listitem><para><link linkend="_classmono_1_1androidx_1_1drawerlayout_1_1widget_1_1_drawer_layout___drawer_listener_implementor_1a21e625a7d3ce5a0b8a7618b2f4f683ab">DrawerLayout_DrawerListenerImplementor</link> ()</para>
+</listitem>
+            <listitem><para>void <link linkend="_classmono_1_1androidx_1_1drawerlayout_1_1widget_1_1_drawer_layout___drawer_listener_implementor_1ac7da43fa2895bd2a038fbc99d2d782a9">onDrawerClosed</link> (android.view.View p0)</para>
+</listitem>
+            <listitem><para>void <link linkend="_classmono_1_1androidx_1_1drawerlayout_1_1widget_1_1_drawer_layout___drawer_listener_implementor_1a07bc064763976bc4731b245457419f4e">onDrawerOpened</link> (android.view.View p0)</para>
+</listitem>
+            <listitem><para>void <link linkend="_classmono_1_1androidx_1_1drawerlayout_1_1widget_1_1_drawer_layout___drawer_listener_implementor_1a30c75de4a6d8eca3db0656bb29cccf39">onDrawerSlide</link> (android.view.View p0, float p1)</para>
+</listitem>
+            <listitem><para>void <link linkend="_classmono_1_1androidx_1_1drawerlayout_1_1widget_1_1_drawer_layout___drawer_listener_implementor_1aec839cb149007cb9e79b260b83ffd09c">onDrawerStateChanged</link> (int p0)</para>
+</listitem>
+            <listitem><para>void <link linkend="_classmono_1_1androidx_1_1drawerlayout_1_1widget_1_1_drawer_layout___drawer_listener_implementor_1afcce71af459b3d4f0ab5c470529b9aa1">monodroidAddReference</link> (java.lang.Object obj)</para>
+</listitem>
+            <listitem><para>void <link linkend="_classmono_1_1androidx_1_1drawerlayout_1_1widget_1_1_drawer_layout___drawer_listener_implementor_1a52e017dd8f13bf97d1e05ff6d8cec4ec">monodroidClearReferences</link> ()</para>
+</listitem>
+            <listitem><para><link linkend="_classmono_1_1androidx_1_1drawerlayout_1_1widget_1_1_drawer_layout___drawer_listener_implementor_1a21e625a7d3ce5a0b8a7618b2f4f683ab">DrawerLayout_DrawerListenerImplementor</link> ()</para>
+</listitem>
+            <listitem><para>void <link linkend="_classmono_1_1androidx_1_1drawerlayout_1_1widget_1_1_drawer_layout___drawer_listener_implementor_1ac7da43fa2895bd2a038fbc99d2d782a9">onDrawerClosed</link> (android.view.View p0)</para>
+</listitem>
+            <listitem><para>void <link linkend="_classmono_1_1androidx_1_1drawerlayout_1_1widget_1_1_drawer_layout___drawer_listener_implementor_1a07bc064763976bc4731b245457419f4e">onDrawerOpened</link> (android.view.View p0)</para>
+</listitem>
+            <listitem><para>void <link linkend="_classmono_1_1androidx_1_1drawerlayout_1_1widget_1_1_drawer_layout___drawer_listener_implementor_1a30c75de4a6d8eca3db0656bb29cccf39">onDrawerSlide</link> (android.view.View p0, float p1)</para>
+</listitem>
+            <listitem><para>void <link linkend="_classmono_1_1androidx_1_1drawerlayout_1_1widget_1_1_drawer_layout___drawer_listener_implementor_1aec839cb149007cb9e79b260b83ffd09c">onDrawerStateChanged</link> (int p0)</para>
+</listitem>
+            <listitem><para>void <link linkend="_classmono_1_1androidx_1_1drawerlayout_1_1widget_1_1_drawer_layout___drawer_listener_implementor_1afcce71af459b3d4f0ab5c470529b9aa1">monodroidAddReference</link> (java.lang.Object obj)</para>
+</listitem>
+            <listitem><para>void <link linkend="_classmono_1_1androidx_1_1drawerlayout_1_1widget_1_1_drawer_layout___drawer_listener_implementor_1a52e017dd8f13bf97d1e05ff6d8cec4ec">monodroidClearReferences</link> ()</para>
+</listitem>
+        </itemizedlist>
+</simplesect>
+<simplesect>
+    <title>Static Public Attributes    </title>
+        <itemizedlist>
+            <listitem><para>static final String <link linkend="_classmono_1_1androidx_1_1drawerlayout_1_1widget_1_1_drawer_layout___drawer_listener_implementor_1a1d53575d1872a421b799d38ebf600ab5">__md_methods</link></para>
+</listitem>
+        </itemizedlist>
+</simplesect>
+<section>
+<title>Detailed Description</title>
+<para>
+Definition at line 4 of file DrawerLayout_DrawerListenerImplementor.java.</para>
+</section>
+<section>
+<title>Constructor &amp; Destructor Documentation</title>
+<anchor xml:id="_classmono_1_1androidx_1_1drawerlayout_1_1widget_1_1_drawer_layout___drawer_listener_implementor_1a21e625a7d3ce5a0b8a7618b2f4f683ab"/>    <section>
+    <title>DrawerLayout_DrawerListenerImplementor()<computeroutput>[1/4]</computeroutput></title>
+<indexterm><primary>DrawerLayout_DrawerListenerImplementor</primary><secondary>mono.androidx.drawerlayout.widget.DrawerLayout_DrawerListenerImplementor</secondary></indexterm>
+<indexterm><primary>mono.androidx.drawerlayout.widget.DrawerLayout_DrawerListenerImplementor</primary><secondary>DrawerLayout_DrawerListenerImplementor</secondary></indexterm>
+<para><computeroutput>mono.androidx.drawerlayout.widget.DrawerLayout_DrawerListenerImplementor.DrawerLayout_DrawerListenerImplementor ( )</computeroutput></para><para>
+Definition at line 23 of file DrawerLayout_DrawerListenerImplementor.java.</para>
+    </section><anchor xml:id="_classmono_1_1androidx_1_1drawerlayout_1_1widget_1_1_drawer_layout___drawer_listener_implementor_1a21e625a7d3ce5a0b8a7618b2f4f683ab"/>    <section>
+    <title>DrawerLayout_DrawerListenerImplementor()<computeroutput>[2/4]</computeroutput></title>
+<indexterm><primary>DrawerLayout_DrawerListenerImplementor</primary><secondary>mono.androidx.drawerlayout.widget.DrawerLayout_DrawerListenerImplementor</secondary></indexterm>
+<indexterm><primary>mono.androidx.drawerlayout.widget.DrawerLayout_DrawerListenerImplementor</primary><secondary>DrawerLayout_DrawerListenerImplementor</secondary></indexterm>
+<para><computeroutput>mono.androidx.drawerlayout.widget.DrawerLayout_DrawerListenerImplementor.DrawerLayout_DrawerListenerImplementor ( )</computeroutput></para><para>
+Definition at line 23 of file DrawerLayout_DrawerListenerImplementor.java.</para>
+    </section><anchor xml:id="_classmono_1_1androidx_1_1drawerlayout_1_1widget_1_1_drawer_layout___drawer_listener_implementor_1a21e625a7d3ce5a0b8a7618b2f4f683ab"/>    <section>
+    <title>DrawerLayout_DrawerListenerImplementor()<computeroutput>[3/4]</computeroutput></title>
+<indexterm><primary>DrawerLayout_DrawerListenerImplementor</primary><secondary>mono.androidx.drawerlayout.widget.DrawerLayout_DrawerListenerImplementor</secondary></indexterm>
+<indexterm><primary>mono.androidx.drawerlayout.widget.DrawerLayout_DrawerListenerImplementor</primary><secondary>DrawerLayout_DrawerListenerImplementor</secondary></indexterm>
+<para><computeroutput>mono.androidx.drawerlayout.widget.DrawerLayout_DrawerListenerImplementor.DrawerLayout_DrawerListenerImplementor ( )</computeroutput></para><para>
+Definition at line 23 of file DrawerLayout_DrawerListenerImplementor.java.</para>
+    </section><anchor xml:id="_classmono_1_1androidx_1_1drawerlayout_1_1widget_1_1_drawer_layout___drawer_listener_implementor_1a21e625a7d3ce5a0b8a7618b2f4f683ab"/>    <section>
+    <title>DrawerLayout_DrawerListenerImplementor()<computeroutput>[4/4]</computeroutput></title>
+<indexterm><primary>DrawerLayout_DrawerListenerImplementor</primary><secondary>mono.androidx.drawerlayout.widget.DrawerLayout_DrawerListenerImplementor</secondary></indexterm>
+<indexterm><primary>mono.androidx.drawerlayout.widget.DrawerLayout_DrawerListenerImplementor</primary><secondary>DrawerLayout_DrawerListenerImplementor</secondary></indexterm>
+<para><computeroutput>mono.androidx.drawerlayout.widget.DrawerLayout_DrawerListenerImplementor.DrawerLayout_DrawerListenerImplementor ( )</computeroutput></para><para>
+Definition at line 23 of file DrawerLayout_DrawerListenerImplementor.java.</para>
+</section>
+</section>
+<section>
+<title>Member Function Documentation</title>
+<anchor xml:id="_classmono_1_1androidx_1_1drawerlayout_1_1widget_1_1_drawer_layout___drawer_listener_implementor_1afcce71af459b3d4f0ab5c470529b9aa1"/>    <section>
+    <title>monodroidAddReference()<computeroutput>[1/4]</computeroutput></title>
+<indexterm><primary>monodroidAddReference</primary><secondary>mono.androidx.drawerlayout.widget.DrawerLayout_DrawerListenerImplementor</secondary></indexterm>
+<indexterm><primary>mono.androidx.drawerlayout.widget.DrawerLayout_DrawerListenerImplementor</primary><secondary>monodroidAddReference</secondary></indexterm>
+<para><computeroutput>void mono.androidx.drawerlayout.widget.DrawerLayout_DrawerListenerImplementor.monodroidAddReference (java.lang.Object obj)</computeroutput></para><para>
+Definition at line 63 of file DrawerLayout_DrawerListenerImplementor.java.</para>
+    </section><anchor xml:id="_classmono_1_1androidx_1_1drawerlayout_1_1widget_1_1_drawer_layout___drawer_listener_implementor_1afcce71af459b3d4f0ab5c470529b9aa1"/>    <section>
+    <title>monodroidAddReference()<computeroutput>[2/4]</computeroutput></title>
+<indexterm><primary>monodroidAddReference</primary><secondary>mono.androidx.drawerlayout.widget.DrawerLayout_DrawerListenerImplementor</secondary></indexterm>
+<indexterm><primary>mono.androidx.drawerlayout.widget.DrawerLayout_DrawerListenerImplementor</primary><secondary>monodroidAddReference</secondary></indexterm>
+<para><computeroutput>void mono.androidx.drawerlayout.widget.DrawerLayout_DrawerListenerImplementor.monodroidAddReference (java.lang.Object obj)</computeroutput></para><para>
+Definition at line 63 of file DrawerLayout_DrawerListenerImplementor.java.</para>
+    </section><anchor xml:id="_classmono_1_1androidx_1_1drawerlayout_1_1widget_1_1_drawer_layout___drawer_listener_implementor_1afcce71af459b3d4f0ab5c470529b9aa1"/>    <section>
+    <title>monodroidAddReference()<computeroutput>[3/4]</computeroutput></title>
+<indexterm><primary>monodroidAddReference</primary><secondary>mono.androidx.drawerlayout.widget.DrawerLayout_DrawerListenerImplementor</secondary></indexterm>
+<indexterm><primary>mono.androidx.drawerlayout.widget.DrawerLayout_DrawerListenerImplementor</primary><secondary>monodroidAddReference</secondary></indexterm>
+<para><computeroutput>void mono.androidx.drawerlayout.widget.DrawerLayout_DrawerListenerImplementor.monodroidAddReference (java.lang.Object obj)</computeroutput></para><para>
+Definition at line 63 of file DrawerLayout_DrawerListenerImplementor.java.</para>
+    </section><anchor xml:id="_classmono_1_1androidx_1_1drawerlayout_1_1widget_1_1_drawer_layout___drawer_listener_implementor_1afcce71af459b3d4f0ab5c470529b9aa1"/>    <section>
+    <title>monodroidAddReference()<computeroutput>[4/4]</computeroutput></title>
+<indexterm><primary>monodroidAddReference</primary><secondary>mono.androidx.drawerlayout.widget.DrawerLayout_DrawerListenerImplementor</secondary></indexterm>
+<indexterm><primary>mono.androidx.drawerlayout.widget.DrawerLayout_DrawerListenerImplementor</primary><secondary>monodroidAddReference</secondary></indexterm>
+<para><computeroutput>void mono.androidx.drawerlayout.widget.DrawerLayout_DrawerListenerImplementor.monodroidAddReference (java.lang.Object obj)</computeroutput></para><para>
+Definition at line 63 of file DrawerLayout_DrawerListenerImplementor.java.</para>
+    </section><anchor xml:id="_classmono_1_1androidx_1_1drawerlayout_1_1widget_1_1_drawer_layout___drawer_listener_implementor_1a52e017dd8f13bf97d1e05ff6d8cec4ec"/>    <section>
+    <title>monodroidClearReferences()<computeroutput>[1/4]</computeroutput></title>
+<indexterm><primary>monodroidClearReferences</primary><secondary>mono.androidx.drawerlayout.widget.DrawerLayout_DrawerListenerImplementor</secondary></indexterm>
+<indexterm><primary>mono.androidx.drawerlayout.widget.DrawerLayout_DrawerListenerImplementor</primary><secondary>monodroidClearReferences</secondary></indexterm>
+<para><computeroutput>void mono.androidx.drawerlayout.widget.DrawerLayout_DrawerListenerImplementor.monodroidClearReferences ( )</computeroutput></para><para>
+Definition at line 70 of file DrawerLayout_DrawerListenerImplementor.java.</para>
+    </section><anchor xml:id="_classmono_1_1androidx_1_1drawerlayout_1_1widget_1_1_drawer_layout___drawer_listener_implementor_1a52e017dd8f13bf97d1e05ff6d8cec4ec"/>    <section>
+    <title>monodroidClearReferences()<computeroutput>[2/4]</computeroutput></title>
+<indexterm><primary>monodroidClearReferences</primary><secondary>mono.androidx.drawerlayout.widget.DrawerLayout_DrawerListenerImplementor</secondary></indexterm>
+<indexterm><primary>mono.androidx.drawerlayout.widget.DrawerLayout_DrawerListenerImplementor</primary><secondary>monodroidClearReferences</secondary></indexterm>
+<para><computeroutput>void mono.androidx.drawerlayout.widget.DrawerLayout_DrawerListenerImplementor.monodroidClearReferences ( )</computeroutput></para><para>
+Definition at line 70 of file DrawerLayout_DrawerListenerImplementor.java.</para>
+    </section><anchor xml:id="_classmono_1_1androidx_1_1drawerlayout_1_1widget_1_1_drawer_layout___drawer_listener_implementor_1a52e017dd8f13bf97d1e05ff6d8cec4ec"/>    <section>
+    <title>monodroidClearReferences()<computeroutput>[3/4]</computeroutput></title>
+<indexterm><primary>monodroidClearReferences</primary><secondary>mono.androidx.drawerlayout.widget.DrawerLayout_DrawerListenerImplementor</secondary></indexterm>
+<indexterm><primary>mono.androidx.drawerlayout.widget.DrawerLayout_DrawerListenerImplementor</primary><secondary>monodroidClearReferences</secondary></indexterm>
+<para><computeroutput>void mono.androidx.drawerlayout.widget.DrawerLayout_DrawerListenerImplementor.monodroidClearReferences ( )</computeroutput></para><para>
+Definition at line 70 of file DrawerLayout_DrawerListenerImplementor.java.</para>
+    </section><anchor xml:id="_classmono_1_1androidx_1_1drawerlayout_1_1widget_1_1_drawer_layout___drawer_listener_implementor_1a52e017dd8f13bf97d1e05ff6d8cec4ec"/>    <section>
+    <title>monodroidClearReferences()<computeroutput>[4/4]</computeroutput></title>
+<indexterm><primary>monodroidClearReferences</primary><secondary>mono.androidx.drawerlayout.widget.DrawerLayout_DrawerListenerImplementor</secondary></indexterm>
+<indexterm><primary>mono.androidx.drawerlayout.widget.DrawerLayout_DrawerListenerImplementor</primary><secondary>monodroidClearReferences</secondary></indexterm>
+<para><computeroutput>void mono.androidx.drawerlayout.widget.DrawerLayout_DrawerListenerImplementor.monodroidClearReferences ( )</computeroutput></para><para>
+Definition at line 70 of file DrawerLayout_DrawerListenerImplementor.java.</para>
+    </section><anchor xml:id="_classmono_1_1androidx_1_1drawerlayout_1_1widget_1_1_drawer_layout___drawer_listener_implementor_1ac7da43fa2895bd2a038fbc99d2d782a9"/>    <section>
+    <title>onDrawerClosed()<computeroutput>[1/4]</computeroutput></title>
+<indexterm><primary>onDrawerClosed</primary><secondary>mono.androidx.drawerlayout.widget.DrawerLayout_DrawerListenerImplementor</secondary></indexterm>
+<indexterm><primary>mono.androidx.drawerlayout.widget.DrawerLayout_DrawerListenerImplementor</primary><secondary>onDrawerClosed</secondary></indexterm>
+<para><computeroutput>void mono.androidx.drawerlayout.widget.DrawerLayout_DrawerListenerImplementor.onDrawerClosed (android.view.View p0)</computeroutput></para><para>
+Definition at line 31 of file DrawerLayout_DrawerListenerImplementor.java.</para>
+    </section><anchor xml:id="_classmono_1_1androidx_1_1drawerlayout_1_1widget_1_1_drawer_layout___drawer_listener_implementor_1ac7da43fa2895bd2a038fbc99d2d782a9"/>    <section>
+    <title>onDrawerClosed()<computeroutput>[2/4]</computeroutput></title>
+<indexterm><primary>onDrawerClosed</primary><secondary>mono.androidx.drawerlayout.widget.DrawerLayout_DrawerListenerImplementor</secondary></indexterm>
+<indexterm><primary>mono.androidx.drawerlayout.widget.DrawerLayout_DrawerListenerImplementor</primary><secondary>onDrawerClosed</secondary></indexterm>
+<para><computeroutput>void mono.androidx.drawerlayout.widget.DrawerLayout_DrawerListenerImplementor.onDrawerClosed (android.view.View p0)</computeroutput></para><para>
+Definition at line 31 of file DrawerLayout_DrawerListenerImplementor.java.</para>
+    </section><anchor xml:id="_classmono_1_1androidx_1_1drawerlayout_1_1widget_1_1_drawer_layout___drawer_listener_implementor_1ac7da43fa2895bd2a038fbc99d2d782a9"/>    <section>
+    <title>onDrawerClosed()<computeroutput>[3/4]</computeroutput></title>
+<indexterm><primary>onDrawerClosed</primary><secondary>mono.androidx.drawerlayout.widget.DrawerLayout_DrawerListenerImplementor</secondary></indexterm>
+<indexterm><primary>mono.androidx.drawerlayout.widget.DrawerLayout_DrawerListenerImplementor</primary><secondary>onDrawerClosed</secondary></indexterm>
+<para><computeroutput>void mono.androidx.drawerlayout.widget.DrawerLayout_DrawerListenerImplementor.onDrawerClosed (android.view.View p0)</computeroutput></para><para>
+Definition at line 31 of file DrawerLayout_DrawerListenerImplementor.java.</para>
+    </section><anchor xml:id="_classmono_1_1androidx_1_1drawerlayout_1_1widget_1_1_drawer_layout___drawer_listener_implementor_1ac7da43fa2895bd2a038fbc99d2d782a9"/>    <section>
+    <title>onDrawerClosed()<computeroutput>[4/4]</computeroutput></title>
+<indexterm><primary>onDrawerClosed</primary><secondary>mono.androidx.drawerlayout.widget.DrawerLayout_DrawerListenerImplementor</secondary></indexterm>
+<indexterm><primary>mono.androidx.drawerlayout.widget.DrawerLayout_DrawerListenerImplementor</primary><secondary>onDrawerClosed</secondary></indexterm>
+<para><computeroutput>void mono.androidx.drawerlayout.widget.DrawerLayout_DrawerListenerImplementor.onDrawerClosed (android.view.View p0)</computeroutput></para><para>
+Definition at line 31 of file DrawerLayout_DrawerListenerImplementor.java.</para>
+    </section><anchor xml:id="_classmono_1_1androidx_1_1drawerlayout_1_1widget_1_1_drawer_layout___drawer_listener_implementor_1a07bc064763976bc4731b245457419f4e"/>    <section>
+    <title>onDrawerOpened()<computeroutput>[1/4]</computeroutput></title>
+<indexterm><primary>onDrawerOpened</primary><secondary>mono.androidx.drawerlayout.widget.DrawerLayout_DrawerListenerImplementor</secondary></indexterm>
+<indexterm><primary>mono.androidx.drawerlayout.widget.DrawerLayout_DrawerListenerImplementor</primary><secondary>onDrawerOpened</secondary></indexterm>
+<para><computeroutput>void mono.androidx.drawerlayout.widget.DrawerLayout_DrawerListenerImplementor.onDrawerOpened (android.view.View p0)</computeroutput></para><para>
+Definition at line 39 of file DrawerLayout_DrawerListenerImplementor.java.</para>
+    </section><anchor xml:id="_classmono_1_1androidx_1_1drawerlayout_1_1widget_1_1_drawer_layout___drawer_listener_implementor_1a07bc064763976bc4731b245457419f4e"/>    <section>
+    <title>onDrawerOpened()<computeroutput>[2/4]</computeroutput></title>
+<indexterm><primary>onDrawerOpened</primary><secondary>mono.androidx.drawerlayout.widget.DrawerLayout_DrawerListenerImplementor</secondary></indexterm>
+<indexterm><primary>mono.androidx.drawerlayout.widget.DrawerLayout_DrawerListenerImplementor</primary><secondary>onDrawerOpened</secondary></indexterm>
+<para><computeroutput>void mono.androidx.drawerlayout.widget.DrawerLayout_DrawerListenerImplementor.onDrawerOpened (android.view.View p0)</computeroutput></para><para>
+Definition at line 39 of file DrawerLayout_DrawerListenerImplementor.java.</para>
+    </section><anchor xml:id="_classmono_1_1androidx_1_1drawerlayout_1_1widget_1_1_drawer_layout___drawer_listener_implementor_1a07bc064763976bc4731b245457419f4e"/>    <section>
+    <title>onDrawerOpened()<computeroutput>[3/4]</computeroutput></title>
+<indexterm><primary>onDrawerOpened</primary><secondary>mono.androidx.drawerlayout.widget.DrawerLayout_DrawerListenerImplementor</secondary></indexterm>
+<indexterm><primary>mono.androidx.drawerlayout.widget.DrawerLayout_DrawerListenerImplementor</primary><secondary>onDrawerOpened</secondary></indexterm>
+<para><computeroutput>void mono.androidx.drawerlayout.widget.DrawerLayout_DrawerListenerImplementor.onDrawerOpened (android.view.View p0)</computeroutput></para><para>
+Definition at line 39 of file DrawerLayout_DrawerListenerImplementor.java.</para>
+    </section><anchor xml:id="_classmono_1_1androidx_1_1drawerlayout_1_1widget_1_1_drawer_layout___drawer_listener_implementor_1a07bc064763976bc4731b245457419f4e"/>    <section>
+    <title>onDrawerOpened()<computeroutput>[4/4]</computeroutput></title>
+<indexterm><primary>onDrawerOpened</primary><secondary>mono.androidx.drawerlayout.widget.DrawerLayout_DrawerListenerImplementor</secondary></indexterm>
+<indexterm><primary>mono.androidx.drawerlayout.widget.DrawerLayout_DrawerListenerImplementor</primary><secondary>onDrawerOpened</secondary></indexterm>
+<para><computeroutput>void mono.androidx.drawerlayout.widget.DrawerLayout_DrawerListenerImplementor.onDrawerOpened (android.view.View p0)</computeroutput></para><para>
+Definition at line 39 of file DrawerLayout_DrawerListenerImplementor.java.</para>
+    </section><anchor xml:id="_classmono_1_1androidx_1_1drawerlayout_1_1widget_1_1_drawer_layout___drawer_listener_implementor_1a30c75de4a6d8eca3db0656bb29cccf39"/>    <section>
+    <title>onDrawerSlide()<computeroutput>[1/4]</computeroutput></title>
+<indexterm><primary>onDrawerSlide</primary><secondary>mono.androidx.drawerlayout.widget.DrawerLayout_DrawerListenerImplementor</secondary></indexterm>
+<indexterm><primary>mono.androidx.drawerlayout.widget.DrawerLayout_DrawerListenerImplementor</primary><secondary>onDrawerSlide</secondary></indexterm>
+<para><computeroutput>void mono.androidx.drawerlayout.widget.DrawerLayout_DrawerListenerImplementor.onDrawerSlide (android.view.View p0, float p1)</computeroutput></para><para>
+Definition at line 47 of file DrawerLayout_DrawerListenerImplementor.java.</para>
+    </section><anchor xml:id="_classmono_1_1androidx_1_1drawerlayout_1_1widget_1_1_drawer_layout___drawer_listener_implementor_1a30c75de4a6d8eca3db0656bb29cccf39"/>    <section>
+    <title>onDrawerSlide()<computeroutput>[2/4]</computeroutput></title>
+<indexterm><primary>onDrawerSlide</primary><secondary>mono.androidx.drawerlayout.widget.DrawerLayout_DrawerListenerImplementor</secondary></indexterm>
+<indexterm><primary>mono.androidx.drawerlayout.widget.DrawerLayout_DrawerListenerImplementor</primary><secondary>onDrawerSlide</secondary></indexterm>
+<para><computeroutput>void mono.androidx.drawerlayout.widget.DrawerLayout_DrawerListenerImplementor.onDrawerSlide (android.view.View p0, float p1)</computeroutput></para><para>
+Definition at line 47 of file DrawerLayout_DrawerListenerImplementor.java.</para>
+    </section><anchor xml:id="_classmono_1_1androidx_1_1drawerlayout_1_1widget_1_1_drawer_layout___drawer_listener_implementor_1a30c75de4a6d8eca3db0656bb29cccf39"/>    <section>
+    <title>onDrawerSlide()<computeroutput>[3/4]</computeroutput></title>
+<indexterm><primary>onDrawerSlide</primary><secondary>mono.androidx.drawerlayout.widget.DrawerLayout_DrawerListenerImplementor</secondary></indexterm>
+<indexterm><primary>mono.androidx.drawerlayout.widget.DrawerLayout_DrawerListenerImplementor</primary><secondary>onDrawerSlide</secondary></indexterm>
+<para><computeroutput>void mono.androidx.drawerlayout.widget.DrawerLayout_DrawerListenerImplementor.onDrawerSlide (android.view.View p0, float p1)</computeroutput></para><para>
+Definition at line 47 of file DrawerLayout_DrawerListenerImplementor.java.</para>
+    </section><anchor xml:id="_classmono_1_1androidx_1_1drawerlayout_1_1widget_1_1_drawer_layout___drawer_listener_implementor_1a30c75de4a6d8eca3db0656bb29cccf39"/>    <section>
+    <title>onDrawerSlide()<computeroutput>[4/4]</computeroutput></title>
+<indexterm><primary>onDrawerSlide</primary><secondary>mono.androidx.drawerlayout.widget.DrawerLayout_DrawerListenerImplementor</secondary></indexterm>
+<indexterm><primary>mono.androidx.drawerlayout.widget.DrawerLayout_DrawerListenerImplementor</primary><secondary>onDrawerSlide</secondary></indexterm>
+<para><computeroutput>void mono.androidx.drawerlayout.widget.DrawerLayout_DrawerListenerImplementor.onDrawerSlide (android.view.View p0, float p1)</computeroutput></para><para>
+Definition at line 47 of file DrawerLayout_DrawerListenerImplementor.java.</para>
+    </section><anchor xml:id="_classmono_1_1androidx_1_1drawerlayout_1_1widget_1_1_drawer_layout___drawer_listener_implementor_1aec839cb149007cb9e79b260b83ffd09c"/>    <section>
+    <title>onDrawerStateChanged()<computeroutput>[1/4]</computeroutput></title>
+<indexterm><primary>onDrawerStateChanged</primary><secondary>mono.androidx.drawerlayout.widget.DrawerLayout_DrawerListenerImplementor</secondary></indexterm>
+<indexterm><primary>mono.androidx.drawerlayout.widget.DrawerLayout_DrawerListenerImplementor</primary><secondary>onDrawerStateChanged</secondary></indexterm>
+<para><computeroutput>void mono.androidx.drawerlayout.widget.DrawerLayout_DrawerListenerImplementor.onDrawerStateChanged (int p0)</computeroutput></para><para>
+Definition at line 55 of file DrawerLayout_DrawerListenerImplementor.java.</para>
+    </section><anchor xml:id="_classmono_1_1androidx_1_1drawerlayout_1_1widget_1_1_drawer_layout___drawer_listener_implementor_1aec839cb149007cb9e79b260b83ffd09c"/>    <section>
+    <title>onDrawerStateChanged()<computeroutput>[2/4]</computeroutput></title>
+<indexterm><primary>onDrawerStateChanged</primary><secondary>mono.androidx.drawerlayout.widget.DrawerLayout_DrawerListenerImplementor</secondary></indexterm>
+<indexterm><primary>mono.androidx.drawerlayout.widget.DrawerLayout_DrawerListenerImplementor</primary><secondary>onDrawerStateChanged</secondary></indexterm>
+<para><computeroutput>void mono.androidx.drawerlayout.widget.DrawerLayout_DrawerListenerImplementor.onDrawerStateChanged (int p0)</computeroutput></para><para>
+Definition at line 55 of file DrawerLayout_DrawerListenerImplementor.java.</para>
+    </section><anchor xml:id="_classmono_1_1androidx_1_1drawerlayout_1_1widget_1_1_drawer_layout___drawer_listener_implementor_1aec839cb149007cb9e79b260b83ffd09c"/>    <section>
+    <title>onDrawerStateChanged()<computeroutput>[3/4]</computeroutput></title>
+<indexterm><primary>onDrawerStateChanged</primary><secondary>mono.androidx.drawerlayout.widget.DrawerLayout_DrawerListenerImplementor</secondary></indexterm>
+<indexterm><primary>mono.androidx.drawerlayout.widget.DrawerLayout_DrawerListenerImplementor</primary><secondary>onDrawerStateChanged</secondary></indexterm>
+<para><computeroutput>void mono.androidx.drawerlayout.widget.DrawerLayout_DrawerListenerImplementor.onDrawerStateChanged (int p0)</computeroutput></para><para>
+Definition at line 55 of file DrawerLayout_DrawerListenerImplementor.java.</para>
+    </section><anchor xml:id="_classmono_1_1androidx_1_1drawerlayout_1_1widget_1_1_drawer_layout___drawer_listener_implementor_1aec839cb149007cb9e79b260b83ffd09c"/>    <section>
+    <title>onDrawerStateChanged()<computeroutput>[4/4]</computeroutput></title>
+<indexterm><primary>onDrawerStateChanged</primary><secondary>mono.androidx.drawerlayout.widget.DrawerLayout_DrawerListenerImplementor</secondary></indexterm>
+<indexterm><primary>mono.androidx.drawerlayout.widget.DrawerLayout_DrawerListenerImplementor</primary><secondary>onDrawerStateChanged</secondary></indexterm>
+<para><computeroutput>void mono.androidx.drawerlayout.widget.DrawerLayout_DrawerListenerImplementor.onDrawerStateChanged (int p0)</computeroutput></para><para>
+Definition at line 55 of file DrawerLayout_DrawerListenerImplementor.java.</para>
+</section>
+</section>
+<section>
+<title>Member Data Documentation</title>
+<anchor xml:id="_classmono_1_1androidx_1_1drawerlayout_1_1widget_1_1_drawer_layout___drawer_listener_implementor_1a1d53575d1872a421b799d38ebf600ab5"/>    <section>
+    <title>__md_methods</title>
+<indexterm><primary>__md_methods</primary><secondary>mono.androidx.drawerlayout.widget.DrawerLayout_DrawerListenerImplementor</secondary></indexterm>
+<indexterm><primary>mono.androidx.drawerlayout.widget.DrawerLayout_DrawerListenerImplementor</primary><secondary>__md_methods</secondary></indexterm>
+<para><computeroutput>static final String mono.androidx.drawerlayout.widget.DrawerLayout_DrawerListenerImplementor.__md_methods<computeroutput>[static]</computeroutput></computeroutput></para>
+<para>@hide </para>
+<para>
+Definition at line 11 of file DrawerLayout_DrawerListenerImplementor.java.</para>
+</section>
+<para>
+The documentation for this class was generated from the following file:</para>
+Application Green Quake.Android/obj/Debug/100/android/src/mono/androidx/drawerlayout/widget/<link linkend="__debug_2100_2android_2src_2mono_2androidx_2drawerlayout_2widget_2_drawer_layout___drawer_listener_implementor_8java">DrawerLayout_DrawerListenerImplementor.java</link></section>
+</section>

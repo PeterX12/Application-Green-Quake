@@ -1,0 +1,470 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.9.1" xml:lang="en-US">
+  <compounddef id="classmono_1_1com_1_1microsoft_1_1appcenter_1_1channel_1_1_channel___group_listener_implementor" kind="class" language="Java" prot="public">
+    <compoundname>mono::com::microsoft::appcenter::channel::Channel_GroupListenerImplementor</compoundname>
+    <basecompoundref prot="public" virt="non-virtual">java.lang.Object</basecompoundref>
+    <basecompoundref prot="public" virt="non-virtual">mono.android.IGCUserPeer</basecompoundref>
+    <basecompoundref prot="public" virt="non-virtual">com.microsoft.appcenter.channel.Channel.GroupListener</basecompoundref>
+    <basecompoundref prot="public" virt="non-virtual">java.lang.Object</basecompoundref>
+    <basecompoundref prot="public" virt="non-virtual">mono.android.IGCUserPeer</basecompoundref>
+    <basecompoundref prot="public" virt="non-virtual">com.microsoft.appcenter.channel.Channel.GroupListener</basecompoundref>
+      <sectiondef kind="public-static-attrib">
+      <memberdef kind="variable" id="classmono_1_1com_1_1microsoft_1_1appcenter_1_1channel_1_1_channel___group_listener_implementor_1a6d8bd892000caabee418f792be71c289" prot="public" static="yes" mutable="no">
+        <type>final String</type>
+        <definition>static final String mono.com.microsoft.appcenter.channel.Channel_GroupListenerImplementor::__md_methods</definition>
+        <argsstring></argsstring>
+        <name>__md_methods</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+<para>@hide </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/110/android/src/mono/com/microsoft/appcenter/channel/Channel_GroupListenerImplementor.java" line="11" column="28" bodyfile="Application Green Quake.Android/obj/Debug/110/android/src/mono/com/microsoft/appcenter/channel/Channel_GroupListenerImplementor.java" bodystart="11" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="private-attrib">
+      <memberdef kind="variable" id="classmono_1_1com_1_1microsoft_1_1appcenter_1_1channel_1_1_channel___group_listener_implementor_1ac230fc2547dd2ba9edd6eae2a95c85af" prot="private" static="no" mutable="no">
+        <type>java.util.ArrayList</type>
+        <definition>java util ArrayList mono.com.microsoft.appcenter.channel.Channel_GroupListenerImplementor::refList</definition>
+        <argsstring></argsstring>
+        <name>refList</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/110/android/src/mono/com/microsoft/appcenter/channel/Channel_GroupListenerImplementor.java" line="53" column="27" bodyfile="Application Green Quake.Android/obj/Debug/110/android/src/mono/com/microsoft/appcenter/channel/Channel_GroupListenerImplementor.java" bodystart="53" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="package-static-func">
+      <memberdef kind="function" id="classmono_1_1com_1_1microsoft_1_1appcenter_1_1channel_1_1_channel___group_listener_implementor_1a234b57354824dce7cca200cb81b3df6e" prot="package" static="yes" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>mono.com.microsoft.appcenter.channel.Channel_GroupListenerImplementor.[static initializer]</definition>
+        <argsstring></argsstring>
+        <name>[static initializer]</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/110/android/src/mono/com/microsoft/appcenter/channel/Channel_GroupListenerImplementor.java" line="11" column="28"/>
+      </memberdef>
+      <memberdef kind="function" id="classmono_1_1com_1_1microsoft_1_1appcenter_1_1channel_1_1_channel___group_listener_implementor_1a234b57354824dce7cca200cb81b3df6e" prot="package" static="yes" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>mono.com.microsoft.appcenter.channel.Channel_GroupListenerImplementor.[static initializer]</definition>
+        <argsstring></argsstring>
+        <name>[static initializer]</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/110/android/src/mono/com/microsoft/appcenter/channel/Channel_GroupListenerImplementor.java" line="11" column="28"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="public-func">
+      <memberdef kind="function" id="classmono_1_1com_1_1microsoft_1_1appcenter_1_1channel_1_1_channel___group_listener_implementor_1a9e42ca28740b9b8454951065188dea32" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>mono.com.microsoft.appcenter.channel.Channel_GroupListenerImplementor.Channel_GroupListenerImplementor</definition>
+        <argsstring>()</argsstring>
+        <name>Channel_GroupListenerImplementor</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/110/android/src/mono/com/microsoft/appcenter/channel/Channel_GroupListenerImplementor.java" line="22" column="8" bodyfile="Application Green Quake.Android/obj/Debug/110/android/src/mono/com/microsoft/appcenter/channel/Channel_GroupListenerImplementor.java" bodystart="22" bodyend="27"/>
+      </memberdef>
+      <memberdef kind="function" id="classmono_1_1com_1_1microsoft_1_1appcenter_1_1channel_1_1_channel___group_listener_implementor_1aea1cf27b77f0cc103dabeca6d066c68a" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void mono.com.microsoft.appcenter.channel.Channel_GroupListenerImplementor.onBeforeSending</definition>
+        <argsstring>(com.microsoft.appcenter.ingestion.models.Log p0)</argsstring>
+        <name>onBeforeSending</name>
+        <param>
+          <type>com.microsoft.appcenter.ingestion.models.Log</type>
+          <declname>p0</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/110/android/src/mono/com/microsoft/appcenter/channel/Channel_GroupListenerImplementor.java" line="30" column="13" bodyfile="Application Green Quake.Android/obj/Debug/110/android/src/mono/com/microsoft/appcenter/channel/Channel_GroupListenerImplementor.java" bodystart="30" bodyend="33"/>
+      </memberdef>
+      <memberdef kind="function" id="classmono_1_1com_1_1microsoft_1_1appcenter_1_1channel_1_1_channel___group_listener_implementor_1a99026f2c8b63475173c94e6fa192dcf2" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void mono.com.microsoft.appcenter.channel.Channel_GroupListenerImplementor.onFailure</definition>
+        <argsstring>(com.microsoft.appcenter.ingestion.models.Log p0, java.lang.Exception p1)</argsstring>
+        <name>onFailure</name>
+        <param>
+          <type>com.microsoft.appcenter.ingestion.models.Log</type>
+          <declname>p0</declname>
+        </param>
+        <param>
+          <type>java.lang.Exception</type>
+          <declname>p1</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/110/android/src/mono/com/microsoft/appcenter/channel/Channel_GroupListenerImplementor.java" line="38" column="13" bodyfile="Application Green Quake.Android/obj/Debug/110/android/src/mono/com/microsoft/appcenter/channel/Channel_GroupListenerImplementor.java" bodystart="38" bodyend="41"/>
+      </memberdef>
+      <memberdef kind="function" id="classmono_1_1com_1_1microsoft_1_1appcenter_1_1channel_1_1_channel___group_listener_implementor_1ad96db86550f2bd74e03deff58f389ff4" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void mono.com.microsoft.appcenter.channel.Channel_GroupListenerImplementor.onSuccess</definition>
+        <argsstring>(com.microsoft.appcenter.ingestion.models.Log p0)</argsstring>
+        <name>onSuccess</name>
+        <param>
+          <type>com.microsoft.appcenter.ingestion.models.Log</type>
+          <declname>p0</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/110/android/src/mono/com/microsoft/appcenter/channel/Channel_GroupListenerImplementor.java" line="46" column="13" bodyfile="Application Green Quake.Android/obj/Debug/110/android/src/mono/com/microsoft/appcenter/channel/Channel_GroupListenerImplementor.java" bodystart="46" bodyend="49"/>
+      </memberdef>
+      <memberdef kind="function" id="classmono_1_1com_1_1microsoft_1_1appcenter_1_1channel_1_1_channel___group_listener_implementor_1a06632768059cc12d98c7952c5f11f58b" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void mono.com.microsoft.appcenter.channel.Channel_GroupListenerImplementor.monodroidAddReference</definition>
+        <argsstring>(java.lang.Object obj)</argsstring>
+        <name>monodroidAddReference</name>
+        <param>
+          <type>java.lang.Object</type>
+          <declname>obj</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/110/android/src/mono/com/microsoft/appcenter/channel/Channel_GroupListenerImplementor.java" line="54" column="13" bodyfile="Application Green Quake.Android/obj/Debug/110/android/src/mono/com/microsoft/appcenter/channel/Channel_GroupListenerImplementor.java" bodystart="54" bodyend="59"/>
+      </memberdef>
+      <memberdef kind="function" id="classmono_1_1com_1_1microsoft_1_1appcenter_1_1channel_1_1_channel___group_listener_implementor_1aac906522425ccf34c4e0d4103163957a" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void mono.com.microsoft.appcenter.channel.Channel_GroupListenerImplementor.monodroidClearReferences</definition>
+        <argsstring>()</argsstring>
+        <name>monodroidClearReferences</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/110/android/src/mono/com/microsoft/appcenter/channel/Channel_GroupListenerImplementor.java" line="61" column="13" bodyfile="Application Green Quake.Android/obj/Debug/110/android/src/mono/com/microsoft/appcenter/channel/Channel_GroupListenerImplementor.java" bodystart="61" bodyend="65"/>
+      </memberdef>
+      <memberdef kind="function" id="classmono_1_1com_1_1microsoft_1_1appcenter_1_1channel_1_1_channel___group_listener_implementor_1a9e42ca28740b9b8454951065188dea32" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>mono.com.microsoft.appcenter.channel.Channel_GroupListenerImplementor.Channel_GroupListenerImplementor</definition>
+        <argsstring>()</argsstring>
+        <name>Channel_GroupListenerImplementor</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/110/android/src/mono/com/microsoft/appcenter/channel/Channel_GroupListenerImplementor.java" line="22" column="8" bodyfile="Application Green Quake.Android/obj/Release/110/android/src/mono/com/microsoft/appcenter/channel/Channel_GroupListenerImplementor.java" bodystart="22" bodyend="27"/>
+      </memberdef>
+      <memberdef kind="function" id="classmono_1_1com_1_1microsoft_1_1appcenter_1_1channel_1_1_channel___group_listener_implementor_1aea1cf27b77f0cc103dabeca6d066c68a" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void mono.com.microsoft.appcenter.channel.Channel_GroupListenerImplementor.onBeforeSending</definition>
+        <argsstring>(com.microsoft.appcenter.ingestion.models.Log p0)</argsstring>
+        <name>onBeforeSending</name>
+        <param>
+          <type>com.microsoft.appcenter.ingestion.models.Log</type>
+          <declname>p0</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/110/android/src/mono/com/microsoft/appcenter/channel/Channel_GroupListenerImplementor.java" line="30" column="13" bodyfile="Application Green Quake.Android/obj/Release/110/android/src/mono/com/microsoft/appcenter/channel/Channel_GroupListenerImplementor.java" bodystart="30" bodyend="33"/>
+      </memberdef>
+      <memberdef kind="function" id="classmono_1_1com_1_1microsoft_1_1appcenter_1_1channel_1_1_channel___group_listener_implementor_1a99026f2c8b63475173c94e6fa192dcf2" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void mono.com.microsoft.appcenter.channel.Channel_GroupListenerImplementor.onFailure</definition>
+        <argsstring>(com.microsoft.appcenter.ingestion.models.Log p0, java.lang.Exception p1)</argsstring>
+        <name>onFailure</name>
+        <param>
+          <type>com.microsoft.appcenter.ingestion.models.Log</type>
+          <declname>p0</declname>
+        </param>
+        <param>
+          <type>java.lang.Exception</type>
+          <declname>p1</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/110/android/src/mono/com/microsoft/appcenter/channel/Channel_GroupListenerImplementor.java" line="38" column="13" bodyfile="Application Green Quake.Android/obj/Release/110/android/src/mono/com/microsoft/appcenter/channel/Channel_GroupListenerImplementor.java" bodystart="38" bodyend="41"/>
+      </memberdef>
+      <memberdef kind="function" id="classmono_1_1com_1_1microsoft_1_1appcenter_1_1channel_1_1_channel___group_listener_implementor_1ad96db86550f2bd74e03deff58f389ff4" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void mono.com.microsoft.appcenter.channel.Channel_GroupListenerImplementor.onSuccess</definition>
+        <argsstring>(com.microsoft.appcenter.ingestion.models.Log p0)</argsstring>
+        <name>onSuccess</name>
+        <param>
+          <type>com.microsoft.appcenter.ingestion.models.Log</type>
+          <declname>p0</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/110/android/src/mono/com/microsoft/appcenter/channel/Channel_GroupListenerImplementor.java" line="46" column="13" bodyfile="Application Green Quake.Android/obj/Release/110/android/src/mono/com/microsoft/appcenter/channel/Channel_GroupListenerImplementor.java" bodystart="46" bodyend="49"/>
+      </memberdef>
+      <memberdef kind="function" id="classmono_1_1com_1_1microsoft_1_1appcenter_1_1channel_1_1_channel___group_listener_implementor_1a06632768059cc12d98c7952c5f11f58b" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void mono.com.microsoft.appcenter.channel.Channel_GroupListenerImplementor.monodroidAddReference</definition>
+        <argsstring>(java.lang.Object obj)</argsstring>
+        <name>monodroidAddReference</name>
+        <param>
+          <type>java.lang.Object</type>
+          <declname>obj</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/110/android/src/mono/com/microsoft/appcenter/channel/Channel_GroupListenerImplementor.java" line="54" column="13" bodyfile="Application Green Quake.Android/obj/Release/110/android/src/mono/com/microsoft/appcenter/channel/Channel_GroupListenerImplementor.java" bodystart="54" bodyend="59"/>
+      </memberdef>
+      <memberdef kind="function" id="classmono_1_1com_1_1microsoft_1_1appcenter_1_1channel_1_1_channel___group_listener_implementor_1aac906522425ccf34c4e0d4103163957a" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void mono.com.microsoft.appcenter.channel.Channel_GroupListenerImplementor.monodroidClearReferences</definition>
+        <argsstring>()</argsstring>
+        <name>monodroidClearReferences</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/110/android/src/mono/com/microsoft/appcenter/channel/Channel_GroupListenerImplementor.java" line="61" column="13" bodyfile="Application Green Quake.Android/obj/Release/110/android/src/mono/com/microsoft/appcenter/channel/Channel_GroupListenerImplementor.java" bodystart="61" bodyend="65"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="private-func">
+      <memberdef kind="function" id="classmono_1_1com_1_1microsoft_1_1appcenter_1_1channel_1_1_channel___group_listener_implementor_1a3bd7be1eddc65f6053530d6a51b8a11b" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>native void</type>
+        <definition>native void mono.com.microsoft.appcenter.channel.Channel_GroupListenerImplementor.n_onBeforeSending</definition>
+        <argsstring>(com.microsoft.appcenter.ingestion.models.Log p0)</argsstring>
+        <name>n_onBeforeSending</name>
+        <param>
+          <type>com.microsoft.appcenter.ingestion.models.Log</type>
+          <declname>p0</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/110/android/src/mono/com/microsoft/appcenter/channel/Channel_GroupListenerImplementor.java" line="35" column="21"/>
+      </memberdef>
+      <memberdef kind="function" id="classmono_1_1com_1_1microsoft_1_1appcenter_1_1channel_1_1_channel___group_listener_implementor_1ab23cd04e6dc8e6b133018e40e5d54868" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>native void</type>
+        <definition>native void mono.com.microsoft.appcenter.channel.Channel_GroupListenerImplementor.n_onFailure</definition>
+        <argsstring>(com.microsoft.appcenter.ingestion.models.Log p0, java.lang.Exception p1)</argsstring>
+        <name>n_onFailure</name>
+        <param>
+          <type>com.microsoft.appcenter.ingestion.models.Log</type>
+          <declname>p0</declname>
+        </param>
+        <param>
+          <type>java.lang.Exception</type>
+          <declname>p1</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/110/android/src/mono/com/microsoft/appcenter/channel/Channel_GroupListenerImplementor.java" line="43" column="21"/>
+      </memberdef>
+      <memberdef kind="function" id="classmono_1_1com_1_1microsoft_1_1appcenter_1_1channel_1_1_channel___group_listener_implementor_1a736fde736bfaf3624b739e536569a82b" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>native void</type>
+        <definition>native void mono.com.microsoft.appcenter.channel.Channel_GroupListenerImplementor.n_onSuccess</definition>
+        <argsstring>(com.microsoft.appcenter.ingestion.models.Log p0)</argsstring>
+        <name>n_onSuccess</name>
+        <param>
+          <type>com.microsoft.appcenter.ingestion.models.Log</type>
+          <declname>p0</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/110/android/src/mono/com/microsoft/appcenter/channel/Channel_GroupListenerImplementor.java" line="51" column="21"/>
+      </memberdef>
+      <memberdef kind="function" id="classmono_1_1com_1_1microsoft_1_1appcenter_1_1channel_1_1_channel___group_listener_implementor_1a3bd7be1eddc65f6053530d6a51b8a11b" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>native void</type>
+        <definition>native void mono.com.microsoft.appcenter.channel.Channel_GroupListenerImplementor.n_onBeforeSending</definition>
+        <argsstring>(com.microsoft.appcenter.ingestion.models.Log p0)</argsstring>
+        <name>n_onBeforeSending</name>
+        <param>
+          <type>com.microsoft.appcenter.ingestion.models.Log</type>
+          <declname>p0</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/110/android/src/mono/com/microsoft/appcenter/channel/Channel_GroupListenerImplementor.java" line="35" column="21"/>
+      </memberdef>
+      <memberdef kind="function" id="classmono_1_1com_1_1microsoft_1_1appcenter_1_1channel_1_1_channel___group_listener_implementor_1ab23cd04e6dc8e6b133018e40e5d54868" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>native void</type>
+        <definition>native void mono.com.microsoft.appcenter.channel.Channel_GroupListenerImplementor.n_onFailure</definition>
+        <argsstring>(com.microsoft.appcenter.ingestion.models.Log p0, java.lang.Exception p1)</argsstring>
+        <name>n_onFailure</name>
+        <param>
+          <type>com.microsoft.appcenter.ingestion.models.Log</type>
+          <declname>p0</declname>
+        </param>
+        <param>
+          <type>java.lang.Exception</type>
+          <declname>p1</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/110/android/src/mono/com/microsoft/appcenter/channel/Channel_GroupListenerImplementor.java" line="43" column="21"/>
+      </memberdef>
+      <memberdef kind="function" id="classmono_1_1com_1_1microsoft_1_1appcenter_1_1channel_1_1_channel___group_listener_implementor_1a736fde736bfaf3624b739e536569a82b" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>native void</type>
+        <definition>native void mono.com.microsoft.appcenter.channel.Channel_GroupListenerImplementor.n_onSuccess</definition>
+        <argsstring>(com.microsoft.appcenter.ingestion.models.Log p0)</argsstring>
+        <name>n_onSuccess</name>
+        <param>
+          <type>com.microsoft.appcenter.ingestion.models.Log</type>
+          <declname>p0</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/110/android/src/mono/com/microsoft/appcenter/channel/Channel_GroupListenerImplementor.java" line="51" column="21"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <inheritancegraph>
+      <node id="1">
+        <label>mono.com.microsoft.appcenter.channel.Channel_GroupListenerImplementor</label>
+        <link refid="classmono_1_1com_1_1microsoft_1_1appcenter_1_1channel_1_1_channel___group_listener_implementor"/>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+        <childnode refid="3" relation="public-inheritance">
+        </childnode>
+        <childnode refid="4" relation="public-inheritance">
+        </childnode>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+        <childnode refid="3" relation="public-inheritance">
+        </childnode>
+        <childnode refid="5" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="3">
+        <label>mono.android.IGCUserPeer</label>
+      </node>
+      <node id="4">
+        <label>com::microsoft::appcenter::channel::Channel::GroupListener</label>
+      </node>
+      <node id="2">
+        <label>java.lang.Object</label>
+      </node>
+      <node id="5">
+        <label>com.microsoft.appcenter.channel.Channel.GroupListener</label>
+      </node>
+    </inheritancegraph>
+    <collaborationgraph>
+      <node id="1">
+        <label>mono.com.microsoft.appcenter.channel.Channel_GroupListenerImplementor</label>
+        <link refid="classmono_1_1com_1_1microsoft_1_1appcenter_1_1channel_1_1_channel___group_listener_implementor"/>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+        <childnode refid="3" relation="public-inheritance">
+        </childnode>
+        <childnode refid="4" relation="public-inheritance">
+        </childnode>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+        <childnode refid="3" relation="public-inheritance">
+        </childnode>
+        <childnode refid="5" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="3">
+        <label>mono.android.IGCUserPeer</label>
+      </node>
+      <node id="4">
+        <label>com::microsoft::appcenter::channel::Channel::GroupListener</label>
+      </node>
+      <node id="2">
+        <label>java.lang.Object</label>
+      </node>
+      <node id="5">
+        <label>com.microsoft.appcenter.channel.Channel.GroupListener</label>
+      </node>
+    </collaborationgraph>
+    <location file="Application Green Quake.Android/obj/Debug/110/android/src/mono/com/microsoft/appcenter/channel/Channel_GroupListenerImplementor.java" line="4" column="7" bodyfile="Application Green Quake.Android/obj/Debug/110/android/src/mono/com/microsoft/appcenter/channel/Channel_GroupListenerImplementor.java" bodystart="9" bodyend="66"/>
+    <listofallmembers>
+      <member refid="classmono_1_1com_1_1microsoft_1_1appcenter_1_1channel_1_1_channel___group_listener_implementor_1a234b57354824dce7cca200cb81b3df6e" prot="package" virt="non-virtual"><scope>mono::com::microsoft::appcenter::channel::Channel_GroupListenerImplementor</scope><name>[static initializer]</name></member>
+      <member refid="classmono_1_1com_1_1microsoft_1_1appcenter_1_1channel_1_1_channel___group_listener_implementor_1a234b57354824dce7cca200cb81b3df6e" prot="package" virt="non-virtual"><scope>mono::com::microsoft::appcenter::channel::Channel_GroupListenerImplementor</scope><name>[static initializer]</name></member>
+      <member refid="classmono_1_1com_1_1microsoft_1_1appcenter_1_1channel_1_1_channel___group_listener_implementor_1a6d8bd892000caabee418f792be71c289" prot="public" virt="non-virtual"><scope>mono::com::microsoft::appcenter::channel::Channel_GroupListenerImplementor</scope><name>__md_methods</name></member>
+      <member refid="classmono_1_1com_1_1microsoft_1_1appcenter_1_1channel_1_1_channel___group_listener_implementor_1a9e42ca28740b9b8454951065188dea32" prot="public" virt="non-virtual"><scope>mono::com::microsoft::appcenter::channel::Channel_GroupListenerImplementor</scope><name>Channel_GroupListenerImplementor</name></member>
+      <member refid="classmono_1_1com_1_1microsoft_1_1appcenter_1_1channel_1_1_channel___group_listener_implementor_1a9e42ca28740b9b8454951065188dea32" prot="public" virt="non-virtual"><scope>mono::com::microsoft::appcenter::channel::Channel_GroupListenerImplementor</scope><name>Channel_GroupListenerImplementor</name></member>
+      <member refid="classmono_1_1com_1_1microsoft_1_1appcenter_1_1channel_1_1_channel___group_listener_implementor_1a06632768059cc12d98c7952c5f11f58b" prot="public" virt="non-virtual"><scope>mono::com::microsoft::appcenter::channel::Channel_GroupListenerImplementor</scope><name>monodroidAddReference</name></member>
+      <member refid="classmono_1_1com_1_1microsoft_1_1appcenter_1_1channel_1_1_channel___group_listener_implementor_1a06632768059cc12d98c7952c5f11f58b" prot="public" virt="non-virtual"><scope>mono::com::microsoft::appcenter::channel::Channel_GroupListenerImplementor</scope><name>monodroidAddReference</name></member>
+      <member refid="classmono_1_1com_1_1microsoft_1_1appcenter_1_1channel_1_1_channel___group_listener_implementor_1aac906522425ccf34c4e0d4103163957a" prot="public" virt="non-virtual"><scope>mono::com::microsoft::appcenter::channel::Channel_GroupListenerImplementor</scope><name>monodroidClearReferences</name></member>
+      <member refid="classmono_1_1com_1_1microsoft_1_1appcenter_1_1channel_1_1_channel___group_listener_implementor_1aac906522425ccf34c4e0d4103163957a" prot="public" virt="non-virtual"><scope>mono::com::microsoft::appcenter::channel::Channel_GroupListenerImplementor</scope><name>monodroidClearReferences</name></member>
+      <member refid="classmono_1_1com_1_1microsoft_1_1appcenter_1_1channel_1_1_channel___group_listener_implementor_1a3bd7be1eddc65f6053530d6a51b8a11b" prot="private" virt="non-virtual"><scope>mono::com::microsoft::appcenter::channel::Channel_GroupListenerImplementor</scope><name>n_onBeforeSending</name></member>
+      <member refid="classmono_1_1com_1_1microsoft_1_1appcenter_1_1channel_1_1_channel___group_listener_implementor_1a3bd7be1eddc65f6053530d6a51b8a11b" prot="private" virt="non-virtual"><scope>mono::com::microsoft::appcenter::channel::Channel_GroupListenerImplementor</scope><name>n_onBeforeSending</name></member>
+      <member refid="classmono_1_1com_1_1microsoft_1_1appcenter_1_1channel_1_1_channel___group_listener_implementor_1ab23cd04e6dc8e6b133018e40e5d54868" prot="private" virt="non-virtual"><scope>mono::com::microsoft::appcenter::channel::Channel_GroupListenerImplementor</scope><name>n_onFailure</name></member>
+      <member refid="classmono_1_1com_1_1microsoft_1_1appcenter_1_1channel_1_1_channel___group_listener_implementor_1ab23cd04e6dc8e6b133018e40e5d54868" prot="private" virt="non-virtual"><scope>mono::com::microsoft::appcenter::channel::Channel_GroupListenerImplementor</scope><name>n_onFailure</name></member>
+      <member refid="classmono_1_1com_1_1microsoft_1_1appcenter_1_1channel_1_1_channel___group_listener_implementor_1a736fde736bfaf3624b739e536569a82b" prot="private" virt="non-virtual"><scope>mono::com::microsoft::appcenter::channel::Channel_GroupListenerImplementor</scope><name>n_onSuccess</name></member>
+      <member refid="classmono_1_1com_1_1microsoft_1_1appcenter_1_1channel_1_1_channel___group_listener_implementor_1a736fde736bfaf3624b739e536569a82b" prot="private" virt="non-virtual"><scope>mono::com::microsoft::appcenter::channel::Channel_GroupListenerImplementor</scope><name>n_onSuccess</name></member>
+      <member refid="classmono_1_1com_1_1microsoft_1_1appcenter_1_1channel_1_1_channel___group_listener_implementor_1aea1cf27b77f0cc103dabeca6d066c68a" prot="public" virt="non-virtual"><scope>mono::com::microsoft::appcenter::channel::Channel_GroupListenerImplementor</scope><name>onBeforeSending</name></member>
+      <member refid="classmono_1_1com_1_1microsoft_1_1appcenter_1_1channel_1_1_channel___group_listener_implementor_1aea1cf27b77f0cc103dabeca6d066c68a" prot="public" virt="non-virtual"><scope>mono::com::microsoft::appcenter::channel::Channel_GroupListenerImplementor</scope><name>onBeforeSending</name></member>
+      <member refid="classmono_1_1com_1_1microsoft_1_1appcenter_1_1channel_1_1_channel___group_listener_implementor_1a99026f2c8b63475173c94e6fa192dcf2" prot="public" virt="non-virtual"><scope>mono::com::microsoft::appcenter::channel::Channel_GroupListenerImplementor</scope><name>onFailure</name></member>
+      <member refid="classmono_1_1com_1_1microsoft_1_1appcenter_1_1channel_1_1_channel___group_listener_implementor_1a99026f2c8b63475173c94e6fa192dcf2" prot="public" virt="non-virtual"><scope>mono::com::microsoft::appcenter::channel::Channel_GroupListenerImplementor</scope><name>onFailure</name></member>
+      <member refid="classmono_1_1com_1_1microsoft_1_1appcenter_1_1channel_1_1_channel___group_listener_implementor_1ad96db86550f2bd74e03deff58f389ff4" prot="public" virt="non-virtual"><scope>mono::com::microsoft::appcenter::channel::Channel_GroupListenerImplementor</scope><name>onSuccess</name></member>
+      <member refid="classmono_1_1com_1_1microsoft_1_1appcenter_1_1channel_1_1_channel___group_listener_implementor_1ad96db86550f2bd74e03deff58f389ff4" prot="public" virt="non-virtual"><scope>mono::com::microsoft::appcenter::channel::Channel_GroupListenerImplementor</scope><name>onSuccess</name></member>
+      <member refid="classmono_1_1com_1_1microsoft_1_1appcenter_1_1channel_1_1_channel___group_listener_implementor_1ac230fc2547dd2ba9edd6eae2a95c85af" prot="private" virt="non-virtual"><scope>mono::com::microsoft::appcenter::channel::Channel_GroupListenerImplementor</scope><name>refList</name></member>
+    </listofallmembers>
+  </compounddef>
+</doxygen>

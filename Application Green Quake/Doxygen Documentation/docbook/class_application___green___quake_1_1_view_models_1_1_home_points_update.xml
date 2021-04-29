@@ -1,0 +1,71 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<section xmlns="http://docbook.org/ns/docbook" version="5.0" xmlns:xlink="http://www.w3.org/1999/xlink" xml:id="_class_application___green___quake_1_1_view_models_1_1_home_points_update" xml:lang="en-US">
+<title>Application_Green_Quake.ViewModels.HomePointsUpdate Class Reference</title>
+<indexterm><primary>Application_Green_Quake.ViewModels.HomePointsUpdate</primary></indexterm>
+<simplesect>
+    <title>Public Member Functions    </title>
+        <itemizedlist>
+            <listitem><para>async void <link linkend="_class_application___green___quake_1_1_view_models_1_1_home_points_update_1ac3ad6bd2b701259e0a58f230e65e3714">AirOutPoints</link> ()</para>
+</listitem>
+            <listitem><para>async void <link linkend="_class_application___green___quake_1_1_view_models_1_1_home_points_update_1ab148c586bf637428cecf3b6c11132822">NonHarmfulPoints</link> ()</para>
+</listitem>
+            <listitem><para>async void <link linkend="_class_application___green___quake_1_1_view_models_1_1_home_points_update_1aeac2b2d4595099cab85156ee243d8d6b">OutsidePoints</link> ()</para>
+</listitem>
+            <listitem><para>async void <link linkend="_class_application___green___quake_1_1_view_models_1_1_home_points_update_1a19f6edbc208b054493c78ab44b327e7b">PlantsInsidePoints</link> ()</para>
+</listitem>
+            <listitem><para>async void <link linkend="_class_application___green___quake_1_1_view_models_1_1_home_points_update_1a1076575d17ab36329165965bb02633e7">ToiletPoints</link> ()</para>
+</listitem>
+        </itemizedlist>
+</simplesect>
+<section>
+<title>Detailed Description</title>
+<para>
+Definition at line 18 of file HomePointsUpdate.cs.</para>
+</section>
+<section>
+<title>Member Function Documentation</title>
+<anchor xml:id="_class_application___green___quake_1_1_view_models_1_1_home_points_update_1ac3ad6bd2b701259e0a58f230e65e3714"/>    <section>
+    <title>AirOutPoints()</title>
+<indexterm><primary>AirOutPoints</primary><secondary>Application_Green_Quake.ViewModels.HomePointsUpdate</secondary></indexterm>
+<indexterm><primary>Application_Green_Quake.ViewModels.HomePointsUpdate</primary><secondary>AirOutPoints</secondary></indexterm>
+<para><computeroutput>async void Application_Green_Quake.ViewModels.HomePointsUpdate.AirOutPoints ( )</computeroutput></para>
+<para>This function updates the points in the Home category by two points. It also increments the number of logs logged in the Home category by one and increments the number of times this particular action was logged by one and sends this data to Firebase. </para>
+<para>
+Definition at line 34 of file HomePointsUpdate.cs.</para>
+    </section><anchor xml:id="_class_application___green___quake_1_1_view_models_1_1_home_points_update_1ab148c586bf637428cecf3b6c11132822"/>    <section>
+    <title>NonHarmfulPoints()</title>
+<indexterm><primary>NonHarmfulPoints</primary><secondary>Application_Green_Quake.ViewModels.HomePointsUpdate</secondary></indexterm>
+<indexterm><primary>Application_Green_Quake.ViewModels.HomePointsUpdate</primary><secondary>NonHarmfulPoints</secondary></indexterm>
+<para><computeroutput>async void Application_Green_Quake.ViewModels.HomePointsUpdate.NonHarmfulPoints ( )</computeroutput></para>
+<para>This function updates the points in the Home category by four points. It also increments the number of logs logged in the Home category by one and increments the number of times this particular action was logged by one and sends this data to Firebase. </para>
+<para>
+Definition at line 134 of file HomePointsUpdate.cs.</para>
+    </section><anchor xml:id="_class_application___green___quake_1_1_view_models_1_1_home_points_update_1aeac2b2d4595099cab85156ee243d8d6b"/>    <section>
+    <title>OutsidePoints()</title>
+<indexterm><primary>OutsidePoints</primary><secondary>Application_Green_Quake.ViewModels.HomePointsUpdate</secondary></indexterm>
+<indexterm><primary>Application_Green_Quake.ViewModels.HomePointsUpdate</primary><secondary>OutsidePoints</secondary></indexterm>
+<para><computeroutput>async void Application_Green_Quake.ViewModels.HomePointsUpdate.OutsidePoints ( )</computeroutput></para>
+<para>This function updates the points in the Home category by two points. It also increments the number of logs logged in the Home category by one and increments the number of times this particular action was logged by one and sends this data to Firebase. </para>
+<para>
+Definition at line 234 of file HomePointsUpdate.cs.</para>
+    </section><anchor xml:id="_class_application___green___quake_1_1_view_models_1_1_home_points_update_1a19f6edbc208b054493c78ab44b327e7b"/>    <section>
+    <title>PlantsInsidePoints()</title>
+<indexterm><primary>PlantsInsidePoints</primary><secondary>Application_Green_Quake.ViewModels.HomePointsUpdate</secondary></indexterm>
+<indexterm><primary>Application_Green_Quake.ViewModels.HomePointsUpdate</primary><secondary>PlantsInsidePoints</secondary></indexterm>
+<para><computeroutput>async void Application_Green_Quake.ViewModels.HomePointsUpdate.PlantsInsidePoints ( )</computeroutput></para>
+<para>This function updates the points in the Home category by four points. It also increments the number of logs logged in the Home category by one and increments the number of times this particular action was logged by one and sends this data to Firebase. </para>
+<para>
+Definition at line 334 of file HomePointsUpdate.cs.</para>
+    </section><anchor xml:id="_class_application___green___quake_1_1_view_models_1_1_home_points_update_1a1076575d17ab36329165965bb02633e7"/>    <section>
+    <title>ToiletPoints()</title>
+<indexterm><primary>ToiletPoints</primary><secondary>Application_Green_Quake.ViewModels.HomePointsUpdate</secondary></indexterm>
+<indexterm><primary>Application_Green_Quake.ViewModels.HomePointsUpdate</primary><secondary>ToiletPoints</secondary></indexterm>
+<para><computeroutput>async void Application_Green_Quake.ViewModels.HomePointsUpdate.ToiletPoints ( )</computeroutput></para>
+<para>This function updates the points in the Home category by four points. It also increments the number of logs logged in the Home category by one and increments the number of times this particular action was logged by one and sends this data to Firebase. </para>
+<para>
+Definition at line 434 of file HomePointsUpdate.cs.</para>
+</section>
+<para>
+The documentation for this class was generated from the following file:</para>
+Application Green Quake/ViewModels/<link linkend="__home_points_update_8cs">HomePointsUpdate.cs</link></section>
+</section>

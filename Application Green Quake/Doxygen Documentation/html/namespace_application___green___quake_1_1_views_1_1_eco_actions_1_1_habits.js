@@ -1,0 +1,9 @@
+var namespace_application___green___quake_1_1_views_1_1_eco_actions_1_1_habits =
+[
+    [ "BrushingTeeth", "class_application___green___quake_1_1_views_1_1_eco_actions_1_1_habits_1_1_brushing_teeth.html", "class_application___green___quake_1_1_views_1_1_eco_actions_1_1_habits_1_1_brushing_teeth" ],
+    [ "DishwasherFull", "class_application___green___quake_1_1_views_1_1_eco_actions_1_1_habits_1_1_dishwasher_full.html", "class_application___green___quake_1_1_views_1_1_eco_actions_1_1_habits_1_1_dishwasher_full" ],
+    [ "ShowerInstead", "class_application___green___quake_1_1_views_1_1_eco_actions_1_1_habits_1_1_shower_instead.html", "class_application___green___quake_1_1_views_1_1_eco_actions_1_1_habits_1_1_shower_instead" ],
+    [ "TimedShower", "class_application___green___quake_1_1_views_1_1_eco_actions_1_1_habits_1_1_timed_shower.html", "class_application___green___quake_1_1_views_1_1_eco_actions_1_1_habits_1_1_timed_shower" ],
+    [ "TurnOffLights", "class_application___green___quake_1_1_views_1_1_eco_actions_1_1_habits_1_1_turn_off_lights.html", "class_application___green___quake_1_1_views_1_1_eco_actions_1_1_habits_1_1_turn_off_lights" ],
+    [ "UseMatches", "class_application___green___quake_1_1_views_1_1_eco_actions_1_1_habits_1_1_use_matches.html", "class_application___green___quake_1_1_views_1_1_eco_actions_1_1_habits_1_1_use_matches" ]
+];

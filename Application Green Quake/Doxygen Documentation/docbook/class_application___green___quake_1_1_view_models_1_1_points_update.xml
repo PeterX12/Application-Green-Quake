@@ -1,0 +1,71 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<section xmlns="http://docbook.org/ns/docbook" version="5.0" xmlns:xlink="http://www.w3.org/1999/xlink" xml:id="_class_application___green___quake_1_1_view_models_1_1_points_update" xml:lang="en-US">
+<title>Application_Green_Quake.ViewModels.PointsUpdate Class Reference</title>
+<indexterm><primary>Application_Green_Quake.ViewModels.PointsUpdate</primary></indexterm>
+<simplesect>
+    <title>Public Member Functions    </title>
+        <itemizedlist>
+            <listitem><para>async void <link linkend="_class_application___green___quake_1_1_view_models_1_1_points_update_1ac34b7bfe6b19509e3c18367709bcd7a9">UpdateByTenPoints</link> ()</para>
+</listitem>
+            <listitem><para>async void <link linkend="_class_application___green___quake_1_1_view_models_1_1_points_update_1a544109e7e7b974b1ea32bc7e6dfb8284">UpdateByEightPoints</link> ()</para>
+</listitem>
+            <listitem><para>async void <link linkend="_class_application___green___quake_1_1_view_models_1_1_points_update_1a0ca480d17c4e7f7e7a6dbea986904846">UpdateBySixPoints</link> ()</para>
+</listitem>
+            <listitem><para>async void <link linkend="_class_application___green___quake_1_1_view_models_1_1_points_update_1a2f192dd9bebcc7e89df1865f1793ff34">UpdateByFourPoints</link> ()</para>
+</listitem>
+            <listitem><para>async void <link linkend="_class_application___green___quake_1_1_view_models_1_1_points_update_1a8d6baf6b0318c7de381ab6ac3f94af3b">UpdateByTwoPoints</link> ()</para>
+</listitem>
+        </itemizedlist>
+</simplesect>
+<section>
+<title>Detailed Description</title>
+<para>
+Definition at line 18 of file PointsUpdate.cs.</para>
+</section>
+<section>
+<title>Member Function Documentation</title>
+<anchor xml:id="_class_application___green___quake_1_1_view_models_1_1_points_update_1a544109e7e7b974b1ea32bc7e6dfb8284"/>    <section>
+    <title>UpdateByEightPoints()</title>
+<indexterm><primary>UpdateByEightPoints</primary><secondary>Application_Green_Quake.ViewModels.PointsUpdate</secondary></indexterm>
+<indexterm><primary>Application_Green_Quake.ViewModels.PointsUpdate</primary><secondary>UpdateByEightPoints</secondary></indexterm>
+<para><computeroutput>async void Application_Green_Quake.ViewModels.PointsUpdate.UpdateByEightPoints ( )</computeroutput></para>
+<para>This function increases the points of a user by eight points. It also stores the current date and time under the Security Checks node and also increments the security counter if the point update is on the same day and if it is not then it sets it to zero. </para>
+<para>
+Definition at line 131 of file PointsUpdate.cs.</para>
+    </section><anchor xml:id="_class_application___green___quake_1_1_view_models_1_1_points_update_1a2f192dd9bebcc7e89df1865f1793ff34"/>    <section>
+    <title>UpdateByFourPoints()</title>
+<indexterm><primary>UpdateByFourPoints</primary><secondary>Application_Green_Quake.ViewModels.PointsUpdate</secondary></indexterm>
+<indexterm><primary>Application_Green_Quake.ViewModels.PointsUpdate</primary><secondary>UpdateByFourPoints</secondary></indexterm>
+<para><computeroutput>async void Application_Green_Quake.ViewModels.PointsUpdate.UpdateByFourPoints ( )</computeroutput></para>
+<para>This function increases the points of a user by four points. It also stores the current date and time under the Security Checks node and also increments the security counter if the point update is on the same day and if it is not then it sets it to zero. </para>
+<para>
+Definition at line 326 of file PointsUpdate.cs.</para>
+    </section><anchor xml:id="_class_application___green___quake_1_1_view_models_1_1_points_update_1a0ca480d17c4e7f7e7a6dbea986904846"/>    <section>
+    <title>UpdateBySixPoints()</title>
+<indexterm><primary>UpdateBySixPoints</primary><secondary>Application_Green_Quake.ViewModels.PointsUpdate</secondary></indexterm>
+<indexterm><primary>Application_Green_Quake.ViewModels.PointsUpdate</primary><secondary>UpdateBySixPoints</secondary></indexterm>
+<para><computeroutput>async void Application_Green_Quake.ViewModels.PointsUpdate.UpdateBySixPoints ( )</computeroutput></para>
+<para>This function increases the points of a user by six points. It also stores the current date and time under the Security Checks node and also increments the security counter if the point update is on the same day and if it is not then it sets it to zero. </para>
+<para>
+Definition at line 228 of file PointsUpdate.cs.</para>
+    </section><anchor xml:id="_class_application___green___quake_1_1_view_models_1_1_points_update_1ac34b7bfe6b19509e3c18367709bcd7a9"/>    <section>
+    <title>UpdateByTenPoints()</title>
+<indexterm><primary>UpdateByTenPoints</primary><secondary>Application_Green_Quake.ViewModels.PointsUpdate</secondary></indexterm>
+<indexterm><primary>Application_Green_Quake.ViewModels.PointsUpdate</primary><secondary>UpdateByTenPoints</secondary></indexterm>
+<para><computeroutput>async void Application_Green_Quake.ViewModels.PointsUpdate.UpdateByTenPoints ( )</computeroutput></para>
+<para>This function increases the points of a user by ten points. It also stores the current date and time under the Security Checks node and also increments the security counter if the point update is on the same day and if it is not then it sets it to zero. </para>
+<para>
+Definition at line 33 of file PointsUpdate.cs.</para>
+    </section><anchor xml:id="_class_application___green___quake_1_1_view_models_1_1_points_update_1a8d6baf6b0318c7de381ab6ac3f94af3b"/>    <section>
+    <title>UpdateByTwoPoints()</title>
+<indexterm><primary>UpdateByTwoPoints</primary><secondary>Application_Green_Quake.ViewModels.PointsUpdate</secondary></indexterm>
+<indexterm><primary>Application_Green_Quake.ViewModels.PointsUpdate</primary><secondary>UpdateByTwoPoints</secondary></indexterm>
+<para><computeroutput>async void Application_Green_Quake.ViewModels.PointsUpdate.UpdateByTwoPoints ( )</computeroutput></para>
+<para>This function increases the points of a user by two points. It also stores the current date and time under the Security Checks node and also increments the security counter if the point update is on the same day and if it is not then it sets it to zero. </para>
+<para>
+Definition at line 424 of file PointsUpdate.cs.</para>
+</section>
+<para>
+The documentation for this class was generated from the following file:</para>
+Application Green Quake/ViewModels/<link linkend="__points_update_8cs">PointsUpdate.cs</link></section>
+</section>

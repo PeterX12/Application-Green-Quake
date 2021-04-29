@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.9.1" xml:lang="en-US">
+  <compounddef id="_debug_2100_2android_2src_2mono_2androidx_2core_2view_2_drag_start_helper___on_drag_start_listener_implementor_8java" kind="file" language="Java">
+    <compoundname>DragStartHelper_OnDragStartListenerImplementor.java</compoundname>
+    <innerclass refid="classmono_1_1androidx_1_1core_1_1view_1_1_drag_start_helper___on_drag_start_listener_implementor" prot="public">mono::androidx::core::view::DragStartHelper_OnDragStartListenerImplementor</innerclass>
+    <innernamespace refid="namespacemono_1_1androidx_1_1core_1_1view">mono::androidx::core::view</innernamespace>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <programlisting>
+<codeline lineno="1"><highlight class="keyword">package<sp/></highlight><highlight class="normal">mono.androidx.core.view;</highlight></codeline>
+<codeline lineno="2"><highlight class="normal"></highlight></codeline>
+<codeline lineno="3"><highlight class="normal"></highlight></codeline>
+<codeline lineno="4" refid="classmono_1_1androidx_1_1core_1_1view_1_1_drag_start_helper___on_drag_start_listener_implementor" refkind="compound"><highlight class="normal"></highlight><highlight class="keyword">public</highlight><highlight class="normal"><sp/></highlight><highlight class="keyword">class<sp/></highlight><highlight class="normal"><ref refid="classmono_1_1androidx_1_1core_1_1view_1_1_drag_start_helper___on_drag_start_listener_implementor" kindref="compound">DragStartHelper_OnDragStartListenerImplementor</ref></highlight></codeline>
+<codeline lineno="5"><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">extends</highlight><highlight class="normal"><sp/>java.lang.Object</highlight></codeline>
+<codeline lineno="6"><highlight class="normal"><sp/><sp/><sp/><sp/>implements</highlight></codeline>
+<codeline lineno="7"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>mono.android.IGCUserPeer,</highlight></codeline>
+<codeline lineno="8"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>androidx.core.view.DragStartHelper.OnDragStartListener</highlight></codeline>
+<codeline lineno="9"><highlight class="normal">{</highlight></codeline>
+<codeline lineno="11" refid="classmono_1_1androidx_1_1core_1_1view_1_1_drag_start_helper___on_drag_start_listener_implementor_1a7d10e39323feb581a4756a23cee38fb1" refkind="member"><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">public</highlight><highlight class="normal"><sp/></highlight><highlight class="keyword">static</highlight><highlight class="normal"><sp/></highlight><highlight class="keyword">final</highlight><highlight class="normal"><sp/>String<sp/><ref refid="classmono_1_1androidx_1_1core_1_1view_1_1_drag_start_helper___on_drag_start_listener_implementor_1a7d10e39323feb581a4756a23cee38fb1" kindref="member">__md_methods</ref>;</highlight></codeline>
+<codeline lineno="12"><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">static</highlight><highlight class="normal"><sp/>{</highlight></codeline>
+<codeline lineno="13"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><ref refid="classmono_1_1androidx_1_1core_1_1view_1_1_drag_start_helper___on_drag_start_listener_implementor_1a7d10e39323feb581a4756a23cee38fb1" kindref="member">__md_methods</ref><sp/>=<sp/></highlight></codeline>
+<codeline lineno="14"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="stringliteral">&quot;n_onDragStart:(Landroid/view/View;Landroidx/core/view/DragStartHelper;)Z:GetOnDragStart_Landroid_view_View_Landroidx_core_view_DragStartHelper_Handler:AndroidX.Core.View.DragStartHelper/IOnDragStartListenerInvoker,<sp/>Xamarin.AndroidX.Core\n&quot;</highlight><highlight class="normal"><sp/>+</highlight></codeline>
+<codeline lineno="15"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="stringliteral">&quot;&quot;</highlight><highlight class="normal">;</highlight></codeline>
+<codeline lineno="16"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>mono.android.Runtime.register<sp/>(</highlight><highlight class="stringliteral">&quot;AndroidX.Core.View.DragStartHelper+IOnDragStartListenerImplementor,<sp/>Xamarin.AndroidX.Core&quot;</highlight><highlight class="normal">,<sp/><ref refid="classmono_1_1androidx_1_1core_1_1view_1_1_drag_start_helper___on_drag_start_listener_implementor" kindref="compound">DragStartHelper_OnDragStartListenerImplementor</ref>.class,<sp/><ref refid="classmono_1_1androidx_1_1core_1_1view_1_1_drag_start_helper___on_drag_start_listener_implementor_1a7d10e39323feb581a4756a23cee38fb1" kindref="member">__md_methods</ref>);</highlight></codeline>
+<codeline lineno="17"><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline lineno="18"><highlight class="normal"></highlight></codeline>
+<codeline lineno="19"><highlight class="normal"></highlight></codeline>
+<codeline lineno="20" refid="classmono_1_1androidx_1_1core_1_1view_1_1_drag_start_helper___on_drag_start_listener_implementor_1aad0ef7f2349de1745c3cdaa0194ef64b" refkind="member"><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">public</highlight><highlight class="normal"><sp/><ref refid="classmono_1_1androidx_1_1core_1_1view_1_1_drag_start_helper___on_drag_start_listener_implementor_1aad0ef7f2349de1745c3cdaa0194ef64b" kindref="member">DragStartHelper_OnDragStartListenerImplementor</ref><sp/>()</highlight></codeline>
+<codeline lineno="21"><highlight class="normal"><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline lineno="22"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>super<sp/>();</highlight></codeline>
+<codeline lineno="23"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">if</highlight><highlight class="normal"><sp/>(getClass<sp/>()<sp/>==<sp/><ref refid="classmono_1_1androidx_1_1core_1_1view_1_1_drag_start_helper___on_drag_start_listener_implementor" kindref="compound">DragStartHelper_OnDragStartListenerImplementor</ref>.class)</highlight></codeline>
+<codeline lineno="24"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>mono.android.TypeManager.Activate<sp/>(</highlight><highlight class="stringliteral">&quot;AndroidX.Core.View.DragStartHelper+IOnDragStartListenerImplementor,<sp/>Xamarin.AndroidX.Core&quot;</highlight><highlight class="normal">,<sp/></highlight><highlight class="stringliteral">&quot;&quot;</highlight><highlight class="normal">,<sp/></highlight><highlight class="keyword">this</highlight><highlight class="normal">,<sp/></highlight><highlight class="keyword">new</highlight><highlight class="normal"><sp/>java.lang.Object[]<sp/>{<sp/><sp/>});</highlight></codeline>
+<codeline lineno="25"><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline lineno="26"><highlight class="normal"></highlight></codeline>
+<codeline lineno="27"><highlight class="normal"></highlight></codeline>
+<codeline lineno="28" refid="classmono_1_1androidx_1_1core_1_1view_1_1_drag_start_helper___on_drag_start_listener_implementor_1a381e611b826ed850a939ece57eb15a50" refkind="member"><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">public</highlight><highlight class="normal"><sp/></highlight><highlight class="keywordtype">boolean</highlight><highlight class="normal"><sp/><ref refid="classmono_1_1androidx_1_1core_1_1view_1_1_drag_start_helper___on_drag_start_listener_implementor_1a381e611b826ed850a939ece57eb15a50" kindref="member">onDragStart</ref><sp/>(android.view.View<sp/>p0,<sp/>androidx.core.view.DragStartHelper<sp/>p1)</highlight></codeline>
+<codeline lineno="29"><highlight class="normal"><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline lineno="30"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">return</highlight><highlight class="normal"><sp/>n_onDragStart<sp/>(p0,<sp/>p1);</highlight></codeline>
+<codeline lineno="31"><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline lineno="32"><highlight class="normal"></highlight></codeline>
+<codeline lineno="33"><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">private</highlight><highlight class="normal"><sp/>native<sp/></highlight><highlight class="keywordtype">boolean</highlight><highlight class="normal"><sp/>n_onDragStart<sp/>(android.view.View<sp/>p0,<sp/>androidx.core.view.DragStartHelper<sp/>p1);</highlight></codeline>
+<codeline lineno="34"><highlight class="normal"></highlight></codeline>
+<codeline lineno="35"><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">private</highlight><highlight class="normal"><sp/>java.util.ArrayList<sp/>refList;</highlight></codeline>
+<codeline lineno="36" refid="classmono_1_1androidx_1_1core_1_1view_1_1_drag_start_helper___on_drag_start_listener_implementor_1a9c7495c6d47655e9e105218e14830853" refkind="member"><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">public</highlight><highlight class="normal"><sp/></highlight><highlight class="keywordtype">void</highlight><highlight class="normal"><sp/><ref refid="classmono_1_1androidx_1_1core_1_1view_1_1_drag_start_helper___on_drag_start_listener_implementor_1a9c7495c6d47655e9e105218e14830853" kindref="member">monodroidAddReference</ref><sp/>(java.lang.Object<sp/>obj)</highlight></codeline>
+<codeline lineno="37"><highlight class="normal"><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline lineno="38"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">if</highlight><highlight class="normal"><sp/>(refList<sp/>==<sp/></highlight><highlight class="keyword">null</highlight><highlight class="normal">)</highlight></codeline>
+<codeline lineno="39"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>refList<sp/>=<sp/></highlight><highlight class="keyword">new</highlight><highlight class="normal"><sp/>java.util.ArrayList<sp/>();</highlight></codeline>
+<codeline lineno="40"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>refList.add<sp/>(obj);</highlight></codeline>
+<codeline lineno="41"><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline lineno="42"><highlight class="normal"></highlight></codeline>
+<codeline lineno="43" refid="classmono_1_1androidx_1_1core_1_1view_1_1_drag_start_helper___on_drag_start_listener_implementor_1a9306c50f6fc7a56b21f1922e18b03458" refkind="member"><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">public</highlight><highlight class="normal"><sp/></highlight><highlight class="keywordtype">void</highlight><highlight class="normal"><sp/><ref refid="classmono_1_1androidx_1_1core_1_1view_1_1_drag_start_helper___on_drag_start_listener_implementor_1a9306c50f6fc7a56b21f1922e18b03458" kindref="member">monodroidClearReferences</ref><sp/>()</highlight></codeline>
+<codeline lineno="44"><highlight class="normal"><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline lineno="45"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">if</highlight><highlight class="normal"><sp/>(refList<sp/>!=<sp/></highlight><highlight class="keyword">null</highlight><highlight class="normal">)</highlight></codeline>
+<codeline lineno="46"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>refList.clear<sp/>();</highlight></codeline>
+<codeline lineno="47"><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline lineno="48"><highlight class="normal">}</highlight></codeline>
+    </programlisting>
+    <location file="Application Green Quake.Android/obj/Debug/100/android/src/mono/androidx/core/view/DragStartHelper_OnDragStartListenerImplementor.java"/>
+  </compounddef>
+</doxygen>

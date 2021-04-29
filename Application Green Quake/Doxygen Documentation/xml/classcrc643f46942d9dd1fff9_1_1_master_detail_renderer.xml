@@ -1,0 +1,1694 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.9.1" xml:lang="en-US">
+  <compounddef id="classcrc643f46942d9dd1fff9_1_1_master_detail_renderer" kind="class" language="Java" prot="public">
+    <compoundname>crc643f46942d9dd1fff9::MasterDetailRenderer</compoundname>
+    <basecompoundref prot="public" virt="non-virtual">androidx.drawerlayout.widget.DrawerLayout</basecompoundref>
+    <basecompoundref prot="public" virt="non-virtual">mono.android.IGCUserPeer</basecompoundref>
+    <basecompoundref prot="public" virt="non-virtual">androidx.drawerlayout.widget.DrawerLayout.DrawerListener</basecompoundref>
+    <basecompoundref prot="public" virt="non-virtual">androidx.drawerlayout.widget.DrawerLayout</basecompoundref>
+    <basecompoundref prot="public" virt="non-virtual">mono.android.IGCUserPeer</basecompoundref>
+    <basecompoundref prot="public" virt="non-virtual">androidx.drawerlayout.widget.DrawerLayout.DrawerListener</basecompoundref>
+    <basecompoundref prot="public" virt="non-virtual">androidx.drawerlayout.widget.DrawerLayout</basecompoundref>
+    <basecompoundref prot="public" virt="non-virtual">mono.android.IGCUserPeer</basecompoundref>
+    <basecompoundref prot="public" virt="non-virtual">androidx.drawerlayout.widget.DrawerLayout.DrawerListener</basecompoundref>
+    <basecompoundref prot="public" virt="non-virtual">androidx.drawerlayout.widget.DrawerLayout</basecompoundref>
+    <basecompoundref prot="public" virt="non-virtual">mono.android.IGCUserPeer</basecompoundref>
+    <basecompoundref prot="public" virt="non-virtual">androidx.drawerlayout.widget.DrawerLayout.DrawerListener</basecompoundref>
+      <sectiondef kind="public-static-attrib">
+      <memberdef kind="variable" id="classcrc643f46942d9dd1fff9_1_1_master_detail_renderer_1a30f970d92f4cc5aec0d9263ac4eb51f8" prot="public" static="yes" mutable="no">
+        <type>final String</type>
+        <definition>static final String crc643f46942d9dd1fff9.MasterDetailRenderer::__md_methods</definition>
+        <argsstring></argsstring>
+        <name>__md_methods</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+<para>@hide </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/100/android/src/crc643f46942d9dd1fff9/MasterDetailRenderer.java" line="11" column="28" bodyfile="Application Green Quake.Android/obj/Debug/100/android/src/crc643f46942d9dd1fff9/MasterDetailRenderer.java" bodystart="11" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="private-attrib">
+      <memberdef kind="variable" id="classcrc643f46942d9dd1fff9_1_1_master_detail_renderer_1a4d5695d94fe040e76588507ee02c0eb3" prot="private" static="no" mutable="no">
+        <type>java.util.ArrayList</type>
+        <definition>java util ArrayList crc643f46942d9dd1fff9.MasterDetailRenderer::refList</definition>
+        <argsstring></argsstring>
+        <name>refList</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/100/android/src/crc643f46942d9dd1fff9/MasterDetailRenderer.java" line="105" column="27" bodyfile="Application Green Quake.Android/obj/Debug/100/android/src/crc643f46942d9dd1fff9/MasterDetailRenderer.java" bodystart="105" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="package-static-func">
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_master_detail_renderer_1a84d66160be263e93892f08692ebdb935" prot="package" static="yes" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>crc643f46942d9dd1fff9.MasterDetailRenderer.[static initializer]</definition>
+        <argsstring></argsstring>
+        <name>[static initializer]</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/100/android/src/crc643f46942d9dd1fff9/MasterDetailRenderer.java" line="11" column="28"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_master_detail_renderer_1a84d66160be263e93892f08692ebdb935" prot="package" static="yes" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>crc643f46942d9dd1fff9.MasterDetailRenderer.[static initializer]</definition>
+        <argsstring></argsstring>
+        <name>[static initializer]</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/110/android/src/crc643f46942d9dd1fff9/MasterDetailRenderer.java" line="11" column="28"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_master_detail_renderer_1a84d66160be263e93892f08692ebdb935" prot="package" static="yes" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>crc643f46942d9dd1fff9.MasterDetailRenderer.[static initializer]</definition>
+        <argsstring></argsstring>
+        <name>[static initializer]</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/100/android/src/crc643f46942d9dd1fff9/MasterDetailRenderer.java" line="11" column="28"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_master_detail_renderer_1a84d66160be263e93892f08692ebdb935" prot="package" static="yes" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>crc643f46942d9dd1fff9.MasterDetailRenderer.[static initializer]</definition>
+        <argsstring></argsstring>
+        <name>[static initializer]</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/110/android/src/crc643f46942d9dd1fff9/MasterDetailRenderer.java" line="11" column="28"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="public-func">
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_master_detail_renderer_1a1c4ef484dc3282720b5f823fb727bafb" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>crc643f46942d9dd1fff9.MasterDetailRenderer.MasterDetailRenderer</definition>
+        <argsstring>(android.content.Context p0)</argsstring>
+        <name>MasterDetailRenderer</name>
+        <param>
+          <type>android.content.Context</type>
+          <declname>p0</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/100/android/src/crc643f46942d9dd1fff9/MasterDetailRenderer.java" line="26" column="8" bodyfile="Application Green Quake.Android/obj/Debug/100/android/src/crc643f46942d9dd1fff9/MasterDetailRenderer.java" bodystart="26" bodyend="31"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_master_detail_renderer_1aff1d9013426e75d22227ee7d8b83a262" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>crc643f46942d9dd1fff9.MasterDetailRenderer.MasterDetailRenderer</definition>
+        <argsstring>(android.content.Context p0, android.util.AttributeSet p1)</argsstring>
+        <name>MasterDetailRenderer</name>
+        <param>
+          <type>android.content.Context</type>
+          <declname>p0</declname>
+        </param>
+        <param>
+          <type>android.util.AttributeSet</type>
+          <declname>p1</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/100/android/src/crc643f46942d9dd1fff9/MasterDetailRenderer.java" line="34" column="8" bodyfile="Application Green Quake.Android/obj/Debug/100/android/src/crc643f46942d9dd1fff9/MasterDetailRenderer.java" bodystart="34" bodyend="39"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_master_detail_renderer_1a05c07094420bf01994523007ae5c7829" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>crc643f46942d9dd1fff9.MasterDetailRenderer.MasterDetailRenderer</definition>
+        <argsstring>(android.content.Context p0, android.util.AttributeSet p1, int p2)</argsstring>
+        <name>MasterDetailRenderer</name>
+        <param>
+          <type>android.content.Context</type>
+          <declname>p0</declname>
+        </param>
+        <param>
+          <type>android.util.AttributeSet</type>
+          <declname>p1</declname>
+        </param>
+        <param>
+          <type>int</type>
+          <declname>p2</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/100/android/src/crc643f46942d9dd1fff9/MasterDetailRenderer.java" line="42" column="8" bodyfile="Application Green Quake.Android/obj/Debug/100/android/src/crc643f46942d9dd1fff9/MasterDetailRenderer.java" bodystart="42" bodyend="47"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_master_detail_renderer_1a77d72589aee3aa90de362ec96b91f61e" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void crc643f46942d9dd1fff9.MasterDetailRenderer.onAttachedToWindow</definition>
+        <argsstring>()</argsstring>
+        <name>onAttachedToWindow</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/100/android/src/crc643f46942d9dd1fff9/MasterDetailRenderer.java" line="50" column="13" bodyfile="Application Green Quake.Android/obj/Debug/100/android/src/crc643f46942d9dd1fff9/MasterDetailRenderer.java" bodystart="50" bodyend="53"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_master_detail_renderer_1a4b946bc72a9d731f34e837fbea099ddb" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void crc643f46942d9dd1fff9.MasterDetailRenderer.onDetachedFromWindow</definition>
+        <argsstring>()</argsstring>
+        <name>onDetachedFromWindow</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/100/android/src/crc643f46942d9dd1fff9/MasterDetailRenderer.java" line="58" column="13" bodyfile="Application Green Quake.Android/obj/Debug/100/android/src/crc643f46942d9dd1fff9/MasterDetailRenderer.java" bodystart="58" bodyend="61"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_master_detail_renderer_1a429b5e7404c5c083aa4fcf816dde584a" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void crc643f46942d9dd1fff9.MasterDetailRenderer.onLayout</definition>
+        <argsstring>(boolean p0, int p1, int p2, int p3, int p4)</argsstring>
+        <name>onLayout</name>
+        <param>
+          <type>boolean</type>
+          <declname>p0</declname>
+        </param>
+        <param>
+          <type>int</type>
+          <declname>p1</declname>
+        </param>
+        <param>
+          <type>int</type>
+          <declname>p2</declname>
+        </param>
+        <param>
+          <type>int</type>
+          <declname>p3</declname>
+        </param>
+        <param>
+          <type>int</type>
+          <declname>p4</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/100/android/src/crc643f46942d9dd1fff9/MasterDetailRenderer.java" line="66" column="13" bodyfile="Application Green Quake.Android/obj/Debug/100/android/src/crc643f46942d9dd1fff9/MasterDetailRenderer.java" bodystart="66" bodyend="69"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_master_detail_renderer_1a82bf0321c102f6240b5d2daea2225a77" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void crc643f46942d9dd1fff9.MasterDetailRenderer.onDrawerClosed</definition>
+        <argsstring>(android.view.View p0)</argsstring>
+        <name>onDrawerClosed</name>
+        <param>
+          <type>android.view.View</type>
+          <declname>p0</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/100/android/src/crc643f46942d9dd1fff9/MasterDetailRenderer.java" line="74" column="13" bodyfile="Application Green Quake.Android/obj/Debug/100/android/src/crc643f46942d9dd1fff9/MasterDetailRenderer.java" bodystart="74" bodyend="77"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_master_detail_renderer_1a256e5cfb5a7a718ff9bcea81ea975d24" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void crc643f46942d9dd1fff9.MasterDetailRenderer.onDrawerOpened</definition>
+        <argsstring>(android.view.View p0)</argsstring>
+        <name>onDrawerOpened</name>
+        <param>
+          <type>android.view.View</type>
+          <declname>p0</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/100/android/src/crc643f46942d9dd1fff9/MasterDetailRenderer.java" line="82" column="13" bodyfile="Application Green Quake.Android/obj/Debug/100/android/src/crc643f46942d9dd1fff9/MasterDetailRenderer.java" bodystart="82" bodyend="85"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_master_detail_renderer_1a961bafc612a4d31263cb783fab06be68" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void crc643f46942d9dd1fff9.MasterDetailRenderer.onDrawerSlide</definition>
+        <argsstring>(android.view.View p0, float p1)</argsstring>
+        <name>onDrawerSlide</name>
+        <param>
+          <type>android.view.View</type>
+          <declname>p0</declname>
+        </param>
+        <param>
+          <type>float</type>
+          <declname>p1</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/100/android/src/crc643f46942d9dd1fff9/MasterDetailRenderer.java" line="90" column="13" bodyfile="Application Green Quake.Android/obj/Debug/100/android/src/crc643f46942d9dd1fff9/MasterDetailRenderer.java" bodystart="90" bodyend="93"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_master_detail_renderer_1ac8d81005c61ca9e3cc4ec998ef3ed4f7" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void crc643f46942d9dd1fff9.MasterDetailRenderer.onDrawerStateChanged</definition>
+        <argsstring>(int p0)</argsstring>
+        <name>onDrawerStateChanged</name>
+        <param>
+          <type>int</type>
+          <declname>p0</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/100/android/src/crc643f46942d9dd1fff9/MasterDetailRenderer.java" line="98" column="13" bodyfile="Application Green Quake.Android/obj/Debug/100/android/src/crc643f46942d9dd1fff9/MasterDetailRenderer.java" bodystart="98" bodyend="101"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_master_detail_renderer_1afb973fc840cdabb336aa4bfd80908c6b" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void crc643f46942d9dd1fff9.MasterDetailRenderer.monodroidAddReference</definition>
+        <argsstring>(java.lang.Object obj)</argsstring>
+        <name>monodroidAddReference</name>
+        <param>
+          <type>java.lang.Object</type>
+          <declname>obj</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/100/android/src/crc643f46942d9dd1fff9/MasterDetailRenderer.java" line="106" column="13" bodyfile="Application Green Quake.Android/obj/Debug/100/android/src/crc643f46942d9dd1fff9/MasterDetailRenderer.java" bodystart="106" bodyend="111"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_master_detail_renderer_1af8c32f7d0cfb5f6c9bfc52444bc6a4ee" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void crc643f46942d9dd1fff9.MasterDetailRenderer.monodroidClearReferences</definition>
+        <argsstring>()</argsstring>
+        <name>monodroidClearReferences</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/100/android/src/crc643f46942d9dd1fff9/MasterDetailRenderer.java" line="113" column="13" bodyfile="Application Green Quake.Android/obj/Debug/100/android/src/crc643f46942d9dd1fff9/MasterDetailRenderer.java" bodystart="113" bodyend="117"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_master_detail_renderer_1a1c4ef484dc3282720b5f823fb727bafb" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>crc643f46942d9dd1fff9.MasterDetailRenderer.MasterDetailRenderer</definition>
+        <argsstring>(android.content.Context p0)</argsstring>
+        <name>MasterDetailRenderer</name>
+        <param>
+          <type>android.content.Context</type>
+          <declname>p0</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/110/android/src/crc643f46942d9dd1fff9/MasterDetailRenderer.java" line="26" column="8" bodyfile="Application Green Quake.Android/obj/Debug/110/android/src/crc643f46942d9dd1fff9/MasterDetailRenderer.java" bodystart="26" bodyend="31"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_master_detail_renderer_1aff1d9013426e75d22227ee7d8b83a262" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>crc643f46942d9dd1fff9.MasterDetailRenderer.MasterDetailRenderer</definition>
+        <argsstring>(android.content.Context p0, android.util.AttributeSet p1)</argsstring>
+        <name>MasterDetailRenderer</name>
+        <param>
+          <type>android.content.Context</type>
+          <declname>p0</declname>
+        </param>
+        <param>
+          <type>android.util.AttributeSet</type>
+          <declname>p1</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/110/android/src/crc643f46942d9dd1fff9/MasterDetailRenderer.java" line="34" column="8" bodyfile="Application Green Quake.Android/obj/Debug/110/android/src/crc643f46942d9dd1fff9/MasterDetailRenderer.java" bodystart="34" bodyend="39"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_master_detail_renderer_1a05c07094420bf01994523007ae5c7829" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>crc643f46942d9dd1fff9.MasterDetailRenderer.MasterDetailRenderer</definition>
+        <argsstring>(android.content.Context p0, android.util.AttributeSet p1, int p2)</argsstring>
+        <name>MasterDetailRenderer</name>
+        <param>
+          <type>android.content.Context</type>
+          <declname>p0</declname>
+        </param>
+        <param>
+          <type>android.util.AttributeSet</type>
+          <declname>p1</declname>
+        </param>
+        <param>
+          <type>int</type>
+          <declname>p2</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/110/android/src/crc643f46942d9dd1fff9/MasterDetailRenderer.java" line="42" column="8" bodyfile="Application Green Quake.Android/obj/Debug/110/android/src/crc643f46942d9dd1fff9/MasterDetailRenderer.java" bodystart="42" bodyend="47"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_master_detail_renderer_1a77d72589aee3aa90de362ec96b91f61e" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void crc643f46942d9dd1fff9.MasterDetailRenderer.onAttachedToWindow</definition>
+        <argsstring>()</argsstring>
+        <name>onAttachedToWindow</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/110/android/src/crc643f46942d9dd1fff9/MasterDetailRenderer.java" line="50" column="13" bodyfile="Application Green Quake.Android/obj/Debug/110/android/src/crc643f46942d9dd1fff9/MasterDetailRenderer.java" bodystart="50" bodyend="53"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_master_detail_renderer_1a4b946bc72a9d731f34e837fbea099ddb" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void crc643f46942d9dd1fff9.MasterDetailRenderer.onDetachedFromWindow</definition>
+        <argsstring>()</argsstring>
+        <name>onDetachedFromWindow</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/110/android/src/crc643f46942d9dd1fff9/MasterDetailRenderer.java" line="58" column="13" bodyfile="Application Green Quake.Android/obj/Debug/110/android/src/crc643f46942d9dd1fff9/MasterDetailRenderer.java" bodystart="58" bodyend="61"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_master_detail_renderer_1a429b5e7404c5c083aa4fcf816dde584a" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void crc643f46942d9dd1fff9.MasterDetailRenderer.onLayout</definition>
+        <argsstring>(boolean p0, int p1, int p2, int p3, int p4)</argsstring>
+        <name>onLayout</name>
+        <param>
+          <type>boolean</type>
+          <declname>p0</declname>
+        </param>
+        <param>
+          <type>int</type>
+          <declname>p1</declname>
+        </param>
+        <param>
+          <type>int</type>
+          <declname>p2</declname>
+        </param>
+        <param>
+          <type>int</type>
+          <declname>p3</declname>
+        </param>
+        <param>
+          <type>int</type>
+          <declname>p4</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/110/android/src/crc643f46942d9dd1fff9/MasterDetailRenderer.java" line="66" column="13" bodyfile="Application Green Quake.Android/obj/Debug/110/android/src/crc643f46942d9dd1fff9/MasterDetailRenderer.java" bodystart="66" bodyend="69"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_master_detail_renderer_1a82bf0321c102f6240b5d2daea2225a77" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void crc643f46942d9dd1fff9.MasterDetailRenderer.onDrawerClosed</definition>
+        <argsstring>(android.view.View p0)</argsstring>
+        <name>onDrawerClosed</name>
+        <param>
+          <type>android.view.View</type>
+          <declname>p0</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/110/android/src/crc643f46942d9dd1fff9/MasterDetailRenderer.java" line="74" column="13" bodyfile="Application Green Quake.Android/obj/Debug/110/android/src/crc643f46942d9dd1fff9/MasterDetailRenderer.java" bodystart="74" bodyend="77"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_master_detail_renderer_1a256e5cfb5a7a718ff9bcea81ea975d24" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void crc643f46942d9dd1fff9.MasterDetailRenderer.onDrawerOpened</definition>
+        <argsstring>(android.view.View p0)</argsstring>
+        <name>onDrawerOpened</name>
+        <param>
+          <type>android.view.View</type>
+          <declname>p0</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/110/android/src/crc643f46942d9dd1fff9/MasterDetailRenderer.java" line="82" column="13" bodyfile="Application Green Quake.Android/obj/Debug/110/android/src/crc643f46942d9dd1fff9/MasterDetailRenderer.java" bodystart="82" bodyend="85"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_master_detail_renderer_1a961bafc612a4d31263cb783fab06be68" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void crc643f46942d9dd1fff9.MasterDetailRenderer.onDrawerSlide</definition>
+        <argsstring>(android.view.View p0, float p1)</argsstring>
+        <name>onDrawerSlide</name>
+        <param>
+          <type>android.view.View</type>
+          <declname>p0</declname>
+        </param>
+        <param>
+          <type>float</type>
+          <declname>p1</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/110/android/src/crc643f46942d9dd1fff9/MasterDetailRenderer.java" line="90" column="13" bodyfile="Application Green Quake.Android/obj/Debug/110/android/src/crc643f46942d9dd1fff9/MasterDetailRenderer.java" bodystart="90" bodyend="93"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_master_detail_renderer_1ac8d81005c61ca9e3cc4ec998ef3ed4f7" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void crc643f46942d9dd1fff9.MasterDetailRenderer.onDrawerStateChanged</definition>
+        <argsstring>(int p0)</argsstring>
+        <name>onDrawerStateChanged</name>
+        <param>
+          <type>int</type>
+          <declname>p0</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/110/android/src/crc643f46942d9dd1fff9/MasterDetailRenderer.java" line="98" column="13" bodyfile="Application Green Quake.Android/obj/Debug/110/android/src/crc643f46942d9dd1fff9/MasterDetailRenderer.java" bodystart="98" bodyend="101"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_master_detail_renderer_1afb973fc840cdabb336aa4bfd80908c6b" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void crc643f46942d9dd1fff9.MasterDetailRenderer.monodroidAddReference</definition>
+        <argsstring>(java.lang.Object obj)</argsstring>
+        <name>monodroidAddReference</name>
+        <param>
+          <type>java.lang.Object</type>
+          <declname>obj</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/110/android/src/crc643f46942d9dd1fff9/MasterDetailRenderer.java" line="106" column="13" bodyfile="Application Green Quake.Android/obj/Debug/110/android/src/crc643f46942d9dd1fff9/MasterDetailRenderer.java" bodystart="106" bodyend="111"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_master_detail_renderer_1af8c32f7d0cfb5f6c9bfc52444bc6a4ee" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void crc643f46942d9dd1fff9.MasterDetailRenderer.monodroidClearReferences</definition>
+        <argsstring>()</argsstring>
+        <name>monodroidClearReferences</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/110/android/src/crc643f46942d9dd1fff9/MasterDetailRenderer.java" line="113" column="13" bodyfile="Application Green Quake.Android/obj/Debug/110/android/src/crc643f46942d9dd1fff9/MasterDetailRenderer.java" bodystart="113" bodyend="117"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_master_detail_renderer_1a1c4ef484dc3282720b5f823fb727bafb" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>crc643f46942d9dd1fff9.MasterDetailRenderer.MasterDetailRenderer</definition>
+        <argsstring>(android.content.Context p0)</argsstring>
+        <name>MasterDetailRenderer</name>
+        <param>
+          <type>android.content.Context</type>
+          <declname>p0</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/100/android/src/crc643f46942d9dd1fff9/MasterDetailRenderer.java" line="26" column="8" bodyfile="Application Green Quake.Android/obj/Release/100/android/src/crc643f46942d9dd1fff9/MasterDetailRenderer.java" bodystart="26" bodyend="31"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_master_detail_renderer_1aff1d9013426e75d22227ee7d8b83a262" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>crc643f46942d9dd1fff9.MasterDetailRenderer.MasterDetailRenderer</definition>
+        <argsstring>(android.content.Context p0, android.util.AttributeSet p1)</argsstring>
+        <name>MasterDetailRenderer</name>
+        <param>
+          <type>android.content.Context</type>
+          <declname>p0</declname>
+        </param>
+        <param>
+          <type>android.util.AttributeSet</type>
+          <declname>p1</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/100/android/src/crc643f46942d9dd1fff9/MasterDetailRenderer.java" line="34" column="8" bodyfile="Application Green Quake.Android/obj/Release/100/android/src/crc643f46942d9dd1fff9/MasterDetailRenderer.java" bodystart="34" bodyend="39"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_master_detail_renderer_1a05c07094420bf01994523007ae5c7829" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>crc643f46942d9dd1fff9.MasterDetailRenderer.MasterDetailRenderer</definition>
+        <argsstring>(android.content.Context p0, android.util.AttributeSet p1, int p2)</argsstring>
+        <name>MasterDetailRenderer</name>
+        <param>
+          <type>android.content.Context</type>
+          <declname>p0</declname>
+        </param>
+        <param>
+          <type>android.util.AttributeSet</type>
+          <declname>p1</declname>
+        </param>
+        <param>
+          <type>int</type>
+          <declname>p2</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/100/android/src/crc643f46942d9dd1fff9/MasterDetailRenderer.java" line="42" column="8" bodyfile="Application Green Quake.Android/obj/Release/100/android/src/crc643f46942d9dd1fff9/MasterDetailRenderer.java" bodystart="42" bodyend="47"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_master_detail_renderer_1a77d72589aee3aa90de362ec96b91f61e" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void crc643f46942d9dd1fff9.MasterDetailRenderer.onAttachedToWindow</definition>
+        <argsstring>()</argsstring>
+        <name>onAttachedToWindow</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/100/android/src/crc643f46942d9dd1fff9/MasterDetailRenderer.java" line="50" column="13" bodyfile="Application Green Quake.Android/obj/Release/100/android/src/crc643f46942d9dd1fff9/MasterDetailRenderer.java" bodystart="50" bodyend="53"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_master_detail_renderer_1a4b946bc72a9d731f34e837fbea099ddb" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void crc643f46942d9dd1fff9.MasterDetailRenderer.onDetachedFromWindow</definition>
+        <argsstring>()</argsstring>
+        <name>onDetachedFromWindow</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/100/android/src/crc643f46942d9dd1fff9/MasterDetailRenderer.java" line="58" column="13" bodyfile="Application Green Quake.Android/obj/Release/100/android/src/crc643f46942d9dd1fff9/MasterDetailRenderer.java" bodystart="58" bodyend="61"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_master_detail_renderer_1a429b5e7404c5c083aa4fcf816dde584a" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void crc643f46942d9dd1fff9.MasterDetailRenderer.onLayout</definition>
+        <argsstring>(boolean p0, int p1, int p2, int p3, int p4)</argsstring>
+        <name>onLayout</name>
+        <param>
+          <type>boolean</type>
+          <declname>p0</declname>
+        </param>
+        <param>
+          <type>int</type>
+          <declname>p1</declname>
+        </param>
+        <param>
+          <type>int</type>
+          <declname>p2</declname>
+        </param>
+        <param>
+          <type>int</type>
+          <declname>p3</declname>
+        </param>
+        <param>
+          <type>int</type>
+          <declname>p4</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/100/android/src/crc643f46942d9dd1fff9/MasterDetailRenderer.java" line="66" column="13" bodyfile="Application Green Quake.Android/obj/Release/100/android/src/crc643f46942d9dd1fff9/MasterDetailRenderer.java" bodystart="66" bodyend="69"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_master_detail_renderer_1a82bf0321c102f6240b5d2daea2225a77" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void crc643f46942d9dd1fff9.MasterDetailRenderer.onDrawerClosed</definition>
+        <argsstring>(android.view.View p0)</argsstring>
+        <name>onDrawerClosed</name>
+        <param>
+          <type>android.view.View</type>
+          <declname>p0</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/100/android/src/crc643f46942d9dd1fff9/MasterDetailRenderer.java" line="74" column="13" bodyfile="Application Green Quake.Android/obj/Release/100/android/src/crc643f46942d9dd1fff9/MasterDetailRenderer.java" bodystart="74" bodyend="77"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_master_detail_renderer_1a256e5cfb5a7a718ff9bcea81ea975d24" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void crc643f46942d9dd1fff9.MasterDetailRenderer.onDrawerOpened</definition>
+        <argsstring>(android.view.View p0)</argsstring>
+        <name>onDrawerOpened</name>
+        <param>
+          <type>android.view.View</type>
+          <declname>p0</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/100/android/src/crc643f46942d9dd1fff9/MasterDetailRenderer.java" line="82" column="13" bodyfile="Application Green Quake.Android/obj/Release/100/android/src/crc643f46942d9dd1fff9/MasterDetailRenderer.java" bodystart="82" bodyend="85"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_master_detail_renderer_1a961bafc612a4d31263cb783fab06be68" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void crc643f46942d9dd1fff9.MasterDetailRenderer.onDrawerSlide</definition>
+        <argsstring>(android.view.View p0, float p1)</argsstring>
+        <name>onDrawerSlide</name>
+        <param>
+          <type>android.view.View</type>
+          <declname>p0</declname>
+        </param>
+        <param>
+          <type>float</type>
+          <declname>p1</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/100/android/src/crc643f46942d9dd1fff9/MasterDetailRenderer.java" line="90" column="13" bodyfile="Application Green Quake.Android/obj/Release/100/android/src/crc643f46942d9dd1fff9/MasterDetailRenderer.java" bodystart="90" bodyend="93"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_master_detail_renderer_1ac8d81005c61ca9e3cc4ec998ef3ed4f7" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void crc643f46942d9dd1fff9.MasterDetailRenderer.onDrawerStateChanged</definition>
+        <argsstring>(int p0)</argsstring>
+        <name>onDrawerStateChanged</name>
+        <param>
+          <type>int</type>
+          <declname>p0</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/100/android/src/crc643f46942d9dd1fff9/MasterDetailRenderer.java" line="98" column="13" bodyfile="Application Green Quake.Android/obj/Release/100/android/src/crc643f46942d9dd1fff9/MasterDetailRenderer.java" bodystart="98" bodyend="101"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_master_detail_renderer_1afb973fc840cdabb336aa4bfd80908c6b" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void crc643f46942d9dd1fff9.MasterDetailRenderer.monodroidAddReference</definition>
+        <argsstring>(java.lang.Object obj)</argsstring>
+        <name>monodroidAddReference</name>
+        <param>
+          <type>java.lang.Object</type>
+          <declname>obj</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/100/android/src/crc643f46942d9dd1fff9/MasterDetailRenderer.java" line="106" column="13" bodyfile="Application Green Quake.Android/obj/Release/100/android/src/crc643f46942d9dd1fff9/MasterDetailRenderer.java" bodystart="106" bodyend="111"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_master_detail_renderer_1af8c32f7d0cfb5f6c9bfc52444bc6a4ee" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void crc643f46942d9dd1fff9.MasterDetailRenderer.monodroidClearReferences</definition>
+        <argsstring>()</argsstring>
+        <name>monodroidClearReferences</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/100/android/src/crc643f46942d9dd1fff9/MasterDetailRenderer.java" line="113" column="13" bodyfile="Application Green Quake.Android/obj/Release/100/android/src/crc643f46942d9dd1fff9/MasterDetailRenderer.java" bodystart="113" bodyend="117"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_master_detail_renderer_1a1c4ef484dc3282720b5f823fb727bafb" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>crc643f46942d9dd1fff9.MasterDetailRenderer.MasterDetailRenderer</definition>
+        <argsstring>(android.content.Context p0)</argsstring>
+        <name>MasterDetailRenderer</name>
+        <param>
+          <type>android.content.Context</type>
+          <declname>p0</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/110/android/src/crc643f46942d9dd1fff9/MasterDetailRenderer.java" line="26" column="8" bodyfile="Application Green Quake.Android/obj/Release/110/android/src/crc643f46942d9dd1fff9/MasterDetailRenderer.java" bodystart="26" bodyend="31"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_master_detail_renderer_1aff1d9013426e75d22227ee7d8b83a262" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>crc643f46942d9dd1fff9.MasterDetailRenderer.MasterDetailRenderer</definition>
+        <argsstring>(android.content.Context p0, android.util.AttributeSet p1)</argsstring>
+        <name>MasterDetailRenderer</name>
+        <param>
+          <type>android.content.Context</type>
+          <declname>p0</declname>
+        </param>
+        <param>
+          <type>android.util.AttributeSet</type>
+          <declname>p1</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/110/android/src/crc643f46942d9dd1fff9/MasterDetailRenderer.java" line="34" column="8" bodyfile="Application Green Quake.Android/obj/Release/110/android/src/crc643f46942d9dd1fff9/MasterDetailRenderer.java" bodystart="34" bodyend="39"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_master_detail_renderer_1a05c07094420bf01994523007ae5c7829" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>crc643f46942d9dd1fff9.MasterDetailRenderer.MasterDetailRenderer</definition>
+        <argsstring>(android.content.Context p0, android.util.AttributeSet p1, int p2)</argsstring>
+        <name>MasterDetailRenderer</name>
+        <param>
+          <type>android.content.Context</type>
+          <declname>p0</declname>
+        </param>
+        <param>
+          <type>android.util.AttributeSet</type>
+          <declname>p1</declname>
+        </param>
+        <param>
+          <type>int</type>
+          <declname>p2</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/110/android/src/crc643f46942d9dd1fff9/MasterDetailRenderer.java" line="42" column="8" bodyfile="Application Green Quake.Android/obj/Release/110/android/src/crc643f46942d9dd1fff9/MasterDetailRenderer.java" bodystart="42" bodyend="47"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_master_detail_renderer_1a77d72589aee3aa90de362ec96b91f61e" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void crc643f46942d9dd1fff9.MasterDetailRenderer.onAttachedToWindow</definition>
+        <argsstring>()</argsstring>
+        <name>onAttachedToWindow</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/110/android/src/crc643f46942d9dd1fff9/MasterDetailRenderer.java" line="50" column="13" bodyfile="Application Green Quake.Android/obj/Release/110/android/src/crc643f46942d9dd1fff9/MasterDetailRenderer.java" bodystart="50" bodyend="53"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_master_detail_renderer_1a4b946bc72a9d731f34e837fbea099ddb" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void crc643f46942d9dd1fff9.MasterDetailRenderer.onDetachedFromWindow</definition>
+        <argsstring>()</argsstring>
+        <name>onDetachedFromWindow</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/110/android/src/crc643f46942d9dd1fff9/MasterDetailRenderer.java" line="58" column="13" bodyfile="Application Green Quake.Android/obj/Release/110/android/src/crc643f46942d9dd1fff9/MasterDetailRenderer.java" bodystart="58" bodyend="61"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_master_detail_renderer_1a429b5e7404c5c083aa4fcf816dde584a" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void crc643f46942d9dd1fff9.MasterDetailRenderer.onLayout</definition>
+        <argsstring>(boolean p0, int p1, int p2, int p3, int p4)</argsstring>
+        <name>onLayout</name>
+        <param>
+          <type>boolean</type>
+          <declname>p0</declname>
+        </param>
+        <param>
+          <type>int</type>
+          <declname>p1</declname>
+        </param>
+        <param>
+          <type>int</type>
+          <declname>p2</declname>
+        </param>
+        <param>
+          <type>int</type>
+          <declname>p3</declname>
+        </param>
+        <param>
+          <type>int</type>
+          <declname>p4</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/110/android/src/crc643f46942d9dd1fff9/MasterDetailRenderer.java" line="66" column="13" bodyfile="Application Green Quake.Android/obj/Release/110/android/src/crc643f46942d9dd1fff9/MasterDetailRenderer.java" bodystart="66" bodyend="69"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_master_detail_renderer_1a82bf0321c102f6240b5d2daea2225a77" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void crc643f46942d9dd1fff9.MasterDetailRenderer.onDrawerClosed</definition>
+        <argsstring>(android.view.View p0)</argsstring>
+        <name>onDrawerClosed</name>
+        <param>
+          <type>android.view.View</type>
+          <declname>p0</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/110/android/src/crc643f46942d9dd1fff9/MasterDetailRenderer.java" line="74" column="13" bodyfile="Application Green Quake.Android/obj/Release/110/android/src/crc643f46942d9dd1fff9/MasterDetailRenderer.java" bodystart="74" bodyend="77"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_master_detail_renderer_1a256e5cfb5a7a718ff9bcea81ea975d24" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void crc643f46942d9dd1fff9.MasterDetailRenderer.onDrawerOpened</definition>
+        <argsstring>(android.view.View p0)</argsstring>
+        <name>onDrawerOpened</name>
+        <param>
+          <type>android.view.View</type>
+          <declname>p0</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/110/android/src/crc643f46942d9dd1fff9/MasterDetailRenderer.java" line="82" column="13" bodyfile="Application Green Quake.Android/obj/Release/110/android/src/crc643f46942d9dd1fff9/MasterDetailRenderer.java" bodystart="82" bodyend="85"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_master_detail_renderer_1a961bafc612a4d31263cb783fab06be68" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void crc643f46942d9dd1fff9.MasterDetailRenderer.onDrawerSlide</definition>
+        <argsstring>(android.view.View p0, float p1)</argsstring>
+        <name>onDrawerSlide</name>
+        <param>
+          <type>android.view.View</type>
+          <declname>p0</declname>
+        </param>
+        <param>
+          <type>float</type>
+          <declname>p1</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/110/android/src/crc643f46942d9dd1fff9/MasterDetailRenderer.java" line="90" column="13" bodyfile="Application Green Quake.Android/obj/Release/110/android/src/crc643f46942d9dd1fff9/MasterDetailRenderer.java" bodystart="90" bodyend="93"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_master_detail_renderer_1ac8d81005c61ca9e3cc4ec998ef3ed4f7" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void crc643f46942d9dd1fff9.MasterDetailRenderer.onDrawerStateChanged</definition>
+        <argsstring>(int p0)</argsstring>
+        <name>onDrawerStateChanged</name>
+        <param>
+          <type>int</type>
+          <declname>p0</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/110/android/src/crc643f46942d9dd1fff9/MasterDetailRenderer.java" line="98" column="13" bodyfile="Application Green Quake.Android/obj/Release/110/android/src/crc643f46942d9dd1fff9/MasterDetailRenderer.java" bodystart="98" bodyend="101"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_master_detail_renderer_1afb973fc840cdabb336aa4bfd80908c6b" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void crc643f46942d9dd1fff9.MasterDetailRenderer.monodroidAddReference</definition>
+        <argsstring>(java.lang.Object obj)</argsstring>
+        <name>monodroidAddReference</name>
+        <param>
+          <type>java.lang.Object</type>
+          <declname>obj</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/110/android/src/crc643f46942d9dd1fff9/MasterDetailRenderer.java" line="106" column="13" bodyfile="Application Green Quake.Android/obj/Release/110/android/src/crc643f46942d9dd1fff9/MasterDetailRenderer.java" bodystart="106" bodyend="111"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_master_detail_renderer_1af8c32f7d0cfb5f6c9bfc52444bc6a4ee" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void crc643f46942d9dd1fff9.MasterDetailRenderer.monodroidClearReferences</definition>
+        <argsstring>()</argsstring>
+        <name>monodroidClearReferences</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/110/android/src/crc643f46942d9dd1fff9/MasterDetailRenderer.java" line="113" column="13" bodyfile="Application Green Quake.Android/obj/Release/110/android/src/crc643f46942d9dd1fff9/MasterDetailRenderer.java" bodystart="113" bodyend="117"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="private-func">
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_master_detail_renderer_1a46bb20bf58f2f128fab0dc9be34103b6" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>native void</type>
+        <definition>native void crc643f46942d9dd1fff9.MasterDetailRenderer.n_onAttachedToWindow</definition>
+        <argsstring>()</argsstring>
+        <name>n_onAttachedToWindow</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/100/android/src/crc643f46942d9dd1fff9/MasterDetailRenderer.java" line="55" column="21"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_master_detail_renderer_1a804edfbc54e3fbbd15ad493ea4102e33" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>native void</type>
+        <definition>native void crc643f46942d9dd1fff9.MasterDetailRenderer.n_onDetachedFromWindow</definition>
+        <argsstring>()</argsstring>
+        <name>n_onDetachedFromWindow</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/100/android/src/crc643f46942d9dd1fff9/MasterDetailRenderer.java" line="63" column="21"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_master_detail_renderer_1a7177f86e9dfb0ccc2af48b9255b1ea88" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>native void</type>
+        <definition>native void crc643f46942d9dd1fff9.MasterDetailRenderer.n_onLayout</definition>
+        <argsstring>(boolean p0, int p1, int p2, int p3, int p4)</argsstring>
+        <name>n_onLayout</name>
+        <param>
+          <type>boolean</type>
+          <declname>p0</declname>
+        </param>
+        <param>
+          <type>int</type>
+          <declname>p1</declname>
+        </param>
+        <param>
+          <type>int</type>
+          <declname>p2</declname>
+        </param>
+        <param>
+          <type>int</type>
+          <declname>p3</declname>
+        </param>
+        <param>
+          <type>int</type>
+          <declname>p4</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/100/android/src/crc643f46942d9dd1fff9/MasterDetailRenderer.java" line="71" column="21"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_master_detail_renderer_1afa1f96efb6da4b08a863cd1bdc6f59c5" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>native void</type>
+        <definition>native void crc643f46942d9dd1fff9.MasterDetailRenderer.n_onDrawerClosed</definition>
+        <argsstring>(android.view.View p0)</argsstring>
+        <name>n_onDrawerClosed</name>
+        <param>
+          <type>android.view.View</type>
+          <declname>p0</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/100/android/src/crc643f46942d9dd1fff9/MasterDetailRenderer.java" line="79" column="21"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_master_detail_renderer_1a12626a41d72ad874b7cd2c2456f2140d" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>native void</type>
+        <definition>native void crc643f46942d9dd1fff9.MasterDetailRenderer.n_onDrawerOpened</definition>
+        <argsstring>(android.view.View p0)</argsstring>
+        <name>n_onDrawerOpened</name>
+        <param>
+          <type>android.view.View</type>
+          <declname>p0</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/100/android/src/crc643f46942d9dd1fff9/MasterDetailRenderer.java" line="87" column="21"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_master_detail_renderer_1a97f172ebbb437032c26b4065c3fcd5d5" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>native void</type>
+        <definition>native void crc643f46942d9dd1fff9.MasterDetailRenderer.n_onDrawerSlide</definition>
+        <argsstring>(android.view.View p0, float p1)</argsstring>
+        <name>n_onDrawerSlide</name>
+        <param>
+          <type>android.view.View</type>
+          <declname>p0</declname>
+        </param>
+        <param>
+          <type>float</type>
+          <declname>p1</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/100/android/src/crc643f46942d9dd1fff9/MasterDetailRenderer.java" line="95" column="21"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_master_detail_renderer_1a397097a830b9bb16c6a2780aa864a8cd" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>native void</type>
+        <definition>native void crc643f46942d9dd1fff9.MasterDetailRenderer.n_onDrawerStateChanged</definition>
+        <argsstring>(int p0)</argsstring>
+        <name>n_onDrawerStateChanged</name>
+        <param>
+          <type>int</type>
+          <declname>p0</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/100/android/src/crc643f46942d9dd1fff9/MasterDetailRenderer.java" line="103" column="21"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_master_detail_renderer_1a46bb20bf58f2f128fab0dc9be34103b6" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>native void</type>
+        <definition>native void crc643f46942d9dd1fff9.MasterDetailRenderer.n_onAttachedToWindow</definition>
+        <argsstring>()</argsstring>
+        <name>n_onAttachedToWindow</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/110/android/src/crc643f46942d9dd1fff9/MasterDetailRenderer.java" line="55" column="21"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_master_detail_renderer_1a804edfbc54e3fbbd15ad493ea4102e33" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>native void</type>
+        <definition>native void crc643f46942d9dd1fff9.MasterDetailRenderer.n_onDetachedFromWindow</definition>
+        <argsstring>()</argsstring>
+        <name>n_onDetachedFromWindow</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/110/android/src/crc643f46942d9dd1fff9/MasterDetailRenderer.java" line="63" column="21"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_master_detail_renderer_1a7177f86e9dfb0ccc2af48b9255b1ea88" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>native void</type>
+        <definition>native void crc643f46942d9dd1fff9.MasterDetailRenderer.n_onLayout</definition>
+        <argsstring>(boolean p0, int p1, int p2, int p3, int p4)</argsstring>
+        <name>n_onLayout</name>
+        <param>
+          <type>boolean</type>
+          <declname>p0</declname>
+        </param>
+        <param>
+          <type>int</type>
+          <declname>p1</declname>
+        </param>
+        <param>
+          <type>int</type>
+          <declname>p2</declname>
+        </param>
+        <param>
+          <type>int</type>
+          <declname>p3</declname>
+        </param>
+        <param>
+          <type>int</type>
+          <declname>p4</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/110/android/src/crc643f46942d9dd1fff9/MasterDetailRenderer.java" line="71" column="21"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_master_detail_renderer_1afa1f96efb6da4b08a863cd1bdc6f59c5" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>native void</type>
+        <definition>native void crc643f46942d9dd1fff9.MasterDetailRenderer.n_onDrawerClosed</definition>
+        <argsstring>(android.view.View p0)</argsstring>
+        <name>n_onDrawerClosed</name>
+        <param>
+          <type>android.view.View</type>
+          <declname>p0</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/110/android/src/crc643f46942d9dd1fff9/MasterDetailRenderer.java" line="79" column="21"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_master_detail_renderer_1a12626a41d72ad874b7cd2c2456f2140d" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>native void</type>
+        <definition>native void crc643f46942d9dd1fff9.MasterDetailRenderer.n_onDrawerOpened</definition>
+        <argsstring>(android.view.View p0)</argsstring>
+        <name>n_onDrawerOpened</name>
+        <param>
+          <type>android.view.View</type>
+          <declname>p0</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/110/android/src/crc643f46942d9dd1fff9/MasterDetailRenderer.java" line="87" column="21"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_master_detail_renderer_1a97f172ebbb437032c26b4065c3fcd5d5" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>native void</type>
+        <definition>native void crc643f46942d9dd1fff9.MasterDetailRenderer.n_onDrawerSlide</definition>
+        <argsstring>(android.view.View p0, float p1)</argsstring>
+        <name>n_onDrawerSlide</name>
+        <param>
+          <type>android.view.View</type>
+          <declname>p0</declname>
+        </param>
+        <param>
+          <type>float</type>
+          <declname>p1</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/110/android/src/crc643f46942d9dd1fff9/MasterDetailRenderer.java" line="95" column="21"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_master_detail_renderer_1a397097a830b9bb16c6a2780aa864a8cd" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>native void</type>
+        <definition>native void crc643f46942d9dd1fff9.MasterDetailRenderer.n_onDrawerStateChanged</definition>
+        <argsstring>(int p0)</argsstring>
+        <name>n_onDrawerStateChanged</name>
+        <param>
+          <type>int</type>
+          <declname>p0</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/110/android/src/crc643f46942d9dd1fff9/MasterDetailRenderer.java" line="103" column="21"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_master_detail_renderer_1a46bb20bf58f2f128fab0dc9be34103b6" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>native void</type>
+        <definition>native void crc643f46942d9dd1fff9.MasterDetailRenderer.n_onAttachedToWindow</definition>
+        <argsstring>()</argsstring>
+        <name>n_onAttachedToWindow</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/100/android/src/crc643f46942d9dd1fff9/MasterDetailRenderer.java" line="55" column="21"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_master_detail_renderer_1a804edfbc54e3fbbd15ad493ea4102e33" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>native void</type>
+        <definition>native void crc643f46942d9dd1fff9.MasterDetailRenderer.n_onDetachedFromWindow</definition>
+        <argsstring>()</argsstring>
+        <name>n_onDetachedFromWindow</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/100/android/src/crc643f46942d9dd1fff9/MasterDetailRenderer.java" line="63" column="21"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_master_detail_renderer_1a7177f86e9dfb0ccc2af48b9255b1ea88" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>native void</type>
+        <definition>native void crc643f46942d9dd1fff9.MasterDetailRenderer.n_onLayout</definition>
+        <argsstring>(boolean p0, int p1, int p2, int p3, int p4)</argsstring>
+        <name>n_onLayout</name>
+        <param>
+          <type>boolean</type>
+          <declname>p0</declname>
+        </param>
+        <param>
+          <type>int</type>
+          <declname>p1</declname>
+        </param>
+        <param>
+          <type>int</type>
+          <declname>p2</declname>
+        </param>
+        <param>
+          <type>int</type>
+          <declname>p3</declname>
+        </param>
+        <param>
+          <type>int</type>
+          <declname>p4</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/100/android/src/crc643f46942d9dd1fff9/MasterDetailRenderer.java" line="71" column="21"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_master_detail_renderer_1afa1f96efb6da4b08a863cd1bdc6f59c5" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>native void</type>
+        <definition>native void crc643f46942d9dd1fff9.MasterDetailRenderer.n_onDrawerClosed</definition>
+        <argsstring>(android.view.View p0)</argsstring>
+        <name>n_onDrawerClosed</name>
+        <param>
+          <type>android.view.View</type>
+          <declname>p0</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/100/android/src/crc643f46942d9dd1fff9/MasterDetailRenderer.java" line="79" column="21"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_master_detail_renderer_1a12626a41d72ad874b7cd2c2456f2140d" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>native void</type>
+        <definition>native void crc643f46942d9dd1fff9.MasterDetailRenderer.n_onDrawerOpened</definition>
+        <argsstring>(android.view.View p0)</argsstring>
+        <name>n_onDrawerOpened</name>
+        <param>
+          <type>android.view.View</type>
+          <declname>p0</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/100/android/src/crc643f46942d9dd1fff9/MasterDetailRenderer.java" line="87" column="21"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_master_detail_renderer_1a97f172ebbb437032c26b4065c3fcd5d5" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>native void</type>
+        <definition>native void crc643f46942d9dd1fff9.MasterDetailRenderer.n_onDrawerSlide</definition>
+        <argsstring>(android.view.View p0, float p1)</argsstring>
+        <name>n_onDrawerSlide</name>
+        <param>
+          <type>android.view.View</type>
+          <declname>p0</declname>
+        </param>
+        <param>
+          <type>float</type>
+          <declname>p1</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/100/android/src/crc643f46942d9dd1fff9/MasterDetailRenderer.java" line="95" column="21"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_master_detail_renderer_1a397097a830b9bb16c6a2780aa864a8cd" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>native void</type>
+        <definition>native void crc643f46942d9dd1fff9.MasterDetailRenderer.n_onDrawerStateChanged</definition>
+        <argsstring>(int p0)</argsstring>
+        <name>n_onDrawerStateChanged</name>
+        <param>
+          <type>int</type>
+          <declname>p0</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/100/android/src/crc643f46942d9dd1fff9/MasterDetailRenderer.java" line="103" column="21"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_master_detail_renderer_1a46bb20bf58f2f128fab0dc9be34103b6" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>native void</type>
+        <definition>native void crc643f46942d9dd1fff9.MasterDetailRenderer.n_onAttachedToWindow</definition>
+        <argsstring>()</argsstring>
+        <name>n_onAttachedToWindow</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/110/android/src/crc643f46942d9dd1fff9/MasterDetailRenderer.java" line="55" column="21"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_master_detail_renderer_1a804edfbc54e3fbbd15ad493ea4102e33" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>native void</type>
+        <definition>native void crc643f46942d9dd1fff9.MasterDetailRenderer.n_onDetachedFromWindow</definition>
+        <argsstring>()</argsstring>
+        <name>n_onDetachedFromWindow</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/110/android/src/crc643f46942d9dd1fff9/MasterDetailRenderer.java" line="63" column="21"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_master_detail_renderer_1a7177f86e9dfb0ccc2af48b9255b1ea88" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>native void</type>
+        <definition>native void crc643f46942d9dd1fff9.MasterDetailRenderer.n_onLayout</definition>
+        <argsstring>(boolean p0, int p1, int p2, int p3, int p4)</argsstring>
+        <name>n_onLayout</name>
+        <param>
+          <type>boolean</type>
+          <declname>p0</declname>
+        </param>
+        <param>
+          <type>int</type>
+          <declname>p1</declname>
+        </param>
+        <param>
+          <type>int</type>
+          <declname>p2</declname>
+        </param>
+        <param>
+          <type>int</type>
+          <declname>p3</declname>
+        </param>
+        <param>
+          <type>int</type>
+          <declname>p4</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/110/android/src/crc643f46942d9dd1fff9/MasterDetailRenderer.java" line="71" column="21"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_master_detail_renderer_1afa1f96efb6da4b08a863cd1bdc6f59c5" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>native void</type>
+        <definition>native void crc643f46942d9dd1fff9.MasterDetailRenderer.n_onDrawerClosed</definition>
+        <argsstring>(android.view.View p0)</argsstring>
+        <name>n_onDrawerClosed</name>
+        <param>
+          <type>android.view.View</type>
+          <declname>p0</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/110/android/src/crc643f46942d9dd1fff9/MasterDetailRenderer.java" line="79" column="21"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_master_detail_renderer_1a12626a41d72ad874b7cd2c2456f2140d" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>native void</type>
+        <definition>native void crc643f46942d9dd1fff9.MasterDetailRenderer.n_onDrawerOpened</definition>
+        <argsstring>(android.view.View p0)</argsstring>
+        <name>n_onDrawerOpened</name>
+        <param>
+          <type>android.view.View</type>
+          <declname>p0</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/110/android/src/crc643f46942d9dd1fff9/MasterDetailRenderer.java" line="87" column="21"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_master_detail_renderer_1a97f172ebbb437032c26b4065c3fcd5d5" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>native void</type>
+        <definition>native void crc643f46942d9dd1fff9.MasterDetailRenderer.n_onDrawerSlide</definition>
+        <argsstring>(android.view.View p0, float p1)</argsstring>
+        <name>n_onDrawerSlide</name>
+        <param>
+          <type>android.view.View</type>
+          <declname>p0</declname>
+        </param>
+        <param>
+          <type>float</type>
+          <declname>p1</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/110/android/src/crc643f46942d9dd1fff9/MasterDetailRenderer.java" line="95" column="21"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_master_detail_renderer_1a397097a830b9bb16c6a2780aa864a8cd" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>native void</type>
+        <definition>native void crc643f46942d9dd1fff9.MasterDetailRenderer.n_onDrawerStateChanged</definition>
+        <argsstring>(int p0)</argsstring>
+        <name>n_onDrawerStateChanged</name>
+        <param>
+          <type>int</type>
+          <declname>p0</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/110/android/src/crc643f46942d9dd1fff9/MasterDetailRenderer.java" line="103" column="21"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <inheritancegraph>
+      <node id="4">
+        <label>androidx.drawerlayout.widget.DrawerLayout.DrawerListener</label>
+      </node>
+      <node id="1">
+        <label>crc643f46942d9dd1fff9.MasterDetailRenderer</label>
+        <link refid="classcrc643f46942d9dd1fff9_1_1_master_detail_renderer"/>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+        <childnode refid="3" relation="public-inheritance">
+        </childnode>
+        <childnode refid="4" relation="public-inheritance">
+        </childnode>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+        <childnode refid="3" relation="public-inheritance">
+        </childnode>
+        <childnode refid="4" relation="public-inheritance">
+        </childnode>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+        <childnode refid="3" relation="public-inheritance">
+        </childnode>
+        <childnode refid="4" relation="public-inheritance">
+        </childnode>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+        <childnode refid="3" relation="public-inheritance">
+        </childnode>
+        <childnode refid="4" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="3">
+        <label>mono.android.IGCUserPeer</label>
+      </node>
+      <node id="2">
+        <label>androidx.drawerlayout.widget.DrawerLayout</label>
+      </node>
+    </inheritancegraph>
+    <collaborationgraph>
+      <node id="4">
+        <label>androidx.drawerlayout.widget.DrawerLayout.DrawerListener</label>
+      </node>
+      <node id="1">
+        <label>crc643f46942d9dd1fff9.MasterDetailRenderer</label>
+        <link refid="classcrc643f46942d9dd1fff9_1_1_master_detail_renderer"/>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+        <childnode refid="3" relation="public-inheritance">
+        </childnode>
+        <childnode refid="4" relation="public-inheritance">
+        </childnode>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+        <childnode refid="3" relation="public-inheritance">
+        </childnode>
+        <childnode refid="4" relation="public-inheritance">
+        </childnode>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+        <childnode refid="3" relation="public-inheritance">
+        </childnode>
+        <childnode refid="4" relation="public-inheritance">
+        </childnode>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+        <childnode refid="3" relation="public-inheritance">
+        </childnode>
+        <childnode refid="4" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="3">
+        <label>mono.android.IGCUserPeer</label>
+      </node>
+      <node id="2">
+        <label>androidx.drawerlayout.widget.DrawerLayout</label>
+      </node>
+    </collaborationgraph>
+    <location file="Application Green Quake.Android/obj/Debug/100/android/src/crc643f46942d9dd1fff9/MasterDetailRenderer.java" line="4" column="7" bodyfile="Application Green Quake.Android/obj/Debug/100/android/src/crc643f46942d9dd1fff9/MasterDetailRenderer.java" bodystart="9" bodyend="118"/>
+    <listofallmembers>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_master_detail_renderer_1a84d66160be263e93892f08692ebdb935" prot="package" virt="non-virtual"><scope>crc643f46942d9dd1fff9::MasterDetailRenderer</scope><name>[static initializer]</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_master_detail_renderer_1a84d66160be263e93892f08692ebdb935" prot="package" virt="non-virtual"><scope>crc643f46942d9dd1fff9::MasterDetailRenderer</scope><name>[static initializer]</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_master_detail_renderer_1a84d66160be263e93892f08692ebdb935" prot="package" virt="non-virtual"><scope>crc643f46942d9dd1fff9::MasterDetailRenderer</scope><name>[static initializer]</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_master_detail_renderer_1a84d66160be263e93892f08692ebdb935" prot="package" virt="non-virtual"><scope>crc643f46942d9dd1fff9::MasterDetailRenderer</scope><name>[static initializer]</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_master_detail_renderer_1a30f970d92f4cc5aec0d9263ac4eb51f8" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::MasterDetailRenderer</scope><name>__md_methods</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_master_detail_renderer_1a1c4ef484dc3282720b5f823fb727bafb" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::MasterDetailRenderer</scope><name>MasterDetailRenderer</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_master_detail_renderer_1aff1d9013426e75d22227ee7d8b83a262" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::MasterDetailRenderer</scope><name>MasterDetailRenderer</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_master_detail_renderer_1a05c07094420bf01994523007ae5c7829" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::MasterDetailRenderer</scope><name>MasterDetailRenderer</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_master_detail_renderer_1a1c4ef484dc3282720b5f823fb727bafb" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::MasterDetailRenderer</scope><name>MasterDetailRenderer</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_master_detail_renderer_1aff1d9013426e75d22227ee7d8b83a262" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::MasterDetailRenderer</scope><name>MasterDetailRenderer</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_master_detail_renderer_1a05c07094420bf01994523007ae5c7829" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::MasterDetailRenderer</scope><name>MasterDetailRenderer</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_master_detail_renderer_1a1c4ef484dc3282720b5f823fb727bafb" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::MasterDetailRenderer</scope><name>MasterDetailRenderer</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_master_detail_renderer_1aff1d9013426e75d22227ee7d8b83a262" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::MasterDetailRenderer</scope><name>MasterDetailRenderer</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_master_detail_renderer_1a05c07094420bf01994523007ae5c7829" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::MasterDetailRenderer</scope><name>MasterDetailRenderer</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_master_detail_renderer_1a1c4ef484dc3282720b5f823fb727bafb" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::MasterDetailRenderer</scope><name>MasterDetailRenderer</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_master_detail_renderer_1aff1d9013426e75d22227ee7d8b83a262" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::MasterDetailRenderer</scope><name>MasterDetailRenderer</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_master_detail_renderer_1a05c07094420bf01994523007ae5c7829" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::MasterDetailRenderer</scope><name>MasterDetailRenderer</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_master_detail_renderer_1afb973fc840cdabb336aa4bfd80908c6b" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::MasterDetailRenderer</scope><name>monodroidAddReference</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_master_detail_renderer_1afb973fc840cdabb336aa4bfd80908c6b" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::MasterDetailRenderer</scope><name>monodroidAddReference</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_master_detail_renderer_1afb973fc840cdabb336aa4bfd80908c6b" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::MasterDetailRenderer</scope><name>monodroidAddReference</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_master_detail_renderer_1afb973fc840cdabb336aa4bfd80908c6b" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::MasterDetailRenderer</scope><name>monodroidAddReference</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_master_detail_renderer_1af8c32f7d0cfb5f6c9bfc52444bc6a4ee" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::MasterDetailRenderer</scope><name>monodroidClearReferences</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_master_detail_renderer_1af8c32f7d0cfb5f6c9bfc52444bc6a4ee" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::MasterDetailRenderer</scope><name>monodroidClearReferences</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_master_detail_renderer_1af8c32f7d0cfb5f6c9bfc52444bc6a4ee" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::MasterDetailRenderer</scope><name>monodroidClearReferences</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_master_detail_renderer_1af8c32f7d0cfb5f6c9bfc52444bc6a4ee" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::MasterDetailRenderer</scope><name>monodroidClearReferences</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_master_detail_renderer_1a46bb20bf58f2f128fab0dc9be34103b6" prot="private" virt="non-virtual"><scope>crc643f46942d9dd1fff9::MasterDetailRenderer</scope><name>n_onAttachedToWindow</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_master_detail_renderer_1a46bb20bf58f2f128fab0dc9be34103b6" prot="private" virt="non-virtual"><scope>crc643f46942d9dd1fff9::MasterDetailRenderer</scope><name>n_onAttachedToWindow</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_master_detail_renderer_1a46bb20bf58f2f128fab0dc9be34103b6" prot="private" virt="non-virtual"><scope>crc643f46942d9dd1fff9::MasterDetailRenderer</scope><name>n_onAttachedToWindow</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_master_detail_renderer_1a46bb20bf58f2f128fab0dc9be34103b6" prot="private" virt="non-virtual"><scope>crc643f46942d9dd1fff9::MasterDetailRenderer</scope><name>n_onAttachedToWindow</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_master_detail_renderer_1a804edfbc54e3fbbd15ad493ea4102e33" prot="private" virt="non-virtual"><scope>crc643f46942d9dd1fff9::MasterDetailRenderer</scope><name>n_onDetachedFromWindow</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_master_detail_renderer_1a804edfbc54e3fbbd15ad493ea4102e33" prot="private" virt="non-virtual"><scope>crc643f46942d9dd1fff9::MasterDetailRenderer</scope><name>n_onDetachedFromWindow</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_master_detail_renderer_1a804edfbc54e3fbbd15ad493ea4102e33" prot="private" virt="non-virtual"><scope>crc643f46942d9dd1fff9::MasterDetailRenderer</scope><name>n_onDetachedFromWindow</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_master_detail_renderer_1a804edfbc54e3fbbd15ad493ea4102e33" prot="private" virt="non-virtual"><scope>crc643f46942d9dd1fff9::MasterDetailRenderer</scope><name>n_onDetachedFromWindow</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_master_detail_renderer_1afa1f96efb6da4b08a863cd1bdc6f59c5" prot="private" virt="non-virtual"><scope>crc643f46942d9dd1fff9::MasterDetailRenderer</scope><name>n_onDrawerClosed</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_master_detail_renderer_1afa1f96efb6da4b08a863cd1bdc6f59c5" prot="private" virt="non-virtual"><scope>crc643f46942d9dd1fff9::MasterDetailRenderer</scope><name>n_onDrawerClosed</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_master_detail_renderer_1afa1f96efb6da4b08a863cd1bdc6f59c5" prot="private" virt="non-virtual"><scope>crc643f46942d9dd1fff9::MasterDetailRenderer</scope><name>n_onDrawerClosed</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_master_detail_renderer_1afa1f96efb6da4b08a863cd1bdc6f59c5" prot="private" virt="non-virtual"><scope>crc643f46942d9dd1fff9::MasterDetailRenderer</scope><name>n_onDrawerClosed</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_master_detail_renderer_1a12626a41d72ad874b7cd2c2456f2140d" prot="private" virt="non-virtual"><scope>crc643f46942d9dd1fff9::MasterDetailRenderer</scope><name>n_onDrawerOpened</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_master_detail_renderer_1a12626a41d72ad874b7cd2c2456f2140d" prot="private" virt="non-virtual"><scope>crc643f46942d9dd1fff9::MasterDetailRenderer</scope><name>n_onDrawerOpened</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_master_detail_renderer_1a12626a41d72ad874b7cd2c2456f2140d" prot="private" virt="non-virtual"><scope>crc643f46942d9dd1fff9::MasterDetailRenderer</scope><name>n_onDrawerOpened</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_master_detail_renderer_1a12626a41d72ad874b7cd2c2456f2140d" prot="private" virt="non-virtual"><scope>crc643f46942d9dd1fff9::MasterDetailRenderer</scope><name>n_onDrawerOpened</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_master_detail_renderer_1a97f172ebbb437032c26b4065c3fcd5d5" prot="private" virt="non-virtual"><scope>crc643f46942d9dd1fff9::MasterDetailRenderer</scope><name>n_onDrawerSlide</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_master_detail_renderer_1a97f172ebbb437032c26b4065c3fcd5d5" prot="private" virt="non-virtual"><scope>crc643f46942d9dd1fff9::MasterDetailRenderer</scope><name>n_onDrawerSlide</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_master_detail_renderer_1a97f172ebbb437032c26b4065c3fcd5d5" prot="private" virt="non-virtual"><scope>crc643f46942d9dd1fff9::MasterDetailRenderer</scope><name>n_onDrawerSlide</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_master_detail_renderer_1a97f172ebbb437032c26b4065c3fcd5d5" prot="private" virt="non-virtual"><scope>crc643f46942d9dd1fff9::MasterDetailRenderer</scope><name>n_onDrawerSlide</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_master_detail_renderer_1a397097a830b9bb16c6a2780aa864a8cd" prot="private" virt="non-virtual"><scope>crc643f46942d9dd1fff9::MasterDetailRenderer</scope><name>n_onDrawerStateChanged</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_master_detail_renderer_1a397097a830b9bb16c6a2780aa864a8cd" prot="private" virt="non-virtual"><scope>crc643f46942d9dd1fff9::MasterDetailRenderer</scope><name>n_onDrawerStateChanged</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_master_detail_renderer_1a397097a830b9bb16c6a2780aa864a8cd" prot="private" virt="non-virtual"><scope>crc643f46942d9dd1fff9::MasterDetailRenderer</scope><name>n_onDrawerStateChanged</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_master_detail_renderer_1a397097a830b9bb16c6a2780aa864a8cd" prot="private" virt="non-virtual"><scope>crc643f46942d9dd1fff9::MasterDetailRenderer</scope><name>n_onDrawerStateChanged</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_master_detail_renderer_1a7177f86e9dfb0ccc2af48b9255b1ea88" prot="private" virt="non-virtual"><scope>crc643f46942d9dd1fff9::MasterDetailRenderer</scope><name>n_onLayout</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_master_detail_renderer_1a7177f86e9dfb0ccc2af48b9255b1ea88" prot="private" virt="non-virtual"><scope>crc643f46942d9dd1fff9::MasterDetailRenderer</scope><name>n_onLayout</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_master_detail_renderer_1a7177f86e9dfb0ccc2af48b9255b1ea88" prot="private" virt="non-virtual"><scope>crc643f46942d9dd1fff9::MasterDetailRenderer</scope><name>n_onLayout</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_master_detail_renderer_1a7177f86e9dfb0ccc2af48b9255b1ea88" prot="private" virt="non-virtual"><scope>crc643f46942d9dd1fff9::MasterDetailRenderer</scope><name>n_onLayout</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_master_detail_renderer_1a77d72589aee3aa90de362ec96b91f61e" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::MasterDetailRenderer</scope><name>onAttachedToWindow</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_master_detail_renderer_1a77d72589aee3aa90de362ec96b91f61e" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::MasterDetailRenderer</scope><name>onAttachedToWindow</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_master_detail_renderer_1a77d72589aee3aa90de362ec96b91f61e" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::MasterDetailRenderer</scope><name>onAttachedToWindow</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_master_detail_renderer_1a77d72589aee3aa90de362ec96b91f61e" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::MasterDetailRenderer</scope><name>onAttachedToWindow</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_master_detail_renderer_1a4b946bc72a9d731f34e837fbea099ddb" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::MasterDetailRenderer</scope><name>onDetachedFromWindow</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_master_detail_renderer_1a4b946bc72a9d731f34e837fbea099ddb" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::MasterDetailRenderer</scope><name>onDetachedFromWindow</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_master_detail_renderer_1a4b946bc72a9d731f34e837fbea099ddb" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::MasterDetailRenderer</scope><name>onDetachedFromWindow</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_master_detail_renderer_1a4b946bc72a9d731f34e837fbea099ddb" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::MasterDetailRenderer</scope><name>onDetachedFromWindow</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_master_detail_renderer_1a82bf0321c102f6240b5d2daea2225a77" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::MasterDetailRenderer</scope><name>onDrawerClosed</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_master_detail_renderer_1a82bf0321c102f6240b5d2daea2225a77" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::MasterDetailRenderer</scope><name>onDrawerClosed</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_master_detail_renderer_1a82bf0321c102f6240b5d2daea2225a77" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::MasterDetailRenderer</scope><name>onDrawerClosed</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_master_detail_renderer_1a82bf0321c102f6240b5d2daea2225a77" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::MasterDetailRenderer</scope><name>onDrawerClosed</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_master_detail_renderer_1a256e5cfb5a7a718ff9bcea81ea975d24" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::MasterDetailRenderer</scope><name>onDrawerOpened</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_master_detail_renderer_1a256e5cfb5a7a718ff9bcea81ea975d24" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::MasterDetailRenderer</scope><name>onDrawerOpened</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_master_detail_renderer_1a256e5cfb5a7a718ff9bcea81ea975d24" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::MasterDetailRenderer</scope><name>onDrawerOpened</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_master_detail_renderer_1a256e5cfb5a7a718ff9bcea81ea975d24" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::MasterDetailRenderer</scope><name>onDrawerOpened</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_master_detail_renderer_1a961bafc612a4d31263cb783fab06be68" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::MasterDetailRenderer</scope><name>onDrawerSlide</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_master_detail_renderer_1a961bafc612a4d31263cb783fab06be68" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::MasterDetailRenderer</scope><name>onDrawerSlide</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_master_detail_renderer_1a961bafc612a4d31263cb783fab06be68" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::MasterDetailRenderer</scope><name>onDrawerSlide</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_master_detail_renderer_1a961bafc612a4d31263cb783fab06be68" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::MasterDetailRenderer</scope><name>onDrawerSlide</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_master_detail_renderer_1ac8d81005c61ca9e3cc4ec998ef3ed4f7" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::MasterDetailRenderer</scope><name>onDrawerStateChanged</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_master_detail_renderer_1ac8d81005c61ca9e3cc4ec998ef3ed4f7" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::MasterDetailRenderer</scope><name>onDrawerStateChanged</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_master_detail_renderer_1ac8d81005c61ca9e3cc4ec998ef3ed4f7" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::MasterDetailRenderer</scope><name>onDrawerStateChanged</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_master_detail_renderer_1ac8d81005c61ca9e3cc4ec998ef3ed4f7" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::MasterDetailRenderer</scope><name>onDrawerStateChanged</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_master_detail_renderer_1a429b5e7404c5c083aa4fcf816dde584a" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::MasterDetailRenderer</scope><name>onLayout</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_master_detail_renderer_1a429b5e7404c5c083aa4fcf816dde584a" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::MasterDetailRenderer</scope><name>onLayout</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_master_detail_renderer_1a429b5e7404c5c083aa4fcf816dde584a" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::MasterDetailRenderer</scope><name>onLayout</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_master_detail_renderer_1a429b5e7404c5c083aa4fcf816dde584a" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::MasterDetailRenderer</scope><name>onLayout</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_master_detail_renderer_1a4d5695d94fe040e76588507ee02c0eb3" prot="private" virt="non-virtual"><scope>crc643f46942d9dd1fff9::MasterDetailRenderer</scope><name>refList</name></member>
+    </listofallmembers>
+  </compounddef>
+</doxygen>

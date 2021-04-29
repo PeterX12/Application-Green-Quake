@@ -1,0 +1,1570 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.9.1" xml:lang="en-US">
+  <compounddef id="classcrc643f46942d9dd1fff9_1_1_page_renderer" kind="class" language="Java" prot="public">
+    <compoundname>crc643f46942d9dd1fff9::PageRenderer</compoundname>
+    <basecompoundref refid="classcrc643f46942d9dd1fff9_1_1_visual_element_renderer__1" prot="public" virt="non-virtual">crc643f46942d9dd1fff9.VisualElementRenderer_1</basecompoundref>
+    <basecompoundref prot="public" virt="non-virtual">mono.android.IGCUserPeer</basecompoundref>
+    <basecompoundref refid="classcrc643f46942d9dd1fff9_1_1_visual_element_renderer__1" prot="public" virt="non-virtual">crc643f46942d9dd1fff9.VisualElementRenderer_1</basecompoundref>
+    <basecompoundref prot="public" virt="non-virtual">mono.android.IGCUserPeer</basecompoundref>
+    <basecompoundref refid="classcrc643f46942d9dd1fff9_1_1_visual_element_renderer__1" prot="public" virt="non-virtual">crc643f46942d9dd1fff9.VisualElementRenderer_1</basecompoundref>
+    <basecompoundref prot="public" virt="non-virtual">mono.android.IGCUserPeer</basecompoundref>
+    <basecompoundref refid="classcrc643f46942d9dd1fff9_1_1_visual_element_renderer__1" prot="public" virt="non-virtual">crc643f46942d9dd1fff9.VisualElementRenderer_1</basecompoundref>
+    <basecompoundref prot="public" virt="non-virtual">mono.android.IGCUserPeer</basecompoundref>
+    <derivedcompoundref refid="classcrc643dd37f507f3d9710_1_1_popup_page_renderer" prot="public" virt="non-virtual">crc643dd37f507f3d9710.PopupPageRenderer</derivedcompoundref>
+    <derivedcompoundref refid="classcrc643dd37f507f3d9710_1_1_popup_page_renderer" prot="public" virt="non-virtual">crc643dd37f507f3d9710.PopupPageRenderer</derivedcompoundref>
+    <derivedcompoundref refid="classcrc643dd37f507f3d9710_1_1_popup_page_renderer" prot="public" virt="non-virtual">crc643dd37f507f3d9710.PopupPageRenderer</derivedcompoundref>
+    <derivedcompoundref refid="classcrc643dd37f507f3d9710_1_1_popup_page_renderer" prot="public" virt="non-virtual">crc643dd37f507f3d9710.PopupPageRenderer</derivedcompoundref>
+    <derivedcompoundref refid="classcrc643f46942d9dd1fff9_1_1_flyout_page_renderer_non_app_compat" prot="public" virt="non-virtual">crc643f46942d9dd1fff9.FlyoutPageRendererNonAppCompat</derivedcompoundref>
+    <derivedcompoundref refid="classcrc643f46942d9dd1fff9_1_1_flyout_page_renderer_non_app_compat" prot="public" virt="non-virtual">crc643f46942d9dd1fff9.FlyoutPageRendererNonAppCompat</derivedcompoundref>
+    <derivedcompoundref refid="classcrc643f46942d9dd1fff9_1_1_flyout_page_renderer_non_app_compat" prot="public" virt="non-virtual">crc643f46942d9dd1fff9.FlyoutPageRendererNonAppCompat</derivedcompoundref>
+    <derivedcompoundref refid="classcrc643f46942d9dd1fff9_1_1_flyout_page_renderer_non_app_compat" prot="public" virt="non-virtual">crc643f46942d9dd1fff9.FlyoutPageRendererNonAppCompat</derivedcompoundref>
+      <sectiondef kind="public-static-attrib">
+      <memberdef kind="variable" id="classcrc643f46942d9dd1fff9_1_1_page_renderer_1abadb160f6f1dabebda7a32823094181c" prot="public" static="yes" mutable="no">
+        <type>final String</type>
+        <definition>static final String crc643f46942d9dd1fff9.PageRenderer::__md_methods</definition>
+        <argsstring></argsstring>
+        <name>__md_methods</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+<para>@hide </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/100/android/src/crc643f46942d9dd1fff9/PageRenderer.java" line="10" column="28" bodyfile="Application Green Quake.Android/obj/Debug/100/android/src/crc643f46942d9dd1fff9/PageRenderer.java" bodystart="10" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="private-attrib">
+      <memberdef kind="variable" id="classcrc643f46942d9dd1fff9_1_1_page_renderer_1a3bf0dbcdd982c5e97f6c1a4d78c412bc" prot="private" static="no" mutable="no">
+        <type>java.util.ArrayList</type>
+        <definition>java util ArrayList crc643f46942d9dd1fff9.PageRenderer::refList</definition>
+        <argsstring></argsstring>
+        <name>refList</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/100/android/src/crc643f46942d9dd1fff9/PageRenderer.java" line="77" column="27" bodyfile="Application Green Quake.Android/obj/Debug/100/android/src/crc643f46942d9dd1fff9/PageRenderer.java" bodystart="77" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="package-static-func">
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_page_renderer_1aa7df62daf5776bbd4dc81f1b935caf5e" prot="package" static="yes" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>crc643f46942d9dd1fff9.PageRenderer.[static initializer]</definition>
+        <argsstring></argsstring>
+        <name>[static initializer]</name>
+        <reimplements refid="classcrc643f46942d9dd1fff9_1_1_visual_element_renderer__1_1ae934805547d21166e74b27d7675e7e30">[static initializer]</reimplements>
+        <reimplementedby refid="classcrc643dd37f507f3d9710_1_1_popup_page_renderer_1a8da761aab54ae5efd6d2cec48d7729df">[static initializer]</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_flyout_page_renderer_non_app_compat_1a77afb19c56e93e55703aee4a144ffb59">[static initializer]</reimplementedby>
+        <reimplementedby refid="classcrc643dd37f507f3d9710_1_1_popup_page_renderer_1a8da761aab54ae5efd6d2cec48d7729df">[static initializer]</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_flyout_page_renderer_non_app_compat_1a77afb19c56e93e55703aee4a144ffb59">[static initializer]</reimplementedby>
+        <reimplementedby refid="classcrc643dd37f507f3d9710_1_1_popup_page_renderer_1a8da761aab54ae5efd6d2cec48d7729df">[static initializer]</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_flyout_page_renderer_non_app_compat_1a77afb19c56e93e55703aee4a144ffb59">[static initializer]</reimplementedby>
+        <reimplementedby refid="classcrc643dd37f507f3d9710_1_1_popup_page_renderer_1a8da761aab54ae5efd6d2cec48d7729df">[static initializer]</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_flyout_page_renderer_non_app_compat_1a77afb19c56e93e55703aee4a144ffb59">[static initializer]</reimplementedby>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/100/android/src/crc643f46942d9dd1fff9/PageRenderer.java" line="10" column="28"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_page_renderer_1aa7df62daf5776bbd4dc81f1b935caf5e" prot="package" static="yes" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>crc643f46942d9dd1fff9.PageRenderer.[static initializer]</definition>
+        <argsstring></argsstring>
+        <name>[static initializer]</name>
+        <reimplements refid="classcrc643f46942d9dd1fff9_1_1_visual_element_renderer__1_1ae934805547d21166e74b27d7675e7e30">[static initializer]</reimplements>
+        <reimplementedby refid="classcrc643dd37f507f3d9710_1_1_popup_page_renderer_1a8da761aab54ae5efd6d2cec48d7729df">[static initializer]</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_flyout_page_renderer_non_app_compat_1a77afb19c56e93e55703aee4a144ffb59">[static initializer]</reimplementedby>
+        <reimplementedby refid="classcrc643dd37f507f3d9710_1_1_popup_page_renderer_1a8da761aab54ae5efd6d2cec48d7729df">[static initializer]</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_flyout_page_renderer_non_app_compat_1a77afb19c56e93e55703aee4a144ffb59">[static initializer]</reimplementedby>
+        <reimplementedby refid="classcrc643dd37f507f3d9710_1_1_popup_page_renderer_1a8da761aab54ae5efd6d2cec48d7729df">[static initializer]</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_flyout_page_renderer_non_app_compat_1a77afb19c56e93e55703aee4a144ffb59">[static initializer]</reimplementedby>
+        <reimplementedby refid="classcrc643dd37f507f3d9710_1_1_popup_page_renderer_1a8da761aab54ae5efd6d2cec48d7729df">[static initializer]</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_flyout_page_renderer_non_app_compat_1a77afb19c56e93e55703aee4a144ffb59">[static initializer]</reimplementedby>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/110/android/src/crc643f46942d9dd1fff9/PageRenderer.java" line="10" column="28"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_page_renderer_1aa7df62daf5776bbd4dc81f1b935caf5e" prot="package" static="yes" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>crc643f46942d9dd1fff9.PageRenderer.[static initializer]</definition>
+        <argsstring></argsstring>
+        <name>[static initializer]</name>
+        <reimplements refid="classcrc643f46942d9dd1fff9_1_1_visual_element_renderer__1_1ae934805547d21166e74b27d7675e7e30">[static initializer]</reimplements>
+        <reimplementedby refid="classcrc643dd37f507f3d9710_1_1_popup_page_renderer_1a8da761aab54ae5efd6d2cec48d7729df">[static initializer]</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_flyout_page_renderer_non_app_compat_1a77afb19c56e93e55703aee4a144ffb59">[static initializer]</reimplementedby>
+        <reimplementedby refid="classcrc643dd37f507f3d9710_1_1_popup_page_renderer_1a8da761aab54ae5efd6d2cec48d7729df">[static initializer]</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_flyout_page_renderer_non_app_compat_1a77afb19c56e93e55703aee4a144ffb59">[static initializer]</reimplementedby>
+        <reimplementedby refid="classcrc643dd37f507f3d9710_1_1_popup_page_renderer_1a8da761aab54ae5efd6d2cec48d7729df">[static initializer]</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_flyout_page_renderer_non_app_compat_1a77afb19c56e93e55703aee4a144ffb59">[static initializer]</reimplementedby>
+        <reimplementedby refid="classcrc643dd37f507f3d9710_1_1_popup_page_renderer_1a8da761aab54ae5efd6d2cec48d7729df">[static initializer]</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_flyout_page_renderer_non_app_compat_1a77afb19c56e93e55703aee4a144ffb59">[static initializer]</reimplementedby>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/100/android/src/crc643f46942d9dd1fff9/PageRenderer.java" line="10" column="28"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_page_renderer_1aa7df62daf5776bbd4dc81f1b935caf5e" prot="package" static="yes" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>crc643f46942d9dd1fff9.PageRenderer.[static initializer]</definition>
+        <argsstring></argsstring>
+        <name>[static initializer]</name>
+        <reimplements refid="classcrc643f46942d9dd1fff9_1_1_visual_element_renderer__1_1ae934805547d21166e74b27d7675e7e30">[static initializer]</reimplements>
+        <reimplementedby refid="classcrc643dd37f507f3d9710_1_1_popup_page_renderer_1a8da761aab54ae5efd6d2cec48d7729df">[static initializer]</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_flyout_page_renderer_non_app_compat_1a77afb19c56e93e55703aee4a144ffb59">[static initializer]</reimplementedby>
+        <reimplementedby refid="classcrc643dd37f507f3d9710_1_1_popup_page_renderer_1a8da761aab54ae5efd6d2cec48d7729df">[static initializer]</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_flyout_page_renderer_non_app_compat_1a77afb19c56e93e55703aee4a144ffb59">[static initializer]</reimplementedby>
+        <reimplementedby refid="classcrc643dd37f507f3d9710_1_1_popup_page_renderer_1a8da761aab54ae5efd6d2cec48d7729df">[static initializer]</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_flyout_page_renderer_non_app_compat_1a77afb19c56e93e55703aee4a144ffb59">[static initializer]</reimplementedby>
+        <reimplementedby refid="classcrc643dd37f507f3d9710_1_1_popup_page_renderer_1a8da761aab54ae5efd6d2cec48d7729df">[static initializer]</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_flyout_page_renderer_non_app_compat_1a77afb19c56e93e55703aee4a144ffb59">[static initializer]</reimplementedby>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/110/android/src/crc643f46942d9dd1fff9/PageRenderer.java" line="10" column="28"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="public-func">
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_page_renderer_1adb857aaa4a78cf2aa09ac3054e68d550" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>crc643f46942d9dd1fff9.PageRenderer.PageRenderer</definition>
+        <argsstring>(android.content.Context p0, android.util.AttributeSet p1, int p2)</argsstring>
+        <name>PageRenderer</name>
+        <param>
+          <type>android.content.Context</type>
+          <declname>p0</declname>
+        </param>
+        <param>
+          <type>android.util.AttributeSet</type>
+          <declname>p1</declname>
+        </param>
+        <param>
+          <type>int</type>
+          <declname>p2</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/100/android/src/crc643f46942d9dd1fff9/PageRenderer.java" line="22" column="8" bodyfile="Application Green Quake.Android/obj/Debug/100/android/src/crc643f46942d9dd1fff9/PageRenderer.java" bodystart="22" bodyend="27"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_page_renderer_1ab8f6c7cb5640f15c973d3b1a92f00fd5" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>crc643f46942d9dd1fff9.PageRenderer.PageRenderer</definition>
+        <argsstring>(android.content.Context p0, android.util.AttributeSet p1)</argsstring>
+        <name>PageRenderer</name>
+        <param>
+          <type>android.content.Context</type>
+          <declname>p0</declname>
+        </param>
+        <param>
+          <type>android.util.AttributeSet</type>
+          <declname>p1</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/100/android/src/crc643f46942d9dd1fff9/PageRenderer.java" line="30" column="8" bodyfile="Application Green Quake.Android/obj/Debug/100/android/src/crc643f46942d9dd1fff9/PageRenderer.java" bodystart="30" bodyend="35"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_page_renderer_1aad1ead044587f01f5c360bf4530b662b" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>crc643f46942d9dd1fff9.PageRenderer.PageRenderer</definition>
+        <argsstring>(android.content.Context p0)</argsstring>
+        <name>PageRenderer</name>
+        <param>
+          <type>android.content.Context</type>
+          <declname>p0</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/100/android/src/crc643f46942d9dd1fff9/PageRenderer.java" line="38" column="8" bodyfile="Application Green Quake.Android/obj/Debug/100/android/src/crc643f46942d9dd1fff9/PageRenderer.java" bodystart="38" bodyend="43"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_page_renderer_1ae718a6a26db275a25193a5c5265314b3" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>boolean</type>
+        <definition>boolean crc643f46942d9dd1fff9.PageRenderer.onTouchEvent</definition>
+        <argsstring>(android.view.MotionEvent p0)</argsstring>
+        <name>onTouchEvent</name>
+        <reimplements refid="classcrc643f46942d9dd1fff9_1_1_visual_element_renderer__1_1a11426581e099109c3f05f848cd0f55a4">onTouchEvent</reimplements>
+        <reimplementedby refid="classcrc643dd37f507f3d9710_1_1_popup_page_renderer_1afed6d68722e7a937adc0e2877f45533f">onTouchEvent</reimplementedby>
+        <reimplementedby refid="classcrc643dd37f507f3d9710_1_1_popup_page_renderer_1afed6d68722e7a937adc0e2877f45533f">onTouchEvent</reimplementedby>
+        <reimplementedby refid="classcrc643dd37f507f3d9710_1_1_popup_page_renderer_1afed6d68722e7a937adc0e2877f45533f">onTouchEvent</reimplementedby>
+        <reimplementedby refid="classcrc643dd37f507f3d9710_1_1_popup_page_renderer_1afed6d68722e7a937adc0e2877f45533f">onTouchEvent</reimplementedby>
+        <param>
+          <type>android.view.MotionEvent</type>
+          <declname>p0</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/100/android/src/crc643f46942d9dd1fff9/PageRenderer.java" line="46" column="16" bodyfile="Application Green Quake.Android/obj/Debug/100/android/src/crc643f46942d9dd1fff9/PageRenderer.java" bodystart="46" bodyend="49"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_page_renderer_1a4f6a5722cc8f0f1ddcb018cec87fa5fa" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void crc643f46942d9dd1fff9.PageRenderer.onAttachedToWindow</definition>
+        <argsstring>()</argsstring>
+        <name>onAttachedToWindow</name>
+        <reimplementedby refid="classcrc643dd37f507f3d9710_1_1_popup_page_renderer_1a09ec49c0ad5efa7090528c32d1c11156">onAttachedToWindow</reimplementedby>
+        <reimplementedby refid="classcrc643dd37f507f3d9710_1_1_popup_page_renderer_1a09ec49c0ad5efa7090528c32d1c11156">onAttachedToWindow</reimplementedby>
+        <reimplementedby refid="classcrc643dd37f507f3d9710_1_1_popup_page_renderer_1a09ec49c0ad5efa7090528c32d1c11156">onAttachedToWindow</reimplementedby>
+        <reimplementedby refid="classcrc643dd37f507f3d9710_1_1_popup_page_renderer_1a09ec49c0ad5efa7090528c32d1c11156">onAttachedToWindow</reimplementedby>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/100/android/src/crc643f46942d9dd1fff9/PageRenderer.java" line="54" column="13" bodyfile="Application Green Quake.Android/obj/Debug/100/android/src/crc643f46942d9dd1fff9/PageRenderer.java" bodystart="54" bodyend="57"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_page_renderer_1abc5b84fc61e2fec45b3a186627d252bd" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void crc643f46942d9dd1fff9.PageRenderer.onDetachedFromWindow</definition>
+        <argsstring>()</argsstring>
+        <name>onDetachedFromWindow</name>
+        <reimplementedby refid="classcrc643dd37f507f3d9710_1_1_popup_page_renderer_1aa2da745616b7f192c2c0156e97b6ae29">onDetachedFromWindow</reimplementedby>
+        <reimplementedby refid="classcrc643dd37f507f3d9710_1_1_popup_page_renderer_1aa2da745616b7f192c2c0156e97b6ae29">onDetachedFromWindow</reimplementedby>
+        <reimplementedby refid="classcrc643dd37f507f3d9710_1_1_popup_page_renderer_1aa2da745616b7f192c2c0156e97b6ae29">onDetachedFromWindow</reimplementedby>
+        <reimplementedby refid="classcrc643dd37f507f3d9710_1_1_popup_page_renderer_1aa2da745616b7f192c2c0156e97b6ae29">onDetachedFromWindow</reimplementedby>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/100/android/src/crc643f46942d9dd1fff9/PageRenderer.java" line="62" column="13" bodyfile="Application Green Quake.Android/obj/Debug/100/android/src/crc643f46942d9dd1fff9/PageRenderer.java" bodystart="62" bodyend="65"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_page_renderer_1a63a8d80c1b2075608244ee1c6b6745e5" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void crc643f46942d9dd1fff9.PageRenderer.onLayout</definition>
+        <argsstring>(boolean p0, int p1, int p2, int p3, int p4)</argsstring>
+        <name>onLayout</name>
+        <reimplements refid="classcrc643f46942d9dd1fff9_1_1_visual_element_renderer__1_1aa5204816e51aaac32d4cdf6fab1de3e0">onLayout</reimplements>
+        <reimplementedby refid="classcrc643dd37f507f3d9710_1_1_popup_page_renderer_1a839ca6a7f6d16f4f230159413731c987">onLayout</reimplementedby>
+        <reimplementedby refid="classcrc643dd37f507f3d9710_1_1_popup_page_renderer_1a839ca6a7f6d16f4f230159413731c987">onLayout</reimplementedby>
+        <reimplementedby refid="classcrc643dd37f507f3d9710_1_1_popup_page_renderer_1a839ca6a7f6d16f4f230159413731c987">onLayout</reimplementedby>
+        <reimplementedby refid="classcrc643dd37f507f3d9710_1_1_popup_page_renderer_1a839ca6a7f6d16f4f230159413731c987">onLayout</reimplementedby>
+        <param>
+          <type>boolean</type>
+          <declname>p0</declname>
+        </param>
+        <param>
+          <type>int</type>
+          <declname>p1</declname>
+        </param>
+        <param>
+          <type>int</type>
+          <declname>p2</declname>
+        </param>
+        <param>
+          <type>int</type>
+          <declname>p3</declname>
+        </param>
+        <param>
+          <type>int</type>
+          <declname>p4</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/100/android/src/crc643f46942d9dd1fff9/PageRenderer.java" line="70" column="13" bodyfile="Application Green Quake.Android/obj/Debug/100/android/src/crc643f46942d9dd1fff9/PageRenderer.java" bodystart="70" bodyend="73"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_page_renderer_1a3bca66ba4df1ef68199c4a28224ec788" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void crc643f46942d9dd1fff9.PageRenderer.monodroidAddReference</definition>
+        <argsstring>(java.lang.Object obj)</argsstring>
+        <name>monodroidAddReference</name>
+        <reimplements refid="classcrc643f46942d9dd1fff9_1_1_visual_element_renderer__1_1a1cfa1f5b3b23ed1754ba77b59d95e5f8">monodroidAddReference</reimplements>
+        <reimplementedby refid="classcrc643dd37f507f3d9710_1_1_popup_page_renderer_1a065fc6c95ac987db739490bc3d0f601e">monodroidAddReference</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_flyout_page_renderer_non_app_compat_1af9e61f7af934b305bfdb18b51b1df3bf">monodroidAddReference</reimplementedby>
+        <reimplementedby refid="classcrc643dd37f507f3d9710_1_1_popup_page_renderer_1a065fc6c95ac987db739490bc3d0f601e">monodroidAddReference</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_flyout_page_renderer_non_app_compat_1af9e61f7af934b305bfdb18b51b1df3bf">monodroidAddReference</reimplementedby>
+        <reimplementedby refid="classcrc643dd37f507f3d9710_1_1_popup_page_renderer_1a065fc6c95ac987db739490bc3d0f601e">monodroidAddReference</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_flyout_page_renderer_non_app_compat_1af9e61f7af934b305bfdb18b51b1df3bf">monodroidAddReference</reimplementedby>
+        <reimplementedby refid="classcrc643dd37f507f3d9710_1_1_popup_page_renderer_1a065fc6c95ac987db739490bc3d0f601e">monodroidAddReference</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_flyout_page_renderer_non_app_compat_1af9e61f7af934b305bfdb18b51b1df3bf">monodroidAddReference</reimplementedby>
+        <param>
+          <type>java.lang.Object</type>
+          <declname>obj</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/100/android/src/crc643f46942d9dd1fff9/PageRenderer.java" line="78" column="13" bodyfile="Application Green Quake.Android/obj/Debug/100/android/src/crc643f46942d9dd1fff9/PageRenderer.java" bodystart="78" bodyend="83"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_page_renderer_1ae3711697e46b1f33f3ef6c9539a391c1" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void crc643f46942d9dd1fff9.PageRenderer.monodroidClearReferences</definition>
+        <argsstring>()</argsstring>
+        <name>monodroidClearReferences</name>
+        <reimplements refid="classcrc643f46942d9dd1fff9_1_1_visual_element_renderer__1_1a1706e0a91234547c4c20637dce966b11">monodroidClearReferences</reimplements>
+        <reimplementedby refid="classcrc643dd37f507f3d9710_1_1_popup_page_renderer_1ae7253da61cb9135f30b771e36597d5c2">monodroidClearReferences</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_flyout_page_renderer_non_app_compat_1abbf51b69ff6e57c0d6c7b4f306edd7c4">monodroidClearReferences</reimplementedby>
+        <reimplementedby refid="classcrc643dd37f507f3d9710_1_1_popup_page_renderer_1ae7253da61cb9135f30b771e36597d5c2">monodroidClearReferences</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_flyout_page_renderer_non_app_compat_1abbf51b69ff6e57c0d6c7b4f306edd7c4">monodroidClearReferences</reimplementedby>
+        <reimplementedby refid="classcrc643dd37f507f3d9710_1_1_popup_page_renderer_1ae7253da61cb9135f30b771e36597d5c2">monodroidClearReferences</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_flyout_page_renderer_non_app_compat_1abbf51b69ff6e57c0d6c7b4f306edd7c4">monodroidClearReferences</reimplementedby>
+        <reimplementedby refid="classcrc643dd37f507f3d9710_1_1_popup_page_renderer_1ae7253da61cb9135f30b771e36597d5c2">monodroidClearReferences</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_flyout_page_renderer_non_app_compat_1abbf51b69ff6e57c0d6c7b4f306edd7c4">monodroidClearReferences</reimplementedby>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/100/android/src/crc643f46942d9dd1fff9/PageRenderer.java" line="85" column="13" bodyfile="Application Green Quake.Android/obj/Debug/100/android/src/crc643f46942d9dd1fff9/PageRenderer.java" bodystart="85" bodyend="89"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_page_renderer_1adb857aaa4a78cf2aa09ac3054e68d550" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>crc643f46942d9dd1fff9.PageRenderer.PageRenderer</definition>
+        <argsstring>(android.content.Context p0, android.util.AttributeSet p1, int p2)</argsstring>
+        <name>PageRenderer</name>
+        <param>
+          <type>android.content.Context</type>
+          <declname>p0</declname>
+        </param>
+        <param>
+          <type>android.util.AttributeSet</type>
+          <declname>p1</declname>
+        </param>
+        <param>
+          <type>int</type>
+          <declname>p2</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/110/android/src/crc643f46942d9dd1fff9/PageRenderer.java" line="22" column="8" bodyfile="Application Green Quake.Android/obj/Debug/110/android/src/crc643f46942d9dd1fff9/PageRenderer.java" bodystart="22" bodyend="27"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_page_renderer_1ab8f6c7cb5640f15c973d3b1a92f00fd5" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>crc643f46942d9dd1fff9.PageRenderer.PageRenderer</definition>
+        <argsstring>(android.content.Context p0, android.util.AttributeSet p1)</argsstring>
+        <name>PageRenderer</name>
+        <param>
+          <type>android.content.Context</type>
+          <declname>p0</declname>
+        </param>
+        <param>
+          <type>android.util.AttributeSet</type>
+          <declname>p1</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/110/android/src/crc643f46942d9dd1fff9/PageRenderer.java" line="30" column="8" bodyfile="Application Green Quake.Android/obj/Debug/110/android/src/crc643f46942d9dd1fff9/PageRenderer.java" bodystart="30" bodyend="35"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_page_renderer_1aad1ead044587f01f5c360bf4530b662b" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>crc643f46942d9dd1fff9.PageRenderer.PageRenderer</definition>
+        <argsstring>(android.content.Context p0)</argsstring>
+        <name>PageRenderer</name>
+        <param>
+          <type>android.content.Context</type>
+          <declname>p0</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/110/android/src/crc643f46942d9dd1fff9/PageRenderer.java" line="38" column="8" bodyfile="Application Green Quake.Android/obj/Debug/110/android/src/crc643f46942d9dd1fff9/PageRenderer.java" bodystart="38" bodyend="43"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_page_renderer_1ae718a6a26db275a25193a5c5265314b3" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>boolean</type>
+        <definition>boolean crc643f46942d9dd1fff9.PageRenderer.onTouchEvent</definition>
+        <argsstring>(android.view.MotionEvent p0)</argsstring>
+        <name>onTouchEvent</name>
+        <reimplements refid="classcrc643f46942d9dd1fff9_1_1_visual_element_renderer__1_1a11426581e099109c3f05f848cd0f55a4">onTouchEvent</reimplements>
+        <reimplementedby refid="classcrc643dd37f507f3d9710_1_1_popup_page_renderer_1afed6d68722e7a937adc0e2877f45533f">onTouchEvent</reimplementedby>
+        <reimplementedby refid="classcrc643dd37f507f3d9710_1_1_popup_page_renderer_1afed6d68722e7a937adc0e2877f45533f">onTouchEvent</reimplementedby>
+        <reimplementedby refid="classcrc643dd37f507f3d9710_1_1_popup_page_renderer_1afed6d68722e7a937adc0e2877f45533f">onTouchEvent</reimplementedby>
+        <reimplementedby refid="classcrc643dd37f507f3d9710_1_1_popup_page_renderer_1afed6d68722e7a937adc0e2877f45533f">onTouchEvent</reimplementedby>
+        <param>
+          <type>android.view.MotionEvent</type>
+          <declname>p0</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/110/android/src/crc643f46942d9dd1fff9/PageRenderer.java" line="46" column="16" bodyfile="Application Green Quake.Android/obj/Debug/110/android/src/crc643f46942d9dd1fff9/PageRenderer.java" bodystart="46" bodyend="49"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_page_renderer_1a4f6a5722cc8f0f1ddcb018cec87fa5fa" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void crc643f46942d9dd1fff9.PageRenderer.onAttachedToWindow</definition>
+        <argsstring>()</argsstring>
+        <name>onAttachedToWindow</name>
+        <reimplementedby refid="classcrc643dd37f507f3d9710_1_1_popup_page_renderer_1a09ec49c0ad5efa7090528c32d1c11156">onAttachedToWindow</reimplementedby>
+        <reimplementedby refid="classcrc643dd37f507f3d9710_1_1_popup_page_renderer_1a09ec49c0ad5efa7090528c32d1c11156">onAttachedToWindow</reimplementedby>
+        <reimplementedby refid="classcrc643dd37f507f3d9710_1_1_popup_page_renderer_1a09ec49c0ad5efa7090528c32d1c11156">onAttachedToWindow</reimplementedby>
+        <reimplementedby refid="classcrc643dd37f507f3d9710_1_1_popup_page_renderer_1a09ec49c0ad5efa7090528c32d1c11156">onAttachedToWindow</reimplementedby>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/110/android/src/crc643f46942d9dd1fff9/PageRenderer.java" line="54" column="13" bodyfile="Application Green Quake.Android/obj/Debug/110/android/src/crc643f46942d9dd1fff9/PageRenderer.java" bodystart="54" bodyend="57"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_page_renderer_1abc5b84fc61e2fec45b3a186627d252bd" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void crc643f46942d9dd1fff9.PageRenderer.onDetachedFromWindow</definition>
+        <argsstring>()</argsstring>
+        <name>onDetachedFromWindow</name>
+        <reimplementedby refid="classcrc643dd37f507f3d9710_1_1_popup_page_renderer_1aa2da745616b7f192c2c0156e97b6ae29">onDetachedFromWindow</reimplementedby>
+        <reimplementedby refid="classcrc643dd37f507f3d9710_1_1_popup_page_renderer_1aa2da745616b7f192c2c0156e97b6ae29">onDetachedFromWindow</reimplementedby>
+        <reimplementedby refid="classcrc643dd37f507f3d9710_1_1_popup_page_renderer_1aa2da745616b7f192c2c0156e97b6ae29">onDetachedFromWindow</reimplementedby>
+        <reimplementedby refid="classcrc643dd37f507f3d9710_1_1_popup_page_renderer_1aa2da745616b7f192c2c0156e97b6ae29">onDetachedFromWindow</reimplementedby>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/110/android/src/crc643f46942d9dd1fff9/PageRenderer.java" line="62" column="13" bodyfile="Application Green Quake.Android/obj/Debug/110/android/src/crc643f46942d9dd1fff9/PageRenderer.java" bodystart="62" bodyend="65"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_page_renderer_1a63a8d80c1b2075608244ee1c6b6745e5" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void crc643f46942d9dd1fff9.PageRenderer.onLayout</definition>
+        <argsstring>(boolean p0, int p1, int p2, int p3, int p4)</argsstring>
+        <name>onLayout</name>
+        <reimplements refid="classcrc643f46942d9dd1fff9_1_1_visual_element_renderer__1_1aa5204816e51aaac32d4cdf6fab1de3e0">onLayout</reimplements>
+        <reimplementedby refid="classcrc643dd37f507f3d9710_1_1_popup_page_renderer_1a839ca6a7f6d16f4f230159413731c987">onLayout</reimplementedby>
+        <reimplementedby refid="classcrc643dd37f507f3d9710_1_1_popup_page_renderer_1a839ca6a7f6d16f4f230159413731c987">onLayout</reimplementedby>
+        <reimplementedby refid="classcrc643dd37f507f3d9710_1_1_popup_page_renderer_1a839ca6a7f6d16f4f230159413731c987">onLayout</reimplementedby>
+        <reimplementedby refid="classcrc643dd37f507f3d9710_1_1_popup_page_renderer_1a839ca6a7f6d16f4f230159413731c987">onLayout</reimplementedby>
+        <param>
+          <type>boolean</type>
+          <declname>p0</declname>
+        </param>
+        <param>
+          <type>int</type>
+          <declname>p1</declname>
+        </param>
+        <param>
+          <type>int</type>
+          <declname>p2</declname>
+        </param>
+        <param>
+          <type>int</type>
+          <declname>p3</declname>
+        </param>
+        <param>
+          <type>int</type>
+          <declname>p4</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/110/android/src/crc643f46942d9dd1fff9/PageRenderer.java" line="70" column="13" bodyfile="Application Green Quake.Android/obj/Debug/110/android/src/crc643f46942d9dd1fff9/PageRenderer.java" bodystart="70" bodyend="73"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_page_renderer_1a3bca66ba4df1ef68199c4a28224ec788" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void crc643f46942d9dd1fff9.PageRenderer.monodroidAddReference</definition>
+        <argsstring>(java.lang.Object obj)</argsstring>
+        <name>monodroidAddReference</name>
+        <reimplements refid="classcrc643f46942d9dd1fff9_1_1_visual_element_renderer__1_1a1cfa1f5b3b23ed1754ba77b59d95e5f8">monodroidAddReference</reimplements>
+        <reimplementedby refid="classcrc643dd37f507f3d9710_1_1_popup_page_renderer_1a065fc6c95ac987db739490bc3d0f601e">monodroidAddReference</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_flyout_page_renderer_non_app_compat_1af9e61f7af934b305bfdb18b51b1df3bf">monodroidAddReference</reimplementedby>
+        <reimplementedby refid="classcrc643dd37f507f3d9710_1_1_popup_page_renderer_1a065fc6c95ac987db739490bc3d0f601e">monodroidAddReference</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_flyout_page_renderer_non_app_compat_1af9e61f7af934b305bfdb18b51b1df3bf">monodroidAddReference</reimplementedby>
+        <reimplementedby refid="classcrc643dd37f507f3d9710_1_1_popup_page_renderer_1a065fc6c95ac987db739490bc3d0f601e">monodroidAddReference</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_flyout_page_renderer_non_app_compat_1af9e61f7af934b305bfdb18b51b1df3bf">monodroidAddReference</reimplementedby>
+        <reimplementedby refid="classcrc643dd37f507f3d9710_1_1_popup_page_renderer_1a065fc6c95ac987db739490bc3d0f601e">monodroidAddReference</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_flyout_page_renderer_non_app_compat_1af9e61f7af934b305bfdb18b51b1df3bf">monodroidAddReference</reimplementedby>
+        <param>
+          <type>java.lang.Object</type>
+          <declname>obj</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/110/android/src/crc643f46942d9dd1fff9/PageRenderer.java" line="78" column="13" bodyfile="Application Green Quake.Android/obj/Debug/110/android/src/crc643f46942d9dd1fff9/PageRenderer.java" bodystart="78" bodyend="83"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_page_renderer_1ae3711697e46b1f33f3ef6c9539a391c1" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void crc643f46942d9dd1fff9.PageRenderer.monodroidClearReferences</definition>
+        <argsstring>()</argsstring>
+        <name>monodroidClearReferences</name>
+        <reimplements refid="classcrc643f46942d9dd1fff9_1_1_visual_element_renderer__1_1a1706e0a91234547c4c20637dce966b11">monodroidClearReferences</reimplements>
+        <reimplementedby refid="classcrc643dd37f507f3d9710_1_1_popup_page_renderer_1ae7253da61cb9135f30b771e36597d5c2">monodroidClearReferences</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_flyout_page_renderer_non_app_compat_1abbf51b69ff6e57c0d6c7b4f306edd7c4">monodroidClearReferences</reimplementedby>
+        <reimplementedby refid="classcrc643dd37f507f3d9710_1_1_popup_page_renderer_1ae7253da61cb9135f30b771e36597d5c2">monodroidClearReferences</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_flyout_page_renderer_non_app_compat_1abbf51b69ff6e57c0d6c7b4f306edd7c4">monodroidClearReferences</reimplementedby>
+        <reimplementedby refid="classcrc643dd37f507f3d9710_1_1_popup_page_renderer_1ae7253da61cb9135f30b771e36597d5c2">monodroidClearReferences</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_flyout_page_renderer_non_app_compat_1abbf51b69ff6e57c0d6c7b4f306edd7c4">monodroidClearReferences</reimplementedby>
+        <reimplementedby refid="classcrc643dd37f507f3d9710_1_1_popup_page_renderer_1ae7253da61cb9135f30b771e36597d5c2">monodroidClearReferences</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_flyout_page_renderer_non_app_compat_1abbf51b69ff6e57c0d6c7b4f306edd7c4">monodroidClearReferences</reimplementedby>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/110/android/src/crc643f46942d9dd1fff9/PageRenderer.java" line="85" column="13" bodyfile="Application Green Quake.Android/obj/Debug/110/android/src/crc643f46942d9dd1fff9/PageRenderer.java" bodystart="85" bodyend="89"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_page_renderer_1adb857aaa4a78cf2aa09ac3054e68d550" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>crc643f46942d9dd1fff9.PageRenderer.PageRenderer</definition>
+        <argsstring>(android.content.Context p0, android.util.AttributeSet p1, int p2)</argsstring>
+        <name>PageRenderer</name>
+        <param>
+          <type>android.content.Context</type>
+          <declname>p0</declname>
+        </param>
+        <param>
+          <type>android.util.AttributeSet</type>
+          <declname>p1</declname>
+        </param>
+        <param>
+          <type>int</type>
+          <declname>p2</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/100/android/src/crc643f46942d9dd1fff9/PageRenderer.java" line="22" column="8" bodyfile="Application Green Quake.Android/obj/Release/100/android/src/crc643f46942d9dd1fff9/PageRenderer.java" bodystart="22" bodyend="27"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_page_renderer_1ab8f6c7cb5640f15c973d3b1a92f00fd5" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>crc643f46942d9dd1fff9.PageRenderer.PageRenderer</definition>
+        <argsstring>(android.content.Context p0, android.util.AttributeSet p1)</argsstring>
+        <name>PageRenderer</name>
+        <param>
+          <type>android.content.Context</type>
+          <declname>p0</declname>
+        </param>
+        <param>
+          <type>android.util.AttributeSet</type>
+          <declname>p1</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/100/android/src/crc643f46942d9dd1fff9/PageRenderer.java" line="30" column="8" bodyfile="Application Green Quake.Android/obj/Release/100/android/src/crc643f46942d9dd1fff9/PageRenderer.java" bodystart="30" bodyend="35"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_page_renderer_1aad1ead044587f01f5c360bf4530b662b" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>crc643f46942d9dd1fff9.PageRenderer.PageRenderer</definition>
+        <argsstring>(android.content.Context p0)</argsstring>
+        <name>PageRenderer</name>
+        <param>
+          <type>android.content.Context</type>
+          <declname>p0</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/100/android/src/crc643f46942d9dd1fff9/PageRenderer.java" line="38" column="8" bodyfile="Application Green Quake.Android/obj/Release/100/android/src/crc643f46942d9dd1fff9/PageRenderer.java" bodystart="38" bodyend="43"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_page_renderer_1ae718a6a26db275a25193a5c5265314b3" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>boolean</type>
+        <definition>boolean crc643f46942d9dd1fff9.PageRenderer.onTouchEvent</definition>
+        <argsstring>(android.view.MotionEvent p0)</argsstring>
+        <name>onTouchEvent</name>
+        <reimplements refid="classcrc643f46942d9dd1fff9_1_1_visual_element_renderer__1_1a11426581e099109c3f05f848cd0f55a4">onTouchEvent</reimplements>
+        <reimplementedby refid="classcrc643dd37f507f3d9710_1_1_popup_page_renderer_1afed6d68722e7a937adc0e2877f45533f">onTouchEvent</reimplementedby>
+        <reimplementedby refid="classcrc643dd37f507f3d9710_1_1_popup_page_renderer_1afed6d68722e7a937adc0e2877f45533f">onTouchEvent</reimplementedby>
+        <reimplementedby refid="classcrc643dd37f507f3d9710_1_1_popup_page_renderer_1afed6d68722e7a937adc0e2877f45533f">onTouchEvent</reimplementedby>
+        <reimplementedby refid="classcrc643dd37f507f3d9710_1_1_popup_page_renderer_1afed6d68722e7a937adc0e2877f45533f">onTouchEvent</reimplementedby>
+        <param>
+          <type>android.view.MotionEvent</type>
+          <declname>p0</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/100/android/src/crc643f46942d9dd1fff9/PageRenderer.java" line="46" column="16" bodyfile="Application Green Quake.Android/obj/Release/100/android/src/crc643f46942d9dd1fff9/PageRenderer.java" bodystart="46" bodyend="49"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_page_renderer_1a4f6a5722cc8f0f1ddcb018cec87fa5fa" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void crc643f46942d9dd1fff9.PageRenderer.onAttachedToWindow</definition>
+        <argsstring>()</argsstring>
+        <name>onAttachedToWindow</name>
+        <reimplementedby refid="classcrc643dd37f507f3d9710_1_1_popup_page_renderer_1a09ec49c0ad5efa7090528c32d1c11156">onAttachedToWindow</reimplementedby>
+        <reimplementedby refid="classcrc643dd37f507f3d9710_1_1_popup_page_renderer_1a09ec49c0ad5efa7090528c32d1c11156">onAttachedToWindow</reimplementedby>
+        <reimplementedby refid="classcrc643dd37f507f3d9710_1_1_popup_page_renderer_1a09ec49c0ad5efa7090528c32d1c11156">onAttachedToWindow</reimplementedby>
+        <reimplementedby refid="classcrc643dd37f507f3d9710_1_1_popup_page_renderer_1a09ec49c0ad5efa7090528c32d1c11156">onAttachedToWindow</reimplementedby>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/100/android/src/crc643f46942d9dd1fff9/PageRenderer.java" line="54" column="13" bodyfile="Application Green Quake.Android/obj/Release/100/android/src/crc643f46942d9dd1fff9/PageRenderer.java" bodystart="54" bodyend="57"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_page_renderer_1abc5b84fc61e2fec45b3a186627d252bd" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void crc643f46942d9dd1fff9.PageRenderer.onDetachedFromWindow</definition>
+        <argsstring>()</argsstring>
+        <name>onDetachedFromWindow</name>
+        <reimplementedby refid="classcrc643dd37f507f3d9710_1_1_popup_page_renderer_1aa2da745616b7f192c2c0156e97b6ae29">onDetachedFromWindow</reimplementedby>
+        <reimplementedby refid="classcrc643dd37f507f3d9710_1_1_popup_page_renderer_1aa2da745616b7f192c2c0156e97b6ae29">onDetachedFromWindow</reimplementedby>
+        <reimplementedby refid="classcrc643dd37f507f3d9710_1_1_popup_page_renderer_1aa2da745616b7f192c2c0156e97b6ae29">onDetachedFromWindow</reimplementedby>
+        <reimplementedby refid="classcrc643dd37f507f3d9710_1_1_popup_page_renderer_1aa2da745616b7f192c2c0156e97b6ae29">onDetachedFromWindow</reimplementedby>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/100/android/src/crc643f46942d9dd1fff9/PageRenderer.java" line="62" column="13" bodyfile="Application Green Quake.Android/obj/Release/100/android/src/crc643f46942d9dd1fff9/PageRenderer.java" bodystart="62" bodyend="65"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_page_renderer_1a63a8d80c1b2075608244ee1c6b6745e5" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void crc643f46942d9dd1fff9.PageRenderer.onLayout</definition>
+        <argsstring>(boolean p0, int p1, int p2, int p3, int p4)</argsstring>
+        <name>onLayout</name>
+        <reimplements refid="classcrc643f46942d9dd1fff9_1_1_visual_element_renderer__1_1aa5204816e51aaac32d4cdf6fab1de3e0">onLayout</reimplements>
+        <reimplementedby refid="classcrc643dd37f507f3d9710_1_1_popup_page_renderer_1a839ca6a7f6d16f4f230159413731c987">onLayout</reimplementedby>
+        <reimplementedby refid="classcrc643dd37f507f3d9710_1_1_popup_page_renderer_1a839ca6a7f6d16f4f230159413731c987">onLayout</reimplementedby>
+        <reimplementedby refid="classcrc643dd37f507f3d9710_1_1_popup_page_renderer_1a839ca6a7f6d16f4f230159413731c987">onLayout</reimplementedby>
+        <reimplementedby refid="classcrc643dd37f507f3d9710_1_1_popup_page_renderer_1a839ca6a7f6d16f4f230159413731c987">onLayout</reimplementedby>
+        <param>
+          <type>boolean</type>
+          <declname>p0</declname>
+        </param>
+        <param>
+          <type>int</type>
+          <declname>p1</declname>
+        </param>
+        <param>
+          <type>int</type>
+          <declname>p2</declname>
+        </param>
+        <param>
+          <type>int</type>
+          <declname>p3</declname>
+        </param>
+        <param>
+          <type>int</type>
+          <declname>p4</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/100/android/src/crc643f46942d9dd1fff9/PageRenderer.java" line="70" column="13" bodyfile="Application Green Quake.Android/obj/Release/100/android/src/crc643f46942d9dd1fff9/PageRenderer.java" bodystart="70" bodyend="73"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_page_renderer_1a3bca66ba4df1ef68199c4a28224ec788" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void crc643f46942d9dd1fff9.PageRenderer.monodroidAddReference</definition>
+        <argsstring>(java.lang.Object obj)</argsstring>
+        <name>monodroidAddReference</name>
+        <reimplements refid="classcrc643f46942d9dd1fff9_1_1_visual_element_renderer__1_1a1cfa1f5b3b23ed1754ba77b59d95e5f8">monodroidAddReference</reimplements>
+        <reimplementedby refid="classcrc643dd37f507f3d9710_1_1_popup_page_renderer_1a065fc6c95ac987db739490bc3d0f601e">monodroidAddReference</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_flyout_page_renderer_non_app_compat_1af9e61f7af934b305bfdb18b51b1df3bf">monodroidAddReference</reimplementedby>
+        <reimplementedby refid="classcrc643dd37f507f3d9710_1_1_popup_page_renderer_1a065fc6c95ac987db739490bc3d0f601e">monodroidAddReference</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_flyout_page_renderer_non_app_compat_1af9e61f7af934b305bfdb18b51b1df3bf">monodroidAddReference</reimplementedby>
+        <reimplementedby refid="classcrc643dd37f507f3d9710_1_1_popup_page_renderer_1a065fc6c95ac987db739490bc3d0f601e">monodroidAddReference</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_flyout_page_renderer_non_app_compat_1af9e61f7af934b305bfdb18b51b1df3bf">monodroidAddReference</reimplementedby>
+        <reimplementedby refid="classcrc643dd37f507f3d9710_1_1_popup_page_renderer_1a065fc6c95ac987db739490bc3d0f601e">monodroidAddReference</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_flyout_page_renderer_non_app_compat_1af9e61f7af934b305bfdb18b51b1df3bf">monodroidAddReference</reimplementedby>
+        <param>
+          <type>java.lang.Object</type>
+          <declname>obj</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/100/android/src/crc643f46942d9dd1fff9/PageRenderer.java" line="78" column="13" bodyfile="Application Green Quake.Android/obj/Release/100/android/src/crc643f46942d9dd1fff9/PageRenderer.java" bodystart="78" bodyend="83"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_page_renderer_1ae3711697e46b1f33f3ef6c9539a391c1" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void crc643f46942d9dd1fff9.PageRenderer.monodroidClearReferences</definition>
+        <argsstring>()</argsstring>
+        <name>monodroidClearReferences</name>
+        <reimplements refid="classcrc643f46942d9dd1fff9_1_1_visual_element_renderer__1_1a1706e0a91234547c4c20637dce966b11">monodroidClearReferences</reimplements>
+        <reimplementedby refid="classcrc643dd37f507f3d9710_1_1_popup_page_renderer_1ae7253da61cb9135f30b771e36597d5c2">monodroidClearReferences</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_flyout_page_renderer_non_app_compat_1abbf51b69ff6e57c0d6c7b4f306edd7c4">monodroidClearReferences</reimplementedby>
+        <reimplementedby refid="classcrc643dd37f507f3d9710_1_1_popup_page_renderer_1ae7253da61cb9135f30b771e36597d5c2">monodroidClearReferences</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_flyout_page_renderer_non_app_compat_1abbf51b69ff6e57c0d6c7b4f306edd7c4">monodroidClearReferences</reimplementedby>
+        <reimplementedby refid="classcrc643dd37f507f3d9710_1_1_popup_page_renderer_1ae7253da61cb9135f30b771e36597d5c2">monodroidClearReferences</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_flyout_page_renderer_non_app_compat_1abbf51b69ff6e57c0d6c7b4f306edd7c4">monodroidClearReferences</reimplementedby>
+        <reimplementedby refid="classcrc643dd37f507f3d9710_1_1_popup_page_renderer_1ae7253da61cb9135f30b771e36597d5c2">monodroidClearReferences</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_flyout_page_renderer_non_app_compat_1abbf51b69ff6e57c0d6c7b4f306edd7c4">monodroidClearReferences</reimplementedby>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/100/android/src/crc643f46942d9dd1fff9/PageRenderer.java" line="85" column="13" bodyfile="Application Green Quake.Android/obj/Release/100/android/src/crc643f46942d9dd1fff9/PageRenderer.java" bodystart="85" bodyend="89"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_page_renderer_1adb857aaa4a78cf2aa09ac3054e68d550" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>crc643f46942d9dd1fff9.PageRenderer.PageRenderer</definition>
+        <argsstring>(android.content.Context p0, android.util.AttributeSet p1, int p2)</argsstring>
+        <name>PageRenderer</name>
+        <param>
+          <type>android.content.Context</type>
+          <declname>p0</declname>
+        </param>
+        <param>
+          <type>android.util.AttributeSet</type>
+          <declname>p1</declname>
+        </param>
+        <param>
+          <type>int</type>
+          <declname>p2</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/110/android/src/crc643f46942d9dd1fff9/PageRenderer.java" line="22" column="8" bodyfile="Application Green Quake.Android/obj/Release/110/android/src/crc643f46942d9dd1fff9/PageRenderer.java" bodystart="22" bodyend="27"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_page_renderer_1ab8f6c7cb5640f15c973d3b1a92f00fd5" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>crc643f46942d9dd1fff9.PageRenderer.PageRenderer</definition>
+        <argsstring>(android.content.Context p0, android.util.AttributeSet p1)</argsstring>
+        <name>PageRenderer</name>
+        <param>
+          <type>android.content.Context</type>
+          <declname>p0</declname>
+        </param>
+        <param>
+          <type>android.util.AttributeSet</type>
+          <declname>p1</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/110/android/src/crc643f46942d9dd1fff9/PageRenderer.java" line="30" column="8" bodyfile="Application Green Quake.Android/obj/Release/110/android/src/crc643f46942d9dd1fff9/PageRenderer.java" bodystart="30" bodyend="35"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_page_renderer_1aad1ead044587f01f5c360bf4530b662b" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>crc643f46942d9dd1fff9.PageRenderer.PageRenderer</definition>
+        <argsstring>(android.content.Context p0)</argsstring>
+        <name>PageRenderer</name>
+        <param>
+          <type>android.content.Context</type>
+          <declname>p0</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/110/android/src/crc643f46942d9dd1fff9/PageRenderer.java" line="38" column="8" bodyfile="Application Green Quake.Android/obj/Release/110/android/src/crc643f46942d9dd1fff9/PageRenderer.java" bodystart="38" bodyend="43"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_page_renderer_1ae718a6a26db275a25193a5c5265314b3" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>boolean</type>
+        <definition>boolean crc643f46942d9dd1fff9.PageRenderer.onTouchEvent</definition>
+        <argsstring>(android.view.MotionEvent p0)</argsstring>
+        <name>onTouchEvent</name>
+        <reimplements refid="classcrc643f46942d9dd1fff9_1_1_visual_element_renderer__1_1a11426581e099109c3f05f848cd0f55a4">onTouchEvent</reimplements>
+        <reimplementedby refid="classcrc643dd37f507f3d9710_1_1_popup_page_renderer_1afed6d68722e7a937adc0e2877f45533f">onTouchEvent</reimplementedby>
+        <reimplementedby refid="classcrc643dd37f507f3d9710_1_1_popup_page_renderer_1afed6d68722e7a937adc0e2877f45533f">onTouchEvent</reimplementedby>
+        <reimplementedby refid="classcrc643dd37f507f3d9710_1_1_popup_page_renderer_1afed6d68722e7a937adc0e2877f45533f">onTouchEvent</reimplementedby>
+        <reimplementedby refid="classcrc643dd37f507f3d9710_1_1_popup_page_renderer_1afed6d68722e7a937adc0e2877f45533f">onTouchEvent</reimplementedby>
+        <param>
+          <type>android.view.MotionEvent</type>
+          <declname>p0</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/110/android/src/crc643f46942d9dd1fff9/PageRenderer.java" line="46" column="16" bodyfile="Application Green Quake.Android/obj/Release/110/android/src/crc643f46942d9dd1fff9/PageRenderer.java" bodystart="46" bodyend="49"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_page_renderer_1a4f6a5722cc8f0f1ddcb018cec87fa5fa" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void crc643f46942d9dd1fff9.PageRenderer.onAttachedToWindow</definition>
+        <argsstring>()</argsstring>
+        <name>onAttachedToWindow</name>
+        <reimplementedby refid="classcrc643dd37f507f3d9710_1_1_popup_page_renderer_1a09ec49c0ad5efa7090528c32d1c11156">onAttachedToWindow</reimplementedby>
+        <reimplementedby refid="classcrc643dd37f507f3d9710_1_1_popup_page_renderer_1a09ec49c0ad5efa7090528c32d1c11156">onAttachedToWindow</reimplementedby>
+        <reimplementedby refid="classcrc643dd37f507f3d9710_1_1_popup_page_renderer_1a09ec49c0ad5efa7090528c32d1c11156">onAttachedToWindow</reimplementedby>
+        <reimplementedby refid="classcrc643dd37f507f3d9710_1_1_popup_page_renderer_1a09ec49c0ad5efa7090528c32d1c11156">onAttachedToWindow</reimplementedby>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/110/android/src/crc643f46942d9dd1fff9/PageRenderer.java" line="54" column="13" bodyfile="Application Green Quake.Android/obj/Release/110/android/src/crc643f46942d9dd1fff9/PageRenderer.java" bodystart="54" bodyend="57"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_page_renderer_1abc5b84fc61e2fec45b3a186627d252bd" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void crc643f46942d9dd1fff9.PageRenderer.onDetachedFromWindow</definition>
+        <argsstring>()</argsstring>
+        <name>onDetachedFromWindow</name>
+        <reimplementedby refid="classcrc643dd37f507f3d9710_1_1_popup_page_renderer_1aa2da745616b7f192c2c0156e97b6ae29">onDetachedFromWindow</reimplementedby>
+        <reimplementedby refid="classcrc643dd37f507f3d9710_1_1_popup_page_renderer_1aa2da745616b7f192c2c0156e97b6ae29">onDetachedFromWindow</reimplementedby>
+        <reimplementedby refid="classcrc643dd37f507f3d9710_1_1_popup_page_renderer_1aa2da745616b7f192c2c0156e97b6ae29">onDetachedFromWindow</reimplementedby>
+        <reimplementedby refid="classcrc643dd37f507f3d9710_1_1_popup_page_renderer_1aa2da745616b7f192c2c0156e97b6ae29">onDetachedFromWindow</reimplementedby>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/110/android/src/crc643f46942d9dd1fff9/PageRenderer.java" line="62" column="13" bodyfile="Application Green Quake.Android/obj/Release/110/android/src/crc643f46942d9dd1fff9/PageRenderer.java" bodystart="62" bodyend="65"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_page_renderer_1a63a8d80c1b2075608244ee1c6b6745e5" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void crc643f46942d9dd1fff9.PageRenderer.onLayout</definition>
+        <argsstring>(boolean p0, int p1, int p2, int p3, int p4)</argsstring>
+        <name>onLayout</name>
+        <reimplements refid="classcrc643f46942d9dd1fff9_1_1_visual_element_renderer__1_1aa5204816e51aaac32d4cdf6fab1de3e0">onLayout</reimplements>
+        <reimplementedby refid="classcrc643dd37f507f3d9710_1_1_popup_page_renderer_1a839ca6a7f6d16f4f230159413731c987">onLayout</reimplementedby>
+        <reimplementedby refid="classcrc643dd37f507f3d9710_1_1_popup_page_renderer_1a839ca6a7f6d16f4f230159413731c987">onLayout</reimplementedby>
+        <reimplementedby refid="classcrc643dd37f507f3d9710_1_1_popup_page_renderer_1a839ca6a7f6d16f4f230159413731c987">onLayout</reimplementedby>
+        <reimplementedby refid="classcrc643dd37f507f3d9710_1_1_popup_page_renderer_1a839ca6a7f6d16f4f230159413731c987">onLayout</reimplementedby>
+        <param>
+          <type>boolean</type>
+          <declname>p0</declname>
+        </param>
+        <param>
+          <type>int</type>
+          <declname>p1</declname>
+        </param>
+        <param>
+          <type>int</type>
+          <declname>p2</declname>
+        </param>
+        <param>
+          <type>int</type>
+          <declname>p3</declname>
+        </param>
+        <param>
+          <type>int</type>
+          <declname>p4</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/110/android/src/crc643f46942d9dd1fff9/PageRenderer.java" line="70" column="13" bodyfile="Application Green Quake.Android/obj/Release/110/android/src/crc643f46942d9dd1fff9/PageRenderer.java" bodystart="70" bodyend="73"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_page_renderer_1a3bca66ba4df1ef68199c4a28224ec788" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void crc643f46942d9dd1fff9.PageRenderer.monodroidAddReference</definition>
+        <argsstring>(java.lang.Object obj)</argsstring>
+        <name>monodroidAddReference</name>
+        <reimplements refid="classcrc643f46942d9dd1fff9_1_1_visual_element_renderer__1_1a1cfa1f5b3b23ed1754ba77b59d95e5f8">monodroidAddReference</reimplements>
+        <reimplementedby refid="classcrc643dd37f507f3d9710_1_1_popup_page_renderer_1a065fc6c95ac987db739490bc3d0f601e">monodroidAddReference</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_flyout_page_renderer_non_app_compat_1af9e61f7af934b305bfdb18b51b1df3bf">monodroidAddReference</reimplementedby>
+        <reimplementedby refid="classcrc643dd37f507f3d9710_1_1_popup_page_renderer_1a065fc6c95ac987db739490bc3d0f601e">monodroidAddReference</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_flyout_page_renderer_non_app_compat_1af9e61f7af934b305bfdb18b51b1df3bf">monodroidAddReference</reimplementedby>
+        <reimplementedby refid="classcrc643dd37f507f3d9710_1_1_popup_page_renderer_1a065fc6c95ac987db739490bc3d0f601e">monodroidAddReference</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_flyout_page_renderer_non_app_compat_1af9e61f7af934b305bfdb18b51b1df3bf">monodroidAddReference</reimplementedby>
+        <reimplementedby refid="classcrc643dd37f507f3d9710_1_1_popup_page_renderer_1a065fc6c95ac987db739490bc3d0f601e">monodroidAddReference</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_flyout_page_renderer_non_app_compat_1af9e61f7af934b305bfdb18b51b1df3bf">monodroidAddReference</reimplementedby>
+        <param>
+          <type>java.lang.Object</type>
+          <declname>obj</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/110/android/src/crc643f46942d9dd1fff9/PageRenderer.java" line="78" column="13" bodyfile="Application Green Quake.Android/obj/Release/110/android/src/crc643f46942d9dd1fff9/PageRenderer.java" bodystart="78" bodyend="83"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_page_renderer_1ae3711697e46b1f33f3ef6c9539a391c1" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void crc643f46942d9dd1fff9.PageRenderer.monodroidClearReferences</definition>
+        <argsstring>()</argsstring>
+        <name>monodroidClearReferences</name>
+        <reimplements refid="classcrc643f46942d9dd1fff9_1_1_visual_element_renderer__1_1a1706e0a91234547c4c20637dce966b11">monodroidClearReferences</reimplements>
+        <reimplementedby refid="classcrc643dd37f507f3d9710_1_1_popup_page_renderer_1ae7253da61cb9135f30b771e36597d5c2">monodroidClearReferences</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_flyout_page_renderer_non_app_compat_1abbf51b69ff6e57c0d6c7b4f306edd7c4">monodroidClearReferences</reimplementedby>
+        <reimplementedby refid="classcrc643dd37f507f3d9710_1_1_popup_page_renderer_1ae7253da61cb9135f30b771e36597d5c2">monodroidClearReferences</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_flyout_page_renderer_non_app_compat_1abbf51b69ff6e57c0d6c7b4f306edd7c4">monodroidClearReferences</reimplementedby>
+        <reimplementedby refid="classcrc643dd37f507f3d9710_1_1_popup_page_renderer_1ae7253da61cb9135f30b771e36597d5c2">monodroidClearReferences</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_flyout_page_renderer_non_app_compat_1abbf51b69ff6e57c0d6c7b4f306edd7c4">monodroidClearReferences</reimplementedby>
+        <reimplementedby refid="classcrc643dd37f507f3d9710_1_1_popup_page_renderer_1ae7253da61cb9135f30b771e36597d5c2">monodroidClearReferences</reimplementedby>
+        <reimplementedby refid="classcrc643f46942d9dd1fff9_1_1_flyout_page_renderer_non_app_compat_1abbf51b69ff6e57c0d6c7b4f306edd7c4">monodroidClearReferences</reimplementedby>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/110/android/src/crc643f46942d9dd1fff9/PageRenderer.java" line="85" column="13" bodyfile="Application Green Quake.Android/obj/Release/110/android/src/crc643f46942d9dd1fff9/PageRenderer.java" bodystart="85" bodyend="89"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="private-func">
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_page_renderer_1a98011e733b00bebaa9b5513be55c6bc2" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>native boolean</type>
+        <definition>native boolean crc643f46942d9dd1fff9.PageRenderer.n_onTouchEvent</definition>
+        <argsstring>(android.view.MotionEvent p0)</argsstring>
+        <name>n_onTouchEvent</name>
+        <reimplements refid="classcrc643f46942d9dd1fff9_1_1_visual_element_renderer__1_1a47390c58e87b2e8f62a7f6f74eea79b0">n_onTouchEvent</reimplements>
+        <reimplementedby refid="classcrc643dd37f507f3d9710_1_1_popup_page_renderer_1ad59f01fc9907b2275a02c16fbb1512fb">n_onTouchEvent</reimplementedby>
+        <reimplementedby refid="classcrc643dd37f507f3d9710_1_1_popup_page_renderer_1ad59f01fc9907b2275a02c16fbb1512fb">n_onTouchEvent</reimplementedby>
+        <reimplementedby refid="classcrc643dd37f507f3d9710_1_1_popup_page_renderer_1ad59f01fc9907b2275a02c16fbb1512fb">n_onTouchEvent</reimplementedby>
+        <reimplementedby refid="classcrc643dd37f507f3d9710_1_1_popup_page_renderer_1ad59f01fc9907b2275a02c16fbb1512fb">n_onTouchEvent</reimplementedby>
+        <param>
+          <type>android.view.MotionEvent</type>
+          <declname>p0</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/100/android/src/crc643f46942d9dd1fff9/PageRenderer.java" line="51" column="24"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_page_renderer_1ad97821941921e6dc1ea74e56d0a86eb8" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>native void</type>
+        <definition>native void crc643f46942d9dd1fff9.PageRenderer.n_onAttachedToWindow</definition>
+        <argsstring>()</argsstring>
+        <name>n_onAttachedToWindow</name>
+        <reimplementedby refid="classcrc643dd37f507f3d9710_1_1_popup_page_renderer_1a3361656c50544c88e7466c1b7fcc0719">n_onAttachedToWindow</reimplementedby>
+        <reimplementedby refid="classcrc643dd37f507f3d9710_1_1_popup_page_renderer_1a3361656c50544c88e7466c1b7fcc0719">n_onAttachedToWindow</reimplementedby>
+        <reimplementedby refid="classcrc643dd37f507f3d9710_1_1_popup_page_renderer_1a3361656c50544c88e7466c1b7fcc0719">n_onAttachedToWindow</reimplementedby>
+        <reimplementedby refid="classcrc643dd37f507f3d9710_1_1_popup_page_renderer_1a3361656c50544c88e7466c1b7fcc0719">n_onAttachedToWindow</reimplementedby>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/100/android/src/crc643f46942d9dd1fff9/PageRenderer.java" line="59" column="21"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_page_renderer_1a0daeaad7201feb288228b716d4523ce5" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>native void</type>
+        <definition>native void crc643f46942d9dd1fff9.PageRenderer.n_onDetachedFromWindow</definition>
+        <argsstring>()</argsstring>
+        <name>n_onDetachedFromWindow</name>
+        <reimplementedby refid="classcrc643dd37f507f3d9710_1_1_popup_page_renderer_1a6b4a4e4940e77da6b98aa0449ddf70e8">n_onDetachedFromWindow</reimplementedby>
+        <reimplementedby refid="classcrc643dd37f507f3d9710_1_1_popup_page_renderer_1a6b4a4e4940e77da6b98aa0449ddf70e8">n_onDetachedFromWindow</reimplementedby>
+        <reimplementedby refid="classcrc643dd37f507f3d9710_1_1_popup_page_renderer_1a6b4a4e4940e77da6b98aa0449ddf70e8">n_onDetachedFromWindow</reimplementedby>
+        <reimplementedby refid="classcrc643dd37f507f3d9710_1_1_popup_page_renderer_1a6b4a4e4940e77da6b98aa0449ddf70e8">n_onDetachedFromWindow</reimplementedby>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/100/android/src/crc643f46942d9dd1fff9/PageRenderer.java" line="67" column="21"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_page_renderer_1ad857158df683fc67a56c8bd11f67587c" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>native void</type>
+        <definition>native void crc643f46942d9dd1fff9.PageRenderer.n_onLayout</definition>
+        <argsstring>(boolean p0, int p1, int p2, int p3, int p4)</argsstring>
+        <name>n_onLayout</name>
+        <reimplements refid="classcrc643f46942d9dd1fff9_1_1_visual_element_renderer__1_1a2f5a8d7684b7c8c278ddff226f34c942">n_onLayout</reimplements>
+        <reimplementedby refid="classcrc643dd37f507f3d9710_1_1_popup_page_renderer_1a416d875485f831f5996a1fae0b0c2d98">n_onLayout</reimplementedby>
+        <reimplementedby refid="classcrc643dd37f507f3d9710_1_1_popup_page_renderer_1a416d875485f831f5996a1fae0b0c2d98">n_onLayout</reimplementedby>
+        <reimplementedby refid="classcrc643dd37f507f3d9710_1_1_popup_page_renderer_1a416d875485f831f5996a1fae0b0c2d98">n_onLayout</reimplementedby>
+        <reimplementedby refid="classcrc643dd37f507f3d9710_1_1_popup_page_renderer_1a416d875485f831f5996a1fae0b0c2d98">n_onLayout</reimplementedby>
+        <param>
+          <type>boolean</type>
+          <declname>p0</declname>
+        </param>
+        <param>
+          <type>int</type>
+          <declname>p1</declname>
+        </param>
+        <param>
+          <type>int</type>
+          <declname>p2</declname>
+        </param>
+        <param>
+          <type>int</type>
+          <declname>p3</declname>
+        </param>
+        <param>
+          <type>int</type>
+          <declname>p4</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/100/android/src/crc643f46942d9dd1fff9/PageRenderer.java" line="75" column="21"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_page_renderer_1a98011e733b00bebaa9b5513be55c6bc2" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>native boolean</type>
+        <definition>native boolean crc643f46942d9dd1fff9.PageRenderer.n_onTouchEvent</definition>
+        <argsstring>(android.view.MotionEvent p0)</argsstring>
+        <name>n_onTouchEvent</name>
+        <reimplements refid="classcrc643f46942d9dd1fff9_1_1_visual_element_renderer__1_1a47390c58e87b2e8f62a7f6f74eea79b0">n_onTouchEvent</reimplements>
+        <reimplementedby refid="classcrc643dd37f507f3d9710_1_1_popup_page_renderer_1ad59f01fc9907b2275a02c16fbb1512fb">n_onTouchEvent</reimplementedby>
+        <reimplementedby refid="classcrc643dd37f507f3d9710_1_1_popup_page_renderer_1ad59f01fc9907b2275a02c16fbb1512fb">n_onTouchEvent</reimplementedby>
+        <reimplementedby refid="classcrc643dd37f507f3d9710_1_1_popup_page_renderer_1ad59f01fc9907b2275a02c16fbb1512fb">n_onTouchEvent</reimplementedby>
+        <reimplementedby refid="classcrc643dd37f507f3d9710_1_1_popup_page_renderer_1ad59f01fc9907b2275a02c16fbb1512fb">n_onTouchEvent</reimplementedby>
+        <param>
+          <type>android.view.MotionEvent</type>
+          <declname>p0</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/110/android/src/crc643f46942d9dd1fff9/PageRenderer.java" line="51" column="24"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_page_renderer_1ad97821941921e6dc1ea74e56d0a86eb8" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>native void</type>
+        <definition>native void crc643f46942d9dd1fff9.PageRenderer.n_onAttachedToWindow</definition>
+        <argsstring>()</argsstring>
+        <name>n_onAttachedToWindow</name>
+        <reimplementedby refid="classcrc643dd37f507f3d9710_1_1_popup_page_renderer_1a3361656c50544c88e7466c1b7fcc0719">n_onAttachedToWindow</reimplementedby>
+        <reimplementedby refid="classcrc643dd37f507f3d9710_1_1_popup_page_renderer_1a3361656c50544c88e7466c1b7fcc0719">n_onAttachedToWindow</reimplementedby>
+        <reimplementedby refid="classcrc643dd37f507f3d9710_1_1_popup_page_renderer_1a3361656c50544c88e7466c1b7fcc0719">n_onAttachedToWindow</reimplementedby>
+        <reimplementedby refid="classcrc643dd37f507f3d9710_1_1_popup_page_renderer_1a3361656c50544c88e7466c1b7fcc0719">n_onAttachedToWindow</reimplementedby>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/110/android/src/crc643f46942d9dd1fff9/PageRenderer.java" line="59" column="21"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_page_renderer_1a0daeaad7201feb288228b716d4523ce5" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>native void</type>
+        <definition>native void crc643f46942d9dd1fff9.PageRenderer.n_onDetachedFromWindow</definition>
+        <argsstring>()</argsstring>
+        <name>n_onDetachedFromWindow</name>
+        <reimplementedby refid="classcrc643dd37f507f3d9710_1_1_popup_page_renderer_1a6b4a4e4940e77da6b98aa0449ddf70e8">n_onDetachedFromWindow</reimplementedby>
+        <reimplementedby refid="classcrc643dd37f507f3d9710_1_1_popup_page_renderer_1a6b4a4e4940e77da6b98aa0449ddf70e8">n_onDetachedFromWindow</reimplementedby>
+        <reimplementedby refid="classcrc643dd37f507f3d9710_1_1_popup_page_renderer_1a6b4a4e4940e77da6b98aa0449ddf70e8">n_onDetachedFromWindow</reimplementedby>
+        <reimplementedby refid="classcrc643dd37f507f3d9710_1_1_popup_page_renderer_1a6b4a4e4940e77da6b98aa0449ddf70e8">n_onDetachedFromWindow</reimplementedby>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/110/android/src/crc643f46942d9dd1fff9/PageRenderer.java" line="67" column="21"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_page_renderer_1ad857158df683fc67a56c8bd11f67587c" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>native void</type>
+        <definition>native void crc643f46942d9dd1fff9.PageRenderer.n_onLayout</definition>
+        <argsstring>(boolean p0, int p1, int p2, int p3, int p4)</argsstring>
+        <name>n_onLayout</name>
+        <reimplements refid="classcrc643f46942d9dd1fff9_1_1_visual_element_renderer__1_1a2f5a8d7684b7c8c278ddff226f34c942">n_onLayout</reimplements>
+        <reimplementedby refid="classcrc643dd37f507f3d9710_1_1_popup_page_renderer_1a416d875485f831f5996a1fae0b0c2d98">n_onLayout</reimplementedby>
+        <reimplementedby refid="classcrc643dd37f507f3d9710_1_1_popup_page_renderer_1a416d875485f831f5996a1fae0b0c2d98">n_onLayout</reimplementedby>
+        <reimplementedby refid="classcrc643dd37f507f3d9710_1_1_popup_page_renderer_1a416d875485f831f5996a1fae0b0c2d98">n_onLayout</reimplementedby>
+        <reimplementedby refid="classcrc643dd37f507f3d9710_1_1_popup_page_renderer_1a416d875485f831f5996a1fae0b0c2d98">n_onLayout</reimplementedby>
+        <param>
+          <type>boolean</type>
+          <declname>p0</declname>
+        </param>
+        <param>
+          <type>int</type>
+          <declname>p1</declname>
+        </param>
+        <param>
+          <type>int</type>
+          <declname>p2</declname>
+        </param>
+        <param>
+          <type>int</type>
+          <declname>p3</declname>
+        </param>
+        <param>
+          <type>int</type>
+          <declname>p4</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/110/android/src/crc643f46942d9dd1fff9/PageRenderer.java" line="75" column="21"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_page_renderer_1a98011e733b00bebaa9b5513be55c6bc2" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>native boolean</type>
+        <definition>native boolean crc643f46942d9dd1fff9.PageRenderer.n_onTouchEvent</definition>
+        <argsstring>(android.view.MotionEvent p0)</argsstring>
+        <name>n_onTouchEvent</name>
+        <reimplements refid="classcrc643f46942d9dd1fff9_1_1_visual_element_renderer__1_1a47390c58e87b2e8f62a7f6f74eea79b0">n_onTouchEvent</reimplements>
+        <reimplementedby refid="classcrc643dd37f507f3d9710_1_1_popup_page_renderer_1ad59f01fc9907b2275a02c16fbb1512fb">n_onTouchEvent</reimplementedby>
+        <reimplementedby refid="classcrc643dd37f507f3d9710_1_1_popup_page_renderer_1ad59f01fc9907b2275a02c16fbb1512fb">n_onTouchEvent</reimplementedby>
+        <reimplementedby refid="classcrc643dd37f507f3d9710_1_1_popup_page_renderer_1ad59f01fc9907b2275a02c16fbb1512fb">n_onTouchEvent</reimplementedby>
+        <reimplementedby refid="classcrc643dd37f507f3d9710_1_1_popup_page_renderer_1ad59f01fc9907b2275a02c16fbb1512fb">n_onTouchEvent</reimplementedby>
+        <param>
+          <type>android.view.MotionEvent</type>
+          <declname>p0</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/100/android/src/crc643f46942d9dd1fff9/PageRenderer.java" line="51" column="24"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_page_renderer_1ad97821941921e6dc1ea74e56d0a86eb8" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>native void</type>
+        <definition>native void crc643f46942d9dd1fff9.PageRenderer.n_onAttachedToWindow</definition>
+        <argsstring>()</argsstring>
+        <name>n_onAttachedToWindow</name>
+        <reimplementedby refid="classcrc643dd37f507f3d9710_1_1_popup_page_renderer_1a3361656c50544c88e7466c1b7fcc0719">n_onAttachedToWindow</reimplementedby>
+        <reimplementedby refid="classcrc643dd37f507f3d9710_1_1_popup_page_renderer_1a3361656c50544c88e7466c1b7fcc0719">n_onAttachedToWindow</reimplementedby>
+        <reimplementedby refid="classcrc643dd37f507f3d9710_1_1_popup_page_renderer_1a3361656c50544c88e7466c1b7fcc0719">n_onAttachedToWindow</reimplementedby>
+        <reimplementedby refid="classcrc643dd37f507f3d9710_1_1_popup_page_renderer_1a3361656c50544c88e7466c1b7fcc0719">n_onAttachedToWindow</reimplementedby>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/100/android/src/crc643f46942d9dd1fff9/PageRenderer.java" line="59" column="21"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_page_renderer_1a0daeaad7201feb288228b716d4523ce5" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>native void</type>
+        <definition>native void crc643f46942d9dd1fff9.PageRenderer.n_onDetachedFromWindow</definition>
+        <argsstring>()</argsstring>
+        <name>n_onDetachedFromWindow</name>
+        <reimplementedby refid="classcrc643dd37f507f3d9710_1_1_popup_page_renderer_1a6b4a4e4940e77da6b98aa0449ddf70e8">n_onDetachedFromWindow</reimplementedby>
+        <reimplementedby refid="classcrc643dd37f507f3d9710_1_1_popup_page_renderer_1a6b4a4e4940e77da6b98aa0449ddf70e8">n_onDetachedFromWindow</reimplementedby>
+        <reimplementedby refid="classcrc643dd37f507f3d9710_1_1_popup_page_renderer_1a6b4a4e4940e77da6b98aa0449ddf70e8">n_onDetachedFromWindow</reimplementedby>
+        <reimplementedby refid="classcrc643dd37f507f3d9710_1_1_popup_page_renderer_1a6b4a4e4940e77da6b98aa0449ddf70e8">n_onDetachedFromWindow</reimplementedby>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/100/android/src/crc643f46942d9dd1fff9/PageRenderer.java" line="67" column="21"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_page_renderer_1ad857158df683fc67a56c8bd11f67587c" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>native void</type>
+        <definition>native void crc643f46942d9dd1fff9.PageRenderer.n_onLayout</definition>
+        <argsstring>(boolean p0, int p1, int p2, int p3, int p4)</argsstring>
+        <name>n_onLayout</name>
+        <reimplements refid="classcrc643f46942d9dd1fff9_1_1_visual_element_renderer__1_1a2f5a8d7684b7c8c278ddff226f34c942">n_onLayout</reimplements>
+        <reimplementedby refid="classcrc643dd37f507f3d9710_1_1_popup_page_renderer_1a416d875485f831f5996a1fae0b0c2d98">n_onLayout</reimplementedby>
+        <reimplementedby refid="classcrc643dd37f507f3d9710_1_1_popup_page_renderer_1a416d875485f831f5996a1fae0b0c2d98">n_onLayout</reimplementedby>
+        <reimplementedby refid="classcrc643dd37f507f3d9710_1_1_popup_page_renderer_1a416d875485f831f5996a1fae0b0c2d98">n_onLayout</reimplementedby>
+        <reimplementedby refid="classcrc643dd37f507f3d9710_1_1_popup_page_renderer_1a416d875485f831f5996a1fae0b0c2d98">n_onLayout</reimplementedby>
+        <param>
+          <type>boolean</type>
+          <declname>p0</declname>
+        </param>
+        <param>
+          <type>int</type>
+          <declname>p1</declname>
+        </param>
+        <param>
+          <type>int</type>
+          <declname>p2</declname>
+        </param>
+        <param>
+          <type>int</type>
+          <declname>p3</declname>
+        </param>
+        <param>
+          <type>int</type>
+          <declname>p4</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/100/android/src/crc643f46942d9dd1fff9/PageRenderer.java" line="75" column="21"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_page_renderer_1a98011e733b00bebaa9b5513be55c6bc2" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>native boolean</type>
+        <definition>native boolean crc643f46942d9dd1fff9.PageRenderer.n_onTouchEvent</definition>
+        <argsstring>(android.view.MotionEvent p0)</argsstring>
+        <name>n_onTouchEvent</name>
+        <reimplements refid="classcrc643f46942d9dd1fff9_1_1_visual_element_renderer__1_1a47390c58e87b2e8f62a7f6f74eea79b0">n_onTouchEvent</reimplements>
+        <reimplementedby refid="classcrc643dd37f507f3d9710_1_1_popup_page_renderer_1ad59f01fc9907b2275a02c16fbb1512fb">n_onTouchEvent</reimplementedby>
+        <reimplementedby refid="classcrc643dd37f507f3d9710_1_1_popup_page_renderer_1ad59f01fc9907b2275a02c16fbb1512fb">n_onTouchEvent</reimplementedby>
+        <reimplementedby refid="classcrc643dd37f507f3d9710_1_1_popup_page_renderer_1ad59f01fc9907b2275a02c16fbb1512fb">n_onTouchEvent</reimplementedby>
+        <reimplementedby refid="classcrc643dd37f507f3d9710_1_1_popup_page_renderer_1ad59f01fc9907b2275a02c16fbb1512fb">n_onTouchEvent</reimplementedby>
+        <param>
+          <type>android.view.MotionEvent</type>
+          <declname>p0</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/110/android/src/crc643f46942d9dd1fff9/PageRenderer.java" line="51" column="24"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_page_renderer_1ad97821941921e6dc1ea74e56d0a86eb8" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>native void</type>
+        <definition>native void crc643f46942d9dd1fff9.PageRenderer.n_onAttachedToWindow</definition>
+        <argsstring>()</argsstring>
+        <name>n_onAttachedToWindow</name>
+        <reimplementedby refid="classcrc643dd37f507f3d9710_1_1_popup_page_renderer_1a3361656c50544c88e7466c1b7fcc0719">n_onAttachedToWindow</reimplementedby>
+        <reimplementedby refid="classcrc643dd37f507f3d9710_1_1_popup_page_renderer_1a3361656c50544c88e7466c1b7fcc0719">n_onAttachedToWindow</reimplementedby>
+        <reimplementedby refid="classcrc643dd37f507f3d9710_1_1_popup_page_renderer_1a3361656c50544c88e7466c1b7fcc0719">n_onAttachedToWindow</reimplementedby>
+        <reimplementedby refid="classcrc643dd37f507f3d9710_1_1_popup_page_renderer_1a3361656c50544c88e7466c1b7fcc0719">n_onAttachedToWindow</reimplementedby>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/110/android/src/crc643f46942d9dd1fff9/PageRenderer.java" line="59" column="21"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_page_renderer_1a0daeaad7201feb288228b716d4523ce5" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>native void</type>
+        <definition>native void crc643f46942d9dd1fff9.PageRenderer.n_onDetachedFromWindow</definition>
+        <argsstring>()</argsstring>
+        <name>n_onDetachedFromWindow</name>
+        <reimplementedby refid="classcrc643dd37f507f3d9710_1_1_popup_page_renderer_1a6b4a4e4940e77da6b98aa0449ddf70e8">n_onDetachedFromWindow</reimplementedby>
+        <reimplementedby refid="classcrc643dd37f507f3d9710_1_1_popup_page_renderer_1a6b4a4e4940e77da6b98aa0449ddf70e8">n_onDetachedFromWindow</reimplementedby>
+        <reimplementedby refid="classcrc643dd37f507f3d9710_1_1_popup_page_renderer_1a6b4a4e4940e77da6b98aa0449ddf70e8">n_onDetachedFromWindow</reimplementedby>
+        <reimplementedby refid="classcrc643dd37f507f3d9710_1_1_popup_page_renderer_1a6b4a4e4940e77da6b98aa0449ddf70e8">n_onDetachedFromWindow</reimplementedby>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/110/android/src/crc643f46942d9dd1fff9/PageRenderer.java" line="67" column="21"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc643f46942d9dd1fff9_1_1_page_renderer_1ad857158df683fc67a56c8bd11f67587c" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>native void</type>
+        <definition>native void crc643f46942d9dd1fff9.PageRenderer.n_onLayout</definition>
+        <argsstring>(boolean p0, int p1, int p2, int p3, int p4)</argsstring>
+        <name>n_onLayout</name>
+        <reimplements refid="classcrc643f46942d9dd1fff9_1_1_visual_element_renderer__1_1a2f5a8d7684b7c8c278ddff226f34c942">n_onLayout</reimplements>
+        <reimplementedby refid="classcrc643dd37f507f3d9710_1_1_popup_page_renderer_1a416d875485f831f5996a1fae0b0c2d98">n_onLayout</reimplementedby>
+        <reimplementedby refid="classcrc643dd37f507f3d9710_1_1_popup_page_renderer_1a416d875485f831f5996a1fae0b0c2d98">n_onLayout</reimplementedby>
+        <reimplementedby refid="classcrc643dd37f507f3d9710_1_1_popup_page_renderer_1a416d875485f831f5996a1fae0b0c2d98">n_onLayout</reimplementedby>
+        <reimplementedby refid="classcrc643dd37f507f3d9710_1_1_popup_page_renderer_1a416d875485f831f5996a1fae0b0c2d98">n_onLayout</reimplementedby>
+        <param>
+          <type>boolean</type>
+          <declname>p0</declname>
+        </param>
+        <param>
+          <type>int</type>
+          <declname>p1</declname>
+        </param>
+        <param>
+          <type>int</type>
+          <declname>p2</declname>
+        </param>
+        <param>
+          <type>int</type>
+          <declname>p3</declname>
+        </param>
+        <param>
+          <type>int</type>
+          <declname>p4</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/110/android/src/crc643f46942d9dd1fff9/PageRenderer.java" line="75" column="21"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <inheritancegraph>
+      <node id="5">
+        <label>com.xamarin.forms.platform.android.FormsViewGroup</label>
+      </node>
+      <node id="7">
+        <label>crc643f46942d9dd1fff9.FlyoutPageRendererNonAppCompat</label>
+        <link refid="classcrc643f46942d9dd1fff9_1_1_flyout_page_renderer_non_app_compat"/>
+        <childnode refid="1" relation="public-inheritance">
+        </childnode>
+        <childnode refid="1" relation="public-inheritance">
+        </childnode>
+        <childnode refid="1" relation="public-inheritance">
+        </childnode>
+        <childnode refid="1" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="3">
+        <label>com::xamarin::forms::platform::android::FormsViewGroup</label>
+      </node>
+      <node id="1">
+        <label>crc643f46942d9dd1fff9.PageRenderer</label>
+        <link refid="classcrc643f46942d9dd1fff9_1_1_page_renderer"/>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+        <childnode refid="4" relation="public-inheritance">
+        </childnode>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+        <childnode refid="4" relation="public-inheritance">
+        </childnode>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+        <childnode refid="4" relation="public-inheritance">
+        </childnode>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+        <childnode refid="4" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="4">
+        <label>mono.android.IGCUserPeer</label>
+      </node>
+      <node id="2">
+        <label>crc643f46942d9dd1fff9.VisualElementRenderer_1</label>
+        <link refid="classcrc643f46942d9dd1fff9_1_1_visual_element_renderer__1"/>
+        <childnode refid="3" relation="public-inheritance">
+        </childnode>
+        <childnode refid="4" relation="public-inheritance">
+        </childnode>
+        <childnode refid="5" relation="public-inheritance">
+        </childnode>
+        <childnode refid="4" relation="public-inheritance">
+        </childnode>
+        <childnode refid="5" relation="public-inheritance">
+        </childnode>
+        <childnode refid="4" relation="public-inheritance">
+        </childnode>
+        <childnode refid="5" relation="public-inheritance">
+        </childnode>
+        <childnode refid="4" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="6">
+        <label>crc643dd37f507f3d9710.PopupPageRenderer</label>
+        <link refid="classcrc643dd37f507f3d9710_1_1_popup_page_renderer"/>
+        <childnode refid="1" relation="public-inheritance">
+        </childnode>
+        <childnode refid="1" relation="public-inheritance">
+        </childnode>
+        <childnode refid="1" relation="public-inheritance">
+        </childnode>
+        <childnode refid="1" relation="public-inheritance">
+        </childnode>
+      </node>
+    </inheritancegraph>
+    <collaborationgraph>
+      <node id="5">
+        <label>com.xamarin.forms.platform.android.FormsViewGroup</label>
+      </node>
+      <node id="3">
+        <label>com::xamarin::forms::platform::android::FormsViewGroup</label>
+      </node>
+      <node id="1">
+        <label>crc643f46942d9dd1fff9.PageRenderer</label>
+        <link refid="classcrc643f46942d9dd1fff9_1_1_page_renderer"/>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+        <childnode refid="4" relation="public-inheritance">
+        </childnode>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+        <childnode refid="4" relation="public-inheritance">
+        </childnode>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+        <childnode refid="4" relation="public-inheritance">
+        </childnode>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+        <childnode refid="4" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="4">
+        <label>mono.android.IGCUserPeer</label>
+      </node>
+      <node id="2">
+        <label>crc643f46942d9dd1fff9.VisualElementRenderer_1</label>
+        <link refid="classcrc643f46942d9dd1fff9_1_1_visual_element_renderer__1"/>
+        <childnode refid="3" relation="public-inheritance">
+        </childnode>
+        <childnode refid="4" relation="public-inheritance">
+        </childnode>
+        <childnode refid="5" relation="public-inheritance">
+        </childnode>
+        <childnode refid="4" relation="public-inheritance">
+        </childnode>
+        <childnode refid="5" relation="public-inheritance">
+        </childnode>
+        <childnode refid="4" relation="public-inheritance">
+        </childnode>
+        <childnode refid="5" relation="public-inheritance">
+        </childnode>
+        <childnode refid="4" relation="public-inheritance">
+        </childnode>
+      </node>
+    </collaborationgraph>
+    <location file="Application Green Quake.Android/obj/Debug/100/android/src/crc643f46942d9dd1fff9/PageRenderer.java" line="4" column="7" bodyfile="Application Green Quake.Android/obj/Debug/100/android/src/crc643f46942d9dd1fff9/PageRenderer.java" bodystart="8" bodyend="90"/>
+    <listofallmembers>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_page_renderer_1aa7df62daf5776bbd4dc81f1b935caf5e" prot="package" virt="non-virtual"><scope>crc643f46942d9dd1fff9::PageRenderer</scope><name>[static initializer]</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_page_renderer_1aa7df62daf5776bbd4dc81f1b935caf5e" prot="package" virt="non-virtual"><scope>crc643f46942d9dd1fff9::PageRenderer</scope><name>[static initializer]</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_page_renderer_1aa7df62daf5776bbd4dc81f1b935caf5e" prot="package" virt="non-virtual"><scope>crc643f46942d9dd1fff9::PageRenderer</scope><name>[static initializer]</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_page_renderer_1aa7df62daf5776bbd4dc81f1b935caf5e" prot="package" virt="non-virtual"><scope>crc643f46942d9dd1fff9::PageRenderer</scope><name>[static initializer]</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_page_renderer_1abadb160f6f1dabebda7a32823094181c" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::PageRenderer</scope><name>__md_methods</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_visual_element_renderer__1_1a8b3a1f18416ee5d553d54d8c51f238bd" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::PageRenderer</scope><name>dispatchTouchEvent</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_visual_element_renderer__1_1a8b3a1f18416ee5d553d54d8c51f238bd" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::PageRenderer</scope><name>dispatchTouchEvent</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_visual_element_renderer__1_1a8b3a1f18416ee5d553d54d8c51f238bd" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::PageRenderer</scope><name>dispatchTouchEvent</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_visual_element_renderer__1_1a8b3a1f18416ee5d553d54d8c51f238bd" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::PageRenderer</scope><name>dispatchTouchEvent</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_visual_element_renderer__1_1a4fbfdc5e36e0aac29f8113eddde3ffa8" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::PageRenderer</scope><name>draw</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_visual_element_renderer__1_1a4fbfdc5e36e0aac29f8113eddde3ffa8" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::PageRenderer</scope><name>draw</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_visual_element_renderer__1_1a4fbfdc5e36e0aac29f8113eddde3ffa8" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::PageRenderer</scope><name>draw</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_visual_element_renderer__1_1a4fbfdc5e36e0aac29f8113eddde3ffa8" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::PageRenderer</scope><name>draw</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_visual_element_renderer__1_1a9f734e4b4776dc9d9ed904a0922d26f7" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::PageRenderer</scope><name>focusSearch</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_visual_element_renderer__1_1a9f734e4b4776dc9d9ed904a0922d26f7" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::PageRenderer</scope><name>focusSearch</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_visual_element_renderer__1_1a9f734e4b4776dc9d9ed904a0922d26f7" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::PageRenderer</scope><name>focusSearch</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_visual_element_renderer__1_1a9f734e4b4776dc9d9ed904a0922d26f7" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::PageRenderer</scope><name>focusSearch</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_page_renderer_1a3bca66ba4df1ef68199c4a28224ec788" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::PageRenderer</scope><name>monodroidAddReference</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_page_renderer_1a3bca66ba4df1ef68199c4a28224ec788" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::PageRenderer</scope><name>monodroidAddReference</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_page_renderer_1a3bca66ba4df1ef68199c4a28224ec788" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::PageRenderer</scope><name>monodroidAddReference</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_page_renderer_1a3bca66ba4df1ef68199c4a28224ec788" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::PageRenderer</scope><name>monodroidAddReference</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_page_renderer_1ae3711697e46b1f33f3ef6c9539a391c1" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::PageRenderer</scope><name>monodroidClearReferences</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_page_renderer_1ae3711697e46b1f33f3ef6c9539a391c1" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::PageRenderer</scope><name>monodroidClearReferences</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_page_renderer_1ae3711697e46b1f33f3ef6c9539a391c1" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::PageRenderer</scope><name>monodroidClearReferences</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_page_renderer_1ae3711697e46b1f33f3ef6c9539a391c1" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::PageRenderer</scope><name>monodroidClearReferences</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_page_renderer_1ad97821941921e6dc1ea74e56d0a86eb8" prot="private" virt="non-virtual"><scope>crc643f46942d9dd1fff9::PageRenderer</scope><name>n_onAttachedToWindow</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_page_renderer_1ad97821941921e6dc1ea74e56d0a86eb8" prot="private" virt="non-virtual"><scope>crc643f46942d9dd1fff9::PageRenderer</scope><name>n_onAttachedToWindow</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_page_renderer_1ad97821941921e6dc1ea74e56d0a86eb8" prot="private" virt="non-virtual"><scope>crc643f46942d9dd1fff9::PageRenderer</scope><name>n_onAttachedToWindow</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_page_renderer_1ad97821941921e6dc1ea74e56d0a86eb8" prot="private" virt="non-virtual"><scope>crc643f46942d9dd1fff9::PageRenderer</scope><name>n_onAttachedToWindow</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_page_renderer_1a0daeaad7201feb288228b716d4523ce5" prot="private" virt="non-virtual"><scope>crc643f46942d9dd1fff9::PageRenderer</scope><name>n_onDetachedFromWindow</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_page_renderer_1a0daeaad7201feb288228b716d4523ce5" prot="private" virt="non-virtual"><scope>crc643f46942d9dd1fff9::PageRenderer</scope><name>n_onDetachedFromWindow</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_page_renderer_1a0daeaad7201feb288228b716d4523ce5" prot="private" virt="non-virtual"><scope>crc643f46942d9dd1fff9::PageRenderer</scope><name>n_onDetachedFromWindow</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_page_renderer_1a0daeaad7201feb288228b716d4523ce5" prot="private" virt="non-virtual"><scope>crc643f46942d9dd1fff9::PageRenderer</scope><name>n_onDetachedFromWindow</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_page_renderer_1ad857158df683fc67a56c8bd11f67587c" prot="private" virt="non-virtual"><scope>crc643f46942d9dd1fff9::PageRenderer</scope><name>n_onLayout</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_page_renderer_1ad857158df683fc67a56c8bd11f67587c" prot="private" virt="non-virtual"><scope>crc643f46942d9dd1fff9::PageRenderer</scope><name>n_onLayout</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_page_renderer_1ad857158df683fc67a56c8bd11f67587c" prot="private" virt="non-virtual"><scope>crc643f46942d9dd1fff9::PageRenderer</scope><name>n_onLayout</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_page_renderer_1ad857158df683fc67a56c8bd11f67587c" prot="private" virt="non-virtual"><scope>crc643f46942d9dd1fff9::PageRenderer</scope><name>n_onLayout</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_page_renderer_1a98011e733b00bebaa9b5513be55c6bc2" prot="private" virt="non-virtual"><scope>crc643f46942d9dd1fff9::PageRenderer</scope><name>n_onTouchEvent</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_page_renderer_1a98011e733b00bebaa9b5513be55c6bc2" prot="private" virt="non-virtual"><scope>crc643f46942d9dd1fff9::PageRenderer</scope><name>n_onTouchEvent</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_page_renderer_1a98011e733b00bebaa9b5513be55c6bc2" prot="private" virt="non-virtual"><scope>crc643f46942d9dd1fff9::PageRenderer</scope><name>n_onTouchEvent</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_page_renderer_1a98011e733b00bebaa9b5513be55c6bc2" prot="private" virt="non-virtual"><scope>crc643f46942d9dd1fff9::PageRenderer</scope><name>n_onTouchEvent</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_page_renderer_1a4f6a5722cc8f0f1ddcb018cec87fa5fa" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::PageRenderer</scope><name>onAttachedToWindow</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_page_renderer_1a4f6a5722cc8f0f1ddcb018cec87fa5fa" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::PageRenderer</scope><name>onAttachedToWindow</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_page_renderer_1a4f6a5722cc8f0f1ddcb018cec87fa5fa" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::PageRenderer</scope><name>onAttachedToWindow</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_page_renderer_1a4f6a5722cc8f0f1ddcb018cec87fa5fa" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::PageRenderer</scope><name>onAttachedToWindow</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_visual_element_renderer__1_1a31a32c8d1668368e4b13d7933a626833" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::PageRenderer</scope><name>onConfigurationChanged</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_visual_element_renderer__1_1a31a32c8d1668368e4b13d7933a626833" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::PageRenderer</scope><name>onConfigurationChanged</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_visual_element_renderer__1_1a31a32c8d1668368e4b13d7933a626833" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::PageRenderer</scope><name>onConfigurationChanged</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_visual_element_renderer__1_1a31a32c8d1668368e4b13d7933a626833" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::PageRenderer</scope><name>onConfigurationChanged</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_page_renderer_1abc5b84fc61e2fec45b3a186627d252bd" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::PageRenderer</scope><name>onDetachedFromWindow</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_page_renderer_1abc5b84fc61e2fec45b3a186627d252bd" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::PageRenderer</scope><name>onDetachedFromWindow</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_page_renderer_1abc5b84fc61e2fec45b3a186627d252bd" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::PageRenderer</scope><name>onDetachedFromWindow</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_page_renderer_1abc5b84fc61e2fec45b3a186627d252bd" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::PageRenderer</scope><name>onDetachedFromWindow</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_visual_element_renderer__1_1ade33eb4d0895f2536faf5f3e57830bc2" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::PageRenderer</scope><name>onInterceptTouchEvent</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_visual_element_renderer__1_1ade33eb4d0895f2536faf5f3e57830bc2" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::PageRenderer</scope><name>onInterceptTouchEvent</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_visual_element_renderer__1_1ade33eb4d0895f2536faf5f3e57830bc2" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::PageRenderer</scope><name>onInterceptTouchEvent</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_visual_element_renderer__1_1ade33eb4d0895f2536faf5f3e57830bc2" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::PageRenderer</scope><name>onInterceptTouchEvent</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_page_renderer_1a63a8d80c1b2075608244ee1c6b6745e5" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::PageRenderer</scope><name>onLayout</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_page_renderer_1a63a8d80c1b2075608244ee1c6b6745e5" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::PageRenderer</scope><name>onLayout</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_page_renderer_1a63a8d80c1b2075608244ee1c6b6745e5" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::PageRenderer</scope><name>onLayout</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_page_renderer_1a63a8d80c1b2075608244ee1c6b6745e5" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::PageRenderer</scope><name>onLayout</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_visual_element_renderer__1_1a68f705864fbd52c60cb4c29f5372aa76" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::PageRenderer</scope><name>onMeasure</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_visual_element_renderer__1_1a68f705864fbd52c60cb4c29f5372aa76" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::PageRenderer</scope><name>onMeasure</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_visual_element_renderer__1_1a68f705864fbd52c60cb4c29f5372aa76" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::PageRenderer</scope><name>onMeasure</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_visual_element_renderer__1_1a68f705864fbd52c60cb4c29f5372aa76" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::PageRenderer</scope><name>onMeasure</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_page_renderer_1ae718a6a26db275a25193a5c5265314b3" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::PageRenderer</scope><name>onTouchEvent</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_page_renderer_1ae718a6a26db275a25193a5c5265314b3" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::PageRenderer</scope><name>onTouchEvent</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_page_renderer_1ae718a6a26db275a25193a5c5265314b3" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::PageRenderer</scope><name>onTouchEvent</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_page_renderer_1ae718a6a26db275a25193a5c5265314b3" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::PageRenderer</scope><name>onTouchEvent</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_page_renderer_1adb857aaa4a78cf2aa09ac3054e68d550" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::PageRenderer</scope><name>PageRenderer</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_page_renderer_1ab8f6c7cb5640f15c973d3b1a92f00fd5" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::PageRenderer</scope><name>PageRenderer</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_page_renderer_1aad1ead044587f01f5c360bf4530b662b" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::PageRenderer</scope><name>PageRenderer</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_page_renderer_1adb857aaa4a78cf2aa09ac3054e68d550" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::PageRenderer</scope><name>PageRenderer</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_page_renderer_1ab8f6c7cb5640f15c973d3b1a92f00fd5" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::PageRenderer</scope><name>PageRenderer</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_page_renderer_1aad1ead044587f01f5c360bf4530b662b" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::PageRenderer</scope><name>PageRenderer</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_page_renderer_1adb857aaa4a78cf2aa09ac3054e68d550" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::PageRenderer</scope><name>PageRenderer</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_page_renderer_1ab8f6c7cb5640f15c973d3b1a92f00fd5" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::PageRenderer</scope><name>PageRenderer</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_page_renderer_1aad1ead044587f01f5c360bf4530b662b" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::PageRenderer</scope><name>PageRenderer</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_page_renderer_1adb857aaa4a78cf2aa09ac3054e68d550" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::PageRenderer</scope><name>PageRenderer</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_page_renderer_1ab8f6c7cb5640f15c973d3b1a92f00fd5" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::PageRenderer</scope><name>PageRenderer</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_page_renderer_1aad1ead044587f01f5c360bf4530b662b" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::PageRenderer</scope><name>PageRenderer</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_page_renderer_1a3bf0dbcdd982c5e97f6c1a4d78c412bc" prot="private" virt="non-virtual"><scope>crc643f46942d9dd1fff9::PageRenderer</scope><name>refList</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_visual_element_renderer__1_1a347f18991a486c5b5f1c4dcd83475f21" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::PageRenderer</scope><name>VisualElementRenderer_1</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_visual_element_renderer__1_1a42957113957987d17592ba290f118ec5" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::PageRenderer</scope><name>VisualElementRenderer_1</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_visual_element_renderer__1_1a92a3ec4e374dfc2f8b16cfccb9b83c7f" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::PageRenderer</scope><name>VisualElementRenderer_1</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_visual_element_renderer__1_1a347f18991a486c5b5f1c4dcd83475f21" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::PageRenderer</scope><name>VisualElementRenderer_1</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_visual_element_renderer__1_1a42957113957987d17592ba290f118ec5" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::PageRenderer</scope><name>VisualElementRenderer_1</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_visual_element_renderer__1_1a92a3ec4e374dfc2f8b16cfccb9b83c7f" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::PageRenderer</scope><name>VisualElementRenderer_1</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_visual_element_renderer__1_1a347f18991a486c5b5f1c4dcd83475f21" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::PageRenderer</scope><name>VisualElementRenderer_1</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_visual_element_renderer__1_1a42957113957987d17592ba290f118ec5" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::PageRenderer</scope><name>VisualElementRenderer_1</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_visual_element_renderer__1_1a92a3ec4e374dfc2f8b16cfccb9b83c7f" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::PageRenderer</scope><name>VisualElementRenderer_1</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_visual_element_renderer__1_1a347f18991a486c5b5f1c4dcd83475f21" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::PageRenderer</scope><name>VisualElementRenderer_1</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_visual_element_renderer__1_1a42957113957987d17592ba290f118ec5" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::PageRenderer</scope><name>VisualElementRenderer_1</name></member>
+      <member refid="classcrc643f46942d9dd1fff9_1_1_visual_element_renderer__1_1a92a3ec4e374dfc2f8b16cfccb9b83c7f" prot="public" virt="non-virtual"><scope>crc643f46942d9dd1fff9::PageRenderer</scope><name>VisualElementRenderer_1</name></member>
+    </listofallmembers>
+  </compounddef>
+</doxygen>

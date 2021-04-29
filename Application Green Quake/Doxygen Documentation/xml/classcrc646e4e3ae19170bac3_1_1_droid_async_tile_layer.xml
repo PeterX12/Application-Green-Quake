@@ -1,0 +1,596 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.9.1" xml:lang="en-US">
+  <compounddef id="classcrc646e4e3ae19170bac3_1_1_droid_async_tile_layer" kind="class" language="Java" prot="public">
+    <compoundname>crc646e4e3ae19170bac3::DroidAsyncTileLayer</compoundname>
+    <basecompoundref prot="public" virt="non-virtual">java.lang.Object</basecompoundref>
+    <basecompoundref prot="public" virt="non-virtual">mono.android.IGCUserPeer</basecompoundref>
+    <basecompoundref prot="public" virt="non-virtual">com.google.android.gms.maps.model.TileProvider</basecompoundref>
+    <basecompoundref prot="public" virt="non-virtual">java.lang.Object</basecompoundref>
+    <basecompoundref prot="public" virt="non-virtual">mono.android.IGCUserPeer</basecompoundref>
+    <basecompoundref prot="public" virt="non-virtual">com.google.android.gms.maps.model.TileProvider</basecompoundref>
+    <basecompoundref prot="public" virt="non-virtual">java.lang.Object</basecompoundref>
+    <basecompoundref prot="public" virt="non-virtual">mono.android.IGCUserPeer</basecompoundref>
+    <basecompoundref prot="public" virt="non-virtual">com.google.android.gms.maps.model.TileProvider</basecompoundref>
+    <basecompoundref prot="public" virt="non-virtual">java.lang.Object</basecompoundref>
+    <basecompoundref prot="public" virt="non-virtual">mono.android.IGCUserPeer</basecompoundref>
+    <basecompoundref prot="public" virt="non-virtual">com.google.android.gms.maps.model.TileProvider</basecompoundref>
+      <sectiondef kind="public-static-attrib">
+      <memberdef kind="variable" id="classcrc646e4e3ae19170bac3_1_1_droid_async_tile_layer_1aa708798b60918f763d9261dceb1f1ba5" prot="public" static="yes" mutable="no">
+        <type>final String</type>
+        <definition>static final String crc646e4e3ae19170bac3.DroidAsyncTileLayer::__md_methods</definition>
+        <argsstring></argsstring>
+        <name>__md_methods</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+<para>@hide </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/100/android/src/crc646e4e3ae19170bac3/DroidAsyncTileLayer.java" line="11" column="28" bodyfile="Application Green Quake.Android/obj/Debug/100/android/src/crc646e4e3ae19170bac3/DroidAsyncTileLayer.java" bodystart="11" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="private-attrib">
+      <memberdef kind="variable" id="classcrc646e4e3ae19170bac3_1_1_droid_async_tile_layer_1ab798a935f7b492f04d442752ab2c1624" prot="private" static="no" mutable="no">
+        <type>java.util.ArrayList</type>
+        <definition>java util ArrayList crc646e4e3ae19170bac3.DroidAsyncTileLayer::refList</definition>
+        <argsstring></argsstring>
+        <name>refList</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/100/android/src/crc646e4e3ae19170bac3/DroidAsyncTileLayer.java" line="35" column="27" bodyfile="Application Green Quake.Android/obj/Debug/100/android/src/crc646e4e3ae19170bac3/DroidAsyncTileLayer.java" bodystart="35" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="package-static-func">
+      <memberdef kind="function" id="classcrc646e4e3ae19170bac3_1_1_droid_async_tile_layer_1a4be4b7d3704e53bcdc40a7a92b81a585" prot="package" static="yes" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>crc646e4e3ae19170bac3.DroidAsyncTileLayer.[static initializer]</definition>
+        <argsstring></argsstring>
+        <name>[static initializer]</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/100/android/src/crc646e4e3ae19170bac3/DroidAsyncTileLayer.java" line="11" column="28"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc646e4e3ae19170bac3_1_1_droid_async_tile_layer_1a4be4b7d3704e53bcdc40a7a92b81a585" prot="package" static="yes" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>crc646e4e3ae19170bac3.DroidAsyncTileLayer.[static initializer]</definition>
+        <argsstring></argsstring>
+        <name>[static initializer]</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/110/android/src/crc646e4e3ae19170bac3/DroidAsyncTileLayer.java" line="11" column="28"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc646e4e3ae19170bac3_1_1_droid_async_tile_layer_1a4be4b7d3704e53bcdc40a7a92b81a585" prot="package" static="yes" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>crc646e4e3ae19170bac3.DroidAsyncTileLayer.[static initializer]</definition>
+        <argsstring></argsstring>
+        <name>[static initializer]</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/100/android/src/crc646e4e3ae19170bac3/DroidAsyncTileLayer.java" line="11" column="28"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc646e4e3ae19170bac3_1_1_droid_async_tile_layer_1a4be4b7d3704e53bcdc40a7a92b81a585" prot="package" static="yes" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>crc646e4e3ae19170bac3.DroidAsyncTileLayer.[static initializer]</definition>
+        <argsstring></argsstring>
+        <name>[static initializer]</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/110/android/src/crc646e4e3ae19170bac3/DroidAsyncTileLayer.java" line="11" column="28"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="public-func">
+      <memberdef kind="function" id="classcrc646e4e3ae19170bac3_1_1_droid_async_tile_layer_1abd0f50a450ce46f45277973376f022e2" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>crc646e4e3ae19170bac3.DroidAsyncTileLayer.DroidAsyncTileLayer</definition>
+        <argsstring>()</argsstring>
+        <name>DroidAsyncTileLayer</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/100/android/src/crc646e4e3ae19170bac3/DroidAsyncTileLayer.java" line="20" column="8" bodyfile="Application Green Quake.Android/obj/Debug/100/android/src/crc646e4e3ae19170bac3/DroidAsyncTileLayer.java" bodystart="20" bodyend="25"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc646e4e3ae19170bac3_1_1_droid_async_tile_layer_1ace7bc7778cc55d7374450a010e861718" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>com.google.android.gms.maps.model.Tile</type>
+        <definition>com.google.android.gms.maps.model.Tile crc646e4e3ae19170bac3.DroidAsyncTileLayer.getTile</definition>
+        <argsstring>(int p0, int p1, int p2)</argsstring>
+        <name>getTile</name>
+        <param>
+          <type>int</type>
+          <declname>p0</declname>
+        </param>
+        <param>
+          <type>int</type>
+          <declname>p1</declname>
+        </param>
+        <param>
+          <type>int</type>
+          <declname>p2</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/100/android/src/crc646e4e3ae19170bac3/DroidAsyncTileLayer.java" line="28" column="41" bodyfile="Application Green Quake.Android/obj/Debug/100/android/src/crc646e4e3ae19170bac3/DroidAsyncTileLayer.java" bodystart="28" bodyend="31"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc646e4e3ae19170bac3_1_1_droid_async_tile_layer_1a85034c174633d065b66dc027ff9ff006" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void crc646e4e3ae19170bac3.DroidAsyncTileLayer.monodroidAddReference</definition>
+        <argsstring>(java.lang.Object obj)</argsstring>
+        <name>monodroidAddReference</name>
+        <param>
+          <type>java.lang.Object</type>
+          <declname>obj</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/100/android/src/crc646e4e3ae19170bac3/DroidAsyncTileLayer.java" line="36" column="13" bodyfile="Application Green Quake.Android/obj/Debug/100/android/src/crc646e4e3ae19170bac3/DroidAsyncTileLayer.java" bodystart="36" bodyend="41"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc646e4e3ae19170bac3_1_1_droid_async_tile_layer_1a784224e8f16933ae1ddf01709716b13b" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void crc646e4e3ae19170bac3.DroidAsyncTileLayer.monodroidClearReferences</definition>
+        <argsstring>()</argsstring>
+        <name>monodroidClearReferences</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/100/android/src/crc646e4e3ae19170bac3/DroidAsyncTileLayer.java" line="43" column="13" bodyfile="Application Green Quake.Android/obj/Debug/100/android/src/crc646e4e3ae19170bac3/DroidAsyncTileLayer.java" bodystart="43" bodyend="47"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc646e4e3ae19170bac3_1_1_droid_async_tile_layer_1abd0f50a450ce46f45277973376f022e2" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>crc646e4e3ae19170bac3.DroidAsyncTileLayer.DroidAsyncTileLayer</definition>
+        <argsstring>()</argsstring>
+        <name>DroidAsyncTileLayer</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/110/android/src/crc646e4e3ae19170bac3/DroidAsyncTileLayer.java" line="20" column="8" bodyfile="Application Green Quake.Android/obj/Debug/110/android/src/crc646e4e3ae19170bac3/DroidAsyncTileLayer.java" bodystart="20" bodyend="25"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc646e4e3ae19170bac3_1_1_droid_async_tile_layer_1ace7bc7778cc55d7374450a010e861718" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>com.google.android.gms.maps.model.Tile</type>
+        <definition>com.google.android.gms.maps.model.Tile crc646e4e3ae19170bac3.DroidAsyncTileLayer.getTile</definition>
+        <argsstring>(int p0, int p1, int p2)</argsstring>
+        <name>getTile</name>
+        <param>
+          <type>int</type>
+          <declname>p0</declname>
+        </param>
+        <param>
+          <type>int</type>
+          <declname>p1</declname>
+        </param>
+        <param>
+          <type>int</type>
+          <declname>p2</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/110/android/src/crc646e4e3ae19170bac3/DroidAsyncTileLayer.java" line="28" column="41" bodyfile="Application Green Quake.Android/obj/Debug/110/android/src/crc646e4e3ae19170bac3/DroidAsyncTileLayer.java" bodystart="28" bodyend="31"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc646e4e3ae19170bac3_1_1_droid_async_tile_layer_1a85034c174633d065b66dc027ff9ff006" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void crc646e4e3ae19170bac3.DroidAsyncTileLayer.monodroidAddReference</definition>
+        <argsstring>(java.lang.Object obj)</argsstring>
+        <name>monodroidAddReference</name>
+        <param>
+          <type>java.lang.Object</type>
+          <declname>obj</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/110/android/src/crc646e4e3ae19170bac3/DroidAsyncTileLayer.java" line="36" column="13" bodyfile="Application Green Quake.Android/obj/Debug/110/android/src/crc646e4e3ae19170bac3/DroidAsyncTileLayer.java" bodystart="36" bodyend="41"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc646e4e3ae19170bac3_1_1_droid_async_tile_layer_1a784224e8f16933ae1ddf01709716b13b" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void crc646e4e3ae19170bac3.DroidAsyncTileLayer.monodroidClearReferences</definition>
+        <argsstring>()</argsstring>
+        <name>monodroidClearReferences</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/110/android/src/crc646e4e3ae19170bac3/DroidAsyncTileLayer.java" line="43" column="13" bodyfile="Application Green Quake.Android/obj/Debug/110/android/src/crc646e4e3ae19170bac3/DroidAsyncTileLayer.java" bodystart="43" bodyend="47"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc646e4e3ae19170bac3_1_1_droid_async_tile_layer_1abd0f50a450ce46f45277973376f022e2" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>crc646e4e3ae19170bac3.DroidAsyncTileLayer.DroidAsyncTileLayer</definition>
+        <argsstring>()</argsstring>
+        <name>DroidAsyncTileLayer</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/100/android/src/crc646e4e3ae19170bac3/DroidAsyncTileLayer.java" line="20" column="8" bodyfile="Application Green Quake.Android/obj/Release/100/android/src/crc646e4e3ae19170bac3/DroidAsyncTileLayer.java" bodystart="20" bodyend="25"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc646e4e3ae19170bac3_1_1_droid_async_tile_layer_1ace7bc7778cc55d7374450a010e861718" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>com.google.android.gms.maps.model.Tile</type>
+        <definition>com.google.android.gms.maps.model.Tile crc646e4e3ae19170bac3.DroidAsyncTileLayer.getTile</definition>
+        <argsstring>(int p0, int p1, int p2)</argsstring>
+        <name>getTile</name>
+        <param>
+          <type>int</type>
+          <declname>p0</declname>
+        </param>
+        <param>
+          <type>int</type>
+          <declname>p1</declname>
+        </param>
+        <param>
+          <type>int</type>
+          <declname>p2</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/100/android/src/crc646e4e3ae19170bac3/DroidAsyncTileLayer.java" line="28" column="41" bodyfile="Application Green Quake.Android/obj/Release/100/android/src/crc646e4e3ae19170bac3/DroidAsyncTileLayer.java" bodystart="28" bodyend="31"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc646e4e3ae19170bac3_1_1_droid_async_tile_layer_1a85034c174633d065b66dc027ff9ff006" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void crc646e4e3ae19170bac3.DroidAsyncTileLayer.monodroidAddReference</definition>
+        <argsstring>(java.lang.Object obj)</argsstring>
+        <name>monodroidAddReference</name>
+        <param>
+          <type>java.lang.Object</type>
+          <declname>obj</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/100/android/src/crc646e4e3ae19170bac3/DroidAsyncTileLayer.java" line="36" column="13" bodyfile="Application Green Quake.Android/obj/Release/100/android/src/crc646e4e3ae19170bac3/DroidAsyncTileLayer.java" bodystart="36" bodyend="41"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc646e4e3ae19170bac3_1_1_droid_async_tile_layer_1a784224e8f16933ae1ddf01709716b13b" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void crc646e4e3ae19170bac3.DroidAsyncTileLayer.monodroidClearReferences</definition>
+        <argsstring>()</argsstring>
+        <name>monodroidClearReferences</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/100/android/src/crc646e4e3ae19170bac3/DroidAsyncTileLayer.java" line="43" column="13" bodyfile="Application Green Quake.Android/obj/Release/100/android/src/crc646e4e3ae19170bac3/DroidAsyncTileLayer.java" bodystart="43" bodyend="47"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc646e4e3ae19170bac3_1_1_droid_async_tile_layer_1abd0f50a450ce46f45277973376f022e2" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>crc646e4e3ae19170bac3.DroidAsyncTileLayer.DroidAsyncTileLayer</definition>
+        <argsstring>()</argsstring>
+        <name>DroidAsyncTileLayer</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/110/android/src/crc646e4e3ae19170bac3/DroidAsyncTileLayer.java" line="20" column="8" bodyfile="Application Green Quake.Android/obj/Release/110/android/src/crc646e4e3ae19170bac3/DroidAsyncTileLayer.java" bodystart="20" bodyend="25"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc646e4e3ae19170bac3_1_1_droid_async_tile_layer_1ace7bc7778cc55d7374450a010e861718" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>com.google.android.gms.maps.model.Tile</type>
+        <definition>com.google.android.gms.maps.model.Tile crc646e4e3ae19170bac3.DroidAsyncTileLayer.getTile</definition>
+        <argsstring>(int p0, int p1, int p2)</argsstring>
+        <name>getTile</name>
+        <param>
+          <type>int</type>
+          <declname>p0</declname>
+        </param>
+        <param>
+          <type>int</type>
+          <declname>p1</declname>
+        </param>
+        <param>
+          <type>int</type>
+          <declname>p2</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/110/android/src/crc646e4e3ae19170bac3/DroidAsyncTileLayer.java" line="28" column="41" bodyfile="Application Green Quake.Android/obj/Release/110/android/src/crc646e4e3ae19170bac3/DroidAsyncTileLayer.java" bodystart="28" bodyend="31"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc646e4e3ae19170bac3_1_1_droid_async_tile_layer_1a85034c174633d065b66dc027ff9ff006" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void crc646e4e3ae19170bac3.DroidAsyncTileLayer.monodroidAddReference</definition>
+        <argsstring>(java.lang.Object obj)</argsstring>
+        <name>monodroidAddReference</name>
+        <param>
+          <type>java.lang.Object</type>
+          <declname>obj</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/110/android/src/crc646e4e3ae19170bac3/DroidAsyncTileLayer.java" line="36" column="13" bodyfile="Application Green Quake.Android/obj/Release/110/android/src/crc646e4e3ae19170bac3/DroidAsyncTileLayer.java" bodystart="36" bodyend="41"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc646e4e3ae19170bac3_1_1_droid_async_tile_layer_1a784224e8f16933ae1ddf01709716b13b" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void crc646e4e3ae19170bac3.DroidAsyncTileLayer.monodroidClearReferences</definition>
+        <argsstring>()</argsstring>
+        <name>monodroidClearReferences</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/110/android/src/crc646e4e3ae19170bac3/DroidAsyncTileLayer.java" line="43" column="13" bodyfile="Application Green Quake.Android/obj/Release/110/android/src/crc646e4e3ae19170bac3/DroidAsyncTileLayer.java" bodystart="43" bodyend="47"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="private-func">
+      <memberdef kind="function" id="classcrc646e4e3ae19170bac3_1_1_droid_async_tile_layer_1af3fb98038120c1e3cca8a224f2428dc5" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>native com.google.android.gms.maps.model.Tile</type>
+        <definition>native com.google.android.gms.maps.model.Tile crc646e4e3ae19170bac3.DroidAsyncTileLayer.n_getTile</definition>
+        <argsstring>(int p0, int p1, int p2)</argsstring>
+        <name>n_getTile</name>
+        <param>
+          <type>int</type>
+          <declname>p0</declname>
+        </param>
+        <param>
+          <type>int</type>
+          <declname>p1</declname>
+        </param>
+        <param>
+          <type>int</type>
+          <declname>p2</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/100/android/src/crc646e4e3ae19170bac3/DroidAsyncTileLayer.java" line="33" column="49"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc646e4e3ae19170bac3_1_1_droid_async_tile_layer_1af3fb98038120c1e3cca8a224f2428dc5" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>native com.google.android.gms.maps.model.Tile</type>
+        <definition>native com.google.android.gms.maps.model.Tile crc646e4e3ae19170bac3.DroidAsyncTileLayer.n_getTile</definition>
+        <argsstring>(int p0, int p1, int p2)</argsstring>
+        <name>n_getTile</name>
+        <param>
+          <type>int</type>
+          <declname>p0</declname>
+        </param>
+        <param>
+          <type>int</type>
+          <declname>p1</declname>
+        </param>
+        <param>
+          <type>int</type>
+          <declname>p2</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/110/android/src/crc646e4e3ae19170bac3/DroidAsyncTileLayer.java" line="33" column="49"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc646e4e3ae19170bac3_1_1_droid_async_tile_layer_1af3fb98038120c1e3cca8a224f2428dc5" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>native com.google.android.gms.maps.model.Tile</type>
+        <definition>native com.google.android.gms.maps.model.Tile crc646e4e3ae19170bac3.DroidAsyncTileLayer.n_getTile</definition>
+        <argsstring>(int p0, int p1, int p2)</argsstring>
+        <name>n_getTile</name>
+        <param>
+          <type>int</type>
+          <declname>p0</declname>
+        </param>
+        <param>
+          <type>int</type>
+          <declname>p1</declname>
+        </param>
+        <param>
+          <type>int</type>
+          <declname>p2</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/100/android/src/crc646e4e3ae19170bac3/DroidAsyncTileLayer.java" line="33" column="49"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc646e4e3ae19170bac3_1_1_droid_async_tile_layer_1af3fb98038120c1e3cca8a224f2428dc5" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>native com.google.android.gms.maps.model.Tile</type>
+        <definition>native com.google.android.gms.maps.model.Tile crc646e4e3ae19170bac3.DroidAsyncTileLayer.n_getTile</definition>
+        <argsstring>(int p0, int p1, int p2)</argsstring>
+        <name>n_getTile</name>
+        <param>
+          <type>int</type>
+          <declname>p0</declname>
+        </param>
+        <param>
+          <type>int</type>
+          <declname>p1</declname>
+        </param>
+        <param>
+          <type>int</type>
+          <declname>p2</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/110/android/src/crc646e4e3ae19170bac3/DroidAsyncTileLayer.java" line="33" column="49"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <inheritancegraph>
+      <node id="4">
+        <label>com::google::android::gms::maps::model::TileProvider</label>
+      </node>
+      <node id="5">
+        <label>com.google.android.gms.maps.model.TileProvider</label>
+      </node>
+      <node id="1">
+        <label>crc646e4e3ae19170bac3.DroidAsyncTileLayer</label>
+        <link refid="classcrc646e4e3ae19170bac3_1_1_droid_async_tile_layer"/>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+        <childnode refid="3" relation="public-inheritance">
+        </childnode>
+        <childnode refid="4" relation="public-inheritance">
+        </childnode>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+        <childnode refid="3" relation="public-inheritance">
+        </childnode>
+        <childnode refid="5" relation="public-inheritance">
+        </childnode>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+        <childnode refid="3" relation="public-inheritance">
+        </childnode>
+        <childnode refid="5" relation="public-inheritance">
+        </childnode>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+        <childnode refid="3" relation="public-inheritance">
+        </childnode>
+        <childnode refid="5" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="3">
+        <label>mono.android.IGCUserPeer</label>
+      </node>
+      <node id="2">
+        <label>java.lang.Object</label>
+      </node>
+    </inheritancegraph>
+    <collaborationgraph>
+      <node id="4">
+        <label>com::google::android::gms::maps::model::TileProvider</label>
+      </node>
+      <node id="5">
+        <label>com.google.android.gms.maps.model.TileProvider</label>
+      </node>
+      <node id="1">
+        <label>crc646e4e3ae19170bac3.DroidAsyncTileLayer</label>
+        <link refid="classcrc646e4e3ae19170bac3_1_1_droid_async_tile_layer"/>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+        <childnode refid="3" relation="public-inheritance">
+        </childnode>
+        <childnode refid="4" relation="public-inheritance">
+        </childnode>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+        <childnode refid="3" relation="public-inheritance">
+        </childnode>
+        <childnode refid="5" relation="public-inheritance">
+        </childnode>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+        <childnode refid="3" relation="public-inheritance">
+        </childnode>
+        <childnode refid="5" relation="public-inheritance">
+        </childnode>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+        <childnode refid="3" relation="public-inheritance">
+        </childnode>
+        <childnode refid="5" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="3">
+        <label>mono.android.IGCUserPeer</label>
+      </node>
+      <node id="2">
+        <label>java.lang.Object</label>
+      </node>
+    </collaborationgraph>
+    <location file="Application Green Quake.Android/obj/Debug/100/android/src/crc646e4e3ae19170bac3/DroidAsyncTileLayer.java" line="4" column="7" bodyfile="Application Green Quake.Android/obj/Debug/100/android/src/crc646e4e3ae19170bac3/DroidAsyncTileLayer.java" bodystart="9" bodyend="48"/>
+    <listofallmembers>
+      <member refid="classcrc646e4e3ae19170bac3_1_1_droid_async_tile_layer_1a4be4b7d3704e53bcdc40a7a92b81a585" prot="package" virt="non-virtual"><scope>crc646e4e3ae19170bac3::DroidAsyncTileLayer</scope><name>[static initializer]</name></member>
+      <member refid="classcrc646e4e3ae19170bac3_1_1_droid_async_tile_layer_1a4be4b7d3704e53bcdc40a7a92b81a585" prot="package" virt="non-virtual"><scope>crc646e4e3ae19170bac3::DroidAsyncTileLayer</scope><name>[static initializer]</name></member>
+      <member refid="classcrc646e4e3ae19170bac3_1_1_droid_async_tile_layer_1a4be4b7d3704e53bcdc40a7a92b81a585" prot="package" virt="non-virtual"><scope>crc646e4e3ae19170bac3::DroidAsyncTileLayer</scope><name>[static initializer]</name></member>
+      <member refid="classcrc646e4e3ae19170bac3_1_1_droid_async_tile_layer_1a4be4b7d3704e53bcdc40a7a92b81a585" prot="package" virt="non-virtual"><scope>crc646e4e3ae19170bac3::DroidAsyncTileLayer</scope><name>[static initializer]</name></member>
+      <member refid="classcrc646e4e3ae19170bac3_1_1_droid_async_tile_layer_1aa708798b60918f763d9261dceb1f1ba5" prot="public" virt="non-virtual"><scope>crc646e4e3ae19170bac3::DroidAsyncTileLayer</scope><name>__md_methods</name></member>
+      <member refid="classcrc646e4e3ae19170bac3_1_1_droid_async_tile_layer_1abd0f50a450ce46f45277973376f022e2" prot="public" virt="non-virtual"><scope>crc646e4e3ae19170bac3::DroidAsyncTileLayer</scope><name>DroidAsyncTileLayer</name></member>
+      <member refid="classcrc646e4e3ae19170bac3_1_1_droid_async_tile_layer_1abd0f50a450ce46f45277973376f022e2" prot="public" virt="non-virtual"><scope>crc646e4e3ae19170bac3::DroidAsyncTileLayer</scope><name>DroidAsyncTileLayer</name></member>
+      <member refid="classcrc646e4e3ae19170bac3_1_1_droid_async_tile_layer_1abd0f50a450ce46f45277973376f022e2" prot="public" virt="non-virtual"><scope>crc646e4e3ae19170bac3::DroidAsyncTileLayer</scope><name>DroidAsyncTileLayer</name></member>
+      <member refid="classcrc646e4e3ae19170bac3_1_1_droid_async_tile_layer_1abd0f50a450ce46f45277973376f022e2" prot="public" virt="non-virtual"><scope>crc646e4e3ae19170bac3::DroidAsyncTileLayer</scope><name>DroidAsyncTileLayer</name></member>
+      <member refid="classcrc646e4e3ae19170bac3_1_1_droid_async_tile_layer_1ace7bc7778cc55d7374450a010e861718" prot="public" virt="non-virtual"><scope>crc646e4e3ae19170bac3::DroidAsyncTileLayer</scope><name>getTile</name></member>
+      <member refid="classcrc646e4e3ae19170bac3_1_1_droid_async_tile_layer_1ace7bc7778cc55d7374450a010e861718" prot="public" virt="non-virtual"><scope>crc646e4e3ae19170bac3::DroidAsyncTileLayer</scope><name>getTile</name></member>
+      <member refid="classcrc646e4e3ae19170bac3_1_1_droid_async_tile_layer_1ace7bc7778cc55d7374450a010e861718" prot="public" virt="non-virtual"><scope>crc646e4e3ae19170bac3::DroidAsyncTileLayer</scope><name>getTile</name></member>
+      <member refid="classcrc646e4e3ae19170bac3_1_1_droid_async_tile_layer_1ace7bc7778cc55d7374450a010e861718" prot="public" virt="non-virtual"><scope>crc646e4e3ae19170bac3::DroidAsyncTileLayer</scope><name>getTile</name></member>
+      <member refid="classcrc646e4e3ae19170bac3_1_1_droid_async_tile_layer_1a85034c174633d065b66dc027ff9ff006" prot="public" virt="non-virtual"><scope>crc646e4e3ae19170bac3::DroidAsyncTileLayer</scope><name>monodroidAddReference</name></member>
+      <member refid="classcrc646e4e3ae19170bac3_1_1_droid_async_tile_layer_1a85034c174633d065b66dc027ff9ff006" prot="public" virt="non-virtual"><scope>crc646e4e3ae19170bac3::DroidAsyncTileLayer</scope><name>monodroidAddReference</name></member>
+      <member refid="classcrc646e4e3ae19170bac3_1_1_droid_async_tile_layer_1a85034c174633d065b66dc027ff9ff006" prot="public" virt="non-virtual"><scope>crc646e4e3ae19170bac3::DroidAsyncTileLayer</scope><name>monodroidAddReference</name></member>
+      <member refid="classcrc646e4e3ae19170bac3_1_1_droid_async_tile_layer_1a85034c174633d065b66dc027ff9ff006" prot="public" virt="non-virtual"><scope>crc646e4e3ae19170bac3::DroidAsyncTileLayer</scope><name>monodroidAddReference</name></member>
+      <member refid="classcrc646e4e3ae19170bac3_1_1_droid_async_tile_layer_1a784224e8f16933ae1ddf01709716b13b" prot="public" virt="non-virtual"><scope>crc646e4e3ae19170bac3::DroidAsyncTileLayer</scope><name>monodroidClearReferences</name></member>
+      <member refid="classcrc646e4e3ae19170bac3_1_1_droid_async_tile_layer_1a784224e8f16933ae1ddf01709716b13b" prot="public" virt="non-virtual"><scope>crc646e4e3ae19170bac3::DroidAsyncTileLayer</scope><name>monodroidClearReferences</name></member>
+      <member refid="classcrc646e4e3ae19170bac3_1_1_droid_async_tile_layer_1a784224e8f16933ae1ddf01709716b13b" prot="public" virt="non-virtual"><scope>crc646e4e3ae19170bac3::DroidAsyncTileLayer</scope><name>monodroidClearReferences</name></member>
+      <member refid="classcrc646e4e3ae19170bac3_1_1_droid_async_tile_layer_1a784224e8f16933ae1ddf01709716b13b" prot="public" virt="non-virtual"><scope>crc646e4e3ae19170bac3::DroidAsyncTileLayer</scope><name>monodroidClearReferences</name></member>
+      <member refid="classcrc646e4e3ae19170bac3_1_1_droid_async_tile_layer_1af3fb98038120c1e3cca8a224f2428dc5" prot="private" virt="non-virtual"><scope>crc646e4e3ae19170bac3::DroidAsyncTileLayer</scope><name>n_getTile</name></member>
+      <member refid="classcrc646e4e3ae19170bac3_1_1_droid_async_tile_layer_1af3fb98038120c1e3cca8a224f2428dc5" prot="private" virt="non-virtual"><scope>crc646e4e3ae19170bac3::DroidAsyncTileLayer</scope><name>n_getTile</name></member>
+      <member refid="classcrc646e4e3ae19170bac3_1_1_droid_async_tile_layer_1af3fb98038120c1e3cca8a224f2428dc5" prot="private" virt="non-virtual"><scope>crc646e4e3ae19170bac3::DroidAsyncTileLayer</scope><name>n_getTile</name></member>
+      <member refid="classcrc646e4e3ae19170bac3_1_1_droid_async_tile_layer_1af3fb98038120c1e3cca8a224f2428dc5" prot="private" virt="non-virtual"><scope>crc646e4e3ae19170bac3::DroidAsyncTileLayer</scope><name>n_getTile</name></member>
+      <member refid="classcrc646e4e3ae19170bac3_1_1_droid_async_tile_layer_1ab798a935f7b492f04d442752ab2c1624" prot="private" virt="non-virtual"><scope>crc646e4e3ae19170bac3::DroidAsyncTileLayer</scope><name>refList</name></member>
+    </listofallmembers>
+  </compounddef>
+</doxygen>

@@ -1,0 +1,680 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<section xmlns="http://docbook.org/ns/docbook" version="5.0" xmlns:xlink="http://www.w3.org/1999/xlink" xml:id="_class_application___green___quake_1_1_view_models_1_1_get_achievements_data" xml:lang="en-US">
+<title>Application_Green_Quake.ViewModels.GetAchievementsData Class Reference</title>
+<indexterm><primary>Application_Green_Quake.ViewModels.GetAchievementsData</primary></indexterm>
+<simplesect>
+    <title>Public Member Functions    </title>
+        <itemizedlist>
+            <listitem><para>async void <link linkend="_class_application___green___quake_1_1_view_models_1_1_get_achievements_data_1a3f4eb5195e701f9473fc5edf83c6d4c8">SetAchievementsData</link> ()</para>
+</listitem>
+        </itemizedlist>
+</simplesect>
+<simplesect>
+    <title>Static Public Attributes    </title>
+        <itemizedlist>
+            <listitem><para>static int <link linkend="_class_application___green___quake_1_1_view_models_1_1_get_achievements_data_1a0706e5b7c25d6f4edb786d6b79ac4b30">fixCount</link> = 0</para>
+</listitem>
+            <listitem><para>static int <link linkend="_class_application___green___quake_1_1_view_models_1_1_get_achievements_data_1af53f44cf1e227f932badbfe6775ee6e0">wSShowerHeadCount</link> = 0</para>
+</listitem>
+            <listitem><para>static int <link linkend="_class_application___green___quake_1_1_view_models_1_1_get_achievements_data_1a537d55c5c2eabd46641588331686e361">waterOverFizzyCount</link> = 0</para>
+</listitem>
+            <listitem><para>static int <link linkend="_class_application___green___quake_1_1_view_models_1_1_get_achievements_data_1a465f82b61c9afd181760400e5659563c">createGroupCount</link> = 0</para>
+</listitem>
+            <listitem><para>static int <link linkend="_class_application___green___quake_1_1_view_models_1_1_get_achievements_data_1a79836a9253b7142338d5fd2bbb34a5f9">communityCount</link> = 0</para>
+</listitem>
+            <listitem><para>static int <link linkend="_class_application___green___quake_1_1_view_models_1_1_get_achievements_data_1a90f7ed787d9810e8f88961478270b584">donateCount</link> = 0</para>
+</listitem>
+            <listitem><para>static int <link linkend="_class_application___green___quake_1_1_view_models_1_1_get_achievements_data_1ae91796287b678b249fa4302dfa8735ec">groupCount</link> = 0</para>
+</listitem>
+            <listitem><para>static int <link linkend="_class_application___green___quake_1_1_view_models_1_1_get_achievements_data_1ac363b943cc6a95f382a4de11c6d1562b">shareCount</link> = 0</para>
+</listitem>
+            <listitem><para>static int <link linkend="_class_application___green___quake_1_1_view_models_1_1_get_achievements_data_1a6265c7547d79214e489a708b192aa8a6">awarenessCount</link> = 0</para>
+</listitem>
+            <listitem><para>static int <link linkend="_class_application___green___quake_1_1_view_models_1_1_get_achievements_data_1a09f670ccf6e6eeae0303d7836ec2562c">fullDryerCount</link> = 0</para>
+</listitem>
+            <listitem><para>static int <link linkend="_class_application___green___quake_1_1_view_models_1_1_get_achievements_data_1a32965bc2e77134dd7aa473e59b77278a">insulateWaterCount</link> = 0</para>
+</listitem>
+            <listitem><para>static int <link linkend="_class_application___green___quake_1_1_view_models_1_1_get_achievements_data_1a6f6514accf094a1a319a6506456ed418">efficientThermostatCount</link> = 0</para>
+</listitem>
+            <listitem><para>static int <link linkend="_class_application___green___quake_1_1_view_models_1_1_get_achievements_data_1aeb7a4ac2be1e2e73c9af42604605443c">isolateHomeCount</link> = 0</para>
+</listitem>
+            <listitem><para>static int <link linkend="_class_application___green___quake_1_1_view_models_1_1_get_achievements_data_1aadcf44bbf3536fb8dbe2d68696a6cdaf">ledLightBulbCount</link> = 0</para>
+</listitem>
+            <listitem><para>static int <link linkend="_class_application___green___quake_1_1_view_models_1_1_get_achievements_data_1a24ba085ce20330852ece50938748c57f">microwaveCount</link> = 0</para>
+</listitem>
+            <listitem><para>static int <link linkend="_class_application___green___quake_1_1_view_models_1_1_get_achievements_data_1a59b872386338c0e1285efd9fb1bb1121">offSocketCount</link> = 0</para>
+</listitem>
+            <listitem><para>static int <link linkend="_class_application___green___quake_1_1_view_models_1_1_get_achievements_data_1a3fafe98faa685a33518069ebdd4ed5dc">reBatteriesCount</link> = 0</para>
+</listitem>
+            <listitem><para>static int <link linkend="_class_application___green___quake_1_1_view_models_1_1_get_achievements_data_1a2ccee26b51ff6157d18c10334496e96c">reBatCount</link> = 0</para>
+</listitem>
+            <listitem><para>static int <link linkend="_class_application___green___quake_1_1_view_models_1_1_get_achievements_data_1af0fc41d4a0b98f5b7b855938d2fb7a65">fridgeCount</link> = 0</para>
+</listitem>
+            <listitem><para>static int <link linkend="_class_application___green___quake_1_1_view_models_1_1_get_achievements_data_1af787ce09392576e2fddbf89c367c20ea">draftSealCount</link> = 0</para>
+</listitem>
+            <listitem><para>static int <link linkend="_class_application___green___quake_1_1_view_models_1_1_get_achievements_data_1aba244fb3806d9cdab02567cab73e87bd">ductSealCount</link> = 0</para>
+</listitem>
+            <listitem><para>static int <link linkend="_class_application___green___quake_1_1_view_models_1_1_get_achievements_data_1aba1418390902d97f9577763b52c9aefe">solarPanelCount</link> = 0</para>
+</listitem>
+            <listitem><para>static int <link linkend="_class_application___green___quake_1_1_view_models_1_1_get_achievements_data_1aa42959782a7228594a6a9e13d45b858e">eatAllCount</link> = 0</para>
+</listitem>
+            <listitem><para>static int <link linkend="_class_application___green___quake_1_1_view_models_1_1_get_achievements_data_1aabc38033863f259f6a61856c46f78c27">foodDeliverCount</link> = 0</para>
+</listitem>
+            <listitem><para>static int <link linkend="_class_application___green___quake_1_1_view_models_1_1_get_achievements_data_1a32fd462e65f8b8d2fd2b5444d9f13089">noMeatCount</link> = 0</para>
+</listitem>
+            <listitem><para>static int <link linkend="_class_application___green___quake_1_1_view_models_1_1_get_achievements_data_1a9677ad3738f006ea38ba31da28ce4b0f">ownCoffeeCount</link> = 0</para>
+</listitem>
+            <listitem><para>static int <link linkend="_class_application___green___quake_1_1_view_models_1_1_get_achievements_data_1a64bc5708a56f034b455e103462daefbb">reCoffeeMugCount</link> = 0</para>
+</listitem>
+            <listitem><para>static int <link linkend="_class_application___green___quake_1_1_view_models_1_1_get_achievements_data_1a037f9ac09bc293ca5fde79ad3665886d">saveLeftOversCount</link> = 0</para>
+</listitem>
+            <listitem><para>static int <link linkend="_class_application___green___quake_1_1_view_models_1_1_get_achievements_data_1ac5bc9992923b0c99f465d503d7a5b386">steelStrawCount</link> = 0</para>
+</listitem>
+            <listitem><para>static int <link linkend="_class_application___green___quake_1_1_view_models_1_1_get_achievements_data_1aefdfaba3e493df300c6236400cfd7bba">brushingCount</link> = 0</para>
+</listitem>
+            <listitem><para>static int <link linkend="_class_application___green___quake_1_1_view_models_1_1_get_achievements_data_1abce2875ef7046cd7f3742f8bbaa299c0">fullWasherCount</link> = 0</para>
+</listitem>
+            <listitem><para>static int <link linkend="_class_application___green___quake_1_1_view_models_1_1_get_achievements_data_1a8f06c4eab10a00ad39e2c7c683721f64">showerCount</link> = 0</para>
+</listitem>
+            <listitem><para>static int <link linkend="_class_application___green___quake_1_1_view_models_1_1_get_achievements_data_1aa077b5294da0c32c54a576643d41f4d5">timedShowerCount</link> = 0</para>
+</listitem>
+            <listitem><para>static int <link linkend="_class_application___green___quake_1_1_view_models_1_1_get_achievements_data_1a293ccbbee07c21a930bfae30df4f990a">offLigtsCount</link> = 0</para>
+</listitem>
+            <listitem><para>static int <link linkend="_class_application___green___quake_1_1_view_models_1_1_get_achievements_data_1ae89fcf9e29e2cb80ba0307adcdb72880">matchesCount</link> = 0</para>
+</listitem>
+            <listitem><para>static int <link linkend="_class_application___green___quake_1_1_view_models_1_1_get_achievements_data_1a1a7a6bbcd4406f9b1ee91e598852d3c8">airOutCount</link> = 0</para>
+</listitem>
+            <listitem><para>static int <link linkend="_class_application___green___quake_1_1_view_models_1_1_get_achievements_data_1a43a544e06a858cfa7d76b3d6395f2f57">nonHarmCount</link> = 0</para>
+</listitem>
+            <listitem><para>static int <link linkend="_class_application___green___quake_1_1_view_models_1_1_get_achievements_data_1a425a12cb8e07d1a2ef0b44188e988ee1">outsideCount</link> = 0</para>
+</listitem>
+            <listitem><para>static int <link linkend="_class_application___green___quake_1_1_view_models_1_1_get_achievements_data_1a3faa4187de8bd6fe4a017dd3db9e500a">plantIntoHomeCount</link> = 0</para>
+</listitem>
+            <listitem><para>static int <link linkend="_class_application___green___quake_1_1_view_models_1_1_get_achievements_data_1a9589be38a86b8dd237dc06165a6a86aa">toiletFlushCount</link> = 0</para>
+</listitem>
+            <listitem><para>static int <link linkend="_class_application___green___quake_1_1_view_models_1_1_get_achievements_data_1ab6451b0f7c444e85ea0fa69dd8657f45">campingCount</link> = 0</para>
+</listitem>
+            <listitem><para>static int <link linkend="_class_application___green___quake_1_1_view_models_1_1_get_achievements_data_1af62b87b60b377191e74d7e3d11e1f611">picnicCount</link> = 0</para>
+</listitem>
+            <listitem><para>static int <link linkend="_class_application___green___quake_1_1_view_models_1_1_get_achievements_data_1a0882fe3ca6ca1b6a2051fb36930a55e9">plantBushCount</link> = 0</para>
+</listitem>
+            <listitem><para>static int <link linkend="_class_application___green___quake_1_1_view_models_1_1_get_achievements_data_1ae67175ced691b604de3f9cca679fc2a3">plantFlowerCount</link> = 0</para>
+</listitem>
+            <listitem><para>static int <link linkend="_class_application___green___quake_1_1_view_models_1_1_get_achievements_data_1a35afbbd85741fc5556353170d5f5d466">plantTreeCount</link> = 0</para>
+</listitem>
+            <listitem><para>static int <link linkend="_class_application___green___quake_1_1_view_models_1_1_get_achievements_data_1a3bd3179d7fe825a221b5af8960b56bbe">scoopCount</link> = 0</para>
+</listitem>
+            <listitem><para>static int <link linkend="_class_application___green___quake_1_1_view_models_1_1_get_achievements_data_1ae28f37fe4f260504d462999125033b51">fruitGardenCount</link> = 0</para>
+</listitem>
+            <listitem><para>static int <link linkend="_class_application___green___quake_1_1_view_models_1_1_get_achievements_data_1a53cc4b1139201f6be974f77b515a6c42">herbGardenCount</link> = 0</para>
+</listitem>
+            <listitem><para>static int <link linkend="_class_application___green___quake_1_1_view_models_1_1_get_achievements_data_1af6a8a538b9ef8993723c63bc7a4f7ea6">vegetableGardenCount</link> = 0</para>
+</listitem>
+            <listitem><para>static int <link linkend="_class_application___green___quake_1_1_view_models_1_1_get_achievements_data_1a47f8318d20e3beba64c7332161e03884">birdFeederCount</link> = 0</para>
+</listitem>
+            <listitem><para>static int <link linkend="_class_application___green___quake_1_1_view_models_1_1_get_achievements_data_1abbe432317929744dee4e05362adf414b">clothNapkinCount</link> = 0</para>
+</listitem>
+            <listitem><para>static int <link linkend="_class_application___green___quake_1_1_view_models_1_1_get_achievements_data_1a2bf7b9cba168fcba1762edfe5a13389a">clothTowelCount</link> = 0</para>
+</listitem>
+            <listitem><para>static int <link linkend="_class_application___green___quake_1_1_view_models_1_1_get_achievements_data_1aac14f87ed06922349369af058b3a1d9e">applianceCount</link> = 0</para>
+</listitem>
+            <listitem><para>static int <link linkend="_class_application___green___quake_1_1_view_models_1_1_get_achievements_data_1a35fafddbe7a2830b2b4298ba2e82ec9a">productCount</link> = 0</para>
+</listitem>
+            <listitem><para>static int <link linkend="_class_application___green___quake_1_1_view_models_1_1_get_achievements_data_1ac3140ceb524a2f45e70e361857d58710">toothbrushCount</link> = 0</para>
+</listitem>
+            <listitem><para>static int <link linkend="_class_application___green___quake_1_1_view_models_1_1_get_achievements_data_1a378c478d6c0fa5797e45bcb78a619e6c">clothesCount</link> = 0</para>
+</listitem>
+            <listitem><para>static int <link linkend="_class_application___green___quake_1_1_view_models_1_1_get_achievements_data_1aaebf72e15b08783eab30a72d487db02c">localCount</link> = 0</para>
+</listitem>
+            <listitem><para>static int <link linkend="_class_application___green___quake_1_1_view_models_1_1_get_achievements_data_1adfa13a38d232a84483dd6c215b2802f6">looseLeafCount</link> = 0</para>
+</listitem>
+            <listitem><para>static int <link linkend="_class_application___green___quake_1_1_view_models_1_1_get_achievements_data_1a2b4da0115b32aa8847ef5aa26d303b80">organicFoodCount</link> = 0</para>
+</listitem>
+            <listitem><para>static int <link linkend="_class_application___green___quake_1_1_view_models_1_1_get_achievements_data_1acdfcddda297ee3275fef27c8a407746c">reusableCount</link> = 0</para>
+</listitem>
+            <listitem><para>static int <link linkend="_class_application___green___quake_1_1_view_models_1_1_get_achievements_data_1a4dc733c1ef5a9919edb2213b25256e23">reBagCount</link> = 0</para>
+</listitem>
+            <listitem><para>static int <link linkend="_class_application___green___quake_1_1_view_models_1_1_get_achievements_data_1ad9279688681fa825a7f2b894fcd3e57a">carpoolCount</link> = 0</para>
+</listitem>
+            <listitem><para>static int <link linkend="_class_application___green___quake_1_1_view_models_1_1_get_achievements_data_1a6e7b1c8f8b7c28292ac5a2959ee09798">cycleCount</link> = 0</para>
+</listitem>
+            <listitem><para>static int <link linkend="_class_application___green___quake_1_1_view_models_1_1_get_achievements_data_1ac569af29e048f150fe802bab767d46c0">ecoCarCount</link> = 0</para>
+</listitem>
+            <listitem><para>static int <link linkend="_class_application___green___quake_1_1_view_models_1_1_get_achievements_data_1a0ea5d4e184c489da7a377873ca2e28c7">transportCount</link> = 0</para>
+</listitem>
+            <listitem><para>static int <link linkend="_class_application___green___quake_1_1_view_models_1_1_get_achievements_data_1a4997b99a43472826bc0bcd5062ce5f97">walkCount</link> = 0</para>
+</listitem>
+            <listitem><para>static int <link linkend="_class_application___green___quake_1_1_view_models_1_1_get_achievements_data_1ab66cb57054b7e601a8f750eafdb2ac5b">billsCount</link> = 0</para>
+</listitem>
+            <listitem><para>static int <link linkend="_class_application___green___quake_1_1_view_models_1_1_get_achievements_data_1a80ca94145ebe7492a2d445e9ae56d4fe">compostCount</link> = 0</para>
+</listitem>
+            <listitem><para>static int <link linkend="_class_application___green___quake_1_1_view_models_1_1_get_achievements_data_1a50af8ad7c6516faf4190565e2efc6ffd">setUpRecyclingBinCount</link> = 0</para>
+</listitem>
+            <listitem><para>static int <link linkend="_class_application___green___quake_1_1_view_models_1_1_get_achievements_data_1a078213e038a62fa72a23a4850d97effc">bioBinBagsCount</link> = 0</para>
+</listitem>
+            <listitem><para>static int <link linkend="_class_application___green___quake_1_1_view_models_1_1_get_achievements_data_1a4fdd70df3501738009752a4d8f86d856">recyclingBinCount</link> = 0</para>
+</listitem>
+            <listitem><para>static int <link linkend="_class_application___green___quake_1_1_view_models_1_1_get_achievements_data_1a664ec1bcb8578d2d054ec3132a372cbd">cisternCount</link> = 0</para>
+</listitem>
+            <listitem><para>static int <link linkend="_class_application___green___quake_1_1_view_models_1_1_get_achievements_data_1a99ac38c24bccb455abbd22c55893ea94">rainBarrelCount</link> = 0</para>
+</listitem>
+            <listitem><para>static int <link linkend="_class_application___green___quake_1_1_view_models_1_1_get_achievements_data_1a083322446dd006bfd904b3677236ed83">reWaterCount</link> = 0</para>
+</listitem>
+            <listitem><para>static int <link linkend="_class_application___green___quake_1_1_view_models_1_1_get_achievements_data_1addfb475a35ced34ff5d9e0cc06150397">showerBucketCount</link> = 0</para>
+</listitem>
+            <listitem><para>static int <link linkend="_class_application___green___quake_1_1_view_models_1_1_get_achievements_data_1aa67166bd291aab5114515904802a83c8">paperCount</link> = 0</para>
+</listitem>
+            <listitem><para>static int <link linkend="_class_application___green___quake_1_1_view_models_1_1_get_achievements_data_1afade0e60a99bf8f78bd434f66bef9027">offElectronicsCount</link> = 0</para>
+</listitem>
+            <listitem><para>static int <link linkend="_class_application___green___quake_1_1_view_models_1_1_get_achievements_data_1aeec72049ac50c0c52b590fab233e235d">remoteWorkCount</link> = 0</para>
+</listitem>
+            <listitem><para>static int <link linkend="_class_application___green___quake_1_1_view_models_1_1_get_achievements_data_1ad2bebb6337900d3dcee9dfe6effe47fa">hangDryCount</link> = 0</para>
+</listitem>
+            <listitem><para>static int <link linkend="_class_application___green___quake_1_1_view_models_1_1_get_achievements_data_1a98f2f015693ef8e2a066d59aa9613e1b">foodCount</link> = 0</para>
+</listitem>
+        </itemizedlist>
+</simplesect>
+<section>
+<title>Detailed Description</title>
+<para>
+Definition at line 16 of file GetAchievementsData.cs.</para>
+</section>
+<section>
+<title>Member Function Documentation</title>
+<anchor xml:id="_class_application___green___quake_1_1_view_models_1_1_get_achievements_data_1a3f4eb5195e701f9473fc5edf83c6d4c8"/>    <section>
+    <title>SetAchievementsData()</title>
+<indexterm><primary>SetAchievementsData</primary><secondary>Application_Green_Quake.ViewModels.GetAchievementsData</secondary></indexterm>
+<indexterm><primary>Application_Green_Quake.ViewModels.GetAchievementsData</primary><secondary>SetAchievementsData</secondary></indexterm>
+<para><computeroutput>async void Application_Green_Quake.ViewModels.GetAchievementsData.SetAchievementsData ( )</computeroutput></para>
+<para>This function sets the data that is needed for the Achievements Screen </para>
+<para>
+Definition at line 103 of file GetAchievementsData.cs.</para>
+</section>
+</section>
+<section>
+<title>Member Data Documentation</title>
+<anchor xml:id="_class_application___green___quake_1_1_view_models_1_1_get_achievements_data_1a1a7a6bbcd4406f9b1ee91e598852d3c8"/>    <section>
+    <title>airOutCount</title>
+<indexterm><primary>airOutCount</primary><secondary>Application_Green_Quake.ViewModels.GetAchievementsData</secondary></indexterm>
+<indexterm><primary>Application_Green_Quake.ViewModels.GetAchievementsData</primary><secondary>airOutCount</secondary></indexterm>
+<para><computeroutput>int Application_Green_Quake.ViewModels.GetAchievementsData.airOutCount = 0<computeroutput>[static]</computeroutput></computeroutput></para><para>
+Definition at line 54 of file GetAchievementsData.cs.</para>
+    </section><anchor xml:id="_class_application___green___quake_1_1_view_models_1_1_get_achievements_data_1aac14f87ed06922349369af058b3a1d9e"/>    <section>
+    <title>applianceCount</title>
+<indexterm><primary>applianceCount</primary><secondary>Application_Green_Quake.ViewModels.GetAchievementsData</secondary></indexterm>
+<indexterm><primary>Application_Green_Quake.ViewModels.GetAchievementsData</primary><secondary>applianceCount</secondary></indexterm>
+<para><computeroutput>int Application_Green_Quake.ViewModels.GetAchievementsData.applianceCount = 0<computeroutput>[static]</computeroutput></computeroutput></para><para>
+Definition at line 71 of file GetAchievementsData.cs.</para>
+    </section><anchor xml:id="_class_application___green___quake_1_1_view_models_1_1_get_achievements_data_1a6265c7547d79214e489a708b192aa8a6"/>    <section>
+    <title>awarenessCount</title>
+<indexterm><primary>awarenessCount</primary><secondary>Application_Green_Quake.ViewModels.GetAchievementsData</secondary></indexterm>
+<indexterm><primary>Application_Green_Quake.ViewModels.GetAchievementsData</primary><secondary>awarenessCount</secondary></indexterm>
+<para><computeroutput>int Application_Green_Quake.ViewModels.GetAchievementsData.awarenessCount = 0<computeroutput>[static]</computeroutput></computeroutput></para><para>
+Definition at line 27 of file GetAchievementsData.cs.</para>
+    </section><anchor xml:id="_class_application___green___quake_1_1_view_models_1_1_get_achievements_data_1ab66cb57054b7e601a8f750eafdb2ac5b"/>    <section>
+    <title>billsCount</title>
+<indexterm><primary>billsCount</primary><secondary>Application_Green_Quake.ViewModels.GetAchievementsData</secondary></indexterm>
+<indexterm><primary>Application_Green_Quake.ViewModels.GetAchievementsData</primary><secondary>billsCount</secondary></indexterm>
+<para><computeroutput>int Application_Green_Quake.ViewModels.GetAchievementsData.billsCount = 0<computeroutput>[static]</computeroutput></computeroutput></para><para>
+Definition at line 85 of file GetAchievementsData.cs.</para>
+    </section><anchor xml:id="_class_application___green___quake_1_1_view_models_1_1_get_achievements_data_1a078213e038a62fa72a23a4850d97effc"/>    <section>
+    <title>bioBinBagsCount</title>
+<indexterm><primary>bioBinBagsCount</primary><secondary>Application_Green_Quake.ViewModels.GetAchievementsData</secondary></indexterm>
+<indexterm><primary>Application_Green_Quake.ViewModels.GetAchievementsData</primary><secondary>bioBinBagsCount</secondary></indexterm>
+<para><computeroutput>int Application_Green_Quake.ViewModels.GetAchievementsData.bioBinBagsCount = 0<computeroutput>[static]</computeroutput></computeroutput></para><para>
+Definition at line 88 of file GetAchievementsData.cs.</para>
+    </section><anchor xml:id="_class_application___green___quake_1_1_view_models_1_1_get_achievements_data_1a47f8318d20e3beba64c7332161e03884"/>    <section>
+    <title>birdFeederCount</title>
+<indexterm><primary>birdFeederCount</primary><secondary>Application_Green_Quake.ViewModels.GetAchievementsData</secondary></indexterm>
+<indexterm><primary>Application_Green_Quake.ViewModels.GetAchievementsData</primary><secondary>birdFeederCount</secondary></indexterm>
+<para><computeroutput>int Application_Green_Quake.ViewModels.GetAchievementsData.birdFeederCount = 0<computeroutput>[static]</computeroutput></computeroutput></para><para>
+Definition at line 68 of file GetAchievementsData.cs.</para>
+    </section><anchor xml:id="_class_application___green___quake_1_1_view_models_1_1_get_achievements_data_1aefdfaba3e493df300c6236400cfd7bba"/>    <section>
+    <title>brushingCount</title>
+<indexterm><primary>brushingCount</primary><secondary>Application_Green_Quake.ViewModels.GetAchievementsData</secondary></indexterm>
+<indexterm><primary>Application_Green_Quake.ViewModels.GetAchievementsData</primary><secondary>brushingCount</secondary></indexterm>
+<para><computeroutput>int Application_Green_Quake.ViewModels.GetAchievementsData.brushingCount = 0<computeroutput>[static]</computeroutput></computeroutput></para><para>
+Definition at line 48 of file GetAchievementsData.cs.</para>
+    </section><anchor xml:id="_class_application___green___quake_1_1_view_models_1_1_get_achievements_data_1ab6451b0f7c444e85ea0fa69dd8657f45"/>    <section>
+    <title>campingCount</title>
+<indexterm><primary>campingCount</primary><secondary>Application_Green_Quake.ViewModels.GetAchievementsData</secondary></indexterm>
+<indexterm><primary>Application_Green_Quake.ViewModels.GetAchievementsData</primary><secondary>campingCount</secondary></indexterm>
+<para><computeroutput>int Application_Green_Quake.ViewModels.GetAchievementsData.campingCount = 0<computeroutput>[static]</computeroutput></computeroutput></para><para>
+Definition at line 59 of file GetAchievementsData.cs.</para>
+    </section><anchor xml:id="_class_application___green___quake_1_1_view_models_1_1_get_achievements_data_1ad9279688681fa825a7f2b894fcd3e57a"/>    <section>
+    <title>carpoolCount</title>
+<indexterm><primary>carpoolCount</primary><secondary>Application_Green_Quake.ViewModels.GetAchievementsData</secondary></indexterm>
+<indexterm><primary>Application_Green_Quake.ViewModels.GetAchievementsData</primary><secondary>carpoolCount</secondary></indexterm>
+<para><computeroutput>int Application_Green_Quake.ViewModels.GetAchievementsData.carpoolCount = 0<computeroutput>[static]</computeroutput></computeroutput></para><para>
+Definition at line 80 of file GetAchievementsData.cs.</para>
+    </section><anchor xml:id="_class_application___green___quake_1_1_view_models_1_1_get_achievements_data_1a664ec1bcb8578d2d054ec3132a372cbd"/>    <section>
+    <title>cisternCount</title>
+<indexterm><primary>cisternCount</primary><secondary>Application_Green_Quake.ViewModels.GetAchievementsData</secondary></indexterm>
+<indexterm><primary>Application_Green_Quake.ViewModels.GetAchievementsData</primary><secondary>cisternCount</secondary></indexterm>
+<para><computeroutput>int Application_Green_Quake.ViewModels.GetAchievementsData.cisternCount = 0<computeroutput>[static]</computeroutput></computeroutput></para><para>
+Definition at line 90 of file GetAchievementsData.cs.</para>
+    </section><anchor xml:id="_class_application___green___quake_1_1_view_models_1_1_get_achievements_data_1a378c478d6c0fa5797e45bcb78a619e6c"/>    <section>
+    <title>clothesCount</title>
+<indexterm><primary>clothesCount</primary><secondary>Application_Green_Quake.ViewModels.GetAchievementsData</secondary></indexterm>
+<indexterm><primary>Application_Green_Quake.ViewModels.GetAchievementsData</primary><secondary>clothesCount</secondary></indexterm>
+<para><computeroutput>int Application_Green_Quake.ViewModels.GetAchievementsData.clothesCount = 0<computeroutput>[static]</computeroutput></computeroutput></para><para>
+Definition at line 74 of file GetAchievementsData.cs.</para>
+    </section><anchor xml:id="_class_application___green___quake_1_1_view_models_1_1_get_achievements_data_1abbe432317929744dee4e05362adf414b"/>    <section>
+    <title>clothNapkinCount</title>
+<indexterm><primary>clothNapkinCount</primary><secondary>Application_Green_Quake.ViewModels.GetAchievementsData</secondary></indexterm>
+<indexterm><primary>Application_Green_Quake.ViewModels.GetAchievementsData</primary><secondary>clothNapkinCount</secondary></indexterm>
+<para><computeroutput>int Application_Green_Quake.ViewModels.GetAchievementsData.clothNapkinCount = 0<computeroutput>[static]</computeroutput></computeroutput></para><para>
+Definition at line 69 of file GetAchievementsData.cs.</para>
+    </section><anchor xml:id="_class_application___green___quake_1_1_view_models_1_1_get_achievements_data_1a2bf7b9cba168fcba1762edfe5a13389a"/>    <section>
+    <title>clothTowelCount</title>
+<indexterm><primary>clothTowelCount</primary><secondary>Application_Green_Quake.ViewModels.GetAchievementsData</secondary></indexterm>
+<indexterm><primary>Application_Green_Quake.ViewModels.GetAchievementsData</primary><secondary>clothTowelCount</secondary></indexterm>
+<para><computeroutput>int Application_Green_Quake.ViewModels.GetAchievementsData.clothTowelCount = 0<computeroutput>[static]</computeroutput></computeroutput></para><para>
+Definition at line 70 of file GetAchievementsData.cs.</para>
+    </section><anchor xml:id="_class_application___green___quake_1_1_view_models_1_1_get_achievements_data_1a79836a9253b7142338d5fd2bbb34a5f9"/>    <section>
+    <title>communityCount</title>
+<indexterm><primary>communityCount</primary><secondary>Application_Green_Quake.ViewModels.GetAchievementsData</secondary></indexterm>
+<indexterm><primary>Application_Green_Quake.ViewModels.GetAchievementsData</primary><secondary>communityCount</secondary></indexterm>
+<para><computeroutput>int Application_Green_Quake.ViewModels.GetAchievementsData.communityCount = 0<computeroutput>[static]</computeroutput></computeroutput></para><para>
+Definition at line 23 of file GetAchievementsData.cs.</para>
+    </section><anchor xml:id="_class_application___green___quake_1_1_view_models_1_1_get_achievements_data_1a80ca94145ebe7492a2d445e9ae56d4fe"/>    <section>
+    <title>compostCount</title>
+<indexterm><primary>compostCount</primary><secondary>Application_Green_Quake.ViewModels.GetAchievementsData</secondary></indexterm>
+<indexterm><primary>Application_Green_Quake.ViewModels.GetAchievementsData</primary><secondary>compostCount</secondary></indexterm>
+<para><computeroutput>int Application_Green_Quake.ViewModels.GetAchievementsData.compostCount = 0<computeroutput>[static]</computeroutput></computeroutput></para><para>
+Definition at line 86 of file GetAchievementsData.cs.</para>
+    </section><anchor xml:id="_class_application___green___quake_1_1_view_models_1_1_get_achievements_data_1a465f82b61c9afd181760400e5659563c"/>    <section>
+    <title>createGroupCount</title>
+<indexterm><primary>createGroupCount</primary><secondary>Application_Green_Quake.ViewModels.GetAchievementsData</secondary></indexterm>
+<indexterm><primary>Application_Green_Quake.ViewModels.GetAchievementsData</primary><secondary>createGroupCount</secondary></indexterm>
+<para><computeroutput>int Application_Green_Quake.ViewModels.GetAchievementsData.createGroupCount = 0<computeroutput>[static]</computeroutput></computeroutput></para><para>
+Definition at line 22 of file GetAchievementsData.cs.</para>
+    </section><anchor xml:id="_class_application___green___quake_1_1_view_models_1_1_get_achievements_data_1a6e7b1c8f8b7c28292ac5a2959ee09798"/>    <section>
+    <title>cycleCount</title>
+<indexterm><primary>cycleCount</primary><secondary>Application_Green_Quake.ViewModels.GetAchievementsData</secondary></indexterm>
+<indexterm><primary>Application_Green_Quake.ViewModels.GetAchievementsData</primary><secondary>cycleCount</secondary></indexterm>
+<para><computeroutput>int Application_Green_Quake.ViewModels.GetAchievementsData.cycleCount = 0<computeroutput>[static]</computeroutput></computeroutput></para><para>
+Definition at line 81 of file GetAchievementsData.cs.</para>
+    </section><anchor xml:id="_class_application___green___quake_1_1_view_models_1_1_get_achievements_data_1a90f7ed787d9810e8f88961478270b584"/>    <section>
+    <title>donateCount</title>
+<indexterm><primary>donateCount</primary><secondary>Application_Green_Quake.ViewModels.GetAchievementsData</secondary></indexterm>
+<indexterm><primary>Application_Green_Quake.ViewModels.GetAchievementsData</primary><secondary>donateCount</secondary></indexterm>
+<para><computeroutput>int Application_Green_Quake.ViewModels.GetAchievementsData.donateCount = 0<computeroutput>[static]</computeroutput></computeroutput></para><para>
+Definition at line 24 of file GetAchievementsData.cs.</para>
+    </section><anchor xml:id="_class_application___green___quake_1_1_view_models_1_1_get_achievements_data_1af787ce09392576e2fddbf89c367c20ea"/>    <section>
+    <title>draftSealCount</title>
+<indexterm><primary>draftSealCount</primary><secondary>Application_Green_Quake.ViewModels.GetAchievementsData</secondary></indexterm>
+<indexterm><primary>Application_Green_Quake.ViewModels.GetAchievementsData</primary><secondary>draftSealCount</secondary></indexterm>
+<para><computeroutput>int Application_Green_Quake.ViewModels.GetAchievementsData.draftSealCount = 0<computeroutput>[static]</computeroutput></computeroutput></para><para>
+Definition at line 38 of file GetAchievementsData.cs.</para>
+    </section><anchor xml:id="_class_application___green___quake_1_1_view_models_1_1_get_achievements_data_1aba244fb3806d9cdab02567cab73e87bd"/>    <section>
+    <title>ductSealCount</title>
+<indexterm><primary>ductSealCount</primary><secondary>Application_Green_Quake.ViewModels.GetAchievementsData</secondary></indexterm>
+<indexterm><primary>Application_Green_Quake.ViewModels.GetAchievementsData</primary><secondary>ductSealCount</secondary></indexterm>
+<para><computeroutput>int Application_Green_Quake.ViewModels.GetAchievementsData.ductSealCount = 0<computeroutput>[static]</computeroutput></computeroutput></para><para>
+Definition at line 39 of file GetAchievementsData.cs.</para>
+    </section><anchor xml:id="_class_application___green___quake_1_1_view_models_1_1_get_achievements_data_1aa42959782a7228594a6a9e13d45b858e"/>    <section>
+    <title>eatAllCount</title>
+<indexterm><primary>eatAllCount</primary><secondary>Application_Green_Quake.ViewModels.GetAchievementsData</secondary></indexterm>
+<indexterm><primary>Application_Green_Quake.ViewModels.GetAchievementsData</primary><secondary>eatAllCount</secondary></indexterm>
+<para><computeroutput>int Application_Green_Quake.ViewModels.GetAchievementsData.eatAllCount = 0<computeroutput>[static]</computeroutput></computeroutput></para><para>
+Definition at line 41 of file GetAchievementsData.cs.</para>
+    </section><anchor xml:id="_class_application___green___quake_1_1_view_models_1_1_get_achievements_data_1ac569af29e048f150fe802bab767d46c0"/>    <section>
+    <title>ecoCarCount</title>
+<indexterm><primary>ecoCarCount</primary><secondary>Application_Green_Quake.ViewModels.GetAchievementsData</secondary></indexterm>
+<indexterm><primary>Application_Green_Quake.ViewModels.GetAchievementsData</primary><secondary>ecoCarCount</secondary></indexterm>
+<para><computeroutput>int Application_Green_Quake.ViewModels.GetAchievementsData.ecoCarCount = 0<computeroutput>[static]</computeroutput></computeroutput></para><para>
+Definition at line 82 of file GetAchievementsData.cs.</para>
+    </section><anchor xml:id="_class_application___green___quake_1_1_view_models_1_1_get_achievements_data_1a6f6514accf094a1a319a6506456ed418"/>    <section>
+    <title>efficientThermostatCount</title>
+<indexterm><primary>efficientThermostatCount</primary><secondary>Application_Green_Quake.ViewModels.GetAchievementsData</secondary></indexterm>
+<indexterm><primary>Application_Green_Quake.ViewModels.GetAchievementsData</primary><secondary>efficientThermostatCount</secondary></indexterm>
+<para><computeroutput>int Application_Green_Quake.ViewModels.GetAchievementsData.efficientThermostatCount = 0<computeroutput>[static]</computeroutput></computeroutput></para><para>
+Definition at line 30 of file GetAchievementsData.cs.</para>
+    </section><anchor xml:id="_class_application___green___quake_1_1_view_models_1_1_get_achievements_data_1a0706e5b7c25d6f4edb786d6b79ac4b30"/>    <section>
+    <title>fixCount</title>
+<indexterm><primary>fixCount</primary><secondary>Application_Green_Quake.ViewModels.GetAchievementsData</secondary></indexterm>
+<indexterm><primary>Application_Green_Quake.ViewModels.GetAchievementsData</primary><secondary>fixCount</secondary></indexterm>
+<para><computeroutput>int Application_Green_Quake.ViewModels.GetAchievementsData.fixCount = 0<computeroutput>[static]</computeroutput></computeroutput></para><para>
+Definition at line 19 of file GetAchievementsData.cs.</para>
+    </section><anchor xml:id="_class_application___green___quake_1_1_view_models_1_1_get_achievements_data_1a98f2f015693ef8e2a066d59aa9613e1b"/>    <section>
+    <title>foodCount</title>
+<indexterm><primary>foodCount</primary><secondary>Application_Green_Quake.ViewModels.GetAchievementsData</secondary></indexterm>
+<indexterm><primary>Application_Green_Quake.ViewModels.GetAchievementsData</primary><secondary>foodCount</secondary></indexterm>
+<para><computeroutput>int Application_Green_Quake.ViewModels.GetAchievementsData.foodCount = 0<computeroutput>[static]</computeroutput></computeroutput></para><para>
+Definition at line 98 of file GetAchievementsData.cs.</para>
+    </section><anchor xml:id="_class_application___green___quake_1_1_view_models_1_1_get_achievements_data_1aabc38033863f259f6a61856c46f78c27"/>    <section>
+    <title>foodDeliverCount</title>
+<indexterm><primary>foodDeliverCount</primary><secondary>Application_Green_Quake.ViewModels.GetAchievementsData</secondary></indexterm>
+<indexterm><primary>Application_Green_Quake.ViewModels.GetAchievementsData</primary><secondary>foodDeliverCount</secondary></indexterm>
+<para><computeroutput>int Application_Green_Quake.ViewModels.GetAchievementsData.foodDeliverCount = 0<computeroutput>[static]</computeroutput></computeroutput></para><para>
+Definition at line 42 of file GetAchievementsData.cs.</para>
+    </section><anchor xml:id="_class_application___green___quake_1_1_view_models_1_1_get_achievements_data_1af0fc41d4a0b98f5b7b855938d2fb7a65"/>    <section>
+    <title>fridgeCount</title>
+<indexterm><primary>fridgeCount</primary><secondary>Application_Green_Quake.ViewModels.GetAchievementsData</secondary></indexterm>
+<indexterm><primary>Application_Green_Quake.ViewModels.GetAchievementsData</primary><secondary>fridgeCount</secondary></indexterm>
+<para><computeroutput>int Application_Green_Quake.ViewModels.GetAchievementsData.fridgeCount = 0<computeroutput>[static]</computeroutput></computeroutput></para><para>
+Definition at line 37 of file GetAchievementsData.cs.</para>
+    </section><anchor xml:id="_class_application___green___quake_1_1_view_models_1_1_get_achievements_data_1ae28f37fe4f260504d462999125033b51"/>    <section>
+    <title>fruitGardenCount</title>
+<indexterm><primary>fruitGardenCount</primary><secondary>Application_Green_Quake.ViewModels.GetAchievementsData</secondary></indexterm>
+<indexterm><primary>Application_Green_Quake.ViewModels.GetAchievementsData</primary><secondary>fruitGardenCount</secondary></indexterm>
+<para><computeroutput>int Application_Green_Quake.ViewModels.GetAchievementsData.fruitGardenCount = 0<computeroutput>[static]</computeroutput></computeroutput></para><para>
+Definition at line 65 of file GetAchievementsData.cs.</para>
+    </section><anchor xml:id="_class_application___green___quake_1_1_view_models_1_1_get_achievements_data_1a09f670ccf6e6eeae0303d7836ec2562c"/>    <section>
+    <title>fullDryerCount</title>
+<indexterm><primary>fullDryerCount</primary><secondary>Application_Green_Quake.ViewModels.GetAchievementsData</secondary></indexterm>
+<indexterm><primary>Application_Green_Quake.ViewModels.GetAchievementsData</primary><secondary>fullDryerCount</secondary></indexterm>
+<para><computeroutput>int Application_Green_Quake.ViewModels.GetAchievementsData.fullDryerCount = 0<computeroutput>[static]</computeroutput></computeroutput></para><para>
+Definition at line 28 of file GetAchievementsData.cs.</para>
+    </section><anchor xml:id="_class_application___green___quake_1_1_view_models_1_1_get_achievements_data_1abce2875ef7046cd7f3742f8bbaa299c0"/>    <section>
+    <title>fullWasherCount</title>
+<indexterm><primary>fullWasherCount</primary><secondary>Application_Green_Quake.ViewModels.GetAchievementsData</secondary></indexterm>
+<indexterm><primary>Application_Green_Quake.ViewModels.GetAchievementsData</primary><secondary>fullWasherCount</secondary></indexterm>
+<para><computeroutput>int Application_Green_Quake.ViewModels.GetAchievementsData.fullWasherCount = 0<computeroutput>[static]</computeroutput></computeroutput></para><para>
+Definition at line 49 of file GetAchievementsData.cs.</para>
+    </section><anchor xml:id="_class_application___green___quake_1_1_view_models_1_1_get_achievements_data_1ae91796287b678b249fa4302dfa8735ec"/>    <section>
+    <title>groupCount</title>
+<indexterm><primary>groupCount</primary><secondary>Application_Green_Quake.ViewModels.GetAchievementsData</secondary></indexterm>
+<indexterm><primary>Application_Green_Quake.ViewModels.GetAchievementsData</primary><secondary>groupCount</secondary></indexterm>
+<para><computeroutput>int Application_Green_Quake.ViewModels.GetAchievementsData.groupCount = 0<computeroutput>[static]</computeroutput></computeroutput></para><para>
+Definition at line 25 of file GetAchievementsData.cs.</para>
+    </section><anchor xml:id="_class_application___green___quake_1_1_view_models_1_1_get_achievements_data_1ad2bebb6337900d3dcee9dfe6effe47fa"/>    <section>
+    <title>hangDryCount</title>
+<indexterm><primary>hangDryCount</primary><secondary>Application_Green_Quake.ViewModels.GetAchievementsData</secondary></indexterm>
+<indexterm><primary>Application_Green_Quake.ViewModels.GetAchievementsData</primary><secondary>hangDryCount</secondary></indexterm>
+<para><computeroutput>int Application_Green_Quake.ViewModels.GetAchievementsData.hangDryCount = 0<computeroutput>[static]</computeroutput></computeroutput></para><para>
+Definition at line 97 of file GetAchievementsData.cs.</para>
+    </section><anchor xml:id="_class_application___green___quake_1_1_view_models_1_1_get_achievements_data_1a53cc4b1139201f6be974f77b515a6c42"/>    <section>
+    <title>herbGardenCount</title>
+<indexterm><primary>herbGardenCount</primary><secondary>Application_Green_Quake.ViewModels.GetAchievementsData</secondary></indexterm>
+<indexterm><primary>Application_Green_Quake.ViewModels.GetAchievementsData</primary><secondary>herbGardenCount</secondary></indexterm>
+<para><computeroutput>int Application_Green_Quake.ViewModels.GetAchievementsData.herbGardenCount = 0<computeroutput>[static]</computeroutput></computeroutput></para><para>
+Definition at line 66 of file GetAchievementsData.cs.</para>
+    </section><anchor xml:id="_class_application___green___quake_1_1_view_models_1_1_get_achievements_data_1a32965bc2e77134dd7aa473e59b77278a"/>    <section>
+    <title>insulateWaterCount</title>
+<indexterm><primary>insulateWaterCount</primary><secondary>Application_Green_Quake.ViewModels.GetAchievementsData</secondary></indexterm>
+<indexterm><primary>Application_Green_Quake.ViewModels.GetAchievementsData</primary><secondary>insulateWaterCount</secondary></indexterm>
+<para><computeroutput>int Application_Green_Quake.ViewModels.GetAchievementsData.insulateWaterCount = 0<computeroutput>[static]</computeroutput></computeroutput></para><para>
+Definition at line 29 of file GetAchievementsData.cs.</para>
+    </section><anchor xml:id="_class_application___green___quake_1_1_view_models_1_1_get_achievements_data_1aeb7a4ac2be1e2e73c9af42604605443c"/>    <section>
+    <title>isolateHomeCount</title>
+<indexterm><primary>isolateHomeCount</primary><secondary>Application_Green_Quake.ViewModels.GetAchievementsData</secondary></indexterm>
+<indexterm><primary>Application_Green_Quake.ViewModels.GetAchievementsData</primary><secondary>isolateHomeCount</secondary></indexterm>
+<para><computeroutput>int Application_Green_Quake.ViewModels.GetAchievementsData.isolateHomeCount = 0<computeroutput>[static]</computeroutput></computeroutput></para><para>
+Definition at line 31 of file GetAchievementsData.cs.</para>
+    </section><anchor xml:id="_class_application___green___quake_1_1_view_models_1_1_get_achievements_data_1aadcf44bbf3536fb8dbe2d68696a6cdaf"/>    <section>
+    <title>ledLightBulbCount</title>
+<indexterm><primary>ledLightBulbCount</primary><secondary>Application_Green_Quake.ViewModels.GetAchievementsData</secondary></indexterm>
+<indexterm><primary>Application_Green_Quake.ViewModels.GetAchievementsData</primary><secondary>ledLightBulbCount</secondary></indexterm>
+<para><computeroutput>int Application_Green_Quake.ViewModels.GetAchievementsData.ledLightBulbCount = 0<computeroutput>[static]</computeroutput></computeroutput></para><para>
+Definition at line 32 of file GetAchievementsData.cs.</para>
+    </section><anchor xml:id="_class_application___green___quake_1_1_view_models_1_1_get_achievements_data_1aaebf72e15b08783eab30a72d487db02c"/>    <section>
+    <title>localCount</title>
+<indexterm><primary>localCount</primary><secondary>Application_Green_Quake.ViewModels.GetAchievementsData</secondary></indexterm>
+<indexterm><primary>Application_Green_Quake.ViewModels.GetAchievementsData</primary><secondary>localCount</secondary></indexterm>
+<para><computeroutput>int Application_Green_Quake.ViewModels.GetAchievementsData.localCount = 0<computeroutput>[static]</computeroutput></computeroutput></para><para>
+Definition at line 75 of file GetAchievementsData.cs.</para>
+    </section><anchor xml:id="_class_application___green___quake_1_1_view_models_1_1_get_achievements_data_1adfa13a38d232a84483dd6c215b2802f6"/>    <section>
+    <title>looseLeafCount</title>
+<indexterm><primary>looseLeafCount</primary><secondary>Application_Green_Quake.ViewModels.GetAchievementsData</secondary></indexterm>
+<indexterm><primary>Application_Green_Quake.ViewModels.GetAchievementsData</primary><secondary>looseLeafCount</secondary></indexterm>
+<para><computeroutput>int Application_Green_Quake.ViewModels.GetAchievementsData.looseLeafCount = 0<computeroutput>[static]</computeroutput></computeroutput></para><para>
+Definition at line 76 of file GetAchievementsData.cs.</para>
+    </section><anchor xml:id="_class_application___green___quake_1_1_view_models_1_1_get_achievements_data_1ae89fcf9e29e2cb80ba0307adcdb72880"/>    <section>
+    <title>matchesCount</title>
+<indexterm><primary>matchesCount</primary><secondary>Application_Green_Quake.ViewModels.GetAchievementsData</secondary></indexterm>
+<indexterm><primary>Application_Green_Quake.ViewModels.GetAchievementsData</primary><secondary>matchesCount</secondary></indexterm>
+<para><computeroutput>int Application_Green_Quake.ViewModels.GetAchievementsData.matchesCount = 0<computeroutput>[static]</computeroutput></computeroutput></para><para>
+Definition at line 53 of file GetAchievementsData.cs.</para>
+    </section><anchor xml:id="_class_application___green___quake_1_1_view_models_1_1_get_achievements_data_1a24ba085ce20330852ece50938748c57f"/>    <section>
+    <title>microwaveCount</title>
+<indexterm><primary>microwaveCount</primary><secondary>Application_Green_Quake.ViewModels.GetAchievementsData</secondary></indexterm>
+<indexterm><primary>Application_Green_Quake.ViewModels.GetAchievementsData</primary><secondary>microwaveCount</secondary></indexterm>
+<para><computeroutput>int Application_Green_Quake.ViewModels.GetAchievementsData.microwaveCount = 0<computeroutput>[static]</computeroutput></computeroutput></para><para>
+Definition at line 33 of file GetAchievementsData.cs.</para>
+    </section><anchor xml:id="_class_application___green___quake_1_1_view_models_1_1_get_achievements_data_1a32fd462e65f8b8d2fd2b5444d9f13089"/>    <section>
+    <title>noMeatCount</title>
+<indexterm><primary>noMeatCount</primary><secondary>Application_Green_Quake.ViewModels.GetAchievementsData</secondary></indexterm>
+<indexterm><primary>Application_Green_Quake.ViewModels.GetAchievementsData</primary><secondary>noMeatCount</secondary></indexterm>
+<para><computeroutput>int Application_Green_Quake.ViewModels.GetAchievementsData.noMeatCount = 0<computeroutput>[static]</computeroutput></computeroutput></para><para>
+Definition at line 43 of file GetAchievementsData.cs.</para>
+    </section><anchor xml:id="_class_application___green___quake_1_1_view_models_1_1_get_achievements_data_1a43a544e06a858cfa7d76b3d6395f2f57"/>    <section>
+    <title>nonHarmCount</title>
+<indexterm><primary>nonHarmCount</primary><secondary>Application_Green_Quake.ViewModels.GetAchievementsData</secondary></indexterm>
+<indexterm><primary>Application_Green_Quake.ViewModels.GetAchievementsData</primary><secondary>nonHarmCount</secondary></indexterm>
+<para><computeroutput>int Application_Green_Quake.ViewModels.GetAchievementsData.nonHarmCount = 0<computeroutput>[static]</computeroutput></computeroutput></para><para>
+Definition at line 55 of file GetAchievementsData.cs.</para>
+    </section><anchor xml:id="_class_application___green___quake_1_1_view_models_1_1_get_achievements_data_1afade0e60a99bf8f78bd434f66bef9027"/>    <section>
+    <title>offElectronicsCount</title>
+<indexterm><primary>offElectronicsCount</primary><secondary>Application_Green_Quake.ViewModels.GetAchievementsData</secondary></indexterm>
+<indexterm><primary>Application_Green_Quake.ViewModels.GetAchievementsData</primary><secondary>offElectronicsCount</secondary></indexterm>
+<para><computeroutput>int Application_Green_Quake.ViewModels.GetAchievementsData.offElectronicsCount = 0<computeroutput>[static]</computeroutput></computeroutput></para><para>
+Definition at line 95 of file GetAchievementsData.cs.</para>
+    </section><anchor xml:id="_class_application___green___quake_1_1_view_models_1_1_get_achievements_data_1a293ccbbee07c21a930bfae30df4f990a"/>    <section>
+    <title>offLigtsCount</title>
+<indexterm><primary>offLigtsCount</primary><secondary>Application_Green_Quake.ViewModels.GetAchievementsData</secondary></indexterm>
+<indexterm><primary>Application_Green_Quake.ViewModels.GetAchievementsData</primary><secondary>offLigtsCount</secondary></indexterm>
+<para><computeroutput>int Application_Green_Quake.ViewModels.GetAchievementsData.offLigtsCount = 0<computeroutput>[static]</computeroutput></computeroutput></para><para>
+Definition at line 52 of file GetAchievementsData.cs.</para>
+    </section><anchor xml:id="_class_application___green___quake_1_1_view_models_1_1_get_achievements_data_1a59b872386338c0e1285efd9fb1bb1121"/>    <section>
+    <title>offSocketCount</title>
+<indexterm><primary>offSocketCount</primary><secondary>Application_Green_Quake.ViewModels.GetAchievementsData</secondary></indexterm>
+<indexterm><primary>Application_Green_Quake.ViewModels.GetAchievementsData</primary><secondary>offSocketCount</secondary></indexterm>
+<para><computeroutput>int Application_Green_Quake.ViewModels.GetAchievementsData.offSocketCount = 0<computeroutput>[static]</computeroutput></computeroutput></para><para>
+Definition at line 34 of file GetAchievementsData.cs.</para>
+    </section><anchor xml:id="_class_application___green___quake_1_1_view_models_1_1_get_achievements_data_1a2b4da0115b32aa8847ef5aa26d303b80"/>    <section>
+    <title>organicFoodCount</title>
+<indexterm><primary>organicFoodCount</primary><secondary>Application_Green_Quake.ViewModels.GetAchievementsData</secondary></indexterm>
+<indexterm><primary>Application_Green_Quake.ViewModels.GetAchievementsData</primary><secondary>organicFoodCount</secondary></indexterm>
+<para><computeroutput>int Application_Green_Quake.ViewModels.GetAchievementsData.organicFoodCount = 0<computeroutput>[static]</computeroutput></computeroutput></para><para>
+Definition at line 77 of file GetAchievementsData.cs.</para>
+    </section><anchor xml:id="_class_application___green___quake_1_1_view_models_1_1_get_achievements_data_1a425a12cb8e07d1a2ef0b44188e988ee1"/>    <section>
+    <title>outsideCount</title>
+<indexterm><primary>outsideCount</primary><secondary>Application_Green_Quake.ViewModels.GetAchievementsData</secondary></indexterm>
+<indexterm><primary>Application_Green_Quake.ViewModels.GetAchievementsData</primary><secondary>outsideCount</secondary></indexterm>
+<para><computeroutput>int Application_Green_Quake.ViewModels.GetAchievementsData.outsideCount = 0<computeroutput>[static]</computeroutput></computeroutput></para><para>
+Definition at line 56 of file GetAchievementsData.cs.</para>
+    </section><anchor xml:id="_class_application___green___quake_1_1_view_models_1_1_get_achievements_data_1a9677ad3738f006ea38ba31da28ce4b0f"/>    <section>
+    <title>ownCoffeeCount</title>
+<indexterm><primary>ownCoffeeCount</primary><secondary>Application_Green_Quake.ViewModels.GetAchievementsData</secondary></indexterm>
+<indexterm><primary>Application_Green_Quake.ViewModels.GetAchievementsData</primary><secondary>ownCoffeeCount</secondary></indexterm>
+<para><computeroutput>int Application_Green_Quake.ViewModels.GetAchievementsData.ownCoffeeCount = 0<computeroutput>[static]</computeroutput></computeroutput></para><para>
+Definition at line 44 of file GetAchievementsData.cs.</para>
+    </section><anchor xml:id="_class_application___green___quake_1_1_view_models_1_1_get_achievements_data_1aa67166bd291aab5114515904802a83c8"/>    <section>
+    <title>paperCount</title>
+<indexterm><primary>paperCount</primary><secondary>Application_Green_Quake.ViewModels.GetAchievementsData</secondary></indexterm>
+<indexterm><primary>Application_Green_Quake.ViewModels.GetAchievementsData</primary><secondary>paperCount</secondary></indexterm>
+<para><computeroutput>int Application_Green_Quake.ViewModels.GetAchievementsData.paperCount = 0<computeroutput>[static]</computeroutput></computeroutput></para><para>
+Definition at line 94 of file GetAchievementsData.cs.</para>
+    </section><anchor xml:id="_class_application___green___quake_1_1_view_models_1_1_get_achievements_data_1af62b87b60b377191e74d7e3d11e1f611"/>    <section>
+    <title>picnicCount</title>
+<indexterm><primary>picnicCount</primary><secondary>Application_Green_Quake.ViewModels.GetAchievementsData</secondary></indexterm>
+<indexterm><primary>Application_Green_Quake.ViewModels.GetAchievementsData</primary><secondary>picnicCount</secondary></indexterm>
+<para><computeroutput>int Application_Green_Quake.ViewModels.GetAchievementsData.picnicCount = 0<computeroutput>[static]</computeroutput></computeroutput></para><para>
+Definition at line 60 of file GetAchievementsData.cs.</para>
+    </section><anchor xml:id="_class_application___green___quake_1_1_view_models_1_1_get_achievements_data_1a0882fe3ca6ca1b6a2051fb36930a55e9"/>    <section>
+    <title>plantBushCount</title>
+<indexterm><primary>plantBushCount</primary><secondary>Application_Green_Quake.ViewModels.GetAchievementsData</secondary></indexterm>
+<indexterm><primary>Application_Green_Quake.ViewModels.GetAchievementsData</primary><secondary>plantBushCount</secondary></indexterm>
+<para><computeroutput>int Application_Green_Quake.ViewModels.GetAchievementsData.plantBushCount = 0<computeroutput>[static]</computeroutput></computeroutput></para><para>
+Definition at line 61 of file GetAchievementsData.cs.</para>
+    </section><anchor xml:id="_class_application___green___quake_1_1_view_models_1_1_get_achievements_data_1ae67175ced691b604de3f9cca679fc2a3"/>    <section>
+    <title>plantFlowerCount</title>
+<indexterm><primary>plantFlowerCount</primary><secondary>Application_Green_Quake.ViewModels.GetAchievementsData</secondary></indexterm>
+<indexterm><primary>Application_Green_Quake.ViewModels.GetAchievementsData</primary><secondary>plantFlowerCount</secondary></indexterm>
+<para><computeroutput>int Application_Green_Quake.ViewModels.GetAchievementsData.plantFlowerCount = 0<computeroutput>[static]</computeroutput></computeroutput></para><para>
+Definition at line 62 of file GetAchievementsData.cs.</para>
+    </section><anchor xml:id="_class_application___green___quake_1_1_view_models_1_1_get_achievements_data_1a3faa4187de8bd6fe4a017dd3db9e500a"/>    <section>
+    <title>plantIntoHomeCount</title>
+<indexterm><primary>plantIntoHomeCount</primary><secondary>Application_Green_Quake.ViewModels.GetAchievementsData</secondary></indexterm>
+<indexterm><primary>Application_Green_Quake.ViewModels.GetAchievementsData</primary><secondary>plantIntoHomeCount</secondary></indexterm>
+<para><computeroutput>int Application_Green_Quake.ViewModels.GetAchievementsData.plantIntoHomeCount = 0<computeroutput>[static]</computeroutput></computeroutput></para><para>
+Definition at line 57 of file GetAchievementsData.cs.</para>
+    </section><anchor xml:id="_class_application___green___quake_1_1_view_models_1_1_get_achievements_data_1a35afbbd85741fc5556353170d5f5d466"/>    <section>
+    <title>plantTreeCount</title>
+<indexterm><primary>plantTreeCount</primary><secondary>Application_Green_Quake.ViewModels.GetAchievementsData</secondary></indexterm>
+<indexterm><primary>Application_Green_Quake.ViewModels.GetAchievementsData</primary><secondary>plantTreeCount</secondary></indexterm>
+<para><computeroutput>int Application_Green_Quake.ViewModels.GetAchievementsData.plantTreeCount = 0<computeroutput>[static]</computeroutput></computeroutput></para><para>
+Definition at line 63 of file GetAchievementsData.cs.</para>
+    </section><anchor xml:id="_class_application___green___quake_1_1_view_models_1_1_get_achievements_data_1a35fafddbe7a2830b2b4298ba2e82ec9a"/>    <section>
+    <title>productCount</title>
+<indexterm><primary>productCount</primary><secondary>Application_Green_Quake.ViewModels.GetAchievementsData</secondary></indexterm>
+<indexterm><primary>Application_Green_Quake.ViewModels.GetAchievementsData</primary><secondary>productCount</secondary></indexterm>
+<para><computeroutput>int Application_Green_Quake.ViewModels.GetAchievementsData.productCount = 0<computeroutput>[static]</computeroutput></computeroutput></para><para>
+Definition at line 72 of file GetAchievementsData.cs.</para>
+    </section><anchor xml:id="_class_application___green___quake_1_1_view_models_1_1_get_achievements_data_1a99ac38c24bccb455abbd22c55893ea94"/>    <section>
+    <title>rainBarrelCount</title>
+<indexterm><primary>rainBarrelCount</primary><secondary>Application_Green_Quake.ViewModels.GetAchievementsData</secondary></indexterm>
+<indexterm><primary>Application_Green_Quake.ViewModels.GetAchievementsData</primary><secondary>rainBarrelCount</secondary></indexterm>
+<para><computeroutput>int Application_Green_Quake.ViewModels.GetAchievementsData.rainBarrelCount = 0<computeroutput>[static]</computeroutput></computeroutput></para><para>
+Definition at line 91 of file GetAchievementsData.cs.</para>
+    </section><anchor xml:id="_class_application___green___quake_1_1_view_models_1_1_get_achievements_data_1a4dc733c1ef5a9919edb2213b25256e23"/>    <section>
+    <title>reBagCount</title>
+<indexterm><primary>reBagCount</primary><secondary>Application_Green_Quake.ViewModels.GetAchievementsData</secondary></indexterm>
+<indexterm><primary>Application_Green_Quake.ViewModels.GetAchievementsData</primary><secondary>reBagCount</secondary></indexterm>
+<para><computeroutput>int Application_Green_Quake.ViewModels.GetAchievementsData.reBagCount = 0<computeroutput>[static]</computeroutput></computeroutput></para><para>
+Definition at line 79 of file GetAchievementsData.cs.</para>
+    </section><anchor xml:id="_class_application___green___quake_1_1_view_models_1_1_get_achievements_data_1a2ccee26b51ff6157d18c10334496e96c"/>    <section>
+    <title>reBatCount</title>
+<indexterm><primary>reBatCount</primary><secondary>Application_Green_Quake.ViewModels.GetAchievementsData</secondary></indexterm>
+<indexterm><primary>Application_Green_Quake.ViewModels.GetAchievementsData</primary><secondary>reBatCount</secondary></indexterm>
+<para><computeroutput>int Application_Green_Quake.ViewModels.GetAchievementsData.reBatCount = 0<computeroutput>[static]</computeroutput></computeroutput></para><para>
+Definition at line 36 of file GetAchievementsData.cs.</para>
+    </section><anchor xml:id="_class_application___green___quake_1_1_view_models_1_1_get_achievements_data_1a3fafe98faa685a33518069ebdd4ed5dc"/>    <section>
+    <title>reBatteriesCount</title>
+<indexterm><primary>reBatteriesCount</primary><secondary>Application_Green_Quake.ViewModels.GetAchievementsData</secondary></indexterm>
+<indexterm><primary>Application_Green_Quake.ViewModels.GetAchievementsData</primary><secondary>reBatteriesCount</secondary></indexterm>
+<para><computeroutput>int Application_Green_Quake.ViewModels.GetAchievementsData.reBatteriesCount = 0<computeroutput>[static]</computeroutput></computeroutput></para><para>
+Definition at line 35 of file GetAchievementsData.cs.</para>
+    </section><anchor xml:id="_class_application___green___quake_1_1_view_models_1_1_get_achievements_data_1a64bc5708a56f034b455e103462daefbb"/>    <section>
+    <title>reCoffeeMugCount</title>
+<indexterm><primary>reCoffeeMugCount</primary><secondary>Application_Green_Quake.ViewModels.GetAchievementsData</secondary></indexterm>
+<indexterm><primary>Application_Green_Quake.ViewModels.GetAchievementsData</primary><secondary>reCoffeeMugCount</secondary></indexterm>
+<para><computeroutput>int Application_Green_Quake.ViewModels.GetAchievementsData.reCoffeeMugCount = 0<computeroutput>[static]</computeroutput></computeroutput></para><para>
+Definition at line 45 of file GetAchievementsData.cs.</para>
+    </section><anchor xml:id="_class_application___green___quake_1_1_view_models_1_1_get_achievements_data_1a4fdd70df3501738009752a4d8f86d856"/>    <section>
+    <title>recyclingBinCount</title>
+<indexterm><primary>recyclingBinCount</primary><secondary>Application_Green_Quake.ViewModels.GetAchievementsData</secondary></indexterm>
+<indexterm><primary>Application_Green_Quake.ViewModels.GetAchievementsData</primary><secondary>recyclingBinCount</secondary></indexterm>
+<para><computeroutput>int Application_Green_Quake.ViewModels.GetAchievementsData.recyclingBinCount = 0<computeroutput>[static]</computeroutput></computeroutput></para><para>
+Definition at line 89 of file GetAchievementsData.cs.</para>
+    </section><anchor xml:id="_class_application___green___quake_1_1_view_models_1_1_get_achievements_data_1aeec72049ac50c0c52b590fab233e235d"/>    <section>
+    <title>remoteWorkCount</title>
+<indexterm><primary>remoteWorkCount</primary><secondary>Application_Green_Quake.ViewModels.GetAchievementsData</secondary></indexterm>
+<indexterm><primary>Application_Green_Quake.ViewModels.GetAchievementsData</primary><secondary>remoteWorkCount</secondary></indexterm>
+<para><computeroutput>int Application_Green_Quake.ViewModels.GetAchievementsData.remoteWorkCount = 0<computeroutput>[static]</computeroutput></computeroutput></para><para>
+Definition at line 96 of file GetAchievementsData.cs.</para>
+    </section><anchor xml:id="_class_application___green___quake_1_1_view_models_1_1_get_achievements_data_1acdfcddda297ee3275fef27c8a407746c"/>    <section>
+    <title>reusableCount</title>
+<indexterm><primary>reusableCount</primary><secondary>Application_Green_Quake.ViewModels.GetAchievementsData</secondary></indexterm>
+<indexterm><primary>Application_Green_Quake.ViewModels.GetAchievementsData</primary><secondary>reusableCount</secondary></indexterm>
+<para><computeroutput>int Application_Green_Quake.ViewModels.GetAchievementsData.reusableCount = 0<computeroutput>[static]</computeroutput></computeroutput></para><para>
+Definition at line 78 of file GetAchievementsData.cs.</para>
+    </section><anchor xml:id="_class_application___green___quake_1_1_view_models_1_1_get_achievements_data_1a083322446dd006bfd904b3677236ed83"/>    <section>
+    <title>reWaterCount</title>
+<indexterm><primary>reWaterCount</primary><secondary>Application_Green_Quake.ViewModels.GetAchievementsData</secondary></indexterm>
+<indexterm><primary>Application_Green_Quake.ViewModels.GetAchievementsData</primary><secondary>reWaterCount</secondary></indexterm>
+<para><computeroutput>int Application_Green_Quake.ViewModels.GetAchievementsData.reWaterCount = 0<computeroutput>[static]</computeroutput></computeroutput></para><para>
+Definition at line 92 of file GetAchievementsData.cs.</para>
+    </section><anchor xml:id="_class_application___green___quake_1_1_view_models_1_1_get_achievements_data_1a037f9ac09bc293ca5fde79ad3665886d"/>    <section>
+    <title>saveLeftOversCount</title>
+<indexterm><primary>saveLeftOversCount</primary><secondary>Application_Green_Quake.ViewModels.GetAchievementsData</secondary></indexterm>
+<indexterm><primary>Application_Green_Quake.ViewModels.GetAchievementsData</primary><secondary>saveLeftOversCount</secondary></indexterm>
+<para><computeroutput>int Application_Green_Quake.ViewModels.GetAchievementsData.saveLeftOversCount = 0<computeroutput>[static]</computeroutput></computeroutput></para><para>
+Definition at line 46 of file GetAchievementsData.cs.</para>
+    </section><anchor xml:id="_class_application___green___quake_1_1_view_models_1_1_get_achievements_data_1a3bd3179d7fe825a221b5af8960b56bbe"/>    <section>
+    <title>scoopCount</title>
+<indexterm><primary>scoopCount</primary><secondary>Application_Green_Quake.ViewModels.GetAchievementsData</secondary></indexterm>
+<indexterm><primary>Application_Green_Quake.ViewModels.GetAchievementsData</primary><secondary>scoopCount</secondary></indexterm>
+<para><computeroutput>int Application_Green_Quake.ViewModels.GetAchievementsData.scoopCount = 0<computeroutput>[static]</computeroutput></computeroutput></para><para>
+Definition at line 64 of file GetAchievementsData.cs.</para>
+    </section><anchor xml:id="_class_application___green___quake_1_1_view_models_1_1_get_achievements_data_1a50af8ad7c6516faf4190565e2efc6ffd"/>    <section>
+    <title>setUpRecyclingBinCount</title>
+<indexterm><primary>setUpRecyclingBinCount</primary><secondary>Application_Green_Quake.ViewModels.GetAchievementsData</secondary></indexterm>
+<indexterm><primary>Application_Green_Quake.ViewModels.GetAchievementsData</primary><secondary>setUpRecyclingBinCount</secondary></indexterm>
+<para><computeroutput>int Application_Green_Quake.ViewModels.GetAchievementsData.setUpRecyclingBinCount = 0<computeroutput>[static]</computeroutput></computeroutput></para><para>
+Definition at line 87 of file GetAchievementsData.cs.</para>
+    </section><anchor xml:id="_class_application___green___quake_1_1_view_models_1_1_get_achievements_data_1ac363b943cc6a95f382a4de11c6d1562b"/>    <section>
+    <title>shareCount</title>
+<indexterm><primary>shareCount</primary><secondary>Application_Green_Quake.ViewModels.GetAchievementsData</secondary></indexterm>
+<indexterm><primary>Application_Green_Quake.ViewModels.GetAchievementsData</primary><secondary>shareCount</secondary></indexterm>
+<para><computeroutput>int Application_Green_Quake.ViewModels.GetAchievementsData.shareCount = 0<computeroutput>[static]</computeroutput></computeroutput></para><para>
+Definition at line 26 of file GetAchievementsData.cs.</para>
+    </section><anchor xml:id="_class_application___green___quake_1_1_view_models_1_1_get_achievements_data_1addfb475a35ced34ff5d9e0cc06150397"/>    <section>
+    <title>showerBucketCount</title>
+<indexterm><primary>showerBucketCount</primary><secondary>Application_Green_Quake.ViewModels.GetAchievementsData</secondary></indexterm>
+<indexterm><primary>Application_Green_Quake.ViewModels.GetAchievementsData</primary><secondary>showerBucketCount</secondary></indexterm>
+<para><computeroutput>int Application_Green_Quake.ViewModels.GetAchievementsData.showerBucketCount = 0<computeroutput>[static]</computeroutput></computeroutput></para><para>
+Definition at line 93 of file GetAchievementsData.cs.</para>
+    </section><anchor xml:id="_class_application___green___quake_1_1_view_models_1_1_get_achievements_data_1a8f06c4eab10a00ad39e2c7c683721f64"/>    <section>
+    <title>showerCount</title>
+<indexterm><primary>showerCount</primary><secondary>Application_Green_Quake.ViewModels.GetAchievementsData</secondary></indexterm>
+<indexterm><primary>Application_Green_Quake.ViewModels.GetAchievementsData</primary><secondary>showerCount</secondary></indexterm>
+<para><computeroutput>int Application_Green_Quake.ViewModels.GetAchievementsData.showerCount = 0<computeroutput>[static]</computeroutput></computeroutput></para><para>
+Definition at line 50 of file GetAchievementsData.cs.</para>
+    </section><anchor xml:id="_class_application___green___quake_1_1_view_models_1_1_get_achievements_data_1aba1418390902d97f9577763b52c9aefe"/>    <section>
+    <title>solarPanelCount</title>
+<indexterm><primary>solarPanelCount</primary><secondary>Application_Green_Quake.ViewModels.GetAchievementsData</secondary></indexterm>
+<indexterm><primary>Application_Green_Quake.ViewModels.GetAchievementsData</primary><secondary>solarPanelCount</secondary></indexterm>
+<para><computeroutput>int Application_Green_Quake.ViewModels.GetAchievementsData.solarPanelCount = 0<computeroutput>[static]</computeroutput></computeroutput></para><para>
+Definition at line 40 of file GetAchievementsData.cs.</para>
+    </section><anchor xml:id="_class_application___green___quake_1_1_view_models_1_1_get_achievements_data_1ac5bc9992923b0c99f465d503d7a5b386"/>    <section>
+    <title>steelStrawCount</title>
+<indexterm><primary>steelStrawCount</primary><secondary>Application_Green_Quake.ViewModels.GetAchievementsData</secondary></indexterm>
+<indexterm><primary>Application_Green_Quake.ViewModels.GetAchievementsData</primary><secondary>steelStrawCount</secondary></indexterm>
+<para><computeroutput>int Application_Green_Quake.ViewModels.GetAchievementsData.steelStrawCount = 0<computeroutput>[static]</computeroutput></computeroutput></para><para>
+Definition at line 47 of file GetAchievementsData.cs.</para>
+    </section><anchor xml:id="_class_application___green___quake_1_1_view_models_1_1_get_achievements_data_1aa077b5294da0c32c54a576643d41f4d5"/>    <section>
+    <title>timedShowerCount</title>
+<indexterm><primary>timedShowerCount</primary><secondary>Application_Green_Quake.ViewModels.GetAchievementsData</secondary></indexterm>
+<indexterm><primary>Application_Green_Quake.ViewModels.GetAchievementsData</primary><secondary>timedShowerCount</secondary></indexterm>
+<para><computeroutput>int Application_Green_Quake.ViewModels.GetAchievementsData.timedShowerCount = 0<computeroutput>[static]</computeroutput></computeroutput></para><para>
+Definition at line 51 of file GetAchievementsData.cs.</para>
+    </section><anchor xml:id="_class_application___green___quake_1_1_view_models_1_1_get_achievements_data_1a9589be38a86b8dd237dc06165a6a86aa"/>    <section>
+    <title>toiletFlushCount</title>
+<indexterm><primary>toiletFlushCount</primary><secondary>Application_Green_Quake.ViewModels.GetAchievementsData</secondary></indexterm>
+<indexterm><primary>Application_Green_Quake.ViewModels.GetAchievementsData</primary><secondary>toiletFlushCount</secondary></indexterm>
+<para><computeroutput>int Application_Green_Quake.ViewModels.GetAchievementsData.toiletFlushCount = 0<computeroutput>[static]</computeroutput></computeroutput></para><para>
+Definition at line 58 of file GetAchievementsData.cs.</para>
+    </section><anchor xml:id="_class_application___green___quake_1_1_view_models_1_1_get_achievements_data_1ac3140ceb524a2f45e70e361857d58710"/>    <section>
+    <title>toothbrushCount</title>
+<indexterm><primary>toothbrushCount</primary><secondary>Application_Green_Quake.ViewModels.GetAchievementsData</secondary></indexterm>
+<indexterm><primary>Application_Green_Quake.ViewModels.GetAchievementsData</primary><secondary>toothbrushCount</secondary></indexterm>
+<para><computeroutput>int Application_Green_Quake.ViewModels.GetAchievementsData.toothbrushCount = 0<computeroutput>[static]</computeroutput></computeroutput></para><para>
+Definition at line 73 of file GetAchievementsData.cs.</para>
+    </section><anchor xml:id="_class_application___green___quake_1_1_view_models_1_1_get_achievements_data_1a0ea5d4e184c489da7a377873ca2e28c7"/>    <section>
+    <title>transportCount</title>
+<indexterm><primary>transportCount</primary><secondary>Application_Green_Quake.ViewModels.GetAchievementsData</secondary></indexterm>
+<indexterm><primary>Application_Green_Quake.ViewModels.GetAchievementsData</primary><secondary>transportCount</secondary></indexterm>
+<para><computeroutput>int Application_Green_Quake.ViewModels.GetAchievementsData.transportCount = 0<computeroutput>[static]</computeroutput></computeroutput></para><para>
+Definition at line 83 of file GetAchievementsData.cs.</para>
+    </section><anchor xml:id="_class_application___green___quake_1_1_view_models_1_1_get_achievements_data_1af6a8a538b9ef8993723c63bc7a4f7ea6"/>    <section>
+    <title>vegetableGardenCount</title>
+<indexterm><primary>vegetableGardenCount</primary><secondary>Application_Green_Quake.ViewModels.GetAchievementsData</secondary></indexterm>
+<indexterm><primary>Application_Green_Quake.ViewModels.GetAchievementsData</primary><secondary>vegetableGardenCount</secondary></indexterm>
+<para><computeroutput>int Application_Green_Quake.ViewModels.GetAchievementsData.vegetableGardenCount = 0<computeroutput>[static]</computeroutput></computeroutput></para><para>
+Definition at line 67 of file GetAchievementsData.cs.</para>
+    </section><anchor xml:id="_class_application___green___quake_1_1_view_models_1_1_get_achievements_data_1a4997b99a43472826bc0bcd5062ce5f97"/>    <section>
+    <title>walkCount</title>
+<indexterm><primary>walkCount</primary><secondary>Application_Green_Quake.ViewModels.GetAchievementsData</secondary></indexterm>
+<indexterm><primary>Application_Green_Quake.ViewModels.GetAchievementsData</primary><secondary>walkCount</secondary></indexterm>
+<para><computeroutput>int Application_Green_Quake.ViewModels.GetAchievementsData.walkCount = 0<computeroutput>[static]</computeroutput></computeroutput></para><para>
+Definition at line 84 of file GetAchievementsData.cs.</para>
+    </section><anchor xml:id="_class_application___green___quake_1_1_view_models_1_1_get_achievements_data_1a537d55c5c2eabd46641588331686e361"/>    <section>
+    <title>waterOverFizzyCount</title>
+<indexterm><primary>waterOverFizzyCount</primary><secondary>Application_Green_Quake.ViewModels.GetAchievementsData</secondary></indexterm>
+<indexterm><primary>Application_Green_Quake.ViewModels.GetAchievementsData</primary><secondary>waterOverFizzyCount</secondary></indexterm>
+<para><computeroutput>int Application_Green_Quake.ViewModels.GetAchievementsData.waterOverFizzyCount = 0<computeroutput>[static]</computeroutput></computeroutput></para><para>
+Definition at line 21 of file GetAchievementsData.cs.</para>
+    </section><anchor xml:id="_class_application___green___quake_1_1_view_models_1_1_get_achievements_data_1af53f44cf1e227f932badbfe6775ee6e0"/>    <section>
+    <title>wSShowerHeadCount</title>
+<indexterm><primary>wSShowerHeadCount</primary><secondary>Application_Green_Quake.ViewModels.GetAchievementsData</secondary></indexterm>
+<indexterm><primary>Application_Green_Quake.ViewModels.GetAchievementsData</primary><secondary>wSShowerHeadCount</secondary></indexterm>
+<para><computeroutput>int Application_Green_Quake.ViewModels.GetAchievementsData.wSShowerHeadCount = 0<computeroutput>[static]</computeroutput></computeroutput></para><para>
+Definition at line 20 of file GetAchievementsData.cs.</para>
+</section>
+<para>
+The documentation for this class was generated from the following file:</para>
+Application Green Quake/ViewModels/<link linkend="__get_achievements_data_8cs">GetAchievementsData.cs</link></section>
+</section>

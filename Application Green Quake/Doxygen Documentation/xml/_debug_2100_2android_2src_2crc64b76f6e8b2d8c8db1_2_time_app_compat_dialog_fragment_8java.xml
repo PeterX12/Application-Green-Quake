@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.9.1" xml:lang="en-US">
+  <compounddef id="_debug_2100_2android_2src_2crc64b76f6e8b2d8c8db1_2_time_app_compat_dialog_fragment_8java" kind="file" language="Java">
+    <compoundname>TimeAppCompatDialogFragment.java</compoundname>
+    <innerclass refid="classcrc64b76f6e8b2d8c8db1_1_1_time_app_compat_dialog_fragment" prot="public">crc64b76f6e8b2d8c8db1::TimeAppCompatDialogFragment</innerclass>
+    <innernamespace refid="namespacecrc64b76f6e8b2d8c8db1">crc64b76f6e8b2d8c8db1</innernamespace>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <programlisting>
+<codeline lineno="1"><highlight class="keyword">package<sp/></highlight><highlight class="normal">crc64b76f6e8b2d8c8db1;</highlight></codeline>
+<codeline lineno="2"><highlight class="normal"></highlight></codeline>
+<codeline lineno="3"><highlight class="normal"></highlight></codeline>
+<codeline lineno="4" refid="classcrc64b76f6e8b2d8c8db1_1_1_time_app_compat_dialog_fragment" refkind="compound"><highlight class="normal"></highlight><highlight class="keyword">public</highlight><highlight class="normal"><sp/></highlight><highlight class="keyword">class<sp/></highlight><highlight class="normal"><ref refid="classcrc64b76f6e8b2d8c8db1_1_1_time_app_compat_dialog_fragment" kindref="compound">TimeAppCompatDialogFragment</ref></highlight></codeline>
+<codeline lineno="5"><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">extends</highlight><highlight class="normal"><sp/><ref refid="namespacecrc64b76f6e8b2d8c8db1" kindref="compound">crc64b76f6e8b2d8c8db1</ref>.<ref refid="classcrc64b76f6e8b2d8c8db1_1_1_abstract_app_compat_dialog_fragment__1" kindref="compound">AbstractAppCompatDialogFragment_1</ref></highlight></codeline>
+<codeline lineno="6"><highlight class="normal"><sp/><sp/><sp/><sp/>implements</highlight></codeline>
+<codeline lineno="7"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>mono.android.IGCUserPeer</highlight></codeline>
+<codeline lineno="8"><highlight class="normal">{</highlight></codeline>
+<codeline lineno="10" refid="classcrc64b76f6e8b2d8c8db1_1_1_time_app_compat_dialog_fragment_1a13b0cadc801905c5d582406041b9f373" refkind="member"><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">public</highlight><highlight class="normal"><sp/></highlight><highlight class="keyword">static</highlight><highlight class="normal"><sp/></highlight><highlight class="keyword">final</highlight><highlight class="normal"><sp/>String<sp/><ref refid="classcrc64b76f6e8b2d8c8db1_1_1_time_app_compat_dialog_fragment_1a13b0cadc801905c5d582406041b9f373" kindref="member">__md_methods</ref>;</highlight></codeline>
+<codeline lineno="11"><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">static</highlight><highlight class="normal"><sp/>{</highlight></codeline>
+<codeline lineno="12"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><ref refid="classcrc64b76f6e8b2d8c8db1_1_1_time_app_compat_dialog_fragment_1a13b0cadc801905c5d582406041b9f373" kindref="member">__md_methods</ref><sp/>=<sp/></highlight></codeline>
+<codeline lineno="13"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="stringliteral">&quot;&quot;</highlight><highlight class="normal">;</highlight></codeline>
+<codeline lineno="14"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>mono.android.Runtime.register<sp/>(</highlight><highlight class="stringliteral">&quot;Acr.UserDialogs.Fragments.TimeAppCompatDialogFragment,<sp/>Acr.UserDialogs&quot;</highlight><highlight class="normal">,<sp/><ref refid="classcrc64b76f6e8b2d8c8db1_1_1_time_app_compat_dialog_fragment" kindref="compound">TimeAppCompatDialogFragment</ref>.class,<sp/><ref refid="classcrc64b76f6e8b2d8c8db1_1_1_time_app_compat_dialog_fragment_1a13b0cadc801905c5d582406041b9f373" kindref="member">__md_methods</ref>);</highlight></codeline>
+<codeline lineno="15"><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline lineno="16"><highlight class="normal"></highlight></codeline>
+<codeline lineno="17"><highlight class="normal"></highlight></codeline>
+<codeline lineno="18" refid="classcrc64b76f6e8b2d8c8db1_1_1_time_app_compat_dialog_fragment_1a9328bddc8e66ab11dededdd4c4708a22" refkind="member"><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">public</highlight><highlight class="normal"><sp/><ref refid="classcrc64b76f6e8b2d8c8db1_1_1_time_app_compat_dialog_fragment_1a9328bddc8e66ab11dededdd4c4708a22" kindref="member">TimeAppCompatDialogFragment</ref><sp/>()</highlight></codeline>
+<codeline lineno="19"><highlight class="normal"><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline lineno="20"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>super<sp/>();</highlight></codeline>
+<codeline lineno="21"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">if</highlight><highlight class="normal"><sp/>(getClass<sp/>()<sp/>==<sp/><ref refid="classcrc64b76f6e8b2d8c8db1_1_1_time_app_compat_dialog_fragment" kindref="compound">TimeAppCompatDialogFragment</ref>.class)</highlight></codeline>
+<codeline lineno="22"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>mono.android.TypeManager.Activate<sp/>(</highlight><highlight class="stringliteral">&quot;Acr.UserDialogs.Fragments.TimeAppCompatDialogFragment,<sp/>Acr.UserDialogs&quot;</highlight><highlight class="normal">,<sp/></highlight><highlight class="stringliteral">&quot;&quot;</highlight><highlight class="normal">,<sp/></highlight><highlight class="keyword">this</highlight><highlight class="normal">,<sp/></highlight><highlight class="keyword">new</highlight><highlight class="normal"><sp/>java.lang.Object[]<sp/>{<sp/><sp/>});</highlight></codeline>
+<codeline lineno="23"><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline lineno="24"><highlight class="normal"></highlight></codeline>
+<codeline lineno="25"><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">private</highlight><highlight class="normal"><sp/>java.util.ArrayList<sp/>refList;</highlight></codeline>
+<codeline lineno="26" refid="classcrc64b76f6e8b2d8c8db1_1_1_time_app_compat_dialog_fragment_1a1251f15fcf4d12a9bd7389a5baee950c" refkind="member"><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">public</highlight><highlight class="normal"><sp/></highlight><highlight class="keywordtype">void</highlight><highlight class="normal"><sp/><ref refid="classcrc64b76f6e8b2d8c8db1_1_1_time_app_compat_dialog_fragment_1a1251f15fcf4d12a9bd7389a5baee950c" kindref="member">monodroidAddReference</ref><sp/>(java.lang.Object<sp/>obj)</highlight></codeline>
+<codeline lineno="27"><highlight class="normal"><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline lineno="28"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">if</highlight><highlight class="normal"><sp/>(refList<sp/>==<sp/></highlight><highlight class="keyword">null</highlight><highlight class="normal">)</highlight></codeline>
+<codeline lineno="29"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>refList<sp/>=<sp/></highlight><highlight class="keyword">new</highlight><highlight class="normal"><sp/>java.util.ArrayList<sp/>();</highlight></codeline>
+<codeline lineno="30"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>refList.add<sp/>(obj);</highlight></codeline>
+<codeline lineno="31"><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline lineno="32"><highlight class="normal"></highlight></codeline>
+<codeline lineno="33" refid="classcrc64b76f6e8b2d8c8db1_1_1_time_app_compat_dialog_fragment_1ab68cdf931e2442fba9f69bb41a5adca6" refkind="member"><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">public</highlight><highlight class="normal"><sp/></highlight><highlight class="keywordtype">void</highlight><highlight class="normal"><sp/><ref refid="classcrc64b76f6e8b2d8c8db1_1_1_time_app_compat_dialog_fragment_1ab68cdf931e2442fba9f69bb41a5adca6" kindref="member">monodroidClearReferences</ref><sp/>()</highlight></codeline>
+<codeline lineno="34"><highlight class="normal"><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline lineno="35"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">if</highlight><highlight class="normal"><sp/>(refList<sp/>!=<sp/></highlight><highlight class="keyword">null</highlight><highlight class="normal">)</highlight></codeline>
+<codeline lineno="36"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>refList.clear<sp/>();</highlight></codeline>
+<codeline lineno="37"><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline lineno="38"><highlight class="normal">}</highlight></codeline>
+    </programlisting>
+    <location file="Application Green Quake.Android/obj/Debug/100/android/src/crc64b76f6e8b2d8c8db1/TimeAppCompatDialogFragment.java"/>
+  </compounddef>
+</doxygen>

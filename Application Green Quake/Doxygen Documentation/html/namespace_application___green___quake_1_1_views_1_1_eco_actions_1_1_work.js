@@ -1,0 +1,6 @@
+var namespace_application___green___quake_1_1_views_1_1_eco_actions_1_1_work =
+[
+    [ "BothSidesPaper", "class_application___green___quake_1_1_views_1_1_eco_actions_1_1_work_1_1_both_sides_paper.html", "class_application___green___quake_1_1_views_1_1_eco_actions_1_1_work_1_1_both_sides_paper" ],
+    [ "OffElectronics", "class_application___green___quake_1_1_views_1_1_eco_actions_1_1_work_1_1_off_electronics.html", "class_application___green___quake_1_1_views_1_1_eco_actions_1_1_work_1_1_off_electronics" ],
+    [ "WorkingRemotely", "class_application___green___quake_1_1_views_1_1_eco_actions_1_1_work_1_1_working_remotely.html", "class_application___green___quake_1_1_views_1_1_eco_actions_1_1_work_1_1_working_remotely" ]
+];

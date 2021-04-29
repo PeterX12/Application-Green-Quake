@@ -1,0 +1,318 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<section xmlns="http://docbook.org/ns/docbook" version="5.0" xmlns:xlink="http://www.w3.org/1999/xlink" xml:id="_classcrc643f46942d9dd1fff9_1_1_empty_view_adapter" xml:lang="en-US">
+<title>crc643f46942d9dd1fff9.EmptyViewAdapter Class Reference</title>
+<indexterm><primary>crc643f46942d9dd1fff9.EmptyViewAdapter</primary></indexterm>
+Inheritance diagram for crc643f46942d9dd1fff9.EmptyViewAdapter:<para>
+    <informalfigure>
+        <mediaobject>
+            <imageobject>
+                <imagedata width="50%" align="center" valign="middle" scalefit="0" fileref="classcrc643f46942d9dd1fff9_1_1_empty_view_adapter__inherit__graph.png"></imagedata>
+            </imageobject>
+        </mediaobject>
+    </informalfigure>
+</para>
+Collaboration diagram for crc643f46942d9dd1fff9.EmptyViewAdapter:<para>
+    <informalfigure>
+        <mediaobject>
+            <imageobject>
+                <imagedata width="50%" align="center" valign="middle" scalefit="0" fileref="classcrc643f46942d9dd1fff9_1_1_empty_view_adapter__coll__graph.png"></imagedata>
+            </imageobject>
+        </mediaobject>
+    </informalfigure>
+</para>
+<simplesect>
+    <title>Public Member Functions    </title>
+        <itemizedlist>
+            <listitem><para><link linkend="_classcrc643f46942d9dd1fff9_1_1_empty_view_adapter_1a6366a2e25d5e6b9e8e54c8cc45986ffc">EmptyViewAdapter</link> ()</para>
+</listitem>
+            <listitem><para>int <link linkend="_classcrc643f46942d9dd1fff9_1_1_empty_view_adapter_1a3a33b22e873cabeba1dcddff4096d242">getItemCount</link> ()</para>
+</listitem>
+            <listitem><para>void <link linkend="_classcrc643f46942d9dd1fff9_1_1_empty_view_adapter_1a2226a800ea217a2a23c52f3dea94301c">onViewRecycled</link> (androidx.recyclerview.widget.RecyclerView.ViewHolder p0)</para>
+</listitem>
+            <listitem><para>void <link linkend="_classcrc643f46942d9dd1fff9_1_1_empty_view_adapter_1ad5bb05ee5d936a9ecb024f22558acaf1">onBindViewHolder</link> (androidx.recyclerview.widget.RecyclerView.ViewHolder p0, int p1)</para>
+</listitem>
+            <listitem><para>androidx.recyclerview.widget.RecyclerView.ViewHolder <link linkend="_classcrc643f46942d9dd1fff9_1_1_empty_view_adapter_1a1fc5e1c87b0e89277be003d6e5e882e7">onCreateViewHolder</link> (android.view.ViewGroup p0, int p1)</para>
+</listitem>
+            <listitem><para>int <link linkend="_classcrc643f46942d9dd1fff9_1_1_empty_view_adapter_1ad65556adc23183967e1f9b3685f77cec">getItemViewType</link> (int p0)</para>
+</listitem>
+            <listitem><para>void <link linkend="_classcrc643f46942d9dd1fff9_1_1_empty_view_adapter_1a871b727f340cbb0fb80bfce341500392">monodroidAddReference</link> (java.lang.Object obj)</para>
+</listitem>
+            <listitem><para>void <link linkend="_classcrc643f46942d9dd1fff9_1_1_empty_view_adapter_1a313936abc264271d3d5ace1d12ee5853">monodroidClearReferences</link> ()</para>
+</listitem>
+            <listitem><para><link linkend="_classcrc643f46942d9dd1fff9_1_1_empty_view_adapter_1a6366a2e25d5e6b9e8e54c8cc45986ffc">EmptyViewAdapter</link> ()</para>
+</listitem>
+            <listitem><para>int <link linkend="_classcrc643f46942d9dd1fff9_1_1_empty_view_adapter_1a3a33b22e873cabeba1dcddff4096d242">getItemCount</link> ()</para>
+</listitem>
+            <listitem><para>void <link linkend="_classcrc643f46942d9dd1fff9_1_1_empty_view_adapter_1a2226a800ea217a2a23c52f3dea94301c">onViewRecycled</link> (androidx.recyclerview.widget.RecyclerView.ViewHolder p0)</para>
+</listitem>
+            <listitem><para>void <link linkend="_classcrc643f46942d9dd1fff9_1_1_empty_view_adapter_1ad5bb05ee5d936a9ecb024f22558acaf1">onBindViewHolder</link> (androidx.recyclerview.widget.RecyclerView.ViewHolder p0, int p1)</para>
+</listitem>
+            <listitem><para>androidx.recyclerview.widget.RecyclerView.ViewHolder <link linkend="_classcrc643f46942d9dd1fff9_1_1_empty_view_adapter_1a1fc5e1c87b0e89277be003d6e5e882e7">onCreateViewHolder</link> (android.view.ViewGroup p0, int p1)</para>
+</listitem>
+            <listitem><para>int <link linkend="_classcrc643f46942d9dd1fff9_1_1_empty_view_adapter_1ad65556adc23183967e1f9b3685f77cec">getItemViewType</link> (int p0)</para>
+</listitem>
+            <listitem><para>void <link linkend="_classcrc643f46942d9dd1fff9_1_1_empty_view_adapter_1a871b727f340cbb0fb80bfce341500392">monodroidAddReference</link> (java.lang.Object obj)</para>
+</listitem>
+            <listitem><para>void <link linkend="_classcrc643f46942d9dd1fff9_1_1_empty_view_adapter_1a313936abc264271d3d5ace1d12ee5853">monodroidClearReferences</link> ()</para>
+</listitem>
+            <listitem><para><link linkend="_classcrc643f46942d9dd1fff9_1_1_empty_view_adapter_1a6366a2e25d5e6b9e8e54c8cc45986ffc">EmptyViewAdapter</link> ()</para>
+</listitem>
+            <listitem><para>int <link linkend="_classcrc643f46942d9dd1fff9_1_1_empty_view_adapter_1a3a33b22e873cabeba1dcddff4096d242">getItemCount</link> ()</para>
+</listitem>
+            <listitem><para>void <link linkend="_classcrc643f46942d9dd1fff9_1_1_empty_view_adapter_1a2226a800ea217a2a23c52f3dea94301c">onViewRecycled</link> (androidx.recyclerview.widget.RecyclerView.ViewHolder p0)</para>
+</listitem>
+            <listitem><para>void <link linkend="_classcrc643f46942d9dd1fff9_1_1_empty_view_adapter_1ad5bb05ee5d936a9ecb024f22558acaf1">onBindViewHolder</link> (androidx.recyclerview.widget.RecyclerView.ViewHolder p0, int p1)</para>
+</listitem>
+            <listitem><para>androidx.recyclerview.widget.RecyclerView.ViewHolder <link linkend="_classcrc643f46942d9dd1fff9_1_1_empty_view_adapter_1a1fc5e1c87b0e89277be003d6e5e882e7">onCreateViewHolder</link> (android.view.ViewGroup p0, int p1)</para>
+</listitem>
+            <listitem><para>int <link linkend="_classcrc643f46942d9dd1fff9_1_1_empty_view_adapter_1ad65556adc23183967e1f9b3685f77cec">getItemViewType</link> (int p0)</para>
+</listitem>
+            <listitem><para>void <link linkend="_classcrc643f46942d9dd1fff9_1_1_empty_view_adapter_1a871b727f340cbb0fb80bfce341500392">monodroidAddReference</link> (java.lang.Object obj)</para>
+</listitem>
+            <listitem><para>void <link linkend="_classcrc643f46942d9dd1fff9_1_1_empty_view_adapter_1a313936abc264271d3d5ace1d12ee5853">monodroidClearReferences</link> ()</para>
+</listitem>
+            <listitem><para><link linkend="_classcrc643f46942d9dd1fff9_1_1_empty_view_adapter_1a6366a2e25d5e6b9e8e54c8cc45986ffc">EmptyViewAdapter</link> ()</para>
+</listitem>
+            <listitem><para>int <link linkend="_classcrc643f46942d9dd1fff9_1_1_empty_view_adapter_1a3a33b22e873cabeba1dcddff4096d242">getItemCount</link> ()</para>
+</listitem>
+            <listitem><para>void <link linkend="_classcrc643f46942d9dd1fff9_1_1_empty_view_adapter_1a2226a800ea217a2a23c52f3dea94301c">onViewRecycled</link> (androidx.recyclerview.widget.RecyclerView.ViewHolder p0)</para>
+</listitem>
+            <listitem><para>void <link linkend="_classcrc643f46942d9dd1fff9_1_1_empty_view_adapter_1ad5bb05ee5d936a9ecb024f22558acaf1">onBindViewHolder</link> (androidx.recyclerview.widget.RecyclerView.ViewHolder p0, int p1)</para>
+</listitem>
+            <listitem><para>androidx.recyclerview.widget.RecyclerView.ViewHolder <link linkend="_classcrc643f46942d9dd1fff9_1_1_empty_view_adapter_1a1fc5e1c87b0e89277be003d6e5e882e7">onCreateViewHolder</link> (android.view.ViewGroup p0, int p1)</para>
+</listitem>
+            <listitem><para>int <link linkend="_classcrc643f46942d9dd1fff9_1_1_empty_view_adapter_1ad65556adc23183967e1f9b3685f77cec">getItemViewType</link> (int p0)</para>
+</listitem>
+            <listitem><para>void <link linkend="_classcrc643f46942d9dd1fff9_1_1_empty_view_adapter_1a871b727f340cbb0fb80bfce341500392">monodroidAddReference</link> (java.lang.Object obj)</para>
+</listitem>
+            <listitem><para>void <link linkend="_classcrc643f46942d9dd1fff9_1_1_empty_view_adapter_1a313936abc264271d3d5ace1d12ee5853">monodroidClearReferences</link> ()</para>
+</listitem>
+        </itemizedlist>
+</simplesect>
+<simplesect>
+    <title>Static Public Attributes    </title>
+        <itemizedlist>
+            <listitem><para>static final String <link linkend="_classcrc643f46942d9dd1fff9_1_1_empty_view_adapter_1ab41a6f96a848a1a6d61ae8626068328b">__md_methods</link></para>
+</listitem>
+        </itemizedlist>
+</simplesect>
+<section>
+<title>Detailed Description</title>
+<para>
+Definition at line 4 of file EmptyViewAdapter.java.</para>
+</section>
+<section>
+<title>Constructor &amp; Destructor Documentation</title>
+<anchor xml:id="_classcrc643f46942d9dd1fff9_1_1_empty_view_adapter_1a6366a2e25d5e6b9e8e54c8cc45986ffc"/>    <section>
+    <title>EmptyViewAdapter()<computeroutput>[1/4]</computeroutput></title>
+<indexterm><primary>EmptyViewAdapter</primary><secondary>crc643f46942d9dd1fff9.EmptyViewAdapter</secondary></indexterm>
+<indexterm><primary>crc643f46942d9dd1fff9.EmptyViewAdapter</primary><secondary>EmptyViewAdapter</secondary></indexterm>
+<para><computeroutput>crc643f46942d9dd1fff9.EmptyViewAdapter.EmptyViewAdapter ( )</computeroutput></para><para>
+Definition at line 23 of file EmptyViewAdapter.java.</para>
+    </section><anchor xml:id="_classcrc643f46942d9dd1fff9_1_1_empty_view_adapter_1a6366a2e25d5e6b9e8e54c8cc45986ffc"/>    <section>
+    <title>EmptyViewAdapter()<computeroutput>[2/4]</computeroutput></title>
+<indexterm><primary>EmptyViewAdapter</primary><secondary>crc643f46942d9dd1fff9.EmptyViewAdapter</secondary></indexterm>
+<indexterm><primary>crc643f46942d9dd1fff9.EmptyViewAdapter</primary><secondary>EmptyViewAdapter</secondary></indexterm>
+<para><computeroutput>crc643f46942d9dd1fff9.EmptyViewAdapter.EmptyViewAdapter ( )</computeroutput></para><para>
+Definition at line 23 of file EmptyViewAdapter.java.</para>
+    </section><anchor xml:id="_classcrc643f46942d9dd1fff9_1_1_empty_view_adapter_1a6366a2e25d5e6b9e8e54c8cc45986ffc"/>    <section>
+    <title>EmptyViewAdapter()<computeroutput>[3/4]</computeroutput></title>
+<indexterm><primary>EmptyViewAdapter</primary><secondary>crc643f46942d9dd1fff9.EmptyViewAdapter</secondary></indexterm>
+<indexterm><primary>crc643f46942d9dd1fff9.EmptyViewAdapter</primary><secondary>EmptyViewAdapter</secondary></indexterm>
+<para><computeroutput>crc643f46942d9dd1fff9.EmptyViewAdapter.EmptyViewAdapter ( )</computeroutput></para><para>
+Definition at line 23 of file EmptyViewAdapter.java.</para>
+    </section><anchor xml:id="_classcrc643f46942d9dd1fff9_1_1_empty_view_adapter_1a6366a2e25d5e6b9e8e54c8cc45986ffc"/>    <section>
+    <title>EmptyViewAdapter()<computeroutput>[4/4]</computeroutput></title>
+<indexterm><primary>EmptyViewAdapter</primary><secondary>crc643f46942d9dd1fff9.EmptyViewAdapter</secondary></indexterm>
+<indexterm><primary>crc643f46942d9dd1fff9.EmptyViewAdapter</primary><secondary>EmptyViewAdapter</secondary></indexterm>
+<para><computeroutput>crc643f46942d9dd1fff9.EmptyViewAdapter.EmptyViewAdapter ( )</computeroutput></para><para>
+Definition at line 23 of file EmptyViewAdapter.java.</para>
+</section>
+</section>
+<section>
+<title>Member Function Documentation</title>
+<anchor xml:id="_classcrc643f46942d9dd1fff9_1_1_empty_view_adapter_1a3a33b22e873cabeba1dcddff4096d242"/>    <section>
+    <title>getItemCount()<computeroutput>[1/4]</computeroutput></title>
+<indexterm><primary>getItemCount</primary><secondary>crc643f46942d9dd1fff9.EmptyViewAdapter</secondary></indexterm>
+<indexterm><primary>crc643f46942d9dd1fff9.EmptyViewAdapter</primary><secondary>getItemCount</secondary></indexterm>
+<para><computeroutput>int crc643f46942d9dd1fff9.EmptyViewAdapter.getItemCount ( )</computeroutput></para><para>
+Definition at line 31 of file EmptyViewAdapter.java.</para>
+    </section><anchor xml:id="_classcrc643f46942d9dd1fff9_1_1_empty_view_adapter_1a3a33b22e873cabeba1dcddff4096d242"/>    <section>
+    <title>getItemCount()<computeroutput>[2/4]</computeroutput></title>
+<indexterm><primary>getItemCount</primary><secondary>crc643f46942d9dd1fff9.EmptyViewAdapter</secondary></indexterm>
+<indexterm><primary>crc643f46942d9dd1fff9.EmptyViewAdapter</primary><secondary>getItemCount</secondary></indexterm>
+<para><computeroutput>int crc643f46942d9dd1fff9.EmptyViewAdapter.getItemCount ( )</computeroutput></para><para>
+Definition at line 31 of file EmptyViewAdapter.java.</para>
+    </section><anchor xml:id="_classcrc643f46942d9dd1fff9_1_1_empty_view_adapter_1a3a33b22e873cabeba1dcddff4096d242"/>    <section>
+    <title>getItemCount()<computeroutput>[3/4]</computeroutput></title>
+<indexterm><primary>getItemCount</primary><secondary>crc643f46942d9dd1fff9.EmptyViewAdapter</secondary></indexterm>
+<indexterm><primary>crc643f46942d9dd1fff9.EmptyViewAdapter</primary><secondary>getItemCount</secondary></indexterm>
+<para><computeroutput>int crc643f46942d9dd1fff9.EmptyViewAdapter.getItemCount ( )</computeroutput></para><para>
+Definition at line 31 of file EmptyViewAdapter.java.</para>
+    </section><anchor xml:id="_classcrc643f46942d9dd1fff9_1_1_empty_view_adapter_1a3a33b22e873cabeba1dcddff4096d242"/>    <section>
+    <title>getItemCount()<computeroutput>[4/4]</computeroutput></title>
+<indexterm><primary>getItemCount</primary><secondary>crc643f46942d9dd1fff9.EmptyViewAdapter</secondary></indexterm>
+<indexterm><primary>crc643f46942d9dd1fff9.EmptyViewAdapter</primary><secondary>getItemCount</secondary></indexterm>
+<para><computeroutput>int crc643f46942d9dd1fff9.EmptyViewAdapter.getItemCount ( )</computeroutput></para><para>
+Definition at line 31 of file EmptyViewAdapter.java.</para>
+    </section><anchor xml:id="_classcrc643f46942d9dd1fff9_1_1_empty_view_adapter_1ad65556adc23183967e1f9b3685f77cec"/>    <section>
+    <title>getItemViewType()<computeroutput>[1/4]</computeroutput></title>
+<indexterm><primary>getItemViewType</primary><secondary>crc643f46942d9dd1fff9.EmptyViewAdapter</secondary></indexterm>
+<indexterm><primary>crc643f46942d9dd1fff9.EmptyViewAdapter</primary><secondary>getItemViewType</secondary></indexterm>
+<para><computeroutput>int crc643f46942d9dd1fff9.EmptyViewAdapter.getItemViewType (int p0)</computeroutput></para><para>
+Definition at line 63 of file EmptyViewAdapter.java.</para>
+    </section><anchor xml:id="_classcrc643f46942d9dd1fff9_1_1_empty_view_adapter_1ad65556adc23183967e1f9b3685f77cec"/>    <section>
+    <title>getItemViewType()<computeroutput>[2/4]</computeroutput></title>
+<indexterm><primary>getItemViewType</primary><secondary>crc643f46942d9dd1fff9.EmptyViewAdapter</secondary></indexterm>
+<indexterm><primary>crc643f46942d9dd1fff9.EmptyViewAdapter</primary><secondary>getItemViewType</secondary></indexterm>
+<para><computeroutput>int crc643f46942d9dd1fff9.EmptyViewAdapter.getItemViewType (int p0)</computeroutput></para><para>
+Definition at line 63 of file EmptyViewAdapter.java.</para>
+    </section><anchor xml:id="_classcrc643f46942d9dd1fff9_1_1_empty_view_adapter_1ad65556adc23183967e1f9b3685f77cec"/>    <section>
+    <title>getItemViewType()<computeroutput>[3/4]</computeroutput></title>
+<indexterm><primary>getItemViewType</primary><secondary>crc643f46942d9dd1fff9.EmptyViewAdapter</secondary></indexterm>
+<indexterm><primary>crc643f46942d9dd1fff9.EmptyViewAdapter</primary><secondary>getItemViewType</secondary></indexterm>
+<para><computeroutput>int crc643f46942d9dd1fff9.EmptyViewAdapter.getItemViewType (int p0)</computeroutput></para><para>
+Definition at line 63 of file EmptyViewAdapter.java.</para>
+    </section><anchor xml:id="_classcrc643f46942d9dd1fff9_1_1_empty_view_adapter_1ad65556adc23183967e1f9b3685f77cec"/>    <section>
+    <title>getItemViewType()<computeroutput>[4/4]</computeroutput></title>
+<indexterm><primary>getItemViewType</primary><secondary>crc643f46942d9dd1fff9.EmptyViewAdapter</secondary></indexterm>
+<indexterm><primary>crc643f46942d9dd1fff9.EmptyViewAdapter</primary><secondary>getItemViewType</secondary></indexterm>
+<para><computeroutput>int crc643f46942d9dd1fff9.EmptyViewAdapter.getItemViewType (int p0)</computeroutput></para><para>
+Definition at line 63 of file EmptyViewAdapter.java.</para>
+    </section><anchor xml:id="_classcrc643f46942d9dd1fff9_1_1_empty_view_adapter_1a871b727f340cbb0fb80bfce341500392"/>    <section>
+    <title>monodroidAddReference()<computeroutput>[1/4]</computeroutput></title>
+<indexterm><primary>monodroidAddReference</primary><secondary>crc643f46942d9dd1fff9.EmptyViewAdapter</secondary></indexterm>
+<indexterm><primary>crc643f46942d9dd1fff9.EmptyViewAdapter</primary><secondary>monodroidAddReference</secondary></indexterm>
+<para><computeroutput>void crc643f46942d9dd1fff9.EmptyViewAdapter.monodroidAddReference (java.lang.Object obj)</computeroutput></para><para>
+Definition at line 71 of file EmptyViewAdapter.java.</para>
+    </section><anchor xml:id="_classcrc643f46942d9dd1fff9_1_1_empty_view_adapter_1a871b727f340cbb0fb80bfce341500392"/>    <section>
+    <title>monodroidAddReference()<computeroutput>[2/4]</computeroutput></title>
+<indexterm><primary>monodroidAddReference</primary><secondary>crc643f46942d9dd1fff9.EmptyViewAdapter</secondary></indexterm>
+<indexterm><primary>crc643f46942d9dd1fff9.EmptyViewAdapter</primary><secondary>monodroidAddReference</secondary></indexterm>
+<para><computeroutput>void crc643f46942d9dd1fff9.EmptyViewAdapter.monodroidAddReference (java.lang.Object obj)</computeroutput></para><para>
+Definition at line 71 of file EmptyViewAdapter.java.</para>
+    </section><anchor xml:id="_classcrc643f46942d9dd1fff9_1_1_empty_view_adapter_1a871b727f340cbb0fb80bfce341500392"/>    <section>
+    <title>monodroidAddReference()<computeroutput>[3/4]</computeroutput></title>
+<indexterm><primary>monodroidAddReference</primary><secondary>crc643f46942d9dd1fff9.EmptyViewAdapter</secondary></indexterm>
+<indexterm><primary>crc643f46942d9dd1fff9.EmptyViewAdapter</primary><secondary>monodroidAddReference</secondary></indexterm>
+<para><computeroutput>void crc643f46942d9dd1fff9.EmptyViewAdapter.monodroidAddReference (java.lang.Object obj)</computeroutput></para><para>
+Definition at line 71 of file EmptyViewAdapter.java.</para>
+    </section><anchor xml:id="_classcrc643f46942d9dd1fff9_1_1_empty_view_adapter_1a871b727f340cbb0fb80bfce341500392"/>    <section>
+    <title>monodroidAddReference()<computeroutput>[4/4]</computeroutput></title>
+<indexterm><primary>monodroidAddReference</primary><secondary>crc643f46942d9dd1fff9.EmptyViewAdapter</secondary></indexterm>
+<indexterm><primary>crc643f46942d9dd1fff9.EmptyViewAdapter</primary><secondary>monodroidAddReference</secondary></indexterm>
+<para><computeroutput>void crc643f46942d9dd1fff9.EmptyViewAdapter.monodroidAddReference (java.lang.Object obj)</computeroutput></para><para>
+Definition at line 71 of file EmptyViewAdapter.java.</para>
+    </section><anchor xml:id="_classcrc643f46942d9dd1fff9_1_1_empty_view_adapter_1a313936abc264271d3d5ace1d12ee5853"/>    <section>
+    <title>monodroidClearReferences()<computeroutput>[1/4]</computeroutput></title>
+<indexterm><primary>monodroidClearReferences</primary><secondary>crc643f46942d9dd1fff9.EmptyViewAdapter</secondary></indexterm>
+<indexterm><primary>crc643f46942d9dd1fff9.EmptyViewAdapter</primary><secondary>monodroidClearReferences</secondary></indexterm>
+<para><computeroutput>void crc643f46942d9dd1fff9.EmptyViewAdapter.monodroidClearReferences ( )</computeroutput></para><para>
+Definition at line 78 of file EmptyViewAdapter.java.</para>
+    </section><anchor xml:id="_classcrc643f46942d9dd1fff9_1_1_empty_view_adapter_1a313936abc264271d3d5ace1d12ee5853"/>    <section>
+    <title>monodroidClearReferences()<computeroutput>[2/4]</computeroutput></title>
+<indexterm><primary>monodroidClearReferences</primary><secondary>crc643f46942d9dd1fff9.EmptyViewAdapter</secondary></indexterm>
+<indexterm><primary>crc643f46942d9dd1fff9.EmptyViewAdapter</primary><secondary>monodroidClearReferences</secondary></indexterm>
+<para><computeroutput>void crc643f46942d9dd1fff9.EmptyViewAdapter.monodroidClearReferences ( )</computeroutput></para><para>
+Definition at line 78 of file EmptyViewAdapter.java.</para>
+    </section><anchor xml:id="_classcrc643f46942d9dd1fff9_1_1_empty_view_adapter_1a313936abc264271d3d5ace1d12ee5853"/>    <section>
+    <title>monodroidClearReferences()<computeroutput>[3/4]</computeroutput></title>
+<indexterm><primary>monodroidClearReferences</primary><secondary>crc643f46942d9dd1fff9.EmptyViewAdapter</secondary></indexterm>
+<indexterm><primary>crc643f46942d9dd1fff9.EmptyViewAdapter</primary><secondary>monodroidClearReferences</secondary></indexterm>
+<para><computeroutput>void crc643f46942d9dd1fff9.EmptyViewAdapter.monodroidClearReferences ( )</computeroutput></para><para>
+Definition at line 78 of file EmptyViewAdapter.java.</para>
+    </section><anchor xml:id="_classcrc643f46942d9dd1fff9_1_1_empty_view_adapter_1a313936abc264271d3d5ace1d12ee5853"/>    <section>
+    <title>monodroidClearReferences()<computeroutput>[4/4]</computeroutput></title>
+<indexterm><primary>monodroidClearReferences</primary><secondary>crc643f46942d9dd1fff9.EmptyViewAdapter</secondary></indexterm>
+<indexterm><primary>crc643f46942d9dd1fff9.EmptyViewAdapter</primary><secondary>monodroidClearReferences</secondary></indexterm>
+<para><computeroutput>void crc643f46942d9dd1fff9.EmptyViewAdapter.monodroidClearReferences ( )</computeroutput></para><para>
+Definition at line 78 of file EmptyViewAdapter.java.</para>
+    </section><anchor xml:id="_classcrc643f46942d9dd1fff9_1_1_empty_view_adapter_1ad5bb05ee5d936a9ecb024f22558acaf1"/>    <section>
+    <title>onBindViewHolder()<computeroutput>[1/4]</computeroutput></title>
+<indexterm><primary>onBindViewHolder</primary><secondary>crc643f46942d9dd1fff9.EmptyViewAdapter</secondary></indexterm>
+<indexterm><primary>crc643f46942d9dd1fff9.EmptyViewAdapter</primary><secondary>onBindViewHolder</secondary></indexterm>
+<para><computeroutput>void crc643f46942d9dd1fff9.EmptyViewAdapter.onBindViewHolder (androidx.recyclerview.widget.RecyclerView.ViewHolder p0, int p1)</computeroutput></para><para>
+Definition at line 47 of file EmptyViewAdapter.java.</para>
+    </section><anchor xml:id="_classcrc643f46942d9dd1fff9_1_1_empty_view_adapter_1ad5bb05ee5d936a9ecb024f22558acaf1"/>    <section>
+    <title>onBindViewHolder()<computeroutput>[2/4]</computeroutput></title>
+<indexterm><primary>onBindViewHolder</primary><secondary>crc643f46942d9dd1fff9.EmptyViewAdapter</secondary></indexterm>
+<indexterm><primary>crc643f46942d9dd1fff9.EmptyViewAdapter</primary><secondary>onBindViewHolder</secondary></indexterm>
+<para><computeroutput>void crc643f46942d9dd1fff9.EmptyViewAdapter.onBindViewHolder (androidx.recyclerview.widget.RecyclerView.ViewHolder p0, int p1)</computeroutput></para><para>
+Definition at line 47 of file EmptyViewAdapter.java.</para>
+    </section><anchor xml:id="_classcrc643f46942d9dd1fff9_1_1_empty_view_adapter_1ad5bb05ee5d936a9ecb024f22558acaf1"/>    <section>
+    <title>onBindViewHolder()<computeroutput>[3/4]</computeroutput></title>
+<indexterm><primary>onBindViewHolder</primary><secondary>crc643f46942d9dd1fff9.EmptyViewAdapter</secondary></indexterm>
+<indexterm><primary>crc643f46942d9dd1fff9.EmptyViewAdapter</primary><secondary>onBindViewHolder</secondary></indexterm>
+<para><computeroutput>void crc643f46942d9dd1fff9.EmptyViewAdapter.onBindViewHolder (androidx.recyclerview.widget.RecyclerView.ViewHolder p0, int p1)</computeroutput></para><para>
+Definition at line 47 of file EmptyViewAdapter.java.</para>
+    </section><anchor xml:id="_classcrc643f46942d9dd1fff9_1_1_empty_view_adapter_1ad5bb05ee5d936a9ecb024f22558acaf1"/>    <section>
+    <title>onBindViewHolder()<computeroutput>[4/4]</computeroutput></title>
+<indexterm><primary>onBindViewHolder</primary><secondary>crc643f46942d9dd1fff9.EmptyViewAdapter</secondary></indexterm>
+<indexterm><primary>crc643f46942d9dd1fff9.EmptyViewAdapter</primary><secondary>onBindViewHolder</secondary></indexterm>
+<para><computeroutput>void crc643f46942d9dd1fff9.EmptyViewAdapter.onBindViewHolder (androidx.recyclerview.widget.RecyclerView.ViewHolder p0, int p1)</computeroutput></para><para>
+Definition at line 47 of file EmptyViewAdapter.java.</para>
+    </section><anchor xml:id="_classcrc643f46942d9dd1fff9_1_1_empty_view_adapter_1a1fc5e1c87b0e89277be003d6e5e882e7"/>    <section>
+    <title>onCreateViewHolder()<computeroutput>[1/4]</computeroutput></title>
+<indexterm><primary>onCreateViewHolder</primary><secondary>crc643f46942d9dd1fff9.EmptyViewAdapter</secondary></indexterm>
+<indexterm><primary>crc643f46942d9dd1fff9.EmptyViewAdapter</primary><secondary>onCreateViewHolder</secondary></indexterm>
+<para><computeroutput>androidx.recyclerview.widget.RecyclerView.ViewHolder crc643f46942d9dd1fff9.EmptyViewAdapter.onCreateViewHolder (android.view.ViewGroup p0, int p1)</computeroutput></para><para>
+Definition at line 55 of file EmptyViewAdapter.java.</para>
+    </section><anchor xml:id="_classcrc643f46942d9dd1fff9_1_1_empty_view_adapter_1a1fc5e1c87b0e89277be003d6e5e882e7"/>    <section>
+    <title>onCreateViewHolder()<computeroutput>[2/4]</computeroutput></title>
+<indexterm><primary>onCreateViewHolder</primary><secondary>crc643f46942d9dd1fff9.EmptyViewAdapter</secondary></indexterm>
+<indexterm><primary>crc643f46942d9dd1fff9.EmptyViewAdapter</primary><secondary>onCreateViewHolder</secondary></indexterm>
+<para><computeroutput>androidx.recyclerview.widget.RecyclerView.ViewHolder crc643f46942d9dd1fff9.EmptyViewAdapter.onCreateViewHolder (android.view.ViewGroup p0, int p1)</computeroutput></para><para>
+Definition at line 55 of file EmptyViewAdapter.java.</para>
+    </section><anchor xml:id="_classcrc643f46942d9dd1fff9_1_1_empty_view_adapter_1a1fc5e1c87b0e89277be003d6e5e882e7"/>    <section>
+    <title>onCreateViewHolder()<computeroutput>[3/4]</computeroutput></title>
+<indexterm><primary>onCreateViewHolder</primary><secondary>crc643f46942d9dd1fff9.EmptyViewAdapter</secondary></indexterm>
+<indexterm><primary>crc643f46942d9dd1fff9.EmptyViewAdapter</primary><secondary>onCreateViewHolder</secondary></indexterm>
+<para><computeroutput>androidx.recyclerview.widget.RecyclerView.ViewHolder crc643f46942d9dd1fff9.EmptyViewAdapter.onCreateViewHolder (android.view.ViewGroup p0, int p1)</computeroutput></para><para>
+Definition at line 55 of file EmptyViewAdapter.java.</para>
+    </section><anchor xml:id="_classcrc643f46942d9dd1fff9_1_1_empty_view_adapter_1a1fc5e1c87b0e89277be003d6e5e882e7"/>    <section>
+    <title>onCreateViewHolder()<computeroutput>[4/4]</computeroutput></title>
+<indexterm><primary>onCreateViewHolder</primary><secondary>crc643f46942d9dd1fff9.EmptyViewAdapter</secondary></indexterm>
+<indexterm><primary>crc643f46942d9dd1fff9.EmptyViewAdapter</primary><secondary>onCreateViewHolder</secondary></indexterm>
+<para><computeroutput>androidx.recyclerview.widget.RecyclerView.ViewHolder crc643f46942d9dd1fff9.EmptyViewAdapter.onCreateViewHolder (android.view.ViewGroup p0, int p1)</computeroutput></para><para>
+Definition at line 55 of file EmptyViewAdapter.java.</para>
+    </section><anchor xml:id="_classcrc643f46942d9dd1fff9_1_1_empty_view_adapter_1a2226a800ea217a2a23c52f3dea94301c"/>    <section>
+    <title>onViewRecycled()<computeroutput>[1/4]</computeroutput></title>
+<indexterm><primary>onViewRecycled</primary><secondary>crc643f46942d9dd1fff9.EmptyViewAdapter</secondary></indexterm>
+<indexterm><primary>crc643f46942d9dd1fff9.EmptyViewAdapter</primary><secondary>onViewRecycled</secondary></indexterm>
+<para><computeroutput>void crc643f46942d9dd1fff9.EmptyViewAdapter.onViewRecycled (androidx.recyclerview.widget.RecyclerView.ViewHolder p0)</computeroutput></para><para>
+Definition at line 39 of file EmptyViewAdapter.java.</para>
+    </section><anchor xml:id="_classcrc643f46942d9dd1fff9_1_1_empty_view_adapter_1a2226a800ea217a2a23c52f3dea94301c"/>    <section>
+    <title>onViewRecycled()<computeroutput>[2/4]</computeroutput></title>
+<indexterm><primary>onViewRecycled</primary><secondary>crc643f46942d9dd1fff9.EmptyViewAdapter</secondary></indexterm>
+<indexterm><primary>crc643f46942d9dd1fff9.EmptyViewAdapter</primary><secondary>onViewRecycled</secondary></indexterm>
+<para><computeroutput>void crc643f46942d9dd1fff9.EmptyViewAdapter.onViewRecycled (androidx.recyclerview.widget.RecyclerView.ViewHolder p0)</computeroutput></para><para>
+Definition at line 39 of file EmptyViewAdapter.java.</para>
+    </section><anchor xml:id="_classcrc643f46942d9dd1fff9_1_1_empty_view_adapter_1a2226a800ea217a2a23c52f3dea94301c"/>    <section>
+    <title>onViewRecycled()<computeroutput>[3/4]</computeroutput></title>
+<indexterm><primary>onViewRecycled</primary><secondary>crc643f46942d9dd1fff9.EmptyViewAdapter</secondary></indexterm>
+<indexterm><primary>crc643f46942d9dd1fff9.EmptyViewAdapter</primary><secondary>onViewRecycled</secondary></indexterm>
+<para><computeroutput>void crc643f46942d9dd1fff9.EmptyViewAdapter.onViewRecycled (androidx.recyclerview.widget.RecyclerView.ViewHolder p0)</computeroutput></para><para>
+Definition at line 39 of file EmptyViewAdapter.java.</para>
+    </section><anchor xml:id="_classcrc643f46942d9dd1fff9_1_1_empty_view_adapter_1a2226a800ea217a2a23c52f3dea94301c"/>    <section>
+    <title>onViewRecycled()<computeroutput>[4/4]</computeroutput></title>
+<indexterm><primary>onViewRecycled</primary><secondary>crc643f46942d9dd1fff9.EmptyViewAdapter</secondary></indexterm>
+<indexterm><primary>crc643f46942d9dd1fff9.EmptyViewAdapter</primary><secondary>onViewRecycled</secondary></indexterm>
+<para><computeroutput>void crc643f46942d9dd1fff9.EmptyViewAdapter.onViewRecycled (androidx.recyclerview.widget.RecyclerView.ViewHolder p0)</computeroutput></para><para>
+Definition at line 39 of file EmptyViewAdapter.java.</para>
+</section>
+</section>
+<section>
+<title>Member Data Documentation</title>
+<anchor xml:id="_classcrc643f46942d9dd1fff9_1_1_empty_view_adapter_1ab41a6f96a848a1a6d61ae8626068328b"/>    <section>
+    <title>__md_methods</title>
+<indexterm><primary>__md_methods</primary><secondary>crc643f46942d9dd1fff9.EmptyViewAdapter</secondary></indexterm>
+<indexterm><primary>crc643f46942d9dd1fff9.EmptyViewAdapter</primary><secondary>__md_methods</secondary></indexterm>
+<para><computeroutput>static final String crc643f46942d9dd1fff9.EmptyViewAdapter.__md_methods<computeroutput>[static]</computeroutput></computeroutput></para>
+<para>@hide </para>
+<para>
+Definition at line 10 of file EmptyViewAdapter.java.</para>
+</section>
+<para>
+The documentation for this class was generated from the following file:</para>
+Application Green Quake.Android/obj/Debug/100/android/src/crc643f46942d9dd1fff9/<link linkend="__debug_2100_2android_2src_2crc643f46942d9dd1fff9_2_empty_view_adapter_8java">EmptyViewAdapter.java</link></section>
+</section>

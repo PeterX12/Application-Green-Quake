@@ -1,0 +1,193 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.9.1" xml:lang="en-US">
+  <compounddef id="classmono_1_1com_1_1android_1_1volley_1_1_request_queue___request_finished_listener_implementor" kind="class" language="Java" prot="public">
+    <compoundname>mono::com::android::volley::RequestQueue_RequestFinishedListenerImplementor</compoundname>
+    <basecompoundref prot="public" virt="non-virtual">java.lang.Object</basecompoundref>
+    <basecompoundref prot="public" virt="non-virtual">mono.android.IGCUserPeer</basecompoundref>
+    <basecompoundref prot="public" virt="non-virtual">com.android.volley.RequestQueue.RequestFinishedListener</basecompoundref>
+      <sectiondef kind="public-static-attrib">
+      <memberdef kind="variable" id="classmono_1_1com_1_1android_1_1volley_1_1_request_queue___request_finished_listener_implementor_1ae1dbfcd1d9ac18a1f5fc4857c9f66481" prot="public" static="yes" mutable="no">
+        <type>final String</type>
+        <definition>final String mono.com.android.volley.RequestQueue_RequestFinishedListenerImplementor.__md_methods</definition>
+        <argsstring></argsstring>
+        <name>__md_methods</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+<para>@hide </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/110/android/src/mono/com/android/volley/RequestQueue_RequestFinishedListenerImplementor.java" line="11" column="28" bodyfile="Application Green Quake.Android/obj/Debug/110/android/src/mono/com/android/volley/RequestQueue_RequestFinishedListenerImplementor.java" bodystart="11" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="private-attrib">
+      <memberdef kind="variable" id="classmono_1_1com_1_1android_1_1volley_1_1_request_queue___request_finished_listener_implementor_1ab9afdc95057615782ed7f20c1b258271" prot="private" static="no" mutable="no">
+        <type>java.util.ArrayList</type>
+        <definition>java.util.ArrayList mono.com.android.volley.RequestQueue_RequestFinishedListenerImplementor.refList</definition>
+        <argsstring></argsstring>
+        <name>refList</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/110/android/src/mono/com/android/volley/RequestQueue_RequestFinishedListenerImplementor.java" line="35" column="27" bodyfile="Application Green Quake.Android/obj/Debug/110/android/src/mono/com/android/volley/RequestQueue_RequestFinishedListenerImplementor.java" bodystart="35" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="package-static-func">
+      <memberdef kind="function" id="classmono_1_1com_1_1android_1_1volley_1_1_request_queue___request_finished_listener_implementor_1a8cd7986d57d2bec8630fbb2035175244" prot="package" static="yes" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>mono.com.android.volley.RequestQueue_RequestFinishedListenerImplementor.[static initializer]</definition>
+        <argsstring></argsstring>
+        <name>[static initializer]</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/110/android/src/mono/com/android/volley/RequestQueue_RequestFinishedListenerImplementor.java" line="11" column="28"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="public-func">
+      <memberdef kind="function" id="classmono_1_1com_1_1android_1_1volley_1_1_request_queue___request_finished_listener_implementor_1a8dc87959c60c7ed3c8070cd969319c0c" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>mono.com.android.volley.RequestQueue_RequestFinishedListenerImplementor.RequestQueue_RequestFinishedListenerImplementor</definition>
+        <argsstring>()</argsstring>
+        <name>RequestQueue_RequestFinishedListenerImplementor</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/110/android/src/mono/com/android/volley/RequestQueue_RequestFinishedListenerImplementor.java" line="20" column="8" bodyfile="Application Green Quake.Android/obj/Debug/110/android/src/mono/com/android/volley/RequestQueue_RequestFinishedListenerImplementor.java" bodystart="20" bodyend="25"/>
+      </memberdef>
+      <memberdef kind="function" id="classmono_1_1com_1_1android_1_1volley_1_1_request_queue___request_finished_listener_implementor_1aa29338c8fda4dab86e8f72ff7d6f29c8" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void mono.com.android.volley.RequestQueue_RequestFinishedListenerImplementor.onRequestFinished</definition>
+        <argsstring>(com.android.volley.Request p0)</argsstring>
+        <name>onRequestFinished</name>
+        <param>
+          <type>com.android.volley.Request</type>
+          <declname>p0</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/110/android/src/mono/com/android/volley/RequestQueue_RequestFinishedListenerImplementor.java" line="28" column="13" bodyfile="Application Green Quake.Android/obj/Debug/110/android/src/mono/com/android/volley/RequestQueue_RequestFinishedListenerImplementor.java" bodystart="28" bodyend="31"/>
+      </memberdef>
+      <memberdef kind="function" id="classmono_1_1com_1_1android_1_1volley_1_1_request_queue___request_finished_listener_implementor_1ae2b5f7cb7a8d9b34bfeab19c57b77a2e" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void mono.com.android.volley.RequestQueue_RequestFinishedListenerImplementor.monodroidAddReference</definition>
+        <argsstring>(java.lang.Object obj)</argsstring>
+        <name>monodroidAddReference</name>
+        <param>
+          <type>java.lang.Object</type>
+          <declname>obj</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/110/android/src/mono/com/android/volley/RequestQueue_RequestFinishedListenerImplementor.java" line="36" column="13" bodyfile="Application Green Quake.Android/obj/Debug/110/android/src/mono/com/android/volley/RequestQueue_RequestFinishedListenerImplementor.java" bodystart="36" bodyend="41"/>
+      </memberdef>
+      <memberdef kind="function" id="classmono_1_1com_1_1android_1_1volley_1_1_request_queue___request_finished_listener_implementor_1a41c50bf5b430e2c11f8f6da09a7127d7" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void mono.com.android.volley.RequestQueue_RequestFinishedListenerImplementor.monodroidClearReferences</definition>
+        <argsstring>()</argsstring>
+        <name>monodroidClearReferences</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/110/android/src/mono/com/android/volley/RequestQueue_RequestFinishedListenerImplementor.java" line="43" column="13" bodyfile="Application Green Quake.Android/obj/Debug/110/android/src/mono/com/android/volley/RequestQueue_RequestFinishedListenerImplementor.java" bodystart="43" bodyend="47"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="private-func">
+      <memberdef kind="function" id="classmono_1_1com_1_1android_1_1volley_1_1_request_queue___request_finished_listener_implementor_1a796d229ad5e260e190d63dced7f234dc" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>native void</type>
+        <definition>native void mono.com.android.volley.RequestQueue_RequestFinishedListenerImplementor.n_onRequestFinished</definition>
+        <argsstring>(com.android.volley.Request p0)</argsstring>
+        <name>n_onRequestFinished</name>
+        <param>
+          <type>com.android.volley.Request</type>
+          <declname>p0</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/110/android/src/mono/com/android/volley/RequestQueue_RequestFinishedListenerImplementor.java" line="33" column="21"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <inheritancegraph>
+      <node id="4">
+        <label>com::android::volley::RequestQueue::RequestFinishedListener</label>
+      </node>
+      <node id="3">
+        <label>mono.android.IGCUserPeer</label>
+      </node>
+      <node id="2">
+        <label>java.lang.Object</label>
+      </node>
+      <node id="1">
+        <label>mono.com.android.volley.RequestQueue_RequestFinishedListenerImplementor</label>
+        <link refid="classmono_1_1com_1_1android_1_1volley_1_1_request_queue___request_finished_listener_implementor"/>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+        <childnode refid="3" relation="public-inheritance">
+        </childnode>
+        <childnode refid="4" relation="public-inheritance">
+        </childnode>
+      </node>
+    </inheritancegraph>
+    <collaborationgraph>
+      <node id="4">
+        <label>com::android::volley::RequestQueue::RequestFinishedListener</label>
+      </node>
+      <node id="3">
+        <label>mono.android.IGCUserPeer</label>
+      </node>
+      <node id="2">
+        <label>java.lang.Object</label>
+      </node>
+      <node id="1">
+        <label>mono.com.android.volley.RequestQueue_RequestFinishedListenerImplementor</label>
+        <link refid="classmono_1_1com_1_1android_1_1volley_1_1_request_queue___request_finished_listener_implementor"/>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+        <childnode refid="3" relation="public-inheritance">
+        </childnode>
+        <childnode refid="4" relation="public-inheritance">
+        </childnode>
+      </node>
+    </collaborationgraph>
+    <location file="Application Green Quake.Android/obj/Debug/110/android/src/mono/com/android/volley/RequestQueue_RequestFinishedListenerImplementor.java" line="4" column="7" bodyfile="Application Green Quake.Android/obj/Debug/110/android/src/mono/com/android/volley/RequestQueue_RequestFinishedListenerImplementor.java" bodystart="9" bodyend="48"/>
+    <listofallmembers>
+      <member refid="classmono_1_1com_1_1android_1_1volley_1_1_request_queue___request_finished_listener_implementor_1a8cd7986d57d2bec8630fbb2035175244" prot="package" virt="non-virtual"><scope>mono::com::android::volley::RequestQueue_RequestFinishedListenerImplementor</scope><name>[static initializer]</name></member>
+      <member refid="classmono_1_1com_1_1android_1_1volley_1_1_request_queue___request_finished_listener_implementor_1ae1dbfcd1d9ac18a1f5fc4857c9f66481" prot="public" virt="non-virtual"><scope>mono::com::android::volley::RequestQueue_RequestFinishedListenerImplementor</scope><name>__md_methods</name></member>
+      <member refid="classmono_1_1com_1_1android_1_1volley_1_1_request_queue___request_finished_listener_implementor_1ae2b5f7cb7a8d9b34bfeab19c57b77a2e" prot="public" virt="non-virtual"><scope>mono::com::android::volley::RequestQueue_RequestFinishedListenerImplementor</scope><name>monodroidAddReference</name></member>
+      <member refid="classmono_1_1com_1_1android_1_1volley_1_1_request_queue___request_finished_listener_implementor_1a41c50bf5b430e2c11f8f6da09a7127d7" prot="public" virt="non-virtual"><scope>mono::com::android::volley::RequestQueue_RequestFinishedListenerImplementor</scope><name>monodroidClearReferences</name></member>
+      <member refid="classmono_1_1com_1_1android_1_1volley_1_1_request_queue___request_finished_listener_implementor_1a796d229ad5e260e190d63dced7f234dc" prot="private" virt="non-virtual"><scope>mono::com::android::volley::RequestQueue_RequestFinishedListenerImplementor</scope><name>n_onRequestFinished</name></member>
+      <member refid="classmono_1_1com_1_1android_1_1volley_1_1_request_queue___request_finished_listener_implementor_1aa29338c8fda4dab86e8f72ff7d6f29c8" prot="public" virt="non-virtual"><scope>mono::com::android::volley::RequestQueue_RequestFinishedListenerImplementor</scope><name>onRequestFinished</name></member>
+      <member refid="classmono_1_1com_1_1android_1_1volley_1_1_request_queue___request_finished_listener_implementor_1ab9afdc95057615782ed7f20c1b258271" prot="private" virt="non-virtual"><scope>mono::com::android::volley::RequestQueue_RequestFinishedListenerImplementor</scope><name>refList</name></member>
+      <member refid="classmono_1_1com_1_1android_1_1volley_1_1_request_queue___request_finished_listener_implementor_1a8dc87959c60c7ed3c8070cd969319c0c" prot="public" virt="non-virtual"><scope>mono::com::android::volley::RequestQueue_RequestFinishedListenerImplementor</scope><name>RequestQueue_RequestFinishedListenerImplementor</name></member>
+    </listofallmembers>
+  </compounddef>
+</doxygen>

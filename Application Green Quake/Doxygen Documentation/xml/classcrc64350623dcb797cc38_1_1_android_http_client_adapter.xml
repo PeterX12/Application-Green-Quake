@@ -1,0 +1,508 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.9.1" xml:lang="en-US">
+  <compounddef id="classcrc64350623dcb797cc38_1_1_android_http_client_adapter" kind="class" language="Java" prot="public">
+    <compoundname>crc64350623dcb797cc38::AndroidHttpClientAdapter</compoundname>
+    <basecompoundref prot="public" virt="non-virtual">java.lang.Object</basecompoundref>
+    <basecompoundref prot="public" virt="non-virtual">mono.android.IGCUserPeer</basecompoundref>
+    <basecompoundref prot="public" virt="non-virtual">com.microsoft.appcenter.http.HttpClient</basecompoundref>
+    <basecompoundref prot="public" virt="non-virtual">java.io.Closeable</basecompoundref>
+    <basecompoundref prot="public" virt="non-virtual">java.lang.Object</basecompoundref>
+    <basecompoundref prot="public" virt="non-virtual">mono.android.IGCUserPeer</basecompoundref>
+    <basecompoundref prot="public" virt="non-virtual">com.microsoft.appcenter.http.HttpClient</basecompoundref>
+    <basecompoundref prot="public" virt="non-virtual">java.io.Closeable</basecompoundref>
+      <sectiondef kind="public-static-attrib">
+      <memberdef kind="variable" id="classcrc64350623dcb797cc38_1_1_android_http_client_adapter_1ac821a4cb9e60dd7020a4fc02c111efb2" prot="public" static="yes" mutable="no">
+        <type>final String</type>
+        <definition>static final String crc64350623dcb797cc38.AndroidHttpClientAdapter::__md_methods</definition>
+        <argsstring></argsstring>
+        <name>__md_methods</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+<para>@hide </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/110/android/src/crc64350623dcb797cc38/AndroidHttpClientAdapter.java" line="12" column="28" bodyfile="Application Green Quake.Android/obj/Debug/110/android/src/crc64350623dcb797cc38/AndroidHttpClientAdapter.java" bodystart="12" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="private-attrib">
+      <memberdef kind="variable" id="classcrc64350623dcb797cc38_1_1_android_http_client_adapter_1a7b9c2acaa681fe0b50b1ba4bb8060640" prot="private" static="no" mutable="no">
+        <type>java.util.ArrayList</type>
+        <definition>java util ArrayList crc64350623dcb797cc38.AndroidHttpClientAdapter::refList</definition>
+        <argsstring></argsstring>
+        <name>refList</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/110/android/src/crc64350623dcb797cc38/AndroidHttpClientAdapter.java" line="54" column="27" bodyfile="Application Green Quake.Android/obj/Debug/110/android/src/crc64350623dcb797cc38/AndroidHttpClientAdapter.java" bodystart="54" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="package-static-func">
+      <memberdef kind="function" id="classcrc64350623dcb797cc38_1_1_android_http_client_adapter_1a7beebd154c1e8c15765a83121b60f9de" prot="package" static="yes" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>crc64350623dcb797cc38.AndroidHttpClientAdapter.[static initializer]</definition>
+        <argsstring></argsstring>
+        <name>[static initializer]</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/110/android/src/crc64350623dcb797cc38/AndroidHttpClientAdapter.java" line="12" column="28"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc64350623dcb797cc38_1_1_android_http_client_adapter_1a7beebd154c1e8c15765a83121b60f9de" prot="package" static="yes" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>crc64350623dcb797cc38.AndroidHttpClientAdapter.[static initializer]</definition>
+        <argsstring></argsstring>
+        <name>[static initializer]</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/110/android/src/crc64350623dcb797cc38/AndroidHttpClientAdapter.java" line="12" column="28"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="public-func">
+      <memberdef kind="function" id="classcrc64350623dcb797cc38_1_1_android_http_client_adapter_1a8be04b9a1ce43cc393bc380e89253d67" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>crc64350623dcb797cc38.AndroidHttpClientAdapter.AndroidHttpClientAdapter</definition>
+        <argsstring>()</argsstring>
+        <name>AndroidHttpClientAdapter</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/110/android/src/crc64350623dcb797cc38/AndroidHttpClientAdapter.java" line="23" column="8" bodyfile="Application Green Quake.Android/obj/Debug/110/android/src/crc64350623dcb797cc38/AndroidHttpClientAdapter.java" bodystart="23" bodyend="28"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc64350623dcb797cc38_1_1_android_http_client_adapter_1a12138c7565f5ac3527de4a24dd097743" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>com.microsoft.appcenter.http.ServiceCall</type>
+        <definition>com.microsoft.appcenter.http.ServiceCall crc64350623dcb797cc38.AndroidHttpClientAdapter.callAsync</definition>
+        <argsstring>(java.lang.String p0, java.lang.String p1, java.util.Map p2, com.microsoft.appcenter.http.HttpClient.CallTemplate p3, com.microsoft.appcenter.http.ServiceCallback p4)</argsstring>
+        <name>callAsync</name>
+        <param>
+          <type>java.lang.String</type>
+          <declname>p0</declname>
+        </param>
+        <param>
+          <type>java.lang.String</type>
+          <declname>p1</declname>
+        </param>
+        <param>
+          <type>java.util.Map</type>
+          <declname>p2</declname>
+        </param>
+        <param>
+          <type>com.microsoft.appcenter.http.HttpClient.CallTemplate</type>
+          <declname>p3</declname>
+        </param>
+        <param>
+          <type>com.microsoft.appcenter.http.ServiceCallback</type>
+          <declname>p4</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/110/android/src/crc64350623dcb797cc38/AndroidHttpClientAdapter.java" line="31" column="45" bodyfile="Application Green Quake.Android/obj/Debug/110/android/src/crc64350623dcb797cc38/AndroidHttpClientAdapter.java" bodystart="31" bodyend="34"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc64350623dcb797cc38_1_1_android_http_client_adapter_1a34e9d7d9bb2c34606d4b3048ad63097e" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void crc64350623dcb797cc38.AndroidHttpClientAdapter.reopen</definition>
+        <argsstring>()</argsstring>
+        <name>reopen</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/110/android/src/crc64350623dcb797cc38/AndroidHttpClientAdapter.java" line="39" column="13" bodyfile="Application Green Quake.Android/obj/Debug/110/android/src/crc64350623dcb797cc38/AndroidHttpClientAdapter.java" bodystart="39" bodyend="42"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc64350623dcb797cc38_1_1_android_http_client_adapter_1a64303b7f0834deda5f968a24a8653651" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void crc64350623dcb797cc38.AndroidHttpClientAdapter.close</definition>
+        <argsstring>()</argsstring>
+        <name>close</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/110/android/src/crc64350623dcb797cc38/AndroidHttpClientAdapter.java" line="47" column="13" bodyfile="Application Green Quake.Android/obj/Debug/110/android/src/crc64350623dcb797cc38/AndroidHttpClientAdapter.java" bodystart="47" bodyend="50"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc64350623dcb797cc38_1_1_android_http_client_adapter_1a0263e2c5d1c0a0ce53cd844a87df875a" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void crc64350623dcb797cc38.AndroidHttpClientAdapter.monodroidAddReference</definition>
+        <argsstring>(java.lang.Object obj)</argsstring>
+        <name>monodroidAddReference</name>
+        <param>
+          <type>java.lang.Object</type>
+          <declname>obj</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/110/android/src/crc64350623dcb797cc38/AndroidHttpClientAdapter.java" line="55" column="13" bodyfile="Application Green Quake.Android/obj/Debug/110/android/src/crc64350623dcb797cc38/AndroidHttpClientAdapter.java" bodystart="55" bodyend="60"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc64350623dcb797cc38_1_1_android_http_client_adapter_1a1453c264cbb9cefbb3c66aef880c415d" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void crc64350623dcb797cc38.AndroidHttpClientAdapter.monodroidClearReferences</definition>
+        <argsstring>()</argsstring>
+        <name>monodroidClearReferences</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/110/android/src/crc64350623dcb797cc38/AndroidHttpClientAdapter.java" line="62" column="13" bodyfile="Application Green Quake.Android/obj/Debug/110/android/src/crc64350623dcb797cc38/AndroidHttpClientAdapter.java" bodystart="62" bodyend="66"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc64350623dcb797cc38_1_1_android_http_client_adapter_1a8be04b9a1ce43cc393bc380e89253d67" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>crc64350623dcb797cc38.AndroidHttpClientAdapter.AndroidHttpClientAdapter</definition>
+        <argsstring>()</argsstring>
+        <name>AndroidHttpClientAdapter</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/110/android/src/crc64350623dcb797cc38/AndroidHttpClientAdapter.java" line="23" column="8" bodyfile="Application Green Quake.Android/obj/Release/110/android/src/crc64350623dcb797cc38/AndroidHttpClientAdapter.java" bodystart="23" bodyend="28"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc64350623dcb797cc38_1_1_android_http_client_adapter_1a12138c7565f5ac3527de4a24dd097743" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>com.microsoft.appcenter.http.ServiceCall</type>
+        <definition>com.microsoft.appcenter.http.ServiceCall crc64350623dcb797cc38.AndroidHttpClientAdapter.callAsync</definition>
+        <argsstring>(java.lang.String p0, java.lang.String p1, java.util.Map p2, com.microsoft.appcenter.http.HttpClient.CallTemplate p3, com.microsoft.appcenter.http.ServiceCallback p4)</argsstring>
+        <name>callAsync</name>
+        <param>
+          <type>java.lang.String</type>
+          <declname>p0</declname>
+        </param>
+        <param>
+          <type>java.lang.String</type>
+          <declname>p1</declname>
+        </param>
+        <param>
+          <type>java.util.Map</type>
+          <declname>p2</declname>
+        </param>
+        <param>
+          <type>com.microsoft.appcenter.http.HttpClient.CallTemplate</type>
+          <declname>p3</declname>
+        </param>
+        <param>
+          <type>com.microsoft.appcenter.http.ServiceCallback</type>
+          <declname>p4</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/110/android/src/crc64350623dcb797cc38/AndroidHttpClientAdapter.java" line="31" column="45" bodyfile="Application Green Quake.Android/obj/Release/110/android/src/crc64350623dcb797cc38/AndroidHttpClientAdapter.java" bodystart="31" bodyend="34"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc64350623dcb797cc38_1_1_android_http_client_adapter_1a34e9d7d9bb2c34606d4b3048ad63097e" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void crc64350623dcb797cc38.AndroidHttpClientAdapter.reopen</definition>
+        <argsstring>()</argsstring>
+        <name>reopen</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/110/android/src/crc64350623dcb797cc38/AndroidHttpClientAdapter.java" line="39" column="13" bodyfile="Application Green Quake.Android/obj/Release/110/android/src/crc64350623dcb797cc38/AndroidHttpClientAdapter.java" bodystart="39" bodyend="42"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc64350623dcb797cc38_1_1_android_http_client_adapter_1a64303b7f0834deda5f968a24a8653651" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void crc64350623dcb797cc38.AndroidHttpClientAdapter.close</definition>
+        <argsstring>()</argsstring>
+        <name>close</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/110/android/src/crc64350623dcb797cc38/AndroidHttpClientAdapter.java" line="47" column="13" bodyfile="Application Green Quake.Android/obj/Release/110/android/src/crc64350623dcb797cc38/AndroidHttpClientAdapter.java" bodystart="47" bodyend="50"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc64350623dcb797cc38_1_1_android_http_client_adapter_1a0263e2c5d1c0a0ce53cd844a87df875a" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void crc64350623dcb797cc38.AndroidHttpClientAdapter.monodroidAddReference</definition>
+        <argsstring>(java.lang.Object obj)</argsstring>
+        <name>monodroidAddReference</name>
+        <param>
+          <type>java.lang.Object</type>
+          <declname>obj</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/110/android/src/crc64350623dcb797cc38/AndroidHttpClientAdapter.java" line="55" column="13" bodyfile="Application Green Quake.Android/obj/Release/110/android/src/crc64350623dcb797cc38/AndroidHttpClientAdapter.java" bodystart="55" bodyend="60"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc64350623dcb797cc38_1_1_android_http_client_adapter_1a1453c264cbb9cefbb3c66aef880c415d" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void crc64350623dcb797cc38.AndroidHttpClientAdapter.monodroidClearReferences</definition>
+        <argsstring>()</argsstring>
+        <name>monodroidClearReferences</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/110/android/src/crc64350623dcb797cc38/AndroidHttpClientAdapter.java" line="62" column="13" bodyfile="Application Green Quake.Android/obj/Release/110/android/src/crc64350623dcb797cc38/AndroidHttpClientAdapter.java" bodystart="62" bodyend="66"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="private-func">
+      <memberdef kind="function" id="classcrc64350623dcb797cc38_1_1_android_http_client_adapter_1ac67481e13d68673e2b6799347d899400" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>native com.microsoft.appcenter.http.ServiceCall</type>
+        <definition>native com.microsoft.appcenter.http.ServiceCall crc64350623dcb797cc38.AndroidHttpClientAdapter.n_callAsync</definition>
+        <argsstring>(java.lang.String p0, java.lang.String p1, java.util.Map p2, com.microsoft.appcenter.http.HttpClient.CallTemplate p3, com.microsoft.appcenter.http.ServiceCallback p4)</argsstring>
+        <name>n_callAsync</name>
+        <param>
+          <type>java.lang.String</type>
+          <declname>p0</declname>
+        </param>
+        <param>
+          <type>java.lang.String</type>
+          <declname>p1</declname>
+        </param>
+        <param>
+          <type>java.util.Map</type>
+          <declname>p2</declname>
+        </param>
+        <param>
+          <type>com.microsoft.appcenter.http.HttpClient.CallTemplate</type>
+          <declname>p3</declname>
+        </param>
+        <param>
+          <type>com.microsoft.appcenter.http.ServiceCallback</type>
+          <declname>p4</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/110/android/src/crc64350623dcb797cc38/AndroidHttpClientAdapter.java" line="36" column="53"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc64350623dcb797cc38_1_1_android_http_client_adapter_1a59ebe65c00ee0ba3a6b8439fa2ddc9d1" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>native void</type>
+        <definition>native void crc64350623dcb797cc38.AndroidHttpClientAdapter.n_reopen</definition>
+        <argsstring>()</argsstring>
+        <name>n_reopen</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/110/android/src/crc64350623dcb797cc38/AndroidHttpClientAdapter.java" line="44" column="21"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc64350623dcb797cc38_1_1_android_http_client_adapter_1a91489b3be93f3e744a124382c6d0416e" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>native void</type>
+        <definition>native void crc64350623dcb797cc38.AndroidHttpClientAdapter.n_close</definition>
+        <argsstring>()</argsstring>
+        <name>n_close</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Debug/110/android/src/crc64350623dcb797cc38/AndroidHttpClientAdapter.java" line="52" column="21"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc64350623dcb797cc38_1_1_android_http_client_adapter_1ac67481e13d68673e2b6799347d899400" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>native com.microsoft.appcenter.http.ServiceCall</type>
+        <definition>native com.microsoft.appcenter.http.ServiceCall crc64350623dcb797cc38.AndroidHttpClientAdapter.n_callAsync</definition>
+        <argsstring>(java.lang.String p0, java.lang.String p1, java.util.Map p2, com.microsoft.appcenter.http.HttpClient.CallTemplate p3, com.microsoft.appcenter.http.ServiceCallback p4)</argsstring>
+        <name>n_callAsync</name>
+        <param>
+          <type>java.lang.String</type>
+          <declname>p0</declname>
+        </param>
+        <param>
+          <type>java.lang.String</type>
+          <declname>p1</declname>
+        </param>
+        <param>
+          <type>java.util.Map</type>
+          <declname>p2</declname>
+        </param>
+        <param>
+          <type>com.microsoft.appcenter.http.HttpClient.CallTemplate</type>
+          <declname>p3</declname>
+        </param>
+        <param>
+          <type>com.microsoft.appcenter.http.ServiceCallback</type>
+          <declname>p4</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/110/android/src/crc64350623dcb797cc38/AndroidHttpClientAdapter.java" line="36" column="53"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc64350623dcb797cc38_1_1_android_http_client_adapter_1a59ebe65c00ee0ba3a6b8439fa2ddc9d1" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>native void</type>
+        <definition>native void crc64350623dcb797cc38.AndroidHttpClientAdapter.n_reopen</definition>
+        <argsstring>()</argsstring>
+        <name>n_reopen</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/110/android/src/crc64350623dcb797cc38/AndroidHttpClientAdapter.java" line="44" column="21"/>
+      </memberdef>
+      <memberdef kind="function" id="classcrc64350623dcb797cc38_1_1_android_http_client_adapter_1a91489b3be93f3e744a124382c6d0416e" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>native void</type>
+        <definition>native void crc64350623dcb797cc38.AndroidHttpClientAdapter.n_close</definition>
+        <argsstring>()</argsstring>
+        <name>n_close</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.Android/obj/Release/110/android/src/crc64350623dcb797cc38/AndroidHttpClientAdapter.java" line="52" column="21"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <inheritancegraph>
+      <node id="1">
+        <label>crc64350623dcb797cc38.AndroidHttpClientAdapter</label>
+        <link refid="classcrc64350623dcb797cc38_1_1_android_http_client_adapter"/>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+        <childnode refid="3" relation="public-inheritance">
+        </childnode>
+        <childnode refid="4" relation="public-inheritance">
+        </childnode>
+        <childnode refid="5" relation="public-inheritance">
+        </childnode>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+        <childnode refid="3" relation="public-inheritance">
+        </childnode>
+        <childnode refid="6" relation="public-inheritance">
+        </childnode>
+        <childnode refid="7" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="7">
+        <label>java.io.Closeable</label>
+      </node>
+      <node id="6">
+        <label>com.microsoft.appcenter.http.HttpClient</label>
+      </node>
+      <node id="3">
+        <label>mono.android.IGCUserPeer</label>
+      </node>
+      <node id="2">
+        <label>java.lang.Object</label>
+      </node>
+      <node id="5">
+        <label>java::io::Closeable</label>
+      </node>
+      <node id="4">
+        <label>com::microsoft::appcenter::http::HttpClient</label>
+      </node>
+    </inheritancegraph>
+    <collaborationgraph>
+      <node id="1">
+        <label>crc64350623dcb797cc38.AndroidHttpClientAdapter</label>
+        <link refid="classcrc64350623dcb797cc38_1_1_android_http_client_adapter"/>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+        <childnode refid="3" relation="public-inheritance">
+        </childnode>
+        <childnode refid="4" relation="public-inheritance">
+        </childnode>
+        <childnode refid="5" relation="public-inheritance">
+        </childnode>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+        <childnode refid="3" relation="public-inheritance">
+        </childnode>
+        <childnode refid="6" relation="public-inheritance">
+        </childnode>
+        <childnode refid="7" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="7">
+        <label>java.io.Closeable</label>
+      </node>
+      <node id="6">
+        <label>com.microsoft.appcenter.http.HttpClient</label>
+      </node>
+      <node id="3">
+        <label>mono.android.IGCUserPeer</label>
+      </node>
+      <node id="2">
+        <label>java.lang.Object</label>
+      </node>
+      <node id="5">
+        <label>java::io::Closeable</label>
+      </node>
+      <node id="4">
+        <label>com::microsoft::appcenter::http::HttpClient</label>
+      </node>
+    </collaborationgraph>
+    <location file="Application Green Quake.Android/obj/Debug/110/android/src/crc64350623dcb797cc38/AndroidHttpClientAdapter.java" line="4" column="7" bodyfile="Application Green Quake.Android/obj/Debug/110/android/src/crc64350623dcb797cc38/AndroidHttpClientAdapter.java" bodystart="10" bodyend="67"/>
+    <listofallmembers>
+      <member refid="classcrc64350623dcb797cc38_1_1_android_http_client_adapter_1a7beebd154c1e8c15765a83121b60f9de" prot="package" virt="non-virtual"><scope>crc64350623dcb797cc38::AndroidHttpClientAdapter</scope><name>[static initializer]</name></member>
+      <member refid="classcrc64350623dcb797cc38_1_1_android_http_client_adapter_1a7beebd154c1e8c15765a83121b60f9de" prot="package" virt="non-virtual"><scope>crc64350623dcb797cc38::AndroidHttpClientAdapter</scope><name>[static initializer]</name></member>
+      <member refid="classcrc64350623dcb797cc38_1_1_android_http_client_adapter_1ac821a4cb9e60dd7020a4fc02c111efb2" prot="public" virt="non-virtual"><scope>crc64350623dcb797cc38::AndroidHttpClientAdapter</scope><name>__md_methods</name></member>
+      <member refid="classcrc64350623dcb797cc38_1_1_android_http_client_adapter_1a8be04b9a1ce43cc393bc380e89253d67" prot="public" virt="non-virtual"><scope>crc64350623dcb797cc38::AndroidHttpClientAdapter</scope><name>AndroidHttpClientAdapter</name></member>
+      <member refid="classcrc64350623dcb797cc38_1_1_android_http_client_adapter_1a8be04b9a1ce43cc393bc380e89253d67" prot="public" virt="non-virtual"><scope>crc64350623dcb797cc38::AndroidHttpClientAdapter</scope><name>AndroidHttpClientAdapter</name></member>
+      <member refid="classcrc64350623dcb797cc38_1_1_android_http_client_adapter_1a12138c7565f5ac3527de4a24dd097743" prot="public" virt="non-virtual"><scope>crc64350623dcb797cc38::AndroidHttpClientAdapter</scope><name>callAsync</name></member>
+      <member refid="classcrc64350623dcb797cc38_1_1_android_http_client_adapter_1a12138c7565f5ac3527de4a24dd097743" prot="public" virt="non-virtual"><scope>crc64350623dcb797cc38::AndroidHttpClientAdapter</scope><name>callAsync</name></member>
+      <member refid="classcrc64350623dcb797cc38_1_1_android_http_client_adapter_1a64303b7f0834deda5f968a24a8653651" prot="public" virt="non-virtual"><scope>crc64350623dcb797cc38::AndroidHttpClientAdapter</scope><name>close</name></member>
+      <member refid="classcrc64350623dcb797cc38_1_1_android_http_client_adapter_1a64303b7f0834deda5f968a24a8653651" prot="public" virt="non-virtual"><scope>crc64350623dcb797cc38::AndroidHttpClientAdapter</scope><name>close</name></member>
+      <member refid="classcrc64350623dcb797cc38_1_1_android_http_client_adapter_1a0263e2c5d1c0a0ce53cd844a87df875a" prot="public" virt="non-virtual"><scope>crc64350623dcb797cc38::AndroidHttpClientAdapter</scope><name>monodroidAddReference</name></member>
+      <member refid="classcrc64350623dcb797cc38_1_1_android_http_client_adapter_1a0263e2c5d1c0a0ce53cd844a87df875a" prot="public" virt="non-virtual"><scope>crc64350623dcb797cc38::AndroidHttpClientAdapter</scope><name>monodroidAddReference</name></member>
+      <member refid="classcrc64350623dcb797cc38_1_1_android_http_client_adapter_1a1453c264cbb9cefbb3c66aef880c415d" prot="public" virt="non-virtual"><scope>crc64350623dcb797cc38::AndroidHttpClientAdapter</scope><name>monodroidClearReferences</name></member>
+      <member refid="classcrc64350623dcb797cc38_1_1_android_http_client_adapter_1a1453c264cbb9cefbb3c66aef880c415d" prot="public" virt="non-virtual"><scope>crc64350623dcb797cc38::AndroidHttpClientAdapter</scope><name>monodroidClearReferences</name></member>
+      <member refid="classcrc64350623dcb797cc38_1_1_android_http_client_adapter_1ac67481e13d68673e2b6799347d899400" prot="private" virt="non-virtual"><scope>crc64350623dcb797cc38::AndroidHttpClientAdapter</scope><name>n_callAsync</name></member>
+      <member refid="classcrc64350623dcb797cc38_1_1_android_http_client_adapter_1ac67481e13d68673e2b6799347d899400" prot="private" virt="non-virtual"><scope>crc64350623dcb797cc38::AndroidHttpClientAdapter</scope><name>n_callAsync</name></member>
+      <member refid="classcrc64350623dcb797cc38_1_1_android_http_client_adapter_1a91489b3be93f3e744a124382c6d0416e" prot="private" virt="non-virtual"><scope>crc64350623dcb797cc38::AndroidHttpClientAdapter</scope><name>n_close</name></member>
+      <member refid="classcrc64350623dcb797cc38_1_1_android_http_client_adapter_1a91489b3be93f3e744a124382c6d0416e" prot="private" virt="non-virtual"><scope>crc64350623dcb797cc38::AndroidHttpClientAdapter</scope><name>n_close</name></member>
+      <member refid="classcrc64350623dcb797cc38_1_1_android_http_client_adapter_1a59ebe65c00ee0ba3a6b8439fa2ddc9d1" prot="private" virt="non-virtual"><scope>crc64350623dcb797cc38::AndroidHttpClientAdapter</scope><name>n_reopen</name></member>
+      <member refid="classcrc64350623dcb797cc38_1_1_android_http_client_adapter_1a59ebe65c00ee0ba3a6b8439fa2ddc9d1" prot="private" virt="non-virtual"><scope>crc64350623dcb797cc38::AndroidHttpClientAdapter</scope><name>n_reopen</name></member>
+      <member refid="classcrc64350623dcb797cc38_1_1_android_http_client_adapter_1a7b9c2acaa681fe0b50b1ba4bb8060640" prot="private" virt="non-virtual"><scope>crc64350623dcb797cc38::AndroidHttpClientAdapter</scope><name>refList</name></member>
+      <member refid="classcrc64350623dcb797cc38_1_1_android_http_client_adapter_1a34e9d7d9bb2c34606d4b3048ad63097e" prot="public" virt="non-virtual"><scope>crc64350623dcb797cc38::AndroidHttpClientAdapter</scope><name>reopen</name></member>
+      <member refid="classcrc64350623dcb797cc38_1_1_android_http_client_adapter_1a34e9d7d9bb2c34606d4b3048ad63097e" prot="public" virt="non-virtual"><scope>crc64350623dcb797cc38::AndroidHttpClientAdapter</scope><name>reopen</name></member>
+    </listofallmembers>
+  </compounddef>
+</doxygen>

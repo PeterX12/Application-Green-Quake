@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.9.1" xml:lang="en-US">
+  <compounddef id="class_application___green___quake_1_1i_o_s_1_1_app_delegate" kind="class" language="C#" prot="public">
+    <compoundname>Application_Green_Quake::iOS::AppDelegate</compoundname>
+    <basecompoundref prot="public" virt="non-virtual">global.XamarinForms.Platform.iOS.FormsApplicationDelegate</basecompoundref>
+      <sectiondef kind="public-func">
+      <memberdef kind="function" id="class_application___green___quake_1_1i_o_s_1_1_app_delegate_1a15edd0d9c88bced960aff6773e0ae56b" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>override bool</type>
+        <definition>override bool Application_Green_Quake.iOS.AppDelegate.FinishedLaunching</definition>
+        <argsstring>(UIApplication app, NSDictionary options)</argsstring>
+        <name>FinishedLaunching</name>
+        <param>
+          <type>UIApplication</type>
+          <declname>app</declname>
+        </param>
+        <param>
+          <type>NSDictionary</type>
+          <declname>options</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.iOS/AppDelegate.cs" line="20" column="30" bodyfile="Application Green Quake.iOS/AppDelegate.cs" bodystart="20" bodyend="29"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <inheritancegraph>
+      <node id="1">
+        <label>Application_Green_Quake.iOS.AppDelegate</label>
+        <link refid="class_application___green___quake_1_1i_o_s_1_1_app_delegate"/>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="2">
+        <label>global::XamarinForms::Platform::iOS::FormsApplicationDelegate</label>
+      </node>
+    </inheritancegraph>
+    <collaborationgraph>
+      <node id="1">
+        <label>Application_Green_Quake.iOS.AppDelegate</label>
+        <link refid="class_application___green___quake_1_1i_o_s_1_1_app_delegate"/>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="2">
+        <label>global::XamarinForms::Platform::iOS::FormsApplicationDelegate</label>
+      </node>
+    </collaborationgraph>
+    <location file="Application Green Quake.iOS/AppDelegate.cs" line="11" column="19" bodyfile="Application Green Quake.iOS/AppDelegate.cs" bodystart="12" bodyend="30"/>
+    <listofallmembers>
+      <member refid="class_application___green___quake_1_1i_o_s_1_1_app_delegate_1a15edd0d9c88bced960aff6773e0ae56b" prot="public" virt="non-virtual"><scope>Application_Green_Quake::iOS::AppDelegate</scope><name>FinishedLaunching</name></member>
+    </listofallmembers>
+  </compounddef>
+</doxygen>

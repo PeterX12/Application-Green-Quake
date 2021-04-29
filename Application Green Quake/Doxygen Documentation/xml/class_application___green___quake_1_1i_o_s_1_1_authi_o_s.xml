@@ -1,0 +1,118 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.9.1" xml:lang="en-US">
+  <compounddef id="class_application___green___quake_1_1i_o_s_1_1_authi_o_s" kind="class" language="C#" prot="public">
+    <compoundname>Application_Green_Quake::iOS::AuthiOS</compoundname>
+    <basecompoundref refid="interface_application___green___quake_1_1_i_auth" prot="public" virt="non-virtual">Application_Green_Quake.IAuth</basecompoundref>
+      <sectiondef kind="public-func">
+      <memberdef kind="function" id="class_application___green___quake_1_1i_o_s_1_1_authi_o_s_1a1a42426f18dad1fb8c55548b7e9edc9d" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>bool</type>
+        <definition>bool Application_Green_Quake.iOS.AuthiOS.IsSignIn</definition>
+        <argsstring>()</argsstring>
+        <name>IsSignIn</name>
+        <reimplements refid="interface_application___green___quake_1_1_i_auth_1aeb37e28a39f6a8b339ddc53dbf3b8c8a">IsSignIn</reimplements>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.iOS/AuthiOS.cs" line="13" column="21" bodyfile="Application Green Quake.iOS/AuthiOS.cs" bodystart="13" bodyend="17"/>
+      </memberdef>
+      <memberdef kind="function" id="class_application___green___quake_1_1i_o_s_1_1_authi_o_s_1a4755d73463217e726dfd41cd97b5d06e" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>async Task&lt; string &gt;</type>
+        <definition>async Task&lt;string&gt; Application_Green_Quake.iOS.AuthiOS.LoginWithEmailAndPassword</definition>
+        <argsstring>(string email, string password)</argsstring>
+        <name>LoginWithEmailAndPassword</name>
+        <reimplements refid="interface_application___green___quake_1_1_i_auth_1a3f7676e4f6afbe547fb36d74b2c2edf9">LoginWithEmailAndPassword</reimplements>
+        <param>
+          <type>string</type>
+          <declname>email</declname>
+        </param>
+        <param>
+          <type>string</type>
+          <declname>password</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.iOS/AuthiOS.cs" line="19" column="27" bodyfile="Application Green Quake.iOS/AuthiOS.cs" bodystart="19" bodyend="30"/>
+      </memberdef>
+      <memberdef kind="function" id="class_application___green___quake_1_1i_o_s_1_1_authi_o_s_1a7b02b2e716c5b5d005e1b34cfc20d073" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>bool</type>
+        <definition>bool Application_Green_Quake.iOS.AuthiOS.SignOut</definition>
+        <argsstring>()</argsstring>
+        <name>SignOut</name>
+        <reimplements refid="interface_application___green___quake_1_1_i_auth_1ae4297be973da95d7805ccd374804ef83">SignOut</reimplements>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.iOS/AuthiOS.cs" line="32" column="21" bodyfile="Application Green Quake.iOS/AuthiOS.cs" bodystart="32" bodyend="43"/>
+      </memberdef>
+      <memberdef kind="function" id="class_application___green___quake_1_1i_o_s_1_1_authi_o_s_1ac6efad4f45fbf1e208552a716e153382" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>async Task&lt; string &gt;</type>
+        <definition>async Task&lt;string&gt; Application_Green_Quake.iOS.AuthiOS.SignUpWithEmailAndPassword</definition>
+        <argsstring>(string email, string password)</argsstring>
+        <name>SignUpWithEmailAndPassword</name>
+        <reimplements refid="interface_application___green___quake_1_1_i_auth_1a1234948f57f380107d1860299ff25c0c">SignUpWithEmailAndPassword</reimplements>
+        <param>
+          <type>string</type>
+          <declname>email</declname>
+        </param>
+        <param>
+          <type>string</type>
+          <declname>password</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Application Green Quake.iOS/AuthiOS.cs" line="45" column="27" bodyfile="Application Green Quake.iOS/AuthiOS.cs" bodystart="45" bodyend="55"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <inheritancegraph>
+      <node id="1">
+        <label>Application_Green_Quake.iOS.AuthiOS</label>
+        <link refid="class_application___green___quake_1_1i_o_s_1_1_authi_o_s"/>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="2">
+        <label>IAuth</label>
+        <link refid="interface_application___green___quake_1_1_i_auth"/>
+      </node>
+    </inheritancegraph>
+    <collaborationgraph>
+      <node id="1">
+        <label>Application_Green_Quake.iOS.AuthiOS</label>
+        <link refid="class_application___green___quake_1_1i_o_s_1_1_authi_o_s"/>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="2">
+        <label>IAuth</label>
+        <link refid="interface_application___green___quake_1_1_i_auth"/>
+      </node>
+    </collaborationgraph>
+    <location file="Application Green Quake.iOS/AuthiOS.cs" line="11" column="11" bodyfile="Application Green Quake.iOS/AuthiOS.cs" bodystart="12" bodyend="56"/>
+    <listofallmembers>
+      <member refid="interface_application___green___quake_1_1_i_auth_1afe8605d127f9305f37a2e7c542fc0b42" prot="public" virt="non-virtual"><scope>Application_Green_Quake::iOS::AuthiOS</scope><name>GetUid</name></member>
+      <member refid="class_application___green___quake_1_1i_o_s_1_1_authi_o_s_1a1a42426f18dad1fb8c55548b7e9edc9d" prot="public" virt="non-virtual"><scope>Application_Green_Quake::iOS::AuthiOS</scope><name>IsSignIn</name></member>
+      <member refid="class_application___green___quake_1_1i_o_s_1_1_authi_o_s_1a4755d73463217e726dfd41cd97b5d06e" prot="public" virt="non-virtual"><scope>Application_Green_Quake::iOS::AuthiOS</scope><name>LoginWithEmailAndPassword</name></member>
+      <member refid="interface_application___green___quake_1_1_i_auth_1ab04ab7dc69464055c456dd936d484f5e" prot="public" virt="non-virtual"><scope>Application_Green_Quake::iOS::AuthiOS</scope><name>ResetPassword</name></member>
+      <member refid="class_application___green___quake_1_1i_o_s_1_1_authi_o_s_1a7b02b2e716c5b5d005e1b34cfc20d073" prot="public" virt="non-virtual"><scope>Application_Green_Quake::iOS::AuthiOS</scope><name>SignOut</name></member>
+      <member refid="class_application___green___quake_1_1i_o_s_1_1_authi_o_s_1ac6efad4f45fbf1e208552a716e153382" prot="public" virt="non-virtual"><scope>Application_Green_Quake::iOS::AuthiOS</scope><name>SignUpWithEmailAndPassword</name></member>
+    </listofallmembers>
+  </compounddef>
+</doxygen>

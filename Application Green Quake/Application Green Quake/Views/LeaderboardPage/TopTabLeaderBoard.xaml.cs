@@ -174,7 +174,7 @@ namespace Application_Green_Quake.Views.LeaderboardPage
                         username = item.username,
                         points = item.points,
                         nation = item.nation,
-                        bio = item.nation,
+                        bio = item.bio,
                         rank = item.rank,
                         image = item.image
                     }).ToList().GetRange(min, count);
@@ -280,7 +280,7 @@ namespace Application_Green_Quake.Views.LeaderboardPage
                     username = item.username,
                     points = item.points,
                     nation = item.nation,
-                    bio = item.nation,
+                    bio = item.bio,
                     rank = item.rank,
                     image = item.image,
                     uid = item.uid

@@ -48,7 +48,7 @@
                        BackgroundColor="#50C878"
                        Margin="60,0,60,0"/>
                 <Label x:Name="PasswordErrorLabel"
-                       Text="Password must be at least 8 chars long and contain an upper case letter, lower case letter and a number."
+                       Text="Password must be at least 8 chars long and contain an upper case letter, lower case letter, a special character and a number."
                        TextColor="Black"
                        HorizontalTextAlignment="Center"/>
             </StackLayout>

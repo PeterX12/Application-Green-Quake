@@ -9,7 +9,7 @@ Date: 29/04/2021
 Email: c00228946@itcarlow.ie.
 
 Description: 
-1. This repository contains The Entire Green Quake application solution that has all the code and resources that as used to create Green Quake.
+1. This repository contains The Entire Green Quake application solution that has all the code and resources that are used to create Green Quake.
 2. It also contains the "Docs" folder which contains all the documentation that was submitted for this project in pdf and power point format.
 3. It also contains all the Doxygen Documentation in the "Doxygen Documentation Folder".
 4. It contains the Doxyfile which is the configuration file for doxygen for this project.

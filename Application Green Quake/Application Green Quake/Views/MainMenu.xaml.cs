@@ -72,6 +72,7 @@ namespace Application_Green_Quake.Views
             await Task.Delay(2000);
             //Call functions to load and set data.
             GetData data = new GetData();
+            data.SetData();
             data.SetLvl();
             UserDialogs.Instance.HideLoading();
 
